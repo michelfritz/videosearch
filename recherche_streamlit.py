@@ -6,6 +6,12 @@ import pandas as pd
 import numpy as np
 import pickle
 import openai
+def embed_openai(text: str):
+    response = openai.embeddings.create(
+        input=[text],
+        model="text-embedding-3-small"
+    )
+    return np.array(response.data[0].embedding, dtype=np.float32)
 
 st.set_page_config(page_title="Recherche IA dans transcription", layout="wide")
 
@@ -15,9 +21,9 @@ openai.api_key = os.getenv("sk-proj-4rGXnW-iw8-fExdqlEgAxk08uQTdQQD0QwlgUUnCf8vX
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_transcription.csv")
-    with open("vecteurs.pkl", "rb") as f:
+    with open("vecteurs_openai.pkl", "rb") as f:
         vecteurs = pickle.load(f)
-    return df, np.array(vecteurs)
+    return df, vecteurs
 
 def embed_openai(text):
     response = openai.embeddings.create(
