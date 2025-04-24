@@ -9,12 +9,10 @@ from sentence_transformers import SentenceTransformer
 
 st.set_page_config(page_title="Recherche IA dans transcription", layout="wide")
 
-# Chargement du modèle avec cache
 @st.cache_resource
 def load_model():
     return SentenceTransformer("all-MiniLM-L6-v2")
 
-# Chargement des données avec cache
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_transcription.csv")
@@ -22,18 +20,15 @@ def charger_donnees():
         vecteurs = pickle.load(f)
     return df, vecteurs
 
-# Fonction d'embedding
 def embed(texts, model):
     return model.encode(texts, convert_to_numpy=True)
 
-# Fonction de recherche par similarité cosinus
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5):
-    vecteur_query = vecteur_query[0]  # Corrige la forme (shape)
+    vecteur_query = vecteur_query.squeeze()  # ✅ Corrige la forme du vecteur
     similarities = np.dot(vecteurs, vecteur_query)
     top_k_indices = np.argsort(similarities)[::-1][:top_k]
     return top_k_indices, similarities[top_k_indices]
 
-# Interface utilisateur
 st.title("🔍 Recherche intelligente dans la transcription")
 
 query = st.text_input("🧠 Que veux-tu savoir ?", "")
