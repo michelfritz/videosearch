@@ -1,40 +1,51 @@
+import os
+os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
+
+import streamlit as st
 import pandas as pd
-from sentence_transformers import SentenceTransformer
+import numpy as np
 import pickle
-from tqdm import tqdm
+from sentence_transformers import SentenceTransformer
 
-# Chargement du modèle de vectorisation
-print("🔍 Chargement du modèle...")
-model = SentenceTransformer("all-MiniLM-L6-v2")
+st.set_page_config(page_title="Recherche IA dans transcription", layout="wide")
 
-# Chargement du fichier CSV
-print("📄 Chargement du fichier CSV...")
-try:
-    df = pd.read_csv("blocs_de_transcription.csv")
-except FileNotFoundError:
-    print("❌ Erreur : fichier blocs_de_transcription.csv introuvable.")
-    exit()
+# Cache les ressources
+@st.cache_resource
+def load_model():
+    return SentenceTransformer("all-MiniLM-L6-v2")
 
-# Vérification des colonnes attendues
-required_columns = {"start", "end", "text"}
-if not required_columns.issubset(df.columns):
-    print(f"❌ Erreur : le fichier CSV doit contenir les colonnes : {required_columns}")
-    print(f"Colonnes trouvées : {df.columns.tolist()}")
-    exit()
+@st.cache_data
+def charger_donnees():
+    df = pd.read_csv("blocs_transcription.csv")
+    with open("vecteurs.pkl", "rb") as f:
+        vecteurs = pickle.load(f)
+    return df, vecteurs
 
-# Nettoyage des textes
-df["text"] = df["text"].fillna("").astype(str)
+# Embedding
+def embed(texts, model):
+    return model.encode(texts, convert_to_numpy=True)
 
-# Vectorisation
-print("🧠 Vectorisation des blocs...")
-vectors = model.encode(df["text"].tolist(), show_progress_bar=True)
+# Similarité cosinus
+def rechercher_similaires(vecteur_query, vecteurs, top_k=5):
+    similarities = np.dot(vecteurs, vecteur_query.T)
+    top_k_indices = np.argsort(similarities)[::-1][:top_k]
+    return top_k_indices, similarities[top_k_indices]
 
-# Sauvegarde dans un fichier .pkl avec métadonnées (start, end, speaker, text)
-print("💾 Sauvegarde des vecteurs...")
-with open("vecteurs.pkl", "wb") as f:
-    pickle.dump({
-        "vectors": vectors,
-        "metadata": df[["start", "end", "speaker", "text"]].to_dict(orient="records")
-    }, f)
+# Interface Streamlit
+st.title("🔍 Recherche intelligente dans la transcription")
 
-print("✅ Fichier vecteurs.pkl généré avec succès !")
+query = st.text_input("🧠 Que veux-tu savoir ?", "")
+
+if query:
+    with st.spinner("Chargement du modèle et des données..."):
+        model = load_model()
+        df, vecteurs = charger_donnees()
+        vecteur_query = embed([query], model)
+        indices, scores = rechercher_similaires(vecteur_query, vecteurs)
+
+    st.markdown("### Résultats pertinents :")
+    for idx, score in zip(indices, scores):
+        bloc = df.iloc[idx]
+        st.markdown(f"**⏱️ Timestamp**: `{bloc['debut']}`")
+        st.markdown(f"**💬 Texte**: {bloc['texte']}")
+        st.markdown("---")
