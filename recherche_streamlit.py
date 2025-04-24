@@ -16,7 +16,7 @@ def embed_openai(text: str):
 st.set_page_config(page_title="Recherche IA dans transcription", layout="wide")
 
 # 🔐 Clé API OpenAI (à mettre en variable d’environnement dans Streamlit Cloud aussi !)
-openai.api_key = os.getenv("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")
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 @st.cache_data
 def charger_donnees():
