@@ -10,7 +10,7 @@ import openai
 st.set_page_config(page_title="Recherche IA dans transcription", layout="wide")
 
 # 🔐 Clé API OpenAI (à mettre en variable d’environnement dans Streamlit Cloud aussi !)
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("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")
 
 @st.cache_data
 def charger_donnees():
