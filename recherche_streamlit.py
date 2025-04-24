@@ -43,6 +43,6 @@ if query:
     st.markdown("### 🎯 Résultats pertinents :")
     for idx, score in zip(indices, scores):
         bloc = df.iloc[idx]
-        st.markdown(f"**⏱️ Timestamp**: `{bloc['debut']}`")
-        st.markdown(f"**💬 Texte**: {bloc['texte']}")
+        st.markdown(f"**⏱️ Timestamp**: `{bloc['start']}`")
+        st.markdown(f"**💬 Texte**: {bloc['text']}")
         st.markdown("---")
