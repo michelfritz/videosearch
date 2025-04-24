@@ -14,6 +14,8 @@ def embed_openai(text: str):
     return np.array(response.data[0].embedding, dtype=np.float32)
 
 st.set_page_config(page_title="Recherche IA dans transcription", layout="wide")
+st.markdown(f"🔐 Clé API chargée ? {'✅' if 'OPENAI_API_KEY' in st.secrets else '❌ NON'}")
+
 
 # 🔐 Clé API OpenAI (à mettre en variable d’environnement dans Streamlit Cloud aussi !)
 openai.api_key = st.secrets["OPENAI_API_KEY"]
