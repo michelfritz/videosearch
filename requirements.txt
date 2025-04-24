@@ -1,5 +1,4 @@
 streamlit==1.31.1
 pandas
 numpy
-sentence-transformers
-transformers==4.37.2
+openai

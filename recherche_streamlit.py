@@ -5,56 +5,51 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-from sentence_transformers import SentenceTransformer
+import openai
 
 st.set_page_config(page_title="Recherche IA dans transcription", layout="wide")
 
-@st.cache_resource
-def load_model():
-    return SentenceTransformer("all-MiniLM-L6-v2")
+# 🔐 Clé API OpenAI (à mettre en variable d’environnement dans Streamlit Cloud aussi !)
+openai.api_key = os.getenv("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")
 
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_transcription.csv")
     with open("vecteurs.pkl", "rb") as f:
         vecteurs = pickle.load(f)
-    return df, vecteurs
+    return df, np.array(vecteurs)
 
-def embed(texts, model):
-    return model.encode(texts, convert_to_numpy=True)
+def embed_openai(text):
+    response = openai.embeddings.create(
+        input=text,
+        model="text-embedding-3-small"
+    )
+    return np.array(response.data[0].embedding)
 
-def rechercher_similaires(vecteur_query, vecteurs, seuil=0.3, top_k=10):
-    vecteur_query = vecteur_query.squeeze()
+def rechercher_similaires(vecteur_query, vecteurs, top_k=5):
     similarities = np.dot(vecteurs, vecteur_query)
     top_k_indices = np.argsort(similarities)[::-1][:top_k]
-    résultats_filtrés = [(i, similarities[i]) for i in top_k_indices if similarities[i] >= seuil]
-    score_max = similarities[top_k_indices[0]] if len(top_k_indices) > 0 else 0
-    return résultats_filtrés, score_max
+    return top_k_indices, similarities[top_k_indices]
 
+# 🔍 UI
 st.title("🔍 Recherche intelligente dans la transcription")
 
+score_threshold = st.slider("Filtrer les résultats par score de similarité", 0.0, 1.0, 0.7, 0.01)
 query = st.text_input("🧠 Que veux-tu savoir ?", "")
-seuil = st.slider("🎚️ Seuil de précision (plus élevé = plus exigeant)", 0.0, 1.0, 0.3, 0.01)
 
 if query:
-    with st.spinner("Chargement du modèle et des données..."):
-        model = load_model()
+    with st.spinner("Chargement..."):
         df, vecteurs = charger_donnees()
-        vecteur_query = embed([query], model)
-        résultats, score_max = rechercher_similaires(vecteur_query, vecteurs, seuil=seuil)
+        vecteur_query = embed_openai(query)
+        indices, scores = rechercher_similaires(vecteur_query, vecteurs)
 
-    st.markdown(f"**🔎 Score de similarité maximum obtenu :** `{score_max:.2f}`")
-    
-    if not résultats:
-        st.warning("Aucun résultat trouvé au-dessus du seuil. Diminue le seuil pour élargir la recherche.")
-    else:
-        st.markdown("### 🎯 Résultats pertinents :")
-        for idx, score in résultats:
-            bloc = df.iloc[idx]
-            start_time = int(float(bloc["start"]))
-            video_url = f"https://www.youtube.com/embed/t21LM4CXaqE?start={start_time}&autoplay=0"
-            
-            with st.expander(f"⏱️ {start_time}s — 💬 {bloc['text'][:60]}..."):
-                st.markdown(f"**🧠 Similarité :** `{score:.2f}`")
-                st.markdown(f"**📝 Texte complet :** {bloc['text']}")
-                st.components.v1.iframe(video_url, height=315)
+    st.markdown("### 🎯 Résultats pertinents :")
+    for idx, score in zip(indices, scores):
+        if score < score_threshold:
+            continue
+        bloc = df.iloc[idx]
+        start_time = int(float(bloc["start"]))
+        video_url = f"https://www.youtube.com/embed/t21LM4CXaqE?start={start_time}&autoplay=0"
+        with st.expander(f"⏱️ {start_time}s — 💬 {bloc['text'][:60]}... (score: {score:.2f})"):
+            st.markdown(f"**Texte complet :** {bloc['text']}")
+            st.components.v1.iframe(video_url, height=315)
