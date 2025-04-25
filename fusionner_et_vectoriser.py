@@ -1,22 +1,22 @@
-
 import pandas as pd
 import pickle
 import openai
 import os
 from tqdm import tqdm
 import glob
+from pathlib import Path  # ✅ Ajout important
 
 # 🔑 Chargement de ta clé API OpenAI depuis l'environnement
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# 📚 Charger tous les blocs CSV
-bloc_files = glob.glob("blocs_*.csv")
+# 📚 Charger tous les blocs CSV depuis le dossier blocs/
+bloc_files = glob.glob("blocs/*.csv")
 
 dfs = []
 for f in bloc_files:
     df = pd.read_csv(f)
     # Ajouter une colonne pour le nom de la vidéo
-    video_name = f.split("blocs_")[-1].split(".csv")[0]
+    video_name = Path(f).stem.replace("_blocs", "")
     df["fichier"] = video_name
     dfs.append(df)
 
