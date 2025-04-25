@@ -6,58 +6,63 @@ import pandas as pd
 import numpy as np
 import pickle
 import openai
-def embed_openai(text: str):
+
+# 🔐 Clé API OpenAI
+openai.api_key = st.secrets["OPENAI_API_KEY"]
+
+st.set_page_config(page_title="Recherche IA multi-vidéos", layout="wide")
+
+# Embedding via OpenAI
+def embed_openai(text):
     response = openai.embeddings.create(
         input=[text],
         model="text-embedding-3-small"
     )
-    return np.array(response.data[0].embedding, dtype=np.float32)
-
-st.set_page_config(page_title="Recherche IA dans transcription", layout="wide")
-st.markdown(f"🔐 Clé API chargée ? {'✅' if 'OPENAI_API_KEY' in st.secrets else '❌ NON'}")
-
-
-# 🔐 Clé API OpenAI (à mettre en variable d’environnement dans Streamlit Cloud aussi !)
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+    return np.array(response.data[0].embedding)
 
 @st.cache_data
 def charger_donnees():
-    df = pd.read_csv("blocs_transcription.csv")
-    with open("vecteurs_openai.pkl", "rb") as f:
+    df = pd.read_csv("blocs_fusionnes.csv")
+    with open("vecteurs.pkl", "rb") as f:
         vecteurs = pickle.load(f)
     return df, vecteurs
 
-def embed_openai(text):
-    response = openai.embeddings.create(
-        input=text,
-        model="text-embedding-3-small"
-    )
-    return np.array(response.data[0].embedding)
-
+# Similarité cosinus
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5):
+    vecteur_query = vecteur_query.squeeze()
     similarities = np.dot(vecteurs, vecteur_query)
     top_k_indices = np.argsort(similarities)[::-1][:top_k]
     return top_k_indices, similarities[top_k_indices]
 
-# 🔍 UI
-st.title("🔍 Recherche intelligente dans la transcription")
+# Interface
+st.title("🔎 Recherche intelligente dans plusieurs vidéos")
 
-score_threshold = st.slider("Filtrer les résultats par score de similarité", 0.0, 1.0, 0.7, 0.01)
 query = st.text_input("🧠 Que veux-tu savoir ?", "")
+top_k = st.slider("🔢 Nombre de résultats", 1, 10, 5)
 
 if query:
-    with st.spinner("Chargement..."):
+    with st.spinner("🔍 Traitement de ta question..."):
         df, vecteurs = charger_donnees()
         vecteur_query = embed_openai(query)
-        indices, scores = rechercher_similaires(vecteur_query, vecteurs)
+        indices, scores = rechercher_similaires(vecteur_query, vecteurs, top_k=top_k)
 
     st.markdown("### 🎯 Résultats pertinents :")
     for idx, score in zip(indices, scores):
-        if score < score_threshold:
-            continue
         bloc = df.iloc[idx]
         start_time = int(float(bloc["start"]))
-        video_url = f"https://www.youtube.com/embed/t21LM4CXaqE?start={start_time}&autoplay=0"
-        with st.expander(f"⏱️ {start_time}s — 💬 {bloc['text'][:60]}... (score: {score:.2f})"):
+        url_complet = bloc["url"]
+
+        # Extraire l'ID de la vidéo à partir de l'URL
+        if "watch?v=" in url_complet:
+            video_id = url_complet.split("watch?v=")[1]
+        elif "youtu.be/" in url_complet:
+            video_id = url_complet.split("youtu.be/")[1]
+        else:
+            video_id = url_complet  # fallback
+        
+        # Construction de l'embed YouTube avec démarrage au bon moment
+        embed_url = f"https://www.youtube.com/embed/{video_id}?start={start_time}&autoplay=0"
+
+        with st.expander(f"🎥 {video_id} ⏱️ {start_time}s — 💬 {bloc['text'][:60]}..."):
             st.markdown(f"**Texte complet :** {bloc['text']}")
-            st.components.v1.iframe(video_url, height=315)
+            st.components.v1.iframe(embed_url, height=315)
