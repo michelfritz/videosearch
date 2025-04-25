@@ -21,7 +21,7 @@ os.makedirs(DOSSIER_BLOCS, exist_ok=True)
 # === CHARGER WHISPER ===
 print("🔁 Chargement du modèle Whisper...")
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-model = whisper.load_model("base", device=DEVICE)
+model = whisper.load_model("large", device=DEVICE)
 print(f"✅ Modèle chargé sur : {DEVICE}")
 
 # === RECUPERER LES VIDEOS ===
