@@ -1,0 +1,5632 @@
+1
+00:00:00,000 --> 00:00:08,000
+ Alors, est-ce que c'est mieux ? Normalement, ça devrait être mieux pour tout le monde.
+
+2
+00:00:08,000 --> 00:00:16,000
+ Si c'est pas mieux pour tout le monde, là, par contre, oui. Parfait. Super. Je me suis un peu bagarré.
+
+3
+00:00:16,000 --> 00:00:21,000
+ Je me suis un peu bagarré, mais si c'est mieux pour tout le monde, parfait. Super.
+
+4
+00:00:21,000 --> 00:00:26,000
+ Donc, j'étais en train de vous dire, si vous avez une petite connexion Internet, je vais ressortir mon petit truc.
+
+5
+00:00:26,000 --> 00:00:34,000
+ Vous avez en bas de votre écran les boutons suivants que nous avons là. Je vais vous les mettre un peu au milieu.
+
+6
+00:00:34,000 --> 00:00:40,000
+ Et sur ces, alors vous en avez un petit peu moins, parce que moi j'ai des boutons d'organisation et de gestion de la vision conférence.
+
+7
+00:00:40,000 --> 00:00:49,000
+ Vous, vous avez uniquement les boutons de consultation. Cependant, vous avez le bouton des trois petits points qui est ici, que je vais encadrer de rouge.
+
+8
+00:00:49,000 --> 00:01:03,000
+ Je vais mettre, clique et en gros, ce bouton qui est là, qui est ici. Voyez le bouton avec les trois traits.
+
+9
+00:01:03,000 --> 00:01:10,000
+ Ensuite, vous cliquez sur paramètres et audio par téléphone.
+
+10
+00:01:10,000 --> 00:01:16,000
+ Ça, c'est si vous avez des petites connexions Internet et que vous avez du mal à suivre et la vidéo éloigne.
+
+11
+00:01:16,000 --> 00:01:27,000
+ Si vous voulez alléger votre connexion Internet, n'utilisez que le flux vidéo pour voir ce que nous faisons et pour écouter, pour l'audio, passer par le téléphone.
+
+12
+00:01:27,000 --> 00:01:34,000
+ Si vous avez une bonne connexion Internet, si vous avez la fibre, pas de questions à se poser. Tout va très bien.
+
+13
+00:01:34,000 --> 00:01:41,000
+ Alors, hop, je coupe ça et ne pas enregistrer. Alors, bienvenue à tous et bienvenue à toutes.
+
+14
+00:01:41,000 --> 00:01:47,000
+ Je pense que le temps de cette petite craquade de sang, je pense qu'à peu près tout le monde a réussi à se connecter.
+
+15
+00:01:47,000 --> 00:01:54,000
+ Donc, je vous remercie d'être là ce soir. Ce qui était là hier soir et ce soir va falloir me supporter deux jours de suite.
+
+16
+00:01:54,000 --> 00:01:59,000
+ Je sais que ce n'est pas facile pour tout le monde, mais bon, c'est comme ça.
+
+17
+00:01:59,000 --> 00:02:10,000
+ Merci d'être là ce soir. Nous allons discuter et surtout, vous allez pouvoir, c'est le but, poser des questions du séminaire 2023.
+
+18
+00:02:10,000 --> 00:02:18,000
+ Nous n'avons pas fait de séminaire en 2022 parce que nous attendions notre certification Calliope, qui est une nouvelle obligation légale pour les organismes de formation.
+
+19
+00:02:18,000 --> 00:02:28,000
+ La certification Calliope est une véritable plaie à obtenir. En fait, ce n'est pas du tout à la portée des TPE, PME comme un autre.
+
+20
+00:02:28,000 --> 00:02:38,000
+ Mais bon, c'est une obligation. Donc, Duralex et Blex, on doit s'y conformer. On a enfin obtenu notre certification Calliope.
+
+21
+00:02:38,000 --> 00:02:45,000
+ Ça a été difficile, mais nous l'avons eu. Donc, nous sommes désormais légendiens, alors qu'avant nous n'étions que des Fêtes à Banque.
+
+22
+00:02:45,000 --> 00:02:54,000
+ Ça veut dire que nous pouvons organiser cette année notre séminaire puisque vous savez que notre séminaire fait également office de formation loi allure.
+
+23
+00:02:54,000 --> 00:03:04,000
+ C'est ça dont on va discuter en particulier. C'est que cette année, pour ceux d'entre vous qui n'ont pas fait leur formation loi allure avec un autre organisme de formation en 2022,
+
+24
+00:03:04,000 --> 00:03:12,000
+ nous allons vous proposer une formule un petit peu différente des autres années, un petit peu différente en ce qu'elle va vous permettre lors du séminaire,
+
+25
+00:03:12,000 --> 00:03:21,000
+ d'avoir un séminaire plus convivial que d'habitude. Alors, ceux d'entre vous qui sont habitués à nos séminaires, je pense que vous ne me démentirez pas si je dis
+
+26
+00:03:21,000 --> 00:03:33,000
+ qu'ils sont repartis tout de même avec une impression de convivialité, d'avoir passé un bon moment, de s'être bien amusés, d'avoir bien mangé, bien bu, d'avoir quand même bien rigolé avec les communs.
+
+27
+00:03:33,000 --> 00:03:42,000
+ Cette année, on veut vraiment aller plus loin là-dedans. On ne veut pas du tout d'un séminaire, vous savez, comme dans ces très grosses entreprises,
+
+28
+00:03:42,000 --> 00:03:50,000
+ d'immobilier ou même des séminaires où il y a le patron qui vient dire bonjour les amis et qui s'en va aussi vite qu'il est arrivé,
+
+29
+00:03:50,000 --> 00:04:01,000
+ avec des intervenants du service communication qui viennent délivrer les bons messages et ensuite ils s'en vont. On veut vraiment, vous le savez, c'est une, c'est parti de notre ADN entre guillemets,
+
+30
+00:04:01,000 --> 00:04:11,000
+ on veut avoir et conserver un lien direct avec chacun d'entre vous et ces séminaires au-delà de l'obligation de formation à l'UR,
+
+31
+00:04:11,000 --> 00:04:25,000
+ à laquelle ils devront satisfaire, c'est l'occasion de passer tout simplement du temps ensemble, passer du temps ensemble de s'amuser, de dîner, de déjeuner, de boire un coup, de boire un café, de s'amuser.
+
+32
+00:04:25,000 --> 00:04:37,000
+ Et c'est vraiment quelque chose qu'on veut conserver et on va, au cours de ce séminaire, aller encore un petit peu plus loin là-dedans, on va creuser encore cet aspect.
+
+33
+00:04:37,000 --> 00:04:53,000
+ Alors, je vous disais qu'on va essayer de rattraper, pour ceux d'entre vous qui n'ont pas fait la formation loi à l'UR de 2022, on va essayer en un séminaire de vous faire rattraper les 14 heures 2022 et les 14 heures 2023.
+
+34
+00:04:53,000 --> 00:04:58,000
+ C'est beaucoup, hein ? Ça fait beaucoup de temps. Alors, comment on va s'y prendre ? Eh bien, c'est très simple.
+
+35
+00:04:58,000 --> 00:05:06,000
+ Le séminaire va se dérouler d'une manière un petit peu différente des autres années.
+
+36
+00:05:06,000 --> 00:05:14,000
+ Tout d'abord, les dates, les dates officielles du séminaire.
+
+37
+00:05:18,000 --> 00:05:24,000
+ C'est 23 et 24 novembre.
+
+38
+00:05:24,000 --> 00:05:37,000
+ Je vais mettre, je zoome un petit peu, pour ceux d'entre vous qui ne voient pas très bien, notamment ceux qui font la videoconférence sur téléphone ou sur tablette.
+
+39
+00:05:37,000 --> 00:05:49,000
+ 23 et 24 novembre. Voici les dates du séminaire. Mais, mais, mais, mais, mais, on va essayer d'aller un petit peu plus loin si vous le voulez bien.
+
+40
+00:05:49,000 --> 00:05:59,000
+ Alors, ça va se dérouler où ? J'ai fait quelqu'un à une idée. Vous avez beaucoup cherché. Alors, il y a deux personnes qui le savent dans le réseau.
+
+41
+00:05:59,000 --> 00:06:08,000
+ Deux personnes. C'est Marjorie et Julien. Maintenant, tout le monde sait qu'ils sont à moitié mes complices. On leur encourage à vous.
+
+42
+00:06:08,000 --> 00:06:16,000
+ Qui a deux idées ? En Bretagne, me dit-on. Michel et Laurent me disent en, bon, mais quel Laurent ? Je ne sais pas. Il y a juste écrit Laurent.
+
+43
+00:06:16,000 --> 00:06:27,000
+ Je ne sais pas quel Laurent et nous en avons beaucoup des Laurent. Eric nous dit, chaque télérone. Poitiers, Puy du Fou.
+
+44
+00:06:27,000 --> 00:06:33,000
+ Alors, Puy du Fou, non. Je vais être sincère avec vous, nous souhaitions le faire au Puy du Fou, mais ça n'a pas pu se faire.
+
+45
+00:06:33,000 --> 00:06:43,000
+ Parce que le Puy du Fou a des horaires, pardon, des dates d'ouverture très restreintes. Donc, ça ne m'a pas pu se faire au Puy du Fou, mais c'était le plan à l'origine.
+
+46
+00:06:43,000 --> 00:06:50,000
+ C'était le plan. Pour de raison, prenant, parce que tout le monde, moi je n'y suis jamais allé, mais tout le monde dit que c'est super, super, super génial.
+
+47
+00:06:50,000 --> 00:06:55,000
+ Et puis c'était dans la moitié nord de la France. Et vous savez qu'on essaye de faire une année dans le nord, une année dans le sud.
+
+48
+00:06:55,000 --> 00:07:02,000
+ Et cette année, ça devait être dans la moitié nord. Puis Puy du Fou, ça connaît. Donc, non, ce n'est pas le Puy du Fou.
+
+49
+00:07:03,000 --> 00:07:13,000
+ Forges-les-en, le Touquet. Alors ça c'est nord-nord. Pas la Bretagne. C'est la moitié nord, oui. Corinne Tessier a trouvé, me dit Marjorie.
+
+50
+00:07:13,000 --> 00:07:18,000
+ Elle me l'a dit cet après-midi, mais je n'avais pas confirmé. Donc elle ne sait pas qu'elle avait raison. Oui.
+
+51
+00:07:18,000 --> 00:07:27,000
+ Corinne a raison. Et là, elle ne l'a pas dit dans le tchat aujourd'hui, mais Corinne l'avait dit dans le tchat la semaine dernière ou la semaine d'avant.
+
+52
+00:07:27,000 --> 00:07:37,000
+ Elle avait effectivement deviné. Je n'ai pas vendu la mèche, mais Corinne a été la toute première de toute raison à deviner où ça allait se faire.
+
+53
+00:07:37,000 --> 00:07:49,000
+ Donc, chapeau à elle. Alors, je vais peut-être un peu trop d'onglet d'ouvert. Non, je vais aller ici.
+
+54
+00:07:49,000 --> 00:07:59,000
+ Alors, pointier au Futuroscope. Non. Futuroscope à Charsnoyd-du-Pouy-Tout. Non.
+
+55
+00:07:59,000 --> 00:08:23,000
+ Alors, attendez. Je vais couper le partage. Mettre ça là. Le premier qui devine, mis à part Corinne qui a gagné de toute manière,
+
+56
+00:08:23,000 --> 00:08:37,000
+ et elle aura des, comment dire, des home-staging 3D avant-après. Le premier qui gagne en plus, là, gagne un home-staging 3D avant-après pour tout mandat.
+
+57
+00:08:37,000 --> 00:08:50,000
+ Pas forcément un mandat exclusif. Tout mandat, choisissez-en un joli. Vous pourrez en avoir. Alors, je suis prêt. Tout le monde a ouvert Google Images.
+
+58
+00:08:50,000 --> 00:09:03,000
+ Alors, il ne faut pas seulement me dire le nom de la société, il faut me dire où ça va se trouver. Je partage dans l'écran.
+
+59
+00:09:03,000 --> 00:09:24,000
+ Hop. Pour l'écran, allez. Sur mon ordinateur, il est un peu capricieux aujourd'hui. Voilà. Hop. Indice numéro un. Il arrive, il arrive, il arrive.
+
+60
+00:09:24,000 --> 00:09:41,000
+ Je vois sur mon écran de contrôle que pour l'instant vous avez un écran noir. Voilà. Indice numéro un. Indice numéro deux. Il est très important cet indice numéro deux.
+
+61
+00:09:41,000 --> 00:09:53,000
+ Indice numéro trois.
+
+62
+00:09:53,000 --> 00:10:13,000
+ Cresbourg. Monteforest. L'Ouas-Santiq. Guéran. Desbois-Francs. Bretagne. La cabane des loups. Marjoriset. Ben oui, bien sûr. Loudin. Non. Pierre a trouvé. Pierre a trouvé. Pierre du Nord. Du Chora.
+
+63
+00:10:13,000 --> 00:10:34,000
+ Pierre a trouvé. Il s'agit de Centerparks, le bois au dents. Que vous voyez ici, domaine le bois au dents. Voici toutes les photos. Centerparks, le bois au dents avec, vous le voyez, Montsogie.
+
+64
+00:10:35,000 --> 00:10:43,000
+ Qui est ici. Je ne parle pas du gamin avec le béret, bien sûr. Jamais je ne vais me comparer à un enfant fiable. Je vais l'imiter.
+
+65
+00:10:43,000 --> 00:10:57,000
+ Donc, voici où ça va se faire cette année Centerparks, le bois au dents. Alors, qu'est-ce que vous en pensez déjà ? Bonne nouvelle. Beauf. Génial.
+
+66
+00:10:57,000 --> 00:11:14,000
+ Super. Génial. Belle coiffure. Ah mais oui. Mais oui. Mais je fais des efforts. Christelle nous met plein de smileys. Super content. Bien. Bonne nouvelle. Je ne connais pas donc c'est très bien.
+
+67
+00:11:14,000 --> 00:11:23,000
+ Alors ça, on reconnaît bien l'esprit positif de Véronique. Je ne connais pas, je ne sais pas où c'est. Donc c'est une bonne chouette, une bonne opportunité de découvrir des nouvelles choses.
+
+68
+00:11:23,000 --> 00:11:36,000
+ Donc quelle ville ? Alors c'est un petit peu, c'est loin pour le Nord. Oh Pierre, c'est loin pour le Nord. Pas si loin que ça. La dernière fois c'était à Arles. Donc du Nord à Arles. Là c'était vraiment loin.
+
+69
+00:11:36,000 --> 00:11:49,000
+ Alors, c'est dans quelle ville ? C'est juste en dessous de le poitier. C'est un petit patelin. Je ne connais plus le nom. Je l'ai oublié. J'y suis allé. J'y suis allé mais j'ai oublié le nom.
+
+70
+00:11:49,000 --> 00:11:56,000
+ Donc on va chercher ça tout de suite sur Google. Ensemble.
+
+71
+00:11:56,000 --> 00:12:12,000
+ Hop hop. Center par le roi. Oups, j'ai écrit n'importe quoi. L'adresse précise. Bim bam boom.
+
+72
+00:12:12,000 --> 00:12:29,000
+ Et... On va regarder combien de temps ça fait pour Pierre. Route.
+
+73
+00:12:29,000 --> 00:12:43,000
+ Des trois moutiers à Morton. État Morton. Alors si je les zoome, regardez, c'est un petit peu au sud de Poitiers. Alors pour Béatrice, ce sera trafic. Elle va pas sur beaucoup de routes.
+
+74
+00:12:43,000 --> 00:13:02,000
+ Vous voyez, c'est un petit peu au nord de Poitiers. Je suis au sud, mais c'est un petit peu au nord de Poitiers. Donc pour Béatrice, c'est pas loin. Mais pour Corinne non plus, c'est juste à côté.
+
+75
+00:13:02,000 --> 00:13:11,000
+ Pour Michael également, c'est pas très très loin. Donc tous les gens qui viennent de cette région, c'est vrai qu'on est pas mal implanté ici, c'est pas trop loin.
+
+76
+00:13:11,000 --> 00:13:21,000
+ Alors pour la mi-Pierre. Pierre, il vient de la centinelle et justement c'est Valenciennes. On va regarder combien ça fait pour Pierre.
+
+77
+00:13:21,000 --> 00:13:35,000
+ Alors pour Pierre, pas quand même 5h31. Ah oui, ça fait quand même de la route. Mais ça, on a prévu les amis. Vous allez comprendre pourquoi. On a prévu.
+
+78
+00:13:35,000 --> 00:13:45,000
+ C'est pour ça qu'à l'origine on voulait faire ça lundi, mardi. Pour que les gens puissent venir tranquillement le dimanche. Vous allez comprendre.
+
+79
+00:13:45,000 --> 00:13:59,000
+ Donc pour Pierre, il faut venir de Valenciennes. Mais si je rajoute Saint-Paul-sur-Terre-Noise. Saint-Paul-sur-Terre-Noise.
+
+80
+00:13:59,000 --> 00:14:08,000
+ Je fais un démarrage de Saint-Paul pour Valenciennes, de Valenciennes pour Saint-Paul. Peut-être que Pierre peut aller à Saint-Paul.
+
+81
+00:14:08,000 --> 00:14:21,000
+ Et ensuite, un covoiturage avec les copains de Saint-Paul. C'est à voir. Vous louez un minibus et pouf, vous y allez tous ensemble. C'est à voir.
+
+82
+00:14:21,000 --> 00:14:31,000
+ Mais ça n'est pas le problème, mes chers amis. Pourquoi ? Parce que nous voulions le faire, comme je vous le disais, lundi, mardi.
+
+83
+00:14:31,000 --> 00:14:41,000
+ Pour que vous puissiez voyager tranquillement le dimanche. Pour que vous ayez la possibilité de faire le voyage le dimanche.
+
+84
+00:14:41,000 --> 00:14:54,000
+ Et qu'on puisse commencer le séminaire lundi et le terminer mardi. Vous avez... Vous m'entendez bien ? Ou j'ai un problème d'audio là ?
+
+85
+00:14:54,000 --> 00:15:03,000
+ Je me demande si j'ai pas un problème d'audio. Est-ce que vous m'entendez ? Oui, c'est bon. Super. Merci beaucoup.
+
+86
+00:15:03,000 --> 00:15:09,000
+ 6h30 pour Narbonne. Oui, mais à Narbonne, vous pouvez faire du covoiturage aussi. Et vous relayer.
+
+87
+00:15:09,000 --> 00:15:18,000
+ Ça fait peut-être plusieurs. 5h20 pour Lyon. Il y a encore covoiturage avec Saïd, avec Céline, avec Cybille. Parce que Céline et Cybille et ça.
+
+88
+00:15:18,000 --> 00:15:26,000
+ Et puis Jérôme également, qui est pas très loin. On peut organiser du covoiturage, vous allez voir. Alors, vous allez me dire.
+
+89
+00:15:27,000 --> 00:15:37,000
+ Oui, mais attention, on peut pas dire le dimanche. C'est vrai que le dimanche, c'était un jour où on travaillait pas. Donc, vous pouvez faire la route tranquillement.
+
+90
+00:15:37,000 --> 00:15:48,000
+ Mais, ça pose un autre problème, le fait de le faire en semaine. Je vous ai dit que nous faisions ça les 23 et 24 novembre.
+
+91
+00:15:48,000 --> 00:15:56,000
+ Si je regarde un calendrier 23 et 24 novembre, c'est quand ? C'est jeudi, vendredi. Ça veut dire qu'il faut voyager le 22.
+
+92
+00:15:56,000 --> 00:16:03,000
+ Donc, au-delà du fait que ce soit en fin de semaine. Enfin, on essaie de mettre ça du pro en fin de semaine. Mais le 22, c'est un mercredi.
+
+93
+00:16:03,000 --> 00:16:12,000
+ Suivez-nous à bien. Parce que là, c'est important. Ça veut dire que si on vient la veille parce qu'il y a beaucoup de routes,
+
+94
+00:16:12,000 --> 00:16:24,000
+ ça nous fait une journée d'hébergement supplémentaire à payer et c'est cher. D'autant que les méchants des âges-effices, puisque vous savez conformément à la loi,
+
+95
+00:16:24,000 --> 00:16:38,000
+ les formations allures sont financées par les âges-effices, les âges-effices ne remboursent plus les frais de déplacement et d'hébergement comme ils le faisaient dans le passé.
+
+96
+00:16:38,000 --> 00:16:44,000
+ Ça a été une nouvelle surprise il y a deux ans. Ils devaient le faire quand le monde est minard. Ils ont dit que finalement, on ne va pas le faire.
+
+97
+00:16:44,000 --> 00:16:49,000
+ On va augmenter les plafonds de remboursement. C'est-à-dire que vous avez droit à plus de formations elles-mêmes.
+
+98
+00:16:49,000 --> 00:16:54,000
+ Mais par contre, pour le déplacement et l'hébergement, vous vous débrouillez. Vous êtes des grands garçons.
+
+99
+00:16:54,000 --> 00:17:04,000
+ Donc, ça veut dire que, en venant 22, imaginez que l'on mette 22 pour que l'on se comprenne bien.
+
+100
+00:17:04,000 --> 00:17:23,000
+ 22 plus 23 et 24 novembre, ça vous fait débourser, en plus du voyage, une nuit d'hôtel en plus.
+
+101
+00:17:23,000 --> 00:17:42,000
+ Et c'est là que nous intervenons, mes chers amis. Parce que nous avons tout organisé cette année pour qu'à chaque fois que vous venez en séninaire, nous prenons à notre charge, bien entendu partiellement financés par les âges-effices pour la partie formation.
+
+102
+00:17:42,000 --> 00:17:54,000
+ C'est évident. Nous prenons à notre charge votre restauration, c'est-à-dire les repas, tout ce que vous mangez, vous buvez. On essaie de prendre tout ça à notre charge.
+
+103
+00:17:54,000 --> 00:18:03,000
+ Et bien, cette année, nous avons ajouté une petite chose supplémentaire. L'hébergement est à notre charge.
+
+104
+00:18:03,000 --> 00:18:18,000
+ Ça veut dire que nous prenons à notre charge l'hébergement du 22 au 23 et l'hébergement du 23 au 24 novembre.
+
+105
+00:18:18,000 --> 00:18:35,000
+ Ça veut dire que le but, vous le savez, c'est que cette formation ne soit pas à votre charge, ce soit à la nôtre et à celle des âges-effices pour la partie formation pure, ne vous coûte que le déplacement.
+
+106
+00:18:35,000 --> 00:18:44,000
+ Les autres années, vous payez l'hébergement plus cette année.
+
+107
+00:18:44,000 --> 00:18:56,000
+ Donc, ça veut dire quoi mes amis ? Ça veut dire que, non seulement, je peux venir en avion pour reposer Erroni, je ne sais pas si vous pouvez le poser là-bas.
+
+108
+00:18:56,000 --> 00:19:17,000
+ Ça veut dire que, non seulement, nous prenons à notre charge l'hébergement, les repas du soir, le petit déjeuner, les déjeuners, le repas un petit peu sympa qu'on fera le 23 novembre au soir, c'est-à-dire le repas un peu amélioré, on fait un peu la fête.
+
+109
+00:19:17,000 --> 00:19:32,000
+ Et également, puisque c'est à Center Parks, qu'est-ce que ça veut dire Center Parks ? Ça veut dire, prenez vos maillots de bain.
+
+110
+00:19:32,000 --> 00:19:47,000
+ Alors, prenez pas vos enfants, bien sûr, mais prenez vos maillots de bain parce que Center Parks, vous le savez, alors ça ce sont les petits logements dans lesquels vous allez séjourner, c'est ce qu'ils appellent eux des petits protèges.
+
+111
+00:19:47,000 --> 00:20:00,000
+ Mais au-delà, Center Parks, vous le savez, c'est l'endroit idéal pour les piscines, toboggan, bain à remous, je ne sais pas, ça ce sont les hébergements.
+
+112
+00:20:00,000 --> 00:20:10,000
+ Voilà, ça c'est ce qu'ils appellent l'aquamundo. Et l'aquamundo, bien entendu, nous l'inclurons dans votre séjour.
+
+113
+00:20:10,000 --> 00:20:24,000
+ Ça veut dire que si vous avez la possibilité, la possibilité à la fois parce que vous êtes éligible du point de vue des âges et fils, mais sans oser à, de manière détaillée, individuellement avec chacun d'entre vous, c'est même moi qui les m'en occuper.
+
+114
+00:20:24,000 --> 00:20:39,000
+ Si vous êtes éligible par les âges et fils et si vous avez la possibilité de venir la veille parce que vous n'avez pas de rendez-vous ce moment-là, ça veut dire que vous avez la possibilité d'arriver le 22, on va dire à partir de midi,
+
+115
+00:20:39,000 --> 00:20:56,000
+ et de passer la journée à Center Park, à bénéficier et à vous amuser dans le système aquamundo avec les toboggan, avec les, regardez, les bains à remous, etc.
+
+116
+00:20:56,000 --> 00:21:14,000
+ Et de profiter de toutes les installations de Center Park, c'est-à-dire nos frères jumeaux qui est ici, vous promenez, vous baladez, la plupart des activités qui ne sont pas plus dedans.
+
+117
+00:21:14,000 --> 00:21:20,000
+ Et ça, bien entendu, c'est à votre disposition dès la veille.
+
+118
+00:21:20,000 --> 00:21:33,000
+ Le lendemain matin, le 23, on commence la formation elle-même. Le 23, au soir, on a le dîner, le fameux dîner que vous connaissez tous.
+
+119
+00:21:33,000 --> 00:21:48,000
+ Après, on fait un peu la fête, c'est évident. Et le lendemain matin, on reprend la formation et puis l'après-midi, à l'après-midi, sortez les maillots d'eau parce que ça recommence.
+
+120
+00:21:48,000 --> 00:21:57,000
+ Vous avez quartier libre pour pouvoir repartir tranquillement au moment où vous le voulez.
+
+121
+00:21:57,000 --> 00:22:08,000
+ Et entre temps, on aura fait la formation d'eau à l'eure, entre temps, on aura déjeuné ensemble, dîné ensemble, pris des verres, des cafés, discuté, rigolé.
+
+122
+00:22:08,000 --> 00:22:13,000
+ J'allais dire fumer des cops, mais moi j'ai arrêté de fumer il y a trop longtemps, donc je fumerai pas de cop avec vous.
+
+123
+00:22:13,000 --> 00:22:24,000
+ Mais c'est vrai que ça paraît bête, mais dans toutes ces rencontres, aller fumer une cigarette dans un coin dans un espace vert, c'est souvent le moment d'échanger avec un café, de passer un petit peu de temps.
+
+124
+00:22:24,000 --> 00:22:26,000
+ Mon passé de fumeur me le rappelle, ça.
+
+125
+00:22:26,000 --> 00:22:34,000
+ Donc, voilà exactement ce que nous prévoyons cette année pour le séminaire 2023.
+
+126
+00:22:35,000 --> 00:22:41,000
+ Alors, on confirme ou on annule et puis finalement on fait juste des visios.
+
+127
+00:22:41,000 --> 00:22:48,000
+ Pas d'issue hein, parce que si vous voulez, on peut faire que des visios à la place du secteur Paris.
+
+128
+00:22:48,000 --> 00:22:51,000
+ Ce sera plus simple pour tout le monde. Qu'est-ce que vous en pensez ?
+
+129
+00:22:51,000 --> 00:22:54,000
+ C'est une bonne nouvelle, c'est sympa, ou on fait des visios ?
+
+130
+00:22:55,000 --> 00:22:58,000
+ Arrêtez, je ne fume plus depuis 6 jours, dit Patricia.
+
+131
+00:22:58,000 --> 00:23:01,000
+ Bravo, c'est la première semaine, c'est la plus dure.
+
+132
+00:23:01,000 --> 00:23:06,000
+ Alors là, vous avez tout mon soutien, Patricia, je vous mets tout mon cœur dedans.
+
+133
+00:23:06,000 --> 00:23:09,000
+ Je sais à quel point j'en ai bavé, ça a été dur.
+
+134
+00:23:09,000 --> 00:23:15,000
+ J'en ai fait bavé à toute l'animation et à tous les agents pendant un an, un an et demi.
+
+135
+00:23:15,000 --> 00:23:20,000
+ Croyez-moi, je suis vraiment vraiment avec vous.
+
+136
+00:23:21,000 --> 00:23:25,000
+ Alors, Marjorie a une question. Je vais activer votre micro, Marjorie.
+
+137
+00:23:25,000 --> 00:23:28,000
+ Où est-ce que je peux activer votre micro ?
+
+138
+00:23:28,000 --> 00:23:31,000
+ Marjorie, c'est vraiment mieux foutu cet outil.
+
+139
+00:23:31,000 --> 00:23:34,000
+ Ça permet de retrouver les gens facilement plutôt que de chercher pendant 3 heures.
+
+140
+00:23:34,000 --> 00:23:37,000
+ Allez, Marjorie, activer la parole.
+
+141
+00:23:37,000 --> 00:23:44,000
+ Ça va arriver dans quelques secondes, je vois que ça tourne, vous allez pouvoir poser votre question.
+
+142
+00:23:44,000 --> 00:23:46,000
+ Alors, tout le monde, posez des questions.
+
+143
+00:23:46,000 --> 00:23:50,000
+ J'ai vu qu'il y en a quelques-unes qui ont été posées pour l'instant, je n'ai pas encore lu.
+
+144
+00:23:50,000 --> 00:23:52,000
+ Marjorie, allez-y.
+
+145
+00:23:52,000 --> 00:23:54,000
+ Vous m'entendez ou pas ?
+
+146
+00:23:54,000 --> 00:23:57,000
+ On vous entend très bien, très très bien.
+
+147
+00:23:57,000 --> 00:23:59,000
+ Allô ?
+
+148
+00:23:59,000 --> 00:24:01,000
+ Oui, allô.
+
+149
+00:24:01,000 --> 00:24:05,000
+ Moi, je vous entends très très mal du coup maintenant.
+
+150
+00:24:05,000 --> 00:24:09,000
+ Alors, allez-y, parlez. Nous, on vous entend bien.
+
+151
+00:24:09,000 --> 00:24:15,000
+ Ok. Oui, je demandais si la dernière nuit, donc la nuit du 24, on pouvait garder nos chambres,
+
+152
+00:24:15,000 --> 00:24:19,000
+ nos frais bien sûr, mais pour ceux qui repartent le lendemain.
+
+153
+00:24:19,000 --> 00:24:26,000
+ Alors, on va leur demander, je ne sais pas si c'est possible, peut-être.
+
+154
+00:24:26,000 --> 00:24:29,000
+ Je vais leur demander. Pourquoi ? Parce que...
+
+155
+00:24:29,000 --> 00:24:32,000
+ Du coup, nous...
+
+156
+00:24:32,000 --> 00:24:35,000
+ Si ça se trouve, ils vont vous compter le week-end. Je vais leur demander.
+
+157
+00:24:35,000 --> 00:24:41,000
+ Je vais leur demander tout simplement, c'est aussi simple que ça, et remarquez si je fais... Attendez.
+
+158
+00:24:41,000 --> 00:24:45,000
+ Si je fais ça. On va essayer de trouver la réponse à cette question-là.
+
+159
+00:24:45,000 --> 00:24:49,000
+ Voir si on peut la trouver. Est-ce qu'on peut faire...
+
+160
+00:24:49,000 --> 00:24:51,000
+ Comme si on faisait une réservation.
+
+161
+00:24:51,000 --> 00:24:53,000
+ Vous voyez ?
+
+162
+00:24:53,000 --> 00:24:55,000
+ Offre...
+
+163
+00:24:55,000 --> 00:24:58,000
+ Vacances de la nuit, tout ça.
+
+164
+00:24:58,000 --> 00:25:03,000
+ Si je fais deux personnes arriver le 24,
+
+165
+00:25:04,000 --> 00:25:09,000
+ est-ce que vous pouvez faire un départ le 25 ? Non. Vous êtes obligé de faire un départ le 26.
+
+166
+00:25:09,000 --> 00:25:16,000
+ Donc si vous faites ça, Marjorie, ça vous impose de prendre la nuit du 24 au 25 et du 25 au 26.
+
+167
+00:25:16,000 --> 00:25:18,000
+ Le week-end, la formule week-end.
+
+168
+00:25:18,000 --> 00:25:24,000
+ C'est d'ailleurs pour ça qu'on n'a pas pu faire lundi-mardi, parce que sinon,
+
+169
+00:25:24,000 --> 00:25:31,000
+ on était obligé de prendre les nuits du vendredi au samedi, du samedi au dimanche et du dimanche au lundi.
+
+170
+00:25:31,000 --> 00:25:36,000
+ C'est pour ça qu'on n'a pas pu faire lundi-mardi avec arrivé le dimanche comme on le souhaitait.
+
+171
+00:25:36,000 --> 00:25:44,000
+ OK. Donc en fait, il faut qu'on se trouve une chambre pas très loin pour pouvoir rester la nuit supplémentaire.
+
+172
+00:25:44,000 --> 00:25:48,000
+ Si vous souhaitez rester la nuit supplémentaire, on essaie. C'est ça qu'il faudra faire.
+
+173
+00:25:48,000 --> 00:25:52,000
+ OK. D'accord. Super. Bon, moi, j'ai ma réponse. Au moins, je vais regarder ça.
+
+174
+00:25:52,000 --> 00:25:56,000
+ Voilà. OK. Merci beaucoup, Marjorie. Alors, hop.
+
+175
+00:25:56,000 --> 00:25:58,000
+ Merci à vous.
+
+176
+00:25:58,000 --> 00:26:04,000
+ Je vais retourner sur les questions-réfondes, parce qu'il y en a eu d'autres que je n'ai pas encore eu le temps de lire.
+
+177
+00:26:08,000 --> 00:26:11,000
+ Oui, c'est vrai. Pour ceux qui avaient demandé à ce que ce soit gratuit, tout est gratuit.
+
+178
+00:26:11,000 --> 00:26:14,000
+ En effet. Alors, s'en fout le déplacement, bien sûr.
+
+179
+00:26:14,000 --> 00:26:17,000
+ Merci à la Lucas pour l'hébergement. C'est trop sympa.
+
+180
+00:26:17,000 --> 00:26:25,000
+ Mais oui, en fait, jusqu'à présent, enfin non, jusqu'à il y a deux ans, pas du tout jusqu'à présent,
+
+181
+00:26:25,000 --> 00:26:32,000
+ les agifices vous remboursaient forfait clairement les frais de déplacement et d'hébergement, ce qu'ils ne font plus.
+
+182
+00:26:32,000 --> 00:26:35,000
+ Et la raison pour laquelle on s'est creusé la tête, nous,
+
+183
+00:26:35,000 --> 00:26:38,000
+ comment prendre en charge l'hébergement également.
+
+184
+00:26:38,000 --> 00:26:41,000
+ À quel heure démarrera la formation le 23 ?
+
+185
+00:26:41,000 --> 00:26:46,000
+ Alors, la formation le 23, le 23, vous le voyez, c'est le premier jour de formation pure.
+
+186
+00:26:46,000 --> 00:26:51,000
+ Ça démarrera vers 9h30, entre 9h30 et 10h, comme à chaque scéninaire, c'est comme ça.
+
+187
+00:26:51,000 --> 00:26:58,000
+ Ça démarre entre 9h30. C'est-à-dire que tranquillement, tout le monde arrive à partir de 9h00 à 9h15.
+
+188
+00:26:58,000 --> 00:27:01,000
+ Et vraiment, il faut arriver entre 9h30 et 10h.
+
+189
+00:27:01,000 --> 00:27:04,000
+ À 10h, on considère que tout le monde doit être là.
+
+190
+00:27:04,000 --> 00:27:09,000
+ Je vais repartir le 25h00 au matin pour ne pas couper la formation.
+
+191
+00:27:09,000 --> 00:27:13,000
+ À 16h00, le 24h00 au soir, j'ai près de 500 km. C'est trop vieux. Oui, je comprends tout à fait.
+
+192
+00:27:13,000 --> 00:27:16,000
+ Je comprends tout à fait.
+
+193
+00:27:16,000 --> 00:27:19,000
+ Carrément la classe, nous dit Eric. La classe à Légace.
+
+194
+00:27:19,000 --> 00:27:22,000
+ Super, très bon choix, très bonne nouvelle pour Béatrice.
+
+195
+00:27:22,000 --> 00:27:25,000
+ Alors Béatrice, si vous le coup, n'aura pas beaucoup de routes à faire.
+
+196
+00:27:25,000 --> 00:27:31,000
+ Pierre, hésite avec les visions, Pierre. Ce serait tellement chouette que tu viennes.
+
+197
+00:27:31,000 --> 00:27:34,000
+ C'est une bonne idée si un maximum de monde vient nous dire « Viens, Viens ».
+
+198
+00:27:34,000 --> 00:27:36,000
+ Ah bah oui, le but, c'est bien.
+
+199
+00:27:36,000 --> 00:27:41,000
+ Alors, Guillaume a mis foi à raison. Alors là, c'est Guillaume de Viron-le-Bordogne, Guillaume Bertrand.
+
+200
+00:27:41,000 --> 00:27:46,000
+ C'est vraiment le but, c'est que le maximum de gens viennent pour qu'on se retrouve tous,
+
+201
+00:27:46,000 --> 00:27:51,000
+ qu'on puisse discuter, rigoler. Je vous dis vraiment, on essaye de tout organiser
+
+202
+00:27:51,000 --> 00:27:54,000
+ pour pousser vraiment au maximum la convivialité.
+
+203
+00:27:54,000 --> 00:28:00,000
+ C'est vraiment le thème, le mot d'ordre de ce scéninaire, c'est la convivialité.
+
+204
+00:28:00,000 --> 00:28:07,000
+ On se retrouve tous, comme on avait le grand plaisir à se retrouver après, vous vous souvenez, le Covid.
+
+205
+00:28:07,000 --> 00:28:11,000
+ On se retrouve tous, on est dans une période un peu morose.
+
+206
+00:28:11,000 --> 00:28:14,000
+ Il y a des guerres partout, il y a des horreurs absolument partout.
+
+207
+00:28:14,000 --> 00:28:17,000
+ Il y a la crise, il y a plein de choses.
+
+208
+00:28:17,000 --> 00:28:21,000
+ Sachons nous retrouver et reprendre un petit peu le sourire.
+
+209
+00:28:21,000 --> 00:28:25,000
+ Félicitations pour votre choix, dit Canou. Merci beaucoup.
+
+210
+00:28:25,000 --> 00:28:29,000
+ Moi aussi, j'ai arrêté de fumer. Bravo à vous, il le dit.
+
+211
+00:28:29,000 --> 00:28:32,000
+ Bravo. Il faut tenir, c'est dur, mais il faut tenir, c'est possible.
+
+212
+00:28:32,000 --> 00:28:34,000
+ Après, moi j'étais à quasiment deux paquets par jour.
+
+213
+00:28:34,000 --> 00:28:36,000
+ Il y avait des jours, j'étais à trois paquets.
+
+214
+00:28:36,000 --> 00:28:41,000
+ J'étais à, on va dire, entre un paquet et demi et deux paquets par jour de moyenne.
+
+215
+00:28:41,000 --> 00:28:44,000
+ Certains jours, deux paquets, deux paquets et demi, voire trois paquets.
+
+216
+00:28:44,000 --> 00:28:48,000
+ Si j'ai réussi, c'est vraiment que c'est à votre portée.
+
+217
+00:28:48,000 --> 00:28:50,000
+ Ne lâchez pas.
+
+218
+00:28:50,000 --> 00:28:55,000
+ Center Parcs, lequel j'ai pas eu le son au moment où vous avez dit le lieu.
+
+219
+00:28:55,000 --> 00:28:58,000
+ Eh bien, c'est le Center Parcs, le bois au dind.
+
+220
+00:28:58,000 --> 00:29:02,000
+ Qui est là, qui est entre tours, on va dire, et poitiers.
+
+221
+00:29:02,000 --> 00:29:08,000
+ D'ailleurs, entre tours et poitiers, je ne sais pas si vous vous souvenez, mes chers amis,
+
+222
+00:29:08,000 --> 00:29:21,000
+ mais si je prends une carte de France, pour ceux d'entre vous qui avez été là à cette vidéo,
+
+223
+00:29:21,000 --> 00:29:30,000
+ pour les fidèles parmi les fidèles, si je prends donc une carte de France, je désolons.
+
+224
+00:29:31,000 --> 00:29:47,000
+ Et je vous avais dit, souvenez-vous, que en faisant une ligne entre, j'avais dit La Rochelle et Lausanne,
+
+225
+00:29:47,000 --> 00:29:50,000
+ on va mettre ça comme ça.
+
+226
+00:29:50,000 --> 00:29:53,000
+ Et c'est le bois au dind qui est à quel endroit exactement ?
+
+227
+00:29:53,000 --> 00:30:06,000
+ On a dit que c'était à mon port, mon pont, le bois au dind Center Parcs.
+
+228
+00:30:06,000 --> 00:30:08,000
+ Je vais dézoomer à nouveau.
+
+229
+00:30:08,000 --> 00:30:14,000
+ Ça nous mettra la petite goutte Google qui va nous permettre, vous le voyez.
+
+230
+00:30:14,000 --> 00:30:16,000
+ Donc c'est cette petite goutte qui est là.
+
+231
+00:30:16,000 --> 00:30:22,000
+ Et vous vous souvenez, j'avais fait une ligne, nous on était ensemble, nous avions fait une ligne
+
+232
+00:30:22,000 --> 00:30:35,000
+ entre La Rochelle et Lausanne, et j'avais dit, ça se situera un petit peu au-dessus de ça si on fait cette ligne.
+
+233
+00:30:35,000 --> 00:30:44,000
+ Et regardez, je ne vous avais pas menti, je vous avais dit exactement la vérité.
+
+234
+00:30:44,000 --> 00:30:59,000
+ Une ligne entre La Rochelle et Lausanne, et on est dans la moitié nord de la France.
+
+235
+00:30:59,000 --> 00:31:05,000
+ On est juste au-dessus, le contrat est rempli.
+
+236
+00:31:05,000 --> 00:31:09,000
+ On est dans la moitié nord, mais pas tout au nord quand même.
+
+237
+00:31:09,000 --> 00:31:13,000
+ Donc on reste super central.
+
+238
+00:31:13,000 --> 00:31:20,000
+ Bonne idée Marjorie, merci à toi d'y avoir pensé.
+
+239
+00:31:20,000 --> 00:31:23,000
+ Ah oui, à cette question, oui bien sûr.
+
+240
+00:31:23,000 --> 00:31:26,000
+ Je croyais que c'était merci à toi Marjorie d'avoir pensé à aller faire ça à Center Parcs.
+
+241
+00:31:26,000 --> 00:31:28,000
+ Ah bah non, c'était mon idée, à moi ça.
+
+242
+00:31:28,000 --> 00:31:33,000
+ Mais si c'était pour la question, je l'adresse à Marjorie.
+
+243
+00:31:33,000 --> 00:31:37,000
+ Rendons à César ce qui appartient à César, et à Dieu ce qui appartient à Dieu.
+
+244
+00:31:37,000 --> 00:31:45,000
+ Je ne fais pas du prosélytisme, mais c'est le dicton complet, tout simplement.
+
+245
+00:31:45,000 --> 00:31:49,000
+ Je ne veux pas qu'on m'accusait après.
+
+246
+00:31:49,000 --> 00:31:54,000
+ Je m'étais déjà fait accuser une fois il y a très longtemps quand on faisait les présentations pour la Lucarne physiquement.
+
+247
+00:31:54,000 --> 00:31:57,000
+ On n'avait même pas encore nos locaux à Nanterre à l'époque.
+
+248
+00:31:57,000 --> 00:32:00,000
+ On n'était qu'en Suraine, vous imaginez à quel point c'était il y a longtemps.
+
+249
+00:32:00,000 --> 00:32:05,000
+ Et j'explique à l'audience des candidats qui voulaient rejoindre la Lucarne à cette époque,
+
+250
+00:32:05,000 --> 00:32:10,000
+ à propos de la maquette interactive, je leur disais que vous allez évangéliser vos clients sur cette bonne pratique.
+
+251
+00:32:10,000 --> 00:32:12,000
+ Et là il y a une bonne femme qui s'était mise en polaire.
+
+252
+00:32:12,000 --> 00:32:16,000
+ Quoi, vous avez dit évangéliser, mais c'est un scandale !
+
+253
+00:32:16,000 --> 00:32:18,000
+ Écoute, mais ça va bien.
+
+254
+00:32:18,000 --> 00:32:24,000
+ Si tu as des problèmes avec le vocabulaire, c'est toi qui as un souci, ce n'est pas moi.
+
+255
+00:32:24,000 --> 00:32:27,000
+ Alors, on est plusieurs dans les hébergements, comment s'est organisé ?
+
+256
+00:32:27,000 --> 00:32:30,000
+ Oui, ça c'est une question pratique très fascinante.
+
+257
+00:32:30,000 --> 00:32:33,000
+ Vous allez être effectivement dans les hébergements.
+
+258
+00:32:33,000 --> 00:32:39,000
+ Alors, vous allez partager les hébergements, mais pas de n'importe quelle manière.
+
+259
+00:32:39,000 --> 00:32:42,000
+ Ah non, c'est ici que je dois aller, pardon.
+
+260
+00:32:42,000 --> 00:32:48,000
+ Puisque, comme vous le voyez, vous allez être hébergés dans ce qu'on appelle des cottèges.
+
+261
+00:32:48,000 --> 00:32:56,000
+ Les cottèges, ce sont des petites maisons, je les ai perdues, voilà, ce sont des petites maisons, comme celle-là.
+
+262
+00:32:56,000 --> 00:33:06,000
+ Dans lesquelles il y a un salon, une cuisine, d'ailleurs je crois avoir quelques photos que j'ai prises moi-même à vous montrer, donc je vais prendre ça tout de suite.
+
+263
+00:33:06,000 --> 00:33:14,000
+ Ce sont des petites maisons, des petites maisons, vous voyez, en bois, les unes à côté des autres avec une petite terrasse, un petit truc extérieur.
+
+264
+00:33:14,000 --> 00:33:18,000
+ C'est plutôt mignon, c'est propre, j'y suis allé.
+
+265
+00:33:18,000 --> 00:33:25,000
+ Je suis allé moi-même vérifier, donc ce ne sont pas des... ce sont des maisons, des maisons, des maisons.
+
+266
+00:33:25,000 --> 00:33:30,000
+ Ce ne sont pas des... hop là.
+
+267
+00:33:30,000 --> 00:33:35,000
+ On ne va pas à un endroit où on ne sait pas du tout à quoi ça ressemble.
+
+268
+00:33:35,000 --> 00:33:40,000
+ Donc, ce sont des petites maisons, plutôt jolies.
+
+269
+00:33:40,000 --> 00:33:45,000
+ Je vais essayer de vous retrouver des photos, là je sors ça dans un autre navigateur.
+
+270
+00:33:45,000 --> 00:33:51,000
+ Alors, je fais la même chose qu'hier, je vais chercher des photos dans Google Photos.
+
+271
+00:33:51,000 --> 00:33:59,000
+ Et je vais aller directement dans le lieu en question, comme ça, ça va me permettre de vous montrer exactement les photos que j'ai prises moi-même.
+
+272
+00:33:59,000 --> 00:34:09,000
+ Et pour répondre donc à la question d'Élodie, vous allez en effet partager ces hébergements.
+
+273
+00:34:09,000 --> 00:34:12,000
+ Vous allez partager ces hébergements.
+
+274
+00:34:12,000 --> 00:34:20,000
+ Alors, il faut que j'aille dans les lieux, est-ce que je nous rende à l'endroit où je suis allé.
+
+275
+00:34:20,000 --> 00:34:34,000
+ Mais comment allez-vous partager les hébergements ? Nous avons tenu absolument à ce que... c'est quoi ? Morton ? Le nom de la ville ? Pas ?
+
+276
+00:34:34,000 --> 00:34:38,000
+ Je ne vous dis pas de bêtises.
+
+277
+00:34:38,000 --> 00:34:42,000
+ C'est ça, c'est bien Morton, le nom de la ville.
+
+278
+00:34:42,000 --> 00:34:51,000
+ Donc, voici les photos que j'ai prises moi-même.
+
+279
+00:34:51,000 --> 00:34:56,000
+ Donc là, voyez, ce n'est pas des trucs de leur service marketing ou je ne sais pas quoi.
+
+280
+00:34:56,000 --> 00:35:02,000
+ Alors ça, ce sont des petites cultures de bois. C'est joli, c'est bien fait.
+
+281
+00:35:02,000 --> 00:35:09,000
+ Ça c'est pris de la fenêtre de ma voiture. Donc vous avez également un rétroviseur qui vous est offert gracieusement par la lucarne et l'immobilier.
+
+282
+00:35:09,000 --> 00:35:14,000
+ Ça c'est l'entrée. Ça c'est le petit rond-point quand on arrive à l'entrée. Ça c'est une tondeuse.
+
+283
+00:35:14,000 --> 00:35:23,000
+ Puisqu'ils étaient en train de tondre. Voici un petit lac, un arbre, des petits trucs jolis. Un petit sanglier en bois.
+
+284
+00:35:23,000 --> 00:35:27,000
+ C'est très très très naturel. Alors voilà les cottages.
+
+285
+00:35:27,000 --> 00:35:38,000
+ Ça c'est une petite allée qui se repente entre les cottages. Les cottages sont les uns à côté des autres. Voici typiquement à droite là, un cottage dans lequel vous serez hébergé.
+
+286
+00:35:38,000 --> 00:35:48,000
+ Alors chaque cottage comprend des trucs familiaux. On est dans la mine. Donc il y a des chambres avec des doubles, des lit simples etc.
+
+287
+00:35:48,000 --> 00:35:54,000
+ On a organisé les choses de sorte à ce que là nous voici dans un cottage.
+
+288
+00:35:54,000 --> 00:36:01,000
+ Donc on entre. Voici l'entrée. Voici une chambre avec deux lit simples. Voici les toilettes.
+
+289
+00:36:01,000 --> 00:36:08,000
+ Même les toutes petites personnes comme moi, vous voyez, peuvent aller aux toilettes en toute sécurité.
+
+290
+00:36:08,000 --> 00:36:13,000
+ Vous voyez que j'ai bien choisi les choses. Ça c'est moi. Ah vous avez donc la preuve que c'est bien moi.
+
+291
+00:36:13,000 --> 00:36:21,000
+ Vous voyez le lien barbu qu'il y a. Vous avez la preuve que ça n'a pas été fait par les services marketing des FemtourParts.
+
+292
+00:36:22,000 --> 00:36:29,000
+ Vous voyez les salles de bain. C'est propre, c'est bien fichu, c'est bien foutu. Chambres doubles.
+
+293
+00:36:29,000 --> 00:36:37,000
+ Avec ventilateurs parce qu'ils n'ont pas encore la clim. Bon on s'en moque, nous ce sera en novembre. On n'aura pas besoin de la clim.
+
+294
+00:36:38,000 --> 00:36:54,000
+ Voici la petite terrasse. Et voici, ça c'est le coin cuisine. Le salon. La cuisinette avec machine à café, avec ce genre de choses.
+
+295
+00:36:54,000 --> 00:37:04,000
+ Et voici, vue de l'extérieur, un cottage. Nous avons tenu à ce que vous partagiez des cottages, oui.
+
+296
+00:37:04,000 --> 00:37:11,000
+ Mais ne partagez pas des chambres. Chacun d'entre vous sera dans une chambre individuelle.
+
+297
+00:37:11,000 --> 00:37:20,000
+ Alors oui, on partagerait la cuisine, les sanitaires, la toilette, etc. Mais chacun d'entre vous aura sa chambre.
+
+298
+00:37:20,000 --> 00:37:28,000
+ Il n'y aura pas deux personnes dans une même chambre. On a vraiment tenu à organiser des choses comme ça. Il n'y aura pas de chambre partagée.
+
+299
+00:37:29,000 --> 00:37:40,000
+ Vous pourrez bien entendu nous dire, moi je veux être avec un tel mon copain, etc. Par contre, vous l'imaginez bien, nous ne ferons pas,
+
+300
+00:37:40,000 --> 00:37:51,000
+ c'est même pas la peine de le demander, c'est nous, de partager mixte. Les dames seront avec les dames, les messieurs seront avec les messieurs.
+
+301
+00:37:51,000 --> 00:37:57,000
+ Et même si vous dites, oh oui, j'aimerais bien être avec ma copaine. Non.
+
+302
+00:37:57,000 --> 00:38:05,000
+ Vous savez, moi je ne suis pas marié, je ne possède pas le péché.
+
+303
+00:38:05,000 --> 00:38:10,000
+ Là je déconne vraiment, il y en a deux trois qui doivent se dire non non mais là il va loin quand même, il est déjà...
+
+304
+00:38:10,000 --> 00:38:17,000
+ C'est une vraie blague. Ceux d'entre vous qui ne connaissent peu, le comprendront, ils ne blagent pas de rôles. Je suis le spécialiste, je suis l'équipier.
+
+305
+00:38:18,000 --> 00:38:23,000
+ Je suis ravi de découvrir le bois au dins, je connais bien les hauts de bruyères et les bois francs.
+
+306
+00:38:23,000 --> 00:38:28,000
+ Comment expliquer à mes petits enfants que je ne les garderai pas ce mètre 22 pour aller à Felter Park ?
+
+307
+00:38:28,000 --> 00:38:31,000
+ Ah bah c'est le boulot les enfants, c'est pour le travail.
+
+308
+00:38:31,000 --> 00:38:41,000
+ Ah bah écoutez, je peux vous faire si vous voulez un certificat Marie. Je vous fais un mot d'excuse pour les petits enfants disant que non, désolé, c'est pas possible.
+
+309
+00:38:41,000 --> 00:38:46,000
+ Je peux pas, je ronfle trop fort nous dit Pierre. Ah mais oui mais chambre séparée.
+
+310
+00:38:46,000 --> 00:38:50,000
+ La barbe vous va très bien, c'est gentil. C'est gentil.
+
+311
+00:38:51,000 --> 00:38:55,000
+ C'est pas la vie de tout le monde, Michel vous dirait. Quoi mais non, il faut le raser avec un pétanze vert.
+
+312
+00:38:55,000 --> 00:39:02,000
+ 800 km pour Michel. Aïe. Un cottage pour 4 personnes c'est bien ça. Oui bien, normalement ça va être ça.
+
+313
+00:39:02,000 --> 00:39:09,000
+ Un cottage pour 4 personnes mais pas de partage de chambre. Pas de partage de chambre sauf pour les couples mariés.
+
+314
+00:39:09,000 --> 00:39:13,000
+ Ah, c'est vrai que vous êtes marié à Marina.
+
+315
+00:39:13,000 --> 00:39:25,000
+ Je n'avais pas pensé ça. Bon, on peut peut-être discuter des couples mariés mais je ne sais pas si c'est une bonne idée de mettre le doigt dans l'engrenage des exceptions.
+
+316
+00:39:25,000 --> 00:39:28,000
+ Bah écoutez, on va en discuter individuellement. On va voir.
+
+317
+00:39:28,000 --> 00:39:33,000
+ Est-ce que vous allez monter la garde ? Ah oui bien sûr. Bien sûr je vais monter la garde.
+
+318
+00:39:33,000 --> 00:39:45,000
+ Vous savez comme dans les pensionnats catholiques chez les jésuites dans l'ancien temps, il y en avait tout l'ourain qui était là avec son bâton là, qui tapait sur les mains des enfants si jamais ils faisaient du boucan.
+
+319
+00:39:45,000 --> 00:39:46,000
+ Exactement.
+
+320
+00:39:49,000 --> 00:39:57,000
+ Sandrine Pugnetti, Christelle Crespi et moi on veut avoir un logement ensemble. Pas de problème. On va organiser les choses comme...
+
+321
+00:39:57,000 --> 00:40:05,000
+ Véronique dit, le 22 novembre c'est l'anniversaire des 15 ans de mon fils. Il me demande s'il peut venir comme cadeau d'anniversaire.
+
+322
+00:40:05,000 --> 00:40:14,000
+ Euh... Non. Mais vous savez que le 22 novembre, et je vous jure que ce n'est pas une blague, c'est aussi mon anniversaire à moi.
+
+323
+00:40:14,000 --> 00:40:22,000
+ Je ne le présente pas. C'est mon anniversaire. Vous voyez, je fais une croix sur mon anniversaire en famille pour vous retrouver tous.
+
+324
+00:40:22,000 --> 00:40:25,000
+ Beaucoup d'entre vous qui vont dire arrêtez, on sait que vous n'avez pas de famille et pas d'amis Nicolas.
+
+325
+00:40:27,000 --> 00:40:33,000
+ Michel dit, ah non moi avec Marjorie. Ah non Michel, pas de couple mixte. C'est non.
+
+326
+00:40:36,000 --> 00:40:42,000
+ Non non non, les épouches en drapins, dit Véronique. Absinence pour rester concentré le lendemain.
+
+327
+00:40:45,000 --> 00:40:49,000
+ Alors... Ah mais on peut faire un gros gâteau pour Nicolas. Ah non j'ai pas de droit au gâteau.
+
+328
+00:40:49,000 --> 00:40:55,000
+ J'ai pas de droit au gâteau, je suis diabétique. On pourrait nous faciliter un gâteau sans sucre. Et tout le monde déteste ça.
+
+329
+00:40:59,000 --> 00:41:07,000
+ Alors... Alors il y en a plusieurs qui disent, bravo je veux être avec mon copain, avec ma copine, machin. Pas de mixte.
+
+330
+00:41:07,000 --> 00:41:09,000
+ C'est non, non, non, non.
+
+331
+00:41:10,000 --> 00:41:17,000
+ Éventuellement Guillaume et Marina qui sont mariées, vous pouvez peut-être l'étudier. Mais si vous n'êtes pas mariées, c'est non.
+
+332
+00:41:18,000 --> 00:41:21,000
+ C'est pas parce que je veux faire mon prude aussi.
+
+333
+00:41:21,000 --> 00:41:31,000
+ Vous savez à quel point je suis l'inverse de quelqu'un de prude ou de dégueul, non, je ne le dis pas parce que l'ordre féminin, on est là pour s'amuser, on est là pour boire un coup.
+
+334
+00:41:31,000 --> 00:41:48,000
+ Et on comprend tous aisément qu'il faut que tout le monde se sente à l'aise et que personne, parce qu'on a bu un petit coup de trop, se sente pas tout à fait à l'aise avec un camarade qui aurait abusé un petit peu du diet 27 ou d'autres choses.
+
+335
+00:41:48,000 --> 00:42:00,000
+ Pourquoi je dis diet 27 ? Parce qu'il paraît que l'Assemblée nationale s'est devenue l'alcool de prédilection pour ceux qui abusent de la buvette de l'Assemblée nationale et qui finissent par vomir dans les couloirs de l'Assemblée.
+
+336
+00:42:00,000 --> 00:42:09,000
+ C'est pas une légende, c'est vraiment arrivé. Je ne dirais pas qui a vomis dans les couloirs de l'Assemblée en abusant du diet 27.
+
+337
+00:42:09,000 --> 00:42:24,000
+ Tout ce que je vous dirais c'est qu'il est petit blond qui l'a pris du poids depuis son élection, qui porte le même nom qu'une célèbre émission où on doit faire des cabrioles dans un fort au large de la Rochelle et qui porte une doudoune en permanence.
+
+338
+00:42:24,000 --> 00:42:27,000
+ Vous devrez tout seul de qui il s'agit.
+
+339
+00:42:28,000 --> 00:42:30,000
+ Alors, quel est le coût de la formation ?
+
+340
+00:42:30,000 --> 00:42:33,000
+ Et bien ça c'est quelque chose qu'on va voir avec chacun d'entre vous en fait.
+
+341
+00:42:33,000 --> 00:42:36,000
+ Parce que c'est une question qui est très importante de la part de Jérôme.
+
+342
+00:42:36,000 --> 00:42:48,000
+ Alors, le coût de la formation c'est gratuit dans la mesure où vous ne payerez rien qui ne vous est pas déjà été remboursé par les âges et fils.
+
+343
+00:42:48,000 --> 00:42:51,000
+ On fait ça dans toutes les formations.
+
+344
+00:42:52,000 --> 00:42:57,000
+ Chacque ! Moi je me sens bien à l'aise avec Cathy et Fabienne, dis Camille.
+
+345
+00:42:57,000 --> 00:43:02,000
+ Camille, je vous donnais une bouteille de rouge d'ailleurs, je ne l'oublierai pas.
+
+346
+00:43:02,000 --> 00:43:07,000
+ Je vous avais promis une bouteille de vin, si je ne me trompe pas, de vin de Sicile qui est un de mes vins préférés.
+
+347
+00:43:07,000 --> 00:43:11,000
+ Je vous l'avais promis Camille et je vous l'apporterai ce jour-là.
+
+348
+00:43:11,000 --> 00:43:14,000
+ C'est une promesse, je m'y tiendrai.
+
+349
+00:43:15,000 --> 00:43:18,000
+ Donc je vous disais, on fait ça pour toutes les formations.
+
+350
+00:43:18,000 --> 00:43:26,000
+ Dans toutes les formations, vous savez que toute la partie de la formation est prise en charge par les âges et fils.
+
+351
+00:43:26,000 --> 00:43:34,000
+ Et nous, nous prenons à notre charge, à la charge de la vie de Carme, tout ce qui dépasse, les amusements, etc.
+
+352
+00:43:34,000 --> 00:43:45,000
+ Et à chaque formation, nous faisons extrêmement attention à ce que vous soyez d'abord remboursés par les âges et fils.
+
+353
+00:43:45,000 --> 00:43:52,000
+ Et nous en question le chef de la formation après, afin d'être sûrs que cela ne vous coûte rien.
+
+354
+00:43:52,000 --> 00:43:59,000
+ Et c'est nous qui nous occupons de l'intégralité des dossiers administratifs, dossiers de demande de financement auprès des âges et fils,
+
+355
+00:43:59,000 --> 00:44:05,000
+ les dossiers de demande de remboursement à l'issue de la formation, etc.
+
+356
+00:44:05,000 --> 00:44:12,000
+ Nous nous occupons de tout pour que vous n'ayez rien à faire et que ça ne vous coûte rien d'autre que le déplacement.
+
+357
+00:44:12,000 --> 00:44:17,000
+ Bien entendu, privilégier le procurat, ça vous coûtera beaucoup moins cher.
+
+358
+00:44:17,000 --> 00:44:21,000
+ Le coût de la formation sera calculé en fonction de deux choses.
+
+359
+00:44:21,000 --> 00:44:35,000
+ Est-ce que, je reviens sur mon petit keyword, vous venez, il est là, les 23 et 24 novembre, ou est-ce que vous venez les 22, 23 et 24 novembre,
+
+360
+00:44:35,000 --> 00:44:43,000
+ il faut venir le 22 pour pouvoir rattraper les horaires de formation 2022.
+
+361
+00:44:44,000 --> 00:44:48,000
+ Vous savez qu'en 2022, ceux d'entre vous, je disais, tous les marrages qui nous passaient,
+
+362
+00:44:48,000 --> 00:44:53,000
+ les formations loins d'ur doivent rattraper cette année d'une manière ou d'une autre.
+
+363
+00:44:53,000 --> 00:45:00,000
+ Et une des manières de le faire, si vous venez les 22, vous validez une journée supplémentaire de présence qu'il faudra émarger d'ailleurs.
+
+364
+00:45:00,000 --> 00:45:03,000
+ Vous connaissez la plupart d'entre vous, vous commencez à être habitué à la procédure.
+
+365
+00:45:03,000 --> 00:45:09,000
+ Vous avez passé un petit peu de temps avec moi pour faire les signatures, les émargements de bonne présence.
+
+366
+00:45:09,000 --> 00:45:15,000
+ Et si vous êtes en train d'étudier avec les AG6 la possibilité de les faire par voie électronique, ils n'ont pas l'air très chaud.
+
+367
+00:45:15,000 --> 00:45:17,000
+ Ils n'ont pas l'air très très très chaud.
+
+368
+00:45:17,000 --> 00:45:21,000
+ Donc, passons là-dessus.
+
+369
+00:45:21,000 --> 00:45:27,000
+ Donc, si vous venez les 23 et 24 novembre, et si vous venez les 22 et 23 et 24 novembre,
+
+370
+00:45:27,000 --> 00:45:35,000
+ voici un des paramètres qui va définir le coût de la formation qui, je vous le rappelle,
+
+371
+00:45:35,000 --> 00:45:41,000
+ sera pris en charge par les AG6 et pas par vous, vous serez remboursé avant.
+
+372
+00:45:41,000 --> 00:45:43,000
+ Et on l'a toujours fait tous les ans.
+
+373
+00:45:43,000 --> 00:45:45,000
+ C'est pas une belle promesse et il faut me croire sur ça.
+
+374
+00:45:45,000 --> 00:45:47,000
+ On le demandait aux copains, c'est comme ça que c'est, tous les ans.
+
+375
+00:45:47,000 --> 00:45:57,000
+ Donc, ce premier paramètre qui va définir le coût, le deuxième paramètre, ça va être quel est le plafond AG6 auquel vous avez droit.
+
+376
+00:45:57,000 --> 00:46:05,000
+ Parce que selon votre situation et les ventes que vous avez effectuées l'année dernière, vous avez droit à plus ou moins.
+
+377
+00:46:05,000 --> 00:46:11,000
+ Il y a trois, on va dire, financements possibles.
+
+378
+00:46:11,000 --> 00:46:15,000
+ Enfin, non pas financements, c'est le premier, c'est zéro.
+
+379
+00:46:15,000 --> 00:46:20,000
+ Ceux qui n'ont fait aucune vente l'année dernière sont finançables à zéro.
+
+380
+00:46:20,000 --> 00:46:24,000
+ On va voir individuellement avec vous ce qui est possible de faire.
+
+381
+00:46:24,000 --> 00:46:28,000
+ C'est notamment, je vais dire, Julie poser des questions là-dessus.
+
+382
+00:46:28,000 --> 00:46:40,000
+ Ceux d'entre vous qui ont entre, je crois que c'est zéro et un euro, si Mathieu vous pouvez me, quoi que j'ai un lien ici d'ailleurs avant mon entrée.
+
+383
+00:46:40,000 --> 00:46:44,000
+ J'ai un lien que Mathieu m'a redonné il y a quelques jours sur lequel j'ai travaillé.
+
+384
+00:46:44,000 --> 00:46:45,000
+ Je vais vous le récupérer tout de suite.
+
+385
+00:46:45,000 --> 00:46:48,000
+ Sur lequel j'ai travaillé pour faire ces financements.
+
+386
+00:46:48,000 --> 00:46:49,000
+ Je vais le reprendre tout de suite.
+
+387
+00:46:49,000 --> 00:46:51,000
+ Vous savez, c'est grave.
+
+388
+00:46:51,000 --> 00:46:53,000
+ Là encore, à Mathieu.
+
+389
+00:46:53,000 --> 00:46:58,000
+ D'ailleurs, je trouve que tous sont bien ce qu'il m'a mis.
+
+390
+00:46:58,000 --> 00:47:01,000
+ Une attestation de nos versiments.
+
+391
+00:47:01,000 --> 00:47:08,000
+ Le DPE, DPE, ça bouge, il va encore tout changer.
+
+392
+00:47:08,000 --> 00:47:16,000
+ C'est loin d'être fait parce que le ministre du budget, pas du budget, du logement ne veut pas.
+
+393
+00:47:16,000 --> 00:47:21,000
+ Mais le ministre des Finances veut modifier tout le DPE.
+
+394
+00:47:21,000 --> 00:47:24,000
+ Donc, je vous dis ça parce que Mathieu m'a envoyé un article sur le DPE.
+
+395
+00:47:24,000 --> 00:47:29,000
+ Je ne trouve plus le lien qu'il m'a envoyé là-dessus.
+
+396
+00:47:29,000 --> 00:47:33,000
+ Voilà, plafond financier année 2023.
+
+397
+00:47:33,000 --> 00:47:35,000
+ Le versier là, je vous le montre.
+
+398
+00:47:35,000 --> 00:47:38,000
+ Là, ici, maintenant.
+
+399
+00:47:38,000 --> 00:48:02,000
+ Voilà.
+
+400
+00:48:02,000 --> 00:48:10,000
+ Vous avez cotisé moins de 10 euros, c'est-à-dire de 0.
+
+401
+00:48:10,000 --> 00:48:12,000
+ Mais non, ce n'est pas le bon.
+
+402
+00:48:12,000 --> 00:48:13,000
+ Ça va pas s'il vous met.
+
+403
+00:48:13,000 --> 00:48:16,000
+ C'est 3000 euros maximum par mois.
+
+404
+00:48:16,000 --> 00:48:17,000
+ Bon, si.
+
+405
+00:48:17,000 --> 00:48:19,000
+ Supérieur à 10 euros, ce n'est pas moins.
+
+406
+00:48:19,000 --> 00:48:22,000
+ C'est à partir de 10 euros.
+
+407
+00:48:22,000 --> 00:48:24,000
+ Supérieur ou égal, c'est ici.
+
+408
+00:48:24,000 --> 00:48:30,000
+ À 10 euros, vous avez 3000 euros des âges et fils pour vos formations.
+
+409
+00:48:30,000 --> 00:48:35,000
+ Si vous avez moins de 10 euros, c'est 500 euros.
+
+410
+00:48:35,000 --> 00:48:40,000
+ Mais si vous avez, c'est où Mathieu, je ne retrouve plus.
+
+411
+00:48:40,000 --> 00:48:45,000
+ 0, 0 parce qu'en fait, c'est moins de 10 euros, mais plus de 1 euro.
+
+412
+00:48:45,000 --> 00:48:51,000
+ Si vous avez absolument 0, vous n'avez droit en théorie à rien.
+
+413
+00:48:51,000 --> 00:48:57,000
+ Si vous êtes nouvellement immatriculé cette année sous condition,
+
+414
+00:48:57,000 --> 00:49:01,000
+ sous condition, on peut éventuellement envisager les choses.
+
+415
+00:49:01,000 --> 00:49:04,000
+ Mais normalement, ce sont des formations avant installation,
+
+416
+00:49:04,000 --> 00:49:06,000
+ de même que les formations mille.
+
+417
+00:49:06,000 --> 00:49:08,000
+ Donc ça, on voit.
+
+418
+00:49:08,000 --> 00:49:11,000
+ Si vous en gros, c'est si vous êtes immatriculé cette année.
+
+419
+00:49:11,000 --> 00:49:15,000
+ Mais si vous le voyez, de 0 à 10 euros, ce n'est pas tout à fait vrai.
+
+420
+00:49:15,000 --> 00:49:18,000
+ Parce que si vous avez absolument 0, vous n'avez pas droit.
+
+421
+00:49:18,000 --> 00:49:20,000
+ Donc on va étudier tout ça.
+
+422
+00:49:20,000 --> 00:49:22,000
+ C'est le deuxième.
+
+423
+00:49:22,000 --> 00:49:26,000
+ Comme vous le savez, ce sont des cas généraux, mais ce n'est pas vrai.
+
+424
+00:49:26,000 --> 00:49:29,000
+ Ce ne sont que des cas particuliers.
+
+425
+00:49:29,000 --> 00:49:34,000
+ Parce que si vous êtes dans la catégorie AGFIS, si vous êtes dans la catégorie FIJPL,
+
+426
+00:49:34,000 --> 00:49:39,000
+ si vous êtes conjoint collaborateur, il n'y en a aucun parmi vous, mais c'est un autre truc.
+
+427
+00:49:39,000 --> 00:49:42,000
+ Ce n'est pas exactement la même chose si il y a écrit, y compris, conjoint collaborateur.
+
+428
+00:49:42,000 --> 00:49:44,000
+ Mais ce n'est pas tout à fait vrai.
+
+429
+00:49:44,000 --> 00:49:46,000
+ Si vous êtes conjoint collaborateur, il y a des critères supplémentaires
+
+430
+00:49:46,000 --> 00:49:48,000
+ qui viennent éventuellement entraver les choses.
+
+431
+00:49:48,000 --> 00:49:52,000
+ Donc tous les cas généraux que nous avons ici, d'ailleurs, je peux vous donner le lien à tous
+
+432
+00:49:52,000 --> 00:49:55,000
+ si vous voulez aller y jeter un œil, ça peut être utile.
+
+433
+00:49:55,000 --> 00:49:56,000
+ Hop !
+
+434
+00:49:56,000 --> 00:49:57,000
+ Et...
+
+435
+00:49:58,000 --> 00:50:00,000
+ Et, et, et, et, et...
+
+436
+00:50:00,000 --> 00:50:01,000
+ Je bouge ça.
+
+437
+00:50:01,000 --> 00:50:03,000
+ Et hop !
+
+438
+00:50:03,000 --> 00:50:07,000
+ Et ça, on va le faire individuellement avec chacun d'entre vous.
+
+439
+00:50:07,000 --> 00:50:13,000
+ Nous allons vous rappeler d'ici à la semaine prochaine individuellement pour voir tout ça.
+
+440
+00:50:14,000 --> 00:50:18,000
+ Nathalie dit, très important de venir le 22 pour moi.
+
+441
+00:50:18,000 --> 00:50:20,000
+ J'espère pouvoir venir, je dois être hospitalisé.
+
+442
+00:50:20,000 --> 00:50:23,000
+ J'espère que vous allez venir, Nathalie, bien sûr.
+
+443
+00:50:23,000 --> 00:50:25,000
+ Ça, c'est une évidence.
+
+444
+00:50:25,000 --> 00:50:29,000
+ Sommes-nous près de l'Aquamundo ou faut-il louer un vélo ?
+
+445
+00:50:29,000 --> 00:50:31,000
+ Non, vous avez un vélo inclus.
+
+446
+00:50:31,000 --> 00:50:32,000
+ On a prévu le truc.
+
+447
+00:50:32,000 --> 00:50:39,000
+ On a prévu le truc parce que, effectivement, vous pouvez être logé selon l'endroit où se trouve votre...
+
+448
+00:50:40,000 --> 00:50:42,000
+ votre petit chalet, là, votre...
+
+449
+00:50:42,000 --> 00:50:44,000
+ Ils appellent pas ça des chalets, ils appellent ça des crottes-règes.
+
+450
+00:50:44,000 --> 00:50:48,000
+ Vous pouvez être un petit peu loin parce que, regardez, je vais vous montrer celle de repars.
+
+451
+00:50:49,000 --> 00:50:50,000
+ C'est grand.
+
+452
+00:50:50,000 --> 00:50:52,000
+ C'est très, très, très, très grand.
+
+453
+00:50:52,000 --> 00:50:54,000
+ Vous le voyez, c'est ici.
+
+454
+00:50:54,000 --> 00:50:58,000
+ Et en fait, vous voyez la carte, là ?
+
+455
+00:50:58,000 --> 00:51:02,000
+ Tous ces petits serpentins, là, ce sont les...
+
+456
+00:51:02,000 --> 00:51:05,000
+ Si je zoome, ce sont les allées avec les cottage tout autour.
+
+457
+00:51:05,000 --> 00:51:06,000
+ Regardez.
+
+458
+00:51:06,000 --> 00:51:10,000
+ Je zoome, voilà, les petits cottage, cottage 915, cottage 912, cottage 911.
+
+459
+00:51:10,000 --> 00:51:11,000
+ Voilà.
+
+460
+00:51:11,000 --> 00:51:15,000
+ Et vous voyez que tout se passe ici au centre.
+
+461
+00:51:15,000 --> 00:51:16,000
+ C'est hyper beau.
+
+462
+00:51:16,000 --> 00:51:18,000
+ C'est hyper beau.
+
+463
+00:51:19,000 --> 00:51:22,000
+ Bon, je vais vous montrer d'autres photos que j'ai là.
+
+464
+00:51:22,000 --> 00:51:23,000
+ C'est très, très beau.
+
+465
+00:51:23,000 --> 00:51:27,000
+ Ça veut dire qu'ici, il y a l'Aquabundo.
+
+466
+00:51:27,000 --> 00:51:32,000
+ C'est un complexe de piscines et de toboggan intérieurs et extérieurs.
+
+467
+00:51:32,000 --> 00:51:38,000
+ Et même en automnivers, c'est hyper rigolo de passer dans le tunnel et aller vers l'extérieur,
+
+468
+00:51:38,000 --> 00:51:42,000
+ prendre l'eau fraîche et de revenir dans l'eau chaude.
+
+469
+00:51:42,000 --> 00:51:43,000
+ C'est super.
+
+470
+00:51:43,000 --> 00:51:44,000
+ C'est vachement chouette.
+
+471
+00:51:44,000 --> 00:51:47,000
+ Et il y a le petit lac.
+
+472
+00:51:47,000 --> 00:51:48,000
+ Le petit lac, ici, je vais vous montrer.
+
+473
+00:51:48,000 --> 00:51:49,000
+ C'est très beau tout ça.
+
+474
+00:51:49,000 --> 00:51:53,000
+ Le petit lac et ici, c'est là que tout se passe.
+
+475
+00:51:53,000 --> 00:51:55,000
+ Ici, je vais vous montrer les photos dans un instant.
+
+476
+00:51:55,000 --> 00:51:57,000
+ Ce sont les restaurants.
+
+477
+00:51:57,000 --> 00:52:07,000
+ Que je ne me trompe pas, je crois que le centre de séminaire convention, c'est ce que je suis en train de survoler là avec ma souris.
+
+478
+00:52:07,000 --> 00:52:08,000
+ Vous voyez ma souris.
+
+479
+00:52:08,000 --> 00:52:09,000
+ Ça, c'est le centre de...
+
+480
+00:52:09,000 --> 00:52:12,000
+ En fait, tout se passe ici sur cet espèce d'hylot central.
+
+481
+00:52:12,000 --> 00:52:15,000
+ C'est pas vraiment un hylot, mais le truc central.
+
+482
+00:52:15,000 --> 00:52:17,000
+ Et ça veut dire que, regardez vous, vous êtes assez loin.
+
+483
+00:52:17,000 --> 00:52:20,000
+ Imaginez que vous soyez ici.
+
+484
+00:52:20,000 --> 00:52:23,000
+ Alors, vous allez dire, oh, c'est pas très loin non plus.
+
+485
+00:52:23,000 --> 00:52:26,000
+ Mais vous avez des vélos.
+
+486
+00:52:26,000 --> 00:52:36,000
+ Chacun d'entre vous, on a dit ça dans la prestation, vous avez un vélo chacun pour pouvoir vous balader, vous promener dans la nature.
+
+487
+00:52:36,000 --> 00:52:41,000
+ Si vous voulez vous lever un petit peu plus tôt le matin pour aller vous promener dans les sentiers, etc.
+
+488
+00:52:41,000 --> 00:52:43,000
+ Vous voyez, vous pouvez aller vous balader assez loin.
+
+489
+00:52:43,000 --> 00:52:44,000
+ Vous venez à vélo ici, là.
+
+490
+00:52:44,000 --> 00:52:45,000
+ C'est chouette.
+
+491
+00:52:45,000 --> 00:52:46,000
+ C'est de la forêt.
+
+492
+00:52:46,000 --> 00:52:48,000
+ C'est très agréable.
+
+493
+00:52:48,000 --> 00:52:50,000
+ C'est très, très, très agréable.
+
+494
+00:52:50,000 --> 00:52:52,000
+ Donc les vélos sont inclus.
+
+495
+00:52:52,000 --> 00:52:56,000
+ Vous n'avez rien alloué en plus.
+
+496
+00:52:56,000 --> 00:52:58,000
+ Je compacterai les messages.
+
+497
+00:52:58,000 --> 00:53:02,000
+ Il faut arriver à quelle heure le 22 novembre pour que ce soit validé pour 2022?
+
+498
+00:53:02,000 --> 00:53:05,000
+ Ah bah l'idéal, c'est d'arriver en milieu de journée.
+
+499
+00:53:05,000 --> 00:53:11,000
+ Maintenant, si vous n'êtes pas de pile et que vous arrivez un petit peu plus tard, c'est bon.
+
+500
+00:53:11,000 --> 00:53:12,000
+ On y débrouillera.
+
+501
+00:53:12,000 --> 00:53:14,000
+ C'est nous qui faisons les démarchements quand même.
+
+502
+00:53:14,000 --> 00:53:16,000
+ On peut faire un petit peu de souplesse.
+
+503
+00:53:16,000 --> 00:53:18,000
+ C'est la classe.
+
+504
+00:53:18,000 --> 00:53:19,000
+ Les vélos sont plus sérieux.
+
+505
+00:53:19,000 --> 00:53:20,000
+ On va faire du sport, les amis.
+
+506
+00:53:20,000 --> 00:53:22,000
+ Donc vous n'en faites pas, Marie.
+
+507
+00:53:22,000 --> 00:53:25,000
+ L'idée, s'il faut, c'est que le plus important.
+
+508
+00:53:25,000 --> 00:53:29,000
+ On puisse vraiment justifier que vous êtes arrivé le 22.
+
+509
+00:53:29,000 --> 00:53:31,000
+ Le 22 dans la journée.
+
+510
+00:53:31,000 --> 00:53:33,000
+ C'est-à-dire avant le soir, avant la nuit.
+
+511
+00:53:33,000 --> 00:53:38,000
+ À partir du moment où on peut prouver, démontrer ça parce que vous avez signé votre truc démarchement
+
+512
+00:53:38,000 --> 00:53:40,000
+ et que vous avez pris.
+
+513
+00:53:40,000 --> 00:53:46,000
+ Parce que CenterParks nous fait une attestation avec qui est arrivé à quelle date, qui est arrivé à telle date.
+
+514
+00:53:46,000 --> 00:53:49,000
+ C'est nous qui nous sert à démontrer que vous êtes arrivé.
+
+515
+00:53:49,000 --> 00:53:52,000
+ Donc il faut que vous soyez là le 22 dans ce cas-là.
+
+516
+00:53:52,000 --> 00:53:54,000
+ Ça, c'est certain.
+
+517
+00:53:54,000 --> 00:54:01,000
+ Mais si vous n'arrivez pas pile en milieu de journée, on se débrouillera.
+
+518
+00:54:01,000 --> 00:54:05,000
+ Enfin, plus tôt vous arrivez, plus tôt vous pouvez bénéficier des installations.
+
+519
+00:54:05,000 --> 00:54:08,000
+ Bien entendu, le 22 au soir, on dine ensemble.
+
+520
+00:54:08,000 --> 00:54:14,000
+ Au lieu de faire qu'on est tous ensemble, c'est pris en charge également par nous.
+
+521
+00:54:14,000 --> 00:54:20,000
+ Donc, il arrive, j'ai pris le crâne en marche, on vous donnera la vidéo, c'est promis.
+
+522
+00:54:20,000 --> 00:54:29,000
+ C'est quand, regardez, ce sont les 22 plus 23 et 24 novembre.
+
+523
+00:54:29,000 --> 00:54:31,000
+ 23 et 24 novembre, c'est le séminaire à proprement parler.
+
+524
+00:54:31,000 --> 00:54:36,000
+ 22, c'est une journée supplémentaire pendant laquelle vous pouvez bénéficier de toutes les installations de CenterParks
+
+525
+00:54:36,000 --> 00:54:42,000
+ qui nous permet de valider également vos 14 heures de lois allures de 2022.
+
+526
+00:54:42,000 --> 00:54:47,000
+ Et on en reparlera, Hélène, de toute manière, soyez tranquille.
+
+527
+00:54:47,000 --> 00:54:51,000
+ Moi, j'aimerais bien être avec Elodie Potras si elle veut bien nous dire héroïque.
+
+528
+00:54:51,000 --> 00:54:56,000
+ Écoutez, pas de soucis, voyez ça ensemble et vous nous dites tout simplement,
+
+529
+00:54:56,000 --> 00:55:00,000
+ tant qu'on respecte les petites règles que j'ai énoncées tout à l'heure.
+
+530
+00:55:00,000 --> 00:55:08,000
+ Alors, je voulais vous montrer également ici d'autres photos éventuellement.
+
+531
+00:55:08,000 --> 00:55:12,000
+ Est-ce que je peux faire échappe ici? Est-ce que j'arrive sur la bonne liste?
+
+532
+00:55:12,000 --> 00:55:16,000
+ Oui, que ça ne vous montre pas encore les photos de mon chien ou je ne sais pas quoi parce que...
+
+533
+00:55:16,000 --> 00:55:23,000
+ Hop là, pouf, je vais vous montrer d'autres photos.
+
+534
+00:55:23,000 --> 00:55:26,000
+ Les voici parce que je sais que...
+
+535
+00:55:26,000 --> 00:55:31,000
+ Les voici, donc revoici... Moi, c'est personnel, j'ai trouvé ça très mignon.
+
+536
+00:55:31,000 --> 00:55:36,000
+ Ce petit machin là en bois, c'est très bien fait, c'est très joli.
+
+537
+00:55:36,000 --> 00:55:40,000
+ Bon, j'ai peut-être encore mon âme d'enfant, si c'est...
+
+538
+00:55:40,000 --> 00:55:42,000
+ Vous voyez, j'ai beaucoup pris en photo.
+
+539
+00:55:42,000 --> 00:55:45,000
+ Cette photo là, elle est un peu ratée, la nuit a commencé à tomber.
+
+540
+00:55:45,000 --> 00:55:47,000
+ Bon, je vous avouerais que...
+
+541
+00:55:47,000 --> 00:55:49,000
+ Donc ça, ce sont les petits cottages.
+
+542
+00:55:49,000 --> 00:55:55,000
+ Alors, vous pouvez accéder en voiture uniquement le temps d'aller déposer vos bagages au cottage.
+
+543
+00:55:55,000 --> 00:55:59,000
+ Ensuite, vous devez aller déposer vos voitures au parking qui vous a été assigné.
+
+544
+00:55:59,000 --> 00:56:04,000
+ Il y a un parking pour chaque emplacement, je vais vous montrer ça ici.
+
+545
+00:56:04,000 --> 00:56:07,000
+ Alors, c'est un parking sur le site, bien sûr, ce n'est pas extérieur.
+
+546
+00:56:07,000 --> 00:56:10,000
+ Donc, vous voyez, imaginons que vous soyez dans le hameau B.
+
+547
+00:56:10,000 --> 00:56:12,000
+ Ça, c'est le hameau.
+
+548
+00:56:12,000 --> 00:56:14,000
+ Alors, attendez, je vais... Voilà.
+
+549
+00:56:14,000 --> 00:56:16,000
+ Ça, c'est le hameau B.
+
+550
+00:56:16,000 --> 00:56:22,000
+ Vous avez le droit de prendre l'allée en voiture pour aller déposer vos bagages dans votre cottage.
+
+551
+00:56:22,000 --> 00:56:27,000
+ Ensuite, vous devez aller déposer votre voiture au parking de votre hameau.
+
+552
+00:56:27,000 --> 00:56:33,000
+ Donc, ça veut dire que vous avez un parking pour la voiture, bien sûr.
+
+553
+00:56:33,000 --> 00:56:37,000
+ Le terrain de Badmington est là.
+
+554
+00:56:37,000 --> 00:56:39,000
+ Il y a un petit carrefour market.
+
+555
+00:56:39,000 --> 00:56:43,000
+ Alors, attention, carrefour market qui est là.
+
+556
+00:56:43,000 --> 00:56:44,000
+ Je ne sais pas où.
+
+557
+00:56:44,000 --> 00:56:46,000
+ Carrefour express, excusez-moi.
+
+558
+00:56:46,000 --> 00:56:52,000
+ Ça coûte la peau des fesses.
+
+559
+00:56:52,000 --> 00:56:56,000
+ Donc, petit conseil, c'est pire qu'une station d'autoroute.
+
+560
+00:56:56,000 --> 00:56:59,000
+ C'est pire qu'une station d'autoroute, ce machin.
+
+561
+00:56:59,000 --> 00:57:06,000
+ Donc, je vous conseille vivement, si vous aimez des fruits particuliers et des légumes,
+
+562
+00:57:06,000 --> 00:57:13,000
+ si vous voulez des capsules de café, parce que vous êtes comme moi un très gros consommateur de café,
+
+563
+00:57:13,000 --> 00:57:17,000
+ comme je vous ai montré, je vais vous montrer dans un instant, il y a des machines à café dans chaque truc,
+
+564
+00:57:17,000 --> 00:57:20,000
+ achetez-les chez vous avant de venir.
+
+565
+00:57:20,000 --> 00:57:22,000
+ Vous ne dites pas, je les achèterai chez Carrefour.
+
+566
+00:57:22,000 --> 00:57:24,000
+ Pourquoi ? Parce que c'est terriblement cher.
+
+567
+00:57:24,000 --> 00:57:26,000
+ C'est terriblement cher.
+
+568
+00:57:26,000 --> 00:57:32,000
+ Le seul défaut que j'ai trouvé, vous voyez, c'est un petit joint ici que j'ai trouvé un peu cracra.
+
+569
+00:57:32,000 --> 00:57:36,000
+ Ça m'a surpris parce que tout le reste est tellement nickel.
+
+570
+00:57:36,000 --> 00:57:41,000
+ Ça, regardez, c'est une photo que j'ai prise le matin tôt.
+
+571
+00:57:41,000 --> 00:57:44,000
+ Il y a un et deux dins. Je ne sais pas si vous les voyez.
+
+572
+00:57:44,000 --> 00:57:47,000
+ En noir, vous voyez le din ici à droite.
+
+573
+00:57:47,000 --> 00:57:51,000
+ Il y avait un petit bébé à gauche là qui est un petit peu plus clair.
+
+574
+00:57:51,000 --> 00:57:54,000
+ C'était très tôt le matin.
+
+575
+00:57:57,000 --> 00:58:02,000
+ Là, vous voyez, on les voit un petit peu mieux mais zoomé, mais pas très bonne qualité.
+
+576
+00:58:02,000 --> 00:58:05,000
+ Ces photos, elles n'est pas belles non plus.
+
+577
+00:58:05,000 --> 00:58:09,000
+ Ça, c'est le fameux endroit où tout se passe.
+
+578
+00:58:09,000 --> 00:58:13,000
+ Les restaurants, c'est le petit îlot que je vous montrais il y a un instant.
+
+579
+00:58:13,000 --> 00:58:16,000
+ C'est ce que j'appelais un îlot qui n'en est pas vraiment vingt.
+
+580
+00:58:16,000 --> 00:58:19,000
+ La photo n'est pas très belle parce que c'était à la tombée de la nuit
+
+581
+00:58:19,000 --> 00:58:22,000
+ et j'ai mis la luminosité maximum.
+
+582
+00:58:22,000 --> 00:58:26,000
+ Vous savez que plus on met de lumière artificielle sur une photo, moins la photo est belle.
+
+583
+00:58:26,000 --> 00:58:32,000
+ C'est une certitude dont vous voyez quelques photos du truc.
+
+584
+00:58:32,000 --> 00:58:36,000
+ Par ces photos du seuil où on prend les repas.
+
+585
+00:58:36,000 --> 00:58:38,000
+ Pas le repas du deuxième jour.
+
+586
+00:58:38,000 --> 00:58:41,000
+ Le deuxième jour, ce sera un repas un petit peu différent.
+
+587
+00:58:41,000 --> 00:58:44,000
+ Mais les petits déjeuners, les déjeuners, là, il y a mon doigt.
+
+588
+00:58:44,000 --> 00:58:47,000
+ J'ai mal pris ma photo.
+
+589
+00:58:47,000 --> 00:58:52,000
+ Les petits déjeuners, les déjeuners, ça se déroule ici.
+
+590
+00:58:58,000 --> 00:59:01,000
+ Les gens qui sont ici ne finiront pas, je vous promets.
+
+591
+00:59:01,000 --> 00:59:06,000
+ Si quelqu'un reconnaît son beau frère Jean-Claude et qu'il n'a pas envie de le voir, soyez tranquille.
+
+592
+00:59:06,000 --> 00:59:09,000
+ Jean-Claude ne sera pas là.
+
+593
+00:59:09,000 --> 00:59:11,000
+ Ça c'est la nuit.
+
+594
+00:59:11,000 --> 00:59:15,000
+ Ce ne sont pas de très belles photos parce que j'essayais vraiment de prendre des choses avec luminosité.
+
+595
+00:59:15,000 --> 00:59:17,000
+ Ah, ça c'est pas mal ça.
+
+596
+00:59:17,000 --> 00:59:21,000
+ Là justement, j'ai baissé la luminosité et c'est plutôt pas mal.
+
+597
+00:59:21,000 --> 00:59:23,000
+ Vous voyez, c'est très joli.
+
+598
+00:59:23,000 --> 00:59:28,000
+ C'est très très très beau, même si toutes les photos ne sont pas absolument superbes.
+
+599
+00:59:31,000 --> 00:59:33,000
+ Ça c'est les chambres.
+
+600
+00:59:33,000 --> 00:59:35,000
+ Les toilettes.
+
+601
+00:59:40,000 --> 00:59:43,000
+ Pour un salon que je vous montrais tout à l'heure.
+
+602
+00:59:43,000 --> 00:59:48,000
+ Ça c'est la cuisinette. Alors vous voyez, ce sont des machines à café Dolce Gusto.
+
+603
+00:59:48,000 --> 00:59:57,000
+ Je vous mets ici, si vous voulez prévoir, parce qu'il y a deux trois capsules, bien sûr Dolce Gusto.
+
+604
+00:59:57,000 --> 01:00:05,000
+ Si vous voulez prévoir vos propres capsules, ne prenez pas des Nespresso, ne prenez pas des je ne sais pas quelle marque.
+
+605
+01:00:05,000 --> 01:00:09,000
+ Prenez bien des Dolce Gusto et vous serez tranquille.
+
+606
+01:00:09,000 --> 01:00:19,000
+ Vous n'aurez pas besoin d'aller en acheter un je ne sais pas quel prix exorbitant à la petite supérette du machin qu'il y a.
+
+607
+01:00:21,000 --> 01:00:25,000
+ Ça c'est les machines à café Dolce Gusto.
+
+608
+01:00:25,000 --> 01:00:28,000
+ Les photos ne sont vraiment pas belles du tout.
+
+609
+01:00:29,000 --> 01:00:31,000
+ Voilà, ça c'est...
+
+610
+01:00:31,000 --> 01:00:35,000
+ Je vais vous écouter un petit peu mais c'est pour ça qu'avec mon ordinateur...
+
+611
+01:00:35,000 --> 01:00:37,000
+ Donc vous voyez, c'est pas mal.
+
+612
+01:00:37,000 --> 01:00:39,000
+ C'est pas mal du tout.
+
+613
+01:00:39,000 --> 01:00:44,000
+ Je passe un petit peu rapidement parce que vous n'êtes pas là pour venir voir un truc.
+
+614
+01:00:44,000 --> 01:00:46,000
+ Ah regardez, j'ai tout vérifié.
+
+615
+01:00:46,000 --> 01:00:49,000
+ Comme par exemple, oui, je suis allé loin.
+
+616
+01:00:49,000 --> 01:00:54,000
+ Je suis allé vérifier, celui de ma tela, c'est comment, est-ce que c'est propre, est-ce que c'est pas propre.
+
+617
+01:00:54,000 --> 01:00:57,000
+ Vous savez, j'ai un petit problème avec l'hygiène au réel général.
+
+618
+01:00:57,000 --> 01:01:00,000
+ Vous savez, je suis un peu particulier comme garçon.
+
+619
+01:01:00,000 --> 01:01:05,000
+ Donc je suis allé même vérifier l'état de propreté des litruis.
+
+620
+01:01:05,000 --> 01:01:13,000
+ Alors bien entendu, c'est d'hôtellerie, donc vous avez savon et shampoing et serviettes fournies, c'est évident.
+
+621
+01:01:13,000 --> 01:01:16,000
+ Vous voyez qu'il y a même un lit bébé.
+
+622
+01:01:16,000 --> 01:01:23,000
+ Donc si jamais Canet veut être sûr que Julien ne s'échappe pas de son lit pendant la nuit, il peut lui mettre son lit bébé avec barreau.
+
+623
+01:01:24,000 --> 01:01:27,000
+ Et là tout le monde se dit, mais qu'est-ce que c'est que ce délire ?
+
+624
+01:01:27,000 --> 01:01:33,000
+ Entre Camille et Julien, les blagues, ça fuise à toute vitesse pour que je participe.
+
+625
+01:01:33,000 --> 01:01:37,000
+ Donc vous le voyez, première chose que j'ai faite, je me suis lavé les mains.
+
+626
+01:01:37,000 --> 01:01:39,000
+ Ça ne surprendra personne.
+
+627
+01:01:39,000 --> 01:01:41,000
+ Vous voyez, c'est propre, c'est pas mal, c'est chouette.
+
+628
+01:01:41,000 --> 01:01:48,000
+ C'est, niveau hôtellerie, c'est au même niveau que Beauval il y a quelques années.
+
+629
+01:01:48,000 --> 01:01:51,000
+ C'est pareil, c'est le même niveau de propreté de standing.
+
+630
+01:01:51,000 --> 01:01:54,000
+ Et ce truc pas super que j'ai vu, vous allez voir, sont les chaises là.
+
+631
+01:01:54,000 --> 01:01:57,000
+ Et évidemment, ils ont fait un mauvais choix, ils sont plutôt abîmés.
+
+632
+01:01:57,000 --> 01:01:59,000
+ Je vais vous montrer, j'ai pris une photo des chaises.
+
+633
+01:01:59,000 --> 01:02:01,000
+ C'est propre, c'est chouette, c'est très agréable.
+
+634
+01:02:01,000 --> 01:02:04,000
+ C'est très cosy, c'est vraiment très très agréable.
+
+635
+01:02:04,000 --> 01:02:08,000
+ Ah voilà, c'est une meilleure photo quand même de la cuisine.
+
+636
+01:02:08,000 --> 01:02:12,000
+ Alors je vous dis, la cuisine et le café, là, c'est ma trottinette.
+
+637
+01:02:12,000 --> 01:02:16,000
+ Laurent, je ne le sais pas, mais c'est sur les conseils de Laurent.
+
+638
+01:02:16,000 --> 01:02:18,000
+ J'ai fini par acheter une trottinette.
+
+639
+01:02:18,000 --> 01:02:20,000
+ Et puis là-dessus, Laurent m'a dit, prenez une trottinette dans Paris
+
+640
+01:02:20,000 --> 01:02:22,000
+ parce que vous n'arriverez plus à circuler.
+
+641
+01:02:22,000 --> 01:02:24,000
+ Je lui ai dit, bah ouais, je devrais y sonner.
+
+642
+01:02:24,000 --> 01:02:28,000
+ Puisque je n'arrive plus à circuler dans Paris, j'ai acheté une trottinette.
+
+643
+01:02:28,000 --> 01:02:30,000
+ Grâce à madame Hidalgo.
+
+644
+01:02:30,000 --> 01:02:33,000
+ Je lui montre s'il n'a pas des actions chez les fabricants de trottinettes.
+
+645
+01:02:33,000 --> 01:02:38,000
+ Donc, je vous montre le coin cuisine et la machine de p'tit gousseau,
+
+646
+01:02:38,000 --> 01:02:43,000
+ mais les petits déjeuners sont inclus.
+
+647
+01:02:43,000 --> 01:02:45,000
+ On prend les petits déjeuners ensemble.
+
+648
+01:02:45,000 --> 01:02:46,000
+ Voilà, c'est ça.
+
+649
+01:02:46,000 --> 01:02:50,000
+ Les chaises, vous voyez, un truc un peu pas très joli.
+
+650
+01:02:50,000 --> 01:02:52,000
+ Parce qu'apparemment, j'en ai discuté avec la dame.
+
+651
+01:02:52,000 --> 01:02:55,000
+ Elle m'a dit, ça, on a fait une erreur quand on a choisi ces chaises-là.
+
+652
+01:02:55,000 --> 01:02:57,000
+ On en a acheté pour tous les cottages.
+
+653
+01:02:57,000 --> 01:02:58,000
+ Elles sont pas de bonne qualité.
+
+654
+01:02:58,000 --> 01:03:00,000
+ Donc, les chaises, c'est le truc qui est pas joli.
+
+655
+01:03:00,000 --> 01:03:03,000
+ Et c'est à peu près comme ça dans tous les cottages.
+
+656
+01:03:03,000 --> 01:03:08,000
+ Vous voyez, c'est le seul point négatif. Vraiment le seul.
+
+657
+01:03:08,000 --> 01:03:13,000
+ Sinon, oui, ça c'est...
+
+658
+01:03:13,000 --> 01:03:16,000
+ Donc, oui, des trucs thermostatiques.
+
+659
+01:03:16,000 --> 01:03:18,000
+ Voilà.
+
+660
+01:03:18,000 --> 01:03:23,000
+ Donc, vous le voyez, c'est plutôt chouette, plutôt propre,
+
+661
+01:03:23,000 --> 01:03:25,000
+ plutôt bien fichu.
+
+662
+01:03:25,000 --> 01:03:30,000
+ Ah, ça, c'est le petit bracelet qu'on vous donne quand vous arrivez.
+
+663
+01:03:30,000 --> 01:03:31,000
+ C'est ce qui vous sert à ouvrir.
+
+664
+01:03:31,000 --> 01:03:34,000
+ Vous devez porter, alors si vous le mettez dans la poche, c'est pas grave.
+
+665
+01:03:34,000 --> 01:03:36,000
+ Vous devez porter ce petit bracelet pendant le séjour
+
+666
+01:03:36,000 --> 01:03:39,000
+ pour ouvrir les portes de votre cottage.
+
+667
+01:03:39,000 --> 01:03:42,000
+ Et puis, ça prouve que vous êtes arrivés quel jour, à quelle heure, machin, etc.
+
+668
+01:03:42,000 --> 01:03:46,000
+ Donc, chacun d'entre vous, vous avez un petit bracelet.
+
+669
+01:03:46,000 --> 01:03:48,000
+ Ça, je crois que ce sont à nouveau les petits dins.
+
+670
+01:03:48,000 --> 01:03:52,000
+ Oui, voyez, la photo est pas très belle, mais ça, ça va arriver dans quelques ans.
+
+671
+01:03:52,000 --> 01:03:54,000
+ Un autre dins.
+
+672
+01:03:54,000 --> 01:03:56,000
+ C'est pour ça que la semaine dernière ou la semaine d'avant,
+
+673
+01:03:56,000 --> 01:04:01,000
+ en Indice, vous avez montré des animaux de la forêt.
+
+674
+01:04:01,000 --> 01:04:04,000
+ Peut-être pour ça, et c'est grâce à ça, d'ailleurs, je crois,
+
+675
+01:04:04,000 --> 01:04:07,000
+ que Corinne avait deviné.
+
+676
+01:04:07,000 --> 01:04:10,000
+ Donc, voyez, c'est tout ça.
+
+677
+01:04:12,000 --> 01:04:13,000
+ C'est très joli.
+
+678
+01:04:13,000 --> 01:04:16,000
+ C'est très joli, c'est très chouette, c'est très très agréable.
+
+679
+01:04:16,000 --> 01:04:18,000
+ Qu'est-ce qu'il y a d'autre comme question ?
+
+680
+01:04:18,000 --> 01:04:20,000
+ Je vous invite à l'école-art.
+
+681
+01:04:20,000 --> 01:04:22,000
+ Rendez-vous au basket pour 19h15.
+
+682
+01:04:22,000 --> 01:04:24,000
+ Les collègues finiront d'expliquer.
+
+683
+01:04:24,000 --> 01:04:26,000
+ On fait une réunion la semaine prochaine, de toute manière.
+
+684
+01:04:26,000 --> 01:04:28,000
+ Oui, de toute façon, on fait une réunion tous ensemble la semaine prochaine.
+
+685
+01:04:28,000 --> 01:04:30,000
+ C'est sur Marjorie et Sandrine.
+
+686
+01:04:30,000 --> 01:04:34,000
+ J'ai bien noté pour notre visoconférence, là, montée en gamme du numéro 2,
+
+687
+01:04:34,000 --> 01:04:36,000
+ pour jeudi prochain à 15h.
+
+688
+01:04:36,000 --> 01:04:37,000
+ J'ai bien noté pour moi.
+
+689
+01:04:37,000 --> 01:04:39,000
+ Combien de filles il faut par logement ?
+
+690
+01:04:39,000 --> 01:04:40,000
+ Normalement, c'est 4.
+
+691
+01:04:40,000 --> 01:04:42,000
+ Oui, on est bien 4 par chalet.
+
+692
+01:04:42,000 --> 01:04:45,000
+ C'est deux questions, Jéradine et Zéronique, en même temps.
+
+693
+01:04:45,000 --> 01:04:49,000
+ C'est 4 personnes par chalet, 4 personnes du même sexe.
+
+694
+01:04:49,000 --> 01:04:51,000
+ Certains vous diront du même genre.
+
+695
+01:04:51,000 --> 01:04:53,000
+ Il ne faut pas confondre genre et sexe.
+
+696
+01:04:53,000 --> 01:04:55,000
+ Je suis dans un train à trop mauvaise vison.
+
+697
+01:04:55,000 --> 01:04:57,000
+ Merci de m'envoyer le replay.
+
+698
+01:04:59,000 --> 01:05:01,000
+ Quelle marque la quartière dans le cottage ?
+
+699
+01:05:01,000 --> 01:05:03,000
+ Ah, ma Christelle avait devancé ma question.
+
+700
+01:05:03,000 --> 01:05:05,000
+ Donc, c'est Dolce & Gusto.
+
+701
+01:05:05,000 --> 01:05:08,000
+ On peut aller en quatre sues parce que sur place, c'est beaucoup trop cher.
+
+702
+01:05:08,000 --> 01:05:10,000
+ Les logements sont de combien de chambres ?
+
+703
+01:05:10,000 --> 01:05:11,000
+ Aux capacités de couchage, 4.
+
+704
+01:05:11,000 --> 01:05:13,000
+ Oui, c'est 4 personnes.
+
+705
+01:05:13,000 --> 01:05:15,000
+ On peut en mettre plus si on met plusieurs par chambre.
+
+706
+01:05:15,000 --> 01:05:18,000
+ Mais nous avons bien dit, nous voulons une personne par chambre.
+
+707
+01:05:18,000 --> 01:05:20,000
+ Pas de punaise de lits ? Non.
+
+708
+01:05:20,000 --> 01:05:22,000
+ Je suis allé, je ne le levais pas.
+
+709
+01:05:22,000 --> 01:05:26,000
+ Vous pourriez faire confiance à la répression des fraudes pour l'hygiène.
+
+710
+01:05:26,000 --> 01:05:28,000
+ Ah oui, alors ça pour l'hygiène, croyez-moi.
+
+711
+01:05:28,000 --> 01:05:30,000
+ Si c'était moi qui disais ça, il y aurait des amandes.
+
+712
+01:05:30,000 --> 01:05:31,000
+ Ohlalalala.
+
+713
+01:05:31,000 --> 01:05:34,000
+ Y a-t-il possibilité de prendre un café dans la chambre avant d'aller au petit-déj' ?
+
+714
+01:05:34,000 --> 01:05:35,000
+ Tout à fait, justement.
+
+715
+01:05:35,000 --> 01:05:38,000
+ Café, thé, prévoyez vos sachets, prévoyez vos capsules.
+
+716
+01:05:38,000 --> 01:05:41,000
+ Mais il y a une bouilloire également, vous le voyez.
+
+717
+01:05:41,000 --> 01:05:43,000
+ Il y a une bouilloire.
+
+718
+01:05:43,000 --> 01:05:47,000
+ Vous avez du matériel nécessaire de cuisine.
+
+719
+01:05:47,000 --> 01:05:49,000
+ Bouilloire, machine.
+
+720
+01:05:49,000 --> 01:05:54,000
+ Alors, il y a aussi, là vous ne la voyez pas, il y a une machine à café chiffre aussi.
+
+721
+01:05:54,000 --> 01:05:56,000
+ Ceux qui préfèrent le café chiffre.
+
+722
+01:05:56,000 --> 01:05:58,000
+ Parce que c'est vrai que Dolce & Gusto, etc.
+
+723
+01:05:58,000 --> 01:06:03,000
+ C'est très bien pour les boissons, les cappuccinos, les chocolats, etc.
+
+724
+01:06:03,000 --> 01:06:06,000
+ Mais pour le café café pur, c'est vrai que pour la penteur,
+
+725
+01:06:06,000 --> 01:06:08,000
+ on préfère le café chiffre bien fort.
+
+726
+01:06:08,000 --> 01:06:10,000
+ J'aime le café très fort.
+
+727
+01:06:10,000 --> 01:06:13,000
+ Donc ceux d'entre vous qui préféreraient du café chiffre,
+
+728
+01:06:13,000 --> 01:06:16,000
+ il y a également des machines à café normales.
+
+729
+01:06:16,000 --> 01:06:19,000
+ Prenez vos paquets de café grand-mère, café je sais pas quoi.
+
+730
+01:06:19,000 --> 01:06:22,000
+ En plus des Dolce & Gusto si vous préférez.
+
+731
+01:06:22,000 --> 01:06:25,000
+ Donc oui, vous pouvez vous faire un café.
+
+732
+01:06:25,000 --> 01:06:27,000
+ Est-ce que j'ai une autre photo de la machine à café ?
+
+733
+01:06:27,000 --> 01:06:30,000
+ Ah oui, une photo vilaine de la Dolce & Gusto qui est là.
+
+734
+01:06:30,000 --> 01:06:32,000
+ Si vous stockez là, vous pouvez.
+
+735
+01:06:32,000 --> 01:06:36,000
+ Et là encore, pour prendre le petit déjeuner en toute sécurité,
+
+736
+01:06:36,000 --> 01:06:40,000
+ Camille pourra mettre Julien dans son siège adapté qui est ici.
+
+737
+01:06:40,000 --> 01:06:43,000
+ J'ai demandé expressément à ce qu'il en ait un.
+
+738
+01:06:43,000 --> 01:06:44,000
+ Et deuxième cartouche.
+
+739
+01:06:44,000 --> 01:06:47,000
+ C'est toujours Camille qui prend avec son déambulateur.
+
+740
+01:06:47,000 --> 01:06:50,000
+ Donc aujourd'hui, c'est Julien avec le siège adapté.
+
+741
+01:06:50,000 --> 01:06:53,000
+ Il va me détester ça.
+
+742
+01:06:56,000 --> 01:06:58,000
+ Alors c'est très sympa effectivement.
+
+743
+01:06:58,000 --> 01:07:04,000
+ Mais le péché où il file avec un garçon ou garçon avec un garçon, c'est possible.
+
+744
+01:07:04,000 --> 01:07:07,000
+ Je sais pas si c'est moins péché ou si c'est encore plus péché.
+
+745
+01:07:07,000 --> 01:07:09,000
+ Oh là là !
+
+746
+01:07:09,000 --> 01:07:10,000
+ Ça risque d'être...
+
+747
+01:07:10,000 --> 01:07:14,000
+ Là, ce sont des questions théologiques que je ne saurais pas en mesure de trancher.
+
+748
+01:07:16,000 --> 01:07:19,000
+ Alors est-ce que vous avez d'autres questions les amis ?
+
+749
+01:07:19,000 --> 01:07:22,000
+ Julien ne rentre pas dedans.
+
+750
+01:07:23,000 --> 01:07:25,000
+ Est-ce que vous avez...
+
+751
+01:07:25,000 --> 01:07:29,000
+ Je rigole Julien mais je fais la même taille que lui.
+
+752
+01:07:29,000 --> 01:07:34,000
+ Mais c'est vrai qu'à côté de Camille qui fait 3,50 m,
+
+753
+01:07:34,000 --> 01:07:38,000
+ Julien et moi on le regarde de haut en disant comment ça va papa ?
+
+754
+01:07:40,000 --> 01:07:45,000
+ Alors, alors alors alors, il y a-t-il d'autres questions mes chers amis ?
+
+755
+01:07:45,000 --> 01:07:49,000
+ Si vous voulez avoir la parole que j'active au micro pour entrer dans une question plus complexe,
+
+756
+01:07:49,000 --> 01:07:53,000
+ vous n'hésitez pas, vous n'hésitez absolument pas.
+
+757
+01:07:53,000 --> 01:07:56,000
+ Alors, déjà une question que j'aimerais vous poser c'est
+
+758
+01:07:56,000 --> 01:07:59,000
+ est-ce que vous pensez qu'on a vu juste en choisissant,
+
+759
+01:07:59,000 --> 01:08:03,000
+ ou est-ce que c'est pas trop ce à quoi vous vous attendiez ?
+
+760
+01:08:03,000 --> 01:08:05,000
+ Est-il un miroir dans la salle de bain ?
+
+761
+01:08:05,000 --> 01:08:08,000
+ Oui, il y a un miroir dans la salle de bain, bien sûr.
+
+762
+01:08:10,000 --> 01:08:13,000
+ Julien c'est 3,5 m de tour de taille.
+
+763
+01:08:13,000 --> 01:08:15,000
+ Oh le méchant !
+
+764
+01:08:15,000 --> 01:08:16,000
+ Le méchant Hugues.
+
+765
+01:08:16,000 --> 01:08:20,000
+ Le méchant Hugues, comme Hugues, il est tout mince, tout beau, tout...
+
+766
+01:08:20,000 --> 01:08:25,000
+ et que Julien et moi peut-être qu'avec l'âge on a pris un petit peu dans bon point,
+
+767
+01:08:25,000 --> 01:08:27,000
+ il lui met un taquet pour ça.
+
+768
+01:08:27,000 --> 01:08:28,000
+ C'est pas gentil.
+
+769
+01:08:28,000 --> 01:08:30,000
+ Donc est-ce qu'il y a des miroirs dans la salle de bain ?
+
+770
+01:08:30,000 --> 01:08:32,000
+ Oui bien sûr, c'est une salle de bain.
+
+771
+01:08:32,000 --> 01:08:35,000
+ D'ailleurs je sais pas si dans les cottages il y a une salle de bain,
+
+772
+01:08:35,000 --> 01:08:38,000
+ il n'y a pas une salle de bain et une salle d'eau.
+
+773
+01:08:38,000 --> 01:08:40,000
+ Il me semble qu'il y a des deux.
+
+774
+01:08:40,000 --> 01:08:45,000
+ Il me semble qu'il y a une salle de bain et une salle d'eau si je ne me trompe pas.
+
+775
+01:08:45,000 --> 01:08:48,000
+ Mais ça ne m'en tenait pas compte parce que je me suis passé...
+
+776
+01:08:48,000 --> 01:08:50,000
+ Oui regardez !
+
+777
+01:08:50,000 --> 01:08:52,000
+ Voici un cottage type.
+
+778
+01:08:52,000 --> 01:08:56,000
+ Vous avez ici à gauche une salle de bain et une salle de douche.
+
+779
+01:08:56,000 --> 01:08:58,000
+ Vous voyez ?
+
+780
+01:08:58,000 --> 01:09:01,000
+ C'est la salle de bain avec la baignoire.
+
+781
+01:09:01,000 --> 01:09:05,000
+ Et voici la salle de douche.
+
+782
+01:09:05,000 --> 01:09:08,000
+ Et avec un miroir dans la salle de douche également.
+
+783
+01:09:08,000 --> 01:09:11,000
+ Donc oui, salle de bain et salle de douche.
+
+784
+01:09:11,000 --> 01:09:14,000
+ Avec un miroir aussi au-dessus du lavabo que vous trouvez ici.
+
+785
+01:09:14,000 --> 01:09:18,000
+ Donc la question des miroirs est désormais résolue.
+
+786
+01:09:18,000 --> 01:09:22,000
+ Est-ce que toutes les types d'animations seraient présentes ainsi que les formateurs ?
+
+787
+01:09:22,000 --> 01:09:24,000
+ Non. Non, non, non.
+
+788
+01:09:24,000 --> 01:09:27,000
+ Il y aura Yves, Michel et moi.
+
+789
+01:09:27,000 --> 01:09:30,000
+ Yves, Michel et moi.
+
+790
+01:09:30,000 --> 01:09:35,000
+ La météo est réservée ?
+
+791
+01:09:35,000 --> 01:09:37,000
+ Ah non, c'est une réservation.
+
+792
+01:09:37,000 --> 01:09:39,000
+ Est-ce qu'elle sera honorée ?
+
+793
+01:09:39,000 --> 01:09:41,000
+ Je ne le sais pas.
+
+794
+01:09:41,000 --> 01:09:44,000
+ Ensuite, les autres questions.
+
+795
+01:09:54,000 --> 01:09:56,000
+ Est-ce qu'il y a des sèches cheveux ?
+
+796
+01:09:56,000 --> 01:09:58,000
+ Oui, il y a des sèches cheveux.
+
+797
+01:09:58,000 --> 01:10:02,000
+ Regardez, je les photographiais tout à l'heure.
+
+798
+01:10:02,000 --> 01:10:04,000
+ Alors ce n'est pas ici.
+
+799
+01:10:04,000 --> 01:10:06,000
+ Ça, c'est les piolettes.
+
+800
+01:10:06,000 --> 01:10:10,000
+ Je les photographiais tout à l'heure, un sèche cheveux.
+
+801
+01:10:10,000 --> 01:10:12,000
+ Alors, voilà, ici, regardez.
+
+802
+01:10:12,000 --> 01:10:14,000
+ Hop, il est là.
+
+803
+01:10:14,000 --> 01:10:15,000
+ Il est là.
+
+804
+01:10:15,000 --> 01:10:17,000
+ Alors, ça veut dire qu'il n'y a peut-être pas des sèches cheveux dans toutes les chambres.
+
+805
+01:10:17,000 --> 01:10:19,000
+ Je ne sais pas.
+
+806
+01:10:19,000 --> 01:10:23,000
+ En tout cas, il y en a au moins un dans la chambre double.
+
+807
+01:10:25,000 --> 01:10:27,000
+ Ça, c'est la petite terrasse.
+
+808
+01:10:27,000 --> 01:10:29,000
+ Je ne sais pas s'il y en a un dans les chambres des enfants.
+
+809
+01:10:29,000 --> 01:10:31,000
+ Je ne sais pas.
+
+810
+01:10:31,000 --> 01:10:33,000
+ Des sèches cheveux, il y en a au moins un.
+
+811
+01:10:33,000 --> 01:10:37,000
+ Et s'il y en a plusieurs, sinon, prenez un dans votre sac.
+
+812
+01:10:38,000 --> 01:10:40,000
+ Alors...
+
+813
+01:10:42,000 --> 01:10:44,000
+ Ça, c'est trois.
+
+814
+01:10:44,000 --> 01:10:46,000
+ Oui, ça, c'est trois.
+
+815
+01:10:46,000 --> 01:10:50,000
+ Alors, tout le monde demande à ce que Mathieu soit là.
+
+816
+01:10:50,000 --> 01:10:52,000
+ Bien sûr que tout le monde demande.
+
+817
+01:10:52,000 --> 01:10:53,000
+ Évidemment.
+
+818
+01:10:53,000 --> 01:10:56,000
+ En fait, vous n'en avez même rien à foutre que moi, je sois là tant que Mathieu est là.
+
+819
+01:10:56,000 --> 01:10:57,000
+ Enfin, je le sais bien.
+
+820
+01:10:57,000 --> 01:10:59,000
+ J'en ai parfaitement conscience.
+
+821
+01:10:59,000 --> 01:11:02,000
+ C'est vrai que ce serait bien que Mathieu vienne au séminaire.
+
+822
+01:11:02,000 --> 01:11:06,000
+ C'est malheureusement pour des questions organisationnelles impossible.
+
+823
+01:11:06,000 --> 01:11:08,000
+ Mais c'est vrai que...
+
+824
+01:11:10,000 --> 01:11:12,000
+ Ça serait vraiment bien.
+
+825
+01:11:13,000 --> 01:11:15,000
+ Malheureusement, ce n'est pas possible.
+
+826
+01:11:15,000 --> 01:11:17,000
+ Alors, il y aura même des WC.
+
+827
+01:11:17,000 --> 01:11:18,000
+ Oui, tout à fait.
+
+828
+01:11:18,000 --> 01:11:19,000
+ Et c'est du PQ.
+
+829
+01:11:19,000 --> 01:11:21,000
+ Oui, il y a du PQ, c'est promis.
+
+830
+01:11:21,000 --> 01:11:23,000
+ Normalement, vous le voyez, il est dans les toilettes.
+
+831
+01:11:23,000 --> 01:11:24,000
+ Non, mais c'est un hôtel.
+
+832
+01:11:24,000 --> 01:11:26,000
+ Donc, c'est de l'hôtellerie.
+
+833
+01:11:26,000 --> 01:11:30,000
+ Donc, il y a du papier toilette, il y a des serviettes, il y a des trucs là.
+
+834
+01:11:31,000 --> 01:11:33,000
+ Les toilettes, c'est dépris.
+
+835
+01:11:34,000 --> 01:11:35,000
+ C'est une hôtellerie normale.
+
+836
+01:11:35,000 --> 01:11:38,000
+ Donc, oui, il y a du papier toilette, il y a des serviettes, il y a du savon.
+
+837
+01:11:38,000 --> 01:11:39,000
+ Voilà, il est là, le PQ.
+
+838
+01:11:39,000 --> 01:11:42,000
+ Il y a du savon, il y a du hôtellerie.
+
+839
+01:11:43,000 --> 01:11:44,000
+ Je trouve ça super.
+
+840
+01:11:44,000 --> 01:11:45,000
+ Je n'ai jamais été à Center Park.
+
+841
+01:11:45,000 --> 01:11:46,000
+ J'ai toujours voulu y aller.
+
+842
+01:11:46,000 --> 01:11:47,000
+ Ou d'Isabel en plus.
+
+843
+01:11:47,000 --> 01:11:48,000
+ Je serais content de découvrir.
+
+844
+01:11:48,000 --> 01:11:49,000
+ Il y a du carriens et de reconnaître de nos fonds.
+
+845
+01:11:49,000 --> 01:11:50,000
+ Oui, c'est vraiment le but.
+
+846
+01:11:50,000 --> 01:11:52,000
+ Est-ce que j'ai essayé la rivière sauvage?
+
+847
+01:11:52,000 --> 01:11:55,000
+ Non, je n'ai pas essayé la rivière sauvage.
+
+848
+01:11:55,000 --> 01:11:57,000
+ Je ne suis pas baigné lorsque je suis allé.
+
+849
+01:11:57,000 --> 01:12:03,000
+ Je n'ai pas essayé les installations comme ça.
+
+850
+01:12:03,000 --> 01:12:05,000
+ Bonne soirée, Nathalie.
+
+851
+01:12:05,000 --> 01:12:06,000
+ Très bien.
+
+852
+01:12:06,000 --> 01:12:07,000
+ Quels sont?
+
+853
+01:12:07,000 --> 01:12:15,000
+ Est-ce que Elodie, Sandrine, Elodie Potra, Sandrine Bachari, Sophie Sandrai, je voudrais leur proposer de partager ma chambre.
+
+854
+01:12:15,000 --> 01:12:17,000
+ J'ai déjà chlorine pétillée.
+
+855
+01:12:17,000 --> 01:12:18,000
+ Donc, on est déjà deux.
+
+856
+01:12:18,000 --> 01:12:19,000
+ Ça fait cinq.
+
+857
+01:12:19,000 --> 01:12:20,000
+ Ça fait cinq.
+
+858
+01:12:21,000 --> 01:12:27,000
+ Si on est simples, on peut mettre quatre personnes normalement si on ne veut pas partager les chambres.
+
+859
+01:12:27,000 --> 01:12:29,000
+ Maintenant, on va étudier ça.
+
+860
+01:12:29,000 --> 01:12:32,000
+ On va étudier tout ça.
+
+861
+01:12:32,000 --> 01:12:33,000
+ Sophie ne vient pas.
+
+862
+01:12:33,000 --> 01:12:34,000
+ Sophie ne vient pas?
+
+863
+01:12:34,000 --> 01:12:37,000
+ Vous parlez de Sophie Sandrai, j'imagine.
+
+864
+01:12:37,000 --> 01:12:39,000
+ Elle vous a dit qu'elle ne venait pas?
+
+865
+01:12:42,000 --> 01:12:44,000
+ La rivière sauvage est la meilleure attraction.
+
+866
+01:12:46,000 --> 01:12:47,000
+ C'est quoi la rivière sauvage?
+
+867
+01:12:47,000 --> 01:12:48,000
+ C'est le toboggan, c'est ça?
+
+868
+01:12:48,000 --> 01:12:50,000
+ C'est le toboggan gigantique?
+
+869
+01:12:50,000 --> 01:12:53,000
+ D'ailleurs, je ne sais pas pourquoi il n'y a pas des photos ici de…
+
+870
+01:12:53,000 --> 01:12:58,000
+ Il n'y a pas les photos que j'avais prises de l'Aquamundo parce que j'ai pris plein de photos de l'Aquamundo.
+
+871
+01:12:58,000 --> 01:13:01,000
+ Je ne sais pas pourquoi ils ne sont pas.
+
+872
+01:13:01,000 --> 01:13:04,000
+ J'ai l'impression qu'il me manque des photos.
+
+873
+01:13:04,000 --> 01:13:08,000
+ Ici, comme si elles n'avaient pas été taguées comme il le fallait.
+
+874
+01:13:08,000 --> 01:13:09,000
+ Je ne sais pas.
+
+875
+01:13:09,000 --> 01:13:12,000
+ Je vais regarder si je ne peux pas les trouver ailleurs.
+
+876
+01:13:12,000 --> 01:13:14,000
+ C'est à quel d'heure, ça?
+
+877
+01:13:16,000 --> 01:13:17,000
+ On ne met pas la date?
+
+878
+01:13:18,000 --> 01:13:19,000
+ Non?
+
+879
+01:13:20,000 --> 01:13:24,000
+ Je vais essayer de regarder si je n'ai pas les photos de l'Aquamundo parce que j'avais pris des photos aussi de ça.
+
+880
+01:13:24,000 --> 01:13:27,000
+ Déjà, avec Gérald dit, si je viens…
+
+881
+01:13:27,000 --> 01:13:29,000
+ Oui, je l'ai au téléphone.
+
+882
+01:13:29,000 --> 01:13:31,000
+ Ah, c'est bien, Sophie, son rét il ne vient pas.
+
+883
+01:13:31,000 --> 01:13:32,000
+ Ah, c'est dommage.
+
+884
+01:13:32,000 --> 01:13:33,000
+ Et dommage.
+
+885
+01:13:34,000 --> 01:13:39,000
+ Malheureusement, le fait de ne pas pouvoir participer cette année peut-il nuire à mon activité?
+
+886
+01:13:39,000 --> 01:13:41,000
+ Non, pas du tout.
+
+887
+01:13:41,000 --> 01:13:42,000
+ Pas du tout.
+
+888
+01:13:42,000 --> 01:13:46,000
+ Effectivement, Michel, vous m'avez dit que vous auriez probablement une intervention chirurgicienne à ce moment-là.
+
+889
+01:13:46,000 --> 01:13:51,000
+ Si vous ne pouvez pas venir, cela n'aura aucun impact négatif sur votre activité.
+
+890
+01:13:51,000 --> 01:13:52,000
+ Pas du tout.
+
+891
+01:13:52,000 --> 01:13:57,000
+ Il faudra juste que vous fassiez une formation en loi allure par d'autres moyens.
+
+892
+01:13:57,000 --> 01:14:00,000
+ C'est très important parce que c'est une obligation légale annuelle.
+
+893
+01:14:00,000 --> 01:14:02,000
+ C'est la rivière extérieure avec du courant.
+
+894
+01:14:02,000 --> 01:14:03,000
+ D'accord.
+
+895
+01:14:04,000 --> 01:14:09,000
+ Je pense qu'on va voir ça si on regarde si c'est la rivière extérieure, la rivière sauvage.
+
+896
+01:14:09,000 --> 01:14:10,000
+ Hop.
+
+897
+01:14:14,000 --> 01:14:15,000
+ Hop.
+
+898
+01:14:16,000 --> 01:14:17,000
+ Hop.
+
+899
+01:14:19,000 --> 01:14:22,000
+ Je vais remettre le vu satellite.
+
+900
+01:14:25,000 --> 01:14:28,000
+ Alors, la rivière extérieure avec le courant.
+
+901
+01:14:28,000 --> 01:14:31,000
+ Je pense que ça doit être ça.
+
+902
+01:14:33,000 --> 01:14:34,000
+ Je vous montre là.
+
+903
+01:14:35,000 --> 01:14:36,000
+ J'imagine.
+
+904
+01:14:36,000 --> 01:14:38,000
+ La rivière extérieure avec du courant.
+
+905
+01:14:38,000 --> 01:14:40,000
+ Je ne sais pas pourquoi j'ai pas ces photos.
+
+906
+01:14:41,000 --> 01:14:43,000
+ Je vais essayer de regarder si je ne les ai pas ailleurs.
+
+907
+01:14:43,000 --> 01:14:45,000
+ En tout cas, Michel, soyez tranquille.
+
+908
+01:14:45,000 --> 01:14:48,000
+ Il n'y aura aucun impact négatif sur votre activité.
+
+909
+01:14:48,000 --> 01:14:55,000
+ Là où ça peut sembler être un impact négatif, bien entendu, vous n'aurez pas ce moment avec les copains de cohésion, etc.
+
+910
+01:14:55,000 --> 01:14:59,000
+ Cette convivialité, cet aspect humain.
+
+911
+01:14:59,000 --> 01:15:08,000
+ Mais je veux dire, d'un point de vue opérationnel, il n'y aura pas d'aspect de conséquences négatives sur votre activité.
+
+912
+01:15:08,000 --> 01:15:12,000
+ Soyez rassurés de ce point de vue-là.
+
+913
+01:15:14,000 --> 01:15:16,000
+ Il y a-t-il d'autres questions ?
+
+914
+01:15:16,000 --> 01:15:19,000
+ Elodie m'a dit oui, Corinne aussi.
+
+915
+01:15:19,000 --> 01:15:21,000
+ Pour l'instant, on est 4.
+
+916
+01:15:21,000 --> 01:15:25,000
+ Avec Géraldine, 10, 22, si je peux me libérer, c'est 3 jours.
+
+917
+01:15:25,000 --> 01:15:27,000
+ Ce serait vraiment, vraiment, vraiment chers.
+
+918
+01:15:27,000 --> 01:15:28,000
+ L'eau est chauffée à combien ?
+
+919
+01:15:28,000 --> 01:15:29,000
+ Ah, je sais plus.
+
+920
+01:15:29,000 --> 01:15:31,000
+ C'est 28 degrés.
+
+921
+01:15:31,000 --> 01:15:32,000
+ Ils me l'ont dit.
+
+922
+01:15:32,000 --> 01:15:34,000
+ Ils me l'ont dit, j'ai oublié eux.
+
+923
+01:15:34,000 --> 01:15:37,000
+ Ah, ils me l'ont dit.
+
+924
+01:15:37,000 --> 01:15:40,000
+ Elle est chauffée de sorte à être utilisée toute l'année.
+
+925
+01:15:41,000 --> 01:15:43,000
+ Ah oui, c'est un truc trop piquant quasiment.
+
+926
+01:15:43,000 --> 01:15:46,000
+ C'est très chouette de ce point de vue-là.
+
+927
+01:15:46,000 --> 01:15:54,000
+ Moi, quand je suis rentré dans l'Aquamundo, tout habillé, avec des surchaussures, des machins, etc., croyez-moi, c'était trop pique.
+
+928
+01:15:54,000 --> 01:15:56,000
+ J'avais pas froid.
+
+929
+01:15:56,000 --> 01:15:58,000
+ J'avais pas froid du tout.
+
+930
+01:15:58,000 --> 01:16:05,000
+ Donc, vous n'aurez pas froid.
+
+931
+01:16:05,000 --> 01:16:06,000
+ Non, non, soyez tranquille.
+
+932
+01:16:06,000 --> 01:16:08,000
+ Je me suis prévu.
+
+933
+01:16:08,000 --> 01:16:10,000
+ C'est un truc qui est utilisé toute l'année, même à Noël.
+
+934
+01:16:10,000 --> 01:16:12,000
+ Même à Noël.
+
+935
+01:16:12,000 --> 01:16:14,000
+ Donc, je crois.
+
+936
+01:16:14,000 --> 01:16:16,000
+ Je ne veux pas vous dire de béquilles.
+
+937
+01:16:16,000 --> 01:16:20,000
+ Mais il me semble qu'ils m'ont dit que l'eau était à 27, quelque chose.
+
+938
+01:16:20,000 --> 01:16:22,000
+ Bon, je vous dis probablement une béquille.
+
+939
+01:16:22,000 --> 01:16:26,000
+ Là-dessus, ne m'écoutez pas.
+
+940
+01:16:26,000 --> 01:16:28,000
+ Écoutez-moi pour le reste, bien sûr.
+
+941
+01:16:28,000 --> 01:16:32,000
+ Mais ne m'écoutez pas là-dessus parce que je n'en suis pas sûr.
+
+942
+01:16:32,000 --> 01:16:36,000
+ Je suis en train de me chercher les photos de l'Aquamundo que j'avais prises.
+
+943
+01:16:36,000 --> 01:16:40,000
+ Je ne les trouve pas là pour l'instant, mais ce n'est pas grave.
+
+944
+01:16:40,000 --> 01:16:42,000
+ Sur quoi porteront les formations ?
+
+945
+01:16:42,000 --> 01:16:48,000
+ Ah, les formations vont porter sur les évolutions du réseau principalement
+
+946
+01:16:48,000 --> 01:16:58,000
+ et les choses que nous mettons en place dont on a parlé lors des dîners de fin d'année,
+
+947
+01:16:58,000 --> 01:17:02,000
+ en termes de l'élection de l'Aquamundo, de la Luce Carme pure.
+
+948
+01:17:02,000 --> 01:17:04,000
+ Donc, on a des intervenants qui seront là.
+
+949
+01:17:04,000 --> 01:17:08,000
+ On essaie de voir qui est vraiment disponible et qui est moins disponible.
+
+950
+01:17:08,000 --> 01:17:16,000
+ Des intervenants pour creuser, je ne vais pas vous voir de la mèche,
+
+951
+01:17:16,000 --> 01:17:22,000
+ mais d'autres aspects de votre activité que la Luce Carme pure.
+
+952
+01:17:22,000 --> 01:17:24,000
+ Donc, ça va être chargé.
+
+953
+01:17:25,000 --> 01:17:26,000
+ Ça va être chargé.
+
+954
+01:17:26,000 --> 01:17:34,000
+ Niveau formation séminaire, on a même trop de choses par rapport au temps qui nous est imparti.
+
+955
+01:17:34,000 --> 01:17:38,000
+ Donc, vous voyez, ça ne va pas être évident.
+
+956
+01:17:38,000 --> 01:17:43,000
+ Ça ne va pas être facile parce qu'on a plus de choses que de temps pour aborder toutes ces choses.
+
+957
+01:17:43,000 --> 01:17:48,000
+ Donc, en fait, on est en train de faire des arbitrages.
+
+958
+01:17:48,000 --> 01:17:54,000
+ On est en train de faire des arbitrages avec Michel pour voir ce qu'on privilégie
+
+959
+01:17:54,000 --> 01:17:59,000
+ et ce qu'on met de côté pour en parler à d'autres moments.
+
+960
+01:17:59,000 --> 01:18:03,000
+ Donc, je ne peux pas vous dire exactement.
+
+961
+01:18:03,000 --> 01:18:09,000
+ Du coup, ils vont pouvoir en discuter en privé.
+
+962
+01:18:09,000 --> 01:18:12,000
+ Pas devant tout le monde parce que je ne veux pas annoncer des choses
+
+963
+01:18:12,000 --> 01:18:17,000
+ qui ne se révéleraient pas exactes pour tout le monde.
+
+964
+01:18:17,000 --> 01:18:18,000
+ Alors, j'ai ça.
+
+965
+01:18:18,000 --> 01:18:20,000
+ Regardez, les amis.
+
+966
+01:18:20,000 --> 01:18:23,000
+ J'ai ça.
+
+967
+01:18:23,000 --> 01:18:24,000
+ Alors, attendez.
+
+968
+01:18:24,000 --> 01:18:27,000
+ J'arrête le partage.
+
+969
+01:18:27,000 --> 01:18:30,000
+ J'arrête le partage.
+
+970
+01:18:30,000 --> 01:18:34,000
+ Si je fais ça.
+
+971
+01:18:34,000 --> 01:18:36,000
+ Ah oui, mais là, j'ai beaucoup plus de photos.
+
+972
+01:18:36,000 --> 01:18:39,000
+ Pourquoi on ne les a pas vues avant?
+
+973
+01:18:39,000 --> 01:18:40,000
+ Oulà!
+
+974
+01:18:40,000 --> 01:18:42,000
+ Excusez-moi.
+
+975
+01:18:42,000 --> 01:18:45,000
+ J'ai ça.
+
+976
+01:18:45,000 --> 01:18:47,000
+ J'ai beaucoup plus de photos ici.
+
+977
+01:18:47,000 --> 01:18:51,000
+ Je ne sais pas pourquoi on ne les a pas vues avant.
+
+978
+01:18:51,000 --> 01:18:52,000
+ OK.
+
+979
+01:18:52,000 --> 01:18:56,000
+ Je vais vous mettre ça dans un autre dossier.
+
+980
+01:18:56,000 --> 01:18:59,000
+ Là, j'ai beaucoup plus de photos à vous montrer.
+
+981
+01:18:59,000 --> 01:19:10,000
+ Alors.
+
+982
+01:19:10,000 --> 01:19:14,000
+ Je vais vous en montrer beaucoup plus là.
+
+983
+01:19:14,000 --> 01:19:21,000
+ Est-ce que j'ai d'autres?
+
+984
+01:19:21,000 --> 01:19:24,000
+ Ah!
+
+985
+01:19:24,000 --> 01:19:25,000
+ Là, elle est à l'envers.
+
+986
+01:19:25,000 --> 01:19:27,000
+ Pourquoi?
+
+987
+01:19:27,000 --> 01:19:32,000
+ Pas la moindre idée.
+
+988
+01:19:32,000 --> 01:19:35,000
+ Ça, c'est le centre de convention.
+
+989
+01:19:35,000 --> 01:19:38,000
+ Je peux vous montrer rapido le centre de convention.
+
+990
+01:19:38,000 --> 01:19:43,000
+ C'est joli.
+
+991
+01:19:43,000 --> 01:19:50,000
+ Je ne sais pas pourquoi ces photos n'étaient pas chez Google.
+
+992
+01:19:50,000 --> 01:19:56,000
+ Je ne sais pas pourquoi ces photos n'étaient pas chez Google.
+
+993
+01:19:56,000 --> 01:20:01,000
+ C'est bizarre.
+
+994
+01:20:01,000 --> 01:20:07,000
+ Et voilà la rivière sauvage dont parlait Maryse, il y a un instant.
+
+995
+01:20:07,000 --> 01:20:08,000
+ OK.
+
+996
+01:20:08,000 --> 01:20:11,000
+ Je vais pouvoir vous montrer beaucoup plus de choses.
+
+997
+01:20:11,000 --> 01:20:14,000
+ Je vais vous mettre ça en place.
+
+998
+01:20:14,000 --> 01:20:27,000
+ Et je vais vous le mettre à peu près dans l'ordre.
+
+999
+01:20:27,000 --> 01:20:38,000
+ Et je vais repartager.
+
+1000
+01:20:38,000 --> 01:20:41,000
+ Hop!
+
+1001
+01:20:41,000 --> 01:20:48,000
+ Partager, partager l'écran.
+
+1002
+01:20:48,000 --> 01:20:50,000
+ Un petit peu long, c'est normal.
+
+1003
+01:20:50,000 --> 01:20:52,000
+ Ça relance le flux de partager avec chacun d'entre vous.
+
+1004
+01:20:52,000 --> 01:20:54,000
+ Là, vous allez voir un petit étang.
+
+1005
+01:20:54,000 --> 01:20:55,000
+ C'est joli.
+
+1006
+01:20:55,000 --> 01:21:01,000
+ Avec des petits canards.
+
+1007
+01:21:01,000 --> 01:21:06,000
+ Poum!
+
+1008
+01:21:06,000 --> 01:21:09,000
+ Ça arrive.
+
+1009
+01:21:09,000 --> 01:21:11,000
+ Voici un étang avec des canards.
+
+1010
+01:21:11,000 --> 01:21:13,000
+ Avec une meilleure lumière.
+
+1011
+01:21:13,000 --> 01:21:17,000
+ Forcément, la photo est de meilleure qualité.
+
+1012
+01:21:17,000 --> 01:21:21,000
+ Ça, c'est l'extérieur du restaurant.
+
+1013
+01:21:21,000 --> 01:21:22,000
+ L'intérieur.
+
+1014
+01:21:22,000 --> 01:21:27,000
+ Alors là, on est sous ce qu'ils appellent le domen.
+
+1015
+01:21:27,000 --> 01:21:28,000
+ C'est très vert.
+
+1016
+01:21:28,000 --> 01:21:31,000
+ C'est très joli.
+
+1017
+01:21:31,000 --> 01:21:37,000
+ Ça, c'est le restaurant Buffet, où on fait les déjeuners.
+
+1018
+01:21:37,000 --> 01:21:41,000
+ Le premier dîner, c'est l'Hydri 22 et les petits déjeuners.
+
+1019
+01:21:41,000 --> 01:21:43,000
+ C'est chouette, hein?
+
+1020
+01:21:43,000 --> 01:21:48,000
+ C'est un immense héro en bois, qui fait, je sais pas, 5 mètres de haut.
+
+1021
+01:21:48,000 --> 01:21:49,000
+ C'est très grand.
+
+1022
+01:21:49,000 --> 01:21:51,000
+ Ça, c'est la décoration, tout en bois.
+
+1023
+01:21:51,000 --> 01:21:54,000
+ Vous allez voir à plusieurs endroits, l'actelle.
+
+1024
+01:21:54,000 --> 01:21:56,000
+ Pourquoi? C'était l'état de réserver pour l'actelle.
+
+1025
+01:21:56,000 --> 01:21:59,000
+ C'est le séminaire de l'actelle, quand j'y suis allé.
+
+1026
+01:21:59,000 --> 01:22:01,000
+ Le séminaire de la société Lactelle.
+
+1027
+01:22:01,000 --> 01:22:04,000
+ C'est pour ça.
+
+1028
+01:22:04,000 --> 01:22:06,000
+ C'est très soigné, la déco.
+
+1029
+01:22:06,000 --> 01:22:07,000
+ C'est très recherché.
+
+1030
+01:22:07,000 --> 01:22:10,000
+ Ça, c'est le petit déjeuner.
+
+1031
+01:22:10,000 --> 01:22:12,000
+ Les croissants.
+
+1032
+01:22:12,000 --> 01:22:14,000
+ Les viandes de riz.
+
+1033
+01:22:14,000 --> 01:22:18,000
+ Les confitures, les fromages, les donuts, les noffins, les pancakes.
+
+1034
+01:22:18,000 --> 01:22:20,000
+ Bon, c'est un petit déjeuner Buffet, hein?
+
+1035
+01:22:20,000 --> 01:22:21,000
+ Vous voyez?
+
+1036
+01:22:26,000 --> 01:22:31,000
+ Voilà, du beurre, de la charcuterie, des fruits.
+
+1037
+01:22:31,000 --> 01:22:34,000
+ Oui, c'est bacon, patates, des oeufs.
+
+1038
+01:22:34,000 --> 01:22:35,000
+ Ah, super rigolo!
+
+1039
+01:22:35,000 --> 01:22:36,000
+ Ça, j'ai trouvé ça rigolo.
+
+1040
+01:22:36,000 --> 01:22:41,000
+ Il y a une dame ici qui fait vos oeufs, comme vous les demandez, à la demande.
+
+1041
+01:22:41,000 --> 01:22:43,000
+ Est-ce que vous voulez un au plat comme ça?
+
+1042
+01:22:43,000 --> 01:22:44,000
+ Des oeufs bruyés comme ci?
+
+1043
+01:22:44,000 --> 01:22:46,000
+ Ça, je trouvais ça rigolo.
+
+1044
+01:22:46,000 --> 01:22:49,000
+ Là, il y a déjà des oeufs bruyés.
+
+1045
+01:22:49,000 --> 01:22:51,000
+ Donc, ça, c'est le restaurant Buffet.
+
+1046
+01:22:53,000 --> 01:22:56,000
+ Ça, c'est le taux de charge de ma voiture.
+
+1047
+01:22:56,000 --> 01:22:57,000
+ Vous voyez?
+
+1048
+01:22:57,000 --> 01:22:58,000
+ J'avais quasiment une batterie.
+
+1049
+01:23:02,000 --> 01:23:11,000
+ Ça, c'est un endroit que je ne vous montre pas trop parce qu'on verra ça ensemble plus tard.
+
+1050
+01:23:11,000 --> 01:23:12,000
+ C'est joli, en tout cas, cette porte.
+
+1051
+01:23:12,000 --> 01:23:14,000
+ Un petit peu, on se croirait à Bali, peut-être.
+
+1052
+01:23:15,000 --> 01:23:16,000
+ Vous voyez la déco, c'est chouette.
+
+1053
+01:23:16,000 --> 01:23:21,000
+ Alors, ça, c'est l'endroit où on déambule, les magasins, il y a même un restaurant quick, etc.
+
+1054
+01:23:21,000 --> 01:23:22,000
+ Et ça, c'est un tuyau.
+
+1055
+01:23:22,000 --> 01:23:29,000
+ Le tuyau qui est là, c'est un tuyau par lequel vous passez d'un endroit de l'Aquamundo à un autre endroit.
+
+1056
+01:23:29,000 --> 01:23:31,000
+ L'Aquamundo, c'est cette verrière qui est à gauche.
+
+1057
+01:23:32,000 --> 01:23:34,000
+ Ça, c'est une petite voie sans omelette.
+
+1058
+01:23:37,000 --> 01:23:38,000
+ Ça, on s'endroit.
+
+1059
+01:23:38,000 --> 01:23:40,000
+ Ça, c'est le truc que je vous ai montré tout à l'heure.
+
+1060
+01:23:40,000 --> 01:23:44,000
+ Ça, c'est l'Aquamundo en lui-même.
+
+1061
+01:23:46,000 --> 01:23:47,000
+ Vous voyez, c'est grand.
+
+1062
+01:23:47,000 --> 01:23:49,000
+ On peut se balader à Béleu dans toutes ces grandes...
+
+1063
+01:23:49,000 --> 01:23:53,000
+ Pourquoi il y a des photos de voitures, je ne sais pas.
+
+1064
+01:23:53,000 --> 01:23:54,000
+ Voilà.
+
+1065
+01:23:54,000 --> 01:23:56,000
+ Ça, c'est les tuyaux, les toboggan.
+
+1066
+01:23:59,000 --> 01:24:00,000
+ Mon frère jumeau.
+
+1067
+01:24:07,000 --> 01:24:08,000
+ C'est joli, hein.
+
+1068
+01:24:08,000 --> 01:24:10,000
+ C'est joliment décoré, c'est rigolo, il y a beaucoup de cours.
+
+1069
+01:24:10,000 --> 01:24:11,000
+ C'est très familial.
+
+1070
+01:24:11,000 --> 01:24:13,000
+ C'est très, très familial.
+
+1071
+01:24:14,000 --> 01:24:15,000
+ C'est très soigné comme déco.
+
+1072
+01:24:16,000 --> 01:24:17,000
+ Alors ça, il n'y aura pas.
+
+1073
+01:24:17,000 --> 01:24:18,000
+ Il n'y aura autre chose à la place.
+
+1074
+01:24:18,000 --> 01:24:20,000
+ Ça, c'est un truc d'été, une terrasse d'été.
+
+1075
+01:24:20,000 --> 01:24:21,000
+ Il n'y aura pas.
+
+1076
+01:24:21,000 --> 01:24:22,000
+ Ça, c'est des poissons.
+
+1077
+01:24:23,000 --> 01:24:24,000
+ Très beau, hein, vous avez vu.
+
+1078
+01:24:27,000 --> 01:24:28,000
+ C'est très, très joli.
+
+1079
+01:24:28,000 --> 01:24:32,000
+ Ça, ce sont des chigonis.
+
+1080
+01:24:35,000 --> 01:24:37,000
+ Donc voilà, vous en avez...
+
+1081
+01:24:37,000 --> 01:24:38,000
+ Ça, c'est un restaurant quick.
+
+1082
+01:24:38,000 --> 01:24:40,000
+ Pour ceux qui adorent le quick.
+
+1083
+01:24:41,000 --> 01:24:45,000
+ Il y a un restaurant quick dedans, dedans, dedans, dedans.
+
+1084
+01:24:46,000 --> 01:24:53,000
+ Ça, c'est la fois Mundo a proprement parlé.
+
+1085
+01:24:54,000 --> 01:24:56,000
+ Ça, c'est Sophie.
+
+1086
+01:24:57,000 --> 01:25:00,000
+ Il m'a reçu et qui m'a montré toutes les informations.
+
+1087
+01:25:00,000 --> 01:25:02,000
+ Donc vous vous moquez, j'imagine.
+
+1088
+01:25:08,000 --> 01:25:10,000
+ La rivière sauvage, voilà, dont on parlait, Marie.
+
+1089
+01:25:10,000 --> 01:25:12,000
+ A faire la rivière sauvage, il faut mettre...
+
+1090
+01:25:12,000 --> 01:25:14,000
+ Il faut faire minimum 95 centimètres.
+
+1091
+01:25:14,000 --> 01:25:16,000
+ C'est tout juste pour Julien et moi.
+
+1092
+01:25:16,000 --> 01:25:17,000
+ Ça va.
+
+1093
+01:25:18,000 --> 01:25:19,000
+ On y arrivera.
+
+1094
+01:25:21,000 --> 01:25:23,000
+ Il y a des bains remous un petit peu partout.
+
+1095
+01:25:25,000 --> 01:25:27,000
+ Des casernes, des...
+
+1096
+01:25:27,000 --> 01:25:31,000
+ Alors ça, le spa wellness, ça n'est pas accru dans la prestation.
+
+1097
+01:25:32,000 --> 01:25:33,000
+ C'est joli, hein.
+
+1098
+01:25:34,000 --> 01:25:37,000
+ Parce que le spa wellness, en fait, on ne pouvait pas le prendre pour nous tous.
+
+1099
+01:25:37,000 --> 01:25:41,000
+ Il fallait prendre individuellement pour chacun et prendre un rendez-vous
+
+1100
+01:25:41,000 --> 01:25:42,000
+ limité dans le temps pour chacun.
+
+1101
+01:25:42,000 --> 01:25:43,000
+ Donc, c'était pas possible.
+
+1102
+01:25:47,000 --> 01:25:50,000
+ Donc ça, c'est le tunnel qui permet de passer de l'intérieur à l'extérieur.
+
+1103
+01:25:50,000 --> 01:25:54,000
+ Donc, de passer de l'air chaud à l'air froid, et vice-versa.
+
+1104
+01:25:57,000 --> 01:25:59,000
+ Il fait hyper beau quand je suis allé.
+
+1105
+01:25:59,000 --> 01:26:01,000
+ C'est l'été indien de France Mener cette année.
+
+1106
+01:26:05,000 --> 01:26:06,000
+ Joli, hein.
+
+1107
+01:26:07,000 --> 01:26:08,000
+ Est-ce qu'il y a des questions, en tout temps ?
+
+1108
+01:26:08,000 --> 01:26:09,000
+ Moi, je vous montre ça à peu près.
+
+1109
+01:26:09,000 --> 01:26:11,000
+ Les œufs du petit-déj' comme à Tahiti.
+
+1110
+01:26:11,000 --> 01:26:13,000
+ Je ne sais pas, je ne suis jamais allé à Tahiti.
+
+1111
+01:26:14,000 --> 01:26:16,000
+ Est-ce que Sandrine Dachari va venir ?
+
+1112
+01:26:16,000 --> 01:26:17,000
+ Elle n'a pas répondu.
+
+1113
+01:26:18,000 --> 01:26:22,000
+ À priori, elle va essayer, mais elle a dit qu'elle ne savait pas si elle pouvait se libérer ou pas, mais qu'elle allait essayer.
+
+1114
+01:26:23,000 --> 01:26:28,000
+ Des équipements pour recharger les véhicules électriques ou un Tesla charger à proximité.
+
+1115
+01:26:29,000 --> 01:26:30,000
+ C'est un peu comme ça.
+
+1116
+01:26:31,000 --> 01:26:32,000
+ C'est un peu comme ça.
+
+1117
+01:26:33,000 --> 01:26:38,000
+ Des équipements pour recharger les véhicules électriques ou un Tesla charger à proximité.
+
+1118
+01:26:39,000 --> 01:26:40,000
+ Oui, alors Tesla charger.
+
+1119
+01:26:41,000 --> 01:26:42,000
+ Non, mais je vais vous montrer ça.
+
+1120
+01:26:43,000 --> 01:26:46,000
+ Je vais vous montrer ça, mais oui, oui, oui, il y a des choses pour charger les véhicules électriques.
+
+1121
+01:26:47,000 --> 01:26:48,000
+ Il y en a.
+
+1122
+01:26:52,000 --> 01:26:54,000
+ 95 centimètres de tour de hanche ou de poitrine.
+
+1123
+01:26:55,000 --> 01:26:57,000
+ Ça passe, ah, je ne sais pas, je n'ai pas vérifié.
+
+1124
+01:26:57,000 --> 01:26:59,000
+ Je ne sais pas pourquoi cette photo est à l'envers.
+
+1125
+01:26:59,000 --> 01:27:01,000
+ On va faire comme si elle ne l'était pas.
+
+1126
+01:27:01,000 --> 01:27:03,000
+ Ça, c'est le centre de convention.
+
+1127
+01:27:03,000 --> 01:27:05,000
+ C'est-à-dire, c'est là qu'on lit les séminaires.
+
+1128
+01:27:05,000 --> 01:27:10,000
+ Et voyez, comme je vous disais, l'actelle, c'est là ce jour-là avec les bouteilles géantes de l'enflable.
+
+1129
+01:27:10,000 --> 01:27:12,000
+ Ça, c'est une très belle maquette de Centerparks.
+
+1130
+01:27:12,000 --> 01:27:13,000
+ Elle est très chouette.
+
+1131
+01:27:13,000 --> 01:27:14,000
+ C'est vraiment très beau.
+
+1132
+01:27:15,000 --> 01:27:18,000
+ Ça, c'est le centre de convention.
+
+1133
+01:27:20,000 --> 01:27:22,000
+ Les petits cottages avec les vélos.
+
+1134
+01:27:22,000 --> 01:27:25,000
+ Donc voilà, je crois que je vous ai à peu près tout montré, si je ne me trompe pas.
+
+1135
+01:27:25,000 --> 01:27:29,000
+ Après, vous allez voir, vous me connaissez donc des animaux, des biquettes.
+
+1136
+01:27:29,000 --> 01:27:31,000
+ Il y a un pao blanc, vous avez vu.
+
+1137
+01:27:31,000 --> 01:27:32,000
+ C'est rare, c'est très beau.
+
+1138
+01:27:33,000 --> 01:27:34,000
+ Des biquettes, des poneyes.
+
+1139
+01:27:34,000 --> 01:27:36,000
+ Alors moi, je leur ai fait des câlins, des bisous.
+
+1140
+01:27:36,000 --> 01:27:37,000
+ Vous l'imaginez bien.
+
+1141
+01:27:39,000 --> 01:27:42,000
+ Ça, ce sont les naissances de l'année 2023.
+
+1142
+01:27:44,000 --> 01:27:47,000
+ Ça, ce sont des...
+
+1143
+01:27:47,000 --> 01:27:50,000
+ Ça, ce sont des pellicans.
+
+1144
+01:27:51,000 --> 01:27:54,000
+ Il a voulu manger mon appareil, mon téléphone à un moment.
+
+1145
+01:27:54,000 --> 01:27:57,000
+ Vous voyez, il est venu, il s'est dit tiens, le téléphone, il est pas mal.
+
+1146
+01:27:57,000 --> 01:27:58,000
+ Je vais prendre.
+
+1147
+01:27:58,000 --> 01:28:00,000
+ Et ça, ça devrait être la rivière sauvage.
+
+1148
+01:28:00,000 --> 01:28:01,000
+ J'imagine.
+
+1149
+01:28:03,000 --> 01:28:05,000
+ Un petit récent pour les enfants.
+
+1150
+01:28:06,000 --> 01:28:07,000
+ Et voilà, on est arrivé au bout.
+
+1151
+01:28:08,000 --> 01:28:12,000
+ Alors, pour les véhicules électriques.
+
+1152
+01:28:12,000 --> 01:28:15,000
+ Oui, il y a différentes choses pour les véhicules électriques.
+
+1153
+01:28:15,000 --> 01:28:19,000
+ Je sais pas si je peux ici me connecter à ChargeMap.
+
+1154
+01:28:22,000 --> 01:28:25,000
+ Est-ce que je peux me connecter ici à mon compte ChargeMap ?
+
+1155
+01:28:26,000 --> 01:28:30,000
+ Est-ce que j'ai les mots pas sur ce navigateur ou pas ?
+
+1156
+01:28:33,000 --> 01:28:34,000
+ Non, je les ai pas sur ce navigateur.
+
+1157
+01:28:34,000 --> 01:28:35,000
+ C'est sur un autre navigateur.
+
+1158
+01:28:35,000 --> 01:28:40,000
+ Donc, je vais me connecter ailleurs à ChargeMap pour vous montrer
+
+1159
+01:28:40,000 --> 01:28:44,000
+ effectivement qu'il y a de quoi charger les véhicules à proximité.
+
+1160
+01:28:47,000 --> 01:28:48,000
+ Vous les parlez.
+
+1161
+01:28:49,000 --> 01:28:50,000
+ Connection.
+
+1162
+01:28:55,000 --> 01:28:56,000
+ Connectez-vous.
+
+1163
+01:28:56,000 --> 01:28:57,000
+ Voilà.
+
+1164
+01:28:59,000 --> 01:29:01,000
+ Donc, soyez tranquille pour les véhicules électriques.
+
+1165
+01:29:02,000 --> 01:29:03,000
+ Il y a...
+
+1166
+01:29:04,000 --> 01:29:06,000
+ Alors, j'imagine que ce n'est pas un peu trop dur.
+
+1167
+01:29:07,000 --> 01:29:08,000
+ Il y a...
+
+1168
+01:29:09,000 --> 01:29:12,000
+ Alors, j'imagine que tous ceux d'entre vous qui ont des véhicules électriques
+
+1169
+01:29:12,000 --> 01:29:14,000
+ utilisent ChargeMap.
+
+1170
+01:29:14,000 --> 01:29:17,000
+ C'est le plus complet pour savoir tous les véhicules électriques.
+
+1171
+01:29:17,000 --> 01:29:23,000
+ Toutes les bornes de recharge de véhicules électriques possibles et imaginables.
+
+1172
+01:29:23,000 --> 01:29:25,000
+ Et nous, nous allons à...
+
+1173
+01:29:32,000 --> 01:29:33,000
+ Nous allons...
+
+1174
+01:29:34,000 --> 01:29:36,000
+ Autre tombe, c'était...
+
+1175
+01:29:36,000 --> 01:29:38,000
+ Est-ce que je peux faire une recherche ici ?
+
+1176
+01:29:40,000 --> 01:29:42,000
+ Communiqué entreprise...
+
+1177
+01:29:43,000 --> 01:29:45,000
+ Je ne peux pas faire une recherche.
+
+1178
+01:29:47,000 --> 01:29:48,000
+ En tout cas, il y en a.
+
+1179
+01:29:48,000 --> 01:29:52,000
+ Il y en a pourquoi ? Parce que vous savez qu'il y a au moins un chargeur 22 kWh dans chaque village.
+
+1180
+01:29:52,000 --> 01:29:53,000
+ Regardez.
+
+1181
+01:29:53,000 --> 01:29:56,000
+ Dans chaque village, il y a un chargeur 22 kWh.
+
+1182
+01:29:56,000 --> 01:29:59,000
+ Les villages qui sont à l'entour.
+
+1183
+01:29:59,000 --> 01:30:01,000
+ Non, celui-là, il est limité à 18.
+
+1184
+01:30:01,000 --> 01:30:02,000
+ Alors, je ne sais pas pourquoi.
+
+1185
+01:30:02,000 --> 01:30:04,000
+ Normalement, c'est l'ordre de recharge là, c'est 22.
+
+1186
+01:30:04,000 --> 01:30:06,000
+ Pour pouvoir mettre 2 x 11.
+
+1187
+01:30:06,000 --> 01:30:08,000
+ Je ne sais pas pourquoi, celle-là, elle est sur 18.
+
+1188
+01:30:08,000 --> 01:30:09,000
+ Ah voilà, rechercher.
+
+1189
+01:30:09,000 --> 01:30:13,000
+ Rechercher... Nous, on va à Morton.
+
+1190
+01:30:16,000 --> 01:30:17,000
+ Nouvelle aquitaine.
+
+1191
+01:30:17,000 --> 01:30:19,000
+ Rechercher... C'est là.
+
+1192
+01:30:19,000 --> 01:30:24,000
+ Et donc, vous ne voyez qu'à Morton, comme ailleurs, il y a dans chaque village, ici...
+
+1193
+01:30:25,000 --> 01:30:27,000
+ Là, un chargeur, ici...
+
+1194
+01:30:27,000 --> 01:30:29,000
+ Mais là, on est à 3 minutes.
+
+1195
+01:30:29,000 --> 01:30:31,000
+ On est à 3 minutes du site.
+
+1196
+01:30:31,000 --> 01:30:33,000
+ Et après, il y en a tout autour.
+
+1197
+01:30:33,000 --> 01:30:35,000
+ Il y en a tout autour.
+
+1198
+01:30:35,000 --> 01:30:39,000
+ Sachant que pour ceux qui ont un abonnement Tesla, ou qui ont un Tesla,
+
+1199
+01:30:39,000 --> 01:30:41,000
+ vous savez qu'on peut utiliser des super-chargeurs Tesla.
+
+1200
+01:30:41,000 --> 01:30:43,000
+ Vous voyez, celui-là, il est bien 22 kWh.
+
+1201
+01:30:43,000 --> 01:30:47,000
+ Quand on est une Tesla ou qu'on est une voiture d'une autre marque, pour la plupart,
+
+1202
+01:30:47,000 --> 01:30:52,000
+ sachez qu'il y a des super-chargeurs Tesla, bien entendu, dans les villes à l'entour.
+
+1203
+01:30:52,000 --> 01:30:55,000
+ Si je mets ici super-chargeur Tesla...
+
+1204
+01:30:55,000 --> 01:31:00,000
+ Alors, en France, vous allez voir qu'il y en a également à Tours.
+
+1205
+01:31:00,000 --> 01:31:02,000
+ Il y en a à Poitiers.
+
+1206
+01:31:02,000 --> 01:31:04,000
+ Il y en a à peu près partout autour.
+
+1207
+01:31:04,000 --> 01:31:10,000
+ Donc nous, nous allons en France, en français, bien sûr.
+
+1208
+01:31:10,000 --> 01:31:14,000
+ Et les super-chargeurs en France.
+
+1209
+01:31:14,000 --> 01:31:18,000
+ Vraiment, c'est pour ceux qui veulent utiliser un super-chargeur, parce que...
+
+1210
+01:31:18,000 --> 01:31:20,000
+ C'est vrai que c'est ce qu'il y a de...
+
+1211
+01:31:20,000 --> 01:31:23,000
+ On ne peut plus rechercher sur la carte comme avant.
+
+1212
+01:31:23,000 --> 01:31:24,000
+ On est...
+
+1213
+01:31:24,000 --> 01:31:27,000
+ Voilà, on va y aller.
+
+1214
+01:31:27,000 --> 01:31:32,000
+ Voilà, ici, on va aller à Morton.
+
+1215
+01:31:32,000 --> 01:31:36,000
+ Morton, la France.
+
+1216
+01:31:36,000 --> 01:31:39,000
+ Voilà.
+
+1217
+01:31:39,000 --> 01:31:45,000
+ Vous savez donc qu'il y a des super-chargeurs autour...
+
+1218
+01:31:45,000 --> 01:31:47,000
+ On va aller à Tours.
+
+1219
+01:31:47,000 --> 01:31:50,000
+ On va désigner un petit peu.
+
+1220
+01:31:50,000 --> 01:31:51,000
+ Pourquoi il ne me montre pas...
+
+1221
+01:31:51,000 --> 01:31:54,000
+ Il y en a à Angers, il y en a à Nantes, il y en a à Tours, juste à côté.
+
+1222
+01:31:54,000 --> 01:31:56,000
+ Il y en a à Poitiers, juste en dessous.
+
+1223
+01:31:56,000 --> 01:32:00,000
+ Pourquoi il ne me montre pas les super-chargeurs ?
+
+1224
+01:32:00,000 --> 01:32:02,000
+ C'est tout ce que je demande.
+
+1225
+01:32:02,000 --> 01:32:05,000
+ J'ai l'impression qu'il y a un petit problème sur leur carte, qu'elle ne fonctionne pas.
+
+1226
+01:32:05,000 --> 01:32:08,000
+ C'est bizarre, c'est l'habitude, ces cartes-là fonctionnent hyper bien.
+
+1227
+01:32:08,000 --> 01:32:11,000
+ En tout cas, il y a des super-chargeurs autour.
+
+1228
+01:32:11,000 --> 01:32:16,000
+ Il y en a à Angers, il y en a à Poitiers, il y en a à Tours.
+
+1229
+01:32:16,000 --> 01:32:20,000
+ Il y en a bien entendu autour de Nantes, la Chapelle-sur-Herbe, etc.
+
+1230
+01:32:20,000 --> 01:32:23,000
+ Il y en a un également à...
+
+1231
+01:32:26,000 --> 01:32:27,000
+ Dans ce coin-là.
+
+1232
+01:32:27,000 --> 01:32:29,000
+ Il y en a partout, des super-chargeurs.
+
+1233
+01:32:29,000 --> 01:32:33,000
+ Je ne sais pas pourquoi leur carte semble ne pas vouloir fonctionner et me les montrer.
+
+1234
+01:32:33,000 --> 01:32:36,000
+ Si j'enlève les magasins, sans tous carrosserie...
+
+1235
+01:32:39,000 --> 01:32:40,000
+ Je ne sais pas pourquoi.
+
+1236
+01:32:40,000 --> 01:32:41,000
+ Ça ne me montre pas.
+
+1237
+01:32:41,000 --> 01:32:42,000
+ En tout cas, il y a des super-chargeurs.
+
+1238
+01:32:42,000 --> 01:32:46,000
+ Si vous posez la question spécifiquement, il y a des Tesla-chargeurs à proximité
+
+1239
+01:32:46,000 --> 01:32:50,000
+ et il y a des chargeurs normaux juste à côté.
+
+1240
+01:32:50,000 --> 01:32:52,000
+ Donc vous n'aurez pas de soucis.
+
+1241
+01:32:52,000 --> 01:32:59,000
+ Par contre, il n'y a pas de chargeur de véhicule électrique sur le site lui-même de CenterParks.
+
+1242
+01:32:59,000 --> 01:33:01,000
+ Encore, ils ont dit qu'ils vont les installer.
+
+1243
+01:33:01,000 --> 01:33:03,000
+ C'est prévu, mais ce n'est pas encore le cas.
+
+1244
+01:33:03,000 --> 01:33:06,000
+ Ils ont dit que c'est prévu, mais ce n'est pas le cas.
+
+1245
+01:33:07,000 --> 01:33:12,000
+ Il y en a tout autour, y compris dans chaque village.
+
+1246
+01:33:12,000 --> 01:33:15,000
+ Il y en a 13, je ne sais pas combien.
+
+1247
+01:33:15,000 --> 01:33:17,000
+ Il y en a toujours partout.
+
+1248
+01:33:17,000 --> 01:33:20,000
+ Vous savez, maintenant, dans tous les villages de France,
+
+1249
+01:33:20,000 --> 01:33:23,000
+ il y a au moins un chargeur qui a été installé par le Conseil Général.
+
+1250
+01:33:23,000 --> 01:33:26,000
+ Et si vous allez juste à côté, dans la ville de...
+
+1251
+01:33:26,000 --> 01:33:29,000
+ Il y en a même plus de 13, de 13, de 13.
+
+1252
+01:33:29,000 --> 01:33:32,000
+ Et si vous allez juste à côté, dans la ville de...
+
+1253
+01:33:32,000 --> 01:33:34,000
+ Il y en a plusieurs.
+
+1254
+01:33:34,000 --> 01:33:36,000
+ Quelle est cette ville ?
+
+1255
+01:33:36,000 --> 01:33:38,000
+ Pas une grande ville.
+
+1256
+01:33:38,000 --> 01:33:40,000
+ Il y en a plusieurs.
+
+1257
+01:33:40,000 --> 01:33:43,000
+ Il y en a un ici, il y en a un là, il y en a un autre là.
+
+1258
+01:33:43,000 --> 01:33:45,000
+ 50 kilowatts celui-là ?
+
+1259
+01:33:45,000 --> 01:33:47,000
+ Ah oui, carrément, 50 kilowatts, ça c'est...
+
+1260
+01:33:47,000 --> 01:33:48,000
+ Costaud.
+
+1261
+01:33:48,000 --> 01:33:50,000
+ C'est chez Lidl, oui.
+
+1262
+01:33:50,000 --> 01:33:53,000
+ On sait que Lidl a ouvert plein de chargeurs hyper costauds.
+
+1263
+01:33:53,000 --> 01:33:55,000
+ Et pas cher du tout, en plus.
+
+1264
+01:33:55,000 --> 01:33:57,000
+ Pas cher du tout, du tout, du tout.
+
+1265
+01:33:57,000 --> 01:33:59,000
+ D'ailleurs, les tarifs de chargement, vous voyez.
+
+1266
+01:34:00,000 --> 01:34:05,000
+ 275 par kilowatts, donc 27 centimes par kilowatts.
+
+1267
+01:34:05,000 --> 01:34:07,000
+ Kilowatts heure.
+
+1268
+01:34:07,000 --> 01:34:09,000
+ Donc soyez tranquille avec les véhicules électriques.
+
+1269
+01:34:09,000 --> 01:34:12,000
+ Vous serez bien chargés.
+
+1270
+01:34:12,000 --> 01:34:14,000
+ Moi, j'y suis allé en voiture électrique.
+
+1271
+01:34:14,000 --> 01:34:15,000
+ J'y vais toujours.
+
+1272
+01:34:15,000 --> 01:34:17,000
+ Parfois ouvert, moi, j'y suis allé en voiture électrique, vous savez.
+
+1273
+01:34:17,000 --> 01:34:20,000
+ Même à l'autre bout de l'univers, c'est toujours en voiture électrique.
+
+1274
+01:34:20,000 --> 01:34:23,000
+ On risque d'être sans grand chalet, mais je tiens trop en copine.
+
+1275
+01:34:23,000 --> 01:34:25,000
+ Alors je vais bien tourner dans la baignoire pour pas être séparé.
+
+1276
+01:34:25,000 --> 01:34:28,000
+ Attendez, on va voir ce qu'il est possible de faire.
+
+1277
+01:34:28,000 --> 01:34:29,000
+ OK ?
+
+1278
+01:34:29,000 --> 01:34:31,000
+ Je viens de recevoir le mail.
+
+1279
+01:34:31,000 --> 01:34:33,000
+ Merci d'avoir participé à la vidéo.
+
+1280
+01:34:33,000 --> 01:34:37,000
+ C'est bizarre, pourtant on n'a pas passé les deux heures qui étaient prévues.
+
+1281
+01:34:37,000 --> 01:34:40,000
+ Vous êtes-il une gare proche, vous dites, les romiques ?
+
+1282
+01:34:40,000 --> 01:34:42,000
+ Très certainement.
+
+1283
+01:34:42,000 --> 01:34:44,000
+ On va regarder ça ensemble.
+
+1284
+01:34:44,000 --> 01:34:47,000
+ Très certainement, il y a une gare proche.
+
+1285
+01:34:47,000 --> 01:34:49,000
+ On va aller ici.
+
+1286
+01:34:49,000 --> 01:34:52,000
+ Il y a très certainement une gare proche.
+
+1287
+01:34:52,000 --> 01:34:54,000
+ Sans aucun glitch.
+
+1288
+01:34:54,000 --> 01:34:57,000
+ On va regarder ça.
+
+1289
+01:34:57,000 --> 01:34:59,000
+ Bic ténéraire.
+
+1290
+01:34:59,000 --> 01:35:02,000
+ Je vais mettre gare SMCF.
+
+1291
+01:35:07,000 --> 01:35:09,000
+ Avenue de l'Union Soviétique à Clermont-Ferrand.
+
+1292
+01:35:09,000 --> 01:35:10,000
+ Je reste une aide.
+
+1293
+01:35:10,000 --> 01:35:12,000
+ L'Union Soviétique à Clermont-Ferrand.
+
+1294
+01:35:12,000 --> 01:35:14,000
+ Sérieusement.
+
+1295
+01:35:14,000 --> 01:35:16,000
+ À quand le boulevard du 3ème Reich ?
+
+1296
+01:35:16,000 --> 01:35:19,000
+ Franchement, à notre époque, c'est conflit.
+
+1297
+01:35:19,000 --> 01:35:22,000
+ Vous me direz, à long terme, on a des boulevards lénines et staludins.
+
+1298
+01:35:22,000 --> 01:35:25,000
+ Ne rentrons pas là-dedans, les hélices.
+
+1299
+01:35:25,000 --> 01:35:27,000
+ Ne rentrons pas là-dedans.
+
+1300
+01:35:27,000 --> 01:35:30,000
+ Il y a la gare SMCF d'Angoulême.
+
+1301
+01:35:30,000 --> 01:35:34,000
+ Est-ce qu'il y a des gardes en les plus petits patins qui sont autour ?
+
+1302
+01:35:34,000 --> 01:35:36,000
+ Il faudrait chercher.
+
+1303
+01:35:36,000 --> 01:35:38,000
+ Loudin.
+
+1304
+01:35:38,000 --> 01:35:40,000
+ Il y a certainement une gare à Loudin, bien sûr.
+
+1305
+01:35:40,000 --> 01:35:42,000
+ Loudin, c'est une gare à Loudin.
+
+1306
+01:35:42,000 --> 01:35:43,000
+ Loudin, bien sûr.
+
+1307
+01:35:43,000 --> 01:35:45,000
+ Loudin, c'est une ville.
+
+1308
+01:35:45,000 --> 01:35:48,000
+ Loudin, il y a une gare SMCF.
+
+1309
+01:35:52,000 --> 01:35:55,000
+ Donc oui, il y a une gare SMCF à Loudin.
+
+1310
+01:35:55,000 --> 01:35:56,000
+ Apparemment.
+
+1311
+01:35:56,000 --> 01:35:58,000
+ Non, c'est une boutique SMCF.
+
+1312
+01:35:58,000 --> 01:35:59,000
+ Ah ah !
+
+1313
+01:35:59,000 --> 01:36:00,000
+ Ah ah ah ah !
+
+1314
+01:36:00,000 --> 01:36:03,000
+ Attention, ne pas nous faire avoir une boutique.
+
+1315
+01:36:04,000 --> 01:36:08,000
+ Si je mets SMCF à proximité de Loudin...
+
+1316
+01:36:12,000 --> 01:36:13,000
+ On va chercher.
+
+1317
+01:36:13,000 --> 01:36:17,000
+ Je n'ai pas l'impression qu'il y ait une gare à Loudin, contrairement à ce que j'imaginais.
+
+1318
+01:36:18,000 --> 01:36:21,000
+ Rechercher dans cette zone.
+
+1319
+01:36:26,000 --> 01:36:28,000
+ Non, je n'en trouve pas.
+
+1320
+01:36:28,000 --> 01:36:30,000
+ Je n'en trouve pas.
+
+1321
+01:36:30,000 --> 01:36:32,000
+ Maintenant...
+
+1322
+01:36:32,000 --> 01:36:35,000
+ Bon, Angers, on sait qu'il y a une gare, c'est sûr.
+
+1323
+01:36:35,000 --> 01:36:37,000
+ Ici, c'est quoi ?
+
+1324
+01:36:38,000 --> 01:36:41,000
+ C'est Tours, bien sûr qu'il y a une gare à Tours.
+
+1325
+01:36:43,000 --> 01:36:46,000
+ Ici, c'est Châtelereau.
+
+1326
+01:36:46,000 --> 01:36:48,000
+ Il y a une gare à Châtelereau, ça on sait.
+
+1327
+01:36:48,000 --> 01:36:50,000
+ On va faire des recherches plus précises.
+
+1328
+01:36:50,000 --> 01:36:52,000
+ Parce que je vous avouerai que...
+
+1329
+01:36:52,000 --> 01:36:54,000
+ Autant pour les véhicules électriques.
+
+1330
+01:36:54,000 --> 01:36:56,000
+ C'est bon, je sais vous répondre.
+
+1331
+01:36:56,000 --> 01:36:58,000
+ Autant pour la gare SMCF.
+
+1332
+01:36:58,000 --> 01:36:59,000
+ Je ne sais pas.
+
+1333
+01:36:59,000 --> 01:37:01,000
+ Il y a-t-il des infos encore persilentes pour tout le monde ?
+
+1334
+01:37:01,000 --> 01:37:02,000
+ Ou on a fait le tour ?
+
+1335
+01:37:02,000 --> 01:37:03,000
+ Non, non, on a fait le tour.
+
+1336
+01:37:03,000 --> 01:37:04,000
+ On a fait le tour.
+
+1337
+01:37:04,000 --> 01:37:06,000
+ Comment ça va se passer à partir de maintenant ?
+
+1338
+01:37:06,000 --> 01:37:07,000
+ Alors, deux choses.
+
+1339
+01:37:07,000 --> 01:37:11,000
+ Déjà, essayez de communiquer auprès de tous ceux qui n'ont pas reçu l'immé.
+
+1340
+01:37:11,000 --> 01:37:13,000
+ Parce qu'apparemment, ce n'est pas que les gens n'ont pas reçu l'immé.
+
+1341
+01:37:13,000 --> 01:37:17,000
+ C'est qu'il y a beaucoup de gens qui n'ont pas vu l'immé d'annonce de la vidéo de ce soir.
+
+1342
+01:37:17,000 --> 01:37:20,000
+ Parce que leur boîte mail n'est pas bien paramétrée comme il faut.
+
+1343
+01:37:20,000 --> 01:37:22,000
+ Ils n'ont pas cliqué dans tous les messages.
+
+1344
+01:37:23,000 --> 01:37:26,000
+ Premièrement, communiquez auprès de tous les autres pour dire
+
+1345
+01:37:26,000 --> 01:37:29,000
+ « Hey les amis, on a annoncé le séninaire.
+
+1346
+01:37:29,000 --> 01:37:33,000
+ C'est à tel endroit, c'est à telle date, c'est gratuit.
+
+1347
+01:37:33,000 --> 01:37:37,000
+ Donc, contactez l'animation et on leur enverra la vidéo. »
+
+1348
+01:37:37,000 --> 01:37:38,000
+ Première chose.
+
+1349
+01:37:38,000 --> 01:37:43,000
+ Deuxième chose, à partir de lundi, on va tous nous contacter par différents moyens.
+
+1350
+01:37:43,000 --> 01:37:45,000
+ Par email, par téléphone, etc.
+
+1351
+01:37:45,000 --> 01:37:50,000
+ Pour voir quels sont vos projets pour que l'on puisse caler ça le plus vite possible.
+
+1352
+01:37:51,000 --> 01:37:54,000
+ Là, ce sont les infos pertinentes des dernières dont on a besoin.
+
+1353
+01:37:54,000 --> 01:37:55,000
+ Qu'est-ce qui se passe à partir de maintenant ?
+
+1354
+01:37:55,000 --> 01:37:59,000
+ On va tous vous contacter pour voir qui veut venir, qui ne veut pas venir,
+
+1355
+01:37:59,000 --> 01:38:01,000
+ qui s'inscrit, qui ne s'inscrit pas.
+
+1356
+01:38:01,000 --> 01:38:04,000
+ Et répondre éventuellement aux questions que vous auriez individuellement.
+
+1357
+01:38:04,000 --> 01:38:07,000
+ Peut-être qu'on peut faire des micro-visios avec deux, trois, quatre personnes.
+
+1358
+01:38:07,000 --> 01:38:08,000
+ Si ça vous intéresse.
+
+1359
+01:38:08,000 --> 01:38:12,000
+ Mais non, on a vu l'essentiel des informations, sauf si vous avez des questions.
+
+1360
+01:38:12,000 --> 01:38:15,000
+ Bravo pour le choix, ça va être de superbes retrouvailles.
+
+1361
+01:38:15,000 --> 01:38:17,000
+ Bonne soirée à tous.
+
+1362
+01:38:17,000 --> 01:38:20,000
+ Oui, Gérard-Guin a raison, ça va être de superbes retrouvailles.
+
+1363
+01:38:20,000 --> 01:38:22,000
+ On a hâte, vraiment hâte.
+
+1364
+01:38:22,000 --> 01:38:27,000
+ « Il n'y a pas de gare à Ludin, il y a une gare à Poitiers à 75 km, nous dit Béatrice.
+
+1365
+01:38:27,000 --> 01:38:30,000
+ Du point, bien sûr. Merci beaucoup Béatrice. »
+
+1366
+01:38:33,000 --> 01:38:35,000
+ Pas de questions ?
+
+1367
+01:38:35,000 --> 01:38:38,000
+ Si on n'a pas de questions, effectivement, on en fait le tour.
+
+1368
+01:38:38,000 --> 01:38:40,000
+ Géraldine, tu as bien fait de revenir.
+
+1369
+01:38:40,000 --> 01:38:42,000
+ Ah, bah oui, elle n'allait pas rater ça quand même.
+
+1370
+01:38:42,000 --> 01:38:46,000
+ Vous avez vu Géraldine comme elle est maligne, elle est partie jusqu'à ce qu'il n'y ait pas de séminaire.
+
+1371
+01:38:46,000 --> 01:38:48,000
+ Ah, il y a un choix de séminaire, je reviens.
+
+1372
+01:38:48,000 --> 01:38:51,000
+ Merci pour tout, en tout cas.
+
+1373
+01:38:51,000 --> 01:38:55,000
+ Vous assurez comme d'habitude, top pour le choix, top pour l'hébergement.
+
+1374
+01:38:55,000 --> 01:39:01,000
+ Et encore, vous n'avez pas vu ce qu'on a prévu pour là-bas, pour vraiment passer du temps ensemble, du bon temps,
+
+1375
+01:39:01,000 --> 01:39:03,000
+ s'amuser, se retrouver.
+
+1376
+01:39:03,000 --> 01:39:08,000
+ Et après, j'espère que vous direz, bah c'était top, on a vraiment passé un bon moment.
+
+1377
+01:39:10,000 --> 01:39:13,000
+ Maintenant, il faut qu'on soit le plus nombreux possible.
+
+1378
+01:39:13,000 --> 01:39:16,000
+ Le plus nombreux possible.
+
+1379
+01:39:17,000 --> 01:39:19,000
+ Plus de fessions ?
+
+1380
+01:39:21,000 --> 01:39:23,000
+ Il y a une gare à Saumur.
+
+1381
+01:39:25,000 --> 01:39:27,000
+ Saumur, pour qui aime les chevaux.
+
+1382
+01:39:27,000 --> 01:39:31,000
+ Magnifique Saumur et leur amende.
+
+1383
+01:39:31,000 --> 01:39:33,000
+ Y a-t-il une gare à Chinon, je ne sais pas.
+
+1384
+01:39:33,000 --> 01:39:35,000
+ Ah, il y a une gare à Chinon, pardon.
+
+1385
+01:39:35,000 --> 01:39:37,000
+ Il y a une gare à Chinon, nous dit Corinne.
+
+1386
+01:39:37,000 --> 01:39:39,000
+ Corinne qui est également du point.
+
+1387
+01:39:41,000 --> 01:39:43,000
+ Bon week-end à tout le monde.
+
+1388
+01:39:43,000 --> 01:39:45,000
+ Les préliminaires sont top déjà.
+
+1389
+01:39:45,000 --> 01:39:47,000
+ Ah bah tout le monde vous le dira, les préliminaires c'est toujours sérieux.
+
+1390
+01:39:47,000 --> 01:39:53,000
+ Ah bah ça évitera à Frédéric de la faire, parce que normalement c'est une échantillon.
+
+1391
+01:39:53,000 --> 01:39:57,000
+ Merci à vous Nicolas, toute la lutte, vraiment en ce moment ça fait du bien.
+
+1392
+01:39:57,000 --> 01:40:01,000
+ Gare à Saumur, 16 kilomètres 7, donc juste à côté.
+
+1393
+01:40:01,000 --> 01:40:03,000
+ Un grand bravo, merci.
+
+1394
+01:40:07,000 --> 01:40:09,000
+ Bah écoutez, bonne soirée à tous.
+
+1395
+01:40:09,000 --> 01:40:10,000
+ À tout.
+
+1396
+01:40:10,000 --> 01:40:17,000
+ A savoir à tout le monde notamment, discutez-en sur le forum, enfin sur le forum, sur le groupe Facebook de Marjorie.
+
+1397
+01:40:17,000 --> 01:40:25,000
+ Enfin de Marjorie c'est de Facebook surtout, mais c'est comme si Marjorie qui se coltive de tout gérer, tout modérer, etc.
+
+1398
+01:40:25,000 --> 01:40:27,000
+ Merci et bravo à elle.
+
+1399
+01:40:27,000 --> 01:40:32,000
+ Discutez-en sur le groupe Facebook, discutez-en les uns avec les autres.
+
+1400
+01:40:32,000 --> 01:40:35,000
+ Il faudrait vraiment qu'on soit le plus nombreux possible.
+
+1401
+01:40:35,000 --> 01:40:45,000
+ Ça créerait vraiment un élan et vous allez voir plein de choses hyper importantes à y prendre pour améliorer son activité en ces temps de crise.
+
+1402
+01:40:45,000 --> 01:40:48,000
+ Merci à tous sinon, merci à toutes.
+
+1403
+01:40:48,000 --> 01:40:52,000
+ Je vous souhaite une excellente soirée, je vous souhaite un excellent week-end.
+
+1404
+01:40:52,000 --> 01:41:05,000
+ Bien entendu, on est à votre disposition, animation-allalucan.com et puis on espère vous y voir très très très nombreux.
+
+1405
+01:41:05,000 --> 01:41:13,000
+ Bonne soirée, merci beaucoup, merci à vous aussi, Hélène, merci Guillaume, ils appellent tout le monde, merci beaucoup.
+
+1406
+01:41:13,000 --> 01:41:16,000
+ Bon week-end et à très bientôt.
+
+1407
+01:41:16,000 --> 01:41:19,000
+ Je vous en prie Guy, très bonne soirée, au revoir.
+
+1408
+01:41:22,000 --> 01:41:24,000
+ Merci à tous.
+

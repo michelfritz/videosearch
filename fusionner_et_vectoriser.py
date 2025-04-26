@@ -24,7 +24,8 @@ for f in bloc_files:
 blocs_fusionnes = pd.concat(dfs, ignore_index=True)
 
 # 🌐 Charger ton vrai urls.csv (avec 'fichier' et 'url')
-urls_df = pd.read_csv("urls.csv")
+urls_df = pd.read_csv("urls.csv", encoding="cp1252")
+
 
 # 🔥 Correction ici : utiliser 'url' au lieu de 'youtube_id'
 urls_dict = dict(zip(urls_df["fichier"], urls_df["url"]))

@@ -1,94 +1,133 @@
-import torch
-import whisper
 import os
-import json
-import time
-from pathlib import Path
-from tqdm import tqdm
 import pandas as pd
+import whisper
+from pathlib import Path
+import json
 
-# === CONFIGURATION ===
+# --- Paramètres ---
 DOSSIER_VIDEOS = "videos"
 DOSSIER_JSON = "json"
+DOSSIER_SRT = "srt"
+DOSSIER_RESUME = "resume"
 DOSSIER_BLOCS = "blocs"
-DUREE_BLOC_SECONDES = 30
-TIMEOUT_PAR_VIDEO = 1200  # 20 minutes max par vidéo
+GLOSSAIRE_PATH = "glossaire.csv"
 
-# Préparation des dossiers
+# --- Chargement du glossaire si disponible ---
+if os.path.exists(GLOSSAIRE_PATH):
+    try:
+        try:
+            df_glossaire = pd.read_csv(GLOSSAIRE_PATH, encoding="utf-8")
+        except UnicodeDecodeError:
+            df_glossaire = pd.read_csv(GLOSSAIRE_PATH, encoding="cp1252")
+        termes_glossaire = df_glossaire["mot"].dropna().tolist()
+        print(f"📚 Glossaire chargé avec {len(termes_glossaire)} mots.")
+    except Exception as e:
+        print(f"⚠️ Erreur lors du chargement du glossaire : {e}")
+        termes_glossaire = []
+else:
+    termes_glossaire = []
+    print("ℹ️ Aucun glossaire trouvé.")
+
+# --- Chargement du modèle Whisper ---
+print("🔁 Chargement du modèle Whisper...")
+model = whisper.load_model("medium")
+print(f"✅ Modèle chargé sur : {'cuda' if whisper.torch.cuda.is_available() else 'cpu'}")
+
+# --- Création des dossiers de sortie ---
 os.makedirs(DOSSIER_JSON, exist_ok=True)
+os.makedirs(DOSSIER_SRT, exist_ok=True)
+os.makedirs(DOSSIER_RESUME, exist_ok=True)
 os.makedirs(DOSSIER_BLOCS, exist_ok=True)
 
-# === CHARGER WHISPER ===
-print("🔁 Chargement du modèle Whisper...")
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-model = whisper.load_model("large", device=DEVICE)
-print(f"✅ Modèle chargé sur : {DEVICE}")
+# --- Liste des vidéos à traiter ---
+videos = sorted(Path(DOSSIER_VIDEOS).glob("*.mp4"))
+print(f"🎮 Vidéos trouvées : {[v.name for v in videos]}")
 
-# === RECUPERER LES VIDEOS ===
-videos = list(Path(DOSSIER_VIDEOS).glob("*.mp4"))
-print("🎞️ Vidéos trouvées :", [v.name for v in videos])
+# --- Fonction pour convertir secondes en format SRT ---
+def seconds_to_srt_time(seconds):
+    h = int(seconds // 3600)
+    m = int((seconds % 3600) // 60)
+    s = int(seconds % 60)
+    ms = int((seconds - int(seconds)) * 1000)
+    return f"{h:02}:{m:02}:{s:02},{ms:03}"
 
-# === TRANSCRIRE ET DECOUPER ===
-for chemin_video in tqdm(videos, desc="📼 Transcription en cours"):
-    nom_base = chemin_video.stem
-    json_sortie = Path(DOSSIER_JSON) / f"{nom_base}.json"
-    csv_sortie = Path(DOSSIER_BLOCS) / f"{nom_base}_blocs.csv"
-    
-    if csv_sortie.exists():
-        print(f"✅ Blocs déjà générés pour : {nom_base}")
-        continue
+# --- Traitement vidéo par vidéo ---
+for chemin_video in videos:
+    nom_video = chemin_video.stem
+    json_path = Path(DOSSIER_JSON) / f"{nom_video}.json"
 
-    if not json_sortie.exists():
-        print(f"🔊 Transcription : {chemin_video.name}")
-        try:
-            start_time = time.time()
-            result = model.transcribe(str(chemin_video), language="fr", verbose=False, fp16=(DEVICE=="cuda"))
-            elapsed = time.time() - start_time
-
-            if elapsed > TIMEOUT_PAR_VIDEO:
-                print(f"⚠️ Temps dépassé pour {chemin_video.name}, ignorée.")
-                continue
-
-            with open(json_sortie, "w", encoding="utf-8") as f:
-                json.dump(result, f, ensure_ascii=False, indent=2)
-            print(f"✅ Sauvegardé : {json_sortie.name} en {round(elapsed/60, 1)} min")
-
-        except KeyboardInterrupt:
-            print("⛔ Interruption manuelle 🖐️")
-            break
-        except Exception as e:
-            print(f"❌ Erreur sur {chemin_video.name} : {e}")
-            continue
+    if json_path.exists():
+        print(f"📝 JSON déjà existant pour {nom_video}, saut transcription.")
     else:
-        print(f"📝 JSON déjà existant pour {nom_base}, saut transcription.")
+        print(f"🔊 Transcription : {nom_video}")
+        result = model.transcribe(
+            str(chemin_video),
+            language="fr",
+            verbose=True,
+            fp16=(whisper.torch.cuda.is_available()),
+            initial_prompt=" ".join(termes_glossaire) if termes_glossaire else None
+        )
 
-    # Découper le JSON en blocs de 30 secondes
-    try:
-        with open(json_sortie, "r", encoding="utf-8") as f:
-            data = json.load(f)
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+        print(f"✅ JSON sauvegardé : {json_path}")
 
-        segments = data.get("segments", [])
-        blocs = []
-        bloc = {"start": None, "end": None, "text": ""}
+    # --- Lecture du JSON pour resegmenter ---
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-        for seg in segments:
-            if bloc["start"] is None:
-                bloc["start"] = seg["start"]
-            bloc["end"] = seg["end"]
-            bloc["text"] += " " + seg["text"].strip()
+    segments = data.get("segments", [])
 
-            if bloc["end"] - bloc["start"] >= DUREE_BLOC_SECONDES:
-                blocs.append(bloc)
-                bloc = {"start": None, "end": None, "text": ""}
+    # --- Sauvegarde SRT à partir des segments originaux ---
+    srt_path = Path(DOSSIER_SRT) / f"{nom_video}.srt"
+    with open(srt_path, "w", encoding="utf-8") as f_srt:
+        for i, seg in enumerate(segments, 1):
+            start_srt = seconds_to_srt_time(seg["start"])
+            end_srt = seconds_to_srt_time(seg["end"])
+            f_srt.write(f"{i}\n{start_srt} --> {end_srt}\n{seg['text']}\n\n")
+    print(f"✅ SRT sauvegardé : {srt_path}")
 
-        if bloc["text"].strip():
-            blocs.append(bloc)
+    # --- Résegmenter pour les blocs fixes de 30s ---
+    resegmented = []
+    buffer_text = ""
+    buffer_start = None
+    buffer_end = None
 
-        df_blocs = pd.DataFrame(blocs)
-        df_blocs.to_csv(csv_sortie, index=False, encoding="utf-8")
-        print(f"✅ {len(blocs)} blocs exportés pour {nom_base}.")
+    for seg in segments:
+        if buffer_start is None:
+            buffer_start = seg["start"]
 
-    except Exception as e:
-        print(f"❌ Erreur de découpe pour {nom_base} : {e}")
+        buffer_text += (" " if buffer_text else "") + seg["text"]
+        buffer_end = seg["end"]
 
-print("🏁 Traitement terminé pour toutes les vidéos.")
+        if buffer_end - buffer_start >= 30.0:
+            resegmented.append({
+                "start": buffer_start,
+                "end": buffer_end,
+                "text": buffer_text.strip()
+            })
+            buffer_text = ""
+            buffer_start = None
+            buffer_end = None
+
+    if buffer_text:
+        resegmented.append({
+            "start": buffer_start,
+            "end": buffer_end,
+            "text": buffer_text.strip()
+        })
+
+    # --- Sauvegarde Resume TXT ---
+    resume_path = Path(DOSSIER_RESUME) / f"{nom_video}.txt"
+    with open(resume_path, "w", encoding="utf-8") as f_resume:
+        full_text = " ".join(seg["text"] for seg in resegmented)
+        f_resume.write(full_text.strip())
+    print(f"✅ Resume sauvegardé : {resume_path}")
+
+    # --- Sauvegarde CSV des blocs ---
+    blocs_path = Path(DOSSIER_BLOCS) / f"{nom_video}.csv"
+    df = pd.DataFrame(resegmented)
+    df.to_csv(blocs_path, index=False, encoding="utf-8")
+    print(f"✅ Blocs CSV sauvegardé : {blocs_path}")
+
+print("\n🎉 Toutes les vidéos ont été traitées avec succès !")

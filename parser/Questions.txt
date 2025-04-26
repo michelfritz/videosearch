@@ -1,0 +1,1330 @@
+[00:00.000 --> 00:03.000]  Réseau d’agent Mandat
+[01:00.000 --> 01:02.000]  Réseau d’agent Mandat
+[01:30.000 --> 01:32.000]  Réseau d’agent Mandat
+[02:00.000 --> 02:09.000]  Frédéric, très très très très expert, très bien enseigné, très compétent, sur Capita, Boursorama, etc.
+[02:09.000 --> 02:18.000]  Prévisant une baisse des points d'intérêt en 2024 et même dès le premier trimestre 2024.
+[02:18.000 --> 02:23.000]  Alors je ne suis pas en train de dire que ça ne va pas avoir lieu que ces gens racontent des bêtises, pas du tout, je ne le sais pas moi.
+[02:23.000 --> 02:36.000]  Oui, Frédéric a bien raison quand il nous dit que compétent, dans compétent il y a plusieurs mots, il y a beaucoup de mots comme ça dans la langue française qui eux-mêmes en comportent plusieurs.
+[02:36.000 --> 02:41.000]  Il y a compétent, il y a de Gaulle, concupissant, il y en a plein comme ça.
+[02:41.000 --> 02:45.000]  C'est très rigolo, c'est un peu comme les contrepêtrés, il faut être amateur.
+[02:46.000 --> 02:58.000]  Donc je vous disais, je ne dis pas que ces gens racontent des bêtises, tu ne l'y m'en parles, mais on sait que tous les experts qui se succèdent sur Internet et dans les médias viennent toujours raconter parfois un peu tout et son contraire.
+[02:58.000 --> 03:05.000]  Chacun vient avec son opinion et nous la balance comme si s'agissait d'un fait scientifiquement vérifié.
+[03:05.000 --> 03:17.000]  Et on en a vu bien des exemples pendant la crise de Covid, il y a été un festival du n'importe quoi venant de tout et de absolument partout.
+[03:17.000 --> 03:22.000]  Il se base principalement sur le ralentissement de l'inflation.
+[03:23.000 --> 03:42.000]  Le ralentissement de l'inflation, si vous voulez, on peut aller, est-ce qu'on peut avoir un graphique de l'inflation en temps réel, c'est-à-dire, on ne va pas avoir en temps réel, ce n'est pas quelque chose qui bouge au cours de la journée, mais l'inflation 2023 réactualisée, tout inflation actuelle 2023 on va voir.
+[03:42.000 --> 03:45.000]  Non, ça c'est avril 2023, on s'en fume un peu.
+[03:45.000 --> 03:58.000]  2 avril, c'est pour ça qu'il nous faut, mars, inflation novembre 2023, inflation au rythme annuel 2023.
+[03:58.000 --> 04:06.000]  Donc, vous, alors attendez, je ne partage pas, vous voyez toujours le petit chat.
+[04:06.000 --> 04:12.000]  Excusez-moi, voilà, là vous voyez franceinflation.com.
+[04:12.000 --> 04:34.000]  Alors, inflation au rythme annuel 2023, l12 2022, donc ça c'était l'inflation 2022, vous voyez, qui était sur plus haut, le bleu, les barres bleues.
+[04:34.000 --> 04:37.000]  Les barres bleues, c'était, est-ce que je peux ouvrir ça en plus grand ?
+[04:38.000 --> 04:46.000]  Les barres bleues, si je ne me trompe pas, c'est l'inflation de 2022 et on voit que tout au long de 2022 ça a augmenté.
+[04:46.000 --> 04:51.000]  Vous voyez janvier, février, crac crac crac crac crac, c'est un petit peu redescendu juillet, août, septembre.
+[04:51.000 --> 05:03.000]  Vous voyez qu'il faut se méfier d'une baisse, si on regarde juste à un moment donné, on se dit, ah bah tiens, ça baisse, c'est une tendance plus longue qu'il faut regarder parce qu'après ça avait remonté dès octobre, pouf, dès octobre.
+[05:03.000 --> 05:15.000]  Et puis d'ailleurs nous, c'est à ce moment-là, vous savez qu'entre l'inflation et les taux directeurs et les taux d'intérêt, c'est lié, oui, c'est lié.
+[05:15.000 --> 05:23.000]  Mais les taux directeurs et les taux d'intérêt qui en découlent ne sont pas calculés directement en temps réel par rapport à l'inflation.
+[05:23.000 --> 05:29.000]  Il y a toujours un décalage parce que les banques centrales, c'est les banques centrales qui définissent les taux.
+[05:29.000 --> 05:35.000]  La Banque centrale européenne, ce qu'on appelle la Fed, l'équivalent de la Banque centrale aux États-Unis.
+[05:35.000 --> 05:50.000]  Il y a bien entendu les banques centrales des États membres en France, en États-Unis, etc. qui ont une influence, qui définissent les taux en fonction, pas seulement, mais beaucoup de l'inflation.
+[05:50.000 --> 06:02.000]  Et c'est nous, en septembre-octobre, donc là où vous voyez ma souris bouger un petit peu là, c'est là que nous avons vu l'année dernière le marché vraiment se gripper.
+[06:02.000 --> 06:06.000]  Vraiment, vraiment, vraiment se gripper.
+[06:06.000 --> 06:22.000]  Et ce n'était pas lié à la baisse de l'inflation de septembre, c'était lié en fait à la hausse de l'inflation de la première moitié de l'année, en fait, du premier semestre qui se répercutait dans les taux, mais pas seulement.
+[06:22.000 --> 06:34.000]  Et on voit que tout à l'heure, ça a remonté après, pif-paf, en octobre-décembre, ça a un petit peu baissé, c'est un petit peu redescendu, vous voyez.
+[06:34.000 --> 06:52.000]  Et ça remonte en janvier parce que là, les barres rose jaune orange, c'est 2023, donc on termine les 2022 ici à la barre bleue et on commence 2023 ici et on voit que l'inflation est peut-être à 6%.
+[06:52.000 --> 06:58.000]  Et elle a bien amplement dépassé 6%, elle est peut-être à 6,650, là je ne sais pas, quelque chose comme ça.
+[06:58.000 --> 07:12.000]  Et après, hop, une baisse en mars, remontée en avril, mais pas au-dessus des 6%, et ça redescend, et ça redescend, et ça redescend, ça remonte en août de septembre, c'est normal, c'est toujours saisonnier, et hop, et ça redescend un petit peu.
+[07:12.000 --> 07:24.000]  Donc on est dans un rythme plutôt baissier par rapport à l'année dernière et ça devrait se traduire dans les taux d'intérêt.
+[07:24.000 --> 07:28.000]  Pourquoi ça se traduit dans les taux d'intérêt ?
+[07:28.000 --> 07:44.000]  Alors je ne vais pas faire l'expert en finance et en économie que je ne suis pas, bien sûr, je vous parle grossièrement des choses telles que je les connais, c'est-à-dire pas du tout en spécialiste, en expert, vous le savez.
+[07:44.000 --> 07:50.000]  Les taux d'intérêt, c'est un outil des banques centrales pour essayer de juguler l'inflation.
+[07:50.000 --> 08:00.000]  Vous trouverez là encore des gens très experts pour vous expliquer que ce n'est pas la bonne méthode, ce n'est pas le bon outil, ce n'est pas comme ça qu'il faut faire, il faut s'y prendre différemment.
+[08:00.000 --> 08:16.000]  En tout cas, c'est un outil qui est utilisé par les banques centrales pour essayer de juguler l'inflation, pour freiner l'inflation ou pour la réduire, ou l'augmente les taux.
+[08:16.000 --> 08:20.000]  Je vous dis ça de manière là encore très basique.
+[08:20.000 --> 08:41.000]  Et quand l'inflation baisse, en théorie, on peut baisser les taux, on se dit ah c'est bon, ça se stabilise, le ciel s'éclaircit, c'est bon, on peut soit arrêter d'augmenter les taux, soit même baisser les taux.
+[08:41.000 --> 08:47.000]  Avec toujours la question, oui mais attention si on les baisse, ça ne va pas faire repartir l'inflation à la hausse, etc.
+[08:47.000 --> 08:56.000]  Ce sont là les débats d'experts, les « who can't lose » de toute manière, on n'a pas pris un autre avis, et nous on a à peu près rien à foutre.
+[08:56.000 --> 09:02.000]  Donc c'est là-dessus qui se base, c'est sur le ralentissement voire la baisse de l'inflation.
+[09:02.000 --> 09:14.000]  Ce n'est pas vraiment une baisse parce que vous voyez qu'on n'est pas encore revenu là en novembre 2023, au taux de janvier 2022.
+[09:14.000 --> 09:16.000]  Donc on n'est pas encore redescendu au plus bas d'ailleurs.
+[09:16.000 --> 09:19.000]  Si on peut regarder taux inflation actuel, est-ce qu'on peut avoir ?
+[09:19.000 --> 09:24.000]  Je vais désoomer bien sûr, je vais désoomer pour vous.
+[09:31.000 --> 09:46.000]  Si on peut retrouver ici les graphiques de l'inflation avant 2022, c'est-à-dire aller sur un graphique qui serait 2021-2022.
+[09:47.000 --> 09:50.000]  On n'a pas ça ? On n'a pas ça ?
+[09:50.000 --> 09:56.000]  Inflation du mois, inflation, prévision inflation, on peut prendre prévision inflation, on va voir s'il nous dit un petit peu.
+[10:01.000 --> 10:07.000]  Non ? Est-ce qu'on peut avoir inflation 2021 ?
+[10:07.000 --> 10:10.000]  Ça n'écrit pas, excusez-moi.
+[10:16.000 --> 10:26.000]  1,6% de ça c'est la moyenne en 2021, attention, c'est la moyenne parce que quand on voit qu'ici on était aux alentours de 3% en janvier, c'était en janvier.
+[10:30.000 --> 10:34.000]  Est-ce qu'il nous donne des graphiques ou juste des données ?
+[10:34.000 --> 10:36.000]  J'ai peur, c'est court.
+[10:36.000 --> 10:38.000]  J'ai très très très très peur.
+[10:40.000 --> 10:44.000]  2022, 5,2%, ça c'est la moyenne.
+[10:44.000 --> 10:55.000]  Si on prend tout ce qu'on a en 2022 ici, on est à une moyenne de 5,2% et là vous voyez qu'aujourd'hui, là en novembre, on est à trois et quelques.
+[10:57.000 --> 11:01.000]  Et si on prend l'inflation 2021, on était à 1,6%.
+[11:01.000 --> 11:07.000]  Vous voyez qu'on est passé à une moyenne annuelle de 1,6 à 5,2.
+[11:08.000 --> 11:15.000]  Là en novembre, on serait donc à on va dire 3,5.
+[11:16.000 --> 11:18.000]  J'imagine 3,5.
+[11:18.000 --> 11:20.000]  On est encore loin des 1,6.
+[11:20.000 --> 11:29.000]  Donc on n'est pas dans une baisse qui nous remet à l'état où on était avant, mais on est quand même dans un sérieux ralentissement, une décélération.
+[11:29.000 --> 11:34.000]  Les journalistes aiment bien ça, un ralentissement de l'augmentation.
+[11:35.000 --> 11:37.000]  Pourquoi je vous parle de ça ?
+[11:37.000 --> 11:51.000]  Pourquoi je vous parle de ça ? Parce que vous êtes nombreux, vous et puis vous aussi bien entendu, parce que c'est votre métier à vous interroger et peut-être vous angoisser sur les taux d'intérêt.
+[11:51.000 --> 12:02.000]  Parce que les taux d'intérêt ne sont pas du tout le seul Twitter qui fait qu'on fait plus ou moins de ventes, mais c'est un élément déterminant.
+[12:02.000 --> 12:07.000]  Si les taux d'intérêt sont élevés, il y a beaucoup moins de gens qui peuvent acheter.
+[12:07.000 --> 12:09.000]  C'est aussi simple que ça.
+[12:09.000 --> 12:14.000]  Plus les taux d'intérêt sont élevés, moins il y a de gens qui peuvent acheter.
+[12:14.000 --> 12:18.000]  Plus les taux d'intérêt sont bas, plus il y a de gens qui peuvent acheter.
+[12:18.000 --> 12:28.000]  Donc en fait, l'acquisition immobilière est facilité et on va dire démocratisée par des taux faibles.
+[12:28.000 --> 12:36.000]  L'acquisition immobilière est compliquée, ralentie, entravée par des taux d'intérêt élevés.
+[12:36.000 --> 12:48.000]  Et même s'il y a plein de facteurs qui font qu'un marché immobilier est fluide, ça se passe bien, ou grippé, ça se passe mal, il y a plein de choses.
+[12:48.000 --> 12:53.000]  Il peut y avoir des élections, il peut y avoir des conjoncturiers à un pays spécifiquement.
+[12:53.000 --> 12:56.000]  En Irlande, ça ne se passe pas de la même manière qu'en France.
+[12:56.000 --> 13:02.000]  Des guerres, des tensions géopolitiques, des tensions au sein d'un pays.
+[13:02.000 --> 13:17.000]  Tout ça, c'est vrai, mais les taux d'intérêt sont un des facteurs les plus importants, un de ceux qui ont le plus d'impact réel.
+[13:18.000 --> 13:29.000]  Donc surveiller les taux et essayer de prévoir leur éventuelle baisse, c'est anticiper une amélioration du marché immobilier.
+[13:29.000 --> 13:39.000]  On a eu en fin 2022 et tout 2023 un marché immobilier extrêmement difficile, vraiment très très très très très difficile.
+[13:39.000 --> 13:42.000]  Là, la fin de l'année, parce qu'il y a toujours un décalage.
+[13:42.000 --> 13:46.000]  Un décalage, c'est exactement comme les fonds du Covid.
+[13:46.000 --> 13:55.000]  Entre le moment où les gens sont malades et le moment où ils ont les premiers symptômes, il se passe dix jours.
+[13:55.000 --> 14:02.000]  Et le moment où ils ont les premiers symptômes et ils ont la vraie maladie, c'est-à-dire des problèmes respiratoires, machin, etc.
+[14:02.000 --> 14:05.000]  Il y a encore dix jours pour qu'ils finissent en réanimation.
+[14:05.000 --> 14:10.000]  Et une fois qu'ils sont en réanimation, il y a encore dix jours pour voir se répercuter ça sur les décès.
+[14:10.000 --> 14:17.000]  Nous en souvenons de tout ce qui fait qu'entre le moment où une personne attrape le Covid 19, le virus tout au moins,
+[14:17.000 --> 14:23.000]  parce que le Covid 19 c'est la maladie, entre le moment où une personne attrape le virus et le moment où elle meurt, il se déroule un mois.
+[14:23.000 --> 14:32.000]  Parce qu'il faut que ça incubue, ça aille les premiers symptômes, ça tourne mal, on va à l'hôpital, on va en réa et on meurt.
+[14:32.000 --> 14:35.000]  Il se déroule un mois. Vous vous souvenez de ça ?
+[14:35.000 --> 14:39.000]  Encore, on ne rentre pas dans le débat s'il vous plaît du Covid.
+[14:39.000 --> 14:51.000]  C'est exactement pareil pour nous. Entre le moment où les prix montent, l'inflation, les taux et ça se répertue dans les ventes, il y a plusieurs mois.
+[14:51.000 --> 14:56.000]  Il se déroule plusieurs mois. Et par exemple, en ce moment même, novembre et décembre, ce sont des mois très très très mauvais.
+[14:56.000 --> 15:01.000]  On le voit nous dans les transactions, ce sont des mois très très très très mauvais.
+[15:01.000 --> 15:12.000]  Comme je vous l'ai dit, moi je pense que le marché ne va pas revenir à ce qu'il était auparavant.
+[15:12.000 --> 15:20.000]  Je pense qu'on est arrivé, on en a amplement discuté au cours de plein de visions et on en a discuté à cette heure par exemple.
+[15:20.000 --> 15:26.000]  Je pense que le marché ne va pas revenir à ce qu'il était auparavant. Je pense que le marché a suivi une évolution.
+[15:26.000 --> 15:33.000]  La conjoncture économique et géopolitique a fait qu'on est arrivé à un certain stade.
+[15:33.000 --> 15:40.000]  Et maintenant il va falloir reconstruire une nouvelle prospérité tout doucement.
+[15:40.000 --> 15:52.000]  Ça veut dire que je pense que les choses vont tout doucement s'améliorer, vont tout doucement devenir plus favorables pour nous.
+[15:52.000 --> 16:02.000]  Mais non, elles ne vont pas revenir à ce qu'elles étaient en positif de manière aussi brutale qu'elles sont devenues négatives et grippées.
+[16:02.000 --> 16:06.000]  Non, tout doucement ça va, on va reconstruire une nouvelle croissance.
+[16:06.000 --> 16:12.000]  Un petit peu comme si on était arrivés au haut d'une montagne, bouf on est descendu d'un coup, on a roulé en bas de la vallée.
+[16:12.000 --> 16:18.000]  Et maintenant il va falloir qu'on regravisse la montagne suivante, tout simplement.
+[16:19.000 --> 16:26.000]  C'est important quand même parce qu'on n'a pas eu beaucoup de perspectives positives tout au long de l'année.
+[16:26.000 --> 16:30.000]  On a vu les choses se dégrader, se dégrader, se dégrader.
+[16:30.000 --> 16:40.000]  Là avoir pas mal d'experts, ils nous disent quand même, ah, peut-être, moi je reste prudent entre ceux-là, oui oui ça va se passer comme ça.
+[16:40.000 --> 16:50.000]  Il y a peut-être des raisons d'espérer une baisse des taux en 2024.
+[16:50.000 --> 16:56.000]  C'est quand même une bonne nouvelle, c'est quand même une lueur d'espoir parce qu'à partir du moment où les taux baissent très rapidement,
+[16:56.000 --> 17:02.000]  on voit s'améliorer la conjoncture immobilière.
+[17:02.000 --> 17:06.000]  Dès que les taux baissent, ça veut dire que tout de suite il y a un petit peu plus de gens.
+[17:06.000 --> 17:10.000]  On a baissé les taux de 0,1%, il y a un tout petit peu plus de gens qui peuvent acheter.
+[17:10.000 --> 17:14.000]  Encore 0,1%, hop encore un tout petit peu plus de gens qui peuvent acheter.
+[17:14.000 --> 17:21.000]  Ça ne veut pas dire que du jour au lendemain on va faire le double de ventes, non mais petit à petit on va avoir un petit peu plus d'acquérisseurs financiers.
+[17:21.000 --> 17:30.000]  Ça va redonner entre guillemets le moral aux banques parce qu'on sait que les banques jouent également un rôle délétère très important dans la crise actuelle,
+[17:30.000 --> 17:40.000]  dans la mesure au-delà des taux, les banques ferment les robinets et font preuve d'une frilosité absolument subjective.
+[17:40.000 --> 17:50.000]  Ce n'est pas très rationnel tout ça, mais les banques vont du coup reprendre un petit peu confiance en le marché immobilier et elles vont jouer leur rôle.
+[17:50.000 --> 17:55.000]  Elles vont accompagner la baisse des taux avec un petit peu plus de souplesse sur les accords de crédit.
+[17:55.000 --> 18:07.000]  Donc petit à petit si ça se produit, si effectivement le début 2024 on voit une baisse des taux, on va voir petit à petit les choses s'améliorer.
+[18:07.000 --> 18:12.000]  Chaque mois ça ira un petit peu mieux, un petit peu mieux, un petit peu mieux.
+[18:12.000 --> 18:27.000]  C'est important parce que je ne sais pas si ça va se produire ou pas, mais c'est vrai que ça fait pas mal d'articles que je vois qui en parlent et qui vont dans ce sens là.
+[18:27.000 --> 18:29.000]  Donc ça peut nous donner des raisons d'espérer.
+[18:29.000 --> 18:34.000]  C'est la première raison d'espérer qu'on a depuis fin 2022 quand même.
+[18:34.000 --> 18:41.000]  Depuis fin 2022, c'est que nos roses dégueulasses sont, ce sera de pire en pire, là, tiens, est-ce qu'on ne sortirait pas un peu du tunnel ?
+[18:41.000 --> 18:55.000]  Vous savez exactement comme pour le Covid, le Covid pendant toute l'année, c'était 2020, toute l'année 2020 et 2021 ça n'a été que de pire en pire et résurgence et repart à la hausse et machin, etc.
+[18:55.000 --> 18:58.000]  Et puis petit à petit c'est qu'elle est de mieux en mieux.
+[18:58.000 --> 19:02.000]  Alors je ne suis pas en train de dire que c'est allé de mieux en mieux d'un point de vue sanitaire, je ne veux pas rentrer dans ce débat-là.
+[19:02.000 --> 19:05.000]  Ça c'est un débat qu'on peut avoir quand on dine ensemble.
+[19:05.000 --> 19:13.000]  Mais tout s'est petit à petit amélioré jusqu'à ce qu'on soit complètement presque sorti de ça.
+[19:13.000 --> 19:27.000]  Donc on verra ce qui se passera mais une chose est sûre, on a des raisons de se dire, tiens, première fois en un an, un an et demi, qu'il y a des perspectives un peu positives.
+[19:28.000 --> 19:31.000]  On verra ce qui se produira réellement, bien sûr.
+[19:31.000 --> 19:37.000]  Et Ludi nous dit, ça a déjà commencé, selon ma CGP, alors CGP c'est conseiller de gestion patrimoine.
+[19:37.000 --> 19:43.000]  Je dis ça parce que tout le monde n'est pas forcément habitué à ces acronymes.
+[19:43.000 --> 19:51.000]  Donc selon ma CGP, la Société Générale fait des taux d'attaque à 3%.
+[19:52.000 --> 20:00.000]  C'est vrai que c'est la première fois que j'entends cette nouvelle, si c'est réel c'est parlant, c'est très très parlant.
+[20:02.000 --> 20:10.000]  Donc José nous dit, ma conseillère financière me disait que le gouvernement allait agir pour ne pas plomber le marché immobilier, peut-être une baisse des taux.
+[20:10.000 --> 20:12.000]  Ça on va y revenir.
+[20:12.000 --> 20:17.000]  Et Pierre nous dit, si le taux était élevé, il faut que les vendeurs baissent le prix et le problème est résolu.
+[20:17.000 --> 20:19.000]  Super important ça.
+[20:21.000 --> 20:26.000]  On va traiter les deux remarques de José et Pierre.
+[20:26.000 --> 20:31.000]  Pierre d'ailleurs, bienvenue à Nadjet qui aujourd'hui fait sa première visio du jeudi.
+[20:31.000 --> 20:34.000]  Nadjet est toute nouvelle chez nous, elle vient d'arriver.
+[20:34.000 --> 20:37.000]  Je crois que vous êtes dans le 33 Nadjet, est-ce que je ne me trompe pas ?
+[20:37.000 --> 20:41.000]  Je vais vérifier votre département.
+[20:41.000 --> 20:47.000]  Il me semble, si je ne dis pas de bêtises, que vous êtes en giron.
+[20:47.000 --> 20:49.000]  Est-ce que je dis une bêtise ou pas ?
+[20:49.000 --> 20:51.000]  Je vais vérifier.
+[20:51.000 --> 20:57.000]  Bienvenue à vous, bienvenue dans le réseau, bienvenue à la Luka, bienvenue à ces visioconférences.
+[20:57.000 --> 21:00.000]  Tout le monde vous dit sur le chat comme à chaque fois, bienvenue à vous.
+[21:00.000 --> 21:03.000]  Dans le 38, pardon, vous êtes en Isère, excusez-moi.
+[21:03.000 --> 21:06.000]  Je vous dis une bêtise, je dis une bêtise, vous êtes en Isère.
+[21:06.000 --> 21:08.000]  C'est 38 et non pas 33, toutes mes excuses.
+[21:08.000 --> 21:10.000]  Donc bien entendu, tout le monde vous souhaite la bienvenue.
+[21:10.000 --> 21:13.000]  Bienvenue à vous, ma chère Nadjet.
+[21:14.000 --> 21:21.000]  Je vous disais, hop là, par rapport aux remarques de José de Pierre.
+[21:21.000 --> 21:24.000]  José dit, ma conseillère financière me disait que le gouvernement allait agir
+[21:24.000 --> 21:27.000]  pour ne pas plomber le marché immobilier peut-être par une baisse des taux.
+[21:27.000 --> 21:34.000]  Ça, moi, je n'y crois pas parce que le gouvernement n'a pas la main sur les taux.
+[21:34.000 --> 21:36.000]  Je pense, c'est l'impression.
+[21:36.000 --> 21:40.000]  Le gouvernement n'a pas trop la main sur les taux parce que les taux qui sont pratiqués en France,
+[21:40.000 --> 21:44.000]  ce sont des taux qui sont décidés concrètement entre trois organismes,
+[21:44.000 --> 21:46.000]  la Banque centrale européenne.
+[21:46.000 --> 21:49.000]  Bienvenue à la nouvelle, Luc Armienne dit, en effet.
+[21:49.000 --> 21:57.000]  Donc la Banque centrale européenne et la Fed, ce qu'on appelle la réserve fédérale aux États-Unis,
+[21:57.000 --> 22:00.000]  c'est l'équivalent de la Banque centrale aux États-Unis et le FMI,
+[22:00.000 --> 22:02.000]  le Fonds de l'Etat international.
+[22:02.000 --> 22:10.000]  Ce sont les trois organismes qui définissent la politique des taux en Occident.
+[22:10.000 --> 22:15.000]  Bien entendu, avec influence de la Chine, avec influence de plein de choses.
+[22:15.000 --> 22:25.000]  Mais principalement qui décide des taux en Occident, c'est les décisions prises
+[22:25.000 --> 22:27.000]  et les recommandations pour le FMI,
+[22:27.000 --> 22:30.000]  puisque le FMI ne peut pas prendre des décisions directement applicables.
+[22:30.000 --> 22:37.000]  Il y a une très grande influence entre le FMI, le FMI, la Réseve fédérale américaine
+[22:37.000 --> 22:40.000]  et la Banque centrale européenne.
+[22:40.000 --> 22:43.000]  Bien sûr que la Banque de France a un rôle à jouer,
+[22:43.000 --> 22:49.000]  mais aujourd'hui il n'y a pas du tout l'influence qu'il avait auparavant.
+[22:49.000 --> 22:55.000]  Bien sûr que les gouvernements essayent de faire un peu ce qu'ils peuvent, ce qu'ils veulent, etc.
+[22:55.000 --> 22:58.000]  Mais c'est relativement faible comme influence.
+[22:58.000 --> 23:04.000]  Donc, je ne sais pas si le gouvernement a vraiment la main pour faire quoi que ce soit.
+[23:04.000 --> 23:14.000]  Et également une chose que je sais, c'est que le marché immobilier pour le gouvernement,
+[23:14.000 --> 23:17.000]  en particulier pour Emmanuel Macron lui-même,
+[23:17.000 --> 23:21.000]  je ne suis pas en train de dire qu'il n'est pas un petit peu gentil ou un petit peu méchant,
+[23:21.000 --> 23:24.000]  je ne porte pas de jugement de valeur,
+[23:24.000 --> 23:30.000]  mais nous savons que pour Emmanuel Macron, l'immobilier c'est un truc ringard.
+[23:30.000 --> 23:34.000]  Pour Emmanuel Macron et pour les gens qui l'entourent, c'est un truc ringard.
+[23:34.000 --> 23:38.000]  C'est un truc de grand papa, l'immobilier.
+[23:38.000 --> 23:41.000]  L'immobilier c'est lui-là. L'immobilier ça ne compte pas.
+[23:41.000 --> 23:47.000]  Ce qui compte c'est la finance, ce qui compte c'est les marchés, ce qui compte c'est les Google,
+[23:47.000 --> 23:55.000]  les grandes sociétés qui brassent des milliards à coups de finances, de machins, de trucs, etc.
+[23:55.000 --> 23:59.000]  Ça c'est la vraie économie, c'est l'économie sympa, c'est l'économie sexy,
+[23:59.000 --> 24:06.000]  c'est l'économie intéressante pour Emmanuel Macron et pour ses camarades.
+[24:06.000 --> 24:09.000]  L'immobilier, ça compte pas.
+[24:09.000 --> 24:16.000]  Limite, limite, c'est de l'enrichissement douteux, c'est un doute, c'est de l'enrichissement sans cause.
+[24:16.000 --> 24:22.000]  C'est un concept juridique et philosophique dont on ne parle pas tous les jours.
+[24:22.000 --> 24:27.000]  L'enrichissement sans cause. Je m'enrichis sans rien avoir fait pour le mériter.
+[24:30.000 --> 24:35.000]  Donc c'est la raison pour laquelle le gouvernement n'a rien fait dès le démarrage.
+[24:35.000 --> 24:39.000]  Le gouvernement pouvait essayer d'agir tout de suite, que ça ait des effets ou que ça n'ait pas d'effet,
+[24:39.000 --> 24:44.000]  mais à chaque fois que le gouvernement pressé par les milieux économiques,
+[24:44.000 --> 24:49.000]  eux disent « attendez, l'immobilier c'est très important dans l'économie française et dans l'économie mondiale,
+[24:49.000 --> 24:55.000]  et surtout l'immobilier et l'argent que ça génère proprement,
+[24:55.000 --> 24:59.000]  a des conséquences directes dans l'emploi.
+[24:59.000 --> 25:04.000]  L'emploi des promoteurs, des constructeurs, des agences immobilières, des syndicats,
+[25:04.000 --> 25:08.000]  il y a énormément d'emplois qui en découlent et il y a énormément d'argent pour l'économie.
+[25:08.000 --> 25:13.000]  Ne serait-ce que les communes qui vivent énormément grâce aux frais de matières,
+[25:13.000 --> 25:18.000]  c'est-à-dire les droits de mutation, c'est une source d'argent très importante pour les communes, pour les notaires, pour tout le monde.
+[25:18.000 --> 25:22.000]  Donc les économistes depuis longtemps tirent la sonnette dans leur main,
+[25:22.000 --> 25:26.000]  ils disent « faut pas négliger l'immobilier, c'est très important, même si c'est ringard,
+[25:26.000 --> 25:33.000]  que ça sent la dastalline et le moisi par rapport à la finance un peu sexy, un peu chouette, des startups et des McKinsey,
+[25:33.000 --> 25:39.000]  c'est très important dans l'économie réelle.
+[25:40.000 --> 25:45.000]  Le gouvernement a dit « on va faire un plan, on va faire deux plans » et à chaque fois que le gouvernement a fait des annonces,
+[25:45.000 --> 25:49.000]  on a vu ça deux fois en 2023,
+[25:49.000 --> 25:56.000]  les annonces, ça va y avoir des annonces pour rebooster le marché immobilier, pour rebooster l'immobilier et le logement, le plus de logement.
+[25:56.000 --> 26:03.000]  Et à chaque fois les annonces, ça a fait flop, à chaque fois qu'on a vu ça, on a dit « ah si c'était pour ça, ce n'était pas la peine,
+[26:03.000 --> 26:07.000]  parce qu'en fait c'était des fausses annonces, des annonces qui ne mènent nulle part à l'histoire judiciaire.
+[26:07.000 --> 26:12.000]  Oui, on a fait un plan, mais en fait, il n'y a rien derrière.
+[26:12.000 --> 26:21.000]  Moi-même j'en ai discuté avec des banquiers, j'en ai discuté notamment avec un banquier.
+[26:21.000 --> 26:29.000]  Alors quand je dis un banquier, c'est quelqu'un qui est à la direction d'une grande banque française
+[26:29.000 --> 26:36.000]  et simplement au comité stratégique de cette banque, de mes relations,
+[26:36.000 --> 26:41.000]  et qui me disait « non, non, non, non, mais tu vas voir, tu vas voir, tu vas voir »
+[26:41.000 --> 26:46.000]  un moment ou un autre, parce que je lui disais la même chose.
+[26:47.000 --> 26:51.000]  Le gouvernement, non, non, il se fous, ce n'est pas son truc, ça sent le moisir immobile.
+[26:51.000 --> 26:55.000]  Il dit « oui, oui, c'est vrai, c'est vrai, c'est vrai, je fais ce que tu dis, c'est vrai, mais à un moment ou un autre,
+[26:55.000 --> 26:58.000]  ils seront obligés parce que ça aura trop de conséquences dans l'économie réelle.
+[26:58.000 --> 27:04.000]  À un moment ou un autre, le gouvernement sera obligé de faire quelque chose, ils n'auront pas le choix.
+[27:04.000 --> 27:07.000]  Et là, ils vont donner un coup de volant très brutal.
+[27:07.000 --> 27:16.000]  Ils vont mettre en place des actions extrêmement brutales qui auront un effet déterminant et très rapide.
+[27:16.000 --> 27:21.000]  En gros, à un moment ou un autre, ils donneront un coup de volant à fond.
+[27:21.000 --> 27:26.000]  Et là, ça va faire repartir le marché de manière très rapide.
+[27:26.000 --> 27:35.000]  Effectivement, cette personne, c'est quelqu'un de compétent dont le jugement, à mes yeux, a une valeur.
+[27:35.000 --> 27:38.000]  Je me dis, ce n'est pas un crétin, ce n'est pas un mec qui va sur Internet.
+[27:38.000 --> 27:43.000]  Vous savez, comme tous ceux qui vont ramener leurs frais sur Internet pour expliquer tout et n'importe quoi et raconter leurs bêtises,
+[27:43.000 --> 27:48.000]  là, c'est quelqu'un de compétent qui connaît son affaire et j'ai confiance en son jugement.
+[27:48.000 --> 27:52.000]  Mais je ne vois pas arriver.
+[27:52.000 --> 27:56.000]  On verra.
+[27:56.000 --> 28:02.000]  Et Pierre nous dit, à la suite de José, « si le taux est élevé, il faut que les vendeurs baissent le prix et le problème est résolu.
+[28:02.000 --> 28:06.000]  Oui, c'est vrai. Pierre a raison.
+[28:06.000 --> 28:10.000]  Ça, c'est mécanique. C'est des maths. C'est des maths, c'est mécanique.
+[28:10.000 --> 28:17.000]  Si les taux montent, il faut que les prix baissent pour compenser.
+[28:17.000 --> 28:26.000]  Parce que plus un taux monte, si j'emprunte à 5%, ma maison de 100 000 euros, au lieu de la payer,
+[28:26.000 --> 28:36.000]  je vais vous donner un exemple. Au lieu de payer ma maison 100 000 euros net vendeur plus, j'invente, 60 000 euros d'intérêt sur 20 ans,
+[28:36.000 --> 28:43.000]  avec la montée des taux, je vais payer 100 000 euros net vendeur plus 90 000 euros sur 20 ans.
+[28:43.000 --> 28:47.000]  Vous voyez, ça peut avoir une influence déterminante les taux.
+[28:47.000 --> 28:54.000]  Ça veut dire que ma maison, au lieu de la payer en tout 160 000 euros, je vais la payer en tout 190 000 euros sur 20 ans.
+[28:54.000 --> 29:00.000]  C'est énorme. C'est là l'impact. C'est que ma maison coûte beaucoup plus cher.
+[29:00.000 --> 29:04.000]  Pas plus cher de 5 000 balles, plus cher de 20, 30, 40 000 euros.
+[29:04.000 --> 29:13.000]  Donc si les prix baissent de 30 000 euros, c'est-à-dire au lieu de payer ma maison 100 000 euros net vendeur,
+[29:13.000 --> 29:19.000]  je la paye 70 000 euros, et bien j'ai de quoi compenser l'augmentation des taux.
+[29:19.000 --> 29:24.000]  Pierre a raison, c'est mécanique, c'est mathématique.
+[29:24.000 --> 29:30.000]  Oui, si les prix baissaient en rapport, ça serait vrai.
+[29:30.000 --> 29:36.000]  Il faudrait que les vendeurs se disent, bon ben voilà, pour vendre, je vais devoir baisser mon prix.
+[29:36.000 --> 29:39.000]  En fait, il aurait fallu quoi pour compenser cet avis ?
+[29:39.000 --> 29:43.000]  Il aurait fallu qu'on met une bande, il baisse de peut-être 20% des prix.
+[29:44.000 --> 29:50.000]  Mais le vendeur va baisser son prix de 20%, parce qu'un vendeur qui baisse son prix de 20%,
+[29:50.000 --> 29:58.000]  avec les taux de rotation, c'est-à-dire le délai moyen de possession d'un bien immobilier,
+[29:58.000 --> 30:04.000]  qui aujourd'hui s'approche des 5, France confondue, en centre-ville, dans une grande ville, c'est très court,
+[30:04.000 --> 30:11.000]  c'est aux alentours de 3 ans, c'est-à-dire qu'on achète un appartement, en moyenne, entre les gros appartements, les petits appartements,
+[30:11.000 --> 30:16.000]  on achète un appartement, on reste entre 3 et 4 ans dedans, avant de le revendre.
+[30:16.000 --> 30:20.000]  Vous allez à la campagne, les grandes propriétés, là ça monte à 10, 15, 20 ans.
+[30:20.000 --> 30:25.000]  Les vieilles propriétés familiales, parfois ça peut être 50, 60, 70 ans, 100 ans.
+[30:25.000 --> 30:35.000]  Donc aujourd'hui, on est toute France confondue, taux produits confondus, on est entre 5 et 7 ans, quelque chose comme ça.
+[30:35.000 --> 30:39.000]  Il faudrait regarder quelles sont les matières de l'éolien, est-ce que je peux trouver ça ?
+[30:39.000 --> 30:46.000]  Le taux de rotation immobilière actualisé France comprise, on appelle ça le taux de rotation,
+[30:46.000 --> 30:52.000]  c'est en gros quand le bien change de main, ou le taux de rétention, combien de temps je le garde ?
+[30:57.000 --> 31:03.000]  Alors ça, c'est la taux de rotation du parcs en pourcentage, c'est autre chose, moi je le veux en année.
+[31:03.000 --> 31:05.000]  Je vais mettre...
+[31:25.000 --> 31:27.000]  Ça.
+[31:33.000 --> 31:46.000]  Bon, peut-être il va falloir que je fasse des recherches plus... Parce que je pensais le trouver comme ça en enclaquement de doigts, non.
+[31:46.000 --> 31:50.000]  Là on arrive sur la plus value, il faudrait que je le cherche pendant plus longtemps.
+[31:50.000 --> 31:56.000]  Mais bon, je ne me trompe pas si je vous dis qu'on est entre 5 et 7 ans, toute France confondue.
+[31:56.000 --> 32:01.000]  Ça veut dire que celui qui a acheté sa maison, je vous dis une bêtise, il y a 5 ans,
+[32:01.000 --> 32:11.000]  s'il fait dès maintenant une baisse de 20%, il risque de se rapprocher du prix auquel il a acheté, voire même d'avoir une moins value.
+[32:11.000 --> 32:16.000]  Or, psychologiquement, tout vendeur veut faire une grosse plus-value sur sa maison.
+[32:16.000 --> 32:19.000]  Est-ce qu'il le fait ? Ce qu'il ne le fait pas, c'est une autre question.
+[32:19.000 --> 32:25.000]  Tout vendeur se dit, je vends ma maison beaucoup plus cher que je ne l'ai acheté, je gagne de l'argent sur ma maison.
+[32:25.000 --> 32:29.000]  C'est pour ça que je vous parlais tout à l'heure de la notion du concept d'enrichissement sans cause.
+[32:29.000 --> 32:36.000]  Gagner de l'argent sans véritable raison, sans véritablement avoir fait quoi que ce soit pour générer cette richesse.
+[32:36.000 --> 32:42.000]  Tout vendeur veut faire un bénéfice, une plus-value sur l'achat de sa maison.
+[32:42.000 --> 32:53.000]  Et bien, celui qui ne fera pas de bénéfice, déjà il faut qu'il avale, glups, première pilule, je ne vais pas faire de bénéfice.
+[32:53.000 --> 32:57.000]  Ensuite, ou alors je vais en faire un petit.
+[32:57.000 --> 33:01.000]  Deuxième pilule, je n'en fais pas du tout. Troisième pilule, je vends au même prix.
+[33:01.000 --> 33:06.000]  Quatrième pilule, je vends moins cher que je n'ai acheté.
+[33:06.000 --> 33:09.000]  Les vendeurs ne veulent pas ça. Il y a un vrai blocage psychologique.
+[33:09.000 --> 33:11.000]  Donc Pierre a entièrement raison.
+[33:11.000 --> 33:19.000]  Pour contrer l'inflation, il suffirait entre guillemets de faire baisser les prix dans une juste proportion,
+[33:19.000 --> 33:24.000]  pour compenser la hausse de l'inflation et donc la hausse des taux.
+[33:24.000 --> 33:27.000]  Mais psychologiquement, les vendeurs ne le veulent pas.
+[33:27.000 --> 33:33.000]  Ou alors ça prend très longtemps d'avaler toutes ces pilules les unes après les autres.
+[33:33.000 --> 33:37.000]  Mais c'est ce qu'il faudrait faire, bien sûr.
+[33:37.000 --> 33:45.000]  Il nous dit que c'est parce que la Société Générale a rajouté la colbe et ils ont besoin d'argent.
+[33:45.000 --> 33:48.000]  Ah, c'est pour une raison spécifique.
+[33:48.000 --> 33:53.000]  Le Pélatif nous dit que c'est la BCE qui a la main sur les taux. Oui, de manière réelle, c'est bien sûr.
+[33:53.000 --> 34:02.000]  Avant, un couple qui pouvait 200 000 euros maintenant peut 170 000 euros.
+[34:02.000 --> 34:05.000]  Si le vendeur baisse de 30 000 euros, c'est réglé.
+[34:05.000 --> 34:08.000]  Oui, si le vendeur baisse de 30 000 euros.
+[34:08.000 --> 34:13.000]  Pierre prend des chiffres à peu près similaires à ceux que je vous avais donné.
+[34:13.000 --> 34:18.000]  Moi j'étais sur 190 000 au lieu de 160 000 et lui il est sur 200 000 au lieu de 160 000.
+[34:18.000 --> 34:20.000]  Les grands esprits se rencontrent.
+[34:20.000 --> 34:22.000]  Pierre a raison sur le principe, c'est tout à fait vrai.
+[34:22.000 --> 34:31.000]  Mais il faut donc que le vendeur fasse ce travail psychologique et accepte de vendre avec 30 000 euros de moins de ce qu'il espérait.
+[34:31.000 --> 34:36.000]  15% de baisse vu l'augmentation de ces dernières années, ils peuvent.
+[34:36.000 --> 34:41.000]  Mais c'est ça le problème, c'est qu'il ne faut pas qu'il le puisse, il faut qu'il l'accepte.
+[34:41.000 --> 34:44.000]  C'est pour ça que je vous dis que c'est un problème psychologique.
+[34:44.000 --> 34:50.000]  Oui, un grand nombre d'entre eux, pas tous bien sûr, mais un grand nombre d'entre eux le peuvent.
+[34:50.000 --> 34:52.000]  Tout à fait vrai.
+[34:52.000 --> 34:55.000]  Est-ce qu'ils le veulent, est-ce qu'ils l'acceptent ?
+[34:56.000 --> 35:01.000]  Et c'est là, nous, qu'on a notre travail à faire pour faire baisser les prix.
+[35:01.000 --> 35:05.000]  Tout le temps, on entend les gens disent, oui, si les prix montent, si à cause des agents immobiliers ils veulent que les prix montent,
+[35:05.000 --> 35:07.000]  parce que comme ça leurs renseignements sont plus élevés.
+[35:07.000 --> 35:11.000]  Mais si les gens s'avèrent à quel point c'est une bêtise, ça, c'est pas vrai du tout.
+[35:11.000 --> 35:14.000]  Nous, notre travail, c'est juste de faire baisser les prix.
+[35:14.000 --> 35:19.000]  Plus les prix sont bas, mieux on arrive à fluidifier le marché et à faire des ventes.
+[35:19.000 --> 35:28.000]  Les plus gros trusts nous disent bien sûr, par contre, pourquoi l'État ne joue pas sur les frais de notaire ?
+[35:28.000 --> 35:30.000]  Ce sera plus facile à faire.
+[35:30.000 --> 35:33.000]  L'État peut aussi jouer sur les frais de notaire.
+[35:33.000 --> 35:37.000]  Le truc, c'est que si on va regarder la composition des frais de notaire,
+[35:37.000 --> 35:39.000]  on va regarder ça ensemble.
+[35:39.000 --> 35:43.000]  Alors déjà, je vais partager mon écran parce que je m'interroge là, vous voyez pas ce que je vois.
+[35:44.000 --> 35:49.000]  Composition des frais de notaire.
+[35:49.000 --> 35:55.000]  Les frais de notaire, en fait, dedans, il y a un visuel d'ailleurs là-dessus qui s'appelle les droits de mutation.
+[35:55.000 --> 36:01.000]  Les frais de notaire sont composés, hop, on va le voir ensemble, refusés de plusieurs choses.
+[36:01.000 --> 36:08.000]  Il y a les émoluments, ce qu'on appelle souvent les émoluments du notaire.
+[36:08.000 --> 36:12.000]  Ça, c'est la part qui revient au notaire, c'est sa rémunération à lui.
+[36:12.000 --> 36:19.000]  On pourrait toucher aux émoluments des notaires parce que c'est décidé par le gouvernement,
+[36:19.000 --> 36:24.000]  enfin par la chancellerie exactement, est négocié avec la Chambre des notaires.
+[36:24.000 --> 36:27.000]  On pourrait jouer sur les émoluments des notaires.
+[36:27.000 --> 36:30.000]  Mais qu'est-ce qu'il y a d'autre ?
+[36:30.000 --> 36:34.000]  Il y a les débours.
+[36:34.000 --> 36:41.000]  Sur toutes les sommes avancées par le notaire, les recommandés, les photocopies, les machins,
+[36:41.000 --> 36:43.000]  tout ça on ne peut pas y toucher.
+[36:43.000 --> 36:46.000]  recommander ça coûte, je dis une bêtise, ça coûte 6 euros, c'est 6 euros, on ne peut pas y toucher.
+[36:46.000 --> 36:49.000]  C'est là-dessus qu'on peut aller, sur les droits et taxes.
+[36:49.000 --> 36:53.000]  C'est là-dessus que le gouvernement pourrait véritablement jouer.
+[36:53.000 --> 36:59.000]  Mais le problème, c'est que ces droits et taxes, il y en a plusieurs.
+[36:59.000 --> 37:06.000]  Il y en a plusieurs, il y en a une partie qui va à l'État, pas beaucoup.
+[37:06.000 --> 37:10.000]  Une partie qui va à la commune, une partie qui va au département,
+[37:10.000 --> 37:14.000]  il y en a qui vont un petit peu partout à droite à gauche.
+[37:14.000 --> 37:20.000]  Et ça veut dire qu'on n'a pas un levier sur lequel on peut agir pour baisser la note.
+[37:20.000 --> 37:28.000]  Si on joue sur ce levier, ça va avoir un impact sur les collectivités territoriales, locales, etc.
+[37:28.000 --> 37:31.000]  En fait, ça va avoir des impacts à plein d'endroits différents.
+[37:31.000 --> 37:34.000]  C'est la raison pour laquelle c'est difficile de jouer sur les frais de la terre.
+[37:34.000 --> 37:38.000]  Mais effectivement, oui, ça pourrait passer aussi par là.
+[37:38.000 --> 37:43.000]  Avez-vous connu depuis la création du réseau à la lucarne une crise aussi grave que celle que nous rencontrons actuellement ?
+[37:43.000 --> 37:46.000]  Oui, la crise des subprimes. C'est là Jet qui pose cette question.
+[37:46.000 --> 37:50.000]  Oui, la crise des subprimes en 2008-2009, ça a été une crise très grave.
+[37:50.000 --> 37:56.000]  Ça a été une crise très très très grave dans laquelle on a...
+[37:56.000 --> 38:00.000]  Pouvez-vous zoomer un petit peu, monsieur, sur ce qui est sur Mathieu.
+[38:00.000 --> 38:02.000]  Voilà.
+[38:02.000 --> 38:05.000]  Ça a été une crise très grave, la crise des subprimes.
+[38:05.000 --> 38:08.000]  Oui, ça a été difficile.
+[38:08.000 --> 38:11.000]  Il a fallu serrer les dents, tout même qu'aujourd'hui, c'est difficile.
+[38:11.000 --> 38:13.000]  Il faut qu'on serre tous les dents, bien sûr.
+[38:13.000 --> 38:18.000]  Mais oui, oui, la crise des subprimes, ça a été une crise très très dure, très grave.
+[38:18.000 --> 38:23.000]  Ça a été exactement en 2008-2009-2010, sur trois ans.
+[38:23.000 --> 38:25.000]  C'est-à-dire qu'en 2008, il y a eu la crise.
+[38:25.000 --> 38:30.000]  Nous, on a ressenti l'impact fin 2008-2009.
+[38:30.000 --> 38:32.000]  Et il est...
+[38:32.000 --> 38:34.000]  Oh là là, je me dis n'importe quoi, excusez-moi.
+[38:34.000 --> 38:37.000]  On en a ressenti l'impact en 2008-2009.
+[38:37.000 --> 38:39.000]  Oh là là, mais qu'est-ce qui se passe ?
+[38:39.000 --> 38:40.000]  Je suis gâteux.
+[38:40.000 --> 38:45.000]  On en a ressenti l'impact fin 2008-2009.
+[38:45.000 --> 38:49.000]  Et 2010, la situation était en train de s'améliorer.
+[38:49.000 --> 38:53.000]  Oui, ça a été une crise vraiment difficile, la crise des subprimes.
+[38:53.000 --> 38:56.000]  Beaucoup d'entre vous n'étaient pas là à l'époque.
+[38:56.000 --> 38:59.000]  Mais il y en avait quand même quelques-uns.
+[38:59.000 --> 39:01.000]  Ouais, ça n'a pas été facile, je trouve.
+[39:01.000 --> 39:04.000]  Ça n'a pas été facile à vivre.
+[39:08.000 --> 39:11.000]  Comme tout bon français, on veut toujours vendre au plus cher.
+[39:11.000 --> 39:14.000]  On nous dit, il y a que les Français qui veulent ça, je ne sais pas.
+[39:14.000 --> 39:16.000]  Mais c'est vrai, on veut vendre au plus cher.
+[39:16.000 --> 39:20.000]  On veut récupérer le plus de bénéfices possibles de notre vente.
+[39:20.000 --> 39:22.000]  C'est naturel, non ?
+[39:22.000 --> 39:28.000]  C'est comme si le vendeur payait les intérêts d'emprunt de l'acquérateur.
+[39:28.000 --> 39:31.000]  Oui, on peut voir ça comme ça, dans une certaine mesure.
+[39:31.000 --> 39:35.000]  C'est comme si c'était au vendeur, s'il baisse les prix.
+[39:35.000 --> 39:38.000]  Le vendeur de 30 000 euros, par exemple, comme on disait tout à l'heure.
+[39:38.000 --> 39:44.000]  C'est comme si c'est lui qui prenait à sa charge la hausse du coût de l'empreinte sur l'acquérateur.
+[39:44.000 --> 39:48.000]  Oui, c'est comme si on partageait ça entre l'un et l'autre.
+[39:48.000 --> 39:51.000]  Il y a de ça, tout à fait.
+[39:51.000 --> 39:56.000]  S'il n'y a pas d'autres remarques et d'autres questions là-dessus, on va passer à la suite.
+[40:02.000 --> 40:04.000]  Isabelle est là, très bien.
+[40:04.000 --> 40:06.000]  Isabelle nous a posé une question aujourd'hui.
+[40:06.000 --> 40:12.000]  C'est une question dont les plus anciens ont déjà entendu parler mille et mille et mille et mille fois.
+[40:12.000 --> 40:15.000]  Mais c'est moins évident pour les plus récents d'entre vous.
+[40:15.000 --> 40:18.000]  On va en parler sur une question régulièrement.
+[40:18.000 --> 40:20.000]  Attendez, je prends ça.
+[40:20.000 --> 40:23.000]  Et ensuite, voilà.
+[40:37.000 --> 40:39.000]  J'ai cherché mon petit fichier.
+[40:40.000 --> 40:42.000]  Partager.
+[40:47.000 --> 40:49.000]  C'est la question de la change acquéreur.
+[40:49.000 --> 40:52.000]  Il y a plusieurs questions qui ont été posées à l'invitation.
+[40:52.000 --> 40:56.000]  On a pas mal de petites choses à voir comme ça.
+[40:56.000 --> 41:01.000]  La question de la change acquéreur qui a été posée par Isabelle, Isabelle qui est dans le 2.
+[41:04.000 --> 41:07.000]  Pourquoi sommes-nous charge acquéreur?
+[41:07.000 --> 41:09.000]  C'est une chose dont j'ai discuté hier avec Karine.
+[41:09.000 --> 41:13.000]  Charge acquéreur, charge vendeur parce que Karine était sur une...
+[41:13.000 --> 41:17.000]  Excusez-moi, je bois une petite gorge de d'eau régulièrement.
+[41:17.000 --> 41:25.000]  Karine était sur un projet d'intercabiner avec Safdie.
+[41:25.000 --> 41:30.000]  Et Safdie, à l'inverse de nous, ils sont charge vendeur.
+[41:30.000 --> 41:33.000]  Tout le monde est charge vendeur chez Safdie.
+[41:33.000 --> 41:36.000]  Et chez nous, tout le monde est charge acquéreur.
+[41:36.000 --> 41:37.000]  Pourquoi?
+[41:37.000 --> 41:41.000]  Les plus anciens connaissaient cette question par cœur.
+[41:41.000 --> 41:43.000]  Les plus récents, pas évidemment.
+[41:43.000 --> 41:47.000]  Pourquoi une agence a-t-elle un mandat charge vendeur?
+[41:47.000 --> 41:49.000]  Pourquoi une autre a-t-elle un mandat charge acquéreur?
+[41:49.000 --> 41:53.000]  Et d'ailleurs, la majorité des agences ont des mandats charge vendeur.
+[41:55.000 --> 42:01.000]  À partir du moment où on met sur un mandat, je vais vous montrer un mandat.
+[42:01.000 --> 42:03.000]  Ouf, pas de reconnaissance.
+[42:03.000 --> 42:12.000]  On va prendre un mandat qui vient d'être frais, un mandat récent.
+[42:12.000 --> 42:20.000]  Dans un mandat, on doit indiquer qui paiera les honneurs.
+[42:20.000 --> 42:22.000]  Alors je vais vous en sortir un.
+[42:22.000 --> 42:25.000]  Ouf, est-ce que j'ai un mandat qui se cache?
+[42:25.000 --> 42:26.000]  En voici un ici.
+[42:26.000 --> 42:27.000]  Un mandat de Pierre.
+[42:33.000 --> 42:35.000]  Voici un mandat exclusif.
+[42:35.000 --> 42:40.000]  Et dans ce mandat, comme dans tous les mandats de vente,
+[42:40.000 --> 42:42.000]  vous ne le voyez pas là?
+[42:42.000 --> 42:44.000]  C'est bon, vous le voyez.
+[42:44.000 --> 42:49.000]  Dans ce mandat, c'est un mandat de Pierre qui a été fait le 15 décembre,
+[42:49.000 --> 42:51.000]  il y a quelques jours à peine.
+[42:51.000 --> 42:56.000]  Il est indiqué ici, comme dans tous les mandats de vente en France,
+[42:56.000 --> 43:04.000]  que les honneurs seront payés par l'acquérateur.
+[43:04.000 --> 43:06.000]  Et c'est obligatoire.
+[43:06.000 --> 43:09.000]  Dans tous les mandats, on doit indiquer qui paiera les honneurs.
+[43:09.000 --> 43:11.000]  Est-ce que c'est l'acquérateur?
+[43:11.000 --> 43:13.000]  Est-ce que c'est lui, le vendeur?
+[43:16.000 --> 43:20.000]  Nous, nous avons tous des mandats acquéreurs.
+[43:20.000 --> 43:23.000]  D'autres agents sont des mandats vendeurs.
+[43:23.000 --> 43:26.000]  D'autres agents sont des mandats acquéreurs.
+[43:26.000 --> 43:31.000]  D'autres agents sont des mandats vendeurs ou des mandats acquéreurs.
+[43:31.000 --> 43:36.000]  En fait, chaque agence immobilière, chaque réseau immobilier,
+[43:36.000 --> 43:38.000]  fait ce qu'il veut.
+[43:38.000 --> 43:43.000]  Il a le droit de faire payer les honneurs par le vendeur ou par l'acquérateur.
+[43:43.000 --> 43:45.000]  C'est son choix.
+[43:45.000 --> 43:47.000]  Par contre, à partir du moment où il l'a choisi,
+[43:47.000 --> 43:49.000]  il doit l'indiquer sur le mandat.
+[43:49.000 --> 43:51.000]  Ici.
+[43:51.000 --> 43:53.000]  Une fois qu'il l'a indiqué sur le mandat,
+[43:53.000 --> 43:57.000]  il doit, et nous allons voir tout de suite
+[43:57.000 --> 44:04.000]  la petite annonce de Pierre sur ce loget par exemple.
+[44:04.000 --> 44:07.000]  C'est un Avelu.
+[44:07.000 --> 44:09.000]  On va tout de suite à Avelu.
+[44:09.000 --> 44:11.000]  Sur ce loget.
+[44:11.000 --> 44:14.000]  Une fois que vous avez indiqué sur votre mandat
+[44:14.000 --> 44:18.000]  que c'est l'acquereur ou le vendeur qui paye les honneurs.
+[44:18.000 --> 44:20.000]  Vous avez l'obligation de le mettre.
+[44:20.000 --> 44:22.000]  On va voir ça tout de suite.
+[44:22.000 --> 44:28.000]  C'était combien le produit de Pierre?
+[44:28.000 --> 44:30.000]  130 000 plus 450 000.
+[44:30.000 --> 44:34.000]  Allez, on va mettre 150 000 euros de budget max.
+[44:34.000 --> 44:37.000]  Excusez-moi, ça s'accade un petit peu sur votre écran.
+[44:37.000 --> 44:38.000]  C'est normal.
+[44:38.000 --> 44:40.000]  On va mettre ici 150 000.
+[44:40.000 --> 44:42.000]  Voilà.
+[44:42.000 --> 44:43.000]  Voilà.
+[44:43.000 --> 44:45.000]  Recherché.
+[44:45.000 --> 44:47.000]  À Avelu dans le 59.
+[44:47.000 --> 44:50.000]  Un département du Nord.
+[44:50.000 --> 44:54.000]  Que Pierre produit.
+[44:54.000 --> 44:56.000]  On ne va pas avoir très longtemps.
+[44:56.000 --> 44:58.000]  Elle n'est pas en ligne cette annonce Pierre?
+[44:58.000 --> 45:03.000]  Le mandat n'est pas en cours?
+[45:03.000 --> 45:05.000]  J'ai pris un mandat qui n'était pas en cours.
+[45:05.000 --> 45:07.000]  Donc je ne trouve pas sur ce loget.
+[45:07.000 --> 45:08.000]  Ce n'est pas grave.
+[45:08.000 --> 45:12.000]  On va prendre ici le mandat de Grégory Duflot de SAFTY.
+[45:12.000 --> 45:14.000]  Parce que la loi est la même.
+[45:14.000 --> 45:16.000]  Pourquoi je le trouve quand?
+[45:16.000 --> 45:18.000]  On va regarder juste après.
+[45:18.000 --> 45:22.000]  On voit ici sur l'annonce d'un confrère de Pierre à Avelu.
+[45:22.000 --> 45:30.000]  Et on voit qu'il est indiqué dans l'annonce que les honoraires sont à la charge du vendeur.
+[45:30.000 --> 45:33.000]  Lui, il est charge vendeur.
+[45:33.000 --> 45:35.000]  C'est le monsieur chez SAFTY.
+[45:35.000 --> 45:37.000]  Parce que parler de SAFTY, je ne me souviens plus de l'annonce.
+[45:37.000 --> 45:39.000]  Par rapport à Kairos.
+[45:39.000 --> 45:41.000]  Nous, on est charge acquirer.
+[45:41.000 --> 45:44.000]  Donc il y a écrit ici, honoraires, charges, acquirer.
+[45:44.000 --> 45:50.000]  Si la loi depuis 2014 est la loi Allure.
+[45:50.000 --> 45:53.000]  Pourquoi je ne le vois pas dans ce loget Pierre?
+[45:53.000 --> 45:55.000]  Ce bien?
+[45:55.000 --> 45:58.000]  C'est bizarre.
+[45:58.000 --> 46:02.000]  Le Goum.
+[46:02.000 --> 46:05.000]  Je ne sais pas pourquoi je ne le vois pas.
+[46:05.000 --> 46:07.000]  Il est classé en immeuble.
+[46:07.000 --> 46:09.000]  C'est pour ça qu'il est classé en immeuble.
+[46:09.000 --> 46:11.000]  Me dit Pierre, on va chercher les immeubles.
+[46:11.000 --> 46:13.000]  Hop là.
+[46:13.000 --> 46:15.000]  Appliquer.
+[46:17.000 --> 46:20.000]  Et voici à la lucarne l'immobilier, monsieur Pierre Audequin.
+[46:20.000 --> 46:23.000]  Ah oui, j'en ai entendu parler de ce truc-là qui est classé en immeuble.
+[46:23.000 --> 46:25.000]  Oui, bien sûr.
+[46:25.000 --> 46:26.000]  Bien sûr, bien sûr.
+[46:26.000 --> 46:27.000]  C'est parce qu'il est en immeuble.
+[46:27.000 --> 46:30.000]  Et on voit ici dans l'annonce de Pierre.
+[46:31.000 --> 46:37.000]  Que les honoraires sont à la charge exclusive de l'acquirer.
+[46:37.000 --> 46:40.000]  Et ce loget d'ailleurs le remet à d'autres endroits.
+[46:40.000 --> 46:42.000]  Parce que c'est une information qui est devenue très importante.
+[46:42.000 --> 46:45.000]  Donc c'est mis à plusieurs endroits.
+[46:45.000 --> 46:47.000]  Alors.
+[46:51.000 --> 46:59.000]  Lorsqu'on a indiqué sur le mandat charge acquirer.
+[46:59.000 --> 47:02.000]  Donc ici on voit charge acquirer.
+[47:02.000 --> 47:04.000]  On doit le mettre derrière sur le mandat.
+[47:04.000 --> 47:07.000]  C'est la raison pour laquelle ici sur les produits de Pierre.
+[47:07.000 --> 47:09.000]  On a écrit charge acquirer.
+[47:09.000 --> 47:15.000]  Et après, ça veut dire que le compromis devra être fait charge acquirer.
+[47:15.000 --> 47:19.000]  Et la vente devra être faite charge acquirer.
+[47:19.000 --> 47:21.000]  C'est aussi simple que ça.
+[47:21.000 --> 47:23.000]  À partir du moment où on le met dans le mandat au démarrage.
+[47:23.000 --> 47:27.000]  Tout doit découler et on reste charge acquirer.
+[47:27.000 --> 47:30.000]  Avant la loi NURT, il était très courant.
+[47:30.000 --> 47:32.000]  Très courant.
+[47:32.000 --> 47:39.000]  D'avoir un mandat qui disait X et une vente qui se faisait Y.
+[47:39.000 --> 47:41.000]  On a un mandat charge vendeur.
+[47:41.000 --> 47:45.000]  Et puis au fil du temps, parce que ça fait payer un peu moins d'impôts à l'acquirer.
+[47:45.000 --> 47:46.000]  Pour telle et telle raison.
+[47:46.000 --> 47:48.000]  Au fil du temps, pouf !
+[47:48.000 --> 47:50.000]  Avec des chiffres notaires, ça devient charge acquirer.
+[47:50.000 --> 47:52.000]  Ou l'inverse.
+[47:52.000 --> 47:53.000]  On a un mandat charge acquirer.
+[47:53.000 --> 47:55.000]  Et au fil du temps, parce que ça arrange l'acquirer.
+[47:55.000 --> 47:59.000]  Pour le financement auprès de la banque, ça lui permet de faire un prêt à 110% machin, je sais pas quoi.
+[47:59.000 --> 48:00.000]  Hop là !
+[48:00.000 --> 48:02.000]  Ça passait charge en vente.
+[48:02.000 --> 48:05.000]  C'était très très très courant.
+[48:05.000 --> 48:07.000]  D'avoir un mandat qui disait quelque chose.
+[48:07.000 --> 48:09.000]  Et finalement chez le notaire, ça se transformait en autre chose.
+[48:09.000 --> 48:11.000]  C'était hyper courant.
+[48:11.000 --> 48:13.000]  Les notaires eux-mêmes le faisaient tous les jours.
+[48:13.000 --> 48:15.000]  Sans même nous demander notre avis.
+[48:15.000 --> 48:18.000]  La loi NURT a dit stop.
+[48:18.000 --> 48:20.000]  Ça c'est fini.
+[48:20.000 --> 48:22.000]  C'était pas légal de le faire.
+[48:22.000 --> 48:24.000]  Mais il n'y avait pas de sanction.
+[48:24.000 --> 48:28.000]  Comme il n'y avait pas de sanction, il n'y avait pas d'amende, il n'y avait pas de peine de prison, il n'y avait pas de tout ça.
+[48:28.000 --> 48:32.000]  Que ce ne soit pas légal, c'était pas un problème.
+[48:32.000 --> 48:35.000]  Puisqu'il n'y avait pas de punition à l'acquis quand on faisait.
+[48:35.000 --> 48:36.000]  Donc tout le monde le faisait.
+[48:36.000 --> 48:38.000]  Y compris les notaires sans aucun problème.
+[48:38.000 --> 48:42.000]  C'était même devenu un truc considéré comme, oh bah si c'est légal.
+[48:42.000 --> 48:43.000]  Puisqu'on le fait tous les jours.
+[48:43.000 --> 48:45.000]  Non, ça n'était pas légal.
+[48:45.000 --> 48:47.000]  Ça n'a jamais été.
+[48:47.000 --> 48:49.000]  Mais il n'y avait pas de punition.
+[48:49.000 --> 48:52.000]  Donc c'était considéré comme pas si illégal que ça.
+[48:52.000 --> 48:54.000]  La loi a dit stop.
+[48:54.000 --> 48:55.000]  Ça suffit.
+[48:55.000 --> 48:56.000]  Maintenant on arrête ça.
+[48:56.000 --> 48:58.000]  Ça n'a jamais été légal.
+[48:58.000 --> 49:00.000]  Mais comme il n'y avait pas de sanction, tout le monde le fait.
+[49:00.000 --> 49:03.000]  Maintenant on a une sanction.
+[49:03.000 --> 49:05.000]  Une sanction très d'autant.
+[49:05.000 --> 49:06.000]  Très très très d'autant.
+[49:06.000 --> 49:09.000]  C'est des centaines de milliers d'euros et de la prison.
+[49:11.000 --> 49:14.000]  Donc maintenant ça ne change pas.
+[49:14.000 --> 49:16.000]  Quand on échange acquirreur, on reste charge acquirreur.
+[49:16.000 --> 49:18.000]  Quand on échange vendeur, on reste charge vendeur.
+[49:18.000 --> 49:21.000]  Et là les notaires vous disent, oh on peut changer si on veut.
+[49:21.000 --> 49:22.000]  Non, non, non, non, non, non.
+[49:22.000 --> 49:23.000]  On ne change plus.
+[49:23.000 --> 49:24.000]  Ça coûte trop cher.
+[49:24.000 --> 49:26.000]  La sanction est beaucoup trop élevée.
+[49:26.000 --> 49:30.000]  Il y a même des mesurements élevés par rapport à la gravité de l'infraction.
+[49:32.000 --> 49:38.000]  Donc il a fallu qu'en 2014 et dans la suite de 2014, nous on l'a fait dès 2013,
+[49:38.000 --> 49:42.000]  en prévision de la loi LUR qui arrivait pour 2014.
+[49:42.000 --> 49:44.000]  Nous on a fait ce choix en 2013.
+[49:44.000 --> 49:46.000]  On a été un peu précurseurs.
+[49:46.000 --> 49:47.000]  On a été un peu plus rapides que les autres.
+[49:47.000 --> 49:50.000]  Les autres ont fait ce choix en 2014.
+[49:50.000 --> 49:53.000]  En gros quand ils se sont fait taper sur les doigts par la DGCCRF.
+[49:53.000 --> 49:56.000]  Mais tout réseau a dû faire un foin.
+[49:58.000 --> 50:05.000]  Parce que dans une agence, c'est facile de gérer je mets tel mandat charge acquirreur, tel mandat charge vendeur.
+[50:05.000 --> 50:07.000]  Parce que dans une agence, il y a 10, 15 mandats.
+[50:07.000 --> 50:12.000]  C'est facile de gérer sur ce mandat là j'ai mis charge acquirreur, je vais rester charge acquirreur.
+[50:12.000 --> 50:17.000]  Sur ce mandat là je vais rester, j'ai choisi charge vendeur, je vais rester charge vendeur.
+[50:17.000 --> 50:21.000]  Dans un réseau comme le nôtre ou comme safty, c'est ingérable.
+[50:21.000 --> 50:26.000]  Il faut que tout le monde fasse la même chose sinon on aura que des embêtements.
+[50:28.000 --> 50:34.000]  Donc dans notre réseau, comme dans tous les autres réseaux, on a fait un choix.
+[50:34.000 --> 50:43.000]  Et nous on a choisi ce qui était le plus facile à argumenter pour nos conseillers lors de la prise de mandat.
+[50:43.000 --> 50:51.000]  Charge acquirreur, parce que ça permet de dire aux vendeurs, c'est pas vous qui payez les honoraires, c'est l'acquirreur.
+[50:51.000 --> 50:56.000]  Donc l'acquirreur négociera les honoraires, vous négociez votre net vendeur.
+[50:56.000 --> 51:09.000]  Et charge acquirreur à mon sens, et les plus anciens de la lucarne qui étaient là à cette époque, c'est ce qui est le plus facile à manipuler et à argumenter
+[51:09.000 --> 51:15.000]  lors de la prise de mandat, notamment pour argumenter sur le mandat tout court mais également sur les honoraires.
+[51:15.000 --> 51:23.000]  Et ça on va y revenir lors de là, entre ceux d'entre vous qui adhèrent au programme de monter en gamme.
+[51:23.000 --> 51:27.000]  Donc on a fait le choix, charge acquirreur.
+[51:27.000 --> 51:30.000]  Chez nous, tous les mandats sont charge acquirreur.
+[51:30.000 --> 51:36.000]  Une société comme safty a fait le choix inverse, ils ont dit non non, chez nous ce sera tout le monde charge vendeur.
+[51:37.000 --> 51:43.000]  La plupart des gens choisissent charge vendeur parce que ça permet de, quand on est charge vendeur, on a moins d'informations à mettre dans l'annonce.
+[51:43.000 --> 51:47.000]  Donc on peut plus facilement entre guillemets masquer ses honoraires.
+[51:47.000 --> 51:57.000]  C'est pas une bonne idée, aujourd'hui on est dans une société qui réclame plus de transparence,
+[51:57.000 --> 52:03.000]  donc il vaut mieux donner plus d'informations que pas assez d'informations.
+[52:04.000 --> 52:07.000]  Mais en tout cas ça vient tout simplement de là.
+[52:07.000 --> 52:11.000]  Chaque réseau fait un choix, vendeur ou acquirreur.
+[52:11.000 --> 52:15.000]  Nous on a choisi acquirreur, d'autres réseaux ont choisi vendeur.
+[52:15.000 --> 52:18.000]  Et ça tient tout simplement à ça.
+[52:18.000 --> 52:25.000]  On pourrait demain dire, allez à partir du 1er janvier 2026, on sera charge vendeur.
+[52:25.000 --> 52:26.000]  On a le droit.
+[52:26.000 --> 52:30.000]  Tant que derrière tous nos mandats sont bien charge vendeur et on respecte la règle,
+[52:30.000 --> 52:33.000]  les ventes sont charge vendeur, les annonces sont publiées avec une fiche charge vendeur,
+[52:33.000 --> 52:36.000]  on pourrait très bien changer ça si on voulait.
+[52:36.000 --> 52:41.000]  On ne le fera pas parce que ce n'est pas dans votre intérêt, mais on pourrait y décider.
+[52:41.000 --> 52:47.000]  Tout simplement, lorsque les honoraires sont pour l'acquirreur, celui-ci ne paie-t-il pas moins de frais au notaire ?
+[52:47.000 --> 52:48.000]  Si, exactement.
+[52:48.000 --> 52:53.000]  Quand les honoraires sont charge acquirreur, il y a un petit peu moins de frais de notaire
+[52:53.000 --> 53:00.000]  parce que les honoraires sont sortis du prix de vente et donc il n'y a pas de frais de notaire payés sur les honoraires.
+[53:00.000 --> 53:02.000]  C'est tout à fait vrai.
+[53:02.000 --> 53:08.000]  Intéressé de savoir l'intérêt d'être à charge acquirreur.
+[53:08.000 --> 53:11.000]  Alors, l'intérêt est double.
+[53:11.000 --> 53:17.000]  Premièrement pour pouvoir dire au vendeur lors de la prise du mandat, c'est l'acquirreur qui paye les honoraires,
+[53:17.000 --> 53:19.000]  vous n'avez pas à vous en inquiéter.
+[53:20.000 --> 53:24.000]  Et moi, je négocierai mes honoraires avec l'acquirreur.
+[53:24.000 --> 53:29.000]  Donc, vous ne négociez pas les honoraires.
+[53:29.000 --> 53:33.000]  Et le vendeur essaie quand même de négocier les honoraires, même quand on échange acquirreur.
+[53:33.000 --> 53:44.000]  Quand on échange vendeur, il est en position de force dans la négociation du mandat
+[53:44.000 --> 53:48.000]  pour réduire vos honoraires au niveau où lui le souhaite.
+[53:48.000 --> 53:51.000]  Quand vous êtes à charge acquirreur, c'est vous qui êtes en position de force.
+[53:51.000 --> 53:55.000]  Ça ne veut pas dire que ça empêche le vendeur de le faire, il essaie quand même,
+[53:55.000 --> 53:58.000]  mais il a beaucoup moins prise sur vos honoraires.
+[53:58.000 --> 54:00.000]  Il est bien moins armé.
+[54:00.000 --> 54:04.000]  Ce que derrière l'acquirreur lui, il renégociera vos honoraires.
+[54:04.000 --> 54:13.000]  Si le vendeur a déjà le sous-prétexte qu'on est charge vendeur, sabrez vos honoraires, il les a, je vous dis une bêtise, divisés par deux.
+[54:13.000 --> 54:17.000]  Parce qu'il est en position de force quand on échange vendeur.
+[54:17.000 --> 54:23.000]  Derrière, vous vendez et l'acquirreur lui, il veut baisser le prix au maximum, c'est normal.
+[54:23.000 --> 54:25.000]  Et donc lui, il va renégocier vos honoraires.
+[54:25.000 --> 54:27.000]  Vous avez pu, hein ?
+[54:27.000 --> 54:29.000]  Et vous perdez de l'argent sur vos ventes.
+[54:29.000 --> 54:38.000]  Donc le premier bénéfice pour vous, c'est de « désarmer » entre guillemets, parce qu'il n'est pas complètement désarmé,
+[54:38.000 --> 54:46.000]  mais c'est enlever des armes, enlever des arguments au vendeur lors de la prise du mandat pour que lui décide de baisser vos honoraires.
+[54:46.000 --> 54:52.000]  C'est le premier avantage.
+[54:52.000 --> 54:59.000]  Le deuxième avantage, il est effectivement côté acquirreur, parce que l'acquirreur, vous pouvez lui dire,
+[54:59.000 --> 55:03.000]  vous allez payer moins de frais de notaire exactement comme le disait Nadja, c'est en un sens.
+[55:03.000 --> 55:09.000]  Vous allez payer moins de droits d'enregistrement.
+[55:09.000 --> 55:10.000]  Vous allez avoir une réduction.
+[55:10.000 --> 55:15.000]  Alors si vous allez acheter chez safty et qu'il est charge vendeur, vous allez payer des frais de notaire sur les honoraires de safty.
+[55:15.000 --> 55:20.000]  Et moi, vous ne payerez pas de frais de notaire sur mes honoraires.
+[55:20.000 --> 55:27.000]  Les frais de notaire sur les honoraires, on va dire que c'est environ 700 euros par tranche de 10 000 euros.
+[55:27.000 --> 55:30.000]  7-800 euros par tranche de 10 000 euros.
+[55:30.000 --> 55:34.000]  C'est-à-dire qu'il y a 10 000 euros d'honoraires, ça fait 7-800 euros à payer en plus pour l'acquirreur.
+[55:34.000 --> 55:39.000]  Il y a 20 000 euros d'honoraires, ça fait environ 1 400-1 500 euros.
+[55:39.000 --> 55:42.000]  On va dire 1 500 euros en plus à payer.
+[55:43.000 --> 55:49.000]  30 000 euros d'honoraires, on arrive là 3x7, 21.
+[55:49.000 --> 55:53.000]  On arrive à 2 500 euros en plus.
+[55:53.000 --> 56:00.000]  On va dire oui, mais sur 30 000 euros, quelqu'un qui a les moyens de payer 30 000 euros, il a les moyens de payer 2 500 euros en plus.
+[56:00.000 --> 56:02.000]  Il a peut-être les moyens, mais à ce qu'il a envie.
+[56:02.000 --> 56:04.000]  Bien sûr que non.
+[56:04.000 --> 56:08.000]  Pourquoi vous croyez que quelqu'un achète une grosse maison en payant des gros honoraires?
+[56:08.000 --> 56:10.000]  Parce qu'il fait attention à son argent.
+[56:10.000 --> 56:14.000]  Ah ben oui, celui qui gâche son argent, il sera pauvre toute sa vie.
+[56:14.000 --> 56:18.000]  Celui qui fait attention à son argent, il sera un petit peu plus riche.
+[56:18.000 --> 56:27.000]  Donc double effet, premièrement effet auprès du vendeur pour lui enlever des leviers de négociation lors de la prise du mandat.
+[56:27.000 --> 56:31.000]  Deuxième effet auprès de l'acquirreur pour lui faire comprendre.
+[56:31.000 --> 56:33.000]  Et ça, vous devez en parler.
+[56:33.000 --> 56:36.000]  Il ne faut pas le laisser passer, le laisser passer à la trappe.
+[56:36.000 --> 56:42.000]  Vous devez dire à l'acquirreur que vous avez cet avantage par rapport au concurrent pour lui.
+[56:42.000 --> 56:45.000]  Il ne faut pas le laisser au placard cet argument là.
+[56:45.000 --> 56:47.000]  Il est très important.
+[56:47.000 --> 56:51.000]  Qui n'a pas envie que ce soit dans l'économie actuelle comme dans la partielle économique,
+[56:51.000 --> 56:53.000]  qui n'a pas envie d'économiser des sous.
+[56:53.000 --> 56:55.000]  C'est du bon sens.
+[56:59.000 --> 57:00.000]  Je vous souhaite d'excellentes fêtes.
+[57:00.000 --> 57:03.000]  Merci pour tout ce que vous nous apportez au quotidien.
+[57:03.000 --> 57:09.000]  Rendez-vous en 2024 et n'oubliez pas notre apérodinatoire le 30 janvier.
+[57:09.000 --> 57:11.000]  Est-ce que ça veut dire que Julien nous quitte ?
+[57:11.000 --> 57:17.000]  Oui, je serai là pour l'apérodinatoire le 30 janvier, c'est promis.
+[57:17.000 --> 57:20.000]  Est-ce que ça veut dire que Julien nous quitte pour ce soir ?
+[57:20.000 --> 57:22.000]  J'aurais voulu vous parler de...
+[57:22.000 --> 57:24.000]  On ne va pas en parler aujourd'hui.
+[57:24.000 --> 57:26.000]  On en parlera lors de la prochaine vidéo du jeudi.
+[57:26.000 --> 57:29.000]  Les nouveaux services Le Bon Coin que nous avons pris pour vous.
+[57:29.000 --> 57:33.000]  On a négocié les tarifs Le Bon Coin.
+[57:33.000 --> 57:36.000]  N'hésitez pas à dire si je n'ai pas été clair pour le change d'accent.
+[57:36.000 --> 57:39.000]  On peut y revenir.
+[57:39.000 --> 57:41.000]  C'est juste comme Julien nous dit ça.
+[57:41.000 --> 57:48.000]  On parlera début janvier de la négociation qu'on a faite avec Le Bon Coin.
+[57:52.000 --> 57:54.000]  Pourquoi je vous parle de ça ?
+[57:54.000 --> 57:57.000]  Julien dit merci de tout ce que vous apportez au quotidien.
+[57:59.000 --> 58:02.000]  Moi, si vous voulez, je peux encore négocier 20 minutes avec ma chef.
+[58:02.000 --> 58:05.000]  Non, il faut que je prenne les documents du Bon Coin.
+[58:05.000 --> 58:08.000]  Je n'ai pas préparé ça spécifiquement.
+[58:08.000 --> 58:10.000]  Mais c'est comme vous en parlez.
+[58:10.000 --> 58:20.000]  Franchement, on a fait un point avec Le Bon Coin parce qu'on a fait la négociation il y a 5 jours.
+[58:20.000 --> 58:23.000]  Avec Le Bon Coin pour les tarifs 2024.
+[58:23.000 --> 58:25.000]  Alors oui, c'est une augmentation.
+[58:25.000 --> 58:29.000]  Ça nous coûte notamment plus cher.
+[58:29.000 --> 58:33.000]  Ça nous coûte pas mal plus cher.
+[58:33.000 --> 58:35.000]  Le Bon Coin cette année.
+[58:35.000 --> 58:42.000]  Mais on a fait un point notamment sur la visibilité de vos annonces par rapport au concurrent.
+[58:42.000 --> 58:50.000]  On a fait un point sur ce qu'on met dans la balance pour les remonter d'annonces.
+[58:50.000 --> 58:55.000]  Concrètement, on en parlera à ce moment-là.
+[58:55.000 --> 58:58.000]  Mais vous économisez.
+[58:58.000 --> 59:00.000]  Je vais vous économiser.
+[59:00.000 --> 59:02.000]  Non, parce qu'on le paye.
+[59:02.000 --> 59:03.000]  Ce n'est pas gratuit.
+[59:03.000 --> 59:07.000]  Mais en étant à la lucarde, notamment avec les remontées d'annonces,
+[59:07.000 --> 59:10.000]  c'est une économie par rapport au...
+[59:10.000 --> 59:14.000]  Quelqu'un sait combien coûte une remontée Le Bon Coin ?
+[59:14.000 --> 59:19.000]  Si je mets ma carte bleue aujourd'hui, ça coûte combien une remontée ?
+[59:19.000 --> 59:21.000]  Ortax ou TTC Pierre ?
+[59:21.000 --> 59:23.000]  Julien dit 18 euros.
+[59:23.000 --> 59:26.000]  Aujourd'hui, combien coûte une remontée ?
+[59:34.000 --> 59:35.000]  Trop cher oui.
+[59:35.000 --> 59:37.000]  Alors ça, Hugues.
+[59:37.000 --> 59:39.000]  C'est tout le temps trop cher.
+[59:41.000 --> 59:42.000]  Autour de 8 euros ?
+[59:42.000 --> 59:44.000]  Je me demande si c'est pas autour de 8 euros.
+[59:44.000 --> 59:47.000]  Est-ce que vous savez combien ?
+[59:49.000 --> 59:56.000]  Une annonce est remontée.
+[59:56.000 --> 01:00:01.000]  Si vous êtes chez Safty, vous donnez juste un chiffre qui est assez intéressant.
+[01:00:01.000 --> 01:00:02.000]  Pourquoi je vous dis ça ?
+[01:00:02.000 --> 01:00:04.000]  Parce que Julien a dit merci de ce que vous nous apportez au quotidien.
+[01:00:04.000 --> 01:00:05.000]  C'est pour ça.
+[01:00:05.000 --> 01:00:08.000]  Et on a eu cette négociation avec Le Bon Coin.
+[01:00:08.000 --> 01:00:14.000]  Et quand on négociait le truc, Le Bon Coin nous disait, nous a dit,
+[01:00:14.000 --> 01:00:17.000]  regardez ce que vous leur filez gratos à vos agents.
+[01:00:17.000 --> 01:00:22.000]  Quand on était en train de négocier, on disait, non, ça c'est trop cher, etc.
+[01:00:22.000 --> 01:00:25.000]  Il nous disait, regardez ce que vous leur filez à vos agents.
+[01:00:25.000 --> 01:00:29.000]  Normalement, c'est l'agent qui le paye dans son coin.
+[01:00:29.000 --> 01:00:31.000]  Et là, c'est vous qui le payez.
+[01:00:31.000 --> 01:00:34.000]  Ils nous ont expliqué un petit peu les remontées d'annonces.
+[01:00:34.000 --> 01:00:38.000]  Combien ça coûte à nos concurrents ?
+[01:00:38.000 --> 01:00:41.000]  Et combien ça coûte à nos concurrents ?
+[01:00:41.000 --> 01:00:43.000]  Quand je dis à nos concurrents, c'est aux autres.
+[01:00:43.000 --> 01:00:46.000]  Mathieu me dit, c'est 10,42 euros hors taxes.
+[01:00:46.000 --> 01:00:49.000]  Voilà, 10,42 euros hors taxes.
+[01:00:51.000 --> 01:00:54.000]  Et Marc nous dit, remontez votre annonce, remontez automatiquement votre annonce,
+[01:00:54.000 --> 01:00:56.000]  on les résultat, on recherche votre catégorie, on sait avoir plus, évidement.
+[01:00:56.000 --> 01:00:58.000]  10,90 euros chaque jour pendant 7 jours,
+[01:00:58.000 --> 01:01:01.000]  54,90 euros chaque jour pendant 30 jours.
+[01:01:01.000 --> 01:01:03.000]  Ça, c'est un truc pendant plusieurs jours.
+[01:01:04.000 --> 01:01:07.000]  Soit 12,50 euros TTC, me dit Mathieu.
+[01:01:07.000 --> 01:01:09.000]  Voilà, les tarifs exacts.
+[01:01:09.000 --> 01:01:17.000]  Alors, oui, mais Marc, vous êtes en train de parler d'une remontée à la une pendant 7 jours,
+[01:01:17.000 --> 01:01:19.000]  pendant 30 jours, etc.
+[01:01:19.000 --> 01:01:22.000]  Moi, je parle juste d'une remontée brute.
+[01:01:22.000 --> 01:01:24.000]  Juste, hop, je remonte mon truc.
+[01:01:24.000 --> 01:01:29.000]  C'est 10,42 euros hors taxes, soit 12,50 euros TTC.
+[01:01:32.000 --> 01:01:34.000]  C'est pour ça, le bon coin nous disait,
+[01:01:34.000 --> 01:01:38.000]  bah oui, mais ça, vous vous chouinez que c'est trop cher, que c'est machin, que c'est truc.
+[01:01:38.000 --> 01:01:40.000]  Vous n'avez qu'à pas prendre des remontées automatiques.
+[01:01:40.000 --> 01:01:43.000]  Vous êtes les seuls, mais le seul réseau.
+[01:01:43.000 --> 01:01:49.000]  Il y a des safety, propriété privée, Optimum, Capi France, La Fourmi,
+[01:01:49.000 --> 01:01:53.000]  Qisege, 3G Immobilier, BSK, Zig Ziggy Mo.
+[01:01:53.000 --> 01:01:57.000]  On est les, il y a 2-3 ans, c'était 7,50 euros.
+[01:01:57.000 --> 01:01:58.000]  Oui, ça a bien augmenté, c'est vrai.
+[01:01:58.000 --> 01:02:00.000]  Ça a bien augmenté avec le Covid, notamment.
+[01:02:00.000 --> 01:02:03.000]  Le Covid, ça a été une excuse pour tout augmenter partout.
+[01:02:03.000 --> 01:02:05.000]  Ça, vous avez remarqué, on se fait bien avoir avec ça.
+[01:02:08.000 --> 01:02:14.000]  Et dans tous les réseaux, les négociateurs achètent eux-mêmes leurs remontées.
+[01:02:14.000 --> 01:02:16.000]  Vous savez quelle est la différence ?
+[01:02:16.000 --> 01:02:22.000]  C'est que il y a des réseaux qui achètent les remontées
+[01:02:22.000 --> 01:02:25.000]  et qui les revendent à leurs agents,
+[01:02:27.000 --> 01:02:29.000]  avec un bénéfice ou pas.
+[01:02:29.000 --> 01:02:30.000]  La plupart des réseaux font un bénéfice.
+[01:02:30.000 --> 01:02:36.000]  Par exemple, un réseau achète, parce qu'ils achètent un gros volume de remontées.
+[01:02:36.000 --> 01:02:39.000]  Je vous dis une bêtise, 10 000 euros pour remonter.
+[01:02:39.000 --> 01:02:44.000]  Au lieu de les payer 10 euros et 40 nœuds, ils les payent 5 euros à l'unité
+[01:02:44.000 --> 01:02:47.000]  et ils les revendent 7 euros à l'agent.
+[01:02:50.000 --> 01:02:53.000]  En réalité, ils font un bénéfice de 2 euros, je vous dis des chiffres fictifs,
+[01:02:53.000 --> 01:02:54.000]  2 euros de bénéfice.
+[01:02:54.000 --> 01:02:58.000]  Imaginez, vous achetez 10 000 annonces à 5 euros
+[01:02:58.000 --> 01:03:00.000]  et vous les revendez les 10 000 à 7 euros,
+[01:03:00.000 --> 01:03:04.000]  vous faites un bénéfice de 10 000 x 2 euros, 20 000 euros.
+[01:03:05.000 --> 01:03:08.000]  20 000 euros de bénéfice.
+[01:03:10.000 --> 01:03:12.000]  Dans la poche, c'est sympa, hein ?
+[01:03:12.000 --> 01:03:17.000]  Et nous sommes le seul réseau à acheter les remontées
+[01:03:17.000 --> 01:03:21.000]  et à ne pas vouloir vendre que ce soit à prix coutant
+[01:03:21.000 --> 01:03:23.000]  ou que ce soit avec bénéfice.
+[01:03:23.000 --> 01:03:27.000]  Nous ne vous les faisons pas payer.
+[01:03:28.000 --> 01:03:29.000]  En moyenne,
+[01:03:30.000 --> 01:03:33.000]  des noms de ceux qui revendent, il y a des saftis,
+[01:03:33.000 --> 01:03:35.000]  il y a des saftis,
+[01:03:35.000 --> 01:03:38.000]  propriété privée, je ne sais pas s'ils font un bénéfice dessus ou pas.
+[01:03:38.000 --> 01:03:42.000]  Je ne suis pas sûr, mais je sais qu'il y a des saftis, ils font des bénéfices dessus.
+[01:03:42.000 --> 01:03:44.000]  Clairement, clairement.
+[01:03:44.000 --> 01:03:46.000]  Je ne sais pas de combien.
+[01:03:46.000 --> 01:03:49.000]  Je ne sais pas combien il y a de bénéfices.
+[01:03:51.000 --> 01:03:53.000]  Et c'est moins cher parce qu'ils disent à l'agent
+[01:03:53.000 --> 01:03:57.000]  « Si vous, vous allez l'acheter vous-même, vous allez le payer 10,42 euros. »
+[01:03:57.000 --> 01:03:59.000]  Hortat, c'est-à-dire 12,50 € TTC.
+[01:03:59.000 --> 01:04:02.000]  Donc achetez-le chez nous, c'est moins cher et paf !
+[01:04:02.000 --> 01:04:05.000]  Comme eux, ils en ont acheté un gros volume, il y a des bénéfices.
+[01:04:05.000 --> 01:04:07.000]  Une annonce
+[01:04:10.000 --> 01:04:12.000]  est remontée
+[01:04:12.000 --> 01:04:14.000]  en moyenne
+[01:04:14.000 --> 01:04:16.000]  par le négociateur.
+[01:04:17.000 --> 01:04:19.000]  Combien de fois, votre avis ?
+[01:04:19.000 --> 01:04:22.000]  Un négociateur remonte son annonce en moyenne combien de fois ?
+[01:04:22.000 --> 01:04:24.000]  Une annonce qui veut booster un petit peu.
+[01:04:27.000 --> 01:04:29.000]  Allez-y, lancez-vous !
+[01:04:32.000 --> 01:04:34.000]  Un adélatif à trouver tout de suite.
+[01:04:34.000 --> 01:04:36.000]  Bravo.
+[01:04:36.000 --> 01:04:38.000]  Cinq fois.
+[01:04:38.000 --> 01:04:43.000]  Cinq fois dans la durée de vie de l'annonce.
+[01:04:44.000 --> 01:04:49.000]  Cinq fois dans la durée de vie de l'annonce.
+[01:04:51.000 --> 01:04:53.000]  Cinq fois au cours.
+[01:04:53.000 --> 01:04:59.000]  En fait, ce n'est pas cinq fois, c'est 4,7 fois, quelque chose comme ça.
+[01:04:59.000 --> 01:05:02.000]  C'est entre 4,5 et 5 fois parce qu'il faut une moyenne.
+[01:05:02.000 --> 01:05:03.000]  Donc on va dire cinq fois.
+[01:05:03.000 --> 01:05:07.000]  C'est entre 4 et 5 fois, mais c'est 4,75 fois, je ne sais pas, on parle comme ça.
+[01:05:07.000 --> 01:05:08.000]  On va dire cinq fois.
+[01:05:08.000 --> 01:05:12.000]  Cinq fois au cours de la durée de vie de l'annonce.
+[01:05:14.000 --> 01:05:21.000]  Ça veut dire, parce que comme 90% des négociateurs sont auto-entrepreneurs,
+[01:05:21.000 --> 01:05:23.000]  ils payent la TVA, ils ne la récupèrent pas.
+[01:05:23.000 --> 01:05:29.000]  Donc ça veut dire, cinq fois 12,5.
+[01:05:30.000 --> 01:05:35.000]  62,50 euros de remontée de la poche de l'agent.
+[01:05:35.000 --> 01:05:39.000]  Ou un peu moins cher lorsque c'est le réseau qui négocie qui le revendère.
+[01:05:40.000 --> 01:05:41.000]  Ça prend.
+[01:05:44.000 --> 01:05:48.000]  Est-ce que vous savez combien de fois sont remontées les annonces à la lucarne ?
+[01:06:05.000 --> 01:06:06.000]  Vingt fois.
+[01:06:07.000 --> 01:06:08.000]  En moyenne.
+[01:06:09.000 --> 01:06:13.000]  Entre les annonces que vous, les produits que vous vendez rapidement,
+[01:06:13.000 --> 01:06:15.000]  parce que bon prix, machin, etc.
+[01:06:15.000 --> 01:06:18.000]  et vous le vendez au bout de un mois et demi.
+[01:06:19.000 --> 01:06:27.000]  Et le produit qui dure 15 mois, c'est la durée de vie d'une annonce chez nous.
+[01:06:27.000 --> 01:06:29.000]  Une annonce en moyenne,
+[01:06:29.000 --> 01:06:30.000]  est remontée 20 fois.
+[01:06:31.000 --> 01:06:33.000]  Est-ce qu'il y a une périodicité ? Oui.
+[01:06:33.000 --> 01:06:35.000]  Il y a une périodicité moyenne.
+[01:06:35.000 --> 01:06:36.000]  Je ne me souviens plus c'est quoi ?
+[01:06:36.000 --> 01:06:37.000]  C'est tous les...
+[01:06:38.000 --> 01:06:40.000]  Mathieu, vous vous souvenez ?
+[01:06:40.000 --> 01:06:42.000]  La périodicité moyenne de remontée des annonces.
+[01:06:42.000 --> 01:06:44.000]  C'est eux qui décident, ça c'est pas nous.
+[01:06:44.000 --> 01:06:46.000]  On ne peut pas dire, on veut que ce soit remonté tous les X.
+[01:06:46.000 --> 01:06:50.000]  C'est eux qui décident et s'ils ont un algorithme machin, je ne sais pas quoi,
+[01:06:50.000 --> 01:06:52.000]  qui fait qu'une annonce est remontée automatiquement.
+[01:06:52.000 --> 01:06:54.000]  C'est-à-dire que les gens qui ont des annonces,
+[01:06:54.000 --> 01:06:56.000]  s'ils ont un algorithme machin, je ne sais pas quoi,
+[01:06:56.000 --> 01:06:59.000]  qui fait qu'une annonce est remontée automatiquement.
+[01:06:59.000 --> 01:07:02.000]  Mathieu va me dire ça, parce que ça je ne m'en souviens plus.
+[01:07:03.000 --> 01:07:06.000]  Entre 7 et 10 jours généralement, c'est ça Mathieu ?
+[01:07:06.000 --> 01:07:08.000]  Mathieu me dit c'est entre 7 et 10 jours généralement.
+[01:07:13.000 --> 01:07:16.000]  Vous imaginez si vous payiez de votre poche les 20 fois ?
+[01:07:18.000 --> 01:07:23.000]  20 fois 12,5, 250 euros d'économisé.
+[01:07:23.000 --> 01:07:27.000]  Alors, en fait, vous n'iriez pas la remonter 20 fois,
+[01:07:27.000 --> 01:07:30.000]  vous la feriez comme tout le monde, vous la remonteriez 5 fois,
+[01:07:30.000 --> 01:07:34.000]  et vous économiseriez non pas 250 euros,
+[01:07:34.000 --> 01:07:37.000]  vous économiseriez comme tout le monde, vous feriez gain sur vos sous,
+[01:07:37.000 --> 01:07:42.000]  vous feriez 5 fois 12,5, vous économiseriez 62,50 euros.
+[01:07:42.000 --> 01:07:46.000]  Nous, nous faisons, oui c'est ça, avec les algorithmes,
+[01:07:46.000 --> 01:07:48.000]  ils jugent si l'annonce en a besoin ou pas,
+[01:07:48.000 --> 01:07:50.000]  et ça la remonte quand elle en a besoin,
+[01:07:50.000 --> 01:07:52.000]  automatiquement, sans vous poser de questions.
+[01:07:52.000 --> 01:07:54.000]  Et ça c'est sur toutes vos annonces,
+[01:07:54.000 --> 01:07:58.000]  parce qu'une annonce est remontée par le négociateur 5 fois au cours de la durée de l'annonce,
+[01:07:58.000 --> 01:08:00.000]  mais en réalité, ils font quoi ?
+[01:08:00.000 --> 01:08:03.000]  Ils remontent que les annonces sur lesquelles ils investissent.
+[01:08:03.000 --> 01:08:06.000]  Les produits qui ne sont pas au prix, ils ne les remontent pas, bien sûr.
+[01:08:06.000 --> 01:08:08.000]  Bien sûr.
+[01:08:12.000 --> 01:08:18.000]  Nous sommes le seul réseau, le seul à remonter vos annonces automatiquement, gratuitement,
+[01:08:18.000 --> 01:08:20.000]  sans vous faire payer quoi que ce soit.
+[01:08:20.000 --> 01:08:25.000]  De même, nous sommes le seul réseau, le seul à diffuser vos mandats pendant 15 mois.
+[01:08:25.000 --> 01:08:29.000]  Dans tous les réseaux, les mandats sont diffusés pendant 2, 3 mois maximum,
+[01:08:29.000 --> 01:08:30.000]  et après ils arrêtent.
+[01:08:30.000 --> 01:08:32.000]  Ils disent, si ça ne s'est pas vendu, nous on arrête de payer.
+[01:08:32.000 --> 01:08:34.000]  C'est en l'agent de payer la diffusion par la suite.
+[01:08:37.000 --> 01:08:42.000]  C'est pareil chez SAFTI, c'est pareil chez IAP, c'est pareil chez tout le monde.
+[01:08:42.000 --> 01:08:43.000]  J'ai tout le monde.
+[01:08:43.000 --> 01:08:48.000]  Julien m'envoyait il y a quelques mois le contrat de l'affourmi immobilier.
+[01:08:48.000 --> 01:08:49.000]  C'était quoi Julien ?
+[01:08:49.000 --> 01:08:52.000]  C'était 2 mois la diffusion et après c'était à l'approche de l'agent ?
+[01:08:52.000 --> 01:08:55.000]  Je crois que c'était 2 mois, je me sens plus très bien.
+[01:08:55.000 --> 01:08:59.000]  On peut aller voir directement parce que je me souviens très bien que...
+[01:08:59.000 --> 01:09:00.000]  Regardez.
+[01:09:01.000 --> 01:09:05.000]  Après les gens disent, ah oui Nicolas, il en vend tout ça, c'est pas vrai.
+[01:09:05.000 --> 01:09:08.000]  C'est des histoires, c'est que lui.
+[01:09:08.000 --> 01:09:14.000]  Regardez, je vais prendre directement le contrat que m'avait envoyé Julien.
+[01:09:14.000 --> 01:09:18.000]  Julien, l'immoraison l'affourmi, le mois ci.
+[01:09:19.000 --> 01:09:22.000]  Contrat l'affourmi immobilier, agent de proximité.
+[01:09:22.000 --> 01:09:25.000]  Et oula, on descend ce qu'on trouve.
+[01:09:25.000 --> 01:09:27.000]  Ça c'est le contrat entre l'affourmi et un agent.
+[01:09:28.000 --> 01:09:32.000]  Et c'est où la diffusion, durée résiliation, initiative du mandataire,
+[01:09:32.000 --> 01:09:34.000]  peut-être un service ?
+[01:09:36.000 --> 01:09:38.000]  On trouve ça.
+[01:09:38.000 --> 01:09:40.000]  Bon tout est payant chez eux.
+[01:09:45.000 --> 01:09:48.000]  Le pack Starter, le pack Booster.
+[01:09:50.000 --> 01:09:53.000]  Vous vous souvenez Julien ? Combien de temps c'était ?
+[01:10:01.000 --> 01:10:04.000]  Il faudrait qu'on cherche, je ne me souviens plus.
+[01:10:04.000 --> 01:10:05.000]  C'est dedans.
+[01:10:05.000 --> 01:10:10.000]  J'aurais aimé que Julien s'en souvienne pour me le dire parce que j'étais persuadé que c'était...
+[01:10:10.000 --> 01:10:13.000]  Ah Julien est parti à l'apéro.
+[01:10:13.000 --> 01:10:15.000]  D'accord, merci.
+[01:10:15.000 --> 01:10:17.000]  Je le retrouverai pour la prochaine vision conférence.
+[01:10:17.000 --> 01:10:24.000]  Je le retrouverai, mais il y a dedans, il me dit que les mandats sont diffusés pendant un certain temps.
+[01:10:25.000 --> 01:10:26.000]  Un mois !
+[01:10:27.000 --> 01:10:28.000]  Un mois !
+[01:10:29.000 --> 01:10:31.000]  Ah non, c'est pas ça du tout, vous dites bêtise.
+[01:10:31.000 --> 01:10:34.000]  C'est pas ça du tout, il faudrait que je relisse tout.
+[01:10:34.000 --> 01:10:36.000]  Deux mois, voilà c'est ici.
+[01:10:36.000 --> 01:10:43.000]  Elles seront gratuites dans les limites des annonces prépayées par le mandat pendant deux mois à compter la signature du premier mandat de chaque dossier.
+[01:10:43.000 --> 01:10:45.000]  Passez ce délai.
+[01:10:45.000 --> 01:10:47.000]  Voilà, c'est ça, c'est deux mois, je ne me trompais pas.
+[01:10:47.000 --> 01:10:50.000]  Package service, alors il y a plusieurs package, de machin, etc.
+[01:10:50.000 --> 01:10:52.000]  C'est deux mois, voyez ?
+[01:10:52.000 --> 01:10:56.000]  Oui, ça apparaissait sur la page des boosters, vous avez raison, on a déjà dit.
+[01:10:56.000 --> 01:11:01.000]  Donc, on va revoir un petit peu tous ces avantages parce que c'est très important de savoir ce que c'est.
+[01:11:01.000 --> 01:11:11.000]  On va revoir un petit peu tous ces avantages parce que c'est très important que vous connaissiez ces avantages qu'il y a à la Lucarne et qu'il n'y a pas ailleurs parce que vous devez en parler à vos clients.
+[01:11:11.000 --> 01:11:18.000]  Vous devez expliquer à vos clients, si vous me conçuez le mandat à moi, votre mandat sera remonté sur le bon coin.
+[01:11:18.000 --> 01:11:19.000]  Tout le temps.
+[01:11:19.000 --> 01:11:26.000]  Si vous le conçuez à Sarti, il faut que le négociateur sorte son portefeuille, sorte sa carte bleue.
+[01:11:26.000 --> 01:11:29.000]  Et s'il estime que votre produit n'est pas au beau prix, il ne paiera pas.
+[01:11:29.000 --> 01:11:32.000]  Moi, chez la Lucarne, il n'y a pas de question à se poser.
+[01:11:32.000 --> 01:11:34.000]  Il sera remonté, point.
+[01:11:34.000 --> 01:11:41.000]  Si vous mettez à la Lucarne, il sera diffusé pendant 15 mois, non pas pendant deux mois et après, il faut que le négociateur sorte sa carte bleue.
+[01:11:41.000 --> 01:11:43.000]  Là encore.
+[01:11:43.000 --> 01:11:45.000]  Et est-ce qu'il va sortir sa carte bleue pour votre produit ?
+[01:11:45.000 --> 01:11:47.000]  Uniquement si votre produit est au beau prix.
+[01:11:47.000 --> 01:11:50.000]  S'il estime que votre produit n'est pas au beau prix, il ne sortira pas sa carte bleue.
+[01:11:50.000 --> 01:11:51.000]  Moi, il n'y a pas de question à se poser.
+[01:11:51.000 --> 01:11:54.000]  Votre mandat sera diffusé pendant 15 mois.
+[01:11:54.000 --> 01:11:58.000]  Au bout de 15 mois, s'il n'est pas vendu, on refera un nouveau mandat et on repartira sur 15 mois.
+[01:11:58.000 --> 01:12:03.000]  C'est très important que vous ayez tous ces avantages en tête parce qu'ils n'existent pas ailleurs.
+[01:12:03.000 --> 01:12:06.000]  Le crayon ne le sait pas, le vendeur ne le sait pas, il ne peut pas le deviner.
+[01:12:06.000 --> 01:12:09.000]  Il faut lui expliquer, confiez votre mandat à la Lucarne.
+[01:12:09.000 --> 01:12:14.000]  Ce n'est pas la même chose en termes d'exposition au marketing que de le confier à Safty.
+[01:12:14.000 --> 01:12:20.000]  Safty, ce sont des gens très bien, ils sont très sympas, mais ils sont très restrictifs dans la diffusion parce que ça coûte cher.
+[01:12:20.000 --> 01:12:23.000]  Or Safty, ça vous ne pouvez pas dire au vendeur.
+[01:12:23.000 --> 01:12:24.000]  Ils ne voient moins.
+[01:12:24.000 --> 01:12:26.000]  C'est avant tout une machine à pognon.
+[01:12:26.000 --> 01:12:29.000]  Une machine à pognon.
+[01:12:29.000 --> 01:12:37.000]  Ce sont des choses sur lesquelles on reviendra quand Julien aura terminé son apéro.
+[01:12:37.000 --> 01:12:41.000]  Pour le faire, un fichier récapitulatif de tous ces avantages à disposition dans les documents.
+[01:12:41.000 --> 01:12:44.000]  Ah oui, c'est vrai que ce serait bien de le faire.
+[01:12:44.000 --> 01:12:50.000]  Par contre, je ne vais pas m'engager à le faire parce que c'est du gros boulot qui n'est pas dans nos prix.
+[01:12:50.000 --> 01:12:52.000]  Mais c'est vrai qu'il faudrait le faire, vous avez raison Sandrine.
+[01:12:52.000 --> 01:12:54.000]  C'est vrai, c'est vrai, c'est vrai.
+[01:12:54.000 --> 01:12:58.000]  Est-ce que Michael est là parce que j'aimerais lui faire une petite félicitation.
+[01:12:58.000 --> 01:13:06.000]  Michael, hier, c'est avant-hier qu'il y a eu l'acte authentique, une vente à 61 000 euros.
+[01:13:06.000 --> 01:13:10.000]  Donc bravo à lui, bravo à Michael, 61 000 euros la vente.
+[01:13:10.000 --> 01:13:14.000]  Je lui ai fait un virement la nuit dernière de ses honoraires.
+[01:13:14.000 --> 01:13:17.000]  Alors c'est 61 000 euros TTC.
+[01:13:17.000 --> 01:13:19.000]  61 000 euros TTC.
+[01:13:19.000 --> 01:13:29.000]  Je lui ai fait un virement de 54 000 euros.
+[01:13:29.000 --> 01:13:34.000]  Si je ne me trompe pas, ce n'est pas compliqué, j'ai qu'à aller vérifier.
+[01:13:34.000 --> 01:13:37.000]  J'ai qu'à aller vérifier.
+[01:13:40.000 --> 01:13:42.000]  C'est Ticha ça.
+[01:13:45.000 --> 01:13:47.000]  On va regarder ensemble.
+[01:13:47.000 --> 01:13:51.000]  Donc félicitations parce que ça fait, voilà cool, Julien est revenu.
+[01:13:51.000 --> 01:13:54.000]  Quand on parle poignons, Julien, soudainement, il pose son verre et il revient.
+[01:13:54.000 --> 01:13:56.000]  Ça, il n'y a plus de problème.
+[01:13:57.000 --> 01:14:00.000]  Donc c'est important que je vous montre ça aussi.
+[01:14:00.000 --> 01:14:06.000]  Déjà pour féliciter Michael pour cette belle vente, parce que Chapeau à lui, c'est une très belle vente.
+[01:14:06.000 --> 01:14:10.000]  Ce n'est pas les records, pas du tout, on s'en est loin même, mais c'est quand même une belle vente.
+[01:14:10.000 --> 01:14:17.000]  Ça vous permet de comprendre que ce n'est pas fictif.
+[01:14:17.000 --> 01:14:23.000]  Dans l'immobilier, quand on se donne beaucoup de mal, on a vraiment de quoi très bien gagner sa vie.
+[01:14:23.000 --> 01:14:26.000]  Donc bravo.
+[01:14:29.000 --> 01:14:32.000]  Il faut que je clique là sur les factures payées.
+[01:14:32.000 --> 01:14:34.000]  Voilà, facture payée.
+[01:14:34.000 --> 01:14:36.000]  Bravo à Michael.
+[01:14:36.000 --> 01:14:40.000]  Normalement vous donnez un peu de baume au cœur pour vous dire, ben oui, voilà, si je me donne du mal,
+[01:14:40.000 --> 01:14:48.000]  si je rentre dans le programme de monter en gamme, parce que vous imaginez bien qu'il n'a pas fait 61 000 euros sur une petite cabane à 50 000 euros.
+[01:14:48.000 --> 01:14:53.000]  Si je rentre dans le programme monter en gamme, que je mets ça en œuvre, que je me donne du mal, il y a vraiment…
+[01:14:53.000 --> 01:14:57.000]  Alors tout ce qui est en bleu, ce sont les dossiers payés.
+[01:14:57.000 --> 01:15:00.000]  C'est-à-dire qu'on a payé l'argent, tout ce qui est en bleu ici.
+[01:15:00.000 --> 01:15:04.000]  Ce qui est en blanc, c'est qu'on attend encore des documents la plupart du temps.
+[01:15:04.000 --> 01:15:06.000]  Vous voyez, on attend la facture là.
+[01:15:06.000 --> 01:15:11.000]  Ce que vous voyez, le petit truc qui s'appelle facture, là, c'est la facture du négociateur.
+[01:15:11.000 --> 01:15:14.000]  Julien dit, je ne me vois pas.
+[01:15:14.000 --> 01:15:19.000]  Non, parce qu'en fait Julien, je garde les sous, je ne les lui donne pas.
+[01:15:19.000 --> 01:15:23.000]  Attendez, si je fais d'autres facturations, vous allez en voir un petit peu plus.
+[01:15:23.000 --> 01:15:27.000]  Donc ça nous, c'est notre outil de suivi des paiements.
+[01:15:27.000 --> 01:15:30.000]  C'est-à-dire, joyeux Noël.
+[01:15:30.000 --> 01:15:35.000]  C'est-à-dire l'argent qu'on reçoit des notaires et l'argent qu'on paye au négociateur.
+[01:15:35.000 --> 01:15:37.000]  Je vais bien vous montrer un petit peu comment ça fonctionne de l'intérieur
+[01:15:37.000 --> 01:15:42.000]  pour que vous puissiez voir, comprendre un petit peu comment tout cela marche.
+[01:15:42.000 --> 01:15:53.000]  Et vous voyez, à chaque fois, pour pouvoir payer un dossier, on doit avoir l'attestation, l'encaissement.
+[01:15:53.000 --> 01:15:58.000]  L'encaissement, si je clique dessus, vous voyez, c'est l'argent qu'on a reçu du notaire.
+[01:15:58.000 --> 01:15:59.000]  Alors attendez, voilà.
+[01:15:59.000 --> 01:16:04.000]  Et donc là, vous voyez qu'on a reçu 60 931 euros du notaire.
+[01:16:04.000 --> 01:16:05.000]  Je zoome.
+[01:16:05.000 --> 01:16:08.000]  Hop, là, 60 931 euros du notaire.
+[01:16:08.000 --> 01:16:10.000]  On a reçu ça le 19-12.
+[01:16:10.000 --> 01:16:18.000]  Et la facture de l'agent, la facture de l'agent, vous voyez exactement combien,
+[01:16:18.000 --> 01:16:22.000]  on a versé 54 931.
+[01:16:22.000 --> 01:16:23.000]  Ah, nickel.
+[01:16:23.000 --> 01:16:27.000]  Donc si c'est un cœur à prendre, précipitez-vous.
+[01:16:27.000 --> 01:16:29.000]  Je ne sais pas.
+[01:16:29.000 --> 01:16:34.000]  Mais vous voyez, au-delà de félicitations bravo à lui, c'est une belle vente, c'est du beau travail.
+[01:16:34.000 --> 01:16:36.000]  Chapeau à lui.
+[01:16:36.000 --> 01:16:40.000]  Tout simplement, ça montre que ce n'est pas du fictif.
+[01:16:40.000 --> 01:16:41.000]  Ce n'est pas du fictif du tout.
+[01:16:41.000 --> 01:16:46.000]  On a les moyens de très, très, très, très bien gagner sa vie dans l'immobilier
+[01:16:46.000 --> 01:16:48.000]  quand on se donne beaucoup, beaucoup, beaucoup, beaucoup de mal.
+[01:16:48.000 --> 01:16:51.000]  Comment ça se fait qu'il n'y ait pas Julien Bayol, d'ailleurs, là-dedans ?
+[01:16:51.000 --> 01:16:53.000]  Je vais vous dire tellement d'argent, Julien.
+[01:16:53.000 --> 01:16:57.000]  Déjà, là, Julien, on n'a pas reçu l'argent du notaire ici.
+[01:16:57.000 --> 01:17:04.000]  Là, Julien, la vente 81 846, on n'a pas reçu l'argent du notaire.
+[01:17:04.000 --> 01:17:08.000]  Donc vous voyez, déjà, là, il y a cette vente qui est pour vous normalement, Julien.
+[01:17:08.000 --> 01:17:11.000]  Et il n'y en a pas d'autre à vous.
+[01:17:11.000 --> 01:17:14.000]  Entre-temps, je vous fais tellement de virements toute la journée.
+[01:17:14.000 --> 01:17:18.000]  Je vous en ai fait combien la nuit dernière, Julien ?
+[01:17:18.000 --> 01:17:20.000]  Oui, joyeux Noël, nickel, nickel.
+[01:17:20.000 --> 01:17:24.000]  Et bravo, Joseph, je crois, trois ou quatre virements, Julien, la nuit dernière.
+[01:17:24.000 --> 01:17:28.000]  Regardez, si je fais Bayol, Julien, il est riche à millions.
+[01:17:28.000 --> 01:17:29.000]  C'est lui qu'il faut l'épouser.
+[01:17:29.000 --> 01:17:31.000]  Regardez, hop là encore, hop là.
+[01:17:31.000 --> 01:17:33.000]  Julien, il est partout.
+[01:17:34.000 --> 01:17:36.000]  Donc, félicitations à Michael.
+[01:17:36.000 --> 01:17:37.000]  C'est une très, très belle vente.
+[01:17:37.000 --> 01:17:38.000]  Bravo à lui.
+[01:17:38.000 --> 01:17:43.000]  C'est quelque chose qu'il faut souligner parce que quand on se donne du mal
+[01:17:43.000 --> 01:17:46.000]  et qu'on est performant, il faut savoir le reconnaître.
+[01:17:46.000 --> 01:17:48.000]  Donc bravo à lui.
+[01:17:48.000 --> 01:17:51.000]  Non, il n'y en a qu'un en janvier.
+[01:17:52.000 --> 01:17:54.000]  Julien, il est trop riche.
+[01:17:54.000 --> 01:17:56.000]  On lui donne trop d'argent.
+[01:17:56.000 --> 01:17:58.000]  Beaucoup trop d'argent.
+[01:17:58.000 --> 01:18:00.000]  Oh, Hugues aussi, regardez ça.
+[01:18:00.000 --> 01:18:03.000]  Il va racheter la lucarne bientôt.
+[01:18:03.000 --> 01:18:06.000]  Ça n'arrête jamais.
+[01:18:08.000 --> 01:18:10.000]  Donc, vous voyez, tout ce qui est en bleu, c'est payé.
+[01:18:10.000 --> 01:18:12.000]  Et à chaque fois que c'est en blanc, c'est parce qu'il vous manque un élément.
+[01:18:12.000 --> 01:18:16.000]  Là, il nous manque l'encaissement, c'est-à-dire qu'on a partout de l'argent génitaire.
+[01:18:16.000 --> 01:18:18.000]  Et la facture de margerie.
+[01:18:18.000 --> 01:18:22.000]  Ici, on a reçu l'argent, mais on n'a pas l'attestation de vente, par exemple.
+[01:18:22.000 --> 01:18:24.000]  Et on n'a pas la facture de l'argent.
+[01:18:24.000 --> 01:18:27.000]  Ici, pour Julien, on n'a pas reçu l'argent génitaire.
+[01:18:27.000 --> 01:18:30.000]  Vous voyez, dès qu'un dossier est complet, on le passe sans paiement.
+[01:18:30.000 --> 01:18:33.000]  Plus les droits d'auteur de Zannini.
+[01:18:33.000 --> 01:18:35.000]  Pour Hugues, je ne vous raconte pas le fric qui là, c'est clair.
+[01:18:35.000 --> 01:18:37.000]  C'est clair.
+[01:18:37.000 --> 01:18:39.000]  C'est clair.
+[01:18:39.000 --> 01:18:40.000]  OK.
+[01:18:40.000 --> 01:18:42.000]  Qu'est-ce qu'on a d'autre comme question à voir?
+[01:18:43.000 --> 01:18:46.000]  Là, on a répondu à pas mal de trucs là-dessus.
+[01:18:46.000 --> 01:18:48.000]  Ah oui.
+[01:18:48.000 --> 01:18:51.000]  RCP et grilles.
+[01:18:51.000 --> 01:18:55.000]  On arrive au moment où vous devez nous envoyer vos RCP,
+[01:18:55.000 --> 01:19:02.000]  c'est-à-dire vos attestations d'assurance pour l'année 2024.
+[01:19:02.000 --> 01:19:03.000]  Vous savez, chaque année, assez fait.
+[01:19:03.000 --> 01:19:04.000]  Bravo, Sandrine.
+[01:19:04.000 --> 01:19:06.000]  Vous devez nous envoyer votre RCP.
+[01:19:06.000 --> 01:19:11.000]  Donc, on va vous envoyer un email à tous, là, bientôt, pour dire les RCP 2024.
+[01:19:11.000 --> 01:19:12.000]  Merci de nous les envoyer d'arbre.
+[01:19:12.000 --> 01:19:15.000]  On va vous envoyer deux emails, un email en décembre et un email début janvier,
+[01:19:15.000 --> 01:19:17.000]  comme on fait chaque année.
+[01:19:17.000 --> 01:19:21.000]  Et on doit avoir vos RCP pour le 10 janvier, comme tous les ans.
+[01:19:21.000 --> 01:19:22.000]  Si ce n'est pas fait, faites-le.
+[01:19:22.000 --> 01:19:24.000]  Si c'est fait, déjà, chapeau.
+[01:19:24.000 --> 01:19:25.000]  Merci.
+[01:19:25.000 --> 01:19:27.000]  Également, les grilles.
+[01:19:27.000 --> 01:19:32.000]  Vous savez que vous pouvez modifier vos grilles d'honoraires pour les ans, début janvier.
+[01:19:32.000 --> 01:19:37.000]  Alors, ceux d'entre vous qui sont dans le programme de monter en gamme,
+[01:19:37.000 --> 01:19:41.000]  vous pourrez modifier vos grilles même en dehors de ceux de délai.
+[01:19:41.000 --> 01:19:46.000]  Parce qu'on revoit dans le programme de monter en gamme les grilles dans le détail.
+[01:19:46.000 --> 01:19:51.000]  Donc, vous pourrez les modifier sans avoir ces contraintes de délai.
+[01:19:51.000 --> 01:19:54.000]  Ceux d'entre vous qui ne sont pas dans le programme de monter en gamme, déjà,
+[01:19:54.000 --> 01:19:55.000]  pourquoi vous n'y êtes pas ?
+[01:19:55.000 --> 01:19:57.000]  Vous gagnerez plus d'argent si vous faites.
+[01:19:57.000 --> 01:20:01.000]  Et vous pourrez, vous ne pouvez pas, si vous n'êtes pas dans ce programme.
+[01:20:01.000 --> 01:20:04.000]  À ce sujet, très rapidement, dans ce programme,
+[01:20:04.000 --> 01:20:07.000]  j'ai mis à jour le fichier des grilles concurrentes.
+[01:20:07.000 --> 01:20:09.000]  D'ailleurs, il s'appelle 13 novembre.
+[01:20:09.000 --> 01:20:11.000]  Il faut que je change son nom.
+[01:20:11.000 --> 01:20:13.000]  Je vais changer son nom tout de suite.
+[01:20:13.000 --> 01:20:15.000]  Il doit s'appeler 21 décembre.
+[01:20:15.000 --> 01:20:21.000]  Donc, attendez, il faut que je déplace ça.
+[01:20:21.000 --> 01:20:28.000]  Hop, hop, ceux d'entre vous qui sont intéressés, je l'appelle tout de suite.
+[01:20:28.000 --> 01:20:31.000]  21 décembre.
+[01:20:31.000 --> 01:20:32.000]  Voilà.
+[01:20:32.000 --> 01:20:35.000]  Le fichier des grilles concurrentes, je vous le renvoie à tous
+[01:20:35.000 --> 01:20:40.000]  si vous êtes intéressés par le programme de monter en gamme.
+[01:20:40.000 --> 01:20:42.000]  Le lien, il est là.
+[01:20:42.000 --> 01:20:44.000]  Et copiez le lien Dropbox.
+[01:20:44.000 --> 01:20:48.000]  Je vous l'envoie à tous.
+[01:20:48.000 --> 01:20:52.000]  C'est le fichier, la première base de travail
+[01:20:52.000 --> 01:20:56.000]  d'étude de votre concurrence dans votre secteur.
+[01:20:56.000 --> 01:20:59.000]  Avec la liste de vos concurrents,
+[01:20:59.000 --> 01:21:02.000]  avec la moyenne des grilles concurrentes,
+[01:21:02.000 --> 01:21:04.000]  on fait ça ensemble, on fait ça ensemble.
+[01:21:04.000 --> 01:21:06.000]  Les services apportés par vos concurrents
+[01:21:06.000 --> 01:21:09.000]  et la liste des biens spectaculaires.
+[01:21:09.000 --> 01:21:13.000]  Donc, gardez tous ce fichier côté si vous voulez adhérer à ce programme.
+[01:21:13.000 --> 01:21:16.000]  D'ailleurs, en parlant de Julien, il faudrait qu'on prévoit
+[01:21:16.000 --> 01:21:20.000]  une petite rencontre supplémentaire là pour avancer un peu plus.
+[01:21:20.000 --> 01:21:23.000]  Donc, je vous invite à aller à la liste de vos concurrents.
+[01:21:23.000 --> 01:21:29.000]  Une petite rencontre supplémentaire là pour avancer un peu là-dessus.
+[01:21:29.000 --> 01:21:33.000]  Sandrine nous dit une question pour la cotisation annuelle Planet Force.
+[01:21:33.000 --> 01:21:36.000]  On reçoit un rappel combien de temps avant le 20e anniversaire ?
+[01:21:36.000 --> 01:21:38.000]  Vous n'en recevez pas.
+[01:21:38.000 --> 01:21:40.000]  Vous n'en recevez pas.
+[01:21:40.000 --> 01:21:42.000]  C'est à vous de vous manifester.
+[01:21:42.000 --> 01:21:45.000]  Parce que les agents qui payent annuellement sont en minorité
+[01:21:45.000 --> 01:21:48.000]  et on n'a pas mis en place un système de rappel.
+[01:21:48.000 --> 01:21:50.000]  Donc, on n'en a pas.
+[01:21:50.000 --> 01:21:52.000]  On n'en a pas du tout.
+[01:21:52.000 --> 01:21:54.000]  Dernière chose, et après, mis à part les questions,
+[01:21:54.000 --> 01:21:56.000]  je vous ficherai la paix.
+[01:21:56.000 --> 01:21:59.000]  Et on va prendre la question de Nadjad juste après.
+[01:21:59.000 --> 01:22:01.000]  Les photos pub portrait.
+[01:22:01.000 --> 01:22:06.000]  On a vu se multiplier ces derniers jours des photos pub en portrait
+[01:22:06.000 --> 01:22:10.000]  dans Eglantine et donc dans les sites de diffusion.
+[01:22:10.000 --> 01:22:12.000]  Il ne faut pas. Pourquoi ?
+[01:22:12.000 --> 01:22:13.000]  Je vais vous montrer.
+[01:22:13.000 --> 01:22:16.000]  Qu'est-ce que c'est une photo au format portrait ?
+[01:22:16.000 --> 01:22:18.000]  Voici un exemple.
+[01:22:18.000 --> 01:22:22.000]  Ce n'est pas le bon numéro.
+[01:22:22.000 --> 01:22:25.000]  Mathieu Ségouret m'a donné un numéro de Dominique Bender,
+[01:22:25.000 --> 01:22:27.000]  alors que ça devait être un numéro de Dominique Cartel.
+[01:22:27.000 --> 01:22:29.000]  Ce n'est pas grave.
+[01:22:29.000 --> 01:22:31.000]  Donc, ça, c'est une photo au format paysage.
+[01:22:31.000 --> 01:22:33.000]  C'est-à-dire le bon format.
+[01:22:33.000 --> 01:22:36.000]  Format paysage, regardez la différence.
+[01:22:36.000 --> 01:22:38.000]  Quand vous prenez une photo, c'est,
+[01:22:38.000 --> 01:22:41.000]  est-ce que vous mettez votre appareil photo à la verticale
+[01:22:41.000 --> 01:22:43.000]  ou à l'horizontale ?
+[01:22:43.000 --> 01:22:50.000]  Une photo au format portrait, elle a sept formes là.
+[01:22:52.000 --> 01:22:56.000]  Une photo au format paysage, elle a sept formes là.
+[01:22:56.000 --> 01:23:00.000]  Les photos doivent être au format paysage.
+[01:23:00.000 --> 01:23:03.000]  Le format portrait, c'est bien pour les réseaux sociaux,
+[01:23:03.000 --> 01:23:07.000]  c'est pas bien pour la diffusion des annonces sur Internet.
+[01:23:07.000 --> 01:23:13.000]  Donc, ici Dominique Bender a les bonnes photos au format paysage.
+[01:23:13.000 --> 01:23:19.000]  Mais si je prends Dominique Cartel, il m'a donné un autre document.
+[01:23:19.000 --> 01:23:22.000]  Mathieu, on voit que lui, il a mis des mailles.
+[01:23:22.000 --> 01:23:23.000]  C'est encore Dominique.
+[01:23:23.000 --> 01:23:27.000]  Donc, en gros, Mathieu m'a envoyé complètement les mauvais numéros.
+[01:23:27.000 --> 01:23:30.000]  Mathieu a envoyé les mauvais numéros.
+[01:23:30.000 --> 01:23:35.000]  On va regarder Frédéric, parce que j'ai un exemple de Frédéric.
+[01:23:35.000 --> 01:23:37.000]  On va voir ça.
+[01:23:37.000 --> 01:23:40.000]  Et Frédéric, non, c'est le format paysage aussi.
+[01:23:40.000 --> 01:23:42.000]  Eh ben dis donc Mathieu.
+[01:23:42.000 --> 01:23:43.000]  Mathieu a picolé.
+[01:23:43.000 --> 01:23:46.000]  Qu'est-ce qu'il me dit ?
+[01:23:46.000 --> 01:23:48.000]  Ah, ils ont corrigé depuis.
+[01:23:48.000 --> 01:23:52.000]  Mathieu accuse les négociateurs d'avoir corrigé depuis.
+[01:23:52.000 --> 01:23:55.000]  Est-ce qu'on y croit, est-ce qu'on n'y croit pas ?
+[01:23:55.000 --> 01:23:58.000]  Donc, en gros, est-ce que Mathieu nous dit la vérité
+[01:23:58.000 --> 01:24:01.000]  ou est-ce que tout simplement les agents ont agi rapidement pour modifier ?
+[01:24:01.000 --> 01:24:03.000]  Dans ce cas-là, bravo à eux parce qu'il faut modifier.
+[01:24:03.000 --> 01:24:05.000]  On va aller regarder chez Christian.
+[01:24:05.000 --> 01:24:09.000]  Chez Christian, c'est corrigé aussi Mathieu.
+[01:24:09.000 --> 01:24:14.000]  Ah non, ça c'est dégueulasse.
+[01:24:14.000 --> 01:24:16.000]  Non, ça c'est pas le bon format.
+[01:24:16.000 --> 01:24:17.000]  Ça c'est pas le bon format.
+[01:24:17.000 --> 01:24:19.000]  Donc on va aller sur alalucan.com.
+[01:24:19.000 --> 01:24:21.000]  Voilà, ça c'est pas le bon format.
+[01:24:21.000 --> 01:24:23.000]  Donc Mathieu a raison.
+[01:24:23.000 --> 01:24:25.000]  Comme toujours, me direz-vous.
+[01:24:25.000 --> 01:24:27.000]  Comme toujours, me direz-vous.
+[01:24:27.000 --> 01:24:33.000]  Je vais vous acheter et on va chercher la référence.
+[01:24:37.000 --> 01:24:41.000]  Quand vous prenez une photo au mauvais format, c'est-à-dire au format vertical,
+[01:24:41.000 --> 01:24:44.000]  alors là il y a un deuxième très gros problème et ça on va couper tout de suite.
+[01:24:44.000 --> 01:24:47.000]  Ça on va couper tout de suite, tout de suite, tout de suite.
+[01:24:47.000 --> 01:24:49.000]  On n'avait pas vu ça.
+[01:24:49.000 --> 01:24:52.000]  Mais maintenant que je viens de le voir, j'ai coupé tout de suite.
+[01:24:52.000 --> 01:24:56.000]  Donc cette annonce, je la coupe immédiatement.
+[01:24:56.000 --> 01:24:58.000]  Pourquoi je la coupe immédiatement ?
+[01:24:58.000 --> 01:25:01.000]  Est-ce que quelqu'un a une idée ?
+[01:25:01.000 --> 01:25:03.000]  Qu'est-ce qui va pas là ?
+[01:25:03.000 --> 01:25:07.000]  Qu'est-ce qui va pas sur cette photo ?
+[01:25:07.000 --> 01:25:12.000]  Il y a des personnes sur la photo dont un enfant.
+[01:25:12.000 --> 01:25:15.000]  Ça, c'est gravissime.
+[01:25:15.000 --> 01:25:17.000]  Ça paraît bête, c'est gravissime.
+[01:25:17.000 --> 01:25:19.000]  Donc ce mandat, je le coupe immédiatement.
+[01:25:22.000 --> 01:25:25.000]  Ça, c'est vraiment pas bien.
+[01:25:25.000 --> 01:25:27.000]  C'est coupé.
+[01:25:27.000 --> 01:25:29.000]  Donc au-delà de ce problème-là,
+[01:25:29.000 --> 01:25:35.000]  une annonce que vous prenez au format portrait,
+[01:25:35.000 --> 01:25:44.000]  internet va bidouiller la photo pour la remettre au format paysage.
+[01:25:44.000 --> 01:25:48.000]  Et donc ça met quelque chose de dégueulasse ici, de complètement déformé.
+[01:25:48.000 --> 01:25:50.000]  Vous voyez ici, tout est déformé.
+[01:25:51.000 --> 01:25:53.000]  Parce qu'il faut que ce soit au format paysage.
+[01:25:53.000 --> 01:25:55.000]  Si vous mettez une photo au format portrait,
+[01:25:55.000 --> 01:26:00.000]  tous les sites internet dont les Glantines et Alucard et Seulejet et Leboncoin, etc.
+[01:26:00.000 --> 01:26:06.000]  vont déformer votre photo pour la forcer à rentrer dans le format paysage.
+[01:26:06.000 --> 01:26:11.000]  Donc attention, prenez vos photos à l'horizontale et pas à la verticale.
+[01:26:11.000 --> 01:26:14.000]  Et surtout, ne mettez pas des gens sur les photos.
+[01:26:14.000 --> 01:26:16.000]  C'est scandaleux, ça.
+[01:26:16.000 --> 01:26:17.000]  C'est scandaleux.
+[01:26:17.000 --> 01:26:19.000]  Donc ça, j'ai coupé l'annonce,
+[01:26:19.000 --> 01:26:22.000]  et puis je vais lui dire que je suis désolé, c'est fini.
+[01:26:22.000 --> 01:26:23.000]  Allez, s'il te plait.
+[01:26:23.000 --> 01:26:25.000]  L'agence manifestera.
+[01:26:25.000 --> 01:26:27.000]  Je suis intransigeant sur ces questions-là.
+[01:26:27.000 --> 01:26:28.000]  Intransigeant.
+[01:26:28.000 --> 01:26:30.000]  Ça, c'est vraiment...
+[01:26:30.000 --> 01:26:31.000]  C'est pas que c'est pas bien.
+[01:26:36.000 --> 01:26:37.000]  Pierre dit pas en perdu, mais en attend.
+[01:26:37.000 --> 01:26:40.000]  Non, parce que si je mets l'annonce en attente,
+[01:26:40.000 --> 01:26:43.000]  l'agent peut la rediffuser lui-même sans rien changer.
+[01:26:43.000 --> 01:26:46.000]  Si je la mets en perdu, il est obligé de passer par l'animation.
+[01:26:46.000 --> 01:26:50.000]  Et nous, on la remettra en cours quand l'agent aura modifié.
+[01:26:51.000 --> 01:26:52.000]  Toujours en parlant de photos,
+[01:26:52.000 --> 01:26:54.000]  pourquoi la photo de notre portrait qu'on a fourni depuis un an,
+[01:26:54.000 --> 01:26:55.000]  quand on nous l'avait demandé,
+[01:26:55.000 --> 01:26:57.000]  il est toujours pas utilisé sur le site à la lucarne ?
+[01:26:57.000 --> 01:26:59.000]  Je peux pas vous le dire.
+[01:26:59.000 --> 01:27:00.000]  Je sais pas.
+[01:27:00.000 --> 01:27:03.000]  Parce que je sais qu'il y a des modifications qui sont en cours sur le site à la lucarne,
+[01:27:03.000 --> 01:27:08.000]  notamment dans la prévision des nouveaux sites que Michel vous a présentés à Seltzer Parks.
+[01:27:08.000 --> 01:27:10.000]  Je sais que c'est lié.
+[01:27:10.000 --> 01:27:11.000]  Donc quelle est la raison exacte ?
+[01:27:11.000 --> 01:27:13.000]  Je peux pas vous le dire, mais c'est lié à ça.
+[01:27:14.000 --> 01:27:17.000]  Donc, je peux lui demander si vous voulez.
+[01:27:17.000 --> 01:27:19.000]  Nadjid avait posé une question.
+[01:27:19.000 --> 01:27:23.000]  Quel conseil nous donneriez-vous pour les nouveaux négociateurs dans votre réseau
+[01:27:23.000 --> 01:27:26.000]  pour tenir le champ dans les prochains mois et années et persévérer malgré la crise ?
+[01:27:26.000 --> 01:27:30.000]  La première chose que je peux vous conseiller, Nadjid,
+[01:27:30.000 --> 01:27:34.000]  c'est d'adhérer au programme de montée en gamme qui a été prévu pour ça.
+[01:27:34.000 --> 01:27:38.000]  Il a été prévu spécifiquement pour répondre à la crise.
+[01:27:38.000 --> 01:27:41.000]  Donc, inscrivez-vous au programme de montée en gamme.
+[01:27:41.000 --> 01:27:47.000]  C'est exactement ça qu'on traite au cours de certains programmes de coaching individualisés,
+[01:27:47.000 --> 01:27:52.000]  au cours duquel on voit les bonnes actions à mettre en œuvre dans votre secteur
+[01:27:52.000 --> 01:27:57.000]  pour justement ne pas résister mais tirer profit de la crise.
+[01:27:57.000 --> 01:27:59.000]  Donc, voilà vraiment le conseil que je peux vous donner.
+[01:27:59.000 --> 01:28:01.000]  Inscrivez-vous au programme de montée en gamme.
+[01:28:01.000 --> 01:28:07.000]  En parlant de photos, est-ce que l'optimisation des photos sur l'églantine a été revue ?
+[01:28:07.000 --> 01:28:13.000]  Alors ça, est-ce que vous en avez parlé à Thierry lors de la...
+[01:28:15.000 --> 01:28:16.000]  Comment ça s'appelle ?
+[01:28:16.000 --> 01:28:19.000]  Lors de Center Park, est-ce que vous avez parlé à Thierry ?
+[01:28:19.000 --> 01:28:23.000]  Parce que c'est quelque chose que Thierry avait déjà réparé
+[01:28:23.000 --> 01:28:25.000]  et je ne sais pas où ça en est.
+[01:28:25.000 --> 01:28:27.000]  Là, il faudrait regarder.
+[01:28:27.000 --> 01:28:30.000]  Si vous voulez, on peut noter pour regarder ça parce que Thierry l'avait réparé il y a quoi ?
+[01:28:30.000 --> 01:28:32.000]  Il y a deux mois, un truc comme ça.
+[01:28:32.000 --> 01:28:35.000]  Donc normalement, c'est supposé, ça devrait fonctionner.
+[01:28:37.000 --> 01:28:39.000]  Je peux savoir, je peux regarder.
+[01:28:39.000 --> 01:28:41.000]  C'était quoi la panoptimisation ?
+[01:28:41.000 --> 01:28:43.000]  C'est simplement, il y en a un certain nombre d'entre vous,
+[01:28:43.000 --> 01:28:45.000]  c'était le cas notamment avec Eric Lemaire de Narbonne
+[01:28:45.000 --> 01:28:47.000]  qui nous avait montré que chez lui ça ne fonctionnait pas,
+[01:28:47.000 --> 01:28:51.000]  ça tournait dans le vide et vos photos ne ressortaient pas optimisées.
+[01:28:51.000 --> 01:28:56.000]  Je sais certain que ça marchait, chez les autres ça ne marchait pas et on ne savait pas trop pourquoi.
+[01:29:00.000 --> 01:29:03.000]  Ce que je vous propose Sandrine, c'est envoyer ça par email à l'animation
+[01:29:03.000 --> 01:29:06.000]  pour que demain ça puisse être transmis directement au bon endroit.
+[01:29:07.000 --> 01:29:13.000]  Envoyer ça par email à l'animation, on est sûr de ne pas oublier.
+[01:29:14.000 --> 01:29:17.000]  Attendez, je dois couper quelque chose parce que...
+[01:29:23.000 --> 01:29:26.000]  Donc envoyez-nous un petit mail pour en parler.
+[01:29:31.000 --> 01:29:35.000]  Voilà, on a eu un premier accord de prise en charge d'Agephis.
+[01:29:35.000 --> 01:29:38.000]  Ah bah c'est bien, l'Agephis, Mathieu me dit ça,
+[01:29:38.000 --> 01:29:45.000]  l'Agephis donne les accords de prise en charge pour les formations de Center Parks.
+[01:29:45.000 --> 01:29:49.000]  C'est bien, la formation c'était il y a un mois, c'est maintenant qu'ils donnent les accords.
+[01:29:49.000 --> 01:29:53.000]  Donc on a le premier accord, c'est positif, c'est une bonne nouvelle,
+[01:29:53.000 --> 01:29:56.000]  mais normalement on devrait les avoir avant la formation.
+[01:29:56.000 --> 01:29:58.000]  Ce n'est pas des rapilles.
+[01:29:58.000 --> 01:30:00.000]  Est-ce que vous avez d'autres questions ? Ou est-ce qu'on a tout vu pour aujourd'hui ?
+[01:30:00.000 --> 01:30:02.000]  J'ai dû faire des retours sur des photos plus longues,
+[01:30:02.000 --> 01:30:04.000]  j'ai connu ce blog, je croyais qu'il y en avait un autre.
+[01:30:04.000 --> 01:30:07.000]  C'est le même, c'est le même Véronique, c'est le même Mathieu.
+[01:30:09.000 --> 01:30:10.000]  On a tout vu ?
+[01:30:12.000 --> 01:30:16.000]  Si on a tout vu, je vais vous libérer un petit peu plus tôt ce soir, simplement.
+[01:30:16.000 --> 01:30:20.000]  Est-ce qu'il y a d'autres choses notées dans mon petit fichier qu'on n'aurait pas étudié ?
+[01:30:20.000 --> 01:30:27.000]  Donc vous le voyez quand même, au milieu de cette conjoncture assez morose,
+[01:30:27.000 --> 01:30:33.000]  pas mal de bonnes nouvelles, ou on va dire de bonnes, de beaux espoirs,
+[01:30:33.000 --> 01:30:40.000]  le programme de monter en gamme qui fonctionne très bien, adhérer à ce programme
+[01:30:40.000 --> 01:30:45.000]  qui vous permet clairement de tirer votre épingle du jeu dans ce contexte de marché immobilier
+[01:30:45.000 --> 01:30:48.000]  plutôt délétère qu'optimiste.
+[01:30:48.000 --> 01:30:54.000]  Deuxième chose, une possible baisse des taux au début 2024.
+[01:30:54.000 --> 01:30:58.000]  C'est la première fois qu'on en parle, et puis deux, trois, quatre, cinq articles,
+[01:30:58.000 --> 01:31:02.000]  et puis les conseillers bancaires, les CGP, des Lodi, des José qui vont dans ce sens-là
+[01:31:02.000 --> 01:31:09.000]  ont agréés en se dire, tiens, est-ce qu'il n'y a pas de l'optimisme à l'horizon pour après les fêtes ?
+[01:31:09.000 --> 01:31:10.000]  Très bien.
+[01:31:10.000 --> 01:31:18.000]  Le bon coin, des nouveaux services, on voit que vous êtes très clairement en pole position par rapport à vos concurrents.
+[01:31:18.000 --> 01:31:21.000]  C'est également très positif, il faut que vous en parliez à vos clients.
+[01:31:21.000 --> 01:31:30.000]  La chose que je vous dirais, le plus important, c'est rentrer des tonnes de mandats pour janvier,
+[01:31:30.000 --> 01:31:34.000]  et dès janvier, il est encore temps de rentrer les mandats, on est le 21 décembre.
+[01:31:34.000 --> 01:31:40.000]  On va vous dire, oh, les gens ne sont pas à la fin, ils n'ont pas la tête là-dedans.
+[01:31:40.000 --> 01:31:43.000]  Non, ceux qui vendent leur maison, ils veulent la vendre.
+[01:31:43.000 --> 01:31:46.000]  Ils ne se disent pas, c'est Noël, on verra plus tard, pas tous.
+[01:31:46.000 --> 01:31:53.000]  Donc rentrez le maximum de mandats, et dès janvier également mettez le booster sur la rentrée du mandat.
+[01:31:53.000 --> 01:31:59.000]  Le maximum de mandats, et puis bien sûr, adhérez au programme de montée en gamme.
+[01:31:59.000 --> 01:32:02.000]  C'est super important.
+[01:32:02.000 --> 01:32:04.000]  Est-ce que j'ai goûté du biscus ? Oui.
+[01:32:04.000 --> 01:32:07.000]  Oui, oui, oui, quelle délice.
+[01:32:07.000 --> 01:32:09.000]  Quelle délice.
+[01:32:09.000 --> 01:32:10.000]  Merci beaucoup.
+[01:32:10.000 --> 01:32:14.000]  C'est Sandrine qui m'a offert très gentiment de la petitsames, une très belle place d'ailleurs aussi,
+[01:32:14.000 --> 01:32:22.000]  lors du séminaire de Center Parks, une petitsame très bonne pour la santé, en particulier pour ma santé.
+[01:32:22.000 --> 01:32:24.000]  Donc oui, je l'ai goûté, c'est délicieux.
+[01:32:24.000 --> 01:32:28.000]  Je suis très tétisane, j'aime beaucoup.
+[01:32:28.000 --> 01:32:30.000]  Je suis très client.
+[01:32:30.000 --> 01:32:33.000]  Donc oui, merci beaucoup, beaucoup, beaucoup, beaucoup.
+[01:32:39.000 --> 01:32:41.000]  Delphine Bruchon a été oubliée ?
+[01:32:41.000 --> 01:32:48.000]  Mais non, Delphine, j'ai vu sa fiche il n'y a pas longtemps d'ailleurs, on va aller la regarder ensemble si vous voulez.
+[01:32:52.000 --> 01:32:56.000]  Véronique, elle n'a pas été oubliée du tout, j'ai vu sa fiche il y a quelques jours.
+[01:32:56.000 --> 01:32:59.000]  Regardez, ça c'est la gestion des candidats à la lucarne.
+[01:32:59.000 --> 01:33:02.000]  J'en vois tous les jours, j'adore aussi.
+[01:33:02.000 --> 01:33:08.000]  Delphine Bruchon, alors là, vous voyez, c'est tous les candidats en ce moment qui ont envoyé une demande de candidature à la lucarne.
+[01:33:08.000 --> 01:33:12.000]  D'ailleurs, à sujet, on va en parler avec Julien bientôt également, avec Guillaume et avec Mikaël.
+[01:33:12.000 --> 01:33:16.000]  On va en parler très très très rapidement.
+[01:33:16.000 --> 01:33:25.000]  Et si je recherche Delphine, j'ai raté mon bruchon.
+[01:33:25.000 --> 01:33:27.000]  Voilà, elle est là.
+[01:33:27.000 --> 01:33:31.000]  Et il va essayer de la recontacter.
+[01:33:31.000 --> 01:33:37.000]  Vous voyez ici, Varis-Ti dans son secteur d'activité.
+[01:33:37.000 --> 01:33:43.000]  Ensuite Véronique a relancé sa candidature et elle a été recontactée après le 7 décembre.
+[01:33:43.000 --> 01:33:47.000]  Donc je peux essayer de voir éventuellement pour qu'on la recontacte de l'autre côté.
+[01:33:47.000 --> 01:33:55.000]  Bonne soirée, bonne fin d'année, c'est gentil d'accepter l'invitation du 3 janvier à la Véronique.
+[01:33:55.000 --> 01:33:59.000]  Je viens avec grand plaisir, avec beaucoup beaucoup beaucoup de plaisir.
+[01:33:59.000 --> 01:34:01.000]  Merci pour votre temps, vos réponses.
+[01:34:01.000 --> 01:34:05.000]  Ça fait plaisir d'être dans un réseau qui nous prend en charge et nous aide à apprendre un nouveau métier avec sérieux et efficacité géable,
+[01:34:05.000 --> 01:34:08.000]  de faire plus de webinaires et de mettre en pratique les éléments enseignés.
+[01:34:08.000 --> 01:34:10.000]  Bien écoutez, bienvenue à vous, Majed.
+[01:34:10.000 --> 01:34:12.000]  Vous avez un excellent état d'esprit, c'est chouette.
+[01:34:12.000 --> 01:34:19.000]  Bravo et on va tous bien vous accueillir et bien nous occuper de vous.
+[01:34:19.000 --> 01:34:20.000]  Soyez tranquille.
+[01:34:20.000 --> 01:34:24.000]  Merci à toutes, merci à tous d'avoir été là ce soir pour cette visioconférence.
+[01:34:24.000 --> 01:34:28.000]  Je vous souhaite d'excellentes fêtes de fin d'année, en particulier joyeux Noël.
+[01:34:28.000 --> 01:34:30.000]  C'est évident, c'est dans quelques jours.
+[01:34:30.000 --> 01:34:34.000]  Même pour ceux qui ne fêtent pas Noël, joyeux Noël quand même.
+[01:34:34.000 --> 01:34:38.000]  Ce n'est pas quelque chose de vilain.
+[01:34:39.000 --> 01:34:45.000]  Excellente fête à tous, joyeux Noël, bonne année si on ne se reparle pas d'ici là.
+[01:34:45.000 --> 01:34:50.000]  Bien entendu, rentrez le maximum de mandats, c'est hyper important.
+[01:34:50.000 --> 01:35:00.000]  Et on se revoit tous très vite, juste après les fêtes de toute manière pour une vision du jeudi.
+[01:35:00.000 --> 01:35:03.000]  Merci à toi, bonne fête de fin d'année à toi et à ton chien.
+[01:35:03.000 --> 01:35:06.000]  Ah oui, mon chien aussi bien sûr, ça c'est sûr.
+[01:35:07.000 --> 01:35:11.000]  Joyeux Noël à tous, bonne fête de fin d'année à tous et à toutes.
+[01:35:11.000 --> 01:35:14.000]  J'espère que Mathieu sera avec vous, ainsi que Michel.
+[01:35:14.000 --> 01:35:18.000]  Mathieu, je suis quasi sûr Mathieu, Michel beaucoup moins.
+[01:35:18.000 --> 01:35:20.000]  Merci à tous, merci à toutes.
+[01:35:20.000 --> 01:35:23.000]  Bonne fête, à très très très bientôt.
+[01:35:23.000 --> 01:35:26.000]  Pensez à moi pour mes questions sur la TVA.
+[01:35:26.000 --> 01:35:29.000]  Oui, bien sûr, mais on peut s'appeler demain si vous voulez Sandrine.
+[01:35:29.000 --> 01:35:32.000]  Demain on peut s'appeler, faites savoir à l'animation si c'est ok pour vous.
+[01:35:32.000 --> 01:35:35.000]  Merci à tous, merci à toutes et au revoir.
+[01:35:36.000 --> 01:35:40.000]  Bonne fête, ma rupture conventionnelle de CDI a été refusée pour 23 ans d'ancienneté.
+[01:35:40.000 --> 01:35:44.000]  Rien d'étonnant et mon patron, il manque la suite Véronique.
+[01:35:47.000 --> 01:35:49.000]  Si vous voulez Véronique, on peut en parler.
+[01:35:49.000 --> 01:35:50.000]  Vous ne voulez pas me lâcher ?
+[01:35:50.000 --> 01:35:52.000]  Mais oui, mais qui voudrait vous lâcher Véronique ?
+[01:35:52.000 --> 01:35:54.000]  Moi je ne veux pas vous lâcher non plus.
+[01:35:54.000 --> 01:35:55.000]  Vous ne voulez pas non plus ?
+[01:35:55.000 --> 01:35:56.000]  Car il aime mon travail.
+[01:35:56.000 --> 01:35:59.000]  Mais moi je n'ai pas envie de vous lâcher non plus Véronique.
+[01:35:59.000 --> 01:36:02.000]  Maintenant vous êtes ici, vous y restez.
+[01:36:02.000 --> 01:36:05.000]  Mais ce ne quitterait pas la lucarne, moi j'espère bien.
+[01:36:05.000 --> 01:36:07.000]  Allez, merci à tous, merci à toutes.
+[01:36:07.000 --> 01:36:10.000]  Excellente soirée et à très très très bientôt.

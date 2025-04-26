@@ -1,0 +1,3784 @@
+1
+00:00:00,000 --> 00:00:05,000
+ Présentateur.fr
+
+2
+00:00:05,000 --> 00:00:10,000
+ Présentateur.fr
+
+3
+00:00:10,000 --> 00:00:15,000
+ Présentateur.fr
+
+4
+00:00:15,000 --> 00:00:20,000
+ Présentateur.fr
+
+5
+00:00:51,000 --> 00:00:56,000
+ Présentateur.fr
+
+6
+00:00:56,000 --> 00:01:04,439
+ Je vais juste arrêter de montrer l'écran.
+
+7
+00:01:04,439 --> 00:01:07,439
+ Voilà comment ça va.
+
+8
+00:01:07,439 --> 00:01:13,319
+ C'est bon, c'est bon, on voit ton PowerPoint.
+
+9
+00:01:13,319 --> 00:01:15,319
+ Et bien, impeccable.
+
+10
+00:01:15,319 --> 00:01:19,680
+ Bon, et bien, écoutez, je vous laisse tous avec Yves les uns et les autres.
+
+11
+00:01:19,680 --> 00:01:22,560
+ Je reste sur Skype, Yves, au cas où tu as besoin, bien entendu.
+
+12
+00:01:23,200 --> 00:01:25,960
+ Et puis je vous souhaite une excellente visio.
+
+13
+00:01:25,960 --> 00:01:27,960
+ A tous, l'enregistrement est en route.
+
+14
+00:01:27,960 --> 00:01:31,920
+ Eh bien, écoutez, c'est là où que je devrais lancer l'enregistrement, peut-être.
+
+15
+00:01:31,920 --> 00:01:33,920
+ Bon, et bien, écoutez, merci à tous.
+
+16
+00:01:33,920 --> 00:01:36,719
+ Et puis, si il y a un souci, je reviendrai.
+
+17
+00:01:36,719 --> 00:01:38,240
+ Mais a priori, je vous fiche la paix.
+
+18
+00:01:38,240 --> 00:01:40,800
+ Vous êtes débarrassés de moi pour aujourd'hui jusqu'à demain.
+
+19
+00:01:40,800 --> 00:01:43,200
+ Catherine a un écran blanc.
+
+20
+00:01:43,200 --> 00:01:45,200
+ On va essayer de voir ça.
+
+21
+00:01:45,200 --> 00:01:47,200
+ Allez, Yves, c'est à toi.
+
+22
+00:01:47,200 --> 00:01:49,920
+ Bonjour à tous.
+
+23
+00:01:50,079 --> 00:01:53,920
+ Et puis, merci de m'accueillir chez vous.
+
+24
+00:01:53,920 --> 00:01:55,920
+ Donc, nous allons voir.
+
+25
+00:01:55,920 --> 00:01:57,920
+ Alors, n'hésitez pas à poser quand même les questions par écrit.
+
+26
+00:01:57,920 --> 00:01:59,920
+ Et comme ça,
+
+27
+00:01:59,920 --> 00:02:01,920
+ coucou, Marjorie, bonjour, Anna.
+
+28
+00:02:01,920 --> 00:02:05,920
+ Comme ça, j'essaierai d'y répondre soit au fil de l'eau.
+
+29
+00:02:05,920 --> 00:02:08,920
+ Et si jamais je n'ai pas répondu pendant la présentation, à ce moment-là,
+
+30
+00:02:08,920 --> 00:02:10,920
+ on fera une petite question-réponse à la fin.
+
+31
+00:02:10,920 --> 00:02:13,920
+ Donc, nous allons commencer leur parle.
+
+32
+00:02:13,920 --> 00:02:18,920
+ Donc, qu'est-ce que la rénovation énergétique et quel est son objectif, surtout?
+
+33
+00:02:18,919 --> 00:02:22,919
+ On va voir quels sont les outils de contrôle qui ont été mis en place par le gouvernement.
+
+34
+00:02:22,919 --> 00:02:25,919
+ Quelles sont les aides également qui sont mises en place par le gouvernement.
+
+35
+00:02:25,919 --> 00:02:28,919
+ Et on finira par le parcours des ménages, donc nos clients.
+
+36
+00:02:28,919 --> 00:02:32,919
+ En fait, comment ils doivent faire pour bénéficier de ces aides?
+
+37
+00:02:34,919 --> 00:02:37,919
+ Alors, l'objectif de la rénovation énergétique,
+
+38
+00:02:37,919 --> 00:02:42,919
+ c'est justement de rénover les logements et les bâtiments tertiaires aussi.
+
+39
+00:02:42,919 --> 00:02:45,919
+ Donc, en luttant contre le changement climatique,
+
+40
+00:02:45,919 --> 00:02:49,919
+ en soutenant le pouvoir d'achat, donc ça, c'est avec les aides, bien sûr,
+
+41
+00:02:49,919 --> 00:02:52,919
+ et en améliorant la qualité de vie des Français.
+
+42
+00:02:52,919 --> 00:02:55,919
+ Puisqu'un bâtiment bien isolé,
+
+43
+00:02:55,919 --> 00:03:00,919
+ normalement, est un bâtiment qui consomme moins, donc qui coûte moins cher et qui est plus agréable.
+
+44
+00:03:00,919 --> 00:03:02,919
+ Voilà, donc c'est l'objectif.
+
+45
+00:03:03,919 --> 00:03:08,919
+ En France, le bâtiment, c'est le deuxième secteur le plus émetteur de gaz à effet de serre.
+
+46
+00:03:08,919 --> 00:03:11,919
+ Le deuxième après celui des transports.
+
+47
+00:03:11,919 --> 00:03:15,919
+ Donc, il vient juste derrière le bâtiment, l'agriculture.
+
+48
+00:03:15,919 --> 00:03:19,919
+ Donc, le bâtiment représente 27% des émissions de gaz à effet de serre.
+
+49
+00:03:19,919 --> 00:03:23,919
+ Ça représente 45% de la consommation d'énergie finale.
+
+50
+00:03:23,919 --> 00:03:26,919
+ Et donc, il y a un rôle central.
+
+51
+00:03:26,919 --> 00:03:29,919
+ Donc, le bâtiment est un rôle central à jouer dans la neutralité carbone,
+
+52
+00:03:29,919 --> 00:03:32,919
+ qui est l'objectif à atteindre d'ici 2050.
+
+53
+00:03:32,919 --> 00:03:36,919
+ Donc ça, c'est les objectifs imposés par la Commission européenne.
+
+54
+00:03:36,919 --> 00:03:39,919
+ Alors, il faut quand même relativiser aussi, parce qu'en France,
+
+55
+00:03:39,919 --> 00:03:43,919
+ finalement, la totalité des émissions de gaz à effet de serre ne représente que 1%
+
+56
+00:03:43,919 --> 00:03:46,919
+ des gaz à effet de serre au niveau mondial.
+
+57
+00:03:46,919 --> 00:03:51,919
+ Donc, on est quand même le bon élève au niveau de l'Europe et au niveau international.
+
+58
+00:03:51,919 --> 00:03:55,919
+ Mais malgré tout, on a des objectifs à tenir.
+
+59
+00:03:55,919 --> 00:03:59,919
+ Et cette rénovation énergétique est là pour ça, pour nous aider.
+
+60
+00:03:59,919 --> 00:04:02,919
+ Alors, tout en agissant concrètement pour le climat,
+
+61
+00:04:02,919 --> 00:04:07,919
+ la réalisation des travaux énergétiques permet d'améliorer le confort du logement,
+
+62
+00:04:07,919 --> 00:04:10,919
+ de réduire la facture énergétique.
+
+63
+00:04:10,919 --> 00:04:13,919
+ Parce que dans notre pays aujourd'hui, près de 5 millions de logements,
+
+64
+00:04:13,919 --> 00:04:15,919
+ donc c'est pas rien, sont mal isolés.
+
+65
+00:04:15,919 --> 00:04:17,919
+ C'est ce qu'on appelle des passoires thermiques.
+
+66
+00:04:17,919 --> 00:04:20,919
+ Donc, passoires thermiques, c'est F et G.
+
+67
+00:04:20,919 --> 00:04:25,919
+ Et 3,8 millions des ménages ont des difficultés à payer leur facture de chauffage.
+
+68
+00:04:25,919 --> 00:04:29,919
+ Donc, dans la plupart des cas, ce sont des locataires, bien entendu,
+
+69
+00:04:29,919 --> 00:04:31,919
+ qui ont du mal à se chauffer.
+
+70
+00:04:31,919 --> 00:04:32,919
+ Mais pas que.
+
+71
+00:04:32,919 --> 00:04:35,919
+ Il y a aussi des propriétaires qui sont propriétaires de leur logement,
+
+72
+00:04:35,920 --> 00:04:39,920
+ et qui n'ont pas les moyens d'isoler et de changer de système de chauffage.
+
+73
+00:04:45,920 --> 00:04:49,920
+ Pour massifier la rénovation des logements et des bâtiments tercières également,
+
+74
+00:04:49,920 --> 00:04:51,920
+ et accélérer les économies d'énergie,
+
+75
+00:04:51,920 --> 00:04:54,920
+ de nouvelles actions et des financements étaient mobilisés.
+
+76
+00:04:54,920 --> 00:04:58,920
+ La rénovation énergétique, qui concerne les logements privés,
+
+77
+00:04:58,920 --> 00:05:03,920
+ les bâtiments publics aussi, est l'un des secteurs prioritaires du plan de relance,
+
+78
+00:05:03,920 --> 00:05:06,920
+ qui consacre 6,2 milliards sur deux ans.
+
+79
+00:05:06,920 --> 00:05:10,920
+ Donc, le gouvernement utilise également les outils législatifs et réglementaires
+
+80
+00:05:10,920 --> 00:05:14,920
+ afin d'accélérer cet effort de rénovation.
+
+81
+00:05:19,920 --> 00:05:24,920
+ L'objectif, et ça vous le savez, c'est de sortir du chauffage au fioul,
+
+82
+00:05:24,920 --> 00:05:27,920
+ parce qu'en fait, le fioul représente de nombreux inconvénients
+
+83
+00:05:27,920 --> 00:05:31,920
+ pour les prix qui ont grimpé, les émissions pôlantes surtout, et les gaz à effet de serre.
+
+84
+00:05:31,920 --> 00:05:34,920
+ L'installation de nouvelles chaudières au fioul dans les bâtiments existants
+
+85
+00:05:34,920 --> 00:05:39,920
+ est interdite depuis 1er juillet 2022, donc ça remonte déjà plus d'un an.
+
+86
+00:05:39,920 --> 00:05:41,920
+ En revanche, il est toujours possible, et heureusement,
+
+87
+00:05:41,920 --> 00:05:46,920
+ de faire entretenir ou réparer sa chaudière au fioul qui est déjà installée.
+
+88
+00:05:50,920 --> 00:05:53,920
+ Alors, pour aider les ménages à remplacer leur chaudière au fioul,
+
+89
+00:05:53,920 --> 00:05:56,920
+ l'État propose des aides financières importantes,
+
+90
+00:05:56,920 --> 00:05:58,920
+ et qu'on verra qu'on va détailler tout à l'heure,
+
+91
+00:05:58,920 --> 00:06:03,920
+ avec ma prime rénov' et aussi d'autres aides qui ont été mises en place
+
+92
+00:06:03,920 --> 00:06:07,920
+ par l'Agence nationale pour l'amélioration de l'habitat, donc l'ANA,
+
+93
+00:06:07,920 --> 00:06:11,920
+ et des collectivités locales aussi, des taux de TVA réduits,
+
+94
+00:06:11,920 --> 00:06:16,920
+ et aussi quelques primes coup de pouce de la part de l'Europe.
+
+95
+00:06:20,920 --> 00:06:23,920
+ Donc le but est d'éradiquer les passeoires énergétiques.
+
+96
+00:06:24,920 --> 00:06:29,920
+ Donc il y a plusieurs mesures qui visent à garantir un logement décent à tous les citoyens.
+
+97
+00:06:29,920 --> 00:06:33,920
+ La première, c'est l'interdiction de la location des passeoires énergétiques.
+
+98
+00:06:33,920 --> 00:06:36,920
+ Donc à partir de 2025, c'est bientôt dans un an,
+
+99
+00:06:36,920 --> 00:06:42,920
+ pour les logements classés G, et à partir de 2028, pour les logements classés F.
+
+100
+00:06:42,920 --> 00:06:47,920
+ Ensuite, ce sera à partir de 2034 pour les logements classés E,
+
+101
+00:06:47,920 --> 00:06:51,920
+ qui représentent 25% du parc immobilier actuel, donc c'est colossal.
+
+102
+00:06:51,920 --> 00:06:56,920
+ Donc d'ici 2034, il y a énormément de travaux à faire, à prévoir.
+
+103
+00:06:56,920 --> 00:07:02,920
+ Et donc le deuxième point pour éradiquer sa passeoire énergétique,
+
+104
+00:07:02,920 --> 00:07:05,920
+ c'est de geler les loyers des passeoires énergétiques.
+
+105
+00:07:05,920 --> 00:07:10,920
+ Donc à partir de 2023, il sera interdit d'augmenter le loyer des logements classés F et G.
+
+106
+00:07:10,920 --> 00:07:14,920
+ Donc ça, c'est déjà le cas, on ne peut pas augmenter les loyers de ces logements-là.
+
+107
+00:07:14,920 --> 00:07:17,920
+ Et lors du renouvellement du bail ou de la remise en location,
+
+108
+00:07:17,920 --> 00:07:20,920
+ même chose, impossible de demander le loyer.
+
+109
+00:07:20,920 --> 00:07:23,920
+ Il y a également l'obligation de réaliser un audit énergétique
+
+110
+00:07:23,920 --> 00:07:26,920
+ lors de la vente d'un bien considéré comme une passeoire énergétique,
+
+111
+00:07:26,920 --> 00:07:29,920
+ donc à partir de F et G, dès 2022.
+
+112
+00:07:29,920 --> 00:07:31,920
+ Donc on est déjà dans cette obligation.
+
+113
+00:07:31,920 --> 00:07:34,920
+ L'audit énergétique, en fait, on va le voir tout à l'heure,
+
+114
+00:07:34,920 --> 00:07:40,920
+ mais ça a l'avantage quand même de montrer de quel budget on a besoin
+
+115
+00:07:40,920 --> 00:07:43,920
+ pour améliorer le classement du DPE.
+
+116
+00:07:43,920 --> 00:07:48,920
+ Donc il devrait être fourni à tout potentiel acquéreur lors de la première visite.
+
+117
+00:07:48,920 --> 00:07:50,920
+ Donc c'est comme au même titre que le DPE, enfin,
+
+118
+00:07:50,920 --> 00:07:53,920
+ sauf qu'on n'a pas besoin de l'avoir pour l'apparition de la publicité,
+
+119
+00:07:53,920 --> 00:07:56,920
+ mais comme on a besoin de l'obtenir pour la première visite,
+
+120
+00:07:56,920 --> 00:07:59,920
+ ça veut dire qu'il faut l'avoir dès la prise de mandat,
+
+121
+00:07:59,920 --> 00:08:02,920
+ ou en tout cas le demander dès la prise de mandat.
+
+122
+00:08:02,920 --> 00:08:08,920
+ À partir de 2025, cette obligation sera étendue au logement classé E.
+
+123
+00:08:08,920 --> 00:08:11,920
+ Donc petit à petit, en fait, l'étau va se resserrer
+
+124
+00:08:11,920 --> 00:08:16,920
+ sur tous les logements qui sont classés en dessous de D.
+
+125
+00:08:16,920 --> 00:08:18,920
+ Ces mesures permettent de protéger les locataires
+
+126
+00:08:18,920 --> 00:08:20,920
+ contre des factures d'énergie trop élevées
+
+127
+00:08:20,920 --> 00:08:23,920
+ et de laisser le temps nécessaire aux propriétaires
+
+128
+00:08:23,920 --> 00:08:25,920
+ pour rénover les logements qu'ils louent.
+
+129
+00:08:25,920 --> 00:08:28,920
+ En fait, tout ça concerne uniquement les...
+
+130
+00:08:28,920 --> 00:08:30,920
+ Enfin, uniquement.
+
+131
+00:08:30,920 --> 00:08:32,920
+ C'est-à-dire que forcément, ça aura de l'impact
+
+132
+00:08:32,920 --> 00:08:34,920
+ pour les logements qui seront à la vente,
+
+133
+00:08:34,920 --> 00:08:37,920
+ mais toutes ces contraintes sont imposées uniquement
+
+134
+00:08:37,920 --> 00:08:40,920
+ aux bâtiments qui sont en location.
+
+135
+00:08:40,919 --> 00:08:43,919
+ On a plus d'infos sur la loi climat et résilience
+
+136
+00:08:43,919 --> 00:08:46,919
+ qu'on va voir rapidement.
+
+137
+00:08:46,919 --> 00:08:48,919
+ Maintenant, donc vous avez...
+
+138
+00:08:48,919 --> 00:08:49,919
+ Il y a les liens.
+
+139
+00:08:49,919 --> 00:08:50,919
+ Donc je pense que, Nicolas,
+
+140
+00:08:50,919 --> 00:08:54,919
+ de toute façon, on va vous faire passer le PowerPoint.
+
+141
+00:08:54,919 --> 00:08:57,919
+ Et donc vous avez accès également à tous les liens,
+
+142
+00:08:57,919 --> 00:08:58,919
+ si vous voulez en savoir plus.
+
+143
+00:08:58,919 --> 00:09:01,919
+ Alors notamment, ça, ça dépend du ministère
+
+144
+00:09:01,919 --> 00:09:03,919
+ de la Transition écologique.
+
+145
+00:09:03,919 --> 00:09:04,919
+ Donc on a la loi climat et résilience,
+
+146
+00:09:04,919 --> 00:09:07,919
+ sans que c'est dans cette loi que tout est détaillé.
+
+147
+00:09:07,919 --> 00:09:08,919
+ Je ne vais pas vous la détailler maintenant,
+
+148
+00:09:08,919 --> 00:09:09,919
+ mais vous aurez...
+
+149
+00:09:09,919 --> 00:09:12,919
+ Enfin, vous avez de quoi...
+
+150
+00:09:12,919 --> 00:09:14,919
+ De quoi occuper vos soirées
+
+151
+00:09:14,919 --> 00:09:18,919
+ si vous ne savez pas quoi faire dans les prochains mois à venir.
+
+152
+00:09:18,919 --> 00:09:21,919
+ Je reviens sur mon PowerPoint.
+
+153
+00:09:23,919 --> 00:09:26,919
+ Je le retrouve devant.
+
+154
+00:09:29,919 --> 00:09:31,919
+ Il est là.
+
+155
+00:09:31,919 --> 00:09:32,919
+ Alors, j'espère que vous...
+
+156
+00:09:32,919 --> 00:09:33,919
+ Oui, c'est bon.
+
+157
+00:09:33,919 --> 00:09:35,919
+ On a la loi climat et résilience,
+
+158
+00:09:35,919 --> 00:09:37,919
+ pour 닮ager les population à 했는데.
+
+159
+00:09:37,919 --> 00:09:40,919
+ Donc onFine…
+
+160
+00:09:41,919 --> 00:09:42,919
+ Si vous voulez faire un bulletin fan・ heating
+
+161
+00:09:42,919 --> 00:09:44,919
+ interessantes sur notre plan de recherche.
+
+162
+00:09:45,919 --> 00:09:48,919
+ però je ridiculousement vous letters est gossip...
+
+163
+00:09:48,919 --> 00:09:49,919
+ La solution est sûre.
+
+164
+00:09:49,919 --> 00:09:51,919
+ Guys, il faut que vous发鬥!
+
+165
+00:09:53,919 --> 00:09:55,919
+ Regardez pour l'instant leotted !!!
+
+166
+00:09:55,919 --> 00:09:59,919
+ Bien alarmé ne faire l' Picasa Oereal...
+
+167
+00:09:59,919 --> 00:10:01,919
+ Je suis en train de vous rayonner sur ma blogue.
+
+168
+00:10:01,919 --> 00:10:02,259
+ J'espère que vos
+
+169
+00:10:02,259 --> 00:10:08,939
+ dans le secteur des établissements d'hébergement pour personnes âgées, donc les EHPAD. Il y a aussi
+
+170
+00:10:08,939 --> 00:10:14,419
+ des plans de relance pour les états et les collectivités, les bâtiments de l'état et
+
+171
+00:10:14,419 --> 00:10:20,740
+ des collectivités, également pour les équipements sportifs et pour l'Agence nationale du sport.
+
+172
+00:10:20,740 --> 00:10:27,580
+ Il faut également accompagner les élus dans la rénovation énergétique de leur bâtiment,
+
+173
+00:10:27,580 --> 00:10:31,899
+ donc tout ça en fait ce sont des actions qui sont menées dans le cadre de cette rénovation
+
+174
+00:10:32,379 --> 00:10:38,139
+ énergétique. Des crédits d'impôt de rénovation pour les TPE et les PME. La transition écologique
+
+175
+00:10:38,139 --> 00:10:42,980
+ et la rénovation énergétique des TPE et PME, ça fait partie de l'objectif. L'économie
+
+176
+00:10:42,980 --> 00:10:47,939
+ d'énergie tertiaire, la rénovation dans les écoles, organiser la montée en compétences des
+
+177
+00:10:47,939 --> 00:10:55,100
+ professionnels. Vous savez qu'il y a un label RGE qui en fait permet aux entreprises d'être
+
+178
+00:10:55,100 --> 00:10:59,659
+ suffisamment qualifiées. Il faut quand même se méfier parce qu'il y a de tout dans ces sociétés,
+
+179
+00:11:00,459 --> 00:11:05,819
+ mais c'est un label qui est censé en fait rassurer les clients et puis piloter la politique publique
+
+180
+00:11:05,819 --> 00:11:09,419
+ de rénovation énergétique grâce aux statistiques de l'ONRE.
+
+181
+00:11:09,419 --> 00:11:17,059
+ Maintenant on va voir les outils. Est-ce que vous avez des questions sur cette première partie,
+
+182
+00:11:17,059 --> 00:11:24,139
+ sur l'objectif ? Est-ce que vous avez déjà entendu parler de tout ça ? J'imagine que oui.
+
+183
+00:11:24,139 --> 00:11:35,580
+ Tout compris, bien Frédéric. On continue alors, impeccable. C'est bien si c'est clair. C'est un
+
+184
+00:11:35,580 --> 00:11:39,919
+ peu fastidieux, je suis désolé, ce n'est pas passionnant comme sujet, mais j'ai pas eu le
+
+185
+00:11:39,919 --> 00:11:45,500
+ choix du sujet donc on est obligé d'y passer. Pas de question, on continue. On va voir les outils de
+
+186
+00:11:45,500 --> 00:11:52,460
+ contrôle, contrôle par l'État bien sûr. Il y a France Rénov, qui est le service public unique
+
+187
+00:11:52,620 --> 00:11:57,620
+ de la rénovation énergétique. Donc ça c'est plutôt une bonne chose par rapport à il y a quelques
+
+188
+00:11:57,620 --> 00:12:02,740
+ années où on avait plusieurs points d'entrée. Là on a juste un service, enfin un point d'entrée
+
+189
+00:12:02,740 --> 00:12:08,660
+ unique qui est France Rénov. Du coup ça permet de savoir où on met les pieds et d'avoir accès à
+
+190
+00:12:08,660 --> 00:12:16,580
+ tout à partir de ce site. Guillaume, crédit d'impôt ? Oui on verra tout ça par la suite.
+
+191
+00:12:16,580 --> 00:12:22,220
+ Ah c'est plus intéressant que la déontologie. Bon, ok, tant mieux.
+
+192
+00:12:22,220 --> 00:12:30,340
+ Alors, depuis janvier 2022 en fait, France Rénov, le service public de la rénovation de l'habitat,
+
+193
+00:12:30,340 --> 00:12:35,020
+ est le point d'entrée unique pour tous les parcours de travaux. Donc il permet en fait,
+
+194
+00:12:35,020 --> 00:12:41,340
+ il donne en fait aux Français un accès à l'information, il l'oriente tout au long de
+
+195
+00:12:41,340 --> 00:12:44,900
+ leurs projets de rénovation et il assure également une mission sociale auprès des
+
+196
+00:12:44,899 --> 00:12:48,299
+ ménages aux revenus les plus modestes. C'est à partir de là que les aides vont se déclencher.
+
+197
+00:12:48,299 --> 00:12:54,340
+ Ce réseau organisé avec le concours des régions propose plus de 450 guichets,
+
+198
+00:12:54,340 --> 00:12:58,779
+ espaces conseils France Rénov sur tout le territoire. Ils s'articulent de façon complémentaire avec les
+
+199
+00:12:58,779 --> 00:13:03,819
+ programmes locaux d'amélioration de l'habitat conduit par les collectivités territoriales.
+
+200
+00:13:08,419 --> 00:13:14,860
+ Il y a un numéro unique que vous avez à l'écran et surtout il y a la plateforme web qui permet
+
+201
+00:13:15,419 --> 00:13:18,899
+ d'avoir tous les renseignements. On ira faire un tour après.
+
+202
+00:13:18,899 --> 00:13:26,740
+ Donc le DPE, c'est aussi un des outils de contrôle bien sûr par l'Etat, c'est le principal même,
+
+203
+00:13:26,740 --> 00:13:31,659
+ puisqu'il est créé, alors lui il a été créé en 2006 donc il y a bien plus longtemps,
+
+204
+00:13:31,659 --> 00:13:36,820
+ c'est le diagnostic de performance énergétique que vous connaissez bien, qui est le document de
+
+205
+00:13:36,820 --> 00:13:41,539
+ référence qui évalue la performance énergétique d'un logement, notamment à travers des étiquettes
+
+206
+00:13:42,139 --> 00:13:46,939
+ énergie. Il est à fournir pour la vente et la location des bâtiments neufs et anciens et vous savez
+
+207
+00:13:46,939 --> 00:13:53,500
+ qu'il est à fournir dès l'apparition de la publicité. La loi climat résilience confirme
+
+208
+00:13:53,500 --> 00:13:57,980
+ son rôle central dans l'évaluation de la performance d'un logement et définit la
+
+209
+00:13:57,980 --> 00:14:03,179
+ rénovation performante afin d'orienter les aides financières vers des aides des rénovations plus
+
+210
+00:14:03,179 --> 00:14:10,659
+ ambitieuses. Alors ce diagnostic fait l'objet d'une refonte qui s'applique depuis le 1er juillet
+
+211
+00:14:10,659 --> 00:14:17,819
+ 2021, ça aussi vous le savez puisque en fait les DPE ont dû être refaits et donc il deviendra
+
+212
+00:14:17,819 --> 00:14:24,539
+ surtout opposable, c'est à dire qu'il y aura vraiment une importance juridique capitale. Il
+
+213
+00:14:24,539 --> 00:14:30,939
+ est plus lisible également grâce à un nouveau design et comportera deux étiquettes, donc les
+
+214
+00:14:30,939 --> 00:14:38,579
+ étiquettes classées avec cette classe de A à G, A correspond à la meilleure performance et G la
+
+215
+00:14:38,660 --> 00:14:42,139
+ plus mauvaise comme vous le savez. Donc l'étiquette énergie pour connaître la consommation
+
+216
+00:14:42,139 --> 00:14:47,180
+ d'énergie primaire et l'étiquette climat pour connaître la quantité de gaz à effet de serre
+
+217
+00:14:47,180 --> 00:14:52,860
+ émise. L'affichage est obligatoire sur les annonces immobilières depuis le 1er janvier 2022.
+
+218
+00:14:52,860 --> 00:15:07,100
+ Là aussi donc on a un lien sur un site du gouvernement qui explique en détail le DPE
+
+219
+00:15:08,620 --> 00:15:13,139
+ conditions de réalisation. Alors là c'est important donc la loi climat et résilience,
+
+220
+00:15:13,139 --> 00:15:18,580
+ je suis ici, rend également obligatoire la réalisation d'un DPE pour tous les bâtiments,
+
+221
+00:15:18,580 --> 00:15:24,420
+ d'habitations collectives à l'échelle du bâtiment. Donc il y a le DPE de l'appartement
+
+222
+00:15:24,420 --> 00:15:29,259
+ mais aussi du bâtiment et donc à partir du 1er janvier 2024 pour les immeubles en
+
+223
+00:15:29,259 --> 00:15:36,820
+ monopropriétés et pour les copropriétés de plus de 200 lots. Donc là vous allez voir en fait
+
+224
+00:15:37,140 --> 00:15:50,180
+ le dossier de diagnostic technique à partir du 1er janvier 2025 pour les copropriétés entre 50 et
+
+225
+00:15:50,180 --> 00:15:56,860
+ 200 lots et à partir de 2026 pour tout le monde. Donc le DPE doit être effectué à l'initiative
+
+226
+00:15:56,860 --> 00:16:02,260
+ du propriétaire du logement et à ses frais qu'il s'agisse d'un propriétaire privé ou public. Le
+
+227
+00:16:02,259 --> 00:16:07,019
+ tarif n'est pas réglementé, le DPE doit être établi par un diagnosticueur qui est professionnel
+
+228
+00:16:07,019 --> 00:16:12,220
+ et indépendant. Vous savez qu'on n'a pas le droit d'orienter notre client vers un professionnel
+
+229
+00:16:12,220 --> 00:16:16,299
+ en particulier ou alors il faut lui proposer trois personnes, enfin trois sociétés différentes.
+
+230
+00:16:16,299 --> 00:16:26,100
+ Une question de Hugues, quand les résultats ne figurent pas sur l'annonce de mise en vente,
+
+231
+00:16:26,100 --> 00:16:32,779
+ et bien on peut avoir une amende nous et le propriétaire. Donc c'est pour ça qu'on n'a
+
+232
+00:16:32,779 --> 00:16:38,300
+ même pas la possibilité de diffuser une annonce si on n'a pas le DPE puisque c'est interdit par la
+
+233
+00:16:38,300 --> 00:16:43,580
+ loi et que ce sont de plus en plus regardants. Alors ça dépend des régions mais il y a certaines
+
+234
+00:16:43,580 --> 00:16:47,259
+ régions il y a beaucoup de contrôle d'agence immobilière en fait concernant ce fameux DPE.
+
+235
+00:16:47,259 --> 00:17:01,379
+ Alors l'audit énergétique, je ne sais pas si tout le monde connaît, l'audit énergétique en
+
+236
+00:17:01,379 --> 00:17:06,779
+ fait c'est récent, donc c'est dans le cadre toujours de la loi climat résilience. La
+
+237
+00:17:06,779 --> 00:17:11,259
+ réalisation d'un audit énergétique réglementaire devient progressivement obligatoire à la vente
+
+238
+00:17:11,259 --> 00:17:21,700
+ des logements classés DEF et G en monopropriétés. Donc c'est en complément du DPE en fait l'audit
+
+239
+00:17:21,700 --> 00:17:26,700
+ réglementaire vise à permettre aux acquéreurs des logements fortement consommateurs d'énergie
+
+240
+00:17:26,700 --> 00:17:31,460
+ de bénéficier de la présentation de scénarios de travaux pour améliorer leur performance
+
+241
+00:17:31,460 --> 00:17:36,299
+ énergétique et environnementale. Donc en fait on va avoir plusieurs possibilités, il y aura comment
+
+242
+00:17:36,299 --> 00:17:45,339
+ passer de F par exemple à D ou comment passer de F à A et à quel prix. Donc à ce titre il contribue
+
+243
+00:17:45,339 --> 00:17:49,379
+ aux objectifs nationaux de réduction de consommation énergétique du parc des logements.
+
+244
+00:17:49,379 --> 00:18:00,740
+ Alors actuellement effectivement c'est F et G, nous dit Pierre, tout à fait. Donc ça va
+
+245
+00:18:00,740 --> 00:18:05,139
+ progressivement remonter jusqu'à D mais pour l'instant ça concerne que les monopropriétés,
+
+246
+00:18:05,820 --> 00:18:11,060
+ ça ne concerne pas les copropriétés et ça concerne les monopropriétés qui sont classées en F ou en G.
+
+247
+00:18:11,060 --> 00:18:19,340
+ Donc là on a le calendrier donc 1er avril 2023 pour les logements classés F ou G mais ça va
+
+248
+00:18:19,340 --> 00:18:26,060
+ augmenter là à partir de 2025 pour tous les logements qui sont classés en E et de 2034 pour
+
+249
+00:18:26,060 --> 00:18:30,940
+ tous les logements classés en D. Ça veut dire que si on veut être tranquille aujourd'hui il faut
+
+250
+00:18:30,940 --> 00:18:35,860
+ un logement qui soit placé en maximum en C sinon dans l'avenir on sait qu'on
+
+251
+00:18:35,860 --> 00:18:41,420
+ devra passer par une rénovation. Donc ces dispositions ont été codifiées en articles 126,
+
+252
+00:18:41,420 --> 00:18:46,140
+ 28, 1 du code de la construction et de l'habitat. Pour Guadeloupe, Martinique,
+
+253
+00:18:46,140 --> 00:18:50,980
+ Lujan et Réunion et Mayotte ça s'applique à partir de juillet 2024.
+
+254
+00:18:50,980 --> 00:19:05,259
+ Bon courage effectivement Jérôme pour passer de F à A. Moi j'ai un exemple d'une maison que
+
+255
+00:19:05,259 --> 00:19:11,220
+ j'ai sur Aubagne qui est en F et pour aller en A il y en a pour 70 000 euros de travaux.
+
+256
+00:19:11,220 --> 00:19:16,740
+ Donc effectivement mais bon à la limite c'est bien de le savoir parce que du coup les acquéreurs
+
+257
+00:19:16,740 --> 00:19:20,660
+ ça vous y vont ça permet d'articuler une négociation en connaissance de cause.
+
+258
+00:19:20,660 --> 00:19:28,259
+ Alors lorsque un propriétaire décide de vendre son logement il doit faire réaliser un diagnostic
+
+259
+00:19:28,259 --> 00:19:33,940
+ performance énergétique sauf s'il possède déjà un DPE valide et un audit énergétique
+
+260
+00:19:33,940 --> 00:19:42,460
+ complémentaire qui est obligatoire si bien sûr on est en F ou en G actuellement. Donc
+
+261
+00:19:42,460 --> 00:19:46,380
+ l'audit énergétique apporte des informations complémentaires au DPE pour orienter l'acquereur
+
+262
+00:19:46,380 --> 00:19:52,500
+ dans ses travaux de rénovation. Il est réalisé conformément en modalité prévue dans l'arrêt
+
+263
+00:19:52,500 --> 00:19:56,460
+ définissant le contenu de l'audit énergétique réglementaire. C'est à dire que bien sûr
+
+264
+00:19:56,460 --> 00:20:02,940
+ on ne peut pas faire n'importe quoi en travaux tout est réglementé. D'ailleurs j'ai été surpris
+
+265
+00:20:02,940 --> 00:20:07,340
+ quand j'ai vu mon audit énergétique mais par exemple le passé de simple vitrage à double
+
+266
+00:20:07,340 --> 00:20:12,820
+ vitrage ça ne fait pas changer grand chose. Il vaut mieux isoler le plancher et le plafond
+
+267
+00:20:12,819 --> 00:20:17,980
+ plutôt que de changer les fenêtres. C'est assez surprenant d'ailleurs. Je crois qu'il y avait 7%
+
+268
+00:20:17,980 --> 00:20:29,939
+ d'amélioration donc ce qui n'est pas énorme. Alors Eric est-ce que les hébergements de
+
+269
+00:20:29,939 --> 00:20:35,179
+ tourisme sont concernés ? Alors tourisme non pas du tout c'est à dire qu'on peut continuer à faire
+
+270
+00:20:35,179 --> 00:20:41,339
+ du Airbnb, location meublée, alors pas à l'année parce qu'en fait si c'est meublé à l'année pour
+
+271
+00:20:41,379 --> 00:20:46,299
+ des étudiants on est concerné parce que c'est une résidence principale pour l'étudiant. Par
+
+272
+00:20:46,299 --> 00:20:55,659
+ contre meublé touristique on n'est pas concerné du tout. Alors Cristel oui ça concerne uniquement
+
+273
+00:20:55,659 --> 00:21:00,619
+ la location mais forcément ça a un impact aussi sur les ventes puisque les gens qui vont acheter
+
+274
+00:21:00,619 --> 00:21:07,899
+ un bien qui va être soumis à d'énormes travaux pour voir sa classe s'améliorer forcément ça va
+
+275
+00:21:07,900 --> 00:21:13,620
+ peser dans la balance de la négociation. Il ne sait pas le jour où lui voudra mettre en
+
+276
+00:21:13,620 --> 00:21:17,820
+ location peut-être son bien même s'il l'achète pour habiter dans un premier temps ou même en
+
+277
+00:21:17,820 --> 00:21:21,900
+ cas de revente pourquoi pas le revendre à quelqu'un qui veut faire l'investissement
+
+278
+00:21:21,900 --> 00:21:32,580
+ locatif du coup forcément ça va jouer sur le prix. Alors Frédéric la clim aussi. Alors la clim,
+
+279
+00:21:32,579 --> 00:21:41,779
+ il faut savoir que la climatisation c'est avantageux d'un point de vue économie d'énergie par rapport
+
+280
+00:21:41,779 --> 00:21:47,460
+ à des vieux radiateurs mais c'est rarement préconisé en fait pour améliorer les notes
+
+281
+00:21:47,460 --> 00:21:52,579
+ parce qu'en fait comme il y a le froid l'été ça consomme davantage et on va plutôt partir sur
+
+282
+00:21:52,579 --> 00:21:57,539
+ des pompes à chaleur une simple climatisation. Pompes à chaleur en fait c'est une climatisation
+
+283
+00:21:57,539 --> 00:22:09,659
+ mais RO. Guillaume demande s'il y a encore une propriété c'est pareil. Pas pour l'instant mais
+
+284
+00:22:09,659 --> 00:22:17,220
+ ça va venir petit à petit. Marjorie, attention Yves c'est en train de changer je crois ils sont sur
+
+285
+00:22:17,220 --> 00:22:21,539
+ le point de durcir. Alors pour les Airbnb pour l'instant j'ai pas entendu quoi que ce soit
+
+286
+00:22:21,539 --> 00:22:26,059
+ concernant l'isolation mais ils durcisent effectivement c'est à quel certaine ville
+
+287
+00:22:26,099 --> 00:22:30,940
+ vous n'avez pas le droit de faire plus d'un seul investissement pour louer en Airbnb, il y en a
+
+288
+00:22:30,940 --> 00:22:35,740
+ où c'est carrément interdit donc oui ça durcit mais c'est pas pour les mêmes raisons c'est parce
+
+289
+00:22:35,740 --> 00:22:40,779
+ qu'en fait ça prive du marché locatif beaucoup de logements pour les gens qui veulent habiter à
+
+290
+00:22:40,779 --> 00:22:45,819
+ l'année mais d'un point de vue DPE j'ai pas entendu ou audit énergétique j'ai rien entendu
+
+291
+00:22:45,819 --> 00:22:58,539
+ à ce sujet pour l'instant en tout cas. Pour les meubles étudiants non car les gestionnaires
+
+292
+00:22:58,539 --> 00:23:03,379
+ font déclarer que le bien n'est pas la résidence principale dans le travail alors ça ça dépend
+
+293
+00:23:03,379 --> 00:23:09,779
+ Sylvie je pense ça dépend si c'est de la résidence gérée ou pas parce que si vous êtes
+
+294
+00:23:09,779 --> 00:23:15,659
+ propriétaire d'un petit studio dans Paris et que vous louez à un étudiant vous êtes soumis à la
+
+295
+00:23:15,660 --> 00:23:25,700
+ même législation alors peut-être devriez vous parler des agréments nécessaires pour faire
+
+296
+00:23:25,700 --> 00:23:30,860
+ l'audit en effet par exemple pour les immeubles à usage mixte ou les appartements en monopropriétés
+
+297
+00:23:30,860 --> 00:23:36,019
+ seuls les architectes au bureau d'études sont compétents non pas forcément alors il y a des
+
+298
+00:23:36,019 --> 00:23:47,740
+ sociétés qui font que ça audit énergétique donc il n'y a pas que des architectes alors marjorie
+
+299
+00:23:47,740 --> 00:23:57,819
+ les pompes à chaleur rr c'est la climatisation oui résidence gérée Sylvie tout à fait c'est
+
+300
+00:23:57,819 --> 00:24:01,220
+ bien ça là c'est différent là c'est un bail commercial donc on n'est plus du tout dans la même
+
+301
+00:24:01,220 --> 00:24:07,299
+ législation donc on a vu l'objectif de la rénovation énergétique les outils de contrôle
+
+302
+00:24:07,299 --> 00:24:16,900
+ on va passer aux aides donc donc les aides plus simples plus justes et plus efficaces alors c'est
+
+303
+00:24:16,900 --> 00:24:21,059
+ vrai qu'il y a quelques années je sais pas si vous vous souvenez ce qu'avait fait la formation
+
+304
+00:24:21,059 --> 00:24:26,940
+ c'était vraiment une usine à gaz concernant les aides ça s'est vraiment simplifié donc il
+
+305
+00:24:26,940 --> 00:24:31,100
+ faut le reconnaître puisque maintenant c'est tout centralisé par ma prime rénov' qu'on va
+
+306
+00:24:31,179 --> 00:24:37,419
+ voir après bon après on a d'autres choses comme certificat d'économie d'énergie par la ce cheque
+
+307
+00:24:37,419 --> 00:24:44,219
+ énergie appel à projets on va voir ça parce que c'est le plan pluriannuel de travaux aux
+
+308
+00:24:44,219 --> 00:24:50,500
+ compropriétés on va détailler également les co-près logement social et les co-près à taux
+
+309
+00:24:50,500 --> 00:24:56,740
+ zéro et habité milieu de l'agence nationale de l'habitat de l'anar donc on va voir tout ça
+
+310
+00:25:02,099 --> 00:25:05,500
+ alors je regarde un peu les questions que vous avez mis
+
+311
+00:25:10,179 --> 00:25:16,619
+ ouais pour les audits je suis alors est ce qu'il y a un lien par liste près de chez vous pour les
+
+312
+00:25:16,619 --> 00:25:20,339
+ spécialistes en le dit alors je connais pas ce lien cristal
+
+313
+00:25:20,339 --> 00:25:31,980
+ ah oui alors pour des bureaux enfin pour certains types de ventes il n'y a que des
+
+314
+00:25:31,980 --> 00:25:36,299
+ bureaux d'études des architectes il a vu dans certains dossiers frédéric alors oui c'est
+
+315
+00:25:36,299 --> 00:25:41,819
+ possible pour par exemple des bâtiments administratifs ou des bâtiments industriels
+
+316
+00:25:41,819 --> 00:25:49,139
+ mais pas pour l'habitation alors le diaporama géraldine devrait être envoyé à tout le monde
+
+317
+00:25:49,140 --> 00:25:55,820
+ je pense alors cristal nous a mis un lien service public patrick lié vous droits
+
+318
+00:25:55,820 --> 00:25:59,580
+ regardez ça
+
+319
+00:26:09,500 --> 00:26:13,820
+ voilà donc ça c'est pour l'audit énergétique si j'ai bien compris
+
+320
+00:26:13,819 --> 00:26:19,859
+ non ça c'est pour les entreprises pour les rge c'est pour les gens qui vont faire les travaux
+
+321
+00:26:19,859 --> 00:26:22,539
+ aussi aussi et dite énergétique mais c'est bien cristal
+
+322
+00:26:28,539 --> 00:26:31,339
+ et donc est ce qu'on peut trouver
+
+323
+00:26:31,339 --> 00:26:48,619
+ mais par contre on n'a pas de liste
+
+324
+00:26:53,500 --> 00:26:59,859
+ je suis sur le site service public.fr slash particulier slash vaux droits
+
+325
+00:27:01,339 --> 00:27:12,980
+ on va revenir à la présentation on va continuer ça aussi mais je pourrais ajouter la lune si vous voulez
+
+326
+00:27:12,980 --> 00:27:22,779
+ donc dans les aides on va voir ma prime rénov' qui fonctionne depuis 2020 mais qui a été revue et
+
+327
+00:27:22,779 --> 00:27:28,019
+ centralisée surtout c'est devenu la principale aide de l'état à la rénovation énergétique et
+
+328
+00:27:28,019 --> 00:27:32,139
+ tous les propriétaires occupants ou bailleurs ainsi que les copropriétés peuvent en bénéficier
+
+329
+00:27:32,139 --> 00:27:41,460
+ donc à partir de janvier 2024 ma prime rénov' proposera de parcours type plus lisible et
+
+330
+00:27:41,460 --> 00:27:47,460
+ attractif donc là bientôt d'ici quelques semaines qui s'adapteront à la situation et aux besoins de
+
+331
+00:27:47,460 --> 00:27:54,420
+ chaque ménage grâce à la France Rénov' donc parcours accompagné pour les rénovations d'ampleur à
+
+332
+00:27:54,500 --> 00:27:58,259
+ travers des travaux de rénovation permettant un gain minimal de deux classes sur le DPE
+
+333
+00:27:58,259 --> 00:28:03,860
+ ces ménages bénéficieront d'un accompagnement systématique et d'une prime revalorisée et un
+
+334
+00:28:03,860 --> 00:28:12,820
+ parcours de rénovation par geste pour la sortie des énergies à travers des changements de
+
+335
+00:28:12,820 --> 00:28:20,300
+ chaudière et des petits bouquets de geste ce parcours sera disponible pour les ménages
+
+336
+00:28:20,299 --> 00:28:24,259
+ vivants dans une maison déjà bien isolée alors on va aller voir ça
+
+337
+00:28:30,379 --> 00:28:33,980
+ alors dossier donc c'est à partir de janvier 2024
+
+338
+00:28:43,139 --> 00:28:46,980
+ vous voyez que tout est mis en oeuvre du gouvernement pour accélérer cette rénovation énergétique
+
+339
+00:28:50,299 --> 00:28:55,099
+ oui Denis en fait les CIs sont au même titre
+
+340
+00:28:55,099 --> 00:29:09,379
+ donc là on aura tout ça donc là c'est juste un PDF qui explique comment ça va se passer puisque
+
+341
+00:29:09,379 --> 00:29:10,379
+ pour l'instant c'est pas encore en ligne
+
+342
+00:29:10,380 --> 00:29:23,740
+ alors en 2022 669 890 logements ont été rénovés grâce à ma prime rénovation dont 65 939
+
+343
+00:29:23,740 --> 00:29:30,300
+ rénovations globales et ça alors là par exemple vous avez donc le site dédié à ma prime rénovation
+
+344
+00:29:30,299 --> 00:29:42,659
+ voilà donc ça c'est le site où tout est centralisé donc nous vous aidons à réaliser
+
+345
+00:29:42,659 --> 00:29:46,500
+ la rénovation dont vous avez besoin chaque logement est différent chaque rénovation est
+
+346
+00:29:46,500 --> 00:29:52,339
+ unique donc ma prime rénovation s'adapte à votre situation vous pouvez choisir si c'est
+
+347
+00:29:52,339 --> 00:29:56,460
+ pour améliorer le confort l'économie ou l'écologie et vous avez des exemples
+
+348
+00:29:56,460 --> 00:30:05,900
+ donc là vous avez plusieurs possibilités si vous êtes propriétaire occupant ou propriétaire
+
+349
+00:30:05,900 --> 00:30:11,900
+ bailleurs ou si vous êtes un syndicat de copropriété et à partir de là en fait vous
+
+350
+00:30:11,900 --> 00:30:16,620
+ avez tout un parcours qui vous permet qu'il vous explique comment comment faire donc il faut
+
+351
+00:30:16,620 --> 00:30:21,380
+ reconnaître que c'est bien fait et que ça va vous permettre de savoir en fait à quoi vous
+
+352
+00:30:21,380 --> 00:30:26,380
+ avez droit alors il faut parier en fait on n'a pas le droit à tant de choses que ça mais ça
+
+353
+00:30:26,380 --> 00:30:34,060
+ dépend souvent des secteurs géographiques donc ça vaut le coup d'essayer alors hugh est-ce que prime
+
+354
+00:30:34,060 --> 00:30:38,860
+ rénov s'occupe de l'ensemble des aides possibles est-ce qu'un nouvel acquéreur peut en faire
+
+355
+00:30:38,860 --> 00:30:42,940
+ le demande oui tout à fait un nouvel acquéreur peut en faire la demande et puis voir à quoi il
+
+356
+00:30:43,940 --> 00:30:51,100
+ aura droit effectivement vous réalisez un projet global de travaux donc là c'est quand
+
+357
+00:30:51,100 --> 00:30:55,660
+ il vous refait tout c'est à l'isolation le chauffage peut-être que double vitrage
+
+358
+00:30:55,660 --> 00:31:05,900
+ là c'est quand on est donc propriétaire occupant propriétaire bailleurs vous avez un autre parcours
+
+359
+00:31:05,900 --> 00:31:11,180
+ parce qu'en fait là vous avez peut-être des incitations fiscales dont vous pourrez bénéficier
+
+360
+00:31:11,420 --> 00:31:20,860
+ et syndicats de compropriété également là on va parler du plan pluriannuel de travaux je vous
+
+361
+00:31:20,860 --> 00:31:26,380
+ en reparle après et ça c'est pour les représentants donc pour les syndicats qui
+
+362
+00:31:26,380 --> 00:31:32,779
+ soient syndicats professionnels ou syndicats bénévoles alors oui philippe il y aura effectivement
+
+363
+00:31:32,779 --> 00:31:40,660
+ des conditions de revenus donc ça dépend de la revue des revenus des clients alors guillaume est-ce
+
+364
+00:31:40,700 --> 00:31:45,460
+ que les acquéreurs peuvent faire une simulation avant d'être propriétaire oui oui tout à fait
+
+365
+00:31:45,460 --> 00:31:57,420
+ ils pourront savoir avant d'être propriétaire si ils peuvent bénéficier d'une aide donc je reviens
+
+366
+00:31:57,420 --> 00:32:03,300
+ voilà
+
+367
+00:32:05,300 --> 00:32:08,420
+ alors certificat d'économie d'énergie donc ça c'est autre chose
+
+368
+00:32:08,420 --> 00:32:19,580
+ vous aviez pour le passeport thermique il n'y a pas une différence entre le classement dp de
+
+369
+00:32:19,580 --> 00:32:24,060
+ l'étiquette et le classement en tenant compte de l'énergie finale n'est-ce pas une vraie
+
+370
+00:32:24,059 --> 00:32:29,220
+ différence qui nous induit en erreur si la possibilité ou non de louer encore c'est
+
+371
+00:32:29,220 --> 00:32:38,940
+ compliqué la question xavier j'ai pas compris je peux reformuler alors concernant les certificats
+
+372
+00:32:38,940 --> 00:32:42,899
+ d'économie d'énergie donc dans le cadre d'une obligation encadrée par l'état certaines
+
+373
+00:32:42,899 --> 00:32:50,019
+ entreprises donc fournisseurs de gaz d'électricité propose des primes des prêts bonifiés des
+
+374
+00:32:50,019 --> 00:32:53,940
+ diagnostics gratuits pour aider les particuliers à économiser à réaliser des économies d'énergie
+
+375
+00:32:53,940 --> 00:33:00,379
+ ça c'est autre chose en fait c'est à dire que vous pouvez avoir droit à des aides là ça dépend des
+
+376
+00:33:00,379 --> 00:33:04,180
+ revenus et normalement c'est automatique c'est à dire qu'en fonction des revenus que vous
+
+377
+00:33:04,180 --> 00:33:11,740
+ déclarer vous pouvez avoir des chèques de votre fournisseur d'électricité par exemple de gaz qui
+
+378
+00:33:11,740 --> 00:33:22,940
+ viennent alléger vos factures le certificat d'économie d'énergie donc toujours le même
+
+379
+00:33:22,940 --> 00:33:27,140
+ donc ces aides accessibles à tous sans condition de ressources sans condition de ressources
+
+380
+00:33:27,140 --> 00:33:32,980
+ je pensais que c'était conditionnaire ressources moi coup de pouce chauffage coup de pouce thermostat
+
+381
+00:33:32,980 --> 00:33:36,940
+ avec régulation performante coup de pouce isolation coup de pouce rénovation globale
+
+382
+00:33:36,940 --> 00:33:44,259
+ sans condition de ressources ça m'étonne moi
+
+383
+00:33:44,259 --> 00:33:58,860
+ on va aller voir donc dispositif certificat d'économie d'énergie donc le CEE constitue
+
+384
+00:33:58,860 --> 00:34:02,299
+ principaux instruments de politique de maîtrise de demandes énergétiques
+
+385
+00:34:02,299 --> 00:34:10,940
+ principe du dispositif alors ça c'est un vieux principe
+
+386
+00:34:14,940 --> 00:34:18,619
+ les CEE sont attribués sous certaines conditions par les services du ministère chargé de l'énergie
+
+387
+00:34:18,619 --> 00:34:24,980
+ aux acteurs éligibles obligés mais aussi d'autres personnes morales non obligées réalisant des
+
+388
+00:34:24,980 --> 00:34:28,619
+ opérations d'économie d'énergie ces actions peuvent être menées dans tous les secteurs
+
+389
+00:34:28,619 --> 00:34:34,059
+ d'activité résidentiel tertiaire industriel agricole transport sur le patrimoine des éligibles
+
+390
+00:34:34,059 --> 00:34:39,179
+ auprès des tiers qui ont incité à réaliser des économies d'énergie les obligés ont également
+
+391
+00:34:39,179 --> 00:34:43,980
+ la possibilité d'acheter des CEE à d'autres acteurs donc ce qu'on appelle les obligés je pense que
+
+392
+00:34:43,980 --> 00:34:51,139
+ c'est les fournisseurs d'électricité par exemple alors des fiches d'opérations standardisées
+
+393
+00:34:51,139 --> 00:34:55,420
+ définies par des RIT sont élaborées pour faciliter le montage d'actions d'économie
+
+394
+00:34:55,420 --> 00:34:59,780
+ d'énergie elles sont classées par secteur donc vous avez sûrement été démarché par vos propres
+
+395
+00:34:59,780 --> 00:35:06,740
+ fournisseurs d'énergie qui vous proposent des rendez-vous téléphoniques pour voir comment faire
+
+396
+00:35:06,740 --> 00:35:15,340
+ pour économiser pour éviter de trop consommer en fait et donc ces incitations leur permettent
+
+397
+00:35:15,340 --> 00:35:22,300
+ eux de toucher des primes qui vont reverser mais je suis persuadé que c'est en fonction des revenus
+
+398
+00:35:22,300 --> 00:35:23,180
+ de chacun
+
+399
+00:35:33,380 --> 00:35:40,380
+ alors bien ces primes sont souvent très compliquées à obtenir j'ai une impression effectivement il
+
+400
+00:35:40,380 --> 00:35:44,500
+ vous certifie votre éligibilité au moment de payer il trouve toujours le problème
+
+401
+00:35:44,500 --> 00:35:51,580
+ effectivement c'est pas possible guillaume oui j'en ai bénéficié pour l'installation d'un poil
+
+402
+00:35:51,579 --> 00:35:56,739
+ l'an dernier 100 euros en bord d'achat en le faisant avec au champ voilà bon bah ça c'est un exemple
+
+403
+00:35:56,739 --> 00:36:02,259
+ après ça va jamais chercher bien loin donc mais bon ce sont des petits plus qui permettent de
+
+404
+00:36:02,259 --> 00:36:12,299
+ toujours pour les gens les plus diminuissait toujours bienvenue alors effectivement fave
+
+405
+00:36:12,299 --> 00:36:18,139
+ il faut bien s'enseigner alors que zavie est selon un auditeur énergétique le c 2e sont géniaux
+
+406
+00:36:18,139 --> 00:36:22,219
+ pour les maisons de plus de 120 mètres carrés au gaz ou 200 mètres carrés en chauffage électrique
+
+407
+00:36:22,219 --> 00:36:31,420
+ pour gagner 35 % énergie c'est génial et peu le savent oui auditeurs énergétiques bien sûr c'est
+
+408
+00:36:31,420 --> 00:36:36,859
+ toujours intéressant parce que ça permet effectivement de faire des économies c'est un peu le but d'ailleurs
+
+409
+00:36:40,859 --> 00:36:45,219
+ alors c'est bien il y en a pas mal qui ont cristal aussi en est bénéficié pour un poil
+
+410
+00:36:45,219 --> 00:36:51,659
+ voilà comme quoi ça fonctionne même si c'est pas vous prennent pas en charge 50 % mais bon
+
+411
+00:36:51,659 --> 00:37:00,139
+ c'est mieux que rien alors il ya le chèque énergie qui encore différent lancé en 2018 il
+
+412
+00:37:00,139 --> 00:37:04,379
+ permet aux bénéficiaires de régler la facture d'énergie mais aussi les travaux d'économie
+
+413
+00:37:04,379 --> 00:37:10,659
+ d'énergie dans leur logement en 2021 5,7 millions de ménages bénéficient de cette aide d'un
+
+414
+00:37:10,659 --> 00:37:15,859
+ montant moyen de 150 euros il peut atteindre jusqu'à 277 euros par an le chèque énergie est
+
+415
+00:37:15,859 --> 00:37:20,179
+ attribué en fonction du niveau des revenus de l'ensemble du ménage et de sa composition il
+
+416
+00:37:20,179 --> 00:37:24,420
+ est envoyé automatiquement par voie postale au domicile des bénéficiaires chaque année au printemps
+
+417
+00:37:24,420 --> 00:37:27,099
+ bon chèque énergie
+
+418
+00:37:34,099 --> 00:37:38,299
+ olivier 2500 euros pour une pompe à chaleur alors ça c'est autre chose c'est pas le
+
+419
+00:37:38,300 --> 00:37:45,580
+ chèque énergie ou le ce là c'est toujours des petits montants en fait donc chaque énergie j'en
+
+420
+00:37:45,580 --> 00:37:52,620
+ ai eu un 100 euros voilà écoutez c'est mieux que rien les classements e et d ça va être la galère
+
+421
+00:37:52,620 --> 00:37:57,820
+ car dès qu'une maison est équipée de chauffage électrique on se retrouve en e alors ça va faire
+
+422
+00:37:57,820 --> 00:38:03,260
+ et sandrine oui effectivement un chauffage et des petits convecteurs électriques dans une maison
+
+423
+00:38:03,260 --> 00:38:09,020
+ c'est jamais très bon c'est pour ça qu'il vaut mieux passer sur alors il ya aussi des radiateurs
+
+424
+00:38:09,020 --> 00:38:16,140
+ qui sont plus économes avec de la fonte enfin qui sont qui se chargent la nuit par exemple pendant
+
+425
+00:38:16,140 --> 00:38:21,060
+ les heures creuses et qui restituent toute la journée mais sinon le mieux c'est la pompe à chaleur
+
+426
+00:38:25,900 --> 00:38:31,380
+ donc le chèque énergie vous avez un site dédié aussi du gouvernement chèqueénergie.gouv.fr
+
+427
+00:38:31,380 --> 00:38:41,420
+ donc là vous pouvez vérifier si vous pouvez en bénéficier ou pas vérifier votre éligibilité
+
+428
+00:38:41,420 --> 00:38:47,099
+ vous avez un simulateur et qui est personnalisé jusqu'après vous pouvez rentrer votre numéro
+
+429
+00:38:47,099 --> 00:39:05,420
+ fiscal. Appel à projet massier renault alors dans le cadre du plan de relance france relance le
+
+430
+00:39:05,420 --> 00:39:09,739
+ gouvernement lance un appel à projet destination des bailleurs sociaux dédiés aux rénovations
+
+431
+00:39:09,739 --> 00:39:14,699
+ énergétiques et énergétiques lourdes dotés d'une enveloppe de 40 millions d'euros massier renault doit
+
+432
+00:39:14,699 --> 00:39:18,939
+ faciliter le déploiement de rénovation industrialisée en changeant d'échelle dans
+
+433
+00:39:18,939 --> 00:39:22,980
+ le déploiement de tels rénovations en france sur le parc de logements sociaux donc l'ensemble des
+
+434
+00:39:22,980 --> 00:39:28,460
+ critères respectés est couvert par le cahier des charges énergie. Ça ça concerne ça ne concerne
+
+435
+00:39:28,460 --> 00:39:32,939
+ pas ça concerne les logements sociaux mais il faut savoir que ça existe c'est à dire qu'il y a
+
+436
+00:39:32,939 --> 00:39:38,259
+ aussi une grosse un gros programme de rénovation dans les logements sociaux et heureusement parce
+
+437
+00:39:38,260 --> 00:39:46,220
+ que souvent ce sont souvent ces logements en fait qui posent problème donc c'est une bonne
+
+438
+00:39:46,220 --> 00:39:57,780
+ chose. Energy prong alors on va pas s'attarder là dessus. C'est déployer à grande échelle des
+
+439
+00:39:57,780 --> 00:40:03,540
+ rénovations zéro énergie garantie donc en fait ça c'est pour rénover des ensembles de logements.
+
+440
+00:40:03,539 --> 00:40:11,860
+ Là on a eu des exemples. Rassemble Energy Sprong rassemble les acteurs engagés autour de valeurs
+
+441
+00:40:11,860 --> 00:40:18,659
+ communes répondant aux enjeux des bâtiments de demain. Mon programme ambitieux sur quatre clés
+
+442
+00:40:18,659 --> 00:40:25,099
+ donc énergie zéro garantie sur 30 ans les travaux réalisés très rapidement et ensuite occupés une
+
+443
+00:40:25,099 --> 00:40:29,179
+ priorité donnée au confort la satisfaction des occupants un équilibre économique.
+
+444
+00:40:33,539 --> 00:40:40,980
+ Alors le plan pluriannuel de travaux en copropriété.
+
+445
+00:40:40,980 --> 00:40:50,460
+ Pour ceux qui n'ont pas posé de questions si vous pouvez mettre un petit mot sur le
+
+446
+00:40:50,460 --> 00:40:59,619
+ chat vous savez c'est par rapport aux obligations pour le renouvellement de la carte donc n'hésitez
+
+447
+00:40:59,619 --> 00:41:04,460
+ pas à mettre un petit mot voilà toujours présente c'est bien Fabienne c'est bien Vincent super merci
+
+448
+00:41:04,460 --> 00:41:11,500
+ Véronique pour ceux qui ont posé des questions il y a deux minutes c'est pas la peine. Alors le
+
+449
+00:41:11,500 --> 00:41:15,420
+ plan pluriannuel de travaux en copropriété ça c'est quelque chose de très important et qui nous
+
+450
+00:41:15,420 --> 00:41:21,059
+ concerne en tant que l'agent commercial dans l'immobilier. Donc la loi climat résilience
+
+451
+00:41:21,059 --> 00:41:26,179
+ rend obligatoire pour les copropriétaires la réalisation d'un diagnostic de performance
+
+452
+00:41:26,179 --> 00:41:32,539
+ énergétique à l'échelle de l'immeuble et un plan de travaux sur 10 ans. Donc ce plan permettra
+
+453
+00:41:32,539 --> 00:41:36,859
+ à toutes les copropriétés de mieux anticiper et de provisionner pour les travaux afin de déclencher
+
+454
+00:41:36,859 --> 00:41:43,579
+ plus facilement une décision commune. Donc l'objectif c'est de savoir en fait en quelle
+
+455
+00:41:43,579 --> 00:41:49,579
+ performance énergétique se situe l'immeuble et non plus l'appartement et de mettre en place
+
+456
+00:41:49,579 --> 00:41:55,299
+ un audit énergétique qui va permettre de savoir quels travaux il faut faire et combien ça va
+
+457
+00:41:55,300 --> 00:42:05,460
+ coûter pour pouvoir l'étaler sur une dizaine d'années. Là aussi sur le site du gouvernement
+
+458
+00:42:55,300 --> 00:43:07,380
+ Je ne vois pas l'audit énergétique. Donc en fait ce plan pluriannuel ça revient exactement à
+
+459
+00:43:07,380 --> 00:43:12,340
+ l'audit énergétique que l'on a pour les monopropriétés qui est obligatoire aujourd'hui
+
+460
+00:43:12,340 --> 00:43:18,580
+ pour les maisons en F et G sauf que là c'est pour les immeubles. Alors aujourd'hui c'est pas encore
+
+461
+00:43:18,580 --> 00:43:24,500
+ obligatoire pour les immeubles de moins de 25 que l'eau mais ça va le devenir à partir de
+
+462
+00:43:25,219 --> 00:43:32,980
+ 2024 soit janvier soit juillet je sais plus donc on peut dire que c'est déjà en application.
+
+463
+00:43:32,980 --> 00:43:39,820
+ Ça veut dire que tous les syndics vont devoir à partir de 2024 proposer à l'ensemble des
+
+464
+00:43:39,820 --> 00:43:45,380
+ copropriétaires de faire l'audit énergétique de l'immeuble pour savoir où on va. Alors déjà
+
+465
+00:43:45,380 --> 00:43:51,300
+ l'audit énergétique d'un immeuble il faut savoir que ça va vite coûter entre 5 et 10 000 euros en
+
+466
+00:43:51,300 --> 00:44:01,300
+ fonction des bâtiments voire plus rien que l'audit et ensuite ça va chiffrer des travaux pour les
+
+467
+00:44:01,300 --> 00:44:09,500
+ dix années à venir afin de changer de classification le bâtiment donc si vous êtes en F ou en G ça
+
+468
+00:44:09,500 --> 00:44:13,980
+ va ça risque de coûter une blinde dans les dix prochaines années. Alors on peut toujours pas
+
+469
+00:44:13,980 --> 00:44:19,940
+ obliger les copropriétaires à faire les travaux mais enfin pour l'instant en tout cas mais sachez
+
+470
+00:44:19,980 --> 00:44:23,059
+ que c'est quand même obligatoire ce plan pluriannuel de travaux.
+
+471
+00:44:23,059 --> 00:44:39,260
+ Donc Eric c'est à partir de 2024 je vais passer ça sous format PDF.
+
+472
+00:44:39,260 --> 00:44:52,060
+ Alors dans les aides on a l'ECOPRES logement social, ECOPRS, qui s'adresse aux
+
+473
+00:44:52,060 --> 00:44:57,140
+ bailleurs sociaux lui aussi. Il vise à encourager la rénovation énergétique de 800 logements les
+
+474
+00:44:57,140 --> 00:45:02,420
+ plus énergivores du parc locatif social. Le montant du prêt est de 9000 à 22 000 euros par logement.
+
+475
+00:45:02,420 --> 00:45:07,140
+ Il peut être majoré de 2000 euros par logement si les travaux réalisés permettent de justifier
+
+476
+00:45:07,179 --> 00:45:11,819
+ un label réglementaire de performance énergétique et de 3000 euros par logement
+
+477
+00:45:11,819 --> 00:45:18,900
+ en cas de présence d'amiante dans le bâtiment. Là ce sont des aides et des prêts qui concernent
+
+478
+00:45:18,900 --> 00:45:32,460
+ les logements sociaux. Là aussi on est sur Ecologie.Gouv, ECOPRES logement social,
+
+479
+00:45:37,900 --> 00:45:45,739
+ 2019, 2023. Une nouvelle convention de la mise en œuvre de l'ECOPRES logement social pour
+
+480
+00:45:45,739 --> 00:45:49,819
+ l'amélioration de la performance énergétique des logements sociaux a été signée le 12 avril 2023.
+
+481
+00:45:49,819 --> 00:45:55,500
+ Les objectifs de cette nouvelle convention sont participer à l'objectif de suppression des
+
+482
+00:45:55,500 --> 00:46:01,699
+ passeurs thermiques d'ici 2027, favoriser et soutenir les rénovations performantes au sens de la loi
+
+483
+00:46:01,699 --> 00:46:06,420
+ climat résilience et faire de l'ECOPRES logement social le premier outil de réduction des émissions
+
+484
+00:46:06,579 --> 00:46:10,340
+ de gaz à effet de serre du secteur du bâtiment et de combiner ces objectifs,
+
+485
+00:46:10,340 --> 00:46:18,619
+ un dispositif simple et lisible pour le secteur social. Là on a aussi 6 milliards d'euros entre
+
+486
+00:46:18,619 --> 00:46:32,260
+ 2023 et 2027 qui ont été débloqués pour rénover tout ça. On a l'ECOPRES AtoZero, l'ECO PTZ. Lui,
+
+487
+00:46:32,660 --> 00:46:37,980
+ il est d'un montant maximum de 30 000 euros pour financer des travaux de rénovation énergétique.
+
+488
+00:46:37,980 --> 00:46:43,380
+ Il s'adresse aux propriétaires qui habitent le logement ou qui le mettent en location et les
+
+489
+00:46:43,380 --> 00:46:48,700
+ travaux doivent être réalisés par des entreprises bénéficiant de la qualification RGE, reconnue,
+
+490
+00:46:48,700 --> 00:46:55,460
+ garante de l'environnement. Donc là ça nous concerne, ça concerne nos clients, l'ECO PTZ,
+
+491
+00:46:55,460 --> 00:47:00,260
+ 30 000 euros ça commence à faire une belle somme, AtoZero ça peut être sympa.
+
+492
+00:47:03,180 --> 00:47:10,940
+ Là aussi Ecologie.Gouv, l'ECO PTZ. Alors c'est 7 000 euros en fait pour une action de travaux
+
+493
+00:47:10,940 --> 00:47:18,660
+ sur les parois vitrées, 15 000 pour une action de travaux d'une autre nature, 25 000 pour 2 pour
+
+494
+00:47:18,660 --> 00:47:24,900
+ un lot de travaux et 30 000 pour un lot de trois travaux au plus. Attention ce sont des prêts,
+
+495
+00:47:25,539 --> 00:47:33,019
+ ce ne sont pas des aides, enfin ce sont des aides sous forme de prêts. Le PTZ sur Réno en RP,
+
+496
+00:47:33,019 --> 00:47:38,700
+ oui tout à fait, résidence principale ou résidence locative.
+
+497
+00:47:38,700 --> 00:47:47,900
+ Vous devez être soit propriétaire occupant ou bailleur. Donc bon ça veut dire que ça
+
+498
+00:47:47,900 --> 00:47:54,460
+ marche pas pour les résidences secondaires effectivement. Donc soit copropriétaires
+
+499
+00:47:54,460 --> 00:47:58,539
+ occupants ou bailleurs pour financer la quota de travaux d'intérêt collectif réalisés sur
+
+500
+00:47:58,539 --> 00:48:03,380
+ les parties privatives ou des travaux réalisés sur les parties communes et équipements communs
+
+501
+00:48:03,380 --> 00:48:07,500
+ de l'immeuble. Votre logement doit avoir été construit depuis plus de deux ans à la date du
+
+502
+00:48:07,500 --> 00:48:17,420
+ début des travaux. Donc c'est aussi pour les copropriétés. Pour le 9, bah en fait le 9
+
+503
+00:48:17,420 --> 00:48:22,820
+ normalement on n'a pas besoin de rénovation puisque les bâtiments 9 sont censés respecter
+
+504
+00:48:22,820 --> 00:48:33,579
+ les normes. Donc aujourd'hui, enfin depuis 2021, normalement on n'a pas besoin de rénover,
+
+505
+00:48:33,579 --> 00:48:39,900
+ on est au moins en B quoi même si on n'est pas forcément en A. Et au pire on sait, et on sait
+
+506
+00:48:40,220 --> 00:48:48,940
+ qu'on n'est pas embêté du moins dans les 50 prochaines années. Donc ce sont des PTZ,
+
+507
+00:48:48,940 --> 00:48:54,820
+ pré-atos zéro. Alors les pré-atos zéro sont jamais vraiment à zéro mais ils sont très peu chers.
+
+508
+00:48:54,820 --> 00:49:04,340
+ Donc il faut choisir une entreprise, alors trouver la banque. Les banques en fait,
+
+509
+00:49:04,740 --> 00:49:11,019
+ toutes les banques ne sont pas concernées par le dispositif. Quand vous faites une demande,
+
+510
+00:49:11,019 --> 00:49:17,220
+ il faut passer par ces établissements là. Donc ça vous avez le lien directement sur celui qui
+
+511
+00:49:17,220 --> 00:49:25,100
+ sera dans PLF. Donc il y a les banques populaires, les BCE, les casse épargne, crédit foncier, BNP,
+
+512
+00:49:25,100 --> 00:49:32,780
+ crédit agricole, crédit mutuel, CIC, bon il y en a quand même pas mal.
+
+513
+00:49:32,780 --> 00:49:40,780
+ La plupart des banques françaises. Alors Christelle, livre pour le PTZ,
+
+514
+00:49:40,780 --> 00:49:46,660
+ autre sujet. Alors quel autre sujet Christelle ?
+
+515
+00:49:46,659 --> 00:50:04,500
+ Ah Julien, tu veux le lien ? Est-ce que vous le voyez moi si je fais ça ?
+
+516
+00:50:11,899 --> 00:50:13,460
+ Est-ce que vous avez reçu mon lien ?
+
+517
+00:50:16,899 --> 00:50:23,179
+ Impeccable, merci. Voilà, mais bon, vous inquiétez pas, vous l'aurez, il n'y a pas de souci.
+
+518
+00:50:23,179 --> 00:50:31,299
+ Alors je reviens dans mon PowerPoint. Donc Habiter mieux, donc l'Habiter mieux c'est un programme de
+
+519
+00:50:31,299 --> 00:50:35,619
+ l'Agence nationale de l'habitat, l'ANA. Donc afin de renforcer la lutte contre la précarité énergétique
+
+520
+00:50:35,619 --> 00:50:40,699
+ des ménages modestes et très modestes, le programme Habiter mieux subventionne jusqu'à
+
+521
+00:50:40,699 --> 00:50:46,259
+ 50% des travaux de rénovation énergétique permettant un gain de moins de 35% avec un
+
+522
+00:50:46,260 --> 00:50:50,220
+ plafond de travaux porté à 30 000 euros, une prime pour les sorties de passevraines
+
+523
+00:50:50,220 --> 00:50:55,060
+ énergiatiques et un bonus pour les rénovations atteignant l'étiquette A ou B qui complète
+
+524
+00:50:55,060 --> 00:51:00,660
+ le dispositif. Donc c'est maximum 30 000 plus une prime si on arrive à sortir en A ou en B.
+
+525
+00:51:00,660 --> 00:51:06,060
+ Par contre, attention là c'est vraiment pour les ménages modestes et très modestes.
+
+526
+00:51:06,059 --> 00:51:19,980
+ Alors, donc on retourne sur ma prime rénov', ma prime rénov' Sérénité. Donc en fait c'est
+
+527
+00:51:19,980 --> 00:51:26,259
+ le nouveau nom de Habiter mieux, c'est exactement la même chose. Donc le dispositif ma prime rénov',
+
+528
+00:51:26,259 --> 00:51:31,099
+ Sérénité permet de financer les travaux de rénovation globale, donc c'est ce qu'on a vu tout à
+
+529
+00:51:31,099 --> 00:51:35,699
+ l'heure. Un ensemble de travaux réalisés en même temps dans un même logement, par exemple le
+
+530
+00:51:35,699 --> 00:51:41,179
+ changement d'un système de chauffage et isolation des combles. L'aide est dédiée aux propriétaires
+
+531
+00:51:41,179 --> 00:51:47,500
+ occupants et avec des revenus modestes qui s'appliquent aux travaux permettant un gain
+
+532
+00:51:47,500 --> 00:51:55,779
+ d'énergie d'au moins 35%. Donc c'est pas 35%, ça commence à faire beaucoup. Donc c'est des
+
+533
+00:51:55,780 --> 00:52:03,019
+ gros travaux et c'est réservé aux revenus modestes. On doit avoir le barem, voilà qui est ici.
+
+534
+00:52:03,019 --> 00:52:13,940
+ Voilà donc on a ma prime rénov'. Alors il y a plusieurs catégories qui sont par couleur bleu,
+
+535
+00:52:13,940 --> 00:52:19,540
+ jaune, violet, rose. Et c'est aussi en fonction du nombre de personnes qui habitent dans l'appartement
+
+536
+00:52:20,139 --> 00:52:29,699
+ et là ce sont donc les revenus maximum pour bénéficier de ces aides. Donc Oral de France et
+
+537
+00:52:29,699 --> 00:52:41,460
+ Barem Inc de France. Guillaume nous dit à partir de janvier c'est 80% pour les très modestes.
+
+538
+00:52:41,579 --> 00:52:52,579
+ 80% de prise en charge des travaux. C'est bizarre, c'est étonnant que ça ne soit pas noté ici.
+
+539
+00:52:52,579 --> 00:53:01,579
+ Parce que là c'est actuel. Alors votre aide précisez, assurez-vous que vos travaux
+
+540
+00:53:01,579 --> 00:53:08,139
+ soient éligibles. Donc là on a le détail des aides. Alors propriétaires occupants,
+
+541
+00:53:08,139 --> 00:53:19,539
+ par exemple, innovation énergétique. Je fais ça. Mettons que ce soit une maison plus de 15 ans.
+
+542
+00:53:19,539 --> 00:53:32,980
+ Je vais mettre à Marseille. Il faut mettre les revenus. Enfin vous avez la simulation complète
+
+543
+00:53:33,460 --> 00:53:39,619
+ donc ça veut dire que avant d'acheter une maison vous êtes en mesure de faire une simulation.
+
+544
+00:53:39,619 --> 00:53:44,900
+ Donc ça peut être intéressant parce que si vous avez une maison avec des gros travaux à prévoir,
+
+545
+00:53:44,900 --> 00:53:52,619
+ en fonction du profil de vos acquéreurs, vous pouvez les sensibiliser à ces aides qui commencent
+
+546
+00:53:52,619 --> 00:53:59,740
+ à être importantes. Guillaume je vois bien le lien lors du document qui précise ça. Parce que là
+
+547
+00:53:59,819 --> 00:54:15,579
+ je ne le vois pas. Ma prime Rénov Sérénité va vous bénéficier de l'accompagnement d'un professionnel,
+
+548
+00:54:15,579 --> 00:54:20,699
+ un accompagnateur Rénov. Il vous aide à définir et réaliser vos travaux pour qu'ils soient adaptés
+
+549
+00:54:20,699 --> 00:54:25,619
+ à votre habitat et votre situation tout au long des différentes étapes de votre projet. Diagnostique
+
+550
+00:54:25,619 --> 00:54:30,739
+ de votre logement, définition et chiffrage de vos projets et enfin réalisation des démarches pour
+
+551
+00:54:30,739 --> 00:54:33,859
+ obtenir toutes les aides financières. Donc vous avez aussi quelqu'un qui peut vous accompagner.
+
+552
+00:54:33,859 --> 00:54:41,380
+ Voilà et là vous pouvez faire une demande de subvention. Après c'est vrai que c'est pas noté
+
+553
+00:54:41,380 --> 00:54:43,179
+ le maximum.
+
+554
+00:54:43,179 --> 00:54:56,259
+ Alors c'est vrai que comme dit Christelle, acheter avec des faibles revenus, je ne suis pas convaincu
+
+555
+00:54:56,259 --> 00:55:03,299
+ de l'utilité de la chose. Ce n'est pas faux. Surtout vu aujourd'hui les taux des banques,
+
+556
+00:55:03,299 --> 00:55:08,539
+ c'est vrai que quand on a des faibles revenus, ça devient compliqué d'acheter. Mais des fois,
+
+557
+00:55:08,940 --> 00:55:14,420
+ on va faire le test de Propos S.P.I.E.R. 40 000 pour 4 personnes.
+
+558
+00:55:14,420 --> 00:55:37,619
+ Alors, propriété réoccupant, rénovation énergétique, maison,
+
+559
+00:55:37,699 --> 00:55:43,420
+ plus de 15 ans. Je vais mettre localisation.
+
+560
+00:55:43,420 --> 00:55:52,619
+ Mettre dans le bar 33. Où est-ce que je peux mettre ?
+
+561
+00:55:52,619 --> 00:56:13,219
+ Je vais mettre une ville. 40 000.
+
+562
+00:56:23,619 --> 00:56:26,219
+ On va faire un peu d'isolation.
+
+563
+00:56:40,219 --> 00:56:46,139
+ Vous êtes éligible à 3Z. Donc là j'ai pris 40 000 € 4 personnes.
+
+564
+00:56:46,139 --> 00:56:55,420
+ Après, ça dépend des régions, mais avec 40 000 €, on peut commencer à acheter 50% du montant
+
+565
+00:56:55,420 --> 00:56:59,659
+ total des travaux dans la limite de 12 250 €. C'est pas rien quand même.
+
+566
+00:56:59,659 --> 00:57:04,059
+ Donc ça, c'est pour financer des travaux de rénovation globale.
+
+567
+00:57:06,059 --> 00:57:09,099
+ C'est ma pré-Brenov, c'est l'hérité, c'est la réunité. Et ma pré-Brenov,
+
+568
+00:57:09,099 --> 00:57:13,779
+ accessible à tous et à toutes. C'est la principale aide de l'État,
+
+569
+00:57:13,900 --> 00:57:19,660
+ au montant des travaux. Isolation des parois vitrées, 80 € par équipement.
+
+570
+00:57:19,660 --> 00:57:23,980
+ Isolation du plancher bas, c'est pas prévu. Isolation des combles perdus,
+
+571
+00:57:23,980 --> 00:57:34,580
+ non. Et pompe à chaleur, 3000 €. Donc en fait, on peut arriver ici jusqu'à 12 250 € et 3000 €
+
+572
+00:57:34,580 --> 00:57:40,340
+ ici de pompe à chaleur. Ça commence à faire une petite somme qui est quand même intéressante.
+
+573
+00:57:44,100 --> 00:57:49,060
+ Et l'obtention d'un prêt avec un apport de 50 000 €. Ah oui, pourquoi pas.
+
+574
+00:57:49,060 --> 00:57:59,580
+ Alors je regarde, il y a Guillaume qui m'a envoyé. Je regarde ça, j'arrive tout de suite.
+
+575
+00:58:13,780 --> 00:58:27,260
+ On va voir ça tout de suite. Ah mais c'est particulier à un département du coup.
+
+576
+00:58:27,260 --> 00:58:29,580
+ Je vais mettre sur l'écran.
+
+577
+00:58:43,780 --> 00:58:54,380
+ Pourquoi il me calme ? J'arrive pas à envoyer.
+
+578
+00:58:54,380 --> 00:59:03,420
+ 80 %, alors attendez, ici je vais prendre directement là. Je vends deux petites secondes.
+
+579
+00:59:13,780 --> 00:59:42,660
+ Voilà, donc là on a le document de Guillaume.
+
+580
+00:59:42,659 --> 00:59:53,339
+ Alors effectivement, on voit que le pays de l'île en périgord. Donc est-ce que c'est,
+
+581
+00:59:53,339 --> 00:59:58,739
+ peut-être c'est la région qui fait ça. C'est fort possible. Donc travaux permettant deux
+
+582
+00:59:58,739 --> 01:00:04,219
+ sceaux de classe énergétique, 80 % dans la limite de 32 000 €, 60 % pour les modestes.
+
+583
+01:00:04,219 --> 01:00:07,339
+ La fonte dépense 40 000 €.
+
+584
+01:00:07,340 --> 01:00:20,500
+ C'est la communauté de communes. Donc avec les aides de, je ne pense pas que ce soit comme ça
+
+585
+01:00:20,500 --> 01:00:25,820
+ dans toutes les régions. Je sais qu'il y a des départements, des régions qui ont leurs propres
+
+586
+01:00:25,820 --> 01:00:29,740
+ aides également, qui viennent compléter. Bon là ça fait un gros complément.
+
+587
+01:00:29,739 --> 01:00:42,659
+ Alors Frédéric, quelle est l'année des ressources pré-en-compte N-1, N-2 ? C'est une bonne question.
+
+588
+01:00:42,659 --> 01:00:43,739
+ On va revenir dessus.
+
+589
+01:00:43,739 --> 01:01:05,099
+ Alors votre revenu fiscal de référence se trouve sur la première page de votre dernier avis,
+
+590
+01:01:05,099 --> 01:01:09,659
+ dernier avis d'imposition sur le revenu. Donc c'est le dernier avis d'imposition qui est valable.
+
+591
+01:01:09,659 --> 01:01:23,699
+ Voilà. Moi je pense sincèrement que c'est à prendre en compte. Il faut en parler à vos clients.
+
+592
+01:01:23,699 --> 01:01:30,779
+ Il faut peut-être garder ce lien également avec vous. Ça permet d'envoyer ça à vos clients qui
+
+593
+01:01:30,779 --> 01:01:37,500
+ peuvent faire la simulation. Et du coup ça peut, pourquoi pas, leur apporter un complément. Moi
+
+594
+01:01:37,500 --> 01:01:47,539
+ je pense qu'il faut, si c'est accessible, il faut en profiter. Donc ça c'était donc l'ANA.
+
+595
+01:01:47,539 --> 01:01:56,300
+ Maintenant on va voir le parcours des ménages. Donc comment accéder à tout ça. C'est ça qu'il
+
+596
+01:01:56,300 --> 01:02:00,579
+ faudrait peut-être communiquer à vos clients. Donc à partir de 2022, France Rénov, le service
+
+597
+01:02:00,579 --> 01:02:05,699
+ public de la rénovation de l'habitat, est le point d'entrée unique pour tous les parcours de
+
+598
+01:02:05,699 --> 01:02:10,539
+ travaux. Il donne aux français un égal accès à l'information, les orients tout au long de
+
+599
+01:02:10,539 --> 01:02:14,980
+ leurs projets de rénovation et assure également une mission sociale auprès des ménages aux revenus
+
+600
+01:02:14,980 --> 01:02:20,819
+ les plus modestes. Ce réseau organisé avec le concours des régions propose plus de 450 guichets,
+
+601
+01:02:20,819 --> 01:02:25,779
+ l'espace conseil France Rénov, sur tout le territoire. Il s'articule de façon complémentaire
+
+602
+01:02:25,779 --> 01:02:30,379
+ avec les programmes locaux d'amélioration de l'habitat conduit par les collectivités territoriales.
+
+603
+01:02:30,380 --> 01:02:36,220
+ Donc en fait il est complémentaire. C'est important aussi de se renseigner auprès des
+
+604
+01:02:36,220 --> 01:02:42,180
+ collectivités territoriales puisqu'on a vu que ça pouvait être assez énorme les aides.
+
+605
+01:02:42,180 --> 01:02:48,660
+ Donc ça vient se compléter, c'est cumulable. Il y a quand même de vrais efforts qui ont été
+
+606
+01:02:48,660 --> 01:02:50,140
+ faits au niveau du gouvernement à ce niveau là.
+
+607
+01:02:50,139 --> 01:03:03,019
+ Voilà donc ça c'est le lien. Je pense que c'est le lien qu'il faut garder. Je vais vous l'envoyer
+
+608
+01:03:03,019 --> 01:03:07,819
+ également et que vous pouvez communiquer à vos acquereurs potentiels, alors peut-être pas avant
+
+609
+01:03:07,819 --> 01:03:11,900
+ la visite mais à l'issue d'une première visite qui pourrait se passer, qui pourrait bien se passer.
+
+610
+01:03:11,900 --> 01:03:17,099
+ Vous faites une petite découverte financière et pourquoi pas alors parler de cette possibilité
+
+611
+01:03:17,339 --> 01:03:21,339
+ à partir du moment où vous avez affaire à une maison qui n'est pas très bien classée.
+
+612
+01:03:21,339 --> 01:03:43,259
+ Effectivement à Mdélatif on a une obligation de conseil, vous avez des clients et c'est pour ça
+
+613
+01:03:43,340 --> 01:03:49,060
+ aussi que c'est important, ces formations qui sont obligatoires, qui sont un peu réplamatives,
+
+614
+01:03:49,060 --> 01:03:55,260
+ c'est parce qu'on se doit de connaître, pas par cœur bien sûr tout ça, mais on doit savoir que
+
+615
+01:03:55,260 --> 01:04:00,700
+ ça existe pour justement conseiller nos clients et surtout que mon avis ça peut faire une différence.
+
+616
+01:04:00,700 --> 01:04:05,500
+ C'est à dire que si vous faites la différence parce que vous êtes de bons conseils et que vous
+
+617
+01:04:05,500 --> 01:04:09,740
+ leur faites gagner ne serait-ce que 10 000 euros parce qu'ils viennent de découvrir qu'ils ont
+
+618
+01:04:09,739 --> 01:04:18,459
+ accès à In-Ed, c'est plutôt un très bon conseil. Regardez bien ça, je vous a envoyé le lien,
+
+619
+01:04:18,459 --> 01:04:33,059
+ on va continuer. Attention aux arnaques, effectivement vous avez sûrement eu des coups de fil comme ça
+
+620
+01:04:33,059 --> 01:04:37,779
+ où en fait on vous parle de rénovation énergétique, donc il y a beaucoup de plateformes
+
+621
+01:04:37,940 --> 01:04:44,300
+ téléphoniques en fait qui font du démarchage à voutrance, qui disent parfois n'importe quoi,
+
+622
+01:04:44,300 --> 01:04:49,660
+ qui vont vous dire qu'ils vont rénover pour un euro, que c'est gratuit etc. Donc il faut absolument
+
+623
+01:04:49,660 --> 01:04:54,460
+ se méfier de tout ça et il faut faire une action proactive, c'est à dire dans le sens qu'il faut
+
+624
+01:04:54,460 --> 01:04:59,060
+ aller chercher l'information et il faut pas attendre qu'elle arrive à vous. Là je parle pour les
+
+625
+01:04:59,060 --> 01:05:06,860
+ clients, sensibiliser les en leur disant si vous êtes démarché par ces gens là, prenez en note
+
+626
+01:05:06,860 --> 01:05:12,260
+ mais n'acceptez aucun rendez-vous et allez faire la démarche vous même sur le site de France Renov
+
+627
+01:05:12,260 --> 01:05:19,099
+ parce qu'il y a énormément d'arnaques, les entreprises se jettent là dessus en fait. Comme
+
+628
+01:05:19,099 --> 01:05:24,099
+ tout le monde entend parler de l'aide de prime pour la rénovation énergétique, ils s'engouffrent
+
+629
+01:05:24,099 --> 01:05:28,620
+ là dedans. Alors non seulement il n'y a pas d'aide par rapport à ces entreprises qui vont faire des
+
+630
+01:05:28,620 --> 01:05:33,260
+ travaux et souvent ils font n'importe quoi comme travaux, donc il faut être vigilant à ce niveau là.
+
+631
+01:05:37,860 --> 01:05:42,740
+ Le démarchage est interdit donc c'est forcément que il n'y en a que tout à fait.
+
+632
+01:05:48,740 --> 01:05:54,500
+ Il y a des trucs même catastrophiques, on va en profiter je vais vous montrer parce qu'on a du
+
+633
+01:05:54,500 --> 01:06:02,539
+ temps. Il faut tenir deux heures sur un sujet comme ça c'est quand même pas évident. Alors
+
+634
+01:06:02,539 --> 01:06:12,340
+ tu n'as pas longtemps, je vous laisse regarder ça.
+
+635
+01:07:03,539 --> 01:07:05,340
+ Apparemment vous m'entendez toujours ?
+
+636
+01:07:15,019 --> 01:07:19,340
+ Oui ? Ah la vidéo vous ne l'entendez pas, bon on laisse tomber. En fait c'était une vidéo qui
+
+637
+01:07:19,340 --> 01:07:25,539
+ expliquait le cadre d'une personne, mais comme il y en a beaucoup qui se sont fait démarcher par
+
+638
+01:07:25,539 --> 01:07:31,340
+ des gens qui ont montré des documents soi-disant officiels, qui ont fait remplir des dossiers pour
+
+639
+01:07:31,420 --> 01:07:35,620
+ avoir droit à des aides et qui ont fait des travaux, des travaux qui servaient à rien puisqu'en fait
+
+640
+01:07:35,620 --> 01:07:41,500
+ ils ont rénové une maison, ils ont simplement installé une pompe à chaleur dans une maison
+
+641
+01:07:41,500 --> 01:07:48,820
+ qui était classée FUG et qui n'était pas du tout isolée et en fait c'est comme si ça ne sert à rien
+
+642
+01:07:48,820 --> 01:07:54,900
+ parce qu'en fait du coup la pompe à chaleur va tourner de manière exagérée du coup ça va
+
+643
+01:07:54,900 --> 01:07:59,019
+ consommer davantage et ce n'est pas pour autant qu'il n'y aura pas de déperdition d'énergie.
+
+644
+01:08:01,980 --> 01:08:04,500
+ La vidéo avait du son, je ne sais pas pourquoi ça ne passe pas dans le...
+
+645
+01:08:04,500 --> 01:08:10,620
+ ça ne passe pas, je ne sais pas s'il fallait faire une manip, mais bon c'est pas grave,
+
+646
+01:08:10,620 --> 01:08:17,900
+ c'était juste pour vous donner un exemple. Alors l'objectif de l'État qui est aussi l'objectif
+
+647
+01:08:17,900 --> 01:08:24,539
+ de l'Europe, en fait c'est européen toutes ces directives et là vous m'entendez toujours ?
+
+648
+01:08:24,539 --> 01:08:36,380
+ Oui, c'est assuré d'accord. Ah oui, merci. Alors donc l'objectif de l'État c'est ne plus
+
+649
+01:08:36,380 --> 01:08:41,460
+ avoir aucun bâtiment classé en dessous de D d'ici 2034 et passer progressivement de la RT
+
+650
+01:08:41,460 --> 01:08:51,300
+ 2012 à la RE 2020, donc rénovation énergétique 2020, des bâtiments à énergie positive donc
+
+651
+01:08:51,340 --> 01:08:56,779
+ qui vont permettre de produire ce qu'ils consomment et pour obtenir la neutralité carbone,
+
+652
+01:08:56,779 --> 01:09:01,460
+ l'équilibre entre l'émission et l'absorption de CO2. Et en 2050,
+
+653
+01:09:01,460 --> 01:09:06,779
+ vraiment plus aucun bâtiment en dessous de la lettre B. C'est très ambitieux,
+
+654
+01:09:06,779 --> 01:09:13,539
+ je ne sais pas si on y arrivera, ça va sûrement coûter très cher, en tout cas ce sont les objectifs.
+
+655
+01:09:13,539 --> 01:09:26,739
+ Voilà, une explication par le groupe Saint-Gobain, les différences avec RT 2012 et RE 2020 ce sont
+
+656
+01:09:26,739 --> 01:09:32,619
+ les normes de construction. Depuis 2012, RT 2012 elle a été obligatoire mais pas en 2012,
+
+657
+01:09:32,619 --> 01:09:42,619
+ c'était en 2018 et la RE 2020, donc nous allons la voir maintenant, donc ça consiste, donc RE 2020
+
+658
+01:09:42,619 --> 01:09:49,340
+ ça sera à partir de, c'est à partir depuis 2023 en fait qu'il est obligatoire, ça concerne
+
+659
+01:09:49,340 --> 01:09:56,380
+ donc les bâtiments neufs uniquement bien sûr, c'est à dire que les nouvelles constructions doivent
+
+660
+01:09:56,380 --> 01:10:04,500
+ absolument respecter cette performance énergétique. Donc en fait c'est l'amélioration de la
+
+661
+01:10:04,500 --> 01:10:10,260
+ performance énergétique des bâtiments neufs et utiliser des énergies moins carbonées. C'est aussi
+
+662
+01:10:10,300 --> 01:10:16,980
+ diminuer l'impact des bâtiments sur le changement climatique et assurer le confort estival dans
+
+663
+01:10:16,980 --> 01:10:20,699
+ les bâtiments, c'est à dire qu'en fait on estime qu'il vaut mieux jouer sur l'isolation
+
+664
+01:10:20,699 --> 01:10:25,699
+ que sur la climatisation. C'est pour ça que la climatisation c'est pas quelque chose qui,
+
+665
+01:10:25,699 --> 01:10:30,380
+ alors c'est vrai que la pompe à chaleur a un rapport, une performance très intéressante,
+
+666
+01:10:30,380 --> 01:10:37,180
+ mais en fait le mieux, l'énergie, enfin la plus économique c'est celle qu'on ne consomme pas,
+
+667
+01:10:37,180 --> 01:10:42,539
+ donc du coup plus les bâtiments seront isolés et moins on aura besoin de consommer aussi bien de
+
+668
+01:10:42,539 --> 01:10:59,220
+ climatisation que de chauffage. Alors on a été rapide, est-ce que vous avez des questions ?
+
+669
+01:10:59,220 --> 01:11:10,140
+ On a fait le tour, on a encore trois quarts d'heure, donc est-ce que vous avez des questions ?
+
+670
+01:11:10,140 --> 01:11:16,100
+ Attendez je reprends la question. Est-ce que vous voulez aussi que je débloque un micro, un démicro ?
+
+671
+01:11:16,100 --> 01:11:23,619
+ Alors Isabelle, quand on a déjà obtenu une frémérée neuve, peut-on bénéficier à nouveau
+
+672
+01:11:23,619 --> 01:11:27,220
+ pour une nouvelle maison ? Ça c'est une bonne question.
+
+673
+01:11:53,619 --> 01:12:22,099
+ Je ne saurais pas, c'est peut-être écrit quelque part mais bon on va pas suivre.
+
+674
+01:12:22,180 --> 01:12:26,220
+ Je ne saurais pas vous dire si on peut l'utiliser plusieurs fois, dans l'année ça m'étonnerait,
+
+675
+01:12:26,220 --> 01:12:31,220
+ par contre sur une année suivante pourquoi pas, mais à vérifier.
+
+676
+01:12:31,220 --> 01:12:36,420
+ Alors oui Marjorie, je peux chanter une chanson, ça peut être pas mal,
+
+677
+01:12:36,420 --> 01:12:39,700
+ mais si il ne pleut pas encore chez vous ça va pas tarder.
+
+678
+01:12:39,700 --> 01:12:46,020
+ Non Marjorie, je ne peux pas diffuser la vidéo.
+
+679
+01:12:46,020 --> 01:12:52,100
+ Alors Fabienne, est-ce que je peux avoir le nom de la vidéo ?
+
+680
+01:12:52,100 --> 01:12:56,580
+ Oui, je vais vous mettre le lien de la vidéo, comme ça ça sera plus simple.
+
+681
+01:12:56,580 --> 01:13:05,780
+ Alors Guillaume nous dit normalement oui c'est pas possible.
+
+682
+01:13:05,780 --> 01:13:14,180
+ Yannick me dit qu'il a eu le droit, alors que c'est le droit à ma frémérée neuve deux fois de suite,
+
+683
+01:13:14,180 --> 01:13:23,619
+ d'accord.
+
+684
+01:13:23,619 --> 01:13:26,820
+ Est-ce que c'est dans la même année Yannick ou c'est deux années consécutives ?
+
+685
+01:13:26,820 --> 01:13:42,579
+ D'accord donc sur deux années consécutives, deux fois ma frémérée neuve, donc déjà c'est une bonne chose,
+
+686
+01:13:42,579 --> 01:13:45,619
+ donc ça veut dire que ça dépend pas du fait qu'on l'ait déjà obtenu.
+
+687
+01:15:13,300 --> 01:15:17,619
+ Vous m'entendez là ? C'est bon ?
+
+688
+01:15:17,619 --> 01:15:24,579
+ Oui, c'est quand je mets la vidéo, je sais pas pourquoi ça bug.
+
+689
+01:15:24,579 --> 01:15:27,859
+ Donc là je vous ai envoyé le lien, vous regarderez ça.
+
+690
+01:15:27,859 --> 01:15:32,340
+ Alors qu'est-ce qu'il y avait comme question ?
+
+691
+01:15:32,340 --> 01:15:41,739
+ Alors le CE, vous avez nous dit, le CE c'est gratuit quel que soit les revenus pour isolation,
+
+692
+01:15:41,979 --> 01:15:46,699
+ sous-toiture, isolation sous sol, plus pompe à chaleur, jusqu'à juste 1€.
+
+693
+01:15:46,699 --> 01:15:52,059
+ Il faut une maison classée en FG voire E avec 35% d'économie à la clé.
+
+694
+01:15:52,059 --> 01:15:59,819
+ J'ai des gros doutes Xavier parce que moi j'ai le cas et ils ont pas droit.
+
+695
+01:16:12,699 --> 01:16:17,179
+ Et Sandrine nous dit, c'est bizarre mais la prime rénovation on peut l'avoir deux fois sans délai.
+
+696
+01:16:17,179 --> 01:16:21,659
+ Bah oui, en fait c'est vrai qu'à partir du moment où vous avez rénové une maison,
+
+697
+01:16:21,659 --> 01:16:24,859
+ vous en rénové une deuxième, de toute façon l'objectif il est le même,
+
+698
+01:16:24,859 --> 01:16:31,260
+ c'est rénover l'ensemble du parc immobilier, donc quelque part ça se justifie.
+
+699
+01:16:31,260 --> 01:16:43,020
+ Alors Eric, une question pour la constitution de l'audit énergétique.
+
+700
+01:16:43,020 --> 01:16:50,739
+ Le diagnostiqueur a accès à une base de prix artisan je crois, on sait où la trouver.
+
+701
+01:16:50,739 --> 01:16:54,539
+ Alors la base des prix artisans, non moi ça je l'ai pas.
+
+702
+01:16:54,539 --> 01:16:58,619
+ Après l'audit énergétique ça dépend en fait des entreprises,
+
+703
+01:16:59,579 --> 01:17:03,859
+ vous avez des entreprises qui font des audits énergétiques, qui travaillent avec des entreprises
+
+704
+01:17:03,859 --> 01:17:10,180
+ qui sont RGE et qui ont de réels devis, c'est à dire qu'à partir du moment où ils viennent faire
+
+705
+01:17:10,180 --> 01:17:16,019
+ l'audit, ils transmettent ça à leurs entreprises et ils font un devis qui est actable, c'est à dire
+
+706
+01:17:16,019 --> 01:17:22,019
+ dans le sens où si votre client veut faire travailler, enfin veut conserver ces prix là,
+
+707
+01:17:22,019 --> 01:17:24,300
+ il peut faire travailler des entreprises qui ont fait des devis.
+
+708
+01:17:24,300 --> 01:17:28,500
+ Donc ça dépend vraiment de chaque entreprise qui font l'audit, soit c'est grosso modo
+
+709
+01:17:28,500 --> 01:17:37,739
+ c'est un budget approximatif, soit c'est un devis qui peut être tout à fait respecté par l'entreprise qui a fait son devis.
+
+710
+01:17:46,500 --> 01:17:51,460
+ Isolation des combles à 1 euro ça marche, alors ça marchait en fait, ça marchait je crois que c'est fini ça.
+
+711
+01:17:51,460 --> 01:17:56,300
+ Effectivement Xavier, ça peut être selon les régions parce qu'en fait il y a de gros écarts
+
+712
+01:17:56,380 --> 01:18:02,500
+ d'une région à l'autre, on a vu c'est Bertrand qui nous a montré là ce qu'il avait sur sa région,
+
+713
+01:18:02,500 --> 01:18:04,020
+ ça moi je l'ai pas du tout ici.
+
+714
+01:18:04,020 --> 01:18:09,779
+ Oui Denis, je commence à retravailler mes cas.
+
+715
+01:18:09,779 --> 01:18:19,539
+ Alors les artisans doivent être obligatoirement être RGE, dit Geraldine, tout à fait, donc RGE,
+
+716
+01:18:20,300 --> 01:18:27,739
+ il faut absolument avoir cette norme sinon les primes ne vont pas fonctionner donc c'est super important.
+
+717
+01:18:27,739 --> 01:18:31,939
+ Mais de toute façon ce qu'il faut voir et ce qu'il faut dire à vos clients c'est qu'il faut
+
+718
+01:18:31,939 --> 01:18:38,500
+ passer par un conseiller de ma prime Réunove, au moins on est sûr de ne pas se faire avoir et de
+
+719
+01:18:38,500 --> 01:18:43,899
+ pas se retrouver le bec dans l'eau une fois les travaux faits. Parce qu'en fait les travaux doivent
+
+720
+01:18:43,899 --> 01:18:48,819
+ être faits et payés avant d'obtenir les aides, ça c'est le côté moins sympa.
+
+721
+01:18:58,819 --> 01:19:06,579
+ Alors Sandrine, il est effectivement possible d'obtenir les aides ma prime Réunove de l'ANA
+
+722
+01:19:06,579 --> 01:19:11,579
+ plusieurs fois pour des travaux différents réalisés dans le même logement, en revanche
+
+723
+01:19:11,819 --> 01:19:16,420
+ dans le cadre d'une demande pour ma prime Réunove Serenité, l'aide est plafonnée à un montant
+
+724
+01:19:16,420 --> 01:19:21,579
+ maximum de 20 000 euros valable pour une durée de cinq ans. Ah bah c'est bien, on n'avait pas
+
+725
+01:19:21,579 --> 01:19:27,899
+ d'infos. Donc ma prime Réunove oui, ma prime Réunove Serenité c'est pour cinq ans.
+
+726
+01:19:27,899 --> 01:19:32,139
+ Et pour un montant de 20 000 euros.
+
+727
+01:19:32,139 --> 01:19:45,099
+ Alors Véronique, c'est faux, les artisans ne sont pas dans l'obligation d'être RGE car mon mari
+
+728
+01:19:45,099 --> 01:19:51,139
+ couvreur en auto entreprise a le droit de faire deux dossiers par an avec des aides sans pour
+
+729
+01:19:51,139 --> 01:19:56,819
+ autant avoir le titre RGE. C'est bizarre parce que c'est pas du tout ce qui est dit dans le
+
+730
+01:19:57,059 --> 01:20:03,979
+ site du gouvernement. Peut-être qu'il connaît les bonnes personnes, je ne sais pas mais je
+
+731
+01:20:03,979 --> 01:20:07,939
+ m'y risquerai pas moi. Désolé pour votre mari.
+
+732
+01:20:15,939 --> 01:20:20,019
+ Denis demande si les travaux effectués en 2023 peuvent-ils entrer dans la ma prime Réunove
+
+733
+01:20:20,220 --> 01:20:29,940
+ 2024. Il faut faire la demande avant de faire les travaux. Si les travaux sont faits, c'est trop tard.
+
+734
+01:20:29,940 --> 01:20:41,500
+ Alors Pierre nous dit qu'il a un copain qui fait un bouquet de travaux 1 euro au lieu de 39 000 euros
+
+735
+01:20:41,500 --> 01:20:47,020
+ de pompe à chaleur, un peu d'isolation, il n'a pas avancé d'argent et bah il a de la chance. Parce
+
+736
+01:20:47,100 --> 01:20:52,180
+ que le principe en fait c'est qu'on avance et après on a la prime. On voit qu'il y a un peu de tout.
+
+737
+01:20:52,180 --> 01:21:00,060
+ Mais en fait tout ça ça paraît très clair la rénovation énergétique mais c'est un beau bordel
+
+738
+01:21:00,060 --> 01:21:06,180
+ en fait. C'est à dire que comme d'habitude au niveau du gouvernement il y a ce qui est écrit et puis après
+
+739
+01:21:06,180 --> 01:21:11,940
+ il y a ce qui se passe. Il y en a qui bénéficient de certaines choses et d'autres pas. Donc ça dépend
+
+740
+01:21:12,179 --> 01:21:18,419
+ des régions sans doute. Mais en tout cas ce qu'on a vu c'est dans le site du gouvernement,
+
+741
+01:21:18,419 --> 01:21:25,219
+ c'est ce qui est écrit, ce qui fait froid et si vous faites des travaux et vous voulez vous
+
+742
+01:21:25,219 --> 01:21:32,419
+ faire rembourser après ça risque de coincer. Et peut-être qu'il avait fait la demande avant
+
+743
+01:21:32,419 --> 01:21:37,379
+ et qu'il a eu la prime avant et qu'il a négocié un délai de paiement avec les entreprises,
+
+744
+01:21:37,380 --> 01:21:45,260
+ ça c'est possible aussi. Oui Sandrine, RGE est obligatoire. Je ne sais pas comment s'est
+
+745
+01:21:45,260 --> 01:21:49,260
+ débrouillé Véronique, enfin le mari de Véronique mais normalement c'est obligatoire.
+
+746
+01:21:56,539 --> 01:22:01,500
+ Alors peut-être qu'il est, qu'il fait partie d'un groupement d'entrepreneurs, Véronique,
+
+747
+01:22:01,500 --> 01:22:06,380
+ votre mari, et que ce groupement est RGE. Ce qui expliquerait pourquoi il en bénéficie.
+
+748
+01:22:06,380 --> 01:22:18,460
+ Alors Denis, les SCI c'est pareil hein. C'est à dire qu'on est soumis à la même
+
+749
+01:22:18,460 --> 01:22:23,980
+ réglementation. Alors sauf que pour les Z ça risque d'être plus compliqué parce que
+
+750
+01:22:23,980 --> 01:22:28,539
+ ça dépend qui est dans la SCI. Si vous êtes plusieurs là du coup les revenus vont dépasser.
+
+751
+01:22:28,539 --> 01:22:33,500
+ Alors pour les Z qui sont soumis à revenus ça va, à mon avis ça va pas le faire.
+
+752
+01:22:33,500 --> 01:22:47,819
+ Patrick, les travaux fait soi-même ça ne rentre pas dans le système, c'est pas possible.
+
+753
+01:22:47,819 --> 01:23:00,899
+ Alors oui Pierre effectivement moi non plus j'ai essayé, j'ai le droit à rien. Donc il y a plein
+
+754
+01:23:00,899 --> 01:23:06,379
+ de gens qui ne sont pas concernés. Les travaux de couverture peuvent-ils entrer dans le système
+
+755
+01:23:06,379 --> 01:23:14,019
+ de demande de N.I. ? Couverture je pense pas parce qu'en fait c'est pas l'isolation c'est dans les
+
+756
+01:23:14,019 --> 01:23:19,539
+ combles mais pas la couverture. Isolation extérieure par contre ça marche bien tout à fait ça fait
+
+757
+01:23:19,539 --> 01:23:24,139
+ partie des travaux. Xavier nous dit non il n'y a pas d'avance effectivement il n'y a pas d'avance.
+
+758
+01:23:24,139 --> 01:23:28,979
+ Il peut y avoir peut-être un différent paiement des entreprises mais les prix ne sont pas versés
+
+759
+01:23:28,979 --> 01:23:37,099
+ d'avance. Amdélatif effectivement j'ai ma belle-soeur qui en a bénéficié et n'a payé que le reste à
+
+760
+01:23:37,099 --> 01:23:45,699
+ charge. C'est parce qu'elle s'est rangée avec les entreprises. Alors Véronique me confirme que
+
+761
+01:23:45,699 --> 01:23:51,379
+ c'est probablement la CAPEB qui permet deux chantiers par an sans RGE. D'accord donc la CAPEB
+
+762
+01:23:51,380 --> 01:24:07,699
+ ça ne regroupe pas en fait. Pour LSEI c'est suivant les revenus fonciers. Oui ça dépend parce que
+
+763
+01:24:07,699 --> 01:24:14,699
+ vous êtes aussi en LSEI et être propriétaire occupant donc bon c'est assez rare mais c'est
+
+764
+01:24:15,059 --> 01:24:22,420
+ possible. Et alors Marjoie nous dit pour avoir les aides il faut toucher trois pôles. Genre
+
+765
+01:24:22,420 --> 01:24:39,260
+ fenêtre, isolation, chauffage. Oui c'est ce qu'on a vu tout à l'heure. Alors
+
+766
+01:24:39,260 --> 01:24:44,380
+ on avait vu ici
+
+767
+01:24:52,380 --> 01:24:54,659
+ c'est ce qu'on appelle la rénovation globale donc
+
+768
+01:25:05,140 --> 01:25:05,900
+ on ne sait pas ici
+
+769
+01:25:10,260 --> 01:25:11,260
+ Et moi
+
+770
+01:25:26,520 --> 01:25:30,280
+ oui
+
+771
+01:25:30,279 --> 01:25:51,000
+ Alors ça c'est ma prime réunion à tous, la rénovation énergétique de son vagement.
+
+772
+01:25:51,000 --> 01:26:02,520
+ On n'a pas le parcours accompagné de cumulables là.
+
+773
+01:26:16,520 --> 01:26:17,560
+ Les plafonds.
+
+774
+01:26:21,000 --> 01:26:37,680
+ Alors Véronique nous dit l'isolation des combles par l'aine de verre soufflé sous la toiture est
+
+775
+01:26:37,680 --> 01:26:42,840
+ possible avec des aides. Oui ça fait partie de tout ce qui est isolation en fait. Donc les tuiles
+
+776
+01:26:42,840 --> 01:26:48,359
+ non mais par contre tout ce qui est isolation dans les combles oui ça en fait partie. Donc
+
+777
+01:26:48,599 --> 01:26:55,880
+ il y a le système de chauffage, l'isolation de la maison, la ventilation et en fait quand
+
+778
+01:26:55,880 --> 01:27:00,559
+ vous avez plusieurs pôles comme ça c'est là où vous bénéficiez le plus d'aide.
+
+779
+01:27:10,559 --> 01:27:15,079
+ Alors ma prime rénovation bleue. Alors vous avez vu, vous souvenez en fait il y a les couleurs
+
+780
+01:27:15,159 --> 01:27:22,519
+ qui dépendent en fait des plafonds de revenus et là vous avez donc ça je vous le mettrai aussi si
+
+781
+01:27:22,519 --> 01:27:28,760
+ vous voulez vous avez en fait les forfaits et les estimations des montants des CEV et ma prime rénovation
+
+782
+01:27:28,760 --> 01:27:34,399
+ plus CEV vous avez la totalité de l'aide qui est possible et encore attention c'est par rapport au
+
+783
+01:27:34,399 --> 01:27:45,239
+ revenu. Je vais vous l'envoyer. Donc là par exemple je veux dire un granule 14000,
+
+784
+01:27:45,239 --> 01:27:52,359
+ promptage à chaleur géothermique 14000, chauffage solaire 12000, promptage à chaleur RO 8000.
+
+785
+01:27:52,359 --> 01:28:01,519
+ Et là on doit avoir j'imagine voilà rénovation jaune donc là on a d'autres forfaits qui sont un
+
+786
+01:28:01,520 --> 01:28:09,920
+ peu moins importants et après rénovation violette donc c'est en fonction des revenus. Ça je vous l'envoie.
+
+787
+01:28:31,520 --> 01:28:59,760
+ Voilà donc là vous avez dû recevoir le détail. Vous l'avez eu ?
+
+788
+01:29:01,520 --> 01:29:20,120
+ Super. Très bien. Écoutez c'est parfait. Olivier nous dit c'est beaucoup plus simple d'être
+
+789
+01:29:20,119 --> 01:29:23,439
+ subventionné pour acheter une voiture électrique. Oui c'est pas pareil c'est vrai.
+
+790
+01:29:23,439 --> 01:29:34,519
+ Alors 2021 Julien c'est parce qu'en fait ça a commencé ma prime rénovation, ça a commencé en 2021.
+
+791
+01:29:34,519 --> 01:29:42,599
+ Mais après ça a évolué et là on est dans les derniers là avec les couleurs c'est normalement
+
+792
+01:29:42,640 --> 01:29:50,160
+ c'est actif. Alors on va essayer de marquer quelque part. C'est ce qu'on a vu tout à l'heure dans
+
+793
+01:29:50,160 --> 01:29:59,720
+ le site. Donc normalement les plafonds sont les bons. Il n'y a pas eu de mise à jour par rapport à
+
+794
+01:29:59,720 --> 01:30:21,440
+ ces plafonds là. Est-ce que c'est un peu plus clair pour vous tout ça ? Ouais bon. Très
+
+795
+01:30:21,479 --> 01:30:32,039
+ intéressant Fabienne merci. Super. Parfait. Impeccable. Je vais dire à Nicolas qu'on a terminé.
+
+796
+01:30:39,239 --> 01:30:40,519
+ Comme ça il va nous chanter une chanson.
+
+797
+01:30:40,520 --> 01:30:55,640
+ Sandrine, vous connaissez l'avoir demandé par ma main. D'accord. C'est bien. Le fait de l'avoir
+
+798
+01:30:55,640 --> 01:30:59,360
+ demandé soi-même ça permet de savoir comment ça marche. C'est plus facile d'en parler aux clients.
+
+799
+01:30:59,360 --> 01:31:07,920
+ Effectivement Yodi ça donne des cordes à notre arc pour les clients. Surtout que les plafonds,
+
+800
+01:31:08,319 --> 01:31:15,000
+ des plafonds qui sont assez corrects. Il m'a pris ma rénouve rose. Il y a des plafonds à 79 000,
+
+801
+01:31:15,000 --> 01:31:24,720
+ 90 000 euros. Donc ça peut concerner pas mal de gens. Oui je vais envoyer le PowerPoint Philippe.
+
+802
+01:31:24,720 --> 01:31:35,840
+ Je vais l'envoyer à Mathieu dès demain. Comme ça vous pourrez l'avoir. Merci Sandrine.
+
+803
+01:31:38,520 --> 01:31:43,760
+ Très bien Pierre est encore là. Donc ça c'est une bonne chose. J'imagine que tout le monde est encore là.
+
+804
+01:31:43,760 --> 01:31:52,840
+ Et oui Vernic ça nous rend crédible aussi par rapport à cette mise à jour.
+
+805
+01:31:52,840 --> 01:31:57,199
+ Impeccable.
+
+806
+01:31:57,199 --> 01:32:09,159
+ Ah oui Sandrine, alors moi je n'ai pas les adresses de tout le monde. Mais
+
+807
+01:32:09,159 --> 01:32:11,960
+ j'insisterai auprès de Mathieu pour qu'il vous l'envoie.
+
+808
+01:32:11,960 --> 01:32:22,640
+ Alors oui Xavier nous dit qu'il n'y a pas de prise en compte des revenus pour les CE.
+
+809
+01:32:22,640 --> 01:32:30,199
+ Donc c'est autre chose les CE. Et les CE en fait c'est a priori ça dépend de votre région.
+
+810
+01:32:30,199 --> 01:32:34,000
+ Donc c'est pas les mêmes partout. J'ai bien compris.
+
+811
+01:32:34,000 --> 01:32:49,359
+ D'accord. Avec plaisir.
+
+812
+01:32:49,359 --> 01:32:55,680
+ Impeccable.
+
+813
+01:32:55,680 --> 01:33:00,960
+ Bon vous n'avez plus de questions. Tout est ok pour vous.
+
+814
+01:33:00,960 --> 01:33:07,680
+ Un petit Skype à Nicolas.
+
+815
+01:33:25,680 --> 01:33:40,000
+ Alors, Luc, vous voulez que Nicolas chante ?
+
+816
+01:33:40,000 --> 01:33:44,920
+ Non mais ça va pas être nécessaire effectivement. J'espère en tout cas.
+
+817
+01:33:44,920 --> 01:33:49,520
+ J'ai une question de Dominique et il ne faut jamais commencer les travaux
+
+818
+01:33:49,520 --> 01:33:53,039
+ avant l'accord des adouis effectivement Dominique. C'est ce que je disais,
+
+819
+01:33:53,119 --> 01:33:56,800
+ il faut faire la demande d'aide avant sinon vous risquez d'avoir le bec dans le haut.
+
+820
+01:33:56,800 --> 01:34:13,159
+ Voilà merci à vous.
+
+821
+01:34:23,600 --> 01:34:27,039
+ Bon et sinon à part la rénovation énergétique sinon il y a autre chose
+
+822
+01:34:27,039 --> 01:34:29,359
+ que vous voudriez évoquer.
+
+823
+01:34:29,359 --> 01:34:37,199
+ Ah Sandra nous dit les devis doivent être faits sans avoir été signés.
+
+824
+01:34:37,199 --> 01:34:41,399
+ Oui, il n'est pas obligé de s'engager sans savoir si on aura la prime. Effectivement c'est important.
+
+825
+01:34:41,399 --> 01:34:51,960
+ Alors Véronique cela n'a rien à voir mais je n'ai pas reçu ton PDF.
+
+826
+01:34:52,279 --> 01:34:59,480
+ Je l'ai envoyé à Mathieu. Tu rappellerais de le renvoyer.
+
+827
+01:34:59,480 --> 01:35:04,720
+ Exact.
+
+828
+01:35:04,720 --> 01:35:15,439
+ Oui Xavier, tu as relancé Mathieu.
+
+829
+01:35:15,439 --> 01:35:21,560
+ Vous n'avez rien reçu du séminaire ? Il y avait quoi d'autre à part ça ?
+
+830
+01:35:21,640 --> 01:35:24,080
+ Ah oui, Move peut-être.
+
+831
+01:35:24,080 --> 01:35:35,600
+ Alors oui Denis, autre impératif lors de la première visite, certains clients ne
+
+832
+01:35:35,600 --> 01:35:41,400
+ sont pas d'accord. Audit impératif. Non en fait c'est à partir du moment où vous prenez le mandat
+
+833
+01:35:41,400 --> 01:35:46,680
+ et que vous avez le DPE, si la maison, pas l'appartement pour l'instant,
+
+834
+01:35:46,720 --> 01:35:52,320
+ ce n'est pas obligatoire dans les copropriétés mais si la maison est en F ou en G, il faut
+
+835
+01:35:52,320 --> 01:36:00,480
+ absolument faire faire l'audit énergétique. Donc le coût va être entre 800 et 2000 €,
+
+836
+01:36:00,480 --> 01:36:07,400
+ ça dépend de la surface, mais c'est obligatoire effectivement pour la première visite. Pour ça
+
+837
+01:36:07,400 --> 01:36:11,920
+ vous pouvez le dire au client, il peut le vérifier sur internet. On n'est pas obligé
+
+838
+01:36:11,920 --> 01:36:16,600
+ d'avoir la signature du mandat ni pour la publicité, mais par contre on doit en essenser la
+
+839
+01:36:16,920 --> 01:36:20,120
+ première visite. D'ailleurs c'est important de l'avoir parce que si vous ne l'avez pas,
+
+840
+01:36:20,120 --> 01:36:25,680
+ la personne en fait quand vous allez lui dire que c'est en F ou en G, au moins avec l'audit
+
+841
+01:36:25,680 --> 01:36:30,160
+ énergétique ça vous donne des arguments, ça permet de chiffrer en fait les travaux. Donc
+
+842
+01:36:30,160 --> 01:36:35,160
+ c'est toujours plus intéressant que d'être dans le flou artistique. Du coup ça permet de se
+
+843
+01:36:35,160 --> 01:36:38,920
+ justifier auprès des propriétaires également, parce que si vous ne l'avez pas vous allez avoir
+
+844
+01:36:38,920 --> 01:36:40,600
+ des objections auxquelles vous ne pourrez pas répondre.
+
+845
+01:36:47,360 --> 01:36:49,800
+ Alors oui pour We Move tout ça aussi je relancerai Mathieu.
+
+846
+01:36:49,800 --> 01:36:57,480
+ Alors Xavier c'est l'énergie finale, il me semble qu'il compte, pas l'étiquette que l'on
+
+847
+01:36:57,480 --> 01:37:04,480
+ voit habituellement. Si l'étiquette compte en fait puisque c'est F et G, c'est l'étiquette
+
+848
+01:37:04,480 --> 01:37:10,600
+ qui compte, c'est là-dessus qu'on se base. Bien sûr que l'énergie finale compte aussi puisque
+
+849
+01:37:10,600 --> 01:37:16,320
+ en fait les deux sont liés, mais c'est l'étiquette qu'on prend en compte, si on est en F on fait
+
+850
+01:37:16,319 --> 01:37:28,119
+ l'audit énergétique. Le RP également, c'est à dire Denis.
+
+851
+01:37:36,599 --> 01:37:45,519
+ Alors Corinne, les audits énergétiques sont-elles toutes fiables ? En fait si l'entreprise est agréée
+
+852
+01:37:45,560 --> 01:37:49,680
+ pour faire les audits énergétiques, oui normalement elle l'est, mais tout le monde ne peut pas le faire.
+
+853
+01:37:49,680 --> 01:37:57,000
+ Effectivement c'est comme les DPE, il faut passer un agrément. On peut vérifier s'ils ont
+
+854
+01:37:57,000 --> 01:38:02,080
+ l'agrément, mais effectivement à partir du moment où ils ont l'agrément, on peut leur faire confiance.
+
+855
+01:38:02,080 --> 01:38:09,880
+ C'est comme les DPE, ça peut être variable d'une entreprise à l'autre, mais bon ça on ne peut pas tout maîtriser non plus.
+
+856
+01:38:15,520 --> 01:38:20,320
+ Véronique nous dit qu'il y a une réforme sur le site de la CAPEB pour janvier 2024 qui se bat
+
+857
+01:38:20,320 --> 01:38:28,760
+ contre le premier ministre pour mettre en place et bien développer le système d'aide.
+
+858
+01:38:28,760 --> 01:38:34,040
+ Oui mais en ce moment il y a des batailles un petit peu partout parce qu'en fait il faut pas se le rire.
+
+859
+01:38:34,040 --> 01:38:40,200
+ Tout ça, ça nous met des bâtons dans les roues, même s'il y a après des choses qui sont là, qui nous
+
+860
+01:38:40,199 --> 01:38:46,800
+ permettent aussi d'argumenter, mais tout ça c'est clair que ça rend le marché de l'immobilier beaucoup plus compliqué.
+
+861
+01:38:46,800 --> 01:38:54,000
+ Donc il y a plein d'organismes qui se battent effectivement pour essayer de renverser la situation.
+
+862
+01:38:54,000 --> 01:39:00,119
+ Alors pas pour la LOC, c'est sûr, pas certain pour l'audit.
+
+863
+01:39:00,119 --> 01:39:09,319
+ Alors Denis, un notaire m'a fait des remontes entrepenses parce que je n'avais pas fait signer
+
+864
+01:39:09,319 --> 01:39:15,599
+ le RP lors de la première visite. Qu'est ce que le RP Denis ?
+
+865
+01:39:29,039 --> 01:39:33,960
+ Ah d'accord, établissement reçoitement du public.
+
+866
+01:39:34,000 --> 01:39:39,119
+ L'état des risques et pollution, faire signer l'état des risques et pollution à la visite ?
+
+867
+01:39:39,119 --> 01:39:44,239
+ J'ai jamais vu ça moi. Non ça se fait signer au compromis.
+
+868
+01:39:44,239 --> 01:39:52,119
+ C'est bizarre, on avait l'affaire à quelqu'un qui faisait du zèle.
+
+869
+01:39:52,119 --> 01:40:00,920
+ Oui Sandrine, c'est vrai que des fois c'est un petit peu n'importe quoi.
+
+870
+01:40:00,920 --> 01:40:12,800
+ Alors Léonique nous dit, on parle de tuiles solaires qui vont bientôt se faire connaître
+
+871
+01:40:12,800 --> 01:40:17,520
+ de plus en plus et devenir moins chères avec le temps. C'est bien ça.
+
+872
+01:40:17,520 --> 01:40:34,320
+ On doit juste envoyer le lien pour le RP. Oui en fait vous l'avez sur internet,
+
+873
+01:40:34,320 --> 01:40:39,360
+ vous pouvez envoyer ça par mail à vos clients mais il n'y a rien à faire signer.
+
+874
+01:40:39,360 --> 01:40:45,320
+ Si au compromis mais pas en visite.
+
+875
+01:40:47,520 --> 01:41:05,240
+ Et Sandrine nous dit, un visage de faire passer une maison de 1800 en B ou en C c'est une dinguerie.
+
+876
+01:41:05,240 --> 01:41:07,560
+ Oui alors il faut savoir qu'il y a quand même des exceptions.
+
+877
+01:41:07,560 --> 01:41:12,520
+ Donc il y a des bâtiments qui vont bénéficier d'exception qui ne pourront pas être rénovés.
+
+878
+01:41:12,520 --> 01:41:14,920
+ Peut-être que ça en fera partie.
+
+879
+01:41:14,920 --> 01:41:30,760
+ Sandrine nous dit que le RP est devenu obligatoire dès la première visite d'un
+
+880
+01:41:30,760 --> 01:41:42,319
+ bien immobilier décret de 1er octobre 2022. Je ne savais pas et je ne l'ai jamais fait signer.
+
+881
+01:41:42,319 --> 01:41:50,679
+ Encore une de ces conneries. Donc le notaire Denis il t'a fait remarquer.
+
+882
+01:42:02,519 --> 01:42:05,039
+ Bon bah j'ai pas entendu Nicolas quand il a dit ça à moi.
+
+883
+01:42:05,039 --> 01:42:16,239
+ Je dois avoir des notaires qui sont faciles avec moi parce que on ne l'a jamais demandé.
+
+884
+01:42:16,239 --> 01:42:21,600
+ Ah oui c'est sûr quand il y a des soucis quand on est dans une zone inondable.
+
+885
+01:42:21,600 --> 01:42:24,079
+ Ça je comprends mieux effectivement.
+
+886
+01:42:24,079 --> 01:42:33,079
+ C'est pas cool Denis. Non mais c'est vrai que quand on est dans une
+
+887
+01:42:33,079 --> 01:42:39,720
+ zone particulière c'est important. Tout ce qui peut desservir l'acquérir il faut le présenter
+
+888
+01:42:39,720 --> 01:42:45,079
+ dès le début. Sinon de toute façon ça risque de partir en vrille lors du compromis.
+
+889
+01:42:45,079 --> 01:42:51,800
+ Si les risques sont connus.
+
+890
+01:42:58,359 --> 01:43:02,199
+ Bien sûr Catherine les risques connus il faut être présenté au visiteur.
+
+891
+01:43:02,199 --> 01:43:06,399
+ Ça c'est notre devoir de conseil tout simplement.
+
+892
+01:43:15,079 --> 01:43:27,960
+ Ouais effectivement Sandrine a raison. Si le notaire veut nous embêter effectivement
+
+893
+01:43:27,960 --> 01:43:33,119
+ si on n'a pas remis le RP à la première visite on peut être embêté.
+
+894
+01:43:41,119 --> 01:43:44,439
+ C'est une bonne chose Guillaume nous dit qu'il envoie les diagnostics par mail.
+
+895
+01:43:44,439 --> 01:43:48,759
+ Avant le fraude d'achat comme ça il y a une preuve de l'envoi c'est exactement ce qu'il
+
+896
+01:43:48,759 --> 01:43:52,639
+ faut faire tout à fait. Il faut qu'il y ait des traces écrites de toute façon.
+
+897
+01:43:52,639 --> 01:44:02,719
+ Alors oui Denis tu peux imprimer et le faire signer ou comme dit Guillaume l'envoyer par mail.
+
+898
+01:44:02,719 --> 01:44:05,119
+ Et surtout garder le mail.
+
+899
+01:44:05,119 --> 01:44:14,159
+ Il faut la signature. Nicolas a dit ça qu'il fallait la signature sur le RP.
+
+900
+01:44:14,159 --> 01:44:14,680
+ Oui.
+
+901
+01:44:44,680 --> 01:44:47,599
+ Par mail c'est ce qui me semblait.
+
+902
+01:44:47,599 --> 01:44:53,880
+ Juste la preuve qu'il a été présenté donc un email suffit.
+
+903
+01:44:53,880 --> 01:45:03,680
+ Après Patricia on a toujours des notaires qui font du zèle.
+
+904
+01:45:03,680 --> 01:45:08,079
+ Maintenant si vous l'avez envoyé par mail je pense que ça suffira.
+
+905
+01:45:08,079 --> 01:45:13,960
+ J'ai posé la question à Nicolas mais il doit être occupé il ne répond pas.
+
+906
+01:45:13,960 --> 01:45:21,880
+ Bon bah moi je vous propose qu'on arrête là.
+
+907
+01:45:21,880 --> 01:45:26,520
+ Ça fait deux heures.
+
+908
+01:45:26,520 --> 01:45:31,880
+ Il regarde le foot, il y a du foot ce soir peut-être.
+
+909
+01:45:31,880 --> 01:45:33,960
+ Ça m'étonnerait.
+
+910
+01:45:33,960 --> 01:45:36,199
+ Je ne pense pas qu'il s'intéresse au foot.
+
+911
+01:45:36,199 --> 01:45:41,600
+ En tout cas merci d'avoir tenu jusque là.
+
+912
+01:45:41,600 --> 01:45:47,680
+ Je vous souhaite une excellente soirée à vous tous.
+
+913
+01:45:47,680 --> 01:45:48,960
+ Tu es sûr ?
+
+914
+01:45:48,960 --> 01:45:49,520
+ 2 heures ?
+
+915
+01:45:49,520 --> 01:45:49,920
+ Des 2 heures ?
+
+916
+01:45:49,920 --> 01:45:52,520
+ On a commencé à quelle heure ?
+
+917
+01:45:52,520 --> 01:45:54,160
+ À 17h on a commencé.
+
+918
+01:45:54,160 --> 01:46:02,000
+ 17h15.
+
+919
+01:46:02,000 --> 01:46:04,480
+ On ne va pas tenir encore 10 minutes.
+
+920
+01:46:04,480 --> 01:46:06,280
+ Il manque 10 minutes.
+
+921
+01:46:06,279 --> 01:46:13,639
+ 17h20 dit Xavier.
+
+922
+01:46:13,639 --> 01:46:15,840
+ Xavier va nous chanter une chanson.
+
+923
+01:46:15,840 --> 01:46:19,599
+ C'est une belle connerie.
+
+924
+01:46:19,599 --> 01:46:28,359
+ Je vais demander à Nicolas.
+
+925
+01:46:28,359 --> 01:46:28,840
+ Bougez pas.
+
+926
+01:47:06,279 --> 01:47:31,079
+ Vous savez ce qu'on va faire ?
+
+927
+01:47:31,079 --> 01:47:32,559
+ Nicolas ne me répond pas.
+
+928
+01:47:33,440 --> 01:47:35,440
+ Je vous propose de rester connectés.
+
+929
+01:47:35,440 --> 01:47:39,039
+ Vous allez vaquer à vos occupations.
+
+930
+01:47:39,039 --> 01:47:41,000
+ Moi je vais faire comme vous.
+
+931
+01:47:41,000 --> 01:47:45,120
+ À 19h20 comme disait Xavier, je couperai.
+
+932
+01:47:45,120 --> 01:47:47,400
+ Ça vous va ?
+
+933
+01:47:47,400 --> 01:47:53,200
+ Allez ça marche.
+
+934
+01:47:53,200 --> 01:47:55,560
+ Bon bah passez une bonne soirée.
+
+935
+01:47:55,560 --> 01:48:00,240
+ Bon apéro à vous aussi.
+
+936
+01:48:00,239 --> 01:48:05,199
+ Denis pour la signature ERP.
+
+937
+01:48:05,199 --> 01:48:09,000
+ Je pense que Nicolas avait dit le mail suffit.
+
+938
+01:48:09,000 --> 01:48:12,960
+ Je lui demanderai et je te renverrai ça par mail.
+
+939
+01:48:12,960 --> 01:48:13,679
+ Je te rétendrai.
+
+940
+01:48:13,679 --> 01:48:25,679
+ Laissez vous les connecter jusqu'à 19h20.
+
+941
+01:48:25,680 --> 01:48:34,560
+ Je pense qu'ils enregistrent la durée totale pour pouvoir prouver que vous étiez présent pendant 2h.
+
+942
+01:48:34,560 --> 01:48:40,159
+ Ça va le faire.
+
+943
+01:48:40,159 --> 01:48:41,720
+ Bonne soirée à tous.
+
+944
+01:48:41,720 --> 01:48:44,400
+ Je vous dirai pour l'ERP.
+
+945
+01:48:44,400 --> 01:48:45,760
+ OK promis.
+
+946
+01:48:45,760 --> 01:48:47,480
+ À bientôt.
+
