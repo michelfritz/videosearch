@@ -7,7 +7,7 @@ import numpy as np
 import pickle
 import openai
 
-st.set_page_config(page_title="Recherche IA dans transcriptions", layout="wide")
+st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
 # 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
@@ -57,7 +57,7 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     return top_indices, similarities[top_indices]
 
 # 🛠 Interface Streamlit
-st.title("🔍 Recherche intelligente dans les transcriptions")
+st.title("📚 Base de connaissance A LA LUCARNE")
 
 # 📚 Charger les données
 df, vecteurs = charger_donnees()
@@ -100,7 +100,7 @@ if menu == "🔍 Recherche":
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
-    recherche = st.text_input("🔎 Recherche par titre, résumé, idée ou thème", "")
+    recherche = st.text_input("🔍 Recherche par titre, résumé, idée ou thème", "")
 
     tri = st.selectbox(
         "📜 Trier par",
@@ -122,7 +122,7 @@ elif menu == "🎥 Toutes les vidéos":
     elif tri == "Titre A → Z":
         urls_df = urls_df.sort_values("titre", ascending=True)
     elif tri == "Titre Z → A":
-        urls_df = urls_df.sort_values("titre", descending=True)
+        urls_df = urls_df.sort_values("titre", ascending=False)
 
     st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
 
@@ -152,21 +152,25 @@ elif menu == "🎥 Toutes les vidéos":
             if resume:
                 st.markdown(f"📜 {resume}")
 
-            # Afficher nuage de petits tags
+            # Afficher nuage de petits tags en ligne
             if themes:
+                st.markdown("<div style='display: flex; flex-wrap: wrap; gap: 5px;'>", unsafe_allow_html=True)
                 for theme in themes.split("|"):
                     theme = theme.strip()
                     if theme:
                         if st.button(theme, key=f"theme_{theme}_{row['fichier']}"):
                             st.session_state["tag_selectionne"] = theme
                             st.experimental_rerun()
+                st.markdown("</div>", unsafe_allow_html=True)
 
             # Afficher grands moments dans expander
             if idees:
-                with st.expander("🎯 Grands moments de la vidéo"):
+                with st.expander("🌟 Grands moments de la vidéo"):
                     for idee in idees.split("|"):
                         idee = idee.strip()
-                        if idee:
+                        if idee and youtube_id:
+                            st.markdown(f"- [{idee}](https://www.youtube.com/watch?v={youtube_id}&t=0s)")
+                        elif idee:
                             st.markdown(f"- {idee}")
 
             st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
