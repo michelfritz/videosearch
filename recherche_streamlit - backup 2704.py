@@ -51,10 +51,10 @@ df, vecteurs = charger_donnees()
 urls_df = charger_urls()
 
 # 📂 Menu latéral
-menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
+menu = st.sidebar.radio("Navigation", ["🔎 Recherche", "🎥 Toutes les vidéos"])
 
-if menu == "🔍 Recherche":
-    query = st.text_input("🧐 Que veux-tu savoir ?", "")
+if menu == "🔎 Recherche":
+    query = st.text_input("🧠 Que veux-tu savoir ?", "")
     seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
 
     if query:
@@ -65,7 +65,7 @@ if menu == "🔍 Recherche":
         if len(indices) == 0:
             st.warning("Aucun résultat trouvé. 😕 Essaie une autre requête ou baisse l'exigence.")
         else:
-            st.markdown("### 🌟 Résultats pertinents :")
+            st.markdown("### 🎯 Résultats pertinents :")
             for idx, score in zip(indices, scores):
                 bloc = df.iloc[idx]
                 url_complet = bloc["url"]
@@ -88,7 +88,7 @@ elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
     tri = st.selectbox(
-        "📜 Trier par",
+        "📋 Trier par",
         ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
     )
 
@@ -104,8 +104,7 @@ elif menu == "🎥 Toutes les vidéos":
 
     # Afficher les vidéos
     for _, row in urls_df.iterrows():
-        video_name = row.get("titre", "Titre inconnu")
-        video_date = row.get("date", "Date inconnue")
+        video_name = row["titre"]
         url_complet = row["url"]
         resume = row.get("resume", "")
 
@@ -123,9 +122,8 @@ elif menu == "🎥 Toutes les vidéos":
             st.image(thumbnail_url, width=140)
         with col2:
             st.markdown(f"### [{video_name}]({url_complet})")
-            st.markdown(f"🗓️ *{video_date}*")
             if resume:
-                st.markdown(f"📜 {resume}")
+                st.markdown(f"📝 {resume}")
             st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
         st.markdown("---")
 
