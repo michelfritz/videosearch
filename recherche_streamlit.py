@@ -23,7 +23,10 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls():
-    return pd.read_csv("urls.csv")
+    try:
+        return pd.read_csv("urls.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        return pd.read_csv("urls.csv", encoding="cp1252")
 
 # 🔎 Embedding OpenAI
 def embed_openai(query):
