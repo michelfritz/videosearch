@@ -23,12 +23,9 @@ def charger_donnees():
 @st.cache_data
 def charger_urls():
     try:
-        urls = pd.read_csv("urls.csv", encoding="utf-8")
+        return pd.read_csv("urls.csv", encoding="utf-8")
     except UnicodeDecodeError:
-        urls = pd.read_csv("urls.csv", encoding="cp1252")
-    urls["titre"] = urls["titre"].fillna("Titre inconnu")
-    urls["date"] = urls["date"].fillna("Date inconnue")
-    return urls
+        return pd.read_csv("urls.csv", encoding="cp1252")
 
 # 🔎 Embedding OpenAI
 def embed_openai(query):
@@ -131,3 +128,4 @@ elif menu == "🎥 Toutes les vidéos":
                 st.markdown(f"📜 {resume}")
             st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
         st.markdown("---")
+
