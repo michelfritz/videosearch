@@ -107,13 +107,8 @@ elif menu == "🎥 Toutes les vidéos":
         ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
     )
 
-    tag_selectionne = st.session_state.get("tag_selectionne", None)
-
     if recherche:
-        urls_df = urls_df[urls_df["titre"].str.contains(recherche, case=False, na=False) | urls_df["resume"].str.contains(recherche, case=False, na=False) | urls_df["idees"].str.contains(recherche, case=False, na=False) | urls_df["themes"].str.contains(recherche, case=False, na=False)]
-
-    if tag_selectionne:
-        urls_df = urls_df[urls_df["themes"].str.contains(tag_selectionne, case=False, na=False)]
+        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"])+str(row["resume"])+str(row["idees"])+str(row["themes"])).lower(), axis=1)]
 
     if tri == "Date récente":
         urls_df = urls_df.sort_values("date", ascending=False)
@@ -154,14 +149,13 @@ elif menu == "🎥 Toutes les vidéos":
 
             # Afficher nuage de petits tags en ligne
             if themes:
-                st.markdown("<div style='display: flex; flex-wrap: wrap; gap: 5px;'>", unsafe_allow_html=True)
+                tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
                 for theme in themes.split("|"):
                     theme = theme.strip()
                     if theme:
-                        if st.button(theme, key=f"theme_{theme}_{row['fichier']}"):
-                            st.session_state["tag_selectionne"] = theme
-                            st.experimental_rerun()
-                st.markdown("</div>", unsafe_allow_html=True)
+                        tags_html += f"<a style='background-color: #e1e4e8; padding: 5px 10px; border-radius: 15px; text-decoration: none; color: black; font-size: 14px;' href='?theme={theme}'>{theme}</a>"
+                tags_html += "</div>"
+                st.markdown(tags_html, unsafe_allow_html=True)
 
             # Afficher grands moments dans expander
             if idees:
