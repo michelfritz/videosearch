@@ -8,7 +8,7 @@ import json
 DOSSIER_VIDEOS = "videos"
 DOSSIER_JSON = "json"
 DOSSIER_SRT = "srt"
-DOSSIER_RESUME = "resume"
+DOSSIER_RESUME = r"C:\Transcript\Dropbox (Personal)\resume"
 DOSSIER_BLOCS = "blocs"
 GLOSSAIRE_PATH = "glossaire.csv"
 
@@ -118,7 +118,7 @@ for chemin_video in videos:
         })
 
     # --- Sauvegarde Resume TXT ---
-    resume_path = Path(DOSSIER_RESUME) / f"{nom_video}.txt"
+    resume_path = Path(DOSSIER_RESUME) / f"{nom_video}.txt"    
     with open(resume_path, "w", encoding="utf-8") as f_resume:
         full_text = " ".join(seg["text"] for seg in resegmented)
         f_resume.write(full_text.strip())
