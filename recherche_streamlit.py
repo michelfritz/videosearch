@@ -28,6 +28,7 @@ def charger_urls():
         urls = pd.read_csv("urls.csv", encoding="cp1252")
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
+    urls["resume"] = urls["resume"].fillna("")
     return urls
 
 # 🔎 Embedding OpenAI
@@ -90,12 +91,16 @@ if menu == "🔍 Recherche":
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
+    recherche = st.text_input("🔎 Recherche par titre ou résumé", "")
+
     tri = st.selectbox(
         "📜 Trier par",
         ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
     )
 
-    # Appliquer le tri
+    if recherche:
+        urls_df = urls_df[urls_df["titre"].str.contains(recherche, case=False, na=False) | urls_df["resume"].str.contains(recherche, case=False, na=False)]
+
     if tri == "Date récente":
         urls_df = urls_df.sort_values("date", ascending=False)
     elif tri == "Date ancienne":
@@ -105,7 +110,8 @@ elif menu == "🎥 Toutes les vidéos":
     elif tri == "Titre Z → A":
         urls_df = urls_df.sort_values("titre", ascending=False)
 
-    # Afficher les vidéos
+    st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
+
     for _, row in urls_df.iterrows():
         video_name = row.get("titre", "Titre inconnu")
         video_date = row.get("date", "Date inconnue")
