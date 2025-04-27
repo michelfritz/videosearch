@@ -21,7 +21,7 @@ def charger_donnees():
     return df, vecteurs
 
 @st.cache_data
-def charger_urls_et_idees():
+def charger_urls_et_idees_themes():
     try:
         urls = pd.read_csv("urls.csv", encoding="utf-8")
     except UnicodeDecodeError:
@@ -33,7 +33,11 @@ def charger_urls_et_idees():
     idees = pd.read_csv("idees.csv", encoding="utf-8")
     idees["idees"] = idees["idees"].fillna("")
 
+    themes = pd.read_csv("themes.csv", encoding="utf-8")
+    themes["themes"] = themes["themes"].fillna("")
+
     df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
+    df = pd.merge(df, themes, left_on="fichier", right_on="fichier", how="left")
     return df
 
 # 🔎 Embedding OpenAI
@@ -57,7 +61,7 @@ st.title("🔍 Recherche intelligente dans les transcriptions")
 
 # 📚 Charger les données
 df, vecteurs = charger_donnees()
-urls_df = charger_urls_et_idees()
+urls_df = charger_urls_et_idees_themes()
 
 # 📂 Menu latéral
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
@@ -96,7 +100,7 @@ if menu == "🔍 Recherche":
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
-    recherche = st.text_input("🔎 Recherche par titre, résumé ou idée", "")
+    recherche = st.text_input("🔎 Recherche par titre, résumé, idée ou thème", "")
 
     tri = st.selectbox(
         "📜 Trier par",
@@ -106,10 +110,10 @@ elif menu == "🎥 Toutes les vidéos":
     tag_selectionne = st.session_state.get("tag_selectionne", None)
 
     if recherche:
-        urls_df = urls_df[urls_df["titre"].str.contains(recherche, case=False, na=False) | urls_df["resume"].str.contains(recherche, case=False, na=False) | urls_df["idees"].str.contains(recherche, case=False, na=False)]
+        urls_df = urls_df[urls_df["titre"].str.contains(recherche, case=False, na=False) | urls_df["resume"].str.contains(recherche, case=False, na=False) | urls_df["idees"].str.contains(recherche, case=False, na=False) | urls_df["themes"].str.contains(recherche, case=False, na=False)]
 
     if tag_selectionne:
-        urls_df = urls_df[urls_df["idees"].str.contains(tag_selectionne, case=False, na=False)]
+        urls_df = urls_df[urls_df["themes"].str.contains(tag_selectionne, case=False, na=False)]
 
     if tri == "Date récente":
         urls_df = urls_df.sort_values("date", ascending=False)
@@ -118,7 +122,7 @@ elif menu == "🎥 Toutes les vidéos":
     elif tri == "Titre A → Z":
         urls_df = urls_df.sort_values("titre", ascending=True)
     elif tri == "Titre Z → A":
-        urls_df = urls_df.sort_values("titre", ascending=False)
+        urls_df = urls_df.sort_values("titre", descending=True)
 
     st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
 
@@ -128,6 +132,7 @@ elif menu == "🎥 Toutes les vidéos":
         url_complet = row["url"]
         resume = row.get("resume", "")
         idees = row.get("idees", "")
+        themes = row.get("themes", "")
 
         if "watch?v=" in url_complet:
             youtube_id = url_complet.split("watch?v=")[-1]
@@ -146,12 +151,24 @@ elif menu == "🎥 Toutes les vidéos":
             st.markdown(f"🗓️ *{video_date}*")
             if resume:
                 st.markdown(f"📜 {resume}")
-            if idees:
-                for idee in idees.split("|"):
-                    idee = idee.strip()
-                    if idee:
-                        if st.button(idee, key=f"tag_{idee}_{row['fichier']}"):
-                            st.session_state["tag_selectionne"] = idee
+
+            # Afficher nuage de petits tags
+            if themes:
+                for theme in themes.split("|"):
+                    theme = theme.strip()
+                    if theme:
+                        if st.button(theme, key=f"theme_{theme}_{row['fichier']}"):
+                            st.session_state["tag_selectionne"] = theme
                             st.experimental_rerun()
+
+            # Afficher grands moments dans expander
+            if idees:
+                with st.expander("🎯 Grands moments de la vidéo"):
+                    for idee in idees.split("|"):
+                        idee = idee.strip()
+                        if idee:
+                            st.markdown(f"- {idee}")
+
             st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
+
         st.markdown("---")

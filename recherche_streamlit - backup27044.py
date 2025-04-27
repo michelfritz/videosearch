@@ -21,11 +21,20 @@ def charger_donnees():
     return df, vecteurs
 
 @st.cache_data
-def charger_urls():
+def charger_urls_et_idees():
     try:
-        return pd.read_csv("urls.csv", encoding="utf-8")
+        urls = pd.read_csv("urls.csv", encoding="utf-8")
     except UnicodeDecodeError:
-        return pd.read_csv("urls.csv", encoding="cp1252")
+        urls = pd.read_csv("urls.csv", encoding="cp1252")
+    urls["titre"] = urls["titre"].fillna("Titre inconnu")
+    urls["date"] = urls["date"].fillna("Date inconnue")
+    urls["resume"] = urls["resume"].fillna("")
+
+    idees = pd.read_csv("idees.csv", encoding="utf-8")
+    idees["idees"] = idees["idees"].fillna("")
+
+    df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
+    return df
 
 # 🔎 Embedding OpenAI
 def embed_openai(query):
@@ -48,13 +57,13 @@ st.title("🔍 Recherche intelligente dans les transcriptions")
 
 # 📚 Charger les données
 df, vecteurs = charger_donnees()
-urls_df = charger_urls()
+urls_df = charger_urls_et_idees()
 
 # 📂 Menu latéral
-menu = st.sidebar.radio("Navigation", ["🔎 Recherche", "🎥 Toutes les vidéos"])
+menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
-if menu == "🔎 Recherche":
-    query = st.text_input("🧠 Que veux-tu savoir ?", "")
+if menu == "🔍 Recherche":
+    query = st.text_input("🧐 Que veux-tu savoir ?", "")
     seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
 
     if query:
@@ -65,7 +74,7 @@ if menu == "🔎 Recherche":
         if len(indices) == 0:
             st.warning("Aucun résultat trouvé. 😕 Essaie une autre requête ou baisse l'exigence.")
         else:
-            st.markdown("### 🎯 Résultats pertinents :")
+            st.markdown("### 🌟 Résultats pertinents :")
             for idx, score in zip(indices, scores):
                 bloc = df.iloc[idx]
                 url_complet = bloc["url"]
@@ -87,12 +96,21 @@ if menu == "🔎 Recherche":
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
+    recherche = st.text_input("🔎 Recherche par titre, résumé ou idée", "")
+
     tri = st.selectbox(
-        "📋 Trier par",
+        "📜 Trier par",
         ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
     )
 
-    # Appliquer le tri
+    tag_selectionne = st.session_state.get("tag_selectionne", None)
+
+    if recherche:
+        urls_df = urls_df[urls_df["titre"].str.contains(recherche, case=False, na=False) | urls_df["resume"].str.contains(recherche, case=False, na=False) | urls_df["idees"].str.contains(recherche, case=False, na=False)]
+
+    if tag_selectionne:
+        urls_df = urls_df[urls_df["idees"].str.contains(tag_selectionne, case=False, na=False)]
+
     if tri == "Date récente":
         urls_df = urls_df.sort_values("date", ascending=False)
     elif tri == "Date ancienne":
@@ -102,11 +120,14 @@ elif menu == "🎥 Toutes les vidéos":
     elif tri == "Titre Z → A":
         urls_df = urls_df.sort_values("titre", ascending=False)
 
-    # Afficher les vidéos
+    st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
+
     for _, row in urls_df.iterrows():
-        video_name = row["titre"]
+        video_name = row.get("titre", "Titre inconnu")
+        video_date = row.get("date", "Date inconnue")
         url_complet = row["url"]
         resume = row.get("resume", "")
+        idees = row.get("idees", "")
 
         if "watch?v=" in url_complet:
             youtube_id = url_complet.split("watch?v=")[-1]
@@ -122,8 +143,15 @@ elif menu == "🎥 Toutes les vidéos":
             st.image(thumbnail_url, width=140)
         with col2:
             st.markdown(f"### [{video_name}]({url_complet})")
+            st.markdown(f"🗓️ *{video_date}*")
             if resume:
-                st.markdown(f"📝 {resume}")
+                st.markdown(f"📜 {resume}")
+            if idees:
+                for idee in idees.split("|"):
+                    idee = idee.strip()
+                    if idee:
+                        if st.button(idee, key=f"tag_{idee}_{row['fichier']}"):
+                            st.session_state["tag_selectionne"] = idee
+                            st.experimental_rerun()
             st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
         st.markdown("---")
-
