@@ -1,4 +1,3 @@
-
 import os
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
@@ -88,12 +87,26 @@ if menu == "🔎 Recherche":
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
-    # Trie par nom
-    urls_df_sorted = urls_df.sort_values("fichier")
+    tri = st.selectbox(
+        "📋 Trier par",
+        ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
+    )
 
-    for _, row in urls_df_sorted.iterrows():
-        video_name = row["fichier"]
+    # Appliquer le tri
+    if tri == "Date récente":
+        urls_df = urls_df.sort_values("date", ascending=False)
+    elif tri == "Date ancienne":
+        urls_df = urls_df.sort_values("date", ascending=True)
+    elif tri == "Titre A → Z":
+        urls_df = urls_df.sort_values("titre", ascending=True)
+    elif tri == "Titre Z → A":
+        urls_df = urls_df.sort_values("titre", ascending=False)
+
+    # Afficher les vidéos
+    for _, row in urls_df.iterrows():
+        video_name = row["titre"]
         url_complet = row["url"]
+        resume = row.get("resume", "")
 
         if "watch?v=" in url_complet:
             youtube_id = url_complet.split("watch?v=")[-1]
@@ -104,9 +117,13 @@ elif menu == "🎥 Toutes les vidéos":
 
         thumbnail_url = f"https://img.youtube.com/vi/{youtube_id}/0.jpg"
 
-        col1, col2 = st.columns([1, 4])
+        col1, col2 = st.columns([1, 5])
         with col1:
-            st.image(thumbnail_url, width=120)
+            st.image(thumbnail_url, width=140)
         with col2:
-            st.markdown(f"**[{video_name}]({url_complet})**")
+            st.markdown(f"### [{video_name}]({url_complet})")
+            if resume:
+                st.markdown(f"📝 {resume}")
             st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
+        st.markdown("---")
+
