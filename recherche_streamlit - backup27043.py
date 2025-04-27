@@ -21,7 +21,7 @@ def charger_donnees():
     return df, vecteurs
 
 @st.cache_data
-def charger_urls_et_idees():
+def charger_urls():
     try:
         urls = pd.read_csv("urls.csv", encoding="utf-8")
     except UnicodeDecodeError:
@@ -29,12 +29,7 @@ def charger_urls_et_idees():
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
-
-    idees = pd.read_csv("idees.csv", encoding="utf-8")
-    idees["idees"] = idees["idees"].fillna("")
-
-    df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
-    return df
+    return urls
 
 # 🔎 Embedding OpenAI
 def embed_openai(query):
@@ -57,7 +52,7 @@ st.title("🔍 Recherche intelligente dans les transcriptions")
 
 # 📚 Charger les données
 df, vecteurs = charger_donnees()
-urls_df = charger_urls_et_idees()
+urls_df = charger_urls()
 
 # 📂 Menu latéral
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
@@ -96,20 +91,15 @@ if menu == "🔍 Recherche":
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
-    recherche = st.text_input("🔎 Recherche par titre, résumé ou idée", "")
+    recherche = st.text_input("🔎 Recherche par titre ou résumé", "")
 
     tri = st.selectbox(
         "📜 Trier par",
         ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
     )
 
-    tag_selectionne = st.session_state.get("tag_selectionne", None)
-
     if recherche:
-        urls_df = urls_df[urls_df["titre"].str.contains(recherche, case=False, na=False) | urls_df["resume"].str.contains(recherche, case=False, na=False) | urls_df["idees"].str.contains(recherche, case=False, na=False)]
-
-    if tag_selectionne:
-        urls_df = urls_df[urls_df["idees"].str.contains(tag_selectionne, case=False, na=False)]
+        urls_df = urls_df[urls_df["titre"].str.contains(recherche, case=False, na=False) | urls_df["resume"].str.contains(recherche, case=False, na=False)]
 
     if tri == "Date récente":
         urls_df = urls_df.sort_values("date", ascending=False)
@@ -127,7 +117,6 @@ elif menu == "🎥 Toutes les vidéos":
         video_date = row.get("date", "Date inconnue")
         url_complet = row["url"]
         resume = row.get("resume", "")
-        idees = row.get("idees", "")
 
         if "watch?v=" in url_complet:
             youtube_id = url_complet.split("watch?v=")[-1]
@@ -146,12 +135,5 @@ elif menu == "🎥 Toutes les vidéos":
             st.markdown(f"🗓️ *{video_date}*")
             if resume:
                 st.markdown(f"📜 {resume}")
-            if idees:
-                for idee in idees.split("|"):
-                    idee = idee.strip()
-                    if idee:
-                        if st.button(idee, key=f"tag_{idee}_{row['fichier']}"):
-                            st.session_state["tag_selectionne"] = idee
-                            st.experimental_rerun()
             st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
         st.markdown("---")
