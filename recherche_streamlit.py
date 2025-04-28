@@ -22,20 +22,35 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    urls = pd.read_csv("urls.csv", encoding="utf-8")
+    try:
+        urls = pd.read_csv("urls.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        urls = pd.read_csv("urls.csv", encoding="cp1252")
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
 
-    idees = pd.read_csv("idees.csv", encoding="utf-8")
+    try:
+        idees = pd.read_csv("idees.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        idees = pd.read_csv("idees.csv", encoding="cp1252")
     idees["idees"] = idees["idees"].fillna("")
 
-    idees_v2 = pd.read_csv("idees_v2.csv", encoding="utf-8")
+    try:
+        idees_v2 = pd.read_csv("idees_v2.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        idees_v2 = pd.read_csv("idees_v2.csv", encoding="cp1252")
 
-    themes = pd.read_csv("themes.csv", encoding="utf-8")
+    try:
+        themes = pd.read_csv("themes.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        themes = pd.read_csv("themes.csv", encoding="cp1252")
     themes["themes"] = themes["themes"].fillna("")
 
-    mesthemes = pd.read_csv("mesthemes.csv", encoding="utf-8")
+    try:
+        mesthemes = pd.read_csv("mesthemes.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        mesthemes = pd.read_csv("mesthemes.csv", encoding="cp1252")
     mesthemes_list = mesthemes["themes"].dropna().tolist()
 
     df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
