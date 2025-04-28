@@ -155,6 +155,33 @@ if menu == "🎥 Toutes les vidéos":
         st.markdown("---")
 
 elif menu == "🔍 Recherche":
-    # (Garder le mode recherche identique à ton script existant)
-    pass
+    st.header("🔍 Recherche intelligente dans les transcriptions")
+    query = st.text_input("🧠 Que veux-tu savoir ?", "")
+    seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
 
+    if query:
+        with st.spinner("🔍 Recherche en cours..."):
+            vecteur_query = embed_openai(query)
+            indices, scores = rechercher_similaires(vecteur_query, vecteurs, seuil=seuil)
+
+        if len(indices) == 0:
+            st.warning("Aucun résultat trouvé. 😕 Essaie une autre requête ou baisse l'exigence.")
+        else:
+            st.markdown("### 🌟 Résultats pertinents :")
+            for idx, score in zip(indices, scores):
+                bloc = df.iloc[idx]
+                url_complet = bloc["url"]
+                if "watch?v=" in url_complet:
+                    youtube_id = url_complet.split("watch?v=")[-1]
+                elif "youtu.be/" in url_complet:
+                    youtube_id = url_complet.split("youtu.be/")[-1]
+                else:
+                    youtube_id = ""
+
+                start_time = int(float(bloc["start"]))
+                embed_url = f"https://www.youtube.com/embed/{youtube_id}?start={start_time}&autoplay=0"
+
+                with st.expander(f"⏱️ {start_time}s — 💬 {bloc['text'][:60]}... (score: {score:.2f})"):
+                    st.markdown(f"**Texte complet :** {bloc['text']}")
+                    if youtube_id:
+                        st.components.v1.iframe(embed_url, height=315)
