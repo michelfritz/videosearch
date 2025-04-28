@@ -76,23 +76,16 @@ for theme_list in themes_df["themes"].dropna():
         if theme:
             all_themes.add(theme)
 
-if "selected_theme" not in st.session_state:
-    st.session_state.selected_theme = ""
-
 if menu == "🔍 Recherche":
-    if st.session_state.selected_theme:
-        query = st.session_state.selected_theme
-    else:
-        query = st.text_input("🧐 Que veux-tu savoir ?", "")
-
+    query = st.text_input("🧐 Que veux-tu savoir ?", "")
     seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
 
     with st.expander("🏷️ Explorer par thème"):
-        cols = st.columns(4)
-        for i, theme in enumerate(sorted(all_themes)):
-            if cols[i % 4].button(theme):
-                st.session_state.selected_theme = theme
-                st.experimental_rerun()
+        tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
+        for theme in sorted(all_themes):
+            tags_html += f"<a href='?query={theme}' style='background-color: #d0ebff; padding: 5px 10px; border-radius: 15px; text-decoration: none; color: black; font-size: 14px;'>{theme}</a>"
+        tags_html += "</div>"
+        st.markdown(tags_html, unsafe_allow_html=True)
 
     if query:
         with st.spinner("🔍 Recherche en cours..."):
@@ -184,7 +177,7 @@ elif menu == "🎥 Toutes les vidéos":
             st.markdown("<div style='height: 10px;'></div>", unsafe_allow_html=True)
 
             if idees:
-                with st.expander("🌟 Sujets de la vidéo"):
+                with st.expander("🌟 Grands moments de la vidéo"):
                     for idee in idees.split("|"):
                         idee = idee.strip()
                         if idee and youtube_id:
@@ -205,4 +198,3 @@ elif menu == "🎥 Toutes les vidéos":
                             st.markdown(f"- {idee_text}")
 
         st.markdown("---")
-
