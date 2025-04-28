@@ -23,7 +23,7 @@ def detect_encoding(file_path):
         result = chardet.detect(f.read(10000))
     return result['encoding']
 
-# 📚 Chargement des données
+# 📚 Chargement des données blindé
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_fusionnes.csv")
@@ -33,22 +33,25 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    encoding = detect_encoding("urls.csv")
-    urls = pd.read_csv("urls.csv", encoding=encoding)
-
+    encoding_urls = detect_encoding("urls.csv")
+    urls = pd.read_csv("urls.csv", encoding=encoding_urls)
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
-    
-    idees = pd.read_csv("idees.csv", encoding="utf-8")
+
+    encoding_idees = detect_encoding("idees.csv")
+    idees = pd.read_csv("idees.csv", encoding=encoding_idees)
     idees["idees"] = idees["idees"].fillna("")
 
-    idees_v2 = pd.read_csv("idees_v2.csv", encoding="utf-8")
+    encoding_idees_v2 = detect_encoding("idees_v2.csv")
+    idees_v2 = pd.read_csv("idees_v2.csv", encoding=encoding_idees_v2)
 
-    themes = pd.read_csv("themes.csv", encoding="utf-8")
+    encoding_themes = detect_encoding("themes.csv")
+    themes = pd.read_csv("themes.csv", encoding=encoding_themes)
     themes["themes"] = themes["themes"].fillna("")
 
-    mesthemes = pd.read_csv("mesthemes.csv", encoding="utf-8")
+    encoding_mesthemes = detect_encoding("mesthemes.csv")
+    mesthemes = pd.read_csv("mesthemes.csv", encoding=encoding_mesthemes)
     mesthemes_list = mesthemes["themes"].dropna().tolist()
 
     df = pd.merge(urls, idees, on="fichier", how="left")
