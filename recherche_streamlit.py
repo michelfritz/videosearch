@@ -110,7 +110,8 @@ if "selected_theme" not in st.session_state:
 if "reset_search" not in st.session_state:
     st.session_state.reset_search = False
 
-menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
+menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"])
+
 
 if menu == "🔍 Recherche":
     col1, col2 = st.columns([3,1])
