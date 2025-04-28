@@ -33,25 +33,20 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    encoding_urls = detect_encoding("urls.csv")
-    urls = pd.read_csv("urls.csv", encoding=encoding_urls)
+    urls = pd.read_csv("urls.csv", encoding=detect_encoding("urls.csv"))
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
 
-    encoding_idees = detect_encoding("idees.csv")
-    idees = pd.read_csv("idees.csv", encoding=encoding_idees)
+    idees = pd.read_csv("idees.csv", encoding=detect_encoding("idees.csv"))
     idees["idees"] = idees["idees"].fillna("")
 
-    encoding_idees_v2 = detect_encoding("idees_v2.csv")
-    idees_v2 = pd.read_csv("idees_v2.csv", encoding=encoding_idees_v2)
+    idees_v2 = pd.read_csv("idees_v2.csv", encoding=detect_encoding("idees_v2.csv"))
 
-    encoding_themes = detect_encoding("themes.csv")
-    themes = pd.read_csv("themes.csv", encoding=encoding_themes)
+    themes = pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv"))
     themes["themes"] = themes["themes"].fillna("")
 
-    encoding_mesthemes = detect_encoding("mesthemes.csv")
-    mesthemes = pd.read_csv("mesthemes.csv", encoding=encoding_mesthemes)
+    mesthemes = pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv"))
     mesthemes_list = mesthemes["themes"].dropna().tolist()
 
     df = pd.merge(urls, idees, on="fichier", how="left")
@@ -86,6 +81,7 @@ for theme_list in themes_df["themes"].dropna():
         if theme:
             all_themes.add(theme)
 
+# 🧠 Initialisation Session
 if "selected_theme" not in st.session_state:
     st.session_state.selected_theme = ""
 
@@ -97,12 +93,16 @@ menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéo
 if menu == "🔍 Recherche":
     col1, col2 = st.columns([3,1])
 
-    with col1:
+    # Conteneur de recherche pour pouvoir reset proprement
+    search_placeholder = col1.empty()
+
+    with search_placeholder:
         st.text_input("🔍 Que veux-tu savoir ?", key="search_query")
+
     with col2:
         if st.button("🔄 Réinitialiser"):
-            st.session_state["selected_theme"] = ""
-            st.session_state["search_query"] = ""
+            st.session_state.search_query = ""
+            st.session_state.selected_theme = ""
             st.experimental_rerun()
 
     seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
@@ -112,8 +112,8 @@ if menu == "🔍 Recherche":
         cols = st.columns(4)
         for i, theme in enumerate(sorted(mesthemes_list)):
             if cols[i % 4].button(theme, key=f"mestheme_{theme}"):
-                st.session_state["selected_theme"] = theme
-                st.session_state["search_query"] = ""
+                st.session_state.selected_theme = theme
+                st.session_state.search_query = ""
                 st.experimental_rerun()
 
     # Expander Tous les Thèmes
@@ -121,8 +121,8 @@ if menu == "🔍 Recherche":
         cols = st.columns(4)
         for i, theme in enumerate(sorted(all_themes)):
             if cols[i % 4].button(theme, key=f"theme_{theme}"):
-                st.session_state["selected_theme"] = theme
-                st.session_state["search_query"] = ""
+                st.session_state.selected_theme = theme
+                st.session_state.search_query = ""
                 st.experimental_rerun()
 
     query = st.session_state.get("search_query", "").strip() or st.session_state.get("selected_theme", "").strip()
