@@ -1,172 +1,133 @@
 import os
-os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
-
-import streamlit as st
 import pandas as pd
-import numpy as np
-import pickle
-import openai
+import whisper
+from pathlib import Path
+import json
 
-st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
+# --- Paramètres ---
+DOSSIER_VIDEOS = "videos"
+DOSSIER_JSON = "json"
+DOSSIER_SRT = "srt"
+DOSSIER_RESUME = r"C:\Transcript\Dropbox (Personal)\resume"
+DOSSIER_BLOCS = "blocs"
+GLOSSAIRE_PATH = "glossaire.csv"
 
-# 🔐 Clé API OpenAI
-openai.api_key = st.secrets["OPENAI_API_KEY"]
-
-# 📚 Charger les données
-@st.cache_data
-def charger_donnees():
-    df = pd.read_csv("blocs_fusionnes.csv")
-    with open("vecteurs.pkl", "rb") as f:
-        vecteurs = pickle.load(f)
-    return df, vecteurs
-
-@st.cache_data
-def charger_urls_et_idees_themes():
+# --- Chargement du glossaire si disponible ---
+if os.path.exists(GLOSSAIRE_PATH):
     try:
-        urls = pd.read_csv("urls.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        urls = pd.read_csv("urls.csv", encoding="cp1252")
-    urls["titre"] = urls["titre"].fillna("Titre inconnu")
-    urls["date"] = urls["date"].fillna("Date inconnue")
-    urls["resume"] = urls["resume"].fillna("")
+        try:
+            df_glossaire = pd.read_csv(GLOSSAIRE_PATH, encoding="utf-8")
+        except UnicodeDecodeError:
+            df_glossaire = pd.read_csv(GLOSSAIRE_PATH, encoding="cp1252")
+        termes_glossaire = df_glossaire["mot"].dropna().tolist()
+        print(f"📚 Glossaire chargé avec {len(termes_glossaire)} mots.")
+    except Exception as e:
+        print(f"⚠️ Erreur lors du chargement du glossaire : {e}")
+        termes_glossaire = []
+else:
+    termes_glossaire = []
+    print("ℹ️ Aucun glossaire trouvé.")
 
-    idees = pd.read_csv("idees.csv", encoding="utf-8")
-    idees["idees"] = idees["idees"].fillna("")
+# --- Chargement du modèle Whisper ---
+print("🔁 Chargement du modèle Whisper...")
+model = whisper.load_model("medium")
+print(f"✅ Modèle chargé sur : {'cuda' if whisper.torch.cuda.is_available() else 'cpu'}")
 
-    themes = pd.read_csv("themes.csv", encoding="utf-8")
-    themes["themes"] = themes["themes"].fillna("")
+# --- Création des dossiers de sortie ---
+os.makedirs(DOSSIER_JSON, exist_ok=True)
+os.makedirs(DOSSIER_SRT, exist_ok=True)
+os.makedirs(DOSSIER_RESUME, exist_ok=True)
+os.makedirs(DOSSIER_BLOCS, exist_ok=True)
 
-    df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
-    df = pd.merge(df, themes, left_on="fichier", right_on="fichier", how="left")
-    return df
+# --- Liste des vidéos à traiter ---
+videos = sorted(Path(DOSSIER_VIDEOS).glob("*.mp4"))
+print(f"🎮 Vidéos trouvées : {[v.name for v in videos]}")
 
-# 🔎 Embedding OpenAI
-def embed_openai(query):
-    response = openai.embeddings.create(
-        input=query,
-        model="text-embedding-3-small",
-        encoding_format="float"
-    )
-    return np.array(response.data[0].embedding)
+# --- Fonction pour convertir secondes en format SRT ---
+def seconds_to_srt_time(seconds):
+    h = int(seconds // 3600)
+    m = int((seconds % 3600) // 60)
+    s = int(seconds % 60)
+    ms = int((seconds - int(seconds)) * 1000)
+    return f"{h:02}:{m:02}:{s:02},{ms:03}"
 
-# 🔥 Recherche de similarité
-def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
-    similarities = np.dot(vecteurs, vecteur_query)
-    indices = np.where(similarities >= seuil)[0]
-    top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
-    return top_indices, similarities[top_indices]
+# --- Traitement vidéo par vidéo ---
+for chemin_video in videos:
+    nom_video = chemin_video.stem
+    json_path = Path(DOSSIER_JSON) / f"{nom_video}.json"
 
-# 🛠 Interface Streamlit
-st.title("📚 Base de connaissance A LA LUCARNE")
+    if json_path.exists():
+        print(f"📝 JSON déjà existant pour {nom_video}, saut transcription.")
+    else:
+        print(f"🔊 Transcription : {nom_video}")
+        result = model.transcribe(
+            str(chemin_video),
+            language="fr",
+            verbose=True,
+            fp16=(whisper.torch.cuda.is_available()),
+            initial_prompt=" ".join(termes_glossaire) if termes_glossaire else None
+        )
 
-# 📚 Charger les données
-df, vecteurs = charger_donnees()
-urls_df = charger_urls_et_idees_themes()
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+        print(f"✅ JSON sauvegardé : {json_path}")
 
-# 📂 Menu latéral
-menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
+    # --- Lecture du JSON pour resegmenter ---
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-if menu == "🔍 Recherche":
-    query = st.text_input("🧐 Que veux-tu savoir ?", "")
-    seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
+    segments = data.get("segments", [])
 
-    if query:
-        with st.spinner("🔍 Recherche en cours..."):
-            vecteur_query = embed_openai(query)
-            indices, scores = rechercher_similaires(vecteur_query, vecteurs, seuil=seuil)
+    # --- Sauvegarde SRT à partir des segments originaux ---
+    srt_path = Path(DOSSIER_SRT) / f"{nom_video}.srt"
+    with open(srt_path, "w", encoding="utf-8") as f_srt:
+        for i, seg in enumerate(segments, 1):
+            start_srt = seconds_to_srt_time(seg["start"])
+            end_srt = seconds_to_srt_time(seg["end"])
+            f_srt.write(f"{i}\n{start_srt} --> {end_srt}\n{seg['text']}\n\n")
+    print(f"✅ SRT sauvegardé : {srt_path}")
 
-        if len(indices) == 0:
-            st.warning("Aucun résultat trouvé. 😕 Essaie une autre requête ou baisse l'exigence.")
-        else:
-            st.markdown("### 🌟 Résultats pertinents :")
-            for idx, score in zip(indices, scores):
-                bloc = df.iloc[idx]
-                url_complet = bloc["url"]
-                if "watch?v=" in url_complet:
-                    youtube_id = url_complet.split("watch?v=")[-1]
-                elif "youtu.be/" in url_complet:
-                    youtube_id = url_complet.split("youtu.be/")[-1]
-                else:
-                    youtube_id = ""
+    # --- Résegmenter pour les blocs fixes de 30s ---
+    resegmented = []
+    buffer_text = ""
+    buffer_start = None
+    buffer_end = None
 
-                start_time = int(float(bloc["start"]))
-                embed_url = f"https://www.youtube.com/embed/{youtube_id}?start={start_time}&autoplay=0"
+    for seg in segments:
+        if buffer_start is None:
+            buffer_start = seg["start"]
 
-                with st.expander(f"⏱️ {start_time}s — 💬 {bloc['text'][:60]}... (score: {score:.2f})"):
-                    st.markdown(f"**Texte complet :** {bloc['text']}")
-                    if youtube_id:
-                        st.components.v1.iframe(embed_url, height=315)
+        buffer_text += (" " if buffer_text else "") + seg["text"]
+        buffer_end = seg["end"]
 
-elif menu == "🎥 Toutes les vidéos":
-    st.header("📚 Liste des vidéos disponibles")
+        if buffer_end - buffer_start >= 30.0:
+            resegmented.append({
+                "start": buffer_start,
+                "end": buffer_end,
+                "text": buffer_text.strip()
+            })
+            buffer_text = ""
+            buffer_start = None
+            buffer_end = None
 
-    recherche = st.text_input("🔍 Recherche par titre, résumé, idée ou thème", "")
+    if buffer_text:
+        resegmented.append({
+            "start": buffer_start,
+            "end": buffer_end,
+            "text": buffer_text.strip()
+        })
 
-    tri = st.selectbox(
-        "📜 Trier par",
-        ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
-    )
+    # --- Sauvegarde Resume TXT ---
+    resume_path = Path(DOSSIER_RESUME) / f"{nom_video}.txt"    
+    with open(resume_path, "w", encoding="utf-8") as f_resume:
+        full_text = " ".join(seg["text"] for seg in resegmented)
+        f_resume.write(full_text.strip())
+    print(f"✅ Resume sauvegardé : {resume_path}")
 
-    if recherche:
-        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"])+str(row["resume"])+str(row["idees"])+str(row["themes"])).lower(), axis=1)]
+    # --- Sauvegarde CSV des blocs ---
+    blocs_path = Path(DOSSIER_BLOCS) / f"{nom_video}.csv"
+    df = pd.DataFrame(resegmented)
+    df.to_csv(blocs_path, index=False, encoding="utf-8")
+    print(f"✅ Blocs CSV sauvegardé : {blocs_path}")
 
-    if tri == "Date récente":
-        urls_df = urls_df.sort_values("date", ascending=False)
-    elif tri == "Date ancienne":
-        urls_df = urls_df.sort_values("date", ascending=True)
-    elif tri == "Titre A → Z":
-        urls_df = urls_df.sort_values("titre", ascending=True)
-    elif tri == "Titre Z → A":
-        urls_df = urls_df.sort_values("titre", ascending=False)
-
-    st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
-
-    for _, row in urls_df.iterrows():
-        video_name = row.get("titre", "Titre inconnu")
-        video_date = row.get("date", "Date inconnue")
-        url_complet = row["url"]
-        resume = row.get("resume", "")
-        idees = row.get("idees", "")
-        themes = row.get("themes", "")
-
-        if "watch?v=" in url_complet:
-            youtube_id = url_complet.split("watch?v=")[-1]
-        elif "youtu.be/" in url_complet:
-            youtube_id = url_complet.split("youtu.be/")[-1]
-        else:
-            youtube_id = ""
-
-        thumbnail_url = f"https://img.youtube.com/vi/{youtube_id}/0.jpg"
-
-        col1, col2 = st.columns([1, 5])
-        with col1:
-            st.image(thumbnail_url, width=140)
-        with col2:
-            st.markdown(f"### [{video_name}]({url_complet})")
-            st.markdown(f"🗓️ *{video_date}*")
-            if resume:
-                st.markdown(f"📜 {resume}")
-
-            # Afficher nuage de petits tags en ligne
-            if themes:
-                tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
-                for theme in themes.split("|"):
-                    theme = theme.strip()
-                    if theme:
-                        tags_html += f"<a style='background-color: #e1e4e8; padding: 5px 10px; border-radius: 15px; text-decoration: none; color: black; font-size: 14px;' href='?theme={theme}'>{theme}</a>"
-                tags_html += "</div>"
-                st.markdown(tags_html, unsafe_allow_html=True)
-
-            # Afficher grands moments dans expander
-            if idees:
-                with st.expander("🌟 Grands moments de la vidéo"):
-                    for idee in idees.split("|"):
-                        idee = idee.strip()
-                        if idee and youtube_id:
-                            st.markdown(f"- [{idee}](https://www.youtube.com/watch?v={youtube_id}&t=0s)")
-                        elif idee:
-                            st.markdown(f"- {idee}")
-
-            st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
-
-        st.markdown("---")
+print("\n🎉 Toutes les vidéos ont été traitées avec succès !")
