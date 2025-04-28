@@ -121,13 +121,14 @@ if "selected_theme" not in st.session_state:
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
 if menu == "🔍 Recherche":
-    col1, col2 = st.columns([3,1])
+    col1, col2 = st.columns([3, 1])
 
     with col1:
-        search_input = st.text_input("🧐 Que veux-tu savoir ?", value="")
+        search_input = st.text_input("🧐 Que veux-tu savoir ?", value=st.session_state.search_query)
     with col2:
         if st.button("🔄 Réinitialiser"):
             st.session_state.selected_theme = ""
+            st.session_state.search_query = ""
             st.experimental_rerun()
 
     seuil = st.slider("🎯 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
