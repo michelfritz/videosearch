@@ -17,6 +17,28 @@ st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 # 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
+# 📂 Dossier newsletters
+DOSSIER_NEWSLETTERS = "newsletters"
+
+# --- Fonctions newsletters ---
+def charger_newsletter_html(nom_fichier):
+    chemin = os.path.join(DOSSIER_NEWSLETTERS, f"{nom_fichier}.html")
+    if os.path.exists(chemin):
+        with open(chemin, "r", encoding="utf-8") as f:
+            return f.read()
+    else:
+        return None
+
+def bouton_telecharger_newsletter(nom_fichier, contenu_html):
+    st.download_button(
+        label="⬇️ Télécharger la Newsletter",
+        data=contenu_html,
+        file_name=f"{nom_fichier}.html",
+        mime="text/html"
+    )
+
+
+
 # 🔥 Détection encodage
 def detect_encoding(file_path):
     with open(file_path, 'rb') as f:
@@ -113,7 +135,7 @@ if menu == "🔍 Recherche":
     seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
     # 🌟 Mes Thèmes personnalisés
-    with st.expander("✨ Mes Thèmes personnalisés", expanded=False):
+    with st.expander("✨ Thèmes", expanded=False):
         cols = st.columns(4)
         for i, theme in enumerate(sorted(mesthemes_list)):
             if cols[i % 4].button(theme, key=f"mestheme_{theme}"):
@@ -122,7 +144,7 @@ if menu == "🔍 Recherche":
                 st.experimental_rerun()
 
     # 🌟 Tous les Thèmes
-    with st.expander("🏷️ Tous les Thèmes", expanded=False):
+    with st.expander("🏷️ Tags", expanded=False):
         cols = st.columns(4)
         for i, theme in enumerate(sorted(all_themes)):
             if cols[i % 4].button(theme, key=f"theme_{theme}"):
@@ -206,6 +228,19 @@ elif menu == "🎥 Toutes les vidéos":
             if resume:
                 st.markdown(f"📜 {resume}")
 
+ # Bouton Newsletter ici
+            if fichier_nom:
+                if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
+                    newsletter_contenu = charger_newsletter_html(fichier_nom)
+                    if newsletter_contenu:
+                        with st.expander("📬 Newsletter liée à cette vidéo"):
+                            st.markdown(newsletter_contenu, unsafe_allow_html=True)
+                            bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
+                    else:
+                        st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
+
+
+
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
                 for theme in themes.split("|"):
@@ -218,7 +253,7 @@ elif menu == "🎥 Toutes les vidéos":
             st.markdown("<div style='height: 10px;'></div>", unsafe_allow_html=True)
 
             if idees:
-                with st.expander("🌟 Grands moments de la vidéo"):
+                with st.expander("🌟 Sujets de la vidéo"):
                     for idee in idees.split("|"):
                         idee = idee.strip()
                         if idee and youtube_id:
