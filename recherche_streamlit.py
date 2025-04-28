@@ -17,7 +17,7 @@ st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 # 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# 🔥 Détecteur d'encodage automatique
+# 🔥 Détection d'encodage
 def detect_encoding(file_path):
     with open(file_path, 'rb') as f:
         result = chardet.detect(f.read(10000))
@@ -53,7 +53,7 @@ def charger_urls_et_idees_themes():
     df = pd.merge(df, themes, on="fichier", how="left")
     return df, idees_v2, themes, mesthemes_list
 
-# 🔎 Embedding OpenAI
+# 🔎 OpenAI Embedding
 def embed_openai(query):
     response = openai.embeddings.create(
         input=query,
@@ -62,18 +62,18 @@ def embed_openai(query):
     )
     return np.array(response.data[0].embedding)
 
-# 🔥 Recherche de similarité
+# 🔥 Recherche vectorielle
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     similarities = np.dot(vecteurs, vecteur_query)
     indices = np.where(similarities >= seuil)[0]
     top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
     return top_indices, similarities[top_indices]
 
-# 🛠 Interface principale
+# 🛠 Interface
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
-# 🔖 Préparation des thèmes
+# 🔖 Préparer les thèmes
 all_themes = set()
 for theme_list in themes_df["themes"].dropna():
     for theme in theme_list.split("|"):
@@ -81,7 +81,7 @@ for theme_list in themes_df["themes"].dropna():
         if theme:
             all_themes.add(theme)
 
-# 🧠 Initialisation Session
+# 🧠 Session
 if "selected_theme" not in st.session_state:
     st.session_state.selected_theme = ""
 
@@ -93,21 +93,24 @@ menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéo
 if menu == "🔍 Recherche":
     col1, col2 = st.columns([3,1])
 
-    # Conteneur de recherche pour pouvoir reset proprement
+    # Conteneur d'affichage pour input
     search_placeholder = col1.empty()
 
+    # Afficher le champ de recherche dans un conteneur vide
     with search_placeholder:
         st.text_input("🔍 Que veux-tu savoir ?", key="search_query")
 
+    # Bouton Réinitialiser
     with col2:
         if st.button("🔄 Réinitialiser"):
             st.session_state.search_query = ""
             st.session_state.selected_theme = ""
-            st.experimental_rerun()
+            search_placeholder.empty()  # Vide l'affichage
+            st.experimental_rerun()  # Redémarre proprement
 
     seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
-    # Expander Mes Thèmes
+    # Mes Thèmes
     with st.expander("✨ Mes Thèmes personnalisés", expanded=False):
         cols = st.columns(4)
         for i, theme in enumerate(sorted(mesthemes_list)):
@@ -116,7 +119,7 @@ if menu == "🔍 Recherche":
                 st.session_state.search_query = ""
                 st.experimental_rerun()
 
-    # Expander Tous les Thèmes
+    # Tous les Thèmes
     with st.expander("🏷️ Tous les Thèmes", expanded=False):
         cols = st.columns(4)
         for i, theme in enumerate(sorted(all_themes)):
@@ -125,6 +128,7 @@ if menu == "🔍 Recherche":
                 st.session_state.search_query = ""
                 st.experimental_rerun()
 
+    # Déterminer la requête
     query = st.session_state.get("search_query", "").strip() or st.session_state.get("selected_theme", "").strip()
 
     if query:
