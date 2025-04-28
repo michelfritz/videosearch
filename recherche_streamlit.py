@@ -203,10 +203,9 @@ elif menu == "🎥 Toutes les vidéos":
                 sujets = []
 
             if sujets:
-                expand_sujets = True if len(sujets) > 5 else False
-                with st.expander("📚 Sujets principaux de la vidéo", expanded=expand_sujets):
+                with st.expander("📚 Sujets principaux de la vidéo", expanded=False):
                     for sujet in sujets:
-                        st.markdown(f"<span style='background-color: #e1e4e8; padding: 4px 8px; border-radius: 12px; margin: 2px; display: inline-block;'>{sujet}</span>", unsafe_allow_html=True)
+                        st.markdown(f"- {sujet}")
 
             if idees_v2:
                 with st.expander("🌟 Grands moments de la vidéo"):
