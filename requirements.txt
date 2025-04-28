@@ -3,3 +3,9 @@ pandas
 numpy
 openai
 chardet
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+
+
