@@ -65,10 +65,7 @@ st.title("📚 Base de connaissance A LA LUCARNE")
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df = charger_urls_et_idees_themes()
 
-# 📂 Menu latéral
-menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
-
-# Préparation de tous les thèmes pour le nuage
+# Préparation des thèmes
 all_themes = set()
 for theme_list in themes_df["themes"].dropna():
     for theme in theme_list.split("|"):
@@ -79,18 +76,31 @@ for theme_list in themes_df["themes"].dropna():
 if "selected_theme" not in st.session_state:
     st.session_state.selected_theme = ""
 
+# Menu principal
+menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
+
 if menu == "🔍 Recherche":
-    search_input = st.text_input("🧐 Que veux-tu savoir ?", "")
+    col1, col2 = st.columns([3,1])
+
+    with col1:
+        search_input = st.text_input("🧐 Que veux-tu savoir ?", value="")
+    with col2:
+        if st.button("🔄 Réinitialiser"):
+            st.session_state.selected_theme = ""
+            st.experimental_rerun()
+
     seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
 
-    with st.expander("🏷️ Explorer par thème"):
-        cols = st.columns(4)
-        for i, theme in enumerate(sorted(all_themes)):
-            if cols[i % 4].button(theme):
-                st.session_state.selected_theme = theme
-                st.experimental_rerun()
+    with st.expander("🏷️ Explorer par thème", expanded=False):
+        theme_cols = st.columns(4)
+        for idx, theme in enumerate(sorted(all_themes)):
+            with theme_cols[idx % 4]:
+                if st.button(theme, key=f"theme_{theme}"):
+                    st.session_state.selected_theme = theme
+                    st.experimental_rerun()
 
-    query = search_input.strip() or st.session_state.selected_theme
+    # Déterminer quelle requête prendre
+    query = st.session_state.selected_theme or search_input.strip()
 
     if query:
         with st.spinner("🔍 Recherche en cours..."):
@@ -175,7 +185,7 @@ elif menu == "🎥 Toutes les vidéos":
                 for theme in themes.split("|"):
                     theme = theme.strip()
                     if theme:
-                        tags_html += f"<span style='background-color: #e1e4e8; padding: 5px 10px; border-radius: 15px;'>{theme}</span>"
+                        tags_html += f"<span style='background-color: #D0E8FF; padding: 6px 12px; border-radius: 20px;'>{theme}</span>"
                 tags_html += "</div>"
                 st.markdown(tags_html, unsafe_allow_html=True)
 
