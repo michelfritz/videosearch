@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import openai
+import chardet
 
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
@@ -15,6 +16,12 @@ st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 
 # 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
+
+# 🔥 Détecteur d'encodage automatique
+def detect_encoding(file_path):
+    with open(file_path, 'rb') as f:
+        result = chardet.detect(f.read(10000))
+    return result['encoding']
 
 # 📚 Chargement des données
 @st.cache_data
@@ -26,16 +33,13 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    # 🔥 Correction intelligente ici
-    try:
-        urls = pd.read_csv("urls.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        urls = pd.read_csv("urls.csv", encoding="cp1252")
+    encoding = detect_encoding("urls.csv")
+    urls = pd.read_csv("urls.csv", encoding=encoding)
 
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
-
+    
     idees = pd.read_csv("idees.csv", encoding="utf-8")
     idees["idees"] = idees["idees"].fillna("")
 
