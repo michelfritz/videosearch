@@ -14,7 +14,9 @@ def extraire_themes(texte_resume):
     prompt = (
         "Voici le résumé d'une vidéo. Extrait entre 3 et 5 thèmes principaux très courts (2 à 4 mots maximum), "
         "sous forme de mots clés synthétiques, très concis, sans phrase complète. "
-        "Formate la réponse sous forme d'une liste numérotée sans texte additionnel.\n\n"
+        "Il FAUT qu'elles soient adaptées à l'immobilier ou au business. "
+        "Oublie tout les sujets hors du champs business et du secteur immobilier."
+	"Formate la réponse sous forme d'une liste numérotée sans texte additionnel.\n\n"
         f"Texte :\n{texte_resume}\n"
     )
 

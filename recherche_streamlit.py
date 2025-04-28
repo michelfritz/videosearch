@@ -49,18 +49,18 @@ def charger_urls_et_idees_themes_sujets():
     urls["resume"] = urls["resume"].fillna("")
 
     try:
-        idees = pd.read_csv("idees_v2.csv", encoding="utf-8")
+        idees_v2 = pd.read_csv("idees_v2.csv", encoding="utf-8")
     except UnicodeDecodeError:
-        idees = pd.read_csv("idees_v2.csv", encoding="cp1252")
-    idees_grouped = idees.groupby("fichier").apply(lambda x: x.to_dict(orient="records")).reset_index()
-    idees_grouped.columns = ["fichier", "idees"]
+        idees_v2 = pd.read_csv("idees_v2.csv", encoding="cp1252")
+    idees_v2_grouped = idees_v2.groupby("fichier").apply(lambda x: x.to_dict(orient="records")).reset_index()
+    idees_v2_grouped.columns = ["fichier", "idees_v2"]
 
     try:
-        sujets = pd.read_csv("sujet.csv", encoding="utf-8")
+        idees = pd.read_csv("idees.csv", encoding="utf-8")
     except UnicodeDecodeError:
-        sujets = pd.read_csv("sujet.csv", encoding="cp1252")
-    sujets_grouped = sujets.groupby("fichier").apply(lambda x: x["sujet"].tolist()).reset_index()
-    sujets_grouped.columns = ["fichier", "sujets"]
+        idees = pd.read_csv("idees.csv", encoding="cp1252")
+    idees_grouped = idees.groupby("fichier").apply(lambda x: x["idee"].tolist()).reset_index()
+    idees_grouped.columns = ["fichier", "sujets"]
 
     try:
         themes = pd.read_csv("themes.csv", encoding="utf-8")
@@ -68,8 +68,8 @@ def charger_urls_et_idees_themes_sujets():
         themes = pd.read_csv("themes.csv", encoding="cp1252")
     themes["themes"] = themes["themes"].fillna("")
 
-    df = pd.merge(urls, idees_grouped, on="fichier", how="left")
-    df = pd.merge(df, sujets_grouped, on="fichier", how="left")
+    df = pd.merge(urls, idees_v2_grouped, on="fichier", how="left")
+    df = pd.merge(df, idees_grouped, on="fichier", how="left")
     df = pd.merge(df, themes, on="fichier", how="left")
     return df
 
@@ -158,7 +158,7 @@ elif menu == "🎥 Toutes les vidéos":
         url_complet = row["url"]
         resume = row.get("resume", "")
         themes = row.get("themes", "")
-        idees = row.get("idees", [])
+        idees_v2 = row.get("idees_v2", [])
         sujets = row.get("sujets", [])
         fichier_nom = row.get("fichier", "")
 
@@ -204,9 +204,9 @@ elif menu == "🎥 Toutes les vidéos":
                     for sujet in sujets:
                         st.markdown(f"- {sujet}")
 
-            if idees:
+            if idees_v2:
                 with st.expander("🌟 Grands moments de la vidéo"):
-                    for idee_obj in idees:
+                    for idee_obj in idees_v2:
                         idee = idee_obj.get("idee", "")
                         start = idee_obj.get("start", 0)
                         if idee and youtube_id:
