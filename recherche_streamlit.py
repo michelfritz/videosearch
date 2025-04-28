@@ -30,7 +30,6 @@ def bouton_telecharger_newsletter(nom_fichier, contenu_html):
         mime="text/html"
     )
 
-# 📚 Charger les données
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_fusionnes.csv")
@@ -59,8 +58,12 @@ def charger_urls_et_idees_themes_sujets():
         idees = pd.read_csv("idees.csv", encoding="utf-8")
     except UnicodeDecodeError:
         idees = pd.read_csv("idees.csv", encoding="cp1252")
-    idees_grouped = idees.groupby("fichier").apply(lambda x: x["idee"].tolist()).reset_index()
-    idees_grouped.columns = ["fichier", "sujets"]
+
+    if "idee" in idees.columns:
+        idees_grouped = idees.groupby("fichier").apply(lambda x: x["idee"].dropna().tolist()).reset_index()
+        idees_grouped.columns = ["fichier", "sujets"]
+    else:
+        idees_grouped = pd.DataFrame(columns=["fichier", "sujets"])
 
     try:
         themes = pd.read_csv("themes.csv", encoding="utf-8")
@@ -73,7 +76,6 @@ def charger_urls_et_idees_themes_sujets():
     df = pd.merge(df, themes, on="fichier", how="left")
     return df
 
-# 🔎 Embedding OpenAI
 def embed_openai(query):
     response = openai.embeddings.create(
         input=query,
@@ -82,14 +84,12 @@ def embed_openai(query):
     )
     return np.array(response.data[0].embedding)
 
-# 🔥 Recherche de similarité
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     similarities = np.dot(vecteurs, vecteur_query)
     indices = np.where(similarities >= seuil)[0]
     top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
     return top_indices, similarities[top_indices]
 
-# 🛠 Interface Streamlit
 st.title("📚 Base de connaissance A LA LUCARNE")
 
 df, vecteurs = charger_donnees()
