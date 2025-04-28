@@ -26,7 +26,12 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    urls = pd.read_csv("urls.csv", encoding="utf-8")
+    # 🔥 Correction intelligente ici
+    try:
+        urls = pd.read_csv("urls.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        urls = pd.read_csv("urls.csv", encoding="cp1252")
+
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
