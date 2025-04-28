@@ -7,6 +7,10 @@ import numpy as np
 import pickle
 import openai
 import chardet
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
+
 
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
