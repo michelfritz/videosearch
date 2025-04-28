@@ -101,7 +101,8 @@ if menu == "🔍 Recherche":
     col1, col2 = st.columns([3, 1])
 
     with col1:
-        search_input = st.text_input("🧐 Que veux-tu savoir ?", value=st.session_state.search_query)
+        st.text_input("🧐 Que veux-tu savoir ?", key="search_query")
+
     with col2:
         if st.button("🔄 Réinitialiser"):
             st.session_state.selected_theme = ""
