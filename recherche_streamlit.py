@@ -273,3 +273,50 @@ elif menu == "🎥 Toutes les vidéos":
                             st.markdown(f"- {idee_text}")
 
         st.markdown("---")
+
+elif menu == "🧠 Moteur intelligent":
+    st.header("🧠 Assistant IA basé sur vos formations vidéos")
+    
+    user_question = st.text_input("Pose ta question :", key="user_question")
+    
+    if user_question:
+        with st.spinner("Recherche intelligente en cours..."):
+            # Charger FAISS
+            vectordb = FAISS.load_local(
+                "faiss_transcripts",
+                OpenAIEmbeddings(openai_api_key=openai.api_key),
+                allow_dangerous_deserialization=True
+            )
+
+            # Recherche dans FAISS
+            docs = vectordb.similarity_search(user_question, k=5)
+
+            # Contexte pour GPT
+            context = ""
+            for doc in docs:
+                url = doc.metadata.get("url", "URL inconnue")
+                context += f"[Source: {url}]\n{doc.page_content}\n\n"
+
+            # Construire prompt
+            prompt = f"""
+Tu es un expert de notre entreprise. Voici des extraits de nos formations :
+
+{context}
+
+Réponds précisément à la question suivante en utilisant uniquement ces extraits.
+Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette information dans notre base actuelle."
+
+Question : {user_question}
+"""
+
+            # Appel à GPT-4 Turbo
+            llm = ChatOpenAI(
+                model="gpt-4-0125-preview",
+                temperature=0.2,
+                openai_api_key=openai.api_key
+            )
+            response = llm.invoke(prompt)
+
+            # Afficher la réponse
+            st.success(response.content)
+
