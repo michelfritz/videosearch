@@ -1,4 +1,3 @@
-
 import os
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
@@ -10,10 +9,8 @@ import openai
 
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
-# 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# 📂 Dossier newsletters
 DOSSIER_NEWSLETTERS = "newsletters"
 
 # --- Fonctions newsletters ---
@@ -42,7 +39,7 @@ def charger_donnees():
     return df, vecteurs
 
 @st.cache_data
-def charger_urls_et_idees_themes():
+def charger_urls_et_idees_themes_sujets():
     try:
         urls = pd.read_csv("urls.csv", encoding="utf-8")
     except UnicodeDecodeError:
@@ -51,14 +48,28 @@ def charger_urls_et_idees_themes():
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
 
-    idees = pd.read_csv("idees_v2.csv", encoding="utf-8")
+    try:
+        idees = pd.read_csv("idees_v2.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        idees = pd.read_csv("idees_v2.csv", encoding="cp1252")
     idees_grouped = idees.groupby("fichier").apply(lambda x: x.to_dict(orient="records")).reset_index()
     idees_grouped.columns = ["fichier", "idees"]
 
-    themes = pd.read_csv("themes.csv", encoding="utf-8")
+    try:
+        sujets = pd.read_csv("sujet.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        sujets = pd.read_csv("sujet.csv", encoding="cp1252")
+    sujets_grouped = sujets.groupby("fichier").apply(lambda x: x["sujet"].tolist()).reset_index()
+    sujets_grouped.columns = ["fichier", "sujets"]
+
+    try:
+        themes = pd.read_csv("themes.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        themes = pd.read_csv("themes.csv", encoding="cp1252")
     themes["themes"] = themes["themes"].fillna("")
 
     df = pd.merge(urls, idees_grouped, on="fichier", how="left")
+    df = pd.merge(df, sujets_grouped, on="fichier", how="left")
     df = pd.merge(df, themes, on="fichier", how="left")
     return df
 
@@ -81,11 +92,9 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
 # 🛠 Interface Streamlit
 st.title("📚 Base de connaissance A LA LUCARNE")
 
-# 📚 Charger les données
 df, vecteurs = charger_donnees()
-urls_df = charger_urls_et_idees_themes()
+urls_df = charger_urls_et_idees_themes_sujets()
 
-# 📂 Menu latéral
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
 if menu == "🔍 Recherche":
@@ -150,6 +159,7 @@ elif menu == "🎥 Toutes les vidéos":
         resume = row.get("resume", "")
         themes = row.get("themes", "")
         idees = row.get("idees", [])
+        sujets = row.get("sujets", [])
         fichier_nom = row.get("fichier", "")
 
         if "watch?v=" in url_complet:
@@ -170,7 +180,6 @@ elif menu == "🎥 Toutes les vidéos":
             if resume:
                 st.markdown(f"📜 {resume}")
 
-            # Bouton Newsletter ici
             if fichier_nom:
                 if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
                     newsletter_contenu = charger_newsletter_html(fichier_nom)
@@ -181,7 +190,6 @@ elif menu == "🎥 Toutes les vidéos":
                     else:
                         st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
 
-            # Afficher tags
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
                 for theme in themes.split("|"):
@@ -191,7 +199,11 @@ elif menu == "🎥 Toutes les vidéos":
                 tags_html += "</div>"
                 st.markdown(tags_html, unsafe_allow_html=True)
 
-            # Afficher grands moments
+            if sujets:
+                with st.expander("📚 Sujets principaux de la vidéo", expanded=False):
+                    for sujet in sujets:
+                        st.markdown(f"- {sujet}")
+
             if idees:
                 with st.expander("🌟 Grands moments de la vidéo"):
                     for idee_obj in idees:
