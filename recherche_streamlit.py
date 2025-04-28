@@ -17,13 +17,13 @@ st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 # 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# 🔥 Détection d'encodage
+# 🔥 Détection encodage
 def detect_encoding(file_path):
     with open(file_path, 'rb') as f:
         result = chardet.detect(f.read(10000))
     return result['encoding']
 
-# 📚 Chargement des données blindé
+# 📚 Charger les données blindées
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_fusionnes.csv")
@@ -53,7 +53,7 @@ def charger_urls_et_idees_themes():
     df = pd.merge(df, themes, on="fichier", how="left")
     return df, idees_v2, themes, mesthemes_list
 
-# 🔎 OpenAI Embedding
+# 🔎 Embedding OpenAI
 def embed_openai(query):
     response = openai.embeddings.create(
         input=query,
@@ -73,7 +73,7 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
-# 🔖 Préparer les thèmes
+# 🔖 Préparer tous les thèmes
 all_themes = set()
 for theme_list in themes_df["themes"].dropna():
     for theme in theme_list.split("|"):
@@ -81,54 +81,56 @@ for theme_list in themes_df["themes"].dropna():
         if theme:
             all_themes.add(theme)
 
-# 🧠 Session
+# 🧠 Gérer session
 if "selected_theme" not in st.session_state:
     st.session_state.selected_theme = ""
 
-if "search_query" not in st.session_state:
-    st.session_state.search_query = ""
+if "reset_search" not in st.session_state:
+    st.session_state.reset_search = False
 
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
 if menu == "🔍 Recherche":
     col1, col2 = st.columns([3,1])
 
-    # Conteneur d'affichage pour input
-    search_placeholder = col1.empty()
+    # Réinitialiser si besoin
+    if st.session_state.reset_search:
+        if "search_query" in st.session_state:
+            del st.session_state["search_query"]
+        st.session_state.reset_search = False
 
-    # Afficher le champ de recherche dans un conteneur vide
-    with search_placeholder:
+    # Champ de recherche
+    with col1:
         st.text_input("🔍 Que veux-tu savoir ?", key="search_query")
-
+    
     # Bouton Réinitialiser
     with col2:
         if st.button("🔄 Réinitialiser"):
-            st.session_state.search_query = ""
             st.session_state.selected_theme = ""
-            search_placeholder.empty()  # Vide l'affichage
-            st.experimental_rerun()  # Redémarre proprement
+            st.session_state.reset_search = True
+            st.experimental_rerun()
 
     seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
-    # Mes Thèmes
+    # 🌟 Mes Thèmes personnalisés
     with st.expander("✨ Mes Thèmes personnalisés", expanded=False):
         cols = st.columns(4)
         for i, theme in enumerate(sorted(mesthemes_list)):
             if cols[i % 4].button(theme, key=f"mestheme_{theme}"):
                 st.session_state.selected_theme = theme
-                st.session_state.search_query = ""
+                st.session_state.reset_search = True
                 st.experimental_rerun()
 
-    # Tous les Thèmes
+    # 🌟 Tous les Thèmes
     with st.expander("🏷️ Tous les Thèmes", expanded=False):
         cols = st.columns(4)
         for i, theme in enumerate(sorted(all_themes)):
             if cols[i % 4].button(theme, key=f"theme_{theme}"):
                 st.session_state.selected_theme = theme
-                st.session_state.search_query = ""
+                st.session_state.reset_search = True
                 st.experimental_rerun()
 
-    # Déterminer la requête
+    # Définir la requête
     query = st.session_state.get("search_query", "").strip() or st.session_state.get("selected_theme", "").strip()
 
     if query:
@@ -159,7 +161,6 @@ if menu == "🔍 Recherche":
 
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
-
     recherche = st.text_input("🔍 Recherche par titre, résumé, idée ou thème", key="video_search")
 
     tri = st.selectbox("📜 Trier par", ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A"))
