@@ -13,8 +13,9 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def extraire_idees(texte_resume):
     prompt = (
         "Voici le résumé d'une vidéo. Extrait entre 5 et 10 idées principales concrètes et actionnables, "
-        "sous forme de courtes phrases claires adaptées à l'immobilier ou au business. "
-        "Formate la réponse sous forme d'une liste numérotée sans texte additionnel.\n\n"
+        "sous forme de courtes phrases claires, dont il FAUT qu'elles soient adaptées à l'immobilier ou au business. "
+        "Oublie tout les sujets hors du champs business et du secteur immobilier."
+	"Formate la réponse sous forme d'une liste numérotée sans texte additionnel.\n\n"
         f"Texte :\n{texte_resume}\n"
     )
 

@@ -10,10 +10,8 @@ import openai
 
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
-# 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# 📂 Dossier newsletters
 DOSSIER_NEWSLETTERS = "newsletters"
 
 # --- Fonctions newsletters ---
@@ -33,7 +31,6 @@ def bouton_telecharger_newsletter(nom_fichier, contenu_html):
         mime="text/html"
     )
 
-# 📚 Charger les données
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_fusionnes.csv")
@@ -43,26 +40,27 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    try:
-        urls = pd.read_csv("urls.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        urls = pd.read_csv("urls.csv", encoding="cp1252")
+    urls = pd.read_csv("urls.csv", encoding="utf-8")
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
 
-    idees = pd.read_csv("idees_v2.csv", encoding="utf-8")
-    idees_grouped = idees.groupby("fichier").apply(lambda x: x.to_dict(orient="records")).reset_index()
+    idees_v2 = pd.read_csv("idees_v2.csv", encoding="utf-8")
+    idees_grouped = idees_v2.groupby("fichier").apply(lambda x: x.to_dict(orient="records")).reset_index()
     idees_grouped.columns = ["fichier", "idees"]
 
     themes = pd.read_csv("themes.csv", encoding="utf-8")
     themes["themes"] = themes["themes"].fillna("")
 
+    idees_base = pd.read_csv("idees.csv", encoding="utf-8")
+    idees_base_grouped = idees_base.groupby("fichier")["idee"].apply(list).reset_index()
+
     df = pd.merge(urls, idees_grouped, on="fichier", how="left")
     df = pd.merge(df, themes, on="fichier", how="left")
+    df = pd.merge(df, idees_base_grouped, on="fichier", how="left")
+
     return df
 
-# 🔎 Embedding OpenAI
 def embed_openai(query):
     response = openai.embeddings.create(
         input=query,
@@ -71,26 +69,23 @@ def embed_openai(query):
     )
     return np.array(response.data[0].embedding)
 
-# 🔥 Recherche de similarité
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     similarities = np.dot(vecteurs, vecteur_query)
     indices = np.where(similarities >= seuil)[0]
     top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
     return top_indices, similarities[top_indices]
 
-# 🛠 Interface Streamlit
+# --- App Streamlit ---
 st.title("📚 Base de connaissance A LA LUCARNE")
 
-# 📚 Charger les données
 df, vecteurs = charger_donnees()
 urls_df = charger_urls_et_idees_themes()
 
-# 📂 Menu latéral
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
 if menu == "🔍 Recherche":
     query = st.text_input("🧐 Que veux-tu savoir ?", "")
-    seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
+    seuil = st.slider("🎯 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
     if query:
         with st.spinner("🔍 Recherche en cours..."):
@@ -98,7 +93,7 @@ if menu == "🔍 Recherche":
             indices, scores = rechercher_similaires(vecteur_query, vecteurs, seuil=seuil)
 
         if len(indices) == 0:
-            st.warning("Aucun résultat trouvé. 😕 Essaie une autre requête ou baisse l'exigence.")
+            st.warning("Aucun résultat trouvé.")
         else:
             st.markdown("### 🌟 Résultats pertinents :")
             for idx, score in zip(indices, scores):
@@ -151,6 +146,7 @@ elif menu == "🎥 Toutes les vidéos":
         themes = row.get("themes", "")
         idees = row.get("idees", [])
         fichier_nom = row.get("fichier", "")
+        idees_base = row.get("idee", [])
 
         if "watch?v=" in url_complet:
             youtube_id = url_complet.split("watch?v=")[-1]
@@ -161,47 +157,50 @@ elif menu == "🎥 Toutes les vidéos":
 
         thumbnail_url = f"https://img.youtube.com/vi/{youtube_id}/0.jpg"
 
-        col1, col2 = st.columns([1, 5])
+        col1, col2 = st.columns([5, 1])
         with col1:
             st.image(thumbnail_url, width=140)
-        with col2:
             st.markdown(f"### [{video_name}]({url_complet})")
             st.markdown(f"🗓️ *{video_date}*")
             if resume:
                 st.markdown(f"📜 {resume}")
+        with col2:
+            if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
+                newsletter_contenu = charger_newsletter_html(fichier_nom)
+                if newsletter_contenu:
+                    with st.expander("📬 Newsletter liée à cette vidéo"):
+                        st.markdown(newsletter_contenu, unsafe_allow_html=True)
+                        bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
+                else:
+                    st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
 
-            # Bouton Newsletter ici
-            if fichier_nom:
-                if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
-                    newsletter_contenu = charger_newsletter_html(fichier_nom)
-                    if newsletter_contenu:
-                        with st.expander("📬 Newsletter liée à cette vidéo"):
-                            st.markdown(newsletter_contenu, unsafe_allow_html=True)
-                            bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
-                    else:
-                        st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
+        # Tags visuels
+        if themes:
+            tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
+            for theme in themes.split("|"):
+                theme = theme.strip()
+                if theme:
+                    tags_html += f"<a style='background-color: #e1e4e8; padding: 5px 10px; border-radius: 15px; text-decoration: none; color: black; font-size: 14px;' href='?theme={theme}'>{theme}</a>"
+            tags_html += "</div>"
+            st.markdown(tags_html, unsafe_allow_html=True)
 
-            # Afficher tags
-            if themes:
-                tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
-                for theme in themes.split("|"):
-                    theme = theme.strip()
-                    if theme:
-                        tags_html += f"<a style='background-color: #e1e4e8; padding: 5px 10px; border-radius: 15px; text-decoration: none; color: black; font-size: 14px;' href='?theme={theme}'>{theme}</a>"
-                tags_html += "</div>"
-                st.markdown(tags_html, unsafe_allow_html=True)
+        # Grandes idées générales (non cliquables)
+        if idees_base:
+            with st.expander("🧠 Grandes idées générales"):
+                for idee_text in idees_base:
+                    st.markdown(f"- {idee_text}")
 
-            # Afficher grands moments
-            if idees:
-                with st.expander("🌟 Grands moments de la vidéo"):
-                    for idee_obj in idees:
-                        idee = idee_obj.get("idee", "")
-                        start = idee_obj.get("start", 0)
-                        if idee and youtube_id:
-                            st.markdown(f"- [{idee}](https://www.youtube.com/watch?v={youtube_id}&t={start}s)")
-                        elif idee:
-                            st.markdown(f"- {idee}")
+        # Grands moments (cliquables)
+        if idees:
+            with st.expander("🌟 Grands moments de la vidéo"):
+                for idee_obj in idees:
+                    idee = idee_obj.get("idee", "")
+                    start = idee_obj.get("start", 0)
+                    if idee and youtube_id:
+                        st.markdown(f"- [{idee}](https://www.youtube.com/watch?v={youtube_id}&t={start}s)")
+                    elif idee:
+                        st.markdown(f"- {idee}")
 
-            st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
+        st.markdown(f"[▶️ Voir sur YouTube]({url_complet})")
 
         st.markdown("---")
