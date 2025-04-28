@@ -77,22 +77,7 @@ def charger_urls_et_idees_themes_sujets():
     df = pd.merge(df, themes, on="fichier", how="left")
     return df
 
-def embed_openai(query):
-    response = openai.embeddings.create(
-        input=query,
-        model="text-embedding-3-small",
-        encoding_format="float"
-    )
-    return np.array(response.data[0].embedding)
-
-def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
-    similarities = np.dot(vecteurs, vecteur_query)
-    indices = np.where(similarities >= seuil)[0]
-    top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
-    return top_indices, similarities[top_indices]
-
-# --- Interface Streamlit ---
-
+# --- Interface principale ---
 st.title("📚 Base de connaissance A LA LUCARNE")
 
 df, vecteurs = charger_donnees()
@@ -100,18 +85,40 @@ urls_df = charger_urls_et_idees_themes_sujets()
 
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
-if menu == "🎥 Toutes les vidéos":
-    st.header("📚 Liste des vidéos disponibles")
+if menu == "🔍 Recherche":
+    query = st.text_input("🧐 Que veux-tu savoir ?", "")
+    seuil = st.slider("🎯 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
-    recherche = st.text_input("🔍 Recherche par titre, résumé, idée ou thème", "")
+    if query:
+        vecteur_query = embed_openai(query)
+        indices, scores = rechercher_similaires(vecteur_query, vecteurs, seuil=seuil)
 
-    tri = st.selectbox(
-        "📜 Trier par",
-        ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
-    )
+        if len(indices) == 0:
+            st.warning("Aucun résultat trouvé.")
+        else:
+            for idx, score in zip(indices, scores):
+                bloc = df.iloc[idx]
+                url_complet = bloc["url"]
+                youtube_id = ""
+                if "watch?v=" in url_complet:
+                    youtube_id = url_complet.split("watch?v=")[-1]
+                elif "youtu.be/" in url_complet:
+                    youtube_id = url_complet.split("youtu.be/")[-1]
+
+                start_time = int(float(bloc.get("start", 0)))
+                embed_url = f"https://www.youtube.com/embed/{youtube_id}?start={start_time}&autoplay=0"
+
+                with st.expander(f"⏱️ {start_time}s — 💬 {bloc['text'][:60]}..."):
+                    st.markdown(f"**Texte complet :** {bloc['text']}")
+                    if youtube_id:
+                        st.components.v1.iframe(embed_url, height=315)
+
+elif menu == "🎥 Toutes les vidéos":
+    recherche = st.text_input("🔍 Rechercher une vidéo", "")
+    tri = st.selectbox("Trier par", ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A"))
 
     if recherche:
-        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"]) + str(row["resume"]) + str(row.get("themes", ""))).lower(), axis=1)]
+        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"])+str(row["resume"])+str(row.get("themes", ""))).lower(), axis=1)]
 
     if tri == "Date récente":
         urls_df = urls_df.sort_values("date", ascending=False)
@@ -122,12 +129,10 @@ if menu == "🎥 Toutes les vidéos":
     elif tri == "Titre Z → A":
         urls_df = urls_df.sort_values("titre", ascending=False)
 
-    st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
-
     for _, row in urls_df.iterrows():
         video_name = row.get("titre", "Titre inconnu")
         video_date = row.get("date", "Date inconnue")
-        url_complet = row["url"]
+        url_complet = row.get("url", "")
         resume = row.get("resume", "")
         themes = row.get("themes", "")
         idees_v2 = row.get("idees_v2", [])
@@ -160,7 +165,7 @@ if menu == "🎥 Toutes les vidéos":
                             st.markdown(newsletter_contenu, unsafe_allow_html=True)
                             bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
                     else:
-                        st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
+                        st.warning("❌ Pas de newsletter disponible.")
 
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
