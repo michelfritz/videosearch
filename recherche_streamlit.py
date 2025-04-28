@@ -40,19 +40,24 @@ def charger_donnees():
 @st.cache_data
 def charger_urls_et_idees_themes():
     try:
-    urls = pd.read_csv("urls.csv", encoding="utf-8")
-except UnicodeDecodeError:
-    urls = pd.read_csv("urls.csv", encoding="cp1252")
-
+        urls = pd.read_csv("urls.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        urls = pd.read_csv("urls.csv", encoding="cp1252")
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
 
-    idees = pd.read_csv("idees.csv", encoding="utf-8")
+    try:
+        idees = pd.read_csv("idees.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        idees = pd.read_csv("idees.csv", encoding="cp1252")
     idees_grouped = idees.groupby("fichier").apply(lambda x: x.to_dict(orient="records")).reset_index()
     idees_grouped.columns = ["fichier", "idees"]
 
-    themes = pd.read_csv("themes.csv", encoding="utf-8")
+    try:
+        themes = pd.read_csv("themes.csv", encoding="utf-8")
+    except UnicodeDecodeError:
+        themes = pd.read_csv("themes.csv", encoding="cp1252")
     themes["themes"] = themes["themes"].fillna("")
 
     df = pd.merge(urls, idees_grouped, on="fichier", how="left")
