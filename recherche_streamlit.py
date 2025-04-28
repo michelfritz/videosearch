@@ -12,6 +12,28 @@ st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide"
 # 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
+# 📂 Dossier newsletters
+DOSSIER_NEWSLETTERS = "newsletters"
+
+# --- Fonctions newsletters ---
+def charger_newsletter_html(nom_fichier):
+    chemin = os.path.join(DOSSIER_NEWSLETTERS, f"{nom_fichier}.html")
+    if os.path.exists(chemin):
+        with open(chemin, "r", encoding="utf-8") as f:
+            return f.read()
+    else:
+        return None
+
+def bouton_telecharger_newsletter(nom_fichier, contenu_html):
+    st.download_button(
+        label="⬇️ Télécharger la Newsletter",
+        data=contenu_html,
+        file_name=f"{nom_fichier}.html",
+        mime="text/html"
+    )
+
+
+
 # 📚 Charger les données
 @st.cache_data
 def charger_donnees():
@@ -149,6 +171,19 @@ elif menu == "🎥 Toutes les vidéos":
             st.markdown(f"🗓️ *{video_date}*")
             if resume:
                 st.markdown(f"📜 {resume}")
+
+            # Bouton Newsletter ici
+            if fichier_nom:
+                if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
+                    newsletter_contenu = charger_newsletter_html(fichier_nom)
+                    if newsletter_contenu:
+                        with st.expander("📬 Newsletter liée à cette vidéo"):
+                            st.markdown(newsletter_contenu, unsafe_allow_html=True)
+                            bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
+                    else:
+                        st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
+
+
 
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
