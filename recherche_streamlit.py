@@ -101,8 +101,8 @@ if menu == "🔍 Recherche":
         st.text_input("🔍 Que veux-tu savoir ?", key="search_query")
     with col2:
         if st.button("🔄 Réinitialiser"):
-            st.session_state.selected_theme = ""
-            st.session_state.search_query = ""
+            st.session_state["selected_theme"] = ""
+            st.session_state["search_query"] = ""
             st.experimental_rerun()
 
     seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
@@ -112,8 +112,8 @@ if menu == "🔍 Recherche":
         cols = st.columns(4)
         for i, theme in enumerate(sorted(mesthemes_list)):
             if cols[i % 4].button(theme, key=f"mestheme_{theme}"):
-                st.session_state.selected_theme = theme
-                st.session_state.search_query = ""
+                st.session_state["selected_theme"] = theme
+                st.session_state["search_query"] = ""
                 st.experimental_rerun()
 
     # Expander Tous les Thèmes
@@ -121,11 +121,11 @@ if menu == "🔍 Recherche":
         cols = st.columns(4)
         for i, theme in enumerate(sorted(all_themes)):
             if cols[i % 4].button(theme, key=f"theme_{theme}"):
-                st.session_state.selected_theme = theme
-                st.session_state.search_query = ""
+                st.session_state["selected_theme"] = theme
+                st.session_state["search_query"] = ""
                 st.experimental_rerun()
 
-    query = st.session_state.search_query.strip() if st.session_state.search_query.strip() else st.session_state.selected_theme
+    query = st.session_state.get("search_query", "").strip() or st.session_state.get("selected_theme", "").strip()
 
     if query:
         with st.spinner("🔍 Recherche en cours..."):
