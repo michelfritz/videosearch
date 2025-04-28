@@ -12,28 +12,6 @@ st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide"
 # 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# 📂 Dossier newsletters
-DOSSIER_NEWSLETTERS = "newsletters"
-
-# --- Fonctions newsletters ---
-def charger_newsletter_html(nom_fichier):
-    chemin = os.path.join(DOSSIER_NEWSLETTERS, f"{nom_fichier}.html")
-    if os.path.exists(chemin):
-        with open(chemin, "r", encoding="utf-8") as f:
-            return f.read()
-    else:
-        return None
-
-def bouton_telecharger_newsletter(nom_fichier, contenu_html):
-    st.download_button(
-        label="⬇️ Télécharger la Newsletter",
-        data=contenu_html,
-        file_name=f"{nom_fichier}.html",
-        mime="text/html"
-    )
-
-
-
 # 📚 Charger les données
 @st.cache_data
 def charger_donnees():
@@ -62,7 +40,7 @@ def charger_urls_et_idees_themes():
 
     df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
     df = pd.merge(df, themes, left_on="fichier", right_on="fichier", how="left")
-    return df, idees_v2
+    return df, idees_v2, themes
 
 # 🔎 Embedding OpenAI
 def embed_openai(query):
@@ -85,14 +63,29 @@ st.title("📚 Base de connaissance A LA LUCARNE")
 
 # 📚 Charger les données
 df, vecteurs = charger_donnees()
-urls_df, idees_v2_df = charger_urls_et_idees_themes()
+urls_df, idees_v2_df, themes_df = charger_urls_et_idees_themes()
 
 # 📂 Menu latéral
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
+# Préparation de tous les thèmes pour le nuage
+all_themes = set()
+for theme_list in themes_df["themes"].dropna():
+    for theme in theme_list.split("|"):
+        theme = theme.strip()
+        if theme:
+            all_themes.add(theme)
+
 if menu == "🔍 Recherche":
     query = st.text_input("🧐 Que veux-tu savoir ?", "")
     seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
+
+    with st.expander("🏷️ Explorer par thème"):
+        tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
+        for theme in sorted(all_themes):
+            tags_html += f"<a href='?query={theme}' style='background-color: #d0ebff; padding: 5px 10px; border-radius: 15px; text-decoration: none; color: black; font-size: 14px;'>{theme}</a>"
+        tags_html += "</div>"
+        st.markdown(tags_html, unsafe_allow_html=True)
 
     if query:
         with st.spinner("🔍 Recherche en cours..."):
@@ -172,19 +165,6 @@ elif menu == "🎥 Toutes les vidéos":
             if resume:
                 st.markdown(f"📜 {resume}")
 
-            # Bouton Newsletter ici
-            if fichier_nom:
-                if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
-                    newsletter_contenu = charger_newsletter_html(fichier_nom)
-                    if newsletter_contenu:
-                        with st.expander("📬 Newsletter liée à cette vidéo"):
-                            st.markdown(newsletter_contenu, unsafe_allow_html=True)
-                            bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
-                    else:
-                        st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
-
-
-
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
                 for theme in themes.split("|"):
@@ -193,6 +173,8 @@ elif menu == "🎥 Toutes les vidéos":
                         tags_html += f"<span style='background-color: #e1e4e8; padding: 5px 10px; border-radius: 15px;'>{theme}</span>"
                 tags_html += "</div>"
                 st.markdown(tags_html, unsafe_allow_html=True)
+
+            st.markdown("<div style='height: 10px;'></div>", unsafe_allow_html=True)
 
             if idees:
                 with st.expander("🌟 Grands moments de la vidéo"):
