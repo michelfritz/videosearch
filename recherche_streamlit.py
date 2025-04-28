@@ -12,7 +12,6 @@ st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide"
 
 # 🎨 Afficher le logo de La Lucarne
 st.image("logo_lucarne.png", width=180)
-st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 
 
 # 🔐 Clé API OpenAI
