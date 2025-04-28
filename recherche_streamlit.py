@@ -22,10 +22,7 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    try:
-        urls = pd.read_csv("urls.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        urls = pd.read_csv("urls.csv", encoding="cp1252")
+    urls = pd.read_csv("urls.csv", encoding="utf-8")
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
@@ -38,9 +35,12 @@ def charger_urls_et_idees_themes():
     themes = pd.read_csv("themes.csv", encoding="utf-8")
     themes["themes"] = themes["themes"].fillna("")
 
+    mesthemes = pd.read_csv("mesthemes.csv", encoding="utf-8")
+    mesthemes_list = mesthemes["themes"].dropna().tolist()
+
     df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
     df = pd.merge(df, themes, left_on="fichier", right_on="fichier", how="left")
-    return df, idees_v2, themes
+    return df, idees_v2, themes, mesthemes_list
 
 # 🔎 Embedding OpenAI
 def embed_openai(query):
@@ -63,9 +63,9 @@ st.title("📚 Base de connaissance A LA LUCARNE")
 
 # 📚 Charger les données
 df, vecteurs = charger_donnees()
-urls_df, idees_v2_df, themes_df = charger_urls_et_idees_themes()
+urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
-# Préparation des thèmes
+# Préparer tous les thèmes
 all_themes = set()
 for theme_list in themes_df["themes"].dropna():
     for theme in theme_list.split("|"):
@@ -76,7 +76,6 @@ for theme_list in themes_df["themes"].dropna():
 if "selected_theme" not in st.session_state:
     st.session_state.selected_theme = ""
 
-# Menu principal
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
 if menu == "🔍 Recherche":
@@ -89,18 +88,27 @@ if menu == "🔍 Recherche":
             st.session_state.selected_theme = ""
             st.experimental_rerun()
 
-    seuil = st.slider("🎯 Exigence des résultats (plus haut = plus précis)", 0.1, 0.9, 0.5, 0.05)
+    seuil = st.slider("🎯 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
-    with st.expander("🏷️ Explorer par thème", expanded=False):
-        theme_cols = st.columns(4)
-        for idx, theme in enumerate(sorted(all_themes)):
-            with theme_cols[idx % 4]:
-                if st.button(theme, key=f"theme_{theme}"):
-                    st.session_state.selected_theme = theme
-                    st.experimental_rerun()
+    # Mes thèmes personnalisés
+    with st.expander("✨ Mes Thèmes personnalisés", expanded=False):
+        cols = st.columns(4)
+        for i, theme in enumerate(sorted(mesthemes_list)):
+            if cols[i % 4].button(theme, key=f"mestheme_{theme}"):
+                st.session_state.selected_theme = theme
+                search_input = ""
+                st.experimental_rerun()
 
-    # Déterminer quelle requête prendre
-    query = st.session_state.selected_theme or search_input.strip()
+    # Thèmes automatiques
+    with st.expander("🏷️ Tous les Thèmes", expanded=False):
+        cols = st.columns(4)
+        for i, theme in enumerate(sorted(all_themes)):
+            if cols[i % 4].button(theme, key=f"theme_{theme}"):
+                st.session_state.selected_theme = theme
+                search_input = ""
+                st.experimental_rerun()
+
+    query = search_input.strip() if search_input.strip() else st.session_state.selected_theme
 
     if query:
         with st.spinner("🔍 Recherche en cours..."):
@@ -108,7 +116,7 @@ if menu == "🔍 Recherche":
             indices, scores = rechercher_similaires(vecteur_query, vecteurs, seuil=seuil)
 
         if len(indices) == 0:
-            st.warning("Aucun résultat trouvé. 😕 Essaie une autre requête ou baisse l'exigence.")
+            st.warning("Aucun résultat trouvé.")
         else:
             st.markdown("### 🌟 Résultats pertinents :")
             for idx, score in zip(indices, scores):
@@ -134,10 +142,7 @@ elif menu == "🎥 Toutes les vidéos":
 
     recherche = st.text_input("🔍 Recherche par titre, résumé, idée ou thème", "")
 
-    tri = st.selectbox(
-        "📜 Trier par",
-        ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A")
-    )
+    tri = st.selectbox("📜 Trier par", ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A"))
 
     if recherche:
         urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"])+str(row["resume"])+str(row["idees"])+str(row["themes"])).lower(), axis=1)]
