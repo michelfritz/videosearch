@@ -7,37 +7,14 @@ import numpy as np
 import pickle
 import openai
 
-
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
 # 🎨 Afficher le logo de La Lucarne
 st.image("logo_lucarne.png", width=180)
-
+st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 
 # 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
-
-# 📂 Dossier newsletters
-DOSSIER_NEWSLETTERS = "newsletters"
-
-# --- Fonctions newsletters ---
-def charger_newsletter_html(nom_fichier):
-    chemin = os.path.join(DOSSIER_NEWSLETTERS, f"{nom_fichier}.html")
-    if os.path.exists(chemin):
-        with open(chemin, "r", encoding="utf-8") as f:
-            return f.read()
-    else:
-        return None
-
-def bouton_telecharger_newsletter(nom_fichier, contenu_html):
-    st.download_button(
-        label="⬇️ Télécharger la Newsletter",
-        data=contenu_html,
-        file_name=f"{nom_fichier}.html",
-        mime="text/html"
-    )
-
-
 
 # 📚 Charger les données
 @st.cache_data
@@ -100,10 +77,7 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
     return top_indices, similarities[top_indices]
 
-# 🛠 Interface Streamlit
-st.title("📚 Base de connaissance A LA LUCARNE")
-
-# 📚 Charger les données
+# --- Interface principale
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
@@ -117,6 +91,9 @@ for theme_list in themes_df["themes"].dropna():
 
 if "selected_theme" not in st.session_state:
     st.session_state.selected_theme = ""
+
+if "search_query" not in st.session_state:
+    st.session_state.search_query = ""
 
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
@@ -139,7 +116,7 @@ if menu == "🔍 Recherche":
         for i, theme in enumerate(sorted(mesthemes_list)):
             if cols[i % 4].button(theme, key=f"mestheme_{theme}"):
                 st.session_state.selected_theme = theme
-                search_input = ""
+                st.session_state.search_query = ""
                 st.experimental_rerun()
 
     # Thèmes automatiques
@@ -148,10 +125,13 @@ if menu == "🔍 Recherche":
         for i, theme in enumerate(sorted(all_themes)):
             if cols[i % 4].button(theme, key=f"theme_{theme}"):
                 st.session_state.selected_theme = theme
-                search_input = ""
+                st.session_state.search_query = ""
                 st.experimental_rerun()
 
-    query = search_input.strip() if search_input.strip() else st.session_state.selected_theme
+    if search_input.strip() != "":
+        st.session_state.search_query = search_input
+
+    query = st.session_state.search_query.strip() if st.session_state.search_query.strip() else st.session_state.selected_theme
 
     if query:
         with st.spinner("🔍 Recherche en cours..."):
@@ -197,7 +177,7 @@ elif menu == "🎥 Toutes les vidéos":
     elif tri == "Titre A → Z":
         urls_df = urls_df.sort_values("titre", ascending=True)
     elif tri == "Titre Z → A":
-        urls_df = urls_df.sort_values("titre", ascending=False)
+        urls_df = urls_df.sort_values("titre", descending=True)
 
     st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
 
@@ -228,19 +208,6 @@ elif menu == "🎥 Toutes les vidéos":
             if resume:
                 st.markdown(f"📜 {resume}")
 
-            # Bouton Newsletter ici
-            if fichier_nom:
-                if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
-                    newsletter_contenu = charger_newsletter_html(fichier_nom)
-                    if newsletter_contenu:
-                        with st.expander("📬 Newsletter liée à cette vidéo"):
-                            st.markdown(newsletter_contenu, unsafe_allow_html=True)
-                            bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
-                    else:
-                        st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
-
-
-
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
                 for theme in themes.split("|"):
@@ -253,7 +220,7 @@ elif menu == "🎥 Toutes les vidéos":
             st.markdown("<div style='height: 10px;'></div>", unsafe_allow_html=True)
 
             if idees:
-                with st.expander("🌟 Sujets de la vidéo"):
+                with st.expander("🌟 Grands moments de la vidéo"):
                     for idee in idees.split("|"):
                         idee = idee.strip()
                         if idee and youtube_id:
@@ -261,7 +228,7 @@ elif menu == "🎥 Toutes les vidéos":
                         elif idee:
                             st.markdown(f"- {idee}")
 
-                
+                st.markdown("---")
 
                 with st.expander("🕒 Moments de la vidéo"):
                     idees_v2_video = idees_v2_df[idees_v2_df["fichier"] == fichier_nom]
