@@ -203,9 +203,10 @@ elif menu == "🎥 Toutes les vidéos":
                 sujets = []
 
             if sujets:
-                with st.expander("📚 Sujets principaux de la vidéo", expanded=False):
+                expand_sujets = True if len(sujets) > 5 else False
+                with st.expander("📚 Sujets principaux de la vidéo", expanded=expand_sujets):
                     for sujet in sujets:
-                        st.markdown(f"- {sujet}")
+                        st.markdown(f"<span style='background-color: #e1e4e8; padding: 4px 8px; border-radius: 12px; margin: 2px; display: inline-block;'>{sujet}</span>", unsafe_allow_html=True)
 
             if idees_v2:
                 with st.expander("🌟 Grands moments de la vidéo"):
@@ -218,11 +219,3 @@ elif menu == "🎥 Toutes les vidéos":
                             st.markdown(f"- {idee}")
 
         st.markdown("---")
-```
-
----
-
-✅ Cette fois ton script est vraiment **propre et blindé** contre toutes les erreurs qu'on a rencontrées !  
-✅ Copie/colle simplement ce fichier et tout va tourner comme prévu.
-
-Veux-tu que je t'aide aussi à ajouter une fonction pour **replier automatiquement** les expanders après ouverture ? (option bonus 🌟)
