@@ -9,26 +9,8 @@ import openai
 
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
+# 🔐 Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
-
-DOSSIER_NEWSLETTERS = "newsletters"
-
-# --- Fonctions newsletters ---
-def charger_newsletter_html(nom_fichier):
-    chemin = os.path.join(DOSSIER_NEWSLETTERS, f"{nom_fichier}.html")
-    if os.path.exists(chemin):
-        with open(chemin, "r", encoding="utf-8") as f:
-            return f.read()
-    else:
-        return None
-
-def bouton_telecharger_newsletter(nom_fichier, contenu_html):
-    st.download_button(
-        label="⬇️ Télécharger la Newsletter",
-        data=contenu_html,
-        file_name=f"{nom_fichier}.html",
-        mime="text/html"
-    )
 
 # 📚 Charger les données
 @st.cache_data
@@ -39,7 +21,7 @@ def charger_donnees():
     return df, vecteurs
 
 @st.cache_data
-def charger_urls_et_idees_themes_sujets():
+def charger_urls_et_idees_themes():
     try:
         urls = pd.read_csv("urls.csv", encoding="utf-8")
     except UnicodeDecodeError:
@@ -48,29 +30,14 @@ def charger_urls_et_idees_themes_sujets():
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
 
-    try:
-        idees_v2 = pd.read_csv("idees_v2.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        idees_v2 = pd.read_csv("idees_v2.csv", encoding="cp1252")
-    idees_v2_grouped = idees_v2.groupby("fichier").apply(lambda x: x.to_dict(orient="records")).reset_index()
-    idees_v2_grouped.columns = ["fichier", "idees_v2"]
+    idees = pd.read_csv("idees.csv", encoding="utf-8")
+    idees["idees"] = idees["idees"].fillna("")
 
-    try:
-        idees = pd.read_csv("idees.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        idees = pd.read_csv("idees.csv", encoding="cp1252")
-    idees_grouped = idees.groupby("fichier").apply(lambda x: x["idee"].tolist()).reset_index()
-    idees_grouped.columns = ["fichier", "sujets"]
-
-    try:
-        themes = pd.read_csv("themes.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        themes = pd.read_csv("themes.csv", encoding="cp1252")
+    themes = pd.read_csv("themes.csv", encoding="utf-8")
     themes["themes"] = themes["themes"].fillna("")
 
-    df = pd.merge(urls, idees_v2_grouped, on="fichier", how="left")
-    df = pd.merge(df, idees_grouped, on="fichier", how="left")
-    df = pd.merge(df, themes, on="fichier", how="left")
+    df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
+    df = pd.merge(df, themes, left_on="fichier", right_on="fichier", how="left")
     return df
 
 # 🔎 Embedding OpenAI
@@ -92,9 +59,11 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
 # 🛠 Interface Streamlit
 st.title("📚 Base de connaissance A LA LUCARNE")
 
+# 📚 Charger les données
 df, vecteurs = charger_donnees()
-urls_df = charger_urls_et_idees_themes_sujets()
+urls_df = charger_urls_et_idees_themes()
 
+# 📂 Menu latéral
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
 if menu == "🔍 Recherche":
@@ -139,7 +108,7 @@ elif menu == "🎥 Toutes les vidéos":
     )
 
     if recherche:
-        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"])+str(row["resume"])+str(row.get("themes", ""))).lower(), axis=1)]
+        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"])+str(row["resume"])+str(row["idees"])+str(row["themes"])).lower(), axis=1)]
 
     if tri == "Date récente":
         urls_df = urls_df.sort_values("date", ascending=False)
@@ -157,10 +126,8 @@ elif menu == "🎥 Toutes les vidéos":
         video_date = row.get("date", "Date inconnue")
         url_complet = row["url"]
         resume = row.get("resume", "")
+        idees = row.get("idees", "")
         themes = row.get("themes", "")
-        idees_v2 = row.get("idees_v2", [])
-        sujets = row.get("sujets", [])
-        fichier_nom = row.get("fichier", "")
 
         if "watch?v=" in url_complet:
             youtube_id = url_complet.split("watch?v=")[-1]
@@ -180,16 +147,7 @@ elif menu == "🎥 Toutes les vidéos":
             if resume:
                 st.markdown(f"📜 {resume}")
 
-            if fichier_nom:
-                if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
-                    newsletter_contenu = charger_newsletter_html(fichier_nom)
-                    if newsletter_contenu:
-                        with st.expander("📬 Newsletter liée à cette vidéo"):
-                            st.markdown(newsletter_contenu, unsafe_allow_html=True)
-                            bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
-                    else:
-                        st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
-
+            # Afficher nuage de petits tags en ligne
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
                 for theme in themes.split("|"):
@@ -199,18 +157,13 @@ elif menu == "🎥 Toutes les vidéos":
                 tags_html += "</div>"
                 st.markdown(tags_html, unsafe_allow_html=True)
 
-            if sujets:
-                with st.expander("📚 Sujets principaux de la vidéo", expanded=False):
-                    for sujet in sujets:
-                        st.markdown(f"- {sujet}")
-
-            if idees_v2:
+            # Afficher grands moments dans expander
+            if idees:
                 with st.expander("🌟 Grands moments de la vidéo"):
-                    for idee_obj in idees_v2:
-                        idee = idee_obj.get("idee", "")
-                        start = idee_obj.get("start", 0)
+                    for idee in idees.split("|"):
+                        idee = idee.strip()
                         if idee and youtube_id:
-                            st.markdown(f"- [{idee}](https://www.youtube.com/watch?v={youtube_id}&t={start}s)")
+                            st.markdown(f"- [{idee}](https://www.youtube.com/watch?v={youtube_id}&t=0s)")
                         elif idee:
                             st.markdown(f"- {idee}")
 
