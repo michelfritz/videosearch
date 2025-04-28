@@ -9,14 +9,14 @@ import openai
 
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
-# 🎨 Afficher le logo de La Lucarne
+# Afficher le logo
 st.image("logo_lucarne.png", width=180)
 st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 
-# 🔐 Clé API OpenAI
+# Clé API OpenAI
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# 📚 Charger les données
+# Charger les données
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_fusionnes.csv")
@@ -26,42 +26,28 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    try:
-        urls = pd.read_csv("urls.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        urls = pd.read_csv("urls.csv", encoding="cp1252")
+    urls = pd.read_csv("urls.csv", encoding="utf-8")
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
 
-    try:
-        idees = pd.read_csv("idees.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        idees = pd.read_csv("idees.csv", encoding="cp1252")
+    idees = pd.read_csv("idees.csv", encoding="utf-8")
     idees["idees"] = idees["idees"].fillna("")
 
-    try:
-        idees_v2 = pd.read_csv("idees_v2.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        idees_v2 = pd.read_csv("idees_v2.csv", encoding="cp1252")
+    idees_v2 = pd.read_csv("idees_v2.csv", encoding="utf-8")
 
-    try:
-        themes = pd.read_csv("themes.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        themes = pd.read_csv("themes.csv", encoding="cp1252")
+    themes = pd.read_csv("themes.csv", encoding="utf-8")
     themes["themes"] = themes["themes"].fillna("")
 
-    try:
-        mesthemes = pd.read_csv("mesthemes.csv", encoding="utf-8")
-    except UnicodeDecodeError:
-        mesthemes = pd.read_csv("mesthemes.csv", encoding="cp1252")
+    mesthemes = pd.read_csv("mesthemes.csv", encoding="utf-8")
     mesthemes_list = mesthemes["themes"].dropna().tolist()
 
-    df = pd.merge(urls, idees, left_on="fichier", right_on="fichier", how="left")
-    df = pd.merge(df, themes, left_on="fichier", right_on="fichier", how="left")
+    df = pd.merge(urls, idees, on="fichier", how="left")
+    df = pd.merge(df, themes, on="fichier", how="left")
     return df, idees_v2, themes, mesthemes_list
 
-# 🔎 Embedding OpenAI
+# Fonction OpenAI
+
 def embed_openai(query):
     response = openai.embeddings.create(
         input=query,
@@ -70,18 +56,17 @@ def embed_openai(query):
     )
     return np.array(response.data[0].embedding)
 
-# 🔥 Recherche de similarité
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     similarities = np.dot(vecteurs, vecteur_query)
     indices = np.where(similarities >= seuil)[0]
     top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
     return top_indices, similarities[top_indices]
 
-# --- Interface principale
+# Interface principale
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
-# Préparer tous les thèmes
+# Préparer les thèmes
 all_themes = set()
 for theme_list in themes_df["themes"].dropna():
     for theme in theme_list.split("|"):
@@ -98,18 +83,17 @@ if "search_query" not in st.session_state:
 menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos"])
 
 if menu == "🔍 Recherche":
-    col1, col2 = st.columns([3, 1])
+    col1, col2 = st.columns([3,1])
 
     with col1:
-        st.text_input("🧐 Que veux-tu savoir ?", key="search_query")
-
+        st.text_input("🤮 Que veux-tu savoir ?", key="search_query")
     with col2:
         if st.button("🔄 Réinitialiser"):
             st.session_state.selected_theme = ""
             st.session_state.search_query = ""
             st.experimental_rerun()
 
-    seuil = st.slider("🎯 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
+    seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
     # Mes thèmes personnalisés
     with st.expander("✨ Mes Thèmes personnalisés", expanded=False):
@@ -120,7 +104,7 @@ if menu == "🔍 Recherche":
                 st.session_state.search_query = ""
                 st.experimental_rerun()
 
-    # Thèmes automatiques
+    # Tous les thèmes
     with st.expander("🏷️ Tous les Thèmes", expanded=False):
         cols = st.columns(4)
         for i, theme in enumerate(sorted(all_themes)):
@@ -128,9 +112,6 @@ if menu == "🔍 Recherche":
                 st.session_state.selected_theme = theme
                 st.session_state.search_query = ""
                 st.experimental_rerun()
-
-    if search_input.strip() != "":
-        st.session_state.search_query = search_input
 
     query = st.session_state.search_query.strip() if st.session_state.search_query.strip() else st.session_state.selected_theme
 
@@ -146,12 +127,11 @@ if menu == "🔍 Recherche":
             for idx, score in zip(indices, scores):
                 bloc = df.iloc[idx]
                 url_complet = bloc["url"]
+                youtube_id = ""
                 if "watch?v=" in url_complet:
                     youtube_id = url_complet.split("watch?v=")[-1]
                 elif "youtu.be/" in url_complet:
                     youtube_id = url_complet.split("youtu.be/")[-1]
-                else:
-                    youtube_id = ""
 
                 start_time = int(float(bloc["start"]))
                 embed_url = f"https://www.youtube.com/embed/{youtube_id}?start={start_time}&autoplay=0"
@@ -169,7 +149,7 @@ elif menu == "🎥 Toutes les vidéos":
     tri = st.selectbox("📜 Trier par", ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A"))
 
     if recherche:
-        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"])+str(row["resume"])+str(row["idees"])+str(row["themes"])).lower(), axis=1)]
+        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"]) + str(row["resume"]) + str(row["idees"]) + str(row["themes"])).lower(), axis=1)]
 
     if tri == "Date récente":
         urls_df = urls_df.sort_values("date", ascending=False)
@@ -178,14 +158,14 @@ elif menu == "🎥 Toutes les vidéos":
     elif tri == "Titre A → Z":
         urls_df = urls_df.sort_values("titre", ascending=True)
     elif tri == "Titre Z → A":
-        urls_df = urls_df.sort_values("titre", descending=True)
+        urls_df = urls_df.sort_values("titre", ascending=False)
 
     st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
 
     for _, row in urls_df.iterrows():
         video_name = row.get("titre", "Titre inconnu")
         video_date = row.get("date", "Date inconnue")
-        url_complet = row["url"]
+        url_complet = row.get("url", "")
         resume = row.get("resume", "")
         idees = row.get("idees", "")
         themes = row.get("themes", "")
