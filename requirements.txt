@@ -1,5 +1,5 @@
 streamlit==1.31.1
-pandas
+pandas>=2.0
 numpy
 openai
 chardet
@@ -7,5 +7,6 @@ langchain
 langchain-community
 langchain-openai
 faiss-cpu
+tiktoken
 
 
