@@ -18,8 +18,13 @@ st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide"
 st.image("logo_lucarne.png", width=180)
 st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 
+
 # 🔐 Clé API OpenAI
-openai.api_key = st.secrets["OPENAI_API_KEY"] or os.environ.get("OPENAI_API_KEY")
+try:
+    openai.api_key = st.secrets["OPENAI_API_KEY"]
+except (KeyError, FileNotFoundError):
+    openai.api_key = os.environ.get("OPENAI_API_KEY")
+
 
 # 📂 Dossier newsletters
 DOSSIER_NEWSLETTERS = "newsletters"
