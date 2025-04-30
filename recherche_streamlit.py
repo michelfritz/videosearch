@@ -291,7 +291,7 @@ elif menu == "🧠 Moteur intelligent":
             # Charger FAISS
             vectordb = FAISS.load_local(
                 "faiss_transcripts",
-                OpenAIEmbeddings(openai_api_key=openai.api_key),
+                OpenAIEmbeddings(openai_api_key=os.environ.get("OPENAI_API_KEY")),
                 allow_dangerous_deserialization=True
             )
 
