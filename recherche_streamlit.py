@@ -84,16 +84,14 @@ def charger_urls_et_idees_themes():
 
 # 🔎 Embedding OpenAI
 def embed_openai(query):
-    from openai import OpenAI
-
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-response = client.embeddings.create(
-    input=query,
-    model="text-embedding-3-small",
-    encoding_format="float"
-)
-
+    response = client.embeddings.create(
+        input=query,
+        model="text-embedding-3-small",
+        encoding_format="float"
+    )
     return np.array(response.data[0].embedding)
+
+
 
 # 🔥 Recherche vectorielle
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
