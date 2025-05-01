@@ -84,6 +84,7 @@ def charger_urls_et_idees_themes():
 
 # 🔎 Embedding OpenAI
 def embed_openai(query):
+    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
     response = client.embeddings.create(
         input=query,
         model="text-embedding-3-small",
