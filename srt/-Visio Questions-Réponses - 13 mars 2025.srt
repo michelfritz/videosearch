@@ -1,0 +1,8972 @@
+1
+00:00:00,000 --> 00:00:02,459
+Alors, bonsoir à tous, bienvenue à cette vidéo.
+
+2
+00:00:06,780 --> 00:00:07,759
+Cet écran-là.
+
+3
+00:00:11,599 --> 00:00:15,620
+Et je prends mon retour pour être sûr.
+
+4
+00:00:16,320 --> 00:00:16,699
+C'est bon.
+
+5
+00:00:17,359 --> 00:00:17,620
+OK.
+
+6
+00:00:17,839 --> 00:00:20,820
+On peut commencer ? C'est bon pour tout le monde ?
+
+7
+00:00:20,820 --> 00:00:23,140
+Oui ?
+
+8
+00:00:23,140 --> 00:00:23,600
+Génial.
+
+9
+00:00:24,440 --> 00:00:25,780
+Alors, merci d'être là.
+
+10
+00:00:25,780 --> 00:00:28,359
+Ça faisait pas mal de temps, je crois, qu'on ne s'était pas vus en visio.
+
+11
+00:00:28,359 --> 00:00:30,259
+ça fait un petit bout de temps
+
+12
+00:00:30,259 --> 00:00:33,100
+parce qu'on a eu des déplacements
+
+13
+00:00:33,100 --> 00:00:33,820
+des machins etc
+
+14
+00:00:33,820 --> 00:00:35,100
+on a eu pas mal de trucs
+
+15
+00:00:35,100 --> 00:00:37,379
+du coup on a pas mal de choses à voir
+
+16
+00:00:37,379 --> 00:00:38,219
+alors
+
+17
+00:00:38,219 --> 00:00:42,899
+hop là je prends mes petites notes
+
+18
+00:00:42,899 --> 00:00:44,439
+on a
+
+19
+00:00:44,439 --> 00:00:46,060
+plusieurs annonces à faire
+
+20
+00:00:46,060 --> 00:00:48,840
+déjà première annonce là on va mettre en place
+
+21
+00:00:48,840 --> 00:00:51,260
+ça c'est un outil que je vous avais montré
+
+22
+00:00:51,260 --> 00:00:52,620
+il y a quelques temps
+
+23
+00:00:52,620 --> 00:00:54,239
+et qui est bien finalisé
+
+24
+00:00:54,239 --> 00:00:56,159
+c'est à dire qu'il était finalisé
+
+25
+00:00:56,159 --> 00:01:01,640
+mais on l'a testé, on l'a beaucoup testé, on voit qu'il fonctionne très bien.
+
+26
+00:01:02,579 --> 00:01:04,280
+Donc, on va pouvoir le généraliser.
+
+27
+00:01:04,700 --> 00:01:14,819
+Cet outil, c'est une édition automatique d'attestation de mandat.
+
+28
+00:01:15,840 --> 00:01:17,239
+Alors, je vais vous montrer ça.
+
+29
+00:01:17,879 --> 00:01:21,620
+On va aller sur le mandat, par exemple.
+
+30
+00:01:22,620 --> 00:01:23,920
+Hop là, on va aller en Bretagne.
+
+31
+00:01:23,920 --> 00:01:27,680
+voici des mandats bretons
+
+32
+00:01:27,680 --> 00:01:31,019
+je ne connais pas bien la Bretagne
+
+33
+00:01:31,019 --> 00:01:33,079
+mais je suis sûr que c'est très chouette
+
+34
+00:01:33,079 --> 00:01:33,700
+que c'est très beau
+
+35
+00:01:33,700 --> 00:01:36,140
+allons voir les mandats de Guy
+
+36
+00:01:36,140 --> 00:01:39,099
+Guy qui est avec nous d'ailleurs
+
+37
+00:01:39,099 --> 00:01:40,299
+bien écoutez, Guy
+
+38
+00:01:40,299 --> 00:01:42,299
+je tiens à le féliciter
+
+39
+00:01:42,299 --> 00:01:44,480
+je lui ai déjà dit au téléphone individuellement
+
+40
+00:01:44,480 --> 00:01:47,020
+mais Guy vient de faire sa première vente
+
+41
+00:01:47,020 --> 00:01:49,480
+sur un terrain
+
+42
+00:01:49,480 --> 00:01:50,659
+en Bretagne
+
+43
+00:01:50,659 --> 00:01:53,000
+donc félicitations à lui, bravo
+
+44
+00:01:53,000 --> 00:01:54,560
+c'est en cours de préparation
+
+45
+00:01:54,560 --> 00:01:55,900
+chez le doter
+
+46
+00:01:55,900 --> 00:01:58,700
+donc félicitations à Guy pour sa première vente
+
+47
+00:01:58,700 --> 00:02:00,560
+la première vente on sait tous que c'est quelque chose
+
+48
+00:02:00,560 --> 00:02:01,840
+d'un peu particulier
+
+49
+00:02:01,840 --> 00:02:04,579
+on s'en souvient c'est comme obtenir le permis de conduire
+
+50
+00:02:04,579 --> 00:02:05,480
+ou le bac je sais pas
+
+51
+00:02:05,480 --> 00:02:07,079
+c'est un truc dont on se souvient
+
+52
+00:02:07,079 --> 00:02:10,240
+donc bravo à Guy félicitations pour votre première vente
+
+53
+00:02:10,240 --> 00:02:12,780
+c'est une très chouette nouvelle
+
+54
+00:02:12,780 --> 00:02:15,039
+alors voici les mandats
+
+55
+00:02:15,039 --> 00:02:16,099
+de Guy
+
+56
+00:02:16,099 --> 00:02:18,020
+la chose que je veux vous montrer
+
+57
+00:02:18,020 --> 00:02:19,479
+c'est un outil
+
+58
+00:02:19,479 --> 00:02:22,120
+et 17 mandats
+
+59
+00:02:22,120 --> 00:02:25,860
+Pierre nous dit, comment Pierre voit les maïsons ici sous les yeux ?
+
+60
+00:02:25,860 --> 00:02:31,120
+Ben oui, alors, et 17 mandats, ce n'est pas bête ce que nous dit Pierre.
+
+61
+00:02:32,480 --> 00:02:34,560
+Pierre nous dit, et 17 mandats, félicitations.
+
+62
+00:02:34,980 --> 00:02:38,780
+Je vous le dis effectivement depuis tout le temps, mais en particulier depuis le début de la crise,
+
+63
+00:02:38,780 --> 00:02:47,860
+on le sait aujourd'hui, plus que jamais, le succès commercial est directement, intimement lié au nombre de mandats.
+
+64
+00:02:47,860 --> 00:02:52,560
+Donc, vraiment, rentrez le maximum de mandats.
+
+65
+00:02:53,160 --> 00:02:58,980
+À la différence d'avant la crise, où je vous disais qu'il faut avoir un portefeuille de mandat en nombre suffisant,
+
+66
+00:02:59,200 --> 00:03:04,960
+et voici les ingrédients qu'il faut avoir dans votre portefeuille de mandat en termes de localisation, de type de biens, etc.
+
+67
+00:03:05,960 --> 00:03:08,760
+Aujourd'hui, je vous dirais non, c'est la crise, vous rentrez tout ce qui passe.
+
+68
+00:03:09,420 --> 00:03:10,680
+Tout, tout, tout, tout, tout.
+
+69
+00:03:10,680 --> 00:03:17,840
+C'est beaucoup plus important d'avoir des mandats tout court, même s'ils ne sont pas super, que d'en avoir des très beaux, mais pas assez.
+
+70
+00:03:17,860 --> 00:03:39,940
+Aujourd'hui, le marché est comme ça. Donc, bravo à vous, mon cher Guy. Alors, on va prendre quelques mandats de Guy. La chose qui est importante, c'est que l'outil que vous allez tous avoir dans votre églantine dans quelques jours, je pense vendredi soir, c'est un outil qui ne fonctionnera, et c'est volontaire, ça n'est pas un bug.
+
+71
+00:03:39,939 --> 00:03:45,500
+c'est pour des raisons de fiabilité, que sur les mandats électroniques.
+
+72
+00:03:46,800 --> 00:03:48,060
+Excusez-moi, je me suis cassé la gorge.
+
+73
+00:03:48,479 --> 00:03:53,099
+Ça ne fonctionnera pas sur les mandats manuels, en tout cas pas dans un premier temps,
+
+74
+00:03:53,259 --> 00:03:58,780
+peut-être que bien plus tard, si on arrive à fiabiliser la rentrée des mandats manuels, on verra.
+
+75
+00:03:59,180 --> 00:04:04,219
+Mais pour l'instant, et c'est normal, ça a été choisi comme ça,
+
+76
+00:04:04,360 --> 00:04:06,500
+ça ne sera que sur les mandats électroniques.
+
+77
+00:04:07,060 --> 00:04:08,860
+De quoi s'agit-il ?
+
+78
+00:04:08,860 --> 00:04:12,860
+Eh bien, il s'agit de l'attestation de mandat.
+
+79
+00:04:13,360 --> 00:04:17,740
+L'attestation de mandat que vous voyez ici, généralement, vous la demandez à l'animation.
+
+80
+00:04:19,120 --> 00:04:27,080
+Et l'animation vous dit, transmettez-nous la demande du notaire pour ne pas faire des attestations de mandat à tout grain, comme ça, sans véritable utilité.
+
+81
+00:04:27,080 --> 00:04:36,000
+Aujourd'hui, vendredi soir, vous aurez dans votre réglementine un bouton qui vous permet d'éditer automatiquement l'attestation de mandat.
+
+82
+00:04:36,000 --> 00:04:40,759
+ensuite vous faites bouton droit de la souris enregistrer sous et voyez vous
+
+83
+00:04:40,759 --> 00:04:44,139
+l'enregistrer sur votre ordinateur directement elle est déjà bien nommé
+
+84
+00:04:44,139 --> 00:04:48,399
+attestation underscore mandat le numéro de mandat votre prénom votre nom a
+
+85
+00:04:48,399 --> 00:04:52,740
+envoyé par e-mail au notaire alors bien entendu vous le savez je vous le
+
+86
+00:04:52,740 --> 00:04:59,319
+répète je vous le redis je vous le rabâche on ne donne jamais le
+
+87
+00:04:59,319 --> 00:05:05,519
+mandat l'offre le don de visite ou quoi que ce soit au notaire si vous faites
+
+88
+00:05:05,519 --> 00:05:07,500
+de ça, vous tomberez sur
+
+89
+00:05:07,500 --> 00:05:09,359
+des notaires qui vont mettre vos
+
+90
+00:05:09,359 --> 00:05:10,500
+ventes en l'air.
+
+91
+00:05:11,439 --> 00:05:13,659
+Sur la base de « j'estime
+
+92
+00:05:13,659 --> 00:05:15,579
+que la virgule n'est pas au bon endroit,
+
+93
+00:05:16,120 --> 00:05:17,459
+la date n'est pas écrite dans
+
+94
+00:05:17,459 --> 00:05:18,879
+la bonne police de caractère,
+
+95
+00:05:19,279 --> 00:05:21,180
+j'en vente à moitié » parce qu'on tombe
+
+96
+00:05:21,180 --> 00:05:23,019
+parfois sur des notaires ou des clients
+
+97
+00:05:23,019 --> 00:05:25,240
+qui inventent tout et
+
+98
+00:05:25,240 --> 00:05:27,319
+n'importe quoi pour vous
+
+99
+00:05:27,319 --> 00:05:28,359
+éliminer de la vente.
+
+100
+00:05:29,419 --> 00:05:31,199
+Avec cette attestation de mandat qui fait
+
+101
+00:05:31,199 --> 00:05:32,359
+foi, légalement,
+
+102
+00:05:33,099 --> 00:05:35,439
+le notaire qui vous demande le mandat
+
+103
+00:05:35,519 --> 00:05:38,319
+Non pas parce qu'il a une idée malsaine en tête
+
+104
+00:05:38,319 --> 00:05:40,259
+Le notaire qui vous demande le mandat
+
+105
+00:05:40,259 --> 00:05:42,219
+Tout simplement parce qu'il veut avoir un dossier complet
+
+106
+00:05:42,219 --> 00:05:44,019
+Vous ne lui donnez pas le mandat
+
+107
+00:05:44,019 --> 00:05:46,799
+Vous ne lui donnez pas l'offre d'achat
+
+108
+00:05:46,799 --> 00:05:48,859
+Vous lui donnez ce document
+
+109
+00:05:48,859 --> 00:05:50,159
+Qui est édité automatiquement
+
+110
+00:05:50,159 --> 00:05:52,019
+Il y a l'identité des clients
+
+111
+00:05:52,019 --> 00:05:53,859
+Il y a l'adresse du bien
+
+112
+00:05:53,859 --> 00:05:56,060
+Il y a la date du mandat
+
+113
+00:05:56,060 --> 00:05:58,680
+Qui vous le savez est une information protégée de la loi Auger
+
+114
+00:05:58,680 --> 00:06:00,919
+Et il y a le numéro du mandat
+
+115
+00:06:00,919 --> 00:06:04,419
+Qui vous le savez est une information protégée de la loi Auger
+
+116
+00:06:04,420 --> 00:06:07,120
+ça, ce petit bouton
+
+117
+00:06:07,120 --> 00:06:09,020
+vous l'aurez donc tous dans vos églantines
+
+118
+00:06:09,020 --> 00:06:11,340
+vous voyez là je suis sur un mandat
+
+119
+00:06:11,340 --> 00:06:13,319
+c'est normal je suis dans mon églantine
+
+120
+00:06:13,319 --> 00:06:15,080
+il est dans toutes les églantines
+
+121
+00:06:15,080 --> 00:06:17,000
+dans tous les mandats, vous voyez il est ici aussi
+
+122
+00:06:17,000 --> 00:06:18,720
+il est sur le troisième mandat
+
+123
+00:06:18,720 --> 00:06:20,560
+également, vous voyez
+
+124
+00:06:20,560 --> 00:06:22,600
+on arrive là-haut
+
+125
+00:06:22,600 --> 00:06:24,360
+alors là effectivement
+
+126
+00:06:24,360 --> 00:06:27,060
+on voit effectivement que
+
+127
+00:06:27,060 --> 00:06:28,660
+Guy est en Bretagne
+
+128
+00:06:28,660 --> 00:06:30,960
+Erwann Rosé et
+
+129
+00:06:30,960 --> 00:06:32,980
+Gwenaëlle Jiquel, je ne sais pas
+
+130
+00:06:32,980 --> 00:06:35,140
+comment on peut faire plus breton
+
+131
+00:06:35,140 --> 00:06:35,939
+que ça.
+
+132
+00:06:37,259 --> 00:06:39,040
+Remarquez-ci, on peut faire plus breton.
+
+133
+00:06:39,640 --> 00:06:41,160
+Nous, un jour, on a eu un agent
+
+134
+00:06:41,160 --> 00:06:42,720
+qui s'appelait Erwan
+
+135
+00:06:42,720 --> 00:06:44,980
+Kerlerou. Erwan
+
+136
+00:06:44,980 --> 00:06:46,960
+Kerlerou. C'était un brestois.
+
+137
+00:06:47,379 --> 00:06:49,040
+Inutile de vous dire que lui, effectivement,
+
+138
+00:06:49,140 --> 00:06:50,920
+il n'était pas corse. Donc,
+
+139
+00:06:51,060 --> 00:06:52,560
+ce sera pour tous vos mandats
+
+140
+00:06:52,560 --> 00:06:55,020
+électroniques, dans vos
+
+141
+00:06:55,020 --> 00:06:57,300
+églantines, vendredi
+
+142
+00:06:57,300 --> 00:06:57,600
+soir.
+
+143
+00:06:58,780 --> 00:07:01,180
+Ok ? Donc ça, c'est une première petite annonce.
+
+144
+00:07:01,180 --> 00:07:20,920
+Alors, vous allez me dire, c'est pas ça qui va changer la face du monde, mais bon, c'est une petite facilitation. Je vous en avais parlé déjà dans le passé. Je vous avais dit qu'on travaillait là-dessus. Je vous avais dit que c'était terminé. Je vous avais dit qu'on était en train de le tester. Il a été bien testé, cet outil. On sait qu'il fonctionne bien. Il n'a pas de problème. Donc, c'est bon. Vous l'aurez à partir de vendredi soir.
+
+145
+00:07:20,920 --> 00:07:24,520
+ça c'est une première petite chose
+
+146
+00:07:24,520 --> 00:07:25,759
+deuxième chose
+
+147
+00:07:25,759 --> 00:07:27,980
+vous le savez
+
+148
+00:07:27,980 --> 00:07:29,620
+lorsque vous saisissez un mandat
+
+149
+00:07:29,620 --> 00:07:31,520
+nous avons
+
+150
+00:07:31,520 --> 00:07:34,160
+toujours le petit problème
+
+151
+00:07:34,160 --> 00:07:34,560
+de
+
+152
+00:07:34,560 --> 00:07:38,139
+alors ça c'est un truc pour
+
+153
+00:07:38,139 --> 00:07:39,319
+les bêta testeurs
+
+154
+00:07:39,319 --> 00:07:41,240
+c'est pas pour tous les agents pour l'instant
+
+155
+00:07:41,240 --> 00:07:43,480
+quand vous mettez ici l'adresse
+
+156
+00:07:43,480 --> 00:07:48,540
+l'outil
+
+157
+00:07:48,540 --> 00:07:51,220
+va chercher les DPE
+
+158
+00:07:51,220 --> 00:07:52,379
+directement
+
+159
+00:07:52,379 --> 00:07:54,200
+et parfois il n'en trouve pas
+
+160
+00:07:54,200 --> 00:07:55,420
+regardez ici il écrit
+
+161
+00:07:55,420 --> 00:07:57,819
+existe-t-il un DPE pour ce bien
+
+162
+00:07:57,819 --> 00:08:02,100
+soit parce que le DPE
+
+163
+00:08:02,100 --> 00:08:03,780
+n'a pas encore été fait
+
+164
+00:08:03,780 --> 00:08:06,320
+soit parce que ce produit
+
+165
+00:08:06,320 --> 00:08:08,420
+n'est pas soumis au DPE
+
+166
+00:08:08,420 --> 00:08:09,980
+c'est pour ça que vous vous répondez
+
+167
+00:08:09,980 --> 00:08:10,939
+tout simplement aux questions
+
+168
+00:08:10,939 --> 00:08:13,120
+est-ce qu'un DPE existe pour ce bien
+
+169
+00:08:13,120 --> 00:08:15,879
+non, un DPE n'existe pas pour ce bien
+
+170
+00:08:15,879 --> 00:08:17,460
+pourquoi ?
+
+171
+00:08:17,459 --> 00:08:21,739
+Soit parce qu'il n'a pas encore été fait, soit parce que ce bien n'est pas soumis au DPE.
+
+172
+00:08:23,279 --> 00:08:23,799
+L'un des deux.
+
+173
+00:08:24,739 --> 00:08:28,459
+Par contre, donc là c'est normal, vous choisissez le cas correspondant.
+
+174
+00:08:28,899 --> 00:08:36,460
+Par contre, imaginons qu'un DPE ait effectivement été fait pour ce mandat.
+
+175
+00:08:36,620 --> 00:08:37,340
+Je relance le truc.
+
+176
+00:08:38,159 --> 00:08:40,439
+Ça peut me le sortir ici, directement.
+
+177
+00:08:41,159 --> 00:08:47,079
+Alors, ça c'est une discussion que j'avais avec Joachim il y a 5 minutes, juste avant la visio.
+
+178
+00:08:47,460 --> 00:08:52,759
+Si vous cliquez sur le numéro qui est ici, ça vous emmène directement sur le site de l'ADEME
+
+179
+00:08:52,759 --> 00:08:55,780
+pour aller vérifier que c'est le bon OEPE, au cas où vous avez un doute.
+
+180
+00:08:56,460 --> 00:08:58,960
+On va changer ça parce qu'effectivement, ce n'est pas très intuitif.
+
+181
+00:08:59,120 --> 00:09:01,720
+Joachim cliquait dessus, il disait « je ne comprends pas, je n'arrive pas à le valider ».
+
+182
+00:09:01,720 --> 00:09:05,480
+Je lui ai dit « c'est normal, ça emmène sur le site de l'ADEME, en fait, il faut cliquer à côté sur la ligne ».
+
+183
+00:09:05,480 --> 00:09:09,060
+Donc ça, on va changer un peu le design, tout simplement, pour que ce soit plus précis.
+
+184
+00:09:09,500 --> 00:09:10,900
+Enfin, pas plus précis, plus intuitif.
+
+185
+00:09:11,259 --> 00:09:15,320
+Vous cliquez ici sur la ligne et là, si je ne clique pas sur le numéro à gauche,
+
+186
+00:09:15,320 --> 00:09:20,540
+Je clique sur l'envie, ça me sélectionne le DPE et ça me demande une petite confirmation.
+
+187
+00:09:21,600 --> 00:09:30,440
+Mais maintenant, retournons dans le cas d'une adresse qui, elle, n'a pas de DPE.
+
+188
+00:09:31,900 --> 00:09:32,480
+Excusez-moi.
+
+189
+00:09:36,680 --> 00:09:38,260
+Je crois que celle-ci n'en a pas.
+
+190
+00:09:41,460 --> 00:09:44,780
+Voilà. Un DPE existe-t-il pour ce bien ?
+
+191
+00:09:44,779 --> 00:09:46,879
+vous pourriez tout à fait tomber dans un cas où,
+
+192
+00:09:47,100 --> 00:09:48,740
+ben si, il y a un DPE, je l'ai sous les yeux.
+
+193
+00:09:50,759 --> 00:09:53,779
+Pourquoi l'outil ne me le trouve-t-il pas ?
+
+194
+00:09:53,779 --> 00:09:57,279
+On a mis du temps à comprendre, je vous en ai déjà parlé de ça dans d'autres visios,
+
+195
+00:09:57,600 --> 00:10:01,279
+on a mis du temps à comprendre parce qu'on n'avait pas d'explication,
+
+196
+00:10:01,360 --> 00:10:03,339
+il a fallu que, alors qu'on trouve tout seul,
+
+197
+00:10:03,639 --> 00:10:05,559
+je vais être honnête, c'est Thierry qui a trouvé, c'est pas moi.
+
+198
+00:10:06,600 --> 00:10:09,779
+Alors, j'ai un DPE, il est là sous les yeux,
+
+199
+00:10:10,480 --> 00:10:14,659
+pourquoi n'est-il pas répertorié, pourquoi est-ce que l'outil ne le trouve-t-il pas ?
+
+200
+00:10:14,779 --> 00:10:20,379
+Eh bien, tout simplement parce que, alors s'il y a un DPE à jour,
+
+201
+00:10:20,539 --> 00:10:25,500
+s'il y a un vieux DPE qui n'est plus à jour, qui date d'avant la réforme du 1er juillet 2021,
+
+202
+00:10:25,899 --> 00:10:28,419
+c'est normal qu'elle ne le trouve pas, ils ne sont plus valables.
+
+203
+00:10:28,419 --> 00:10:35,879
+Vous savez que désormais ne sont valables que les DPE établis à partir du 1er juillet 2021.
+
+204
+00:10:36,279 --> 00:10:40,899
+Tous ceux qui ont été faits avant, malgré la date de validité qui à l'origine était de 10 ans,
+
+205
+00:10:40,899 --> 00:10:46,639
+sont désormais périmés du fait de cette réforme.
+
+206
+00:10:47,319 --> 00:10:50,659
+Donc, j'ai un DPE qui date d'après, mais ils ne le trouvent pas.
+
+207
+00:10:51,179 --> 00:10:55,419
+C'est parce qu'en fait, la base de données de l'ADEME sur laquelle on va chercher les DPE,
+
+208
+00:10:56,199 --> 00:10:58,539
+elle n'est mise à jour qu'une fois par mois.
+
+209
+00:11:00,159 --> 00:11:00,899
+Une fois par mois.
+
+210
+00:11:01,579 --> 00:11:04,279
+Ça veut dire qu'aujourd'hui, on est le 13 mars,
+
+211
+00:11:05,340 --> 00:11:10,639
+imaginons que j'ai un DPE entre les mains qui a été fait le 8 mars,
+
+212
+00:11:10,899 --> 00:11:14,079
+il est enregistré à l'ADEME
+
+213
+00:11:14,079 --> 00:11:16,259
+mais l'ADEME ne nous le fournit pas
+
+214
+00:11:16,259 --> 00:11:17,259
+parce que la base de données
+
+215
+00:11:17,259 --> 00:11:20,240
+à laquelle l'ADEME nous donne accès
+
+216
+00:11:20,240 --> 00:11:21,919
+à travers le petit connecteur
+
+217
+00:11:21,919 --> 00:11:22,840
+qu'on appelle un API
+
+218
+00:11:22,840 --> 00:11:26,120
+n'est remise à jour que tous les mois
+
+219
+00:11:26,120 --> 00:11:26,919
+une fois par mois
+
+220
+00:11:26,919 --> 00:11:30,340
+donc ça veut dire que mon DPE qui a 3-4 jours
+
+221
+00:11:30,340 --> 00:11:32,019
+je ne le trouve pas
+
+222
+00:11:32,019 --> 00:11:34,079
+parce que nous n'y avons pas accès
+
+223
+00:11:34,079 --> 00:11:36,799
+ça c'est une chose qui est en train de changer
+
+224
+00:11:36,799 --> 00:11:39,120
+l'ADEME est en train de faire des mises à jour
+
+225
+00:11:39,120 --> 00:11:41,480
+bientôt la mise à jour
+
+226
+00:11:41,480 --> 00:11:43,379
+aura lieu
+
+227
+00:11:43,379 --> 00:11:44,120
+chaque semaine
+
+228
+00:11:44,120 --> 00:11:47,080
+donc on aura beaucoup moins de chances de ne pas
+
+229
+00:11:47,080 --> 00:11:48,379
+trouver le DPE ici
+
+230
+00:11:48,379 --> 00:11:50,220
+alors qu'il existe
+
+231
+00:11:50,220 --> 00:11:52,440
+à partir du moment où il aura plus d'une semaine
+
+232
+00:11:52,440 --> 00:11:54,620
+Eglantine devrait pouvoir le trouver
+
+233
+00:11:54,620 --> 00:11:57,060
+par contre un DPE qui a été fait la veille
+
+234
+00:11:57,060 --> 00:11:57,759
+ou l'avant-veille
+
+235
+00:11:57,759 --> 00:11:59,720
+vous ne le trouverez pas tout de suite
+
+236
+00:11:59,720 --> 00:12:03,240
+il y aura beaucoup moins de cas de DPE
+
+237
+00:12:03,240 --> 00:12:04,759
+existants
+
+238
+00:12:04,759 --> 00:12:06,980
+mais que je ne trouve pas
+
+239
+00:12:06,980 --> 00:12:09,000
+donc ça c'est plutôt
+
+240
+00:12:09,000 --> 00:12:16,740
+bonne nouvelle on pourrait espérer qu'ils mettent à jour en temps réel parce que la raison pour
+
+241
+00:12:16,740 --> 00:12:22,679
+laquelle c'est un petit peu crétin c'est que la base de données de l'ademe et les mises à
+
+242
+00:12:22,679 --> 00:12:28,679
+jour la base de données de l'ademe en temps réel c'est à dire qu'à partir du moment où un
+
+243
+00:12:28,679 --> 00:12:33,960
+diagnostiqueur enregistre un dpe le jour même allez on va dire au pire le lendemain il envoie
+
+244
+00:12:33,960 --> 00:12:41,100
+tout à l'ADEME la base de données est à jour. Par contre l'accès à la base de données que l'ADEME
+
+245
+00:12:41,100 --> 00:12:45,720
+nous donne à nous les professionnels n'est mis à jour qu'une fois par mois et bientôt une fois
+
+246
+00:12:45,720 --> 00:12:49,800
+par semaine. C'est idiot parce qu'en fait leur base de données pourrait être à jour en temps
+
+247
+00:12:49,800 --> 00:12:57,120
+réel y compris pour nous mais bon ils n'ont visiblement pas envie. Donc bonne nouvelle
+
+248
+00:12:57,120 --> 00:13:04,580
+Mais cependant, ça va plutôt améliorer les choses que de les abîmer.
+
+249
+00:13:05,179 --> 00:13:14,899
+Alors, ensuite, si vous le voulez bien, on passe à une question qui nous a été posée par Corinne tout à l'heure.
+
+250
+00:13:15,039 --> 00:13:15,759
+Corinne de Tour.
+
+251
+00:13:16,679 --> 00:13:17,539
+Juste avant la vision.
+
+252
+00:13:18,240 --> 00:13:19,980
+5 minutes avant, 10 minutes avant, je ne sais pas.
+
+253
+00:13:20,299 --> 00:13:24,480
+Mais c'est une question qui, effectivement, trouve naturellement sa place ce soir.
+
+254
+00:13:24,919 --> 00:13:27,100
+La question posée par Corinne est la suivante.
+
+255
+00:13:27,120 --> 00:13:43,080
+« Le potentiel vendeur qui voudrait profiter de la reprise du marché, mais avec un départ prévu en juin 2026, me demande comment mettre en vente leurs biens avec jouissance différée à cette date. Ce type de vente est-il déconseillé ? »
+
+256
+00:13:43,080 --> 00:13:54,080
+Alors, c'est quelque chose qu'on rencontre relativement fréquemment, c'est une vente différée ou une vente longue. Selon les cas, c'est un peu l'un ou un peu l'autre.
+
+257
+00:13:54,080 --> 00:13:56,139
+ça peut être pour plein de raisons
+
+258
+00:13:56,139 --> 00:13:57,860
+ça peut être pour plein de raisons
+
+259
+00:13:57,860 --> 00:14:00,259
+là c'est une raison, alors moi je vais vous répondre
+
+260
+00:14:00,259 --> 00:14:01,879
+sur la faisabilité
+
+261
+00:14:01,879 --> 00:14:04,120
+maintenant
+
+262
+00:14:04,120 --> 00:14:06,259
+la pertinence commerciale
+
+263
+00:14:07,420 --> 00:14:08,600
+ça c'est une autre question
+
+264
+00:14:08,600 --> 00:14:09,940
+que moi j'ai beaucoup plus de mal
+
+265
+00:14:09,940 --> 00:14:12,259
+à juger parce que
+
+266
+00:14:12,259 --> 00:14:14,139
+je ne connais pas la situation des vendeurs
+
+267
+00:14:14,139 --> 00:14:15,259
+je ne connais pas les vendeurs
+
+268
+00:14:15,259 --> 00:14:17,740
+et on va quand même se la poser juste après
+
+269
+00:14:17,740 --> 00:14:20,540
+juridiquement, administrativement
+
+270
+00:14:20,540 --> 00:14:22,500
+comment ça marche ? Oui c'est tout à fait possible
+
+271
+00:14:22,500 --> 00:14:38,179
+On peut très bien imaginer avoir un vendeur qui vous dise « je mets en vente maintenant pour ne pas perdre de temps, mais attention, je ne serai muté à Bordeaux qu'en septembre, donc je ne peux pas déménager dès que la maison est vendue ».
+
+272
+00:14:38,179 --> 00:14:41,500
+parce que normalement c'est ça la règle, on met en vente aujourd'hui,
+
+273
+00:14:42,199 --> 00:14:47,120
+c'est pour une disponibilité, on va dire presque immédiate, le temps de la vente,
+
+274
+00:14:47,859 --> 00:14:52,059
+je mets en vente aujourd'hui, vous trouvez un acquéreur, monsieur l'agent immobilier,
+
+275
+00:14:52,559 --> 00:14:55,500
+une fois que vous avez trouvé un acquéreur, on va chez le notaire,
+
+276
+00:14:55,500 --> 00:14:58,079
+les trois mois de notaire, trois mois après, je m'en vais.
+
+277
+00:14:59,879 --> 00:15:02,819
+Ça c'est la règle dans la très grande majorité des cas.
+
+278
+00:15:03,659 --> 00:15:07,839
+Mais parfois, je veux vendre maintenant, mais je ne m'en vais pas juste après,
+
+279
+00:15:08,179 --> 00:15:10,000
+Je ne peux pas, je serai muté en septembre.
+
+280
+00:15:10,799 --> 00:15:14,859
+C'est souvent le cas d'une mutation, très souvent le cas d'une mutation.
+
+281
+00:15:15,179 --> 00:15:18,959
+Après, ça peut être pour raison familiale, ça peut être une naissance, ça peut être un divorce,
+
+282
+00:15:18,959 --> 00:15:27,379
+ça peut être plein de choses qui commandent au vendeur de différer un petit peu le départ de la maison.
+
+283
+00:15:28,500 --> 00:15:32,799
+On peut faire ça de plein de manières, on peut même envisager dans certains cas,
+
+284
+00:15:32,899 --> 00:15:37,039
+on ne va pas s'apesantir sur cette possibilité maintenant, mais on peut imaginer dans certains cas,
+
+285
+00:15:37,039 --> 00:15:51,699
+Ça arrive même une location lorsque c'est une vente vraiment très longue. Trouvez-moi un acquéreur. Moi, il faut que je reste encore un an dans la maison, mais je vais leur payer un loyer. Vous pouvez l'imaginer, ça existe, on l'a déjà fait.
+
+286
+00:15:51,700 --> 00:16:05,460
+Là, Corinne nous dit que, et c'est pour ça que je me pose un peu plus la question de la pertinence commerciale, ils veulent profiter de la reprise du marché, mais avec un départ prévu en juin.
+
+287
+00:16:06,400 --> 00:16:14,460
+La reprise du marché, là je vous demande à tous et à toutes, est-ce que vous la voyez vraiment ?
+
+288
+00:16:14,460 --> 00:16:16,660
+répondez moi sur le chat
+
+289
+00:16:16,660 --> 00:16:18,480
+ça m'intéresse vraiment beaucoup parce que j'en parle
+
+290
+00:16:18,480 --> 00:16:19,940
+individuellement
+
+291
+00:16:19,940 --> 00:16:22,660
+à chacun d'entre vous lorsque je vous ai au téléphone
+
+292
+00:16:22,660 --> 00:16:24,560
+bien sûr, il y a à chaque fois
+
+293
+00:16:24,560 --> 00:16:26,180
+qu'on est au téléphone pour n'importe quoi
+
+294
+00:16:26,180 --> 00:16:27,980
+vous m'entendez
+
+295
+00:16:27,980 --> 00:16:30,740
+vous dire deux choses, premièrement comment ça se passe
+
+296
+00:16:30,740 --> 00:16:32,700
+par chez vous, est-ce que ça reprend
+
+297
+00:16:32,700 --> 00:16:34,720
+ça bouge, ça bouge pas et on en parle
+
+298
+00:16:34,720 --> 00:16:36,860
+et la deuxième chose que je vous dis invariablement
+
+299
+00:16:36,860 --> 00:16:38,700
+c'est rentrez des mandats
+
+300
+00:16:38,700 --> 00:16:40,660
+plein de mandats, plein plein plein de mandats
+
+301
+00:16:40,660 --> 00:16:42,600
+restez pas comme ça sans mandat, rentrez des mandats
+
+302
+00:16:42,600 --> 00:16:44,500
+vous m'entendez toujours dire la même chose
+
+303
+00:16:44,500 --> 00:16:46,420
+maintenant je vous pose la question
+
+304
+00:16:46,420 --> 00:16:48,779
+collectivement à tous
+
+305
+00:16:48,779 --> 00:16:50,860
+est-ce que vous voyez
+
+306
+00:16:50,860 --> 00:16:52,180
+un peu une reprise du marché
+
+307
+00:16:52,180 --> 00:16:53,600
+est-ce que ça bouge un petit peu
+
+308
+00:16:53,600 --> 00:16:57,000
+ou est-ce que c'est toujours
+
+309
+00:16:57,000 --> 00:16:57,879
+un petit peu mou
+
+310
+00:16:57,879 --> 00:16:59,860
+est-ce qu'il ne se passe pas grand chose
+
+311
+00:16:59,860 --> 00:17:02,500
+dites-le moi sur le chat
+
+312
+00:17:02,500 --> 00:17:03,820
+alors Isabelle me dit non
+
+313
+00:17:03,820 --> 00:17:06,640
+Hugues me dit non
+
+314
+00:17:06,640 --> 00:17:08,319
+Pierre dit un léger mieux
+
+315
+00:17:08,319 --> 00:17:10,880
+Julien dit
+
+316
+00:17:10,880 --> 00:17:13,040
+oh que oui, belle reprise dans notre secteur
+
+317
+00:17:13,040 --> 00:17:14,840
+alors sachant que c'est Julien, je me demande
+
+318
+00:17:14,840 --> 00:17:16,860
+s'il parle pas d'une reprise de volet au football
+
+319
+00:17:16,860 --> 00:17:18,040
+ou un truc comme ça
+
+320
+00:17:18,040 --> 00:17:20,680
+donc est-ce qu'il parle bien d'une reprise immobilière
+
+321
+00:17:20,680 --> 00:17:24,480
+Catherine nous dit
+
+322
+00:17:24,480 --> 00:17:27,100
+avec les événements mondiaux, pas vraiment
+
+323
+00:17:27,100 --> 00:17:29,300
+Maryse dit pas de reprise
+
+324
+00:17:29,300 --> 00:17:30,880
+Cathy nous dit
+
+325
+00:17:30,880 --> 00:17:32,660
+ça a bougé un peu plus en début d'année
+
+326
+00:17:32,660 --> 00:17:34,660
+mais c'est pas toujours sérieux jusqu'au bout
+
+327
+00:17:34,660 --> 00:17:36,860
+Corinne nous dit, de mon côté j'ai l'impression
+
+328
+00:17:36,860 --> 00:17:38,820
+que le marché reprend, j'ai à nouveau des demandes
+
+329
+00:17:38,819 --> 00:17:44,460
+visite depuis quelques semaines excellent nouvelle super laurent dit c'est vraiment par vagues non
+
+330
+00:17:44,460 --> 00:17:50,159
+pour ça bien julien dit plein lucarne ok j'avais raison c'est chimique pour joachim pas terrible
+
+331
+00:17:50,159 --> 00:17:54,419
+pour marc actuellement mais je pense que ça va le faire dans les mois qui viennent ces mots pour
+
+332
+00:17:54,419 --> 00:17:59,819
+valérie en dordogne ici oui ça sent bouger vraiment par ta petit mot souvent mais bon
+
+333
+00:17:59,819 --> 00:18:03,919
+effectivement je suis souvent à l'hôpital avec mon fils donc ça c'est une autre question qui
+
+334
+00:18:03,920 --> 00:18:06,240
+qui peut effectivement entraver votre activité, ma chère Véro.
+
+335
+00:18:06,840 --> 00:18:09,680
+Alors, une chose est sûre, je le répète encore,
+
+336
+00:18:09,820 --> 00:18:11,940
+vous allez vraiment dire que je suis lourdingue,
+
+337
+00:18:12,100 --> 00:18:14,880
+mais vous savez que je suis lourdingue avec ça comme avec le reste.
+
+338
+00:18:16,600 --> 00:18:20,580
+Plus vous rentrerez de mandat, plus vous aurez des chances,
+
+339
+00:18:20,680 --> 00:18:22,980
+effectivement, de…
+
+340
+00:18:22,980 --> 00:18:26,060
+Vous m'entendez parfois dire qu'il faut provoquer les opportunités.
+
+341
+00:18:26,060 --> 00:18:27,440
+Il ne suffit pas de les saisir quand elles passent,
+
+342
+00:18:27,560 --> 00:18:28,779
+parfois il faut les créer et les provoquer.
+
+343
+00:18:29,279 --> 00:18:32,420
+Et inévitablement, vous aiderez à créer et provoquer des opportunités
+
+344
+00:18:32,420 --> 00:18:33,779
+en ayant plus de mandats.
+
+345
+00:18:33,920 --> 00:19:00,880
+Ça, il n'y a aucun doute. Alors, je sais très bien que c'est très facile à dire pour moi, depuis mon fauteuil dans mon bureau, que pour vous, affaire sur le terrain, j'en suis conscient. Je ne suis pas en train de vous dire « du don, les feignasses, il va falloir se bouger maintenant ». Pas du tout. Je me rends bien compte que ce n'est pas évident, ce n'est pas facile, mais il faut vraiment, vraiment travacher sur la rentrée de mandat. C'est comme ça que vous allez créer vos opportunités.
+
+346
+00:19:00,880 --> 00:19:22,000
+Bon, alors, reprise ou pas reprise, donc, les vendeurs ont un départ prévu en juin 2026. Alors, je ne sais pas, dites-le moi, Corinne, sur le chat, si c'est un départ contraint. Ils n'ont pas le choix, ils doivent partir à ce moment-là pour mutation professionnelle ou que sais-je, ou est-ce que c'est un choix. En tout cas, c'est tout à fait possible.
+
+347
+00:19:22,000 --> 00:19:30,039
+il suffit alors de voir avec les vendeurs les délais alors les délais ils sont toujours
+
+348
+00:19:30,039 --> 00:19:33,400
+négociables ils peuvent toujours un petit peu bouger mais il faut qu'ils puissent quand même
+
+349
+00:19:33,400 --> 00:19:38,319
+vous donner une visibilité sur la date à laquelle ça se fera alors ici on a des vendeurs qui nous
+
+350
+00:19:38,319 --> 00:19:45,119
+disent par la voix de corinne juin 2026 ce qui est très raisonnable juin 2026 parce que regardez
+
+351
+00:19:45,119 --> 00:19:46,859
+mais on est déjà le 13 mars.
+
+352
+00:19:47,919 --> 00:19:48,979
+On est déjà le 13 mars,
+
+353
+00:19:49,119 --> 00:19:51,899
+imaginons qu'on ait une offre dans 2-3 jours,
+
+354
+00:19:52,479 --> 00:19:53,439
+avec les délais de notaire,
+
+355
+00:19:53,519 --> 00:19:54,839
+on arrive facilement à fin juin,
+
+356
+00:19:55,159 --> 00:19:55,779
+pas de problème.
+
+357
+00:19:56,479 --> 00:19:58,379
+Mais imaginons que les vendeurs ne nous disent pas
+
+358
+00:19:58,379 --> 00:20:00,599
+juin 2026, mais septembre 2026.
+
+359
+00:20:01,519 --> 00:20:02,179
+Ce n'est pas un problème.
+
+360
+00:20:02,699 --> 00:20:03,479
+Ce n'est pas un problème,
+
+361
+00:20:03,599 --> 00:20:04,839
+il faut qu'on le mette dans le mandat.
+
+362
+00:20:05,039 --> 00:20:06,359
+Alors dans ce cas-là, vous demandez à l'animation
+
+363
+00:20:06,359 --> 00:20:07,839
+quelle est la petite phrase qu'il faut mettre.
+
+364
+00:20:08,419 --> 00:20:11,339
+Mais on met dans le mandat que les vendeurs
+
+365
+00:20:11,339 --> 00:20:21,579
+souhaite une libération du bien à telle date maximum alors quitte à être un peu large parce
+
+366
+00:20:21,579 --> 00:20:25,899
+qu'il faut qu'on mette un maximum pour pouvoir dire aux acquéreurs pendant les visites voilà
+
+367
+00:20:25,899 --> 00:20:32,399
+les vendeurs ils ont besoin de rester dans la maison jusqu'en octobre annoncé juin 2026 je vous
+
+368
+00:20:32,399 --> 00:20:38,639
+dis une bêtise parce que je vous dis on arrive facilement juin mais non c'est juin 2026 c'est
+
+369
+00:20:38,640 --> 00:20:40,540
+très long, effectivement. Je n'avais pas
+
+370
+00:20:40,540 --> 00:20:42,080
+capté sur le 2026, mais
+
+371
+00:20:42,080 --> 00:20:44,720
+on va changer un tout petit truc
+
+372
+00:20:44,720 --> 00:20:46,360
+sur mon discours. Ce n'est pas très grave,
+
+373
+00:20:46,480 --> 00:20:48,440
+parce que, imaginons que ce soit
+
+374
+00:20:48,440 --> 00:20:50,560
+juin 2025 ou septembre 2025,
+
+375
+00:20:50,980 --> 00:20:52,600
+on n'est pas dans un délai absolument
+
+376
+00:20:52,600 --> 00:20:54,500
+délirant. On est dans quelques mois
+
+377
+00:20:54,500 --> 00:20:56,820
+et il suffit de mettre un délai maximum
+
+378
+00:20:56,820 --> 00:20:58,880
+dans le mandat pour pouvoir l'expliquer aux acquéreurs
+
+379
+00:20:58,880 --> 00:21:00,100
+et dire aux acquéreurs, alors attendez,
+
+380
+00:21:00,700 --> 00:21:02,740
+peut-être qu'on peut négocier un peu moins, un peu plus,
+
+381
+00:21:02,900 --> 00:21:04,420
+peut-être qu'on peut ajuster les choses, mais
+
+382
+00:21:04,420 --> 00:21:06,940
+voilà à peu près ce que les vendeurs nous demandent.
+
+383
+00:21:06,940 --> 00:21:09,960
+quand on est en juin 2026
+
+384
+00:21:09,960 --> 00:21:11,240
+c'est dans plus d'un an
+
+385
+00:21:11,240 --> 00:21:12,380
+dans un an et trois mois
+
+386
+00:21:12,380 --> 00:21:15,220
+là effectivement on peut se poser la question d'un bail
+
+387
+00:21:15,220 --> 00:21:17,160
+on peut se poser la question
+
+388
+00:21:17,160 --> 00:21:19,299
+du paiement
+
+389
+00:21:19,299 --> 00:21:21,799
+d'un loyer par les vendeurs
+
+390
+00:21:21,799 --> 00:21:25,480
+ce que les notaires n'aiment pas trop
+
+391
+00:21:25,480 --> 00:21:26,519
+mais c'est possible
+
+392
+00:21:26,519 --> 00:21:28,420
+pourquoi les notaires n'aiment pas trop ça ?
+
+393
+00:21:28,420 --> 00:21:30,920
+parce qu'à partir du moment où on va signer un bail avec les vendeurs
+
+394
+00:21:30,920 --> 00:21:32,220
+ça commence à donner des droits
+
+395
+00:21:32,220 --> 00:21:34,640
+je ne vais pas dire exorbitants
+
+396
+00:21:34,640 --> 00:21:37,200
+même si juridiquement ça serait le bon terme
+
+397
+00:21:37,200 --> 00:21:38,660
+mais dans le langage courant
+
+398
+00:21:38,660 --> 00:21:39,680
+c'est un peu
+
+399
+00:21:39,680 --> 00:21:42,120
+troublant, c'est pas le bon terme
+
+400
+00:21:42,120 --> 00:21:45,060
+mais des droits très importants
+
+401
+00:21:45,060 --> 00:21:46,780
+aux vendeurs qui deviendraient non plus
+
+402
+00:21:46,780 --> 00:21:48,820
+vendeurs mais locataires
+
+403
+00:21:48,820 --> 00:21:50,720
+et on pourrait avoir
+
+404
+00:21:50,720 --> 00:21:52,400
+un notaire qui dise aux acquéreurs
+
+405
+00:21:52,400 --> 00:21:54,840
+attention s'ils partent pas, vous êtes dans la panade
+
+406
+00:21:54,840 --> 00:21:56,840
+vous avez des locataires sur le dos jusqu'à je sais pas quand
+
+407
+00:21:56,840 --> 00:21:58,640
+oui mais on va faire un bail
+
+408
+00:21:58,640 --> 00:22:00,280
+précaire, un bail plus court
+
+409
+00:22:00,280 --> 00:22:02,180
+les baux précaires
+
+410
+00:22:02,180 --> 00:22:07,220
+Ils se transforment avec une toute petite pensée de mauvaise foi en baux pas précaires du tout.
+
+411
+00:22:08,539 --> 00:22:14,680
+On connaît en France tous les soucis qu'on a avec les locataires qui abusent de la situation, voire avec des squatteurs.
+
+412
+00:22:15,440 --> 00:22:21,779
+Donc, juin 2026, on peut prévoir un bail, on peut prévoir un prêt à usage.
+
+413
+00:22:21,900 --> 00:22:23,240
+Qu'est-ce que c'est un prêt à usage ?
+
+414
+00:22:23,240 --> 00:22:27,480
+De manière très grossière, c'est un bail gratuit.
+
+415
+00:22:27,840 --> 00:22:28,880
+On va dire ça très simplement.
+
+416
+00:22:28,880 --> 00:22:31,040
+si vous voulez faire les malins lors des dîners en ville
+
+417
+00:22:31,040 --> 00:22:32,820
+appelez ça un comoda, ça fait très bien
+
+418
+00:22:32,820 --> 00:22:35,280
+ça veut dire la même chose, en fait c'est un prêt à usage
+
+419
+00:22:35,280 --> 00:22:37,800
+donc je vous le prête
+
+420
+00:22:37,800 --> 00:22:39,760
+pour un usage
+
+421
+00:22:39,760 --> 00:22:41,820
+bien défini, bien prédéfini
+
+422
+00:22:41,820 --> 00:22:43,620
+et ça, ça peut
+
+423
+00:22:43,620 --> 00:22:44,860
+donner l'objet
+
+424
+00:22:44,860 --> 00:22:47,240
+donner naissance à
+
+425
+00:22:47,240 --> 00:22:49,400
+la signature d'un bail avec des loyers
+
+426
+00:22:49,400 --> 00:22:51,520
+mais tout simplement ça peut faire l'objet
+
+427
+00:22:51,520 --> 00:22:53,320
+d'une négociation
+
+428
+00:22:53,320 --> 00:22:55,500
+tout simplement, on négocie le prix
+
+429
+00:22:55,500 --> 00:22:57,820
+à l'avantage des vendeurs
+
+430
+00:22:57,819 --> 00:22:59,480
+plutôt que des acquéreurs ou l'inverse.
+
+431
+00:22:59,599 --> 00:23:03,439
+À l'avantage des acquéreurs, ce sont les vendeurs qui sont en position de demande
+
+432
+00:23:03,439 --> 00:23:07,039
+et d'une demande importante, comme juin 2026.
+
+433
+00:23:09,740 --> 00:23:13,879
+Et ça peut non pas donner lieu à un loyer,
+
+434
+00:23:14,359 --> 00:23:16,439
+mais à une négociation favorable aux acquéreurs.
+
+435
+00:23:17,099 --> 00:23:17,720
+Ça peut être ça.
+
+436
+00:23:18,299 --> 00:23:20,659
+Donc oui, c'est tout à fait possible.
+
+437
+00:23:21,539 --> 00:23:23,019
+Plus la durée est longue, effectivement,
+
+438
+00:23:23,179 --> 00:23:26,039
+et plus il faut envisager les différentes manières dont ça peut se passer
+
+439
+00:23:26,039 --> 00:23:28,159
+et dont ça peut éventuellement mal tourner.
+
+440
+00:23:28,859 --> 00:23:33,019
+Juin 2026, ça pourrait tout à fait donner lieu à la signature d'un bail
+
+441
+00:23:33,019 --> 00:23:37,539
+ou d'un prêt à usage parce que les notaires risquent d'être un petit peu frileux
+
+442
+00:23:37,539 --> 00:23:39,859
+avec ou sans paiement de loyer.
+
+443
+00:23:40,879 --> 00:23:45,819
+En tout cas, ça se négocie et c'est conventionnel,
+
+444
+00:23:46,000 --> 00:23:47,779
+donc c'est tout à fait légal.
+
+445
+00:23:48,139 --> 00:23:48,940
+Donc oui, c'est possible.
+
+446
+00:23:49,599 --> 00:23:55,639
+Alors après, la question précise de Corinne, c'est ce type de vente est-il déconseillé ?
+
+447
+00:23:55,640 --> 00:24:00,200
+Alors, ça peut mal tourner. Vous me direz, n'importe quelle vente peut mal tourner.
+
+448
+00:24:00,660 --> 00:24:04,720
+Mais c'est vrai que là, on ajoute des raisons supplémentaires pour lesquelles ça pourrait mal tourner.
+
+449
+00:24:04,940 --> 00:24:07,980
+Imaginez que les vendeurs, ils restent dans les lieux, ils ne repartent jamais, ils dévastent tout.
+
+450
+00:24:08,259 --> 00:24:10,940
+Ils se comportent comme des vrais squatteurs. Ah ben oui, ça peut mal tourner.
+
+451
+00:24:11,080 --> 00:24:13,400
+Alors, vous me direz, heureusement, ça n'arrive pas tous les jours.
+
+452
+00:24:13,540 --> 00:24:15,259
+Ça n'arrive pas tous les jours, c'est vrai, mais ça peut arriver.
+
+453
+00:24:15,820 --> 00:24:19,800
+Et certains notaires sont très alarmistes là-dessus. Très, très, très alarmistes.
+
+454
+00:24:19,960 --> 00:24:22,140
+D'autres, non, c'est une question de personnalité, tout simplement.
+
+455
+00:24:22,140 --> 00:24:28,500
+donc est ce que c'est des conseillers pas forcément pas forcément par contre vous posez
+
+456
+00:24:28,500 --> 00:24:33,000
+la question est ce que commercialement c'est une bonne idée selon le type de bien est ce que c'est
+
+457
+00:24:33,000 --> 00:24:39,780
+un bien familial typiquement on va avoir des familles qui viennent visiter ça il leur faut
+
+458
+00:24:39,780 --> 00:24:45,600
+forcément les familles enfin un bien maintenant est ce que c'est un petit produit d'investissement
+
+459
+00:24:45,600 --> 00:24:51,380
+qui pourrait faire l'objet d'une négociation plus souple selon le type de produit alors on
+
+460
+00:24:51,380 --> 00:24:53,720
+Alors, on peut en discuter ensemble pour voir si c'est pertinent,
+
+461
+00:24:53,820 --> 00:24:57,140
+mais la question, elle est surtout sur la pertinence commerciale.
+
+462
+00:24:57,400 --> 00:24:59,500
+Est-ce que c'est déconseillé juridiquement ?
+
+463
+00:24:59,500 --> 00:25:01,680
+Il y a des raisons pour lesquelles ça pourrait mal tourner,
+
+464
+00:25:01,820 --> 00:25:06,120
+mais ce n'est pas quelque chose d'hyper exotique non plus.
+
+465
+00:25:06,260 --> 00:25:08,160
+Il ne faut pas être trop alarmiste là-dessus.
+
+466
+00:25:08,660 --> 00:25:09,800
+OK ?
+
+467
+00:25:09,800 --> 00:25:12,800
+Bien sûr, on peut toujours discuter de ces choses-là ensemble
+
+468
+00:25:12,800 --> 00:25:15,900
+pour essayer d'avoir plusieurs cerveaux qui carburent sur une même question.
+
+469
+00:25:17,160 --> 00:25:19,700
+Tiens, Sabrina nous dit, ça a bien bougé en début d'année,
+
+470
+00:25:19,700 --> 00:25:21,720
+mais depuis quelques jours, peu d'appels
+
+471
+00:25:21,720 --> 00:25:22,539
+d'acquireurs
+
+472
+00:25:22,539 --> 00:25:25,759
+je suis d'accord avec vous, je suis à 20
+
+473
+00:25:25,759 --> 00:25:27,420
+mandats et du fait
+
+474
+00:25:27,420 --> 00:25:29,720
+beaucoup plus de demandes, ah oui bien sûr
+
+475
+00:25:29,720 --> 00:25:31,759
+entrée de mandat grâce
+
+476
+00:25:31,759 --> 00:25:33,900
+à WeMove, 80 contacts à ce
+
+477
+00:25:33,900 --> 00:25:35,840
+jour, alors ça c'est
+
+478
+00:25:35,840 --> 00:25:36,940
+particulièrement intéressant
+
+479
+00:25:36,940 --> 00:25:39,420
+particulièrement intéressant, WeMove
+
+480
+00:25:39,420 --> 00:25:41,019
+alors on va en reparler
+
+481
+00:25:41,019 --> 00:25:43,240
+je ne sais pas si on va en reparler aujourd'hui
+
+482
+00:25:43,240 --> 00:25:46,000
+beaucoup beaucoup mais on va en reparler
+
+483
+00:25:46,000 --> 00:25:47,740
+parce que WeMove c'est
+
+484
+00:25:47,740 --> 00:25:49,360
+un outil que vous êtes
+
+485
+00:25:49,359 --> 00:25:52,039
+une majorité à sous-utiliser
+
+486
+00:25:52,039 --> 00:25:54,259
+beaucoup d'entre vous
+
+487
+00:25:54,259 --> 00:25:56,019
+se sont inscrits à WeMove
+
+488
+00:25:56,019 --> 00:25:57,299
+à chaque fois qu'on a fait des visions
+
+489
+00:25:57,299 --> 00:25:59,740
+mais derrière ne l'utilisent pas vraiment
+
+490
+00:25:59,740 --> 00:26:01,279
+c'est dommage
+
+491
+00:26:01,279 --> 00:26:02,479
+parce que
+
+492
+00:26:02,479 --> 00:26:05,279
+pour ceux d'entre vous qui l'utilisent vraiment
+
+493
+00:26:05,279 --> 00:26:07,839
+c'est une source de mandat de qualité
+
+494
+00:26:07,839 --> 00:26:09,259
+prouvée désormais
+
+495
+00:26:09,259 --> 00:26:11,019
+on n'est plus dans le
+
+496
+00:26:11,019 --> 00:26:13,899
+oh ça devrait, oh ça pourrait
+
+497
+00:26:13,899 --> 00:26:15,659
+oh il se pourrait bien que
+
+498
+00:26:15,659 --> 00:26:16,879
+non non non les amis
+
+499
+00:26:16,880 --> 00:26:36,060
+C'est prouvé, c'est démontré désormais, WeMove est non seulement une source de mandat, mais je vois vraiment WeMove se transformer en la nouvelle manière de prospecter maintenant que le téléphone est cramé par rapport à avant.
+
+500
+00:26:36,059 --> 00:26:38,579
+on en reparlera
+
+501
+00:26:38,579 --> 00:26:41,119
+bien sûr
+
+502
+00:26:41,119 --> 00:26:43,940
+alors Corine nous dit c'est un choix par rapport à leurs enfants
+
+503
+00:26:43,940 --> 00:26:45,159
+donc effectivement ils ont une contrainte
+
+504
+00:26:45,159 --> 00:26:46,759
+ah et elle me dit je l'ai en 2026
+
+505
+00:26:46,759 --> 00:26:47,940
+pas 2025
+
+506
+00:26:47,940 --> 00:26:48,879
+oui effectivement
+
+507
+00:26:48,879 --> 00:26:52,879
+j'avais fini par le voir mais je ne l'avais pas vu au début
+
+508
+00:26:52,879 --> 00:26:54,019
+vous savez je suis un peu
+
+509
+00:26:54,019 --> 00:26:56,399
+alors bien sûr les autres l'avaient vu aussi
+
+510
+00:26:56,399 --> 00:26:57,679
+Fabienne me le dit aussi
+
+511
+00:26:57,679 --> 00:27:01,200
+vous savez je suis une personne âgée
+
+512
+00:27:01,200 --> 00:27:03,839
+j'ai de plus en plus de mal
+
+513
+00:27:03,839 --> 00:27:04,619
+avec mon cerveau
+
+514
+00:27:04,619 --> 00:27:07,919
+j'ai trouvé un service télescope
+
+515
+00:27:07,919 --> 00:27:09,259
+qui me donnerait la liste des personnes
+
+516
+00:27:09,259 --> 00:27:11,000
+des impayés, des personnes décédées
+
+517
+00:27:11,000 --> 00:27:13,259
+donc votre possible par les héritiers, les SCI
+
+518
+00:27:13,259 --> 00:27:15,379
+non âge, c'est un projet de prospection
+
+519
+00:27:15,379 --> 00:27:16,959
+ah ça je vais vous en parler
+
+520
+00:27:16,959 --> 00:27:18,119
+je vais vous en parler
+
+521
+00:27:18,119 --> 00:27:21,299
+on va en reparler Véro parce que ça peut être intéressant
+
+522
+00:27:21,299 --> 00:27:22,119
+pour les copains
+
+523
+00:27:22,119 --> 00:27:24,539
+alors Séverine nous dit
+
+524
+00:27:24,539 --> 00:27:27,519
+du coup on note une date plus loin à la rédaction du mandat
+
+525
+00:27:27,519 --> 00:27:28,719
+ou ça peut être ajouté plus tard
+
+526
+00:27:28,719 --> 00:27:30,679
+alors très bonne question de Séverine
+
+527
+00:27:30,679 --> 00:27:31,879
+question très pratique
+
+528
+00:27:31,879 --> 00:27:34,119
+il faut qu'on mette quelque chose dans le mandat
+
+529
+00:27:34,119 --> 00:27:58,579
+Il faut que dans les clauses particulières du mandat, on mette, entre guillemets, une espèce de date butoir. On mette un maximum. Alors, vous nous consultez et on vous donne la phrase toute prête, copier-coller à mettre dans la clause particulière du mandat. Mais selon les circonstances, c'est pour ça qu'on en discute. Pourquoi ? Comment ? Jusqu'à quand ? Ils ont besoin de quel délai minimum et de quel délai maximum ?
+
+530
+00:27:58,579 --> 00:28:05,099
+Il nous faut un délai minimum pour pouvoir dire aux acquéreurs, attention, c'est pas avant juin 2026.
+
+531
+00:28:06,099 --> 00:28:12,159
+Parce qu'ils ont des raisons familiales, c'est une contrainte sur laquelle ils n'ont pas de souplesse, pas avant juin 2026.
+
+532
+00:28:12,159 --> 00:28:16,279
+Donc il nous faut mettre dans la clause particulière une date minimale.
+
+533
+00:28:17,220 --> 00:28:23,480
+Et il nous faut également, donc ça c'est pour la protection des vendeurs, mais il nous faut également une date maximale.
+
+534
+00:28:23,679 --> 00:28:25,639
+Là c'est pour la protection des acquéreurs.
+
+535
+00:28:25,640 --> 00:28:50,100
+Pour dire aux acquéreurs, mais attention, ça n'ira pas au-delà de ceci. Alors après, tout est toujours négociable et on peut revenir dessus si on en discute ouvertement, mais il faut que dans le mandat et donc lors des visites, on dise, voilà la date minimale dont les vendeurs ont besoin, voilà la date maximale au-delà de laquelle ça n'ira pas.
+
+536
+00:28:50,099 --> 00:29:11,119
+Pour qu'on puisse dès maintenant cadrer un petit peu le débat, qu'on ne parle pas dans tous les sens et qu'on cadre le débat de manière équilibrée. N'oubliez jamais, j'avais cette discussion avec Laurent hier pour une question dont on parlera dans quelques minutes, un contrat, et ça vous m'avez déjà entendu vous le dire mille et mille fois, un contrat doit toujours être équilibré.
+
+537
+00:29:11,119 --> 00:29:26,299
+Il ne doit pas y avoir une personne qui écrase l'autre, une partie au contrat qui l'emporte sur l'autre de manière démesurée. Sinon, le contrat, on lui donne un petit nom tout joli, on dit qu'il est léonin, ou alors qu'une clause est léonine.
+
+538
+00:29:26,299 --> 00:29:42,159
+Une clause léonine, c'est une clause, vous parliez d'exorbitant tout à l'heure, c'est exactement ça. Donc, ce n'est pas seulement ça une clause léonine, ça peut être d'autres choses aussi dans d'autres cas, mais c'est ça que ça veut dire dans le cadre d'un contrat déséquilibré ou d'une clause déséquilibrée.
+
+539
+00:29:42,160 --> 00:29:48,300
+Parce qu'on peut avoir simplement une clause d'un contrat qui emporte un déséquilibre.
+
+540
+00:29:48,960 --> 00:29:55,200
+Donc, il faut que, dans le souci de la protection et des vendeurs et des acquéreurs,
+
+541
+00:29:55,600 --> 00:29:58,259
+et d'équilibre du contrat, il faut qu'on ait les deux.
+
+542
+00:29:58,380 --> 00:30:01,240
+Une date minimum, une date maximum.
+
+543
+00:30:01,800 --> 00:30:05,680
+Donc, oui, c'est vrai, vous avez raison, il faut le mettre dans le mandat,
+
+544
+00:30:05,680 --> 00:30:11,500
+dans la clause particulière, vous nous consultez et on vous dit exactement quoi mettre.
+
+545
+00:30:11,500 --> 00:30:17,420
+en fait c'est l'idée, c'est l'inverse de la location vente
+
+546
+00:30:17,420 --> 00:30:21,180
+je suis sur le point de floquer ma voiture avec mon QR code WeMove
+
+547
+00:30:21,180 --> 00:30:24,880
+alors ça c'est une excellente chose de mettre le QR code WeMove
+
+548
+00:30:24,880 --> 00:30:28,500
+partout où vous le pouvez, y compris sur vos panneaux
+
+549
+00:30:28,500 --> 00:30:32,619
+à ce sujet des QR code, n'oubliez pas les amis
+
+550
+00:30:32,619 --> 00:30:35,619
+je vous le redis au cas où
+
+551
+00:30:35,619 --> 00:30:39,239
+vous n'étiez pas là
+
+552
+00:30:39,239 --> 00:30:41,779
+lors de la visio précédente
+
+553
+00:30:41,779 --> 00:30:43,219
+alors attendez je vais aller là
+
+554
+00:30:43,219 --> 00:30:44,699
+hop voilà
+
+555
+00:30:44,699 --> 00:30:47,859
+oups je me trompe
+
+556
+00:30:47,859 --> 00:30:50,579
+donc voici des mandats de notre ami Yves
+
+557
+00:30:50,579 --> 00:30:52,519
+c'est ça ?
+
+558
+00:30:52,519 --> 00:30:53,559
+c'est Yves je me trompe pas ?
+
+559
+00:30:53,559 --> 00:30:54,019
+ouais c'est Yves
+
+560
+00:30:54,019 --> 00:30:57,419
+je vous ai montré il y a quelques semaines
+
+561
+00:30:57,419 --> 00:30:59,119
+bah tiens voilà
+
+562
+00:30:59,119 --> 00:31:02,019
+on a un DPE non enregistré
+
+563
+00:31:02,019 --> 00:31:03,559
+c'est pas grave
+
+564
+00:31:03,559 --> 00:31:04,119
+alors
+
+565
+00:31:04,119 --> 00:31:06,719
+ça c'est parce que c'est un vieux mandat
+
+566
+00:31:06,719 --> 00:31:09,639
+qui date du 24 juin 2024
+
+567
+00:31:09,639 --> 00:31:11,199
+c'était les fiches de mandat
+
+568
+00:31:11,199 --> 00:31:12,139
+qui n'étaient pas aux normes
+
+569
+00:31:12,139 --> 00:31:14,819
+vous le savez sur tous les mandats désormais
+
+570
+00:31:14,819 --> 00:31:17,379
+moi je croyais que c'était là
+
+571
+00:31:17,379 --> 00:31:18,599
+depuis très très très longtemps
+
+572
+00:31:18,599 --> 00:31:19,939
+quand je vous en ai parlé l'autre jour
+
+573
+00:31:19,939 --> 00:31:22,959
+on s'est aperçu que vous ne le voyez pas
+
+574
+00:31:22,959 --> 00:31:25,479
+à cette époque dans vos églantines
+
+575
+00:31:25,479 --> 00:31:26,539
+de conseillers
+
+576
+00:31:26,539 --> 00:31:28,259
+moi dans mon églantine à moi de chef
+
+577
+00:31:28,259 --> 00:31:31,419
+je l'avais et je croyais que tout le monde l'avait
+
+578
+00:31:31,419 --> 00:31:32,659
+mais en fait vous ne l'aviez pas
+
+579
+00:31:32,660 --> 00:31:34,180
+on vous l'a remis depuis
+
+580
+00:31:34,180 --> 00:31:36,160
+vous avez ici un petit QR code
+
+581
+00:31:36,160 --> 00:31:39,300
+vous cliquez sur le QR code
+
+582
+00:31:39,300 --> 00:31:40,120
+et ça vous donne
+
+583
+00:31:40,120 --> 00:31:41,460
+parce que avant
+
+584
+00:31:41,460 --> 00:31:44,380
+c'est juste une petite icône
+
+585
+00:31:44,380 --> 00:31:46,380
+qui figure un QR code
+
+586
+00:31:46,380 --> 00:31:48,000
+c'est un faux QR code
+
+587
+00:31:48,000 --> 00:31:50,080
+c'est juste une petite icône pour vous dire que c'est ici
+
+588
+00:31:50,080 --> 00:31:51,800
+si vous cliquez dessus par contre
+
+589
+00:31:51,800 --> 00:31:54,480
+vous avez là le vrai QR code
+
+590
+00:31:54,480 --> 00:31:55,920
+qui se génère pour votre produit
+
+591
+00:31:55,920 --> 00:31:58,880
+alors je vois pourquoi mon ordinateur a décidé
+
+592
+00:31:58,880 --> 00:32:00,360
+il voulait afficher une seconde
+
+593
+00:32:00,360 --> 00:32:01,320
+mais là il ne veut plus vous l'afficher
+
+594
+00:32:01,320 --> 00:32:02,259
+ça y est il vous l'affiche
+
+595
+00:32:02,960 --> 00:32:04,000
+Là, c'est le vrai QR code.
+
+596
+00:32:04,660 --> 00:32:05,500
+C'est le vrai QR code.
+
+597
+00:32:06,339 --> 00:32:09,240
+Là, si vous prenez vos téléphones et que vous le scannez,
+
+598
+00:32:09,359 --> 00:32:11,759
+là, chez vous, je vais zoomer un petit peu.
+
+599
+00:32:13,440 --> 00:32:15,940
+Prenez vos téléphones et scannez ce QR code.
+
+600
+00:32:21,160 --> 00:32:22,799
+Qu'est-ce que vous voyez ?
+
+601
+00:32:22,799 --> 00:32:23,160
+Un lien.
+
+602
+00:32:23,720 --> 00:32:28,140
+Le lien qui vous mène directement vers la page de ce produit.
+
+603
+00:32:28,660 --> 00:32:30,039
+Avec vos coordonnées.
+
+604
+00:32:30,559 --> 00:32:31,839
+Enfin, là, c'est des coordonnées de Yves.
+
+605
+00:32:32,259 --> 00:32:37,720
+Le prix du bien, les mentions, en fait, c'est la page adaptée notamment pour un mobile.
+
+606
+00:32:38,660 --> 00:32:42,039
+Alors, là, c'est une page qui n'a pas de maquette interactive,
+
+607
+00:32:42,440 --> 00:32:47,400
+parce que Yves, sur ce mandat-là, a été un mauvais élève.
+
+608
+00:32:48,740 --> 00:32:53,259
+Mais si je vais regarder, par exemple, ça, c'est les trucs avec visite virtuelle.
+
+609
+00:32:53,259 --> 00:32:55,039
+Oh là, j'ai fait n'importe quoi.
+
+610
+00:32:57,759 --> 00:33:01,099
+Là, j'avais fait une manie, normalement, on ne va avoir que les mandats avec visite virtuelle,
+
+611
+00:33:01,099 --> 00:33:03,679
+mais on n'a pas, parce que moi j'ai un petit outil
+
+612
+00:33:03,679 --> 00:33:05,339
+ici, je ne sais pas si vous, vous l'avez
+
+613
+00:33:05,339 --> 00:33:07,500
+ici, moi j'ai un petit outil
+
+614
+00:33:07,500 --> 00:33:09,439
+qui me permet d'afficher les mandats
+
+615
+00:33:09,439 --> 00:33:11,379
+qui ont une visite virtuelle uniquement
+
+616
+00:33:11,379 --> 00:33:13,619
+mais je ne sais pas, est-ce que vous avez ça
+
+617
+00:33:13,619 --> 00:33:14,659
+de votre côté
+
+618
+00:33:14,659 --> 00:33:17,539
+je vais regarder parce que
+
+619
+00:33:17,539 --> 00:33:19,199
+maintenant je suis curieux
+
+620
+00:33:19,199 --> 00:33:21,539
+et j'ai besoin de savoir
+
+621
+00:33:21,539 --> 00:33:23,539
+est-ce que vous avez
+
+622
+00:33:23,539 --> 00:33:25,659
+la même chose, ce petit machin
+
+623
+00:33:25,659 --> 00:33:29,099
+c'est pas le bon navigateur, excusez-moi
+
+624
+00:33:29,099 --> 00:33:31,199
+Ah, c'est là-haut.
+
+625
+00:33:31,699 --> 00:33:33,419
+Est-ce que vous aussi, vous avez ça ?
+
+626
+00:33:33,419 --> 00:33:40,000
+Ce machin qui vous permet de visualiser uniquement les produits avec des visites virtuelles ou pas ?
+
+627
+00:33:40,000 --> 00:33:42,539
+Alors, attendez, je suis en train de chercher en même temps,
+
+628
+00:33:42,659 --> 00:33:46,159
+parce que si vous ne l'avez pas, peut-être que ça vous serait…
+
+629
+00:33:46,159 --> 00:33:46,939
+Non, vous ne l'avez pas.
+
+630
+00:33:47,419 --> 00:33:50,599
+Est-ce que ça vous serait utile ou pas d'avoir ici un petit outil
+
+631
+00:33:50,599 --> 00:33:54,939
+qui vous permet d'afficher uniquement les produits qui ont des visites virtuelles ou pas ?
+
+632
+00:33:54,940 --> 00:33:59,799
+Bon, en tout cas, regardez, si je vais prendre un produit qui a une visite virtuelle,
+
+633
+00:33:59,799 --> 00:34:03,940
+donc allons voir par exemple ce produit à Chanteau.
+
+634
+00:34:04,039 --> 00:34:07,259
+D'ailleurs, produit à Chanteau, ce n'est pas une mauvaise idée d'aller le regarder.
+
+635
+00:34:07,400 --> 00:34:14,139
+Pourquoi ? Parce que je suis allé faire un Matterport avec Sabrina il y a quelques jours sur ce produit.
+
+636
+00:34:14,340 --> 00:34:15,220
+Donc, vous allez voir que c'est assez joli.
+
+637
+00:34:15,760 --> 00:34:23,599
+Alors, si vous zoomez ce QR code, vous allez voir que ça ne vous montre pas seulement la page produit,
+
+638
+00:34:23,599 --> 00:34:32,199
+Mais ça vous montre la page du produit sur laquelle vous pouvez visiter la visite virtuelle elle-même.
+
+639
+00:34:33,420 --> 00:34:39,679
+Et là, vous voyez la visite virtuelle qui est une visite virtuelle particulière puisque c'est la visite virtuelle Matterport.
+
+640
+00:34:39,980 --> 00:34:43,179
+Mais si c'est une visite virtuelle normale, ça s'affiche également.
+
+641
+00:34:43,860 --> 00:34:46,920
+Ce petit QR code, vous l'enregistrez sur votre ordinateur.
+
+642
+00:34:46,920 --> 00:34:55,000
+Alors, vous faites « enregistrer l'image sous », qui est là, ou bien « ouvrir l'image dans un nouvel onglet pour la voir comme ça ».
+
+643
+00:34:55,000 --> 00:34:58,079
+Peut-être que c'est plus simple pour vous de le voir comme ça, je ne sais pas.
+
+644
+00:35:01,119 --> 00:35:14,220
+Sinon, ce n'est pas absolument nécessaire, mais « enregistrer l'image sous », vous voyez, et vous enregistrez ce QR code sur votre ordinateur, d'accord ?
+
+645
+00:35:14,219 --> 00:35:15,219
+Je peux vous appeler comme vous voulez.
+
+646
+00:35:15,739 --> 00:35:19,639
+D'ailleurs, je demanderais, est-ce qu'on ne peut pas le nommer avec le numéro de mandat ?
+
+647
+00:35:19,639 --> 00:35:21,459
+Vous enregistrez ce QR code sur votre ordinateur.
+
+648
+00:35:21,539 --> 00:35:22,039
+Ça y est, c'est fait.
+
+649
+00:35:23,599 --> 00:35:26,279
+Désormais, je vais chercher sur mon ordinateur le QR code.
+
+650
+00:35:26,819 --> 00:35:28,919
+Pourquoi j'ai autant de fenêtres Word ?
+
+651
+00:35:28,919 --> 00:35:29,859
+Ça n'a aucun sens.
+
+652
+00:35:30,939 --> 00:35:34,879
+Je vais chercher sur mon ordinateur.
+
+653
+00:35:35,719 --> 00:35:38,179
+Attendez, parce que mon navigateur est là.
+
+654
+00:35:39,139 --> 00:35:39,459
+Téléchargement.
+
+655
+00:35:39,459 --> 00:35:41,659
+Et voici mon QR code.
+
+656
+00:35:43,359 --> 00:35:44,000
+Il est là.
+
+657
+00:35:44,219 --> 00:35:47,679
+à quoi peut vous servir ce QR code
+
+658
+00:35:47,679 --> 00:35:49,719
+qui mène directement vers votre
+
+659
+00:35:49,719 --> 00:35:51,339
+vers ce lien
+
+660
+00:35:51,339 --> 00:35:56,059
+est-ce que vous avez des idées
+
+661
+00:35:56,059 --> 00:35:57,639
+ça peut vous servir à mille trucs
+
+662
+00:35:57,639 --> 00:35:59,379
+on va voir ça ensemble
+
+663
+00:35:59,379 --> 00:36:02,639
+est-ce que vous avez des idées de où vous pourriez bien mettre ce QR code
+
+664
+00:36:02,639 --> 00:36:08,039
+alors Véronique dit
+
+665
+00:36:08,039 --> 00:36:09,419
+ça sert à l'envoyer au client directement
+
+666
+00:36:09,419 --> 00:36:12,319
+absolument, vous pouvez parfaitement l'envoyer au client directement
+
+667
+00:36:12,319 --> 00:36:14,099
+mais ce QR code
+
+668
+00:36:14,099 --> 00:36:17,940
+vous pouvez le mettre, imaginons que ce soit une super exclusivité
+
+669
+00:36:17,940 --> 00:36:21,960
+sur laquelle vous désirez mettre le paquet
+
+670
+00:36:21,960 --> 00:36:26,019
+vous pouvez mettre le QR code sur un sac à pain
+
+671
+00:36:26,019 --> 00:36:29,199
+vous connaissez les sacs à pain, les sacs pour les baguettes dans les boulangeries
+
+672
+00:36:29,199 --> 00:36:31,839
+de votre secteur, vous pouvez mettre ça sur les sacs à pain
+
+673
+00:36:31,839 --> 00:36:35,199
+vous pouvez mettre le QR code sur un panneau
+
+674
+00:36:35,199 --> 00:36:38,159
+vous mettez, parce que c'est une exclusivité
+
+675
+00:36:38,159 --> 00:36:41,619
+un panneau sur la façade, sur la grille
+
+676
+00:36:41,619 --> 00:36:44,000
+de la maison et vous imprimez
+
+677
+00:36:44,000 --> 00:36:46,000
+ce QR code que vous scotchez
+
+678
+00:36:46,000 --> 00:36:47,980
+en gros sur le panneau
+
+679
+00:36:47,980 --> 00:36:49,719
+ça permet à une personne qui passe de flasher
+
+680
+00:36:49,719 --> 00:36:51,980
+le QR code avec son téléphone et d'arriver
+
+681
+00:36:51,980 --> 00:36:53,319
+sur la page produit
+
+682
+00:36:53,319 --> 00:36:55,299
+avec le prix, avec la description
+
+683
+00:36:55,299 --> 00:36:57,599
+avec vos coordonnées complètes
+
+684
+00:36:57,599 --> 00:36:58,639
+bien sûr
+
+685
+00:36:58,639 --> 00:37:01,699
+ce QR code vous pouvez le mettre sur des petits flyers
+
+686
+00:37:01,699 --> 00:37:03,859
+des petits flyers à distribuer
+
+687
+00:37:03,859 --> 00:37:05,699
+qui vous permettent de mettre ces produits en avant
+
+688
+00:37:05,699 --> 00:37:07,819
+vous pouvez mettre ce QR code
+
+689
+00:37:07,819 --> 00:37:09,880
+partout et il mènera
+
+690
+00:37:09,880 --> 00:37:17,619
+directement à la page de la maison à la page du produit donc ce petit qr code vous l'avez
+
+691
+00:37:17,619 --> 00:37:25,240
+sur tous vos produits que ces produits soient présents avec une visite virtuelle ou pas donc
+
+692
+00:37:25,239 --> 00:37:29,699
+Donc, utilisez-les au maximum, d'accord ?
+
+693
+00:37:29,699 --> 00:37:34,759
+Alors, je vous disais, on va revenir en arrière.
+
+694
+00:37:38,500 --> 00:37:39,179
+Hop là.
+
+695
+00:37:41,379 --> 00:37:52,479
+Je vous disais donc, vous avez, excusez-moi parce que je suis en train de retrouver exactement la phrase sur laquelle j'étais.
+
+696
+00:37:52,480 --> 00:37:54,800
+quand je suis parti
+
+697
+00:37:54,800 --> 00:37:57,719
+si vous expliquez ce petit QR code
+
+698
+00:37:57,719 --> 00:38:00,780
+et je ne retrouve pas la phrase
+
+699
+00:38:00,780 --> 00:38:01,880
+je crois que j'ai continué tout simplement
+
+700
+00:38:01,880 --> 00:38:04,780
+la vision en zappant cette phrase
+
+701
+00:38:04,780 --> 00:38:06,659
+ah ben non, c'était le QR code
+
+702
+00:38:06,659 --> 00:38:08,960
+WeMove de la voiture de Véro
+
+703
+00:38:08,960 --> 00:38:09,880
+c'était ça
+
+704
+00:38:09,880 --> 00:38:13,059
+donc vous avez ce petit QR code pour le produit lui-même
+
+705
+00:38:13,059 --> 00:38:14,960
+mais votre QR code
+
+706
+00:38:14,960 --> 00:38:17,199
+WeMove, où est-ce que vous allez le chercher ?
+
+707
+00:38:17,199 --> 00:38:18,119
+on va le chercher ensemble
+
+708
+00:38:18,119 --> 00:38:20,579
+ce petit QR code WeMove
+
+709
+00:38:20,579 --> 00:38:25,779
+Moi, je vous conseille de le mettre absolument partout où vous pouvez.
+
+710
+00:38:28,599 --> 00:38:31,739
+Hop, application mobile, utilisateur.
+
+711
+00:38:31,860 --> 00:38:33,239
+Ah non, c'était juste avant, pardon, excuse-moi.
+
+712
+00:38:33,759 --> 00:38:40,759
+Vous vous connectez à WeMove, voilà, et vous l'avez, je l'avais ici, application mobile, c'est là.
+
+713
+00:38:41,259 --> 00:38:44,619
+Voilà, vous avez téléchargé mon QR code.
+
+714
+00:38:45,579 --> 00:38:47,819
+Ça, c'est le QR code WeMove.
+
+715
+00:38:47,820 --> 00:39:08,800
+C'est le QR code WeMove. Et donc là, vous pouvez mettre ce QR code sur votre voiture. Vous pouvez mettre ce QR code sur tous vos panneaux. Vous pouvez mettre ce QR code sur des sacs à pain. Vous pouvez mettre vos QR codes sur des flyers. Ça, c'est un QR code qui emmènera les gens vers votre présence sur WeMove.
+
+716
+00:39:08,800 --> 00:39:11,200
+c'est pas le même QR code
+
+717
+00:39:11,200 --> 00:39:13,039
+faut pas le mélanger
+
+718
+00:39:13,039 --> 00:39:14,420
+faut pas le confondre
+
+719
+00:39:14,420 --> 00:39:16,300
+mais Véro a raison
+
+720
+00:39:16,300 --> 00:39:18,720
+mettez le sur votre voiture avec un petit message
+
+721
+00:39:18,720 --> 00:39:20,519
+en disant devenez apporteur d'affaires
+
+722
+00:39:20,519 --> 00:39:23,140
+ou gagnez de l'argent en me recommandant
+
+723
+00:39:23,140 --> 00:39:24,120
+à vos amis
+
+724
+00:39:24,120 --> 00:39:26,019
+ça vous
+
+725
+00:39:26,019 --> 00:39:29,060
+ça vous apportera
+
+726
+00:39:29,060 --> 00:39:31,360
+alors n'allez pas vous imaginer
+
+727
+00:39:31,360 --> 00:39:32,940
+qu'il suffit de mettre son QR code sur sa voiture
+
+728
+00:39:32,940 --> 00:39:34,720
+pour crouler sous les mandats dès le lendemain
+
+729
+00:39:34,720 --> 00:39:35,880
+absolument pas
+
+730
+00:39:35,880 --> 00:39:38,640
+mais ça plus les actions
+
+731
+00:39:38,639 --> 00:39:46,000
+proactive ou e-move, ça vous apportera sans aucun doute des nouveaux mandats.
+
+732
+00:39:46,579 --> 00:39:49,099
+Alors, tiens d'ailleurs, Corinne nous confirme qu'effectivement,
+
+733
+00:39:49,159 --> 00:39:51,119
+c'était un bien familial, une maison de 4 champs.
+
+734
+00:39:51,119 --> 00:39:55,119
+On sait que les biens familiaux, pour revenir sur le produit
+
+735
+00:39:55,779 --> 00:39:58,920
+avec une libération ultérieure en juin 2026,
+
+736
+00:39:59,359 --> 00:40:01,859
+généralement un produit familial, on en a besoin pour maintenant.
+
+737
+00:40:02,079 --> 00:40:04,059
+Ce n'est pas typiquement un produit d'investissement.
+
+738
+00:40:04,059 --> 00:40:07,840
+Dans le même cas j'avais trouvé l'acquéreur
+
+739
+00:40:07,840 --> 00:40:09,299
+Qui acceptait une vente longue d'un an
+
+740
+00:40:09,299 --> 00:40:11,159
+Mais le notaire des vendeurs n'a pas voulu
+
+741
+00:40:11,159 --> 00:40:13,559
+Ah c'est Marie qui nous dit ça
+
+742
+00:40:13,559 --> 00:40:15,400
+On voit qu'effectivement
+
+743
+00:40:15,400 --> 00:40:18,079
+Le notaire peut déconseiller
+
+744
+00:40:18,079 --> 00:40:19,179
+Parce qu'il trouve lui que
+
+745
+00:40:19,179 --> 00:40:20,320
+C'est un peu casse gueule
+
+746
+00:40:20,320 --> 00:40:23,420
+Alors c'est selon la configuration
+
+747
+00:40:23,420 --> 00:40:26,019
+Après la configuration est plus ou moins
+
+748
+00:40:26,019 --> 00:40:27,799
+Dangereuse, plus ou moins encadrée
+
+749
+00:40:27,799 --> 00:40:30,099
+Mais on peut avoir des notaires assez alarmistes
+
+750
+00:40:30,099 --> 00:40:31,360
+Qui disent non non c'est casse gueule
+
+751
+00:40:31,360 --> 00:40:32,299
+Je ne veux pas entendre parler de ça
+
+752
+00:40:32,300 --> 00:40:34,840
+c'est pas surprenant
+
+753
+00:40:34,840 --> 00:40:37,200
+est-ce qu'il y a un QR code
+
+754
+00:40:37,200 --> 00:40:39,260
+pour l'ensemble des biens de notre mini-site
+
+755
+00:40:39,260 --> 00:40:40,420
+alors
+
+756
+00:40:40,420 --> 00:40:42,860
+il n'y en a pas
+
+757
+00:40:42,860 --> 00:40:44,840
+automatiquement généré mais vous pouvez demander
+
+758
+00:40:44,840 --> 00:40:47,000
+à l'animation, nous on peut
+
+759
+00:40:47,000 --> 00:40:47,860
+vous fournir
+
+760
+00:40:47,860 --> 00:40:50,900
+en fait on peut vous fournir des QR code pour tout
+
+761
+00:40:50,900 --> 00:40:53,140
+ce dont vous avez besoin, parce que c'est très facile à faire
+
+762
+00:40:53,140 --> 00:40:54,960
+ceux d'entre vous qui ne maîtrisent pas ça
+
+763
+00:40:54,960 --> 00:40:56,880
+vous demandez à l'animation et on vous enverra
+
+764
+00:40:56,880 --> 00:40:58,519
+le QR code, donc
+
+765
+00:40:58,519 --> 00:41:00,860
+est-ce que vous pouvez avoir un QR code
+
+766
+00:41:00,860 --> 00:41:02,140
+pour l'ensemble des biens
+
+767
+00:41:02,139 --> 00:41:03,699
+d'un mini site
+
+768
+00:41:03,699 --> 00:41:06,299
+regardez, on va aller sur le mini site
+
+769
+00:41:06,299 --> 00:41:07,980
+c'est Guillaume qui pose cette question
+
+770
+00:41:07,980 --> 00:41:09,920
+Guillaume de Dordogne, donc je vais aller sur
+
+771
+00:41:09,920 --> 00:41:12,539
+g.bertrand
+
+772
+00:41:12,539 --> 00:41:14,279
+non c'est gbertrand
+
+773
+00:41:14,279 --> 00:41:18,460
+.alacarn
+
+774
+00:41:18,460 --> 00:41:21,319
+.com
+
+775
+00:41:21,319 --> 00:41:24,900
+voilà, donc ça c'est le mini site
+
+776
+00:41:24,900 --> 00:41:27,139
+de Guillaume, on voit que c'est un très joli
+
+777
+00:41:27,139 --> 00:41:29,299
+mini site, vous avez bien bossé
+
+778
+00:41:29,299 --> 00:41:31,059
+là dessus, bien à vendre
+
+779
+00:41:31,059 --> 00:41:33,199
+voici la liste de vos biens à vendre
+
+780
+00:41:33,199 --> 00:41:34,860
+et bien regardez donc je prends
+
+781
+00:41:34,860 --> 00:41:36,119
+ça
+
+782
+00:41:36,119 --> 00:41:39,119
+ensuite je vais
+
+783
+00:41:39,119 --> 00:41:41,139
+ici je vais
+
+784
+00:41:41,139 --> 00:41:42,840
+là je vais là
+
+785
+00:41:42,840 --> 00:41:45,099
+vous ne le voyez pas c'est sur un autre écran mais c'est pas grave
+
+786
+00:41:45,099 --> 00:41:46,480
+hop là
+
+787
+00:41:46,480 --> 00:41:49,000
+je vais vous le faire
+
+788
+00:41:49,000 --> 00:41:53,739
+hop
+
+789
+00:41:53,739 --> 00:41:57,059
+il est où ? il est sur mon ordi déjà ou pas ?
+
+790
+00:41:59,599 --> 00:42:01,039
+il est où ?
+
+791
+00:42:01,059 --> 00:42:08,019
+hop là je vais ressortir ça non enregistré sous
+
+792
+00:42:08,019 --> 00:42:11,079
+pourquoi il n'est pas
+
+793
+00:42:11,079 --> 00:42:20,619
+voilà oui c'est pour ça je n'ai pas cliqué sur télécharger regardez alors les amis est ce que
+
+794
+00:42:20,619 --> 00:42:22,179
+vous voulez bien scanné ce qr code
+
+795
+00:42:29,139 --> 00:42:40,019
+les grands voilà hop et ça vous emmène directement sur la liste des biens du
+
+796
+00:42:40,019 --> 00:42:50,159
+mini site de guillaume alors vous avez vu que ça m'a pris deux secondes deux secondes de le
+
+797
+00:42:50,159 --> 00:42:57,579
+faire donc demandé à l'animation vous avez besoin d'un qr code pour votre mini site telle page du
+
+798
+00:42:57,579 --> 00:43:03,000
+mini site vous coordonner vos photos votre machin vous le demandez on en a pour deux secondes à
+
+799
+00:43:03,000 --> 00:43:18,119
+vous le faire n'hésitez pas et d'ailleurs hop là je vais appeler ça qr code un mini site guillaume
+
+800
+00:43:18,119 --> 00:43:30,679
+bertrand et mon cher guillaume je vous l'envoie tout de suite depuis l'animation guillaume
+
+801
+00:43:33,000 --> 00:43:35,699
+QR code
+
+802
+00:43:35,699 --> 00:43:37,980
+voilà, je vous l'envoie immédiatement
+
+803
+00:43:37,980 --> 00:43:38,699
+comme ça vous l'aurez
+
+804
+00:43:38,699 --> 00:43:40,880
+ceci pour vous dire quoi ?
+
+805
+00:43:40,880 --> 00:43:43,780
+pour vous dire, vous avez vu avec quelle rapidité
+
+806
+00:43:43,780 --> 00:43:45,059
+et quelle facilité
+
+807
+00:43:45,059 --> 00:43:47,280
+j'ai fait le QR code de Guillaume
+
+808
+00:43:47,280 --> 00:43:49,539
+c'est extrêmement rapide
+
+809
+00:43:49,539 --> 00:43:51,559
+c'est très simple, c'est très facile
+
+810
+00:43:51,559 --> 00:43:53,559
+et c'est gratuit
+
+811
+00:43:53,559 --> 00:43:55,780
+donc n'hésitez pas
+
+812
+00:43:55,780 --> 00:43:56,739
+à nous demander ça
+
+813
+00:43:56,739 --> 00:43:58,420
+c'est envoyé Julien
+
+814
+00:43:58,420 --> 00:44:00,480
+Guillaume vous allez le recevoir d'ici quelques secondes
+
+815
+00:44:00,480 --> 00:44:02,619
+vous l'aurez
+
+816
+00:44:02,619 --> 00:44:04,639
+sur votre boîte mail.
+
+817
+00:44:05,599 --> 00:44:07,279
+Donc, demandez-nous.
+
+818
+00:44:07,739 --> 00:44:08,960
+C'est très simple, c'est très rapide.
+
+819
+00:44:10,259 --> 00:44:10,579
+Alors,
+
+820
+00:44:11,719 --> 00:44:13,039
+on a pas mal d'autres choses à voir.
+
+821
+00:44:13,239 --> 00:44:14,519
+On a pas mal d'autres choses à voir.
+
+822
+00:44:14,679 --> 00:44:16,339
+Je vais retourner là, je vais retourner là.
+
+823
+00:44:16,339 --> 00:44:18,339
+Hop, hop, hop.
+
+824
+00:44:23,139 --> 00:44:24,639
+C'est bien l'onglet 10.370,
+
+825
+00:44:24,679 --> 00:44:26,679
+pas 50 mandats. Je crois que je ne suis pas au bon endroit.
+
+826
+00:44:27,079 --> 00:44:28,619
+On peut le faire facilement aussi
+
+827
+00:44:28,619 --> 00:44:30,599
+et gratuitement sur Vistaprint.
+
+828
+00:44:30,900 --> 00:44:32,199
+Ah oui, il y a des outils partout
+
+829
+00:44:32,199 --> 00:44:34,559
+pour faire des QR codes
+
+830
+00:44:34,559 --> 00:44:36,279
+ceux d'entre vous
+
+831
+00:44:36,279 --> 00:44:38,119
+qui savent faire, faites-lez où vous voulez
+
+832
+00:44:38,119 --> 00:44:40,500
+ceux d'entre vous qui ne savent pas faire et qui n'ont pas envie d'apprendre
+
+833
+00:44:40,500 --> 00:44:41,839
+vous demandez, on le fait pour vous
+
+834
+00:44:41,839 --> 00:44:44,339
+c'est tout simple, j'ai envoyé le mail à Mathieu
+
+835
+00:44:44,339 --> 00:44:46,159
+du QR code sur auto pour inciter
+
+836
+00:44:46,159 --> 00:44:48,599
+les classes de scaner, je trouve le site
+
+837
+00:44:48,599 --> 00:44:50,279
+contactez un conseiller bien plus joli
+
+838
+00:44:50,279 --> 00:44:52,379
+que nous WordPress, nos mini sites pour présenter
+
+839
+00:44:52,379 --> 00:44:53,960
+ah oui, mais ça c'est pas
+
+840
+00:44:53,960 --> 00:44:56,099
+un site, c'est une simple page sur
+
+841
+00:44:56,099 --> 00:44:58,039
+Alucard, on peut vous le faire aussi si vous voulez
+
+842
+00:44:58,039 --> 00:45:00,319
+sauf erreur, on peut créer
+
+843
+00:45:00,319 --> 00:45:02,179
+nous-mêmes nos QR codes, mais bien sûr
+
+844
+00:45:02,179 --> 00:45:03,879
+bien sûr, d'ailleurs si vous voulez
+
+845
+00:45:03,879 --> 00:45:05,960
+un outil de création de QR code
+
+846
+00:45:05,960 --> 00:45:07,239
+je vais vous en donner un tout de suite
+
+847
+00:45:07,239 --> 00:45:09,119
+qui est très très bien
+
+848
+00:45:09,119 --> 00:45:11,779
+c'est celui-là, je vous le donne à tous
+
+849
+00:45:11,779 --> 00:45:12,579
+dans le chat
+
+850
+00:45:12,579 --> 00:45:17,940
+excusez-moi
+
+851
+00:45:17,940 --> 00:45:19,659
+j'ai un peu là
+
+852
+00:45:19,659 --> 00:45:21,859
+masqué, voilà
+
+853
+00:45:21,859 --> 00:45:23,879
+en voici un qui fonctionne
+
+854
+00:45:23,879 --> 00:45:25,779
+hyper bien, qui est gratuit
+
+855
+00:45:25,779 --> 00:45:28,179
+et qui est irréprochable
+
+856
+00:45:28,179 --> 00:45:29,779
+du point de vue de la sécurité informatique
+
+857
+00:45:29,779 --> 00:45:31,119
+vous voyez, donc
+
+858
+00:45:31,119 --> 00:45:43,839
+Il y en a plein partout, alors attention, il y en a plein qui téléchargent des virus, qui téléchargent je ne sais pas quoi, chaque fois qu'un truc est gratuit, il faut toujours se méfier. Bien sûr, celui-là, il est absolument sûr, il n'y a aucun problème.
+
+859
+00:45:43,840 --> 00:45:53,079
+alors les autres choses dont on doit parler ce soir il ya deux choses un petit peu plus
+
+860
+00:45:53,079 --> 00:46:00,880
+un petit peu plus longue on va étudier la première chose c'est une demande de
+
+861
+00:46:00,880 --> 00:46:05,500
+c'est une demande de
+
+862
+00:46:05,500 --> 00:46:12,039
+je ne sais pas, il y a Frédéric Vielle
+
+863
+00:46:12,039 --> 00:46:13,920
+qui n'arrive pas à se connecter apparemment, je viens de le voir
+
+864
+00:46:13,920 --> 00:46:15,239
+je ne sais pas s'il a réussi à se connecter
+
+865
+00:46:15,239 --> 00:46:17,960
+depuis à la visio, mais tout à l'heure il a envoyé
+
+866
+00:46:17,960 --> 00:46:19,639
+un message sur mon Skype en disant
+
+867
+00:46:19,639 --> 00:46:21,960
+en fait ça aurait été mieux qu'il s'adresse
+
+868
+00:46:21,960 --> 00:46:24,159
+à l'animation, l'animation l'aurait aidé
+
+869
+00:46:24,159 --> 00:46:26,099
+là en fait il envoie un message directement à moi
+
+870
+00:46:26,099 --> 00:46:28,239
+j'étais en visio, forcément je ne le vois
+
+871
+00:46:28,239 --> 00:46:30,559
+que maintenant son message, donc je ne l'ai pas vu
+
+872
+00:46:30,559 --> 00:46:34,179
+première chose qu'on va voir c'est une question
+
+873
+00:46:34,179 --> 00:46:35,899
+de Julien, tout à l'heure.
+
+874
+00:46:37,359 --> 00:46:38,239
+Julien m'a
+
+875
+00:46:38,239 --> 00:46:40,480
+demandé de refaire
+
+876
+00:46:40,480 --> 00:46:42,059
+un petit topo rapide
+
+877
+00:46:42,059 --> 00:46:44,179
+sur la procédure quand on a une
+
+878
+00:46:44,179 --> 00:46:45,179
+tutelle.
+
+879
+00:46:46,859 --> 00:46:48,259
+Alors, on ne va pas faire toute la vision
+
+880
+00:46:48,259 --> 00:46:50,239
+sur les tutelles qu'on a déjà faites
+
+881
+00:46:50,239 --> 00:46:52,399
+dans le passé et qu'on pourra refaire, si vous le voulez,
+
+882
+00:46:52,500 --> 00:46:53,799
+dans l'avenir, parce que
+
+883
+00:46:53,799 --> 00:46:56,039
+elle est longue, elle est complète,
+
+884
+00:46:56,440 --> 00:46:57,940
+il y a pas mal de choses à voir dedans.
+
+885
+00:46:58,539 --> 00:47:00,099
+Ce que Julien m'a demandé, c'est vraiment
+
+886
+00:47:00,099 --> 00:47:02,139
+un rappel sur la procédure quand on rentre
+
+887
+00:47:02,139 --> 00:47:03,859
+un mandat sous tutelle.
+
+888
+00:47:04,179 --> 00:47:06,239
+Comment faut-il s'y prendre ?
+
+889
+00:47:06,239 --> 00:47:15,399
+Alors, ce n'est pas compliqué, mais effectivement il y a une procédure et on pourrait faire un petit topo écrit d'ailleurs, ce ne serait peut-être pas une mauvaise idée.
+
+890
+00:47:16,179 --> 00:47:24,839
+Alors, dans le cadre de ce qu'on appelle, excusez-moi parce que j'ai juste coupé mon micro, le temps de m'éclaircir.
+
+891
+00:47:27,679 --> 00:47:30,079
+Voilà, parce que là c'est désagréable pour vous.
+
+892
+00:47:30,079 --> 00:47:34,279
+on est dans le cadre de ce que l'on appelle
+
+893
+00:47:34,279 --> 00:47:37,420
+la protection des majeurs
+
+894
+00:47:37,420 --> 00:47:40,819
+alors on peut avoir également des tutelles de mineurs
+
+895
+00:47:40,819 --> 00:47:41,819
+c'est une évidence
+
+896
+00:47:41,819 --> 00:47:44,779
+mais on va voir que c'est un tout petit peu
+
+897
+00:47:44,779 --> 00:47:47,739
+vous m'entendez toujours ou pas ?
+
+898
+00:47:47,739 --> 00:47:50,019
+vous ne m'avez pas perdu hein ?
+
+899
+00:47:50,019 --> 00:47:50,619
+vous m'avez toujours
+
+900
+00:47:50,619 --> 00:47:51,940
+parce que j'ai l'impression que vous ne m'entendez plus là
+
+901
+00:47:51,940 --> 00:47:52,219
+si
+
+902
+00:47:52,219 --> 00:47:54,440
+vous pouvez me dire si vous m'entendez
+
+903
+00:47:54,440 --> 00:47:55,380
+ouais c'est ok parfait
+
+904
+00:47:55,380 --> 00:47:57,440
+on peut avoir des mineurs sous tutelle
+
+905
+00:47:57,440 --> 00:47:58,659
+il y a une toute petite différence
+
+906
+00:47:58,659 --> 00:47:59,819
+quand on a des mineurs sous tutelle
+
+907
+00:47:59,820 --> 00:48:19,440
+On va en parler après. Donc, c'est les régimes de protection des personnes incapables. Incapables au sens juridique du terme. En droit, nous bénéficions tous, nous tous qui sommes ici à cette visioconférence, de ce qu'on appelle la capacité juridique.
+
+908
+00:48:19,440 --> 00:48:47,860
+Ça veut dire que nous sommes capables de prendre des décisions qui ont des conséquences juridiques. Ça veut dire qu'on est capables de signer des contrats, on est capables d'acheter des choses, on est capables de contracter des crédits, on est capables, on dit en droit, là encore pour faire le malin, d'ester en justice, c'est-à-dire qu'on a la capacité d'agir en justice contre quelqu'un.
+
+909
+00:48:47,860 --> 00:48:54,720
+On a la capacité de recevoir des successions, de posséder un patrimoine, de plein de choses
+
+910
+00:48:54,720 --> 00:48:56,680
+On a la capacité juridique
+
+911
+00:48:56,680 --> 00:49:00,620
+On peut agir avec des conséquences juridiques
+
+912
+00:49:00,620 --> 00:49:05,000
+Il y a un certain nombre de personnes qui n'ont pas cette capacité
+
+913
+00:49:05,000 --> 00:49:12,160
+Elles ne peuvent pas agir, produire des actions qui ont des conséquences juridiques
+
+914
+00:49:12,160 --> 00:49:14,039
+On appelle ça des incapables
+
+915
+00:49:14,039 --> 00:49:16,640
+Typiquement, les enfants sont des incapables
+
+916
+00:49:16,640 --> 00:49:17,840
+Ça veut dire quoi ?
+
+917
+00:49:17,860 --> 00:49:39,760
+Ça veut dire qu'un enfant, il ne s'agit pas de sa capacité physique, un enfant n'est pas capable, ne peut pas signer un contrat. Vous me direz, il ne peut pas voter, il ne peut pas faire plein de choses, il ne peut pas devenir agent commercial, il ne peut pas créer une entreprise, il ne peut pas intenter une action en justice tout seul comme ça.
+
+918
+00:49:39,760 --> 00:49:42,760
+il ne peut pas donc ester en justice, un enfant est un incapable.
+
+919
+00:49:43,720 --> 00:49:51,500
+Qui est capable pour l'enfant ? Généralement, ce sont ses parents, ce sont ses représentants légaux.
+
+920
+00:49:52,360 --> 00:49:58,340
+Et il y a également des personnes majeures qui ont une incapacité partielle ou totale.
+
+921
+00:49:58,860 --> 00:50:06,880
+L'incapacité d'une personne majeure, on connaît tous ça, typiquement, c'est une personne âgée et ou handicapée
+
+922
+00:50:06,880 --> 00:50:11,720
+qui, donc, ne peut pas agir en son nom et pour son propre compte,
+
+923
+00:50:12,400 --> 00:50:17,720
+mener des actions qui ont des conséquences judiciaires, patrimoniales, fiscales, etc.
+
+924
+00:50:21,480 --> 00:50:23,039
+On parle généralement de tutelle.
+
+925
+00:50:23,660 --> 00:50:28,840
+On dit qu'une personne est sous tutelle, mais en fait, il y a plusieurs modes de protection.
+
+926
+00:50:29,119 --> 00:50:31,840
+Il y a, et on va aller très vite là-dessus,
+
+927
+00:50:31,840 --> 00:50:50,559
+Alors, hop, hop, la tutelle, la curatelle, la curatelle renforcée, il y a l'habilitation aminale.
+
+928
+00:50:50,559 --> 00:51:06,960
+Alors ça, ça vous dit tous quelque chose parce qu'on a déjà fait une visio complète là-dessus. On ne va pas détailler tout ça. On va juste dire, on y reviendra si vous le souhaitez, on peut refaire une visio là-dessus.
+
+929
+00:51:06,960 --> 00:51:22,619
+On va juste dire comment on s'y prend lorsque nous, agents immobiliers, nous vendons un produit à une personne qui est sous l'un de ces régimes de protection.
+
+930
+00:51:24,039 --> 00:51:32,679
+Il faut juste garder en tête que ça c'est le régime de protection maximale, que les autres sont des versions très allégées.
+
+931
+00:51:32,679 --> 00:51:37,599
+tutelle, curatelle, curatelle renforcée
+
+932
+00:51:37,599 --> 00:51:38,899
+ou habilitation familiale
+
+933
+00:51:38,899 --> 00:51:41,679
+ce sont des régimes de protection
+
+934
+00:51:41,679 --> 00:51:44,419
+de personnes
+
+935
+00:51:44,419 --> 00:51:47,940
+qui impliquent l'intervention d'un tiers
+
+936
+00:51:47,940 --> 00:51:50,559
+qu'on appelle un mandataire
+
+937
+00:51:50,559 --> 00:51:53,279
+on appelle ça souvent un mandataire judiciaire
+
+938
+00:51:53,279 --> 00:51:56,159
+parce qu'il est désigné dans le cadre d'une action judiciaire
+
+939
+00:51:56,159 --> 00:51:58,960
+qu'on appelle un tuteur, qu'on appelle un curateur
+
+940
+00:51:58,960 --> 00:52:00,839
+qu'on appelle de plein de manières différentes
+
+941
+00:52:00,840 --> 00:52:29,960
+Il y a un tiers qui peut être membre de la famille ou pas du tout et qui est là pour assister la personne dans un certain nombre d'actes de la vie courante parce que son état physique et ou intellectuel ne lui permet pas de prendre toutes ses décisions toute seule.
+
+942
+00:52:29,960 --> 00:52:53,260
+La différence entre ces différents régimes, c'est que selon qu'on soit dans la tutelle, la curatelle, etc., on peut prendre telle décision mais pas telle autre. On peut aller prendre un forfait de téléphone chez Bouygues Télécom ou pas. On peut vendre sa maison ou pas parce qu'on est plus ou moins protégé.
+
+943
+00:52:53,260 --> 00:52:57,420
+Vous, vous devez garder en tête la chose suivante
+
+944
+00:52:57,420 --> 00:53:03,700
+Quel que soit le régime de protection d'une personne dans lequel vous êtes
+
+945
+00:53:03,700 --> 00:53:04,860
+L'un de ces quatre là
+
+946
+00:53:04,860 --> 00:53:09,780
+Vous devez, pour vendre un bien immobilier
+
+947
+00:53:09,780 --> 00:53:16,740
+Obtenir l'autorisation de deux personnes au moins
+
+948
+00:53:16,740 --> 00:53:19,620
+La personne protégée
+
+949
+00:53:19,619 --> 00:53:34,739
+Et la personne qui protège la personne protégée, plus les éventuels autres propriétaires. Il peut y avoir d'autres propriétaires qui agissent pour leur propre compte. Un frère, une soeur, un fils, une tata, un machin, etc.
+
+950
+00:53:34,739 --> 00:53:59,839
+Pour eux, la personne protégée, elle ne peut pas agir toute seule. Il faut obtenir la signature de son protecteur, de son mandataire judiciaire. Mais, et c'est là que souvent vous avez du mal à l'intégrer, le mandataire judiciaire ne peut pas non plus signer tout seul. Il doit signer avec la signature de la personne protégée.
+
+951
+00:53:59,840 --> 00:54:05,120
+Donc, Madame Durand, vieille dame de 90 ans qui est sous tutelle
+
+952
+00:54:05,120 --> 00:54:07,079
+Elle ne peut pas vendre sa maison
+
+953
+00:54:07,079 --> 00:54:09,280
+Il nous faut la signature du tuteur
+
+954
+00:54:09,280 --> 00:54:12,440
+Mais le tuteur ne peut pas vendre la maison non plus tout seul
+
+955
+00:54:12,440 --> 00:54:14,559
+Il faut la signature de Madame Durand
+
+956
+00:54:14,559 --> 00:54:23,539
+Un tuteur n'a pas le droit de vendre la maison tout seul
+
+957
+00:54:23,539 --> 00:54:27,220
+Souvent, on croit
+
+958
+00:54:27,220 --> 00:54:29,700
+Et c'est d'ailleurs ce que nous disent les tuteurs
+
+959
+00:54:29,699 --> 00:54:58,699
+Parce que vous savez ce que c'est, quand on a du pouvoir, c'est grisant, on aime ça, et on aime sentir qu'on a le volant, toutes les commandes entre les mains. Le tuteur nous dit mais je suis tuteur, c'est moi qui signe pour Madame Durand. Madame Durand est sous tutelle, elle ne signe pas, je suis Dieu le Père lui-même. Non monsieur, vous n'êtes que tuteur, c'est tout. Vous n'avez pas le droit de vendre la maison de Madame Durand. Il nous faut aussi la signature de Madame Durand.
+
+960
+00:54:59,699 --> 00:55:21,579
+Donc, je vous l'écris ici, il vous faut la signature sur le mandat de, on va mettre du mandataire judiciaire, on va appeler grossièrement le tuteur, mais en fait ça pourrait être un curateur, etc.
+
+961
+00:55:21,579 --> 00:55:42,639
+Et la signature de la personne protégée, c'est-à-dire la personne sous tutelle. Et le « et », je le mets en rouge, je le mets en gras, je le mets en souligné, je le mets en police 20. Non, je m'en retiens correct.
+
+962
+00:55:42,639 --> 00:56:10,460
+Je le mets en police 20. C'est très important. Le tuteur n'a absolument pas le droit de vendre la maison de Madame Durand sous prétexte qu'il est tuteur de Madame Durand. Non. Même si lui va vous raconter que oui, oui, oui, c'est moi qui décide, je suis Dieu le Père, je suis le Seigneur sur ces terres et tout le monde m'obéit.
+
+963
+00:56:10,460 --> 00:56:20,639
+Non monsieur, vous n'êtes que tuteur, c'est tout. Vous êtes chargé d'assister Madame Durand dans un certain nombre d'actes. Madame Durand, on ne la met pas à la poubelle.
+
+964
+00:56:20,639 --> 00:56:25,799
+En fait, quelle est la seule et unique personne
+
+965
+00:56:25,799 --> 00:56:27,359
+Il y en a une
+
+966
+00:56:27,359 --> 00:56:30,059
+Qui a le droit de décider pour Mme Durand
+
+967
+00:56:30,059 --> 00:56:31,599
+Sans trop lui demander son avis
+
+968
+00:56:31,599 --> 00:56:33,460
+C'est qui ? Vous le savez
+
+969
+00:56:33,460 --> 00:56:36,000
+Lancez-vous sur le chat, dites-le
+
+970
+00:56:36,000 --> 00:56:38,940
+Quelle est la seule et unique personne
+
+971
+00:56:38,940 --> 00:56:40,719
+Qui vraiment a le droit de décider
+
+972
+00:56:40,719 --> 00:56:42,219
+C'est pas le tuteur
+
+973
+00:56:42,219 --> 00:56:43,859
+C'est pas la famille du tuteur
+
+974
+00:56:43,859 --> 00:56:46,639
+C'est pas la dame elle toute seule
+
+975
+00:56:46,639 --> 00:56:48,000
+C'est qui ?
+
+976
+00:56:48,000 --> 00:56:49,460
+Julien a trouvé en premier
+
+977
+00:56:49,460 --> 00:57:17,980
+c'est le juge, le juge des tutelles, enfin ce qu'on appelle le juge des tutelles, depuis la réforme judiciaire d'il y a quelques années, on n'appelle plus ça le juge des tutelles, on dit que c'est le juge machin agissant en qualité de juge des tutelles, c'est le juge des tutelles, il n'y a que lui qui a la possibilité de décider, d'ordonner la vente, par le biais d'une ordonnance de vente,
+
+978
+00:57:17,980 --> 00:57:20,800
+Il va ordonner la vente par le biais d'une ordonnance de vente.
+
+979
+00:57:21,940 --> 00:57:23,960
+C'est lui le seul et unique qui peut décider.
+
+980
+00:57:26,820 --> 00:57:31,159
+D'ailleurs, une fois qu'on a signé le compromis de vente,
+
+981
+00:57:31,559 --> 00:57:34,460
+le notaire, lui, et c'est une obligation qu'il a,
+
+982
+00:57:35,159 --> 00:57:38,280
+c'est bien un compromis, on signe le mandat, on signe le compromis,
+
+983
+00:57:38,699 --> 00:57:42,420
+le notaire, lui, il va se précipiter pour envoyer un courrier au juge d'étudiant
+
+984
+00:57:42,420 --> 00:57:45,940
+pour dire « hop, hop, hop, vous autorisez bien la vente de la maison de Mme Durand,
+
+985
+00:57:45,940 --> 00:57:47,940
+vous me le confirmez ».
+
+986
+00:57:47,980 --> 00:57:58,500
+Et tant que le juge n'a pas répondu « oui, oui, j'autorise la vente de la maison de Mme Durand parce que je décide que c'est dans son intérêt », le notaire ne fera jamais la vente.
+
+987
+00:57:59,000 --> 00:58:05,360
+Et d'ailleurs, si le notaire renifle un petit peu que la situation est bancale, il signera même pas le compromis de vente.
+
+988
+00:58:07,980 --> 00:58:10,760
+Donc, il n'y a que le juge qui puisse décider.
+
+989
+00:58:12,539 --> 00:58:17,679
+Le tuteur, contrairement à ce qu'il raconte tous les jours, n'a aucun droit.
+
+990
+00:58:17,980 --> 00:58:29,980
+Il est là pour assister Madame Durand. Et c'est pareil pour la curatelle, la curatelle renforcée, la visitation familiale. À partir du moment où on est là-dedans, dans un de ces quatre cas, il nous faut la signature des deux.
+
+991
+00:58:29,980 --> 00:58:40,500
+Alors, les deux documents que vous devez absolument obtenir sont les suivants
+
+992
+00:58:40,500 --> 00:58:45,860
+Je les ai préparés juste avant la visio, après avoir eu Julien au téléphone tout à l'heure
+
+993
+00:58:45,860 --> 00:58:49,199
+Les deux documents que vous devez impérativement obtenir sont
+
+994
+00:58:49,199 --> 00:58:50,900
+Je vais retourner dans mes téléchargements
+
+995
+00:58:50,900 --> 00:58:53,840
+Ça c'est le QR code de Guillaume
+
+996
+00:58:53,840 --> 00:59:02,539
+Donc, avant tout, vous devez obtenir ce document.
+
+997
+00:59:06,140 --> 00:59:13,280
+On appelle ça un jugement de tutelle ou une ordonnance de mise sous tutelle ou une ordonnance de désignation de tutelle.
+
+998
+00:59:13,559 --> 00:59:14,600
+Ça peut avoir plein de mots.
+
+999
+00:59:15,420 --> 00:59:23,320
+En fait, c'est un document émis par, vous voyez, le juge des tutelles de Trévaux.
+
+1000
+00:59:23,840 --> 00:59:40,380
+Ça, c'était il y a quelques années. Ça, c'était à quelle date ? C'était en 2011. Aujourd'hui, ce serait rédigé un petit peu différemment parce qu'il y a eu une réforme, mais c'est pareil.
+
+1001
+00:59:40,380 --> 01:00:05,119
+Donc, le juge des tutelles de Trévoux, on voit que c'est dans l'un, précisé par Daniel Grolemount, juge des tutelles. Daniel Grolemount, juge des tutelles, premièrement, constate que Mme Odette-Joséphine Mazille-Épouse-Durand a besoin d'être mise sous tutelle.
+
+1002
+01:00:05,119 --> 01:00:22,380
+On voit que Mme Christine Voilain, qui est probablement de la famille de cette dame, on peut l'imaginer, mais pas forcément, a dit au juge « attention, Mme Mazie, elle ne va pas bien, elle est vieille, elle n'est plus en mesure de s'occuper d'elle-même, il faudrait étudier la mise sous tutelle ».
+
+1003
+01:00:22,380 --> 01:00:33,420
+Le juge a mis en place une procédure, certificat médical, assisté d'un deuxième médecin, etc. Et à la fin, il dit « bon, effectivement, oui, il faut mettre Mme Mazie sous tutelle ».
+
+1004
+01:00:33,420 --> 01:00:41,000
+Donc, première décision de cette ordonnance, de ce jugement, mise sous tutelle de Mme Mazille.
+
+1005
+01:00:41,099 --> 01:00:45,340
+Parce qu'on a un certificat médical délivré par Patricia Disti, qui est médecin.
+
+1006
+01:00:47,320 --> 01:00:52,300
+Il a fait, le juge, un certain nombre de recherches.
+
+1007
+01:00:53,039 --> 01:00:57,260
+Il dit, bon, il faut mettre Mme Mazille sous tutelle, premièrement.
+
+1008
+01:00:57,720 --> 01:01:02,340
+Donc, ce document nous permet d'établir que, alors ce document, il doit être complet, bien sûr.
+
+1009
+01:01:02,340 --> 01:01:16,840
+Il doit être à la fin signé, tamponné du juge, daté. La date, elle est là-haut. Pas forcément là-bas, elle est là-haut. Donc, complet, daté, signé. Comme une attestation de vente, comme un compromis de vente.
+
+1010
+01:01:17,900 --> 01:01:24,460
+Première chose, donc, on met Mme Mazis sous tutelle parce qu'elle n'est plus en mesure de protéger ses propres intérêts.
+
+1011
+01:01:24,460 --> 01:01:27,900
+deuxième décision
+
+1012
+01:01:27,900 --> 01:01:30,659
+de cette ordonnance
+
+1013
+01:01:30,659 --> 01:01:32,559
+parfois c'est fait en deux ordonnances différentes
+
+1014
+01:01:32,559 --> 01:01:33,260
+mais c'est très rare
+
+1015
+01:01:33,260 --> 01:01:35,699
+on désigne un tuteur
+
+1016
+01:01:35,699 --> 01:01:37,699
+on dit
+
+1017
+01:01:37,699 --> 01:01:40,420
+maintenant qu'on désigne madame
+
+1018
+01:01:40,420 --> 01:01:41,920
+qu'on met madame Mazis sous tutelle
+
+1019
+01:01:41,920 --> 01:01:44,420
+on va dire qui sera son tuteur
+
+1020
+01:01:44,420 --> 01:01:45,599
+et là
+
+1021
+01:01:45,599 --> 01:01:47,000
+il y a du blabla
+
+1022
+01:01:47,000 --> 01:01:48,380
+il est établi que
+
+1023
+01:01:48,380 --> 01:01:51,220
+madame machin n'est plus en mesure
+
+1024
+01:01:51,220 --> 01:01:52,639
+elle est trop âgée
+
+1025
+01:01:52,639 --> 01:01:54,099
+elle ne sait pas quoi, etc.
+
+1026
+01:01:55,480 --> 01:01:56,159
+Et donc,
+
+1027
+01:01:56,779 --> 01:01:58,599
+on place Mme Odette
+
+1028
+01:01:58,599 --> 01:02:00,500
+sous tutelle, et on va
+
+1029
+01:02:00,500 --> 01:02:01,420
+désigner
+
+1030
+01:02:01,420 --> 01:02:02,900
+tuteur
+
+1031
+01:02:02,900 --> 01:02:06,719
+Christine Voilain,
+
+1032
+01:02:07,119 --> 01:02:09,000
+sa fille, je vous avais dit que c'était probablement
+
+1033
+01:02:09,000 --> 01:02:10,779
+un membre de sa famille, c'est généralement
+
+1034
+01:02:10,779 --> 01:02:12,719
+le cas, c'est pas obligatoire, mais c'est généralement
+
+1035
+01:02:12,719 --> 01:02:14,859
+le cas. Donc on désigne
+
+1036
+01:02:14,859 --> 01:02:16,879
+Mme Christine Voilain, sa fille,
+
+1037
+01:02:17,239 --> 01:02:18,619
+tuteur, et là,
+
+1038
+01:02:18,799 --> 01:02:20,819
+on désigne également Evelyne Montagnon,
+
+1039
+01:02:20,819 --> 01:02:22,379
+une autre de ses filles,
+
+1040
+01:02:22,639 --> 01:02:25,859
+également tuteur, donc co-tuteur.
+
+1041
+01:02:26,539 --> 01:02:28,379
+Pour une durée de 5 années, c'est obligatoire.
+
+1042
+01:02:28,500 --> 01:02:30,599
+Une mesure de mise sous protection d'un majeur
+
+1043
+01:02:30,599 --> 01:02:33,119
+est obligatoirement limitée dans le temps,
+
+1044
+01:02:33,359 --> 01:02:35,159
+comme on l'avait vu dans la précédente vision.
+
+1045
+01:02:35,980 --> 01:02:40,319
+Donc, ce document, il nous permet de vérifier deux choses.
+
+1046
+01:02:40,779 --> 01:02:42,759
+Premièrement, Mme Mazille, elle est bien sous tutelle.
+
+1047
+01:02:42,980 --> 01:02:44,319
+C'est une tutelle, ce n'est pas une curatelle,
+
+1048
+01:02:44,319 --> 01:02:45,359
+ce n'est pas une curatelle renforcée.
+
+1049
+01:02:45,739 --> 01:02:47,599
+Elle est sous tutelle, premièrement.
+
+1050
+01:02:48,359 --> 01:02:51,139
+Deuxièmement, qui est son tuteur ?
+
+1051
+01:02:51,139 --> 01:02:52,379
+C'est Mme Christine Voilain.
+
+1052
+01:02:52,639 --> 01:02:55,460
+ou Mme Evelyne Montagnon
+
+1053
+01:02:55,460 --> 01:02:57,079
+puisqu'elles sont toutes les deux tuteurs
+
+1054
+01:02:57,079 --> 01:02:58,839
+ça veut dire qu'elles ont toutes les deux
+
+1055
+01:02:58,839 --> 01:03:01,079
+les mêmes pouvoirs et ils doivent l'exercer
+
+1056
+01:03:01,079 --> 01:03:02,059
+en commun
+
+1057
+01:03:02,059 --> 01:03:07,579
+ça veut dire que lorsque Mme Voilain
+
+1058
+01:03:07,579 --> 01:03:09,099
+va éventuellement à la banque
+
+1059
+01:03:09,099 --> 01:03:10,379
+pour faire je sais pas quoi pour sa mère
+
+1060
+01:03:10,379 --> 01:03:12,319
+la banque ne peut pas lui dire
+
+1061
+01:03:12,319 --> 01:03:14,619
+il nous faut aussi la signature de Mme Montagnon
+
+1062
+01:03:14,619 --> 01:03:16,420
+c'est l'une ou l'autre parce que
+
+1063
+01:03:16,420 --> 01:03:19,179
+elle est présumée avoir le mandat de l'autre
+
+1064
+01:03:19,179 --> 01:03:20,799
+bon, une simple présomption
+
+1065
+01:03:20,800 --> 01:03:34,519
+Donc, ce document, ce premier document, il est indispensable parce qu'il nous permet de savoir qu'effectivement, elle est sous tutelle et son tuteur, c'est telle personne.
+
+1066
+01:03:34,519 --> 01:03:37,039
+donc ça nous permet
+
+1067
+01:03:37,039 --> 01:03:38,559
+nous de savoir que notre mandat
+
+1068
+01:03:38,559 --> 01:03:41,179
+il doit être signé par Madame Mazille
+
+1069
+01:03:41,179 --> 01:03:43,099
+et par
+
+1070
+01:03:43,099 --> 01:03:44,559
+l'une
+
+1071
+01:03:44,559 --> 01:03:45,980
+des deux autres
+
+1072
+01:03:45,980 --> 01:03:48,860
+tuteurs, généralement d'ailleurs
+
+1073
+01:03:48,860 --> 01:03:51,139
+on le fait signé aux deux, pour vraiment être sûr
+
+1074
+01:03:51,139 --> 01:03:54,739
+c'est beaucoup mieux, c'est pas du luxe
+
+1075
+01:03:54,739 --> 01:03:56,699
+mais ce serait pas absolument obligatoire
+
+1076
+01:03:56,699 --> 01:03:58,860
+il nous faudrait au moins la signature de l'une des deux
+
+1077
+01:03:58,860 --> 01:04:00,940
+Christine ou Evelyne
+
+1078
+01:04:00,940 --> 01:04:04,019
+donc signature
+
+1079
+01:04:04,019 --> 01:04:05,320
+de la vieille dame
+
+1080
+01:04:05,320 --> 01:04:07,420
+et de son tuteur
+
+1081
+01:04:07,420 --> 01:04:13,480
+le problème
+
+1082
+01:04:13,480 --> 01:04:15,059
+c'est que cette vieille dame
+
+1083
+01:04:15,059 --> 01:04:17,480
+elle est parfois dans un état
+
+1084
+01:04:17,480 --> 01:04:20,059
+qui ne lui permet pas du tout
+
+1085
+01:04:20,059 --> 01:04:22,519
+de prendre une décision pour elle-même
+
+1086
+01:04:22,519 --> 01:04:24,300
+parce qu'elle a complètement perdu la tête
+
+1087
+01:04:24,300 --> 01:04:26,420
+parce qu'elle est dans un état physique
+
+1088
+01:04:26,420 --> 01:04:27,820
+où elle ne peut pas signer
+
+1089
+01:04:27,820 --> 01:04:29,400
+elle ne peut même pas tenir un stylo
+
+1090
+01:04:29,400 --> 01:04:31,539
+moi je me souviens on a eu le cas avec Laurent
+
+1091
+01:04:31,539 --> 01:04:33,239
+Laurent dit
+
+1092
+01:04:33,239 --> 01:04:47,239
+Il y a trois ans, je ne sais plus, une jeune femme, pas une mémé, une jeune femme qui était très très lourdement handicapée et qui n'était pas en mesure de tenir un stylo elle-même, alors qu'elle n'avait pas du tout perdu la tête, absolument pas.
+
+1093
+01:04:47,239 --> 01:04:55,919
+Mais on peut avoir donc une incapacité physique ou cognitive.
+
+1094
+01:04:57,559 --> 01:04:59,259
+Et ou, d'ailleurs, cognitive.
+
+1095
+01:05:00,699 --> 01:05:08,019
+Ça veut dire que vous pourriez vous trouver face à des cas où la signature de Mme Mazie, elle est impossible à recueillir.
+
+1096
+01:05:08,419 --> 01:05:10,239
+Parce que Mme Mazie ne peut pas signer.
+
+1097
+01:05:10,559 --> 01:05:11,819
+Elle ne peut pas, ce n'est pas possible.
+
+1098
+01:05:11,820 --> 01:05:13,820
+elle a complètement perdu la tête
+
+1099
+01:05:13,820 --> 01:05:16,640
+ou elle n'est physiquement pas en mesure
+
+1100
+01:05:16,640 --> 01:05:17,600
+de tenir un stylo
+
+1101
+01:05:17,600 --> 01:05:19,260
+et de le faire
+
+1102
+01:05:19,260 --> 01:05:20,160
+ou alors elle est
+
+1103
+01:05:20,160 --> 01:05:23,500
+dans le coma
+
+1104
+01:05:23,500 --> 01:05:24,700
+je ne sais pas
+
+1105
+01:05:24,700 --> 01:05:27,800
+vous allez dire
+
+1106
+01:05:27,800 --> 01:05:28,760
+qu'est-ce qu'on fait
+
+1107
+01:05:28,760 --> 01:05:30,580
+on ne peut pas obtenir la signature de madame Mazille
+
+1108
+01:05:30,580 --> 01:05:32,940
+c'est là qu'intervient le deuxième document
+
+1109
+01:05:32,940 --> 01:05:35,660
+l'ordonnance de vente
+
+1110
+01:05:35,660 --> 01:05:37,480
+donc voici l'ordonnance de vente
+
+1111
+01:05:37,480 --> 01:05:39,500
+ici alors celle-là aussi
+
+1112
+01:05:39,500 --> 01:05:42,059
+elle est un petit peu ancienne
+
+1113
+01:05:42,059 --> 01:05:43,300
+elle date de quand ?
+
+1114
+01:05:43,300 --> 01:05:44,079
+ah non, 2023
+
+1115
+01:05:44,079 --> 01:05:47,760
+de Sabrina, alors ça vous le savez
+
+1116
+01:05:47,760 --> 01:05:49,920
+on n'accepterait plus ce document
+
+1117
+01:05:49,920 --> 01:05:52,239
+parce que c'est très difficile à injecter dans l'identique
+
+1118
+01:05:52,239 --> 01:05:53,559
+une photo comme ça
+
+1119
+01:05:53,559 --> 01:05:54,719
+transformée en PDF
+
+1120
+01:05:54,719 --> 01:05:57,699
+aujourd'hui l'animation vous dirait non, c'est trop difficile
+
+1121
+01:05:57,699 --> 01:05:59,760
+pour nous, c'est trop difficile pour nous
+
+1122
+01:05:59,760 --> 01:06:01,059
+de gérer ces documents
+
+1123
+01:06:01,059 --> 01:06:03,440
+mais bon, là c'est passé, en théorie
+
+1124
+01:06:03,440 --> 01:06:04,679
+il nous faudrait vraiment un document
+
+1125
+01:06:04,679 --> 01:06:06,739
+celui-là aussi, vous voyez
+
+1126
+01:06:06,739 --> 01:06:08,780
+il est très difficilement lisible
+
+1127
+01:06:08,780 --> 01:06:13,900
+il est très mauvaise qualité celui-là ça c'est un truc qui a dû être faxé 50 fois renvoyé c'est
+
+1128
+01:06:13,900 --> 01:06:20,060
+pas quoi je suis là il est tout propre à celui des coups comme toujours bon revenons sur le
+
+1129
+01:06:20,060 --> 01:06:26,660
+premier de sabrina tribunal judiciaire d'orléans à d'envoyer sa salope de 2003 fut mon tribunal
+
+1130
+01:06:26,660 --> 01:06:34,940
+judiciaire d'orléans on a une nouvelle nouvelle manière de rédiger là le juge dit quoi ordonnance
+
+1131
+01:06:34,940 --> 01:06:36,960
+de vente d'un immeuble. Le juge
+
+1132
+01:06:36,960 --> 01:06:39,099
+ne nous dit pas « je mets Madame Machin sous tutelle »,
+
+1133
+01:06:39,099 --> 01:06:40,840
+il nous dit « Madame Machin
+
+1134
+01:06:40,840 --> 01:06:43,159
+est sous tutelle ».
+
+1135
+01:06:43,159 --> 01:06:45,059
+Ici, c'est
+
+1136
+01:06:45,059 --> 01:06:47,119
+« Sandrine Levinin représente l'égal du mineur ».
+
+1137
+01:06:47,119 --> 01:06:48,159
+Là, c'est un enfant mineur.
+
+1138
+01:06:48,559 --> 01:06:50,480
+La Rousse Boitard, qui est née en 2008,
+
+1139
+01:06:50,599 --> 01:06:52,700
+effectivement, c'est un gamin, à Orléans.
+
+1140
+01:06:52,860 --> 01:06:54,700
+Donc, forcément, c'est un enfant mineur.
+
+1141
+01:06:54,860 --> 01:06:57,360
+Mais comment un enfant mineur peut posséder un bien ?
+
+1142
+01:06:57,360 --> 01:06:58,880
+Imaginons que son père soit mort et qu'il
+
+1143
+01:06:58,880 --> 01:07:01,139
+ait hérité de la maison de son père.
+
+1144
+01:07:01,679 --> 01:07:02,639
+C'est généralement le cas.
+
+1145
+01:07:02,639 --> 01:07:15,940
+C'est pas forcément le cas d'une succession, mais 99% des cas, quand un mineur est propriétaire d'un bien immobilier, c'est qu'il y a eu un décès d'un ou de deux parents.
+
+1146
+01:07:16,940 --> 01:07:28,940
+Donc, le petit Jules Larousse Boitard, né en 2008 à Orléans, bien sûr, il est mineur, il est sous tutelle, et le juge ordonne la vente.
+
+1147
+01:07:28,940 --> 01:07:31,200
+il nous dit quoi, il dit t'as envisagé la vente à la merde d'un immeuble
+
+1148
+01:07:31,200 --> 01:07:32,240
+si tu as fait au loge
+
+1149
+01:07:32,240 --> 01:07:34,720
+je crois qu'on dit pas fait mais faille au loge
+
+1150
+01:07:34,720 --> 01:07:37,380
+Sabrina si vous êtes là, si vous pouvez me le confirmer
+
+1151
+01:07:37,380 --> 01:07:41,280
+ah bah Sabrina vient de nous quitter
+
+1152
+01:07:41,280 --> 01:07:42,980
+bonsoir je dois vous laisser
+
+1153
+01:07:42,980 --> 01:07:45,059
+c'est dommage, elle vient de nous quitter, elle pourra pas nous dire
+
+1154
+01:07:45,059 --> 01:07:47,260
+si c'est fait ou faille au loge, je ne sais pas
+
+1155
+01:07:47,260 --> 01:07:50,639
+le juge nous dit
+
+1156
+01:07:50,639 --> 01:07:52,980
+j'autorise, et en fait il ordonne
+
+1157
+01:07:52,980 --> 01:07:54,099
+parce que c'est une ordonnance
+
+1158
+01:07:54,099 --> 01:07:57,539
+madame Sandrine Devina, représentante légale
+
+1159
+01:07:57,539 --> 01:07:58,820
+du mineur Jules Larousse
+
+1160
+01:07:58,820 --> 01:08:01,519
+à vendre la maison
+
+1161
+01:08:01,519 --> 01:08:03,019
+située à fait ou faille au loge
+
+1162
+01:08:03,019 --> 01:08:04,720
+au prix de 150 000 euros
+
+1163
+01:08:04,720 --> 01:08:06,559
+net vendeur minimum machin
+
+1164
+01:08:06,559 --> 01:08:08,960
+ça c'est une ordonnance de vente
+
+1165
+01:08:08,960 --> 01:08:11,780
+c'est ça qu'on doit obtenir
+
+1166
+01:08:11,780 --> 01:08:13,940
+lorsqu'on n'a pas la signature
+
+1167
+01:08:13,940 --> 01:08:15,860
+de madame Mazille
+
+1168
+01:08:15,860 --> 01:08:17,100
+et de son tuteur
+
+1169
+01:08:17,100 --> 01:08:19,560
+ils nous font
+
+1170
+01:08:19,560 --> 01:08:21,460
+dans le cas où
+
+1171
+01:08:21,460 --> 01:08:23,760
+la personne protégée n'est pas en mesure
+
+1172
+01:08:23,760 --> 01:08:24,400
+de signer
+
+1173
+01:08:24,400 --> 01:08:26,840
+et c'est le cas d'ailleurs du mineur
+
+1174
+01:08:26,840 --> 01:08:27,960
+parce qu'un enfant
+
+1175
+01:08:27,960 --> 01:08:30,039
+en étant totalement incapable.
+
+1176
+01:08:30,239 --> 01:08:32,260
+Lui, l'enfant, on ne recueille pas sa signature.
+
+1177
+01:08:32,819 --> 01:08:35,159
+C'est un enfant, sa signature ne vaut rien.
+
+1178
+01:08:35,699 --> 01:08:37,119
+Alors que Mme Mazille,
+
+1179
+01:08:37,840 --> 01:08:39,060
+ce n'est pas parce qu'elle est sous tutelle
+
+1180
+01:08:39,060 --> 01:08:41,220
+qu'elle est bonne à mettre à la poubelle.
+
+1181
+01:08:42,159 --> 01:08:45,520
+Mme Mazille, elle est peut-être tout à fait en état de dire
+
+1182
+01:08:45,520 --> 01:08:47,460
+« Oui, je souhaite vendre ma maison »
+
+1183
+01:08:47,460 --> 01:08:49,699
+ou « Non, je ne souhaite pas la vendre ».
+
+1184
+01:08:49,699 --> 01:08:52,699
+Si Mme Mazille dit « Je ne veux pas signer le mandat,
+
+1185
+01:08:52,760 --> 01:08:54,699
+je ne souhaite pas vendre ma maison »,
+
+1186
+01:08:54,699 --> 01:08:56,880
+ce n'est pas parce que mon tuteur a décidé de la vendre,
+
+1187
+01:08:56,939 --> 01:08:57,640
+moi je ne veux pas,
+
+1188
+01:08:57,960 --> 01:09:10,579
+Nous, nous ne vendons pas la maison. On ne peut pas avoir un tuteur qui dit « Ouais, la vieille, elle se tait, c'est moi qui décide ». Non, non, non, non. Mme Mazie doit donner son consentement.
+
+1189
+01:09:10,579 --> 01:09:30,000
+Si Mme Mazille n'est pas en mesure de donner son consentement, et là on se retrouve coincé, il faut l'avis du juge des tutelles qui lui va dire « je redonne la vente de la maison de Mme Mazille ».
+
+1190
+01:09:30,000 --> 01:09:32,819
+Et une ordonnance de vente, c'est toujours comme ça que ça fonctionne.
+
+1191
+01:09:33,060 --> 01:09:37,180
+Je vais en prendre une autre, vous voyez, ça c'est dans le Pas-de-Calais.
+
+1192
+01:09:38,039 --> 01:09:43,079
+C'est pareil, ici, autorisons l'association tutélaire du Pas-de-Calais, machin, truc à béthune,
+
+1193
+01:09:43,079 --> 01:09:50,340
+en qualité de tuteur à vendre à l'améable le bien situé, machin, pour M. Bertrand Averland.
+
+1194
+01:09:53,000 --> 01:09:57,140
+Le juge, lui, il ordonne la vente.
+
+1195
+01:10:00,000 --> 01:10:23,779
+Si nous n'avons pas la signature de la personne protégée en plus de la signature de son tuteur, il nous faut l'ordre du juge. Sinon, on ne peut pas commercialiser. Ne tombez pas dans le piège du tuteur qui vous dit « si, si, si, je suis tout-puissant, c'est moi qui décide ».
+
+1196
+01:10:23,779 --> 01:10:26,039
+surtout pas
+
+1197
+01:10:26,039 --> 01:10:27,960
+le tuteur n'a pas le droit
+
+1198
+01:10:27,960 --> 01:10:30,039
+de vendre à la place de la personne protégée
+
+1199
+01:10:30,039 --> 01:10:31,800
+le tuteur est là pour
+
+1200
+01:10:31,800 --> 01:10:34,259
+assister la personne protégée
+
+1201
+01:10:34,259 --> 01:10:36,359
+dans la vente de sa maison
+
+1202
+01:10:36,359 --> 01:10:38,659
+et c'est un piège
+
+1203
+01:10:38,659 --> 01:10:39,880
+dans lequel vous risquez de tomber
+
+1204
+01:10:39,880 --> 01:10:42,239
+et là on va sortir du cadre des tutelles
+
+1205
+01:10:42,239 --> 01:10:44,199
+mais dans une situation
+
+1206
+01:10:44,199 --> 01:10:45,159
+un petit peu connexe
+
+1207
+01:10:45,159 --> 01:10:48,259
+lorsque vous vendez un bien qui est possédé
+
+1208
+01:10:48,259 --> 01:10:49,359
+par une société
+
+1209
+01:10:49,359 --> 01:10:51,199
+une ESCI, une SARL
+
+1210
+01:10:51,199 --> 01:10:53,359
+le tuteur
+
+1211
+01:10:53,779 --> 01:11:06,920
+Gérant, président, président-directeur général, on l'appelle différemment selon le type de société, tout simplement. Le droit, pour différentes raisons, a donné un nom différent au dirigeant de chaque type de société.
+
+1212
+01:11:07,600 --> 01:11:11,960
+Une SES est présidée par un président.
+
+1213
+01:11:12,920 --> 01:11:15,359
+Une SARL est gérée par un gérant.
+
+1214
+01:11:18,060 --> 01:11:22,159
+Le gérant n'a pas le droit de vendre les biens possédés par la société.
+
+1215
+01:11:22,859 --> 01:11:23,340
+Il n'a pas le droit.
+
+1216
+01:11:23,460 --> 01:11:25,340
+« Ah, mais je suis gérant, c'est ce que je veux ! »
+
+1217
+01:11:25,340 --> 01:11:26,500
+Vous n'êtes que gérant, monsieur.
+
+1218
+01:11:27,359 --> 01:11:29,220
+Ça vous donne le droit de gérer la société,
+
+1219
+01:11:29,220 --> 01:11:32,600
+d'engager des employés, de conclure des contrats,
+
+1220
+01:11:32,800 --> 01:11:36,340
+de téléphonie, d'acheter une photocopieuse.
+
+1221
+01:11:36,340 --> 01:11:51,800
+Pas de problème. Être gérant ne vous donne le droit que de gérer. Vendre des biens immobiliers, ça ne fait pas partie de la gestion juridiquement. Ce n'est pas un acte de gestion, la vente d'un bien immobilier, c'est ce qu'on appelle un acte de disposition.
+
+1222
+01:11:51,800 --> 01:12:11,320
+Donc le gérant n'a pas le droit de vendre les biens qui sont possédés par la société. C'est pareil, quand on a un bien possédé par une société, il nous faut la signature du gérant, mais il nous faut aussi la signature de tous les associés, de tous les porteurs de part, de la société.
+
+1223
+01:12:11,319 --> 01:12:38,399
+C'est pareil. C'est la même chose. Les tuteurs, les curateurs, les gérants, etc. sont investis d'une certaine mission. Cette mission, elle est limitée. Elle a un début, elle a une fin. On ne peut pas aller au-delà. Vendre le bien immobilier tout seul sur sa propre décision, ça ne fait pas partie de la mission qui leur est confiée par la loi.
+
+1224
+01:12:38,399 --> 01:12:55,399
+Et je vais vous donner un dernier exemple. C'est le maire d'une commune. Vous pourriez signer, c'est le cas notamment dans les petites communes rurales, vous pourriez signer un mandat avec le maire de la commune, ce mandat serait invalidé.
+
+1225
+01:12:55,399 --> 01:13:17,719
+Pour que le maire de la commune vende un bien appartenant à la commune, il lui faut l'autorisation du conseil municipal. Là encore, oh, c'est le maire, allons, il a tout pouvoir, il a droit de vie et de mort sur ces terres. Non, ni droit de vie et de mort, ni droit de cuissage, ni droit de disposition.
+
+1226
+01:13:17,720 --> 01:13:20,159
+droits de cuissage qui d'ailleurs
+
+1227
+01:13:20,159 --> 01:13:22,520
+ça n'a jamais existé cette connerie
+
+1228
+01:13:22,520 --> 01:13:23,520
+que vous voyez dans les films
+
+1229
+01:13:23,520 --> 01:13:26,440
+si on parle comme ça là parce que c'est rigolo
+
+1230
+01:13:26,440 --> 01:13:28,360
+ça n'a jamais existé
+
+1231
+01:13:28,360 --> 01:13:29,960
+cette connerie de droits de cuissage
+
+1232
+01:13:29,960 --> 01:13:32,780
+c'est une bêtise
+
+1233
+01:13:32,780 --> 01:13:34,520
+que nous a raconté les hussards noirs
+
+1234
+01:13:34,520 --> 01:13:35,740
+de la 3ème république
+
+1235
+01:13:35,740 --> 01:13:38,560
+pour ridiculiser l'ancien régime
+
+1236
+01:13:38,560 --> 01:13:40,740
+de même que la chanson de Dagobert
+
+1237
+01:13:40,740 --> 01:13:42,240
+qui met sa culotte à l'envers etc
+
+1238
+01:13:42,240 --> 01:13:44,640
+tout ça sont des calembredaines
+
+1239
+01:13:44,640 --> 01:13:47,420
+de bouffeurs de curés
+
+1240
+01:13:47,420 --> 01:13:56,119
+et de post-terroristes de 1792-1993, ça n'a jamais existé.
+
+1241
+01:13:56,260 --> 01:13:59,579
+Mais passons là-dessus, je ne vais pas vous casser les pieds avec ce genre de considération.
+
+1242
+01:14:00,159 --> 01:14:03,359
+Le maire n'a pas le droit de vendre le bien tout seul sur sa propre décision,
+
+1243
+01:14:03,800 --> 01:14:06,699
+comme un seigneur sur ses terres choisirait de le faire.
+
+1244
+01:14:09,000 --> 01:14:13,239
+Alors, si je fais un très rapide récapitulatif,
+
+1245
+01:14:13,239 --> 01:14:16,340
+lorsque vous êtes dans le cadre d'une
+
+1246
+01:14:16,340 --> 01:14:18,819
+tutelle ou d'une curatelle
+
+1247
+01:14:18,819 --> 01:14:20,279
+ou d'une curatelle renforcée
+
+1248
+01:14:20,279 --> 01:14:21,859
+ou d'une habilitation familiale
+
+1249
+01:14:21,859 --> 01:14:23,960
+vous ne posez pas la question
+
+1250
+01:14:23,960 --> 01:14:26,319
+vous faites signer le mandat par
+
+1251
+01:14:26,319 --> 01:14:28,380
+la personne protégée
+
+1252
+01:14:28,380 --> 01:14:30,760
+sauf si c'est un mineur
+
+1253
+01:14:30,760 --> 01:14:33,019
+sauf si
+
+1254
+01:14:33,019 --> 01:14:34,920
+on a la preuve
+
+1255
+01:14:34,920 --> 01:14:37,119
+irréfutable qu'elle n'est pas en mesure de le faire
+
+1256
+01:14:37,119 --> 01:14:39,119
+en dehors de ces deux cas
+
+1257
+01:14:39,119 --> 01:14:40,939
+on fait signer par la personne protégée
+
+1258
+01:14:40,939 --> 01:14:47,279
+et on fait signer son ou ses mandataires judiciaires.
+
+1259
+01:14:48,119 --> 01:14:51,419
+Si on n'a vraiment pas la possibilité de faire signer la personne protégée,
+
+1260
+01:14:51,979 --> 01:14:55,939
+à ce moment-là, il nous faut l'autorisation du juge des tutelles
+
+1261
+01:14:55,939 --> 01:14:59,739
+pour vendre par une ordonnance de vente.
+
+1262
+01:15:00,559 --> 01:15:04,379
+Donc, vous devez joindre à votre mandat l'ordonnance de tutelle,
+
+1263
+01:15:04,379 --> 01:15:07,979
+qu'on appelle souvent également la mise sous tutelle.
+
+1264
+01:15:08,079 --> 01:15:09,679
+On voit ici un autre exemple, à Lyon.
+
+1265
+01:15:09,680 --> 01:15:11,539
+le juge dit
+
+1266
+01:15:11,539 --> 01:15:13,840
+Madame Machin n'a plus
+
+1267
+01:15:13,840 --> 01:15:14,800
+les moyens de
+
+1268
+01:15:14,800 --> 01:15:17,760
+s'occuper d'elle-même
+
+1269
+01:15:17,760 --> 01:15:19,400
+donc
+
+1270
+01:15:19,400 --> 01:15:20,720
+nous la mettons sous tutelle
+
+1271
+01:15:20,720 --> 01:15:23,480
+deuxièmement, le tuteur ce sera
+
+1272
+01:15:23,480 --> 01:15:25,680
+un tel, un membre de la famille ou pas
+
+1273
+01:15:25,680 --> 01:15:27,159
+n'allez jamais d'ailleurs
+
+1274
+01:15:27,159 --> 01:15:28,600
+c'est une petite soupe rapidement
+
+1275
+01:15:28,600 --> 01:15:29,740
+vous dire
+
+1276
+01:15:29,740 --> 01:15:33,659
+c'est sa mère, c'est son père
+
+1277
+01:15:33,659 --> 01:15:35,440
+c'est donc son tuteur
+
+1278
+01:15:35,440 --> 01:15:36,659
+absolument pas
+
+1279
+01:15:36,659 --> 01:15:39,300
+n'allez jamais croire que le parent
+
+1280
+01:15:39,300 --> 01:15:42,980
+d'un enfant mineur est systématiquement son tuteur.
+
+1281
+01:15:43,140 --> 01:15:46,500
+Dans un très grand nombre de cas, le juge décide que non,
+
+1282
+01:15:47,440 --> 01:15:49,140
+ce sera quelqu'un d'autre d'indépendant,
+
+1283
+01:15:49,520 --> 01:15:52,100
+parce que la situation familiale l'exige, tout simplement.
+
+1284
+01:15:52,880 --> 01:15:54,900
+Vous voyez, c'est un enfant qui est sous tutelle
+
+1285
+01:15:54,900 --> 01:15:58,440
+parce que son père est mort, j'ai sa mère sous les yeux,
+
+1286
+01:15:58,720 --> 01:16:01,000
+sa mère c'est son tuteur, c'est son représentant légal.
+
+1287
+01:16:01,300 --> 01:16:03,659
+Non, c'est son représentant légal, ça n'est pas forcément son tuteur.
+
+1288
+01:16:05,000 --> 01:16:06,800
+Très souvent d'ailleurs, ça n'est pas son tuteur,
+
+1289
+01:16:06,800 --> 01:16:27,199
+Parce que le juge a estimé qu'il était pertinent de séparer le représentant légal du tuteur. Donc, il vous faut le jugement de tutelle. Et ensuite, si la personne protégée n'est pas en mesure de signer pour elle-même, il nous faut, deuxième document, l'ordonnance de vente.
+
+1290
+01:16:27,199 --> 01:16:37,059
+Voici une ordonnance de vente de Laurent, c'était d'ailleurs l'ordonnance de vente de la personne dont je vous parlais tout à l'heure, je me demande si je n'ai pas ça d'ailleurs, qui autorise la vente.
+
+1291
+01:16:37,060 --> 01:16:42,660
+rapidement lorsqu'il s'agit d'une société
+
+1292
+01:16:42,660 --> 01:16:45,740
+il nous faut la signature de tous les associés
+
+1293
+01:16:45,740 --> 01:16:48,640
+tous les porteurs de part ou alors une assemblée générale
+
+1294
+01:16:48,640 --> 01:16:50,680
+extraordinaire ou ordinaire
+
+1295
+01:16:50,680 --> 01:16:53,820
+fixant premièrement le principe de la vente
+
+1296
+01:16:53,820 --> 01:16:55,440
+deuxièmement les conditions de la vente
+
+1297
+01:16:55,440 --> 01:16:57,840
+c'est à dire le prix, les honoraires
+
+1298
+01:16:57,840 --> 01:16:59,720
+les honoraires à la charge de l'acquéreur
+
+1299
+01:16:59,720 --> 01:17:03,900
+et désigne une personne de la société pour se charger des opérations de commercialisation
+
+1300
+01:17:03,899 --> 01:17:07,859
+Lorsqu'il s'agit d'une mairie
+
+1301
+01:17:07,859 --> 01:17:10,339
+la signature du maire ne suffit pas
+
+1302
+01:17:10,339 --> 01:17:12,939
+il nous faut la délibération du conseil municipal
+
+1303
+01:17:12,939 --> 01:17:14,579
+là encore daté, signé
+
+1304
+01:17:14,579 --> 01:17:16,819
+autorisant le principe de la vente
+
+1305
+01:17:16,819 --> 01:17:18,619
+le prix de la vente, les mêmes conditions
+
+1306
+01:17:18,619 --> 01:17:20,059
+que celles pour une société
+
+1307
+01:17:20,059 --> 01:17:22,960
+et là encore désignant une personne
+
+1308
+01:17:22,960 --> 01:17:24,439
+pour s'occuper de la vente
+
+1309
+01:17:24,439 --> 01:17:26,519
+soit le maire, soit un adjoint au maire
+
+1310
+01:17:26,519 --> 01:17:27,519
+ok
+
+1311
+01:17:27,519 --> 01:17:32,659
+Si vous souhaitez une formation
+
+1312
+01:17:32,659 --> 01:17:35,340
+plus complète sur les tutelles, curatelles, etc.,
+
+1313
+01:17:35,340 --> 01:17:37,079
+la différence entre chaque, on peut le faire,
+
+1314
+01:17:37,199 --> 01:17:38,699
+demandez-le à l'animation, tout simplement.
+
+1315
+01:17:39,399 --> 01:17:41,260
+On en a déjà fait, on peut en refaire,
+
+1316
+01:17:41,359 --> 01:17:41,859
+c'est à vous de voir.
+
+1317
+01:17:42,960 --> 01:17:44,979
+Est-ce qu'il y a des questions là-dessus ?
+
+1318
+01:17:51,699 --> 01:17:52,639
+Question de Maryse.
+
+1319
+01:17:52,779 --> 01:17:54,399
+Si on a une AG autorisant la vente,
+
+1320
+01:17:54,519 --> 01:17:56,019
+le gérant peut-il signer le mandat,
+
+1321
+01:17:56,319 --> 01:17:59,099
+à condition que le gérant dans l'Assemblée Générale
+
+1322
+01:17:59,099 --> 01:18:01,420
+soit désigné comme étant chargé
+
+1323
+01:18:01,420 --> 01:18:02,739
+de la commercialisation du bien
+
+1324
+01:18:02,739 --> 01:18:04,480
+et généralement c'est le cas d'ailleurs
+
+1325
+01:18:04,480 --> 01:18:07,119
+généralement effectivement on désigne le gérant
+
+1326
+01:18:07,119 --> 01:18:08,880
+pour cela mais c'est obligatoire
+
+1327
+01:18:08,880 --> 01:18:10,640
+il pourrait décider de désigner quelqu'un d'autre
+
+1328
+01:18:10,640 --> 01:18:13,000
+donc une fois qu'on a l'assemblée générale
+
+1329
+01:18:13,000 --> 01:18:15,199
+autorisant la vente, le gérant peut signer
+
+1330
+01:18:15,199 --> 01:18:17,539
+le mandat si l'assemblée générale
+
+1331
+01:18:17,539 --> 01:18:19,680
+l'a expressément
+
+1332
+01:18:19,680 --> 01:18:21,060
+désigné pour cela
+
+1333
+01:18:21,060 --> 01:18:21,699
+ouais
+
+1334
+01:18:21,699 --> 01:18:28,279
+pas d'autres questions ?
+
+1335
+01:18:28,279 --> 01:18:29,300
+non ? bien, parfait
+
+1336
+01:18:29,300 --> 01:18:31,220
+les tutos des visio
+
+1337
+01:18:31,220 --> 01:18:32,560
+loi allure 2024
+
+1338
+01:18:32,560 --> 01:18:35,020
+on est en train de les mettre
+
+1339
+01:18:35,020 --> 01:18:35,800
+tout simplement
+
+1340
+01:18:35,800 --> 01:18:39,600
+il y en a quelques uns qui sont déjà sur Youtube
+
+1341
+01:18:39,600 --> 01:18:40,420
+d'ailleurs
+
+1342
+01:18:40,420 --> 01:18:42,300
+et on est en train de les mettre
+
+1343
+01:18:42,300 --> 01:18:43,800
+donc bientôt vous allez recevoir un mail
+
+1344
+01:18:43,800 --> 01:18:45,220
+en vous donnant les liens de chacun
+
+1345
+01:18:45,220 --> 01:18:46,840
+c'est en cours ça
+
+1346
+01:18:46,840 --> 01:18:51,640
+alors
+
+1347
+01:18:51,640 --> 01:18:56,980
+s'il n'y a pas d'autres questions sur ce sujet là
+
+1348
+01:18:56,980 --> 01:18:58,619
+je vous propose de passer
+
+1349
+01:18:58,619 --> 01:19:00,420
+à la dernière chose dont on doit discuter
+
+1350
+01:19:00,420 --> 01:19:01,079
+aujourd'hui
+
+1351
+01:19:01,079 --> 01:19:04,199
+nous
+
+1352
+01:19:04,199 --> 01:19:06,619
+avons parlé, souvenez-vous
+
+1353
+01:19:06,619 --> 01:19:08,319
+je crois que c'était un Center Parcs
+
+1354
+01:19:08,319 --> 01:19:10,960
+je ne suis pas sûr
+
+1355
+01:19:10,960 --> 01:19:12,479
+mais il me semble bien
+
+1356
+01:19:12,479 --> 01:19:13,460
+que c'était un Center Parcs
+
+1357
+01:19:13,460 --> 01:19:16,840
+nous avions parlé de la préparation
+
+1358
+01:19:16,840 --> 01:19:18,420
+de la commercialisation des
+
+1359
+01:19:18,420 --> 01:19:18,960
+viagers
+
+1360
+01:19:18,960 --> 01:19:21,880
+on vous avait dit
+
+1361
+01:19:21,880 --> 01:19:24,260
+on est en train de préparer les viagers
+
+1362
+01:19:24,260 --> 01:19:26,539
+bientôt vous serez en
+
+1363
+01:19:26,539 --> 01:19:28,239
+mesure de commercialiser les viagers
+
+1364
+01:19:28,619 --> 01:19:39,699
+Alors, on n'a pas mal bossé là-dessus, et il se trouve que ces derniers mois, il y a eu de votre part, c'est-à-dire de la part des conseillers du réseau, une demande croissante là-dessus.
+
+1365
+01:19:40,979 --> 01:19:51,500
+Michael nous en a parlé, puis Isabelle dans le Doubs, puis Valérie il y a quelque temps, qui est un petit peu différent, Valérie, on entend que c'est une vente à terme, mais on va en parler.
+
+1366
+01:19:52,579 --> 01:19:57,159
+Il y a eu une espèce d'intérêt croissant de votre part pour les tutelles.
+
+1367
+01:19:57,159 --> 01:19:59,539
+nous, nous avions bien bossé
+
+1368
+01:19:59,539 --> 01:20:01,739
+là-dessus, on avait bien avancé
+
+1369
+01:20:01,739 --> 01:20:02,859
+et on s'est dit
+
+1370
+01:20:02,859 --> 01:20:05,079
+là on arrive au bout
+
+1371
+01:20:05,079 --> 01:20:06,079
+pourquoi pas
+
+1372
+01:20:06,079 --> 01:20:09,079
+donc je vous ai préparé
+
+1373
+01:20:09,079 --> 01:20:11,380
+une formation
+
+1374
+01:20:11,380 --> 01:20:12,199
+sur les tutelles
+
+1375
+01:20:12,199 --> 01:20:13,720
+formation
+
+1376
+01:20:13,720 --> 01:20:16,220
+vous allez voir qu'il sera un petit peu
+
+1377
+01:20:16,220 --> 01:20:18,859
+costaud, un petit peu malaise
+
+1378
+01:20:18,859 --> 01:20:21,800
+sur les tutelles pour vous proposer
+
+1379
+01:20:21,800 --> 01:20:23,979
+la possibilité de commercialiser
+
+1380
+01:20:23,979 --> 01:20:25,720
+les tutelles, je vous dis n'importe quoi
+
+1381
+01:20:25,720 --> 01:20:26,699
+les viagers
+
+1382
+01:20:26,699 --> 01:20:28,699
+Je suis complètement gâteux, les enfants.
+
+1383
+01:20:29,840 --> 01:20:31,359
+Donc, les viagers, excusez-moi.
+
+1384
+01:20:31,859 --> 01:20:36,500
+Donc, je vous ai préparé une grosse formation sur les viagers
+
+1385
+01:20:36,500 --> 01:20:41,179
+pour vous permettre, si vous le souhaitez, de commercialiser des viagers.
+
+1386
+01:20:41,779 --> 01:20:45,399
+Alors, je vais vous présenter ce soir un petit peu le principe des viagers.
+
+1387
+01:20:46,139 --> 01:20:49,840
+Je vais vous présenter la manière dont on va mettre en place cette formation
+
+1388
+01:20:49,840 --> 01:20:54,439
+qui va se dérouler en plusieurs temps, en trois temps principalement,
+
+1389
+01:20:54,439 --> 01:20:58,199
+afin de vous permettre de voir si ça vous intéresse
+
+1390
+01:20:58,199 --> 01:20:59,439
+ou pas
+
+1391
+01:20:59,439 --> 01:21:01,979
+alors bien sûr
+
+1392
+01:21:01,979 --> 01:21:04,179
+posez vos questions, vous n'hésitez pas
+
+1393
+01:21:04,179 --> 01:21:05,439
+alors Véronique nous dit
+
+1394
+01:21:05,439 --> 01:21:07,879
+viager et tutelle c'est pas forcément indissociable
+
+1395
+01:21:07,879 --> 01:21:09,460
+vous avez parfaitement raison Véro
+
+1396
+01:21:09,460 --> 01:21:11,659
+vous me sauvez là, Véro me sauve
+
+1397
+01:21:11,659 --> 01:21:13,939
+en recolant viager et tutelle
+
+1398
+01:21:13,939 --> 01:21:15,579
+quand moi je confonds tout
+
+1399
+01:21:15,579 --> 01:21:17,479
+parce que j'ai de la semoule à la place du cerveau
+
+1400
+01:21:17,479 --> 01:21:19,939
+mais s'il y en a bien une
+
+1401
+01:21:19,939 --> 01:21:22,059
+sur laquelle je peux compter
+
+1402
+01:21:22,059 --> 01:21:23,679
+pour me sauver
+
+1403
+01:21:23,680 --> 01:21:25,240
+c'est bien Véro justement
+
+1404
+01:21:25,240 --> 01:21:26,360
+donc merci beaucoup
+
+1405
+01:21:26,360 --> 01:21:29,800
+alors je vais prendre 2-3 petites notes
+
+1406
+01:21:29,800 --> 01:21:30,579
+que j'ai faites
+
+1407
+01:21:30,579 --> 01:21:34,200
+les formations
+
+1408
+01:21:34,200 --> 01:21:34,740
+vous allez voir
+
+1409
+01:21:34,740 --> 01:21:37,659
+vont être relativement denses
+
+1410
+01:21:37,659 --> 01:21:40,659
+hop là je prends ça
+
+1411
+01:21:40,659 --> 01:21:48,340
+déjà je vais vous donner
+
+1412
+01:21:48,340 --> 01:21:50,800
+avant tout
+
+1413
+01:21:50,800 --> 01:21:51,380
+une
+
+1414
+01:21:51,380 --> 01:21:56,440
+un petit topo
+
+1415
+01:21:56,440 --> 01:21:58,380
+sur ce que sont les viagers
+
+1416
+01:21:58,380 --> 01:21:59,340
+je vais sortir tous mes
+
+1417
+01:21:59,340 --> 01:22:02,180
+documents ici
+
+1418
+01:22:02,180 --> 01:22:04,159
+un petit topo sur ce que sont les viagers
+
+1419
+01:22:04,159 --> 01:22:06,800
+quelques petites statistiques
+
+1420
+01:22:06,800 --> 01:22:08,079
+sur les viagers
+
+1421
+01:22:08,079 --> 01:22:10,119
+qui pourraient éventuellement
+
+1422
+01:22:10,119 --> 01:22:11,800
+vous intéresser pour vous expliquer
+
+1423
+01:22:11,800 --> 01:22:13,539
+de quoi il s'agit
+
+1424
+01:22:13,539 --> 01:22:16,119
+alors bien entendu questions, remarques, interventions
+
+1425
+01:22:16,119 --> 01:22:17,900
+vous n'hésitez pas sur le chat
+
+1426
+01:22:17,900 --> 01:22:18,859
+et oui il y a Julien qui dit
+
+1427
+01:22:18,859 --> 01:22:24,079
+des rôles c'est un petit ne dit pas comme ça mais c'est à dire heureusement que verrou et là ça c'est
+
+1428
+01:22:24,079 --> 01:22:34,579
+bien donc il ne dit pas du tout en rigolant je dis ça pour la blague mais non absolument pas alors
+
+1429
+01:22:34,579 --> 01:22:45,559
+le viager qu'est ce que c'est de manière assez simple le viager c'est un mode de commercialisation
+
+1430
+01:22:45,560 --> 01:22:59,560
+des biens immobiliers, qui est assez ancien, ça ne date pas d'aujourd'hui, on sait que c'est un truc un peu vieux, ça date de plusieurs siècles, mais le viagé tel que nous on l'entend, c'est le viagé tel qu'il est aujourd'hui rédigé dans le code civil.
+
+1431
+01:22:59,560 --> 01:23:27,860
+C'est un mécanisme qu'on connaît tous, qui est relativement simple. J'achète une maison, mais au lieu d'acheter une maison en payant le prix et en prenant possession de la maison, transfert de propriété, la maison, j'en obtiens la pleine propriété qui se décompose en trois parties.
+
+1432
+01:23:27,859 --> 01:23:41,979
+Je ne sais pas si vous vous souvenez, mais c'est pour mon petit ancien, parce qu'il y a bien 3-4 ans, j'avais fait une visio assez dense sur le démembrement de propriétés, les différents types de démembrement de propriétés.
+
+1433
+01:23:42,439 --> 01:23:54,299
+On avait parlé de la copropriété, on avait parlé de l'usufruit, on avait parlé du viager très rapidement, on avait parlé de l'indivision, on avait parlé de tout ça.
+
+1434
+01:23:54,300 --> 01:23:57,800
+quand j'achète une maison
+
+1435
+01:23:57,800 --> 01:24:00,079
+j'achète la pleine
+
+1436
+01:24:00,079 --> 01:24:01,779
+propriété
+
+1437
+01:24:01,779 --> 01:24:04,500
+et d'ailleurs si je prends un compromis
+
+1438
+01:24:04,500 --> 01:24:05,539
+j'y pense là maintenant
+
+1439
+01:24:05,539 --> 01:24:07,760
+si je vais chercher un compromis
+
+1440
+01:24:07,760 --> 01:24:10,039
+là on en a un qui nous a été envoyé par Géraldine
+
+1441
+01:24:10,039 --> 01:24:11,820
+aujourd'hui, je ne sais pas si Géraldine est avec nous là
+
+1442
+01:24:11,820 --> 01:24:14,520
+dans tous les compromis et les actes de vente
+
+1443
+01:24:14,520 --> 01:24:16,260
+le notaire met
+
+1444
+01:24:16,260 --> 01:24:17,880
+quelque part
+
+1445
+01:24:17,880 --> 01:24:19,760
+que
+
+1446
+01:24:19,760 --> 01:24:23,020
+parce qu'il le met ici
+
+1447
+01:24:23,020 --> 01:24:24,760
+alors je ne le mets pas toujours au même endroit
+
+1448
+01:24:24,760 --> 01:24:26,140
+voilà
+
+1449
+01:24:26,140 --> 01:24:28,880
+la pleine propriété
+
+1450
+01:24:28,880 --> 01:24:30,800
+le notaire dit très clairement
+
+1451
+01:24:30,800 --> 01:24:32,619
+qu'on acquiert
+
+1452
+01:24:32,619 --> 01:24:34,180
+la pleine propriété
+
+1453
+01:24:34,180 --> 01:24:36,579
+de l'immeuble, c'est obligatoire
+
+1454
+01:24:36,579 --> 01:24:38,720
+la pleine propriété
+
+1455
+01:24:38,720 --> 01:24:40,860
+en droit ce sont
+
+1456
+01:24:40,860 --> 01:24:42,380
+trois éléments
+
+1457
+01:24:42,380 --> 01:24:43,960
+l'usus
+
+1458
+01:24:43,960 --> 01:24:46,560
+le fructus
+
+1459
+01:24:46,560 --> 01:24:50,980
+et la lusus
+
+1460
+01:24:50,980 --> 01:24:52,920
+ce sont trois termes latins
+
+1461
+01:24:52,920 --> 01:24:55,180
+là encore ça vous permettra
+
+1462
+01:24:55,180 --> 01:24:55,920
+de faire le malin
+
+1463
+01:24:55,920 --> 01:24:57,360
+lors des dîners en ville
+
+1464
+01:24:57,360 --> 01:24:59,820
+à condition que vous habitiez en ville
+
+1465
+01:24:59,820 --> 01:25:02,220
+sinon vous aurez l'air crétin
+
+1466
+01:25:02,220 --> 01:25:04,600
+lusus, le fructus et la lusus
+
+1467
+01:25:04,600 --> 01:25:06,940
+ce sont les trois éléments
+
+1468
+01:25:06,940 --> 01:25:09,580
+qui composent la pleine propriété
+
+1469
+01:25:09,580 --> 01:25:10,640
+d'un bien
+
+1470
+01:25:10,640 --> 01:25:13,400
+lusus c'est
+
+1471
+01:25:13,400 --> 01:25:15,700
+le droit d'usage
+
+1472
+01:25:16,560 --> 01:25:20,500
+donc d'en user comme bon me semble
+
+1473
+01:25:20,500 --> 01:25:22,340
+on dit souvent en droit
+
+1474
+01:25:22,340 --> 01:25:24,420
+d'en jouir comme bon me semble
+
+1475
+01:25:24,420 --> 01:25:26,080
+le droit de jouissance
+
+1476
+01:25:26,080 --> 01:25:28,460
+le droit d'usage
+
+1477
+01:25:28,460 --> 01:25:29,440
+le droit de jouissance
+
+1478
+01:25:29,440 --> 01:25:31,180
+je fais ce que je veux de ma maison
+
+1479
+01:25:31,180 --> 01:25:32,900
+je l'habite ou je ne l'habite pas
+
+1480
+01:25:32,900 --> 01:25:36,380
+je mets dedans des meubles ou je ne mets pas de meubles
+
+1481
+01:25:36,380 --> 01:25:39,620
+je repeins les murs en bleu
+
+1482
+01:25:39,620 --> 01:25:40,760
+ou en vert
+
+1483
+01:25:40,760 --> 01:25:42,140
+j'en fais ce que je veux
+
+1484
+01:25:42,140 --> 01:25:44,980
+j'en use et j'en jouis comme bon me semble
+
+1485
+01:25:44,979 --> 01:25:50,939
+j'organise des soirées avec mes copains, des marboukios, je regarde la télé, je joue aux jeux
+
+1486
+01:25:50,939 --> 01:25:57,139
+vidéo, je gratouille mon chien, je fais ce que je veux, droit d'usage, le fruit, je fais n'importe
+
+1487
+01:25:57,139 --> 01:26:05,359
+quoi, je fais n'importe quoi, je fais n'importe quoi, voilà, le fructus c'est le droit d'en récolter
+
+1488
+01:26:05,359 --> 01:26:18,000
+Et les fruits récoltés, c'est joli ça, au lieu de récolter, voilà, le droit d'en récolter les fruits.
+
+1489
+01:26:19,119 --> 01:26:23,380
+Le droit d'en récolter les fruits, ça veut dire de manière simple, le droit de gagner de l'argent avec.
+
+1490
+01:26:23,380 --> 01:26:35,000
+Et généralement, le droit d'en récolter des revenus, généralement, le fructus, on le lit directement à l'allocation.
+
+1491
+01:26:35,000 --> 01:26:49,600
+Le droit de le louer et donc d'en récolter les loyers. Mais pas seulement. Le fructus, ça peut être plus large que ça. Ça peut être tout simplement le droit d'en faire une exploitation qui rapporte des revenus.
+
+1492
+01:26:49,600 --> 01:27:10,820
+Donc, on pourrait étendre le fructus à cultiver la terre et en récolter des produits, des patates, des pommes ou des poires, avoir une activité artisanale ou que sais-je, retirer de l'argent de ce bien.
+
+1493
+01:27:10,819 --> 01:27:35,420
+En fait, quand on parle de fluxus, donc 99% des cas, on parle de récolter les loyers. Il y a certains auteurs en droit, ça c'est ce qu'on appelle de la doctrine, qui disent que ça se limite aux loyers. Mais des jurisprudences très anciennes ont consacré que non. Bon, on ne va pas rentrer là-dedans, dans ce qu'on appelle l'exégèse de la doctrine. Restez sur les loyers.
+
+1494
+01:27:35,420 --> 01:27:50,579
+Et ensuite, il y a la dernière chose, l'abusus, c'est le droit d'en disposer, c'est-à-dire le droit de le revendre, le droit de revendre l'appartement, de revendre la maison.
+
+1495
+01:27:51,480 --> 01:27:59,600
+Usus, frutus, abusus, ce sont les trois droits qui composent la pleine propriété.
+
+1496
+01:27:59,600 --> 01:28:07,680
+Quand j'achète une maison, je l'achète en pleine propriété, j'acquiers ces trois droits également.
+
+1497
+01:28:07,680 --> 01:28:15,660
+Et bien lorsque j'achète une maison en viagé, et bien je n'ai pas forcément ces trois droits.
+
+1498
+01:28:15,659 --> 01:28:45,399
+J'en achète généralement la nue propriété, c'est l'abus. Le reste, je ne l'ai pas. Parce que, dans la majorité des viagers, j'achète le bien, j'en deviens donc nue propriétaire et non pas usufruitier, je n'ai pas le droit d'en disposer de l'habiter.
+
+1499
+01:28:45,659 --> 01:29:15,639
+Je n'ai pas le droit d'en récolter les fruits parce que la personne qui m'a vendu ce bien me l'a vendu en disant « mais attention, je reste dedans jusqu'à ma mort. Je vous le vends moins cher aujourd'hui, c'est une bonne affaire pour vous, mais je reste dedans jusqu'à ma mort. »
+
+1500
+01:29:15,659 --> 01:29:17,579
+que plus tard
+
+1501
+01:29:17,579 --> 01:29:19,260
+et on ne sait pas quand plus tard
+
+1502
+01:29:19,260 --> 01:29:21,579
+il ne faut pas qu'on sache quand plus tard
+
+1503
+01:29:21,579 --> 01:29:23,659
+d'ailleurs ça on le définira lors de
+
+1504
+01:29:23,659 --> 01:29:25,319
+la formation en elle-même
+
+1505
+01:29:25,319 --> 01:29:27,760
+alors bien entendu
+
+1506
+01:29:27,760 --> 01:29:29,840
+vous le savez tous
+
+1507
+01:29:29,840 --> 01:29:31,539
+il y a différentes composantes financières
+
+1508
+01:29:31,539 --> 01:29:33,739
+généralement quand on achète un viagé
+
+1509
+01:29:33,739 --> 01:29:35,279
+alors on l'achète moins cher
+
+1510
+01:29:35,279 --> 01:29:36,979
+imaginons que la maison coûte 500 000 euros
+
+1511
+01:29:36,979 --> 01:29:39,800
+là je vais l'acheter beaucoup moins cher
+
+1512
+01:29:39,800 --> 01:29:41,199
+puisque je ne peux pas l'habiter
+
+1513
+01:29:41,199 --> 01:29:42,159
+je ne peux pas en faire ce que je veux
+
+1514
+01:29:42,159 --> 01:29:43,899
+on va y avoir une décote
+
+1515
+01:29:43,899 --> 01:29:45,500
+qu'on appelle une décote viagère
+
+1516
+01:29:45,659 --> 01:29:49,659
+Généralement, je paye une somme tout de suite
+
+1517
+01:29:49,659 --> 01:29:52,239
+Imaginons que la maison vaille 500 000 euros
+
+1518
+01:29:52,239 --> 01:29:55,619
+Je paye aujourd'hui, je prends des chiffres idiots
+
+1519
+01:29:55,619 --> 01:29:59,279
+100 000 euros que je donne tout de suite à la personne âgée
+
+1520
+01:29:59,279 --> 01:30:01,500
+Parce que c'est dans la majorité des cas des personnes âgées
+
+1521
+01:30:01,500 --> 01:30:04,920
+Je lui donne tout de suite 100 000 euros
+
+1522
+01:30:04,920 --> 01:30:08,479
+C'est ce qu'on appelle le bouquet
+
+1523
+01:30:08,479 --> 01:30:12,159
+Le bouquet, en fait, c'est la somme que je mets sur la table
+
+1524
+01:30:12,159 --> 01:30:13,579
+aujourd'hui
+
+1525
+01:30:13,579 --> 01:30:15,739
+pour contracter
+
+1526
+01:30:15,739 --> 01:30:16,680
+le viagé
+
+1527
+01:30:16,680 --> 01:30:19,319
+alors je vous dis ce sont des personnes âgées
+
+1528
+01:30:19,319 --> 01:30:21,819
+en moyenne le vendeur d'un viagé
+
+1529
+01:30:21,819 --> 01:30:23,340
+il a 74 ans
+
+1530
+01:30:23,340 --> 01:30:25,659
+vous voyez
+
+1531
+01:30:25,659 --> 01:30:27,619
+c'est de manière évidente
+
+1532
+01:30:27,619 --> 01:30:28,920
+toujours des
+
+1533
+01:30:28,920 --> 01:30:31,079
+des personnes âgées
+
+1534
+01:30:31,079 --> 01:30:33,139
+mais c'est pas forcé ça peut être quelqu'un de plus jeune
+
+1535
+01:30:33,139 --> 01:30:34,760
+c'est quand même relativement rare
+
+1536
+01:30:34,760 --> 01:30:39,180
+donc je lui donne une somme
+
+1537
+01:30:39,180 --> 01:30:39,699
+tout de suite
+
+1538
+01:30:39,699 --> 01:30:41,420
+dont elle fait ce qu'elle veut
+
+1539
+01:30:42,159 --> 01:31:08,380
+On appelle ça le bouquet. Et ensuite, je vais lui payer une rente. Une somme mensuelle ou trimestrielle qu'on appelle la rente viagère. La rente. C'est une somme. Imaginons, je vais lui donner chaque mois 1000 euros. Je vais lui donner 100 000 euros aujourd'hui. Et puis après, je vais lui donner 1000 euros par mois jusqu'à son décès.
+
+1540
+01:31:08,380 --> 01:31:20,460
+Et le jour où cette personne meurt, à ce moment-là, je récupère en plus de mon abusus, je récupère mon usus et mon fructus.
+
+1541
+01:31:20,880 --> 01:31:24,380
+Je suis en pleine propriété du bien, je le possède entièrement.
+
+1542
+01:31:27,560 --> 01:31:29,079
+C'est comme ça que fonctionne un viagé.
+
+1543
+01:31:29,600 --> 01:31:31,859
+Alors après, il y a plein de manières de moduler ça.
+
+1544
+01:31:32,380 --> 01:31:35,840
+On paye une rente plus ou moins élevée, ou pas du tout de rente.
+
+1545
+01:31:35,840 --> 01:31:49,100
+On paye un bouquet plus ou moins élevé, la personne âgée reste dans le bien ou pas, elle n'est pas obligée de rester dans le bien, il y a plein de manières d'articuler tout ça, ce qu'on va étudier au cours de cette vidéo.
+
+1546
+01:31:49,100 --> 01:32:13,920
+Ça va être un peu dense, vous allez voir, il va y avoir beaucoup de choses. Le viagé, c'est quelque chose qui existe depuis bien longtemps, que tout le monde connaît. Attention, il ne faut pas s'imaginer que maintenant vous allez avoir accès à ce nouveau type de commercialisation, ça va tout changer, maintenant vous pouvez commercialiser des biens en plus, vous allez multiplier vos ventes par 50.
+
+1547
+01:32:13,920 --> 01:32:16,859
+non, pas du tout, le viagé ça peut être intéressant
+
+1548
+01:32:16,859 --> 01:32:18,760
+mais il ne faut pas s'imaginer
+
+1549
+01:32:18,760 --> 01:32:19,859
+que c'est la poule aux oeufs d'or
+
+1550
+01:32:19,859 --> 01:32:22,579
+il y a très très très peu de viagés
+
+1551
+01:32:22,579 --> 01:32:24,880
+qui se commercialisent en France
+
+1552
+01:32:24,880 --> 01:32:26,699
+chaque année, est-ce que vous avez une idée
+
+1553
+01:32:26,699 --> 01:32:28,319
+le son est mauvais, il n'y a plus de son
+
+1554
+01:32:28,319 --> 01:32:30,340
+vous ne m'entendez plus là, ou est-ce que vous m'entendez
+
+1555
+01:32:30,340 --> 01:32:31,039
+et ça revient
+
+1556
+01:32:31,039 --> 01:32:34,680
+là il y a Guillaume et Isabelle
+
+1557
+01:32:34,680 --> 01:32:35,940
+qui me disent que le son est mauvais
+
+1558
+01:32:35,940 --> 01:32:37,140
+c'est comment pour tout le monde
+
+1559
+01:32:37,140 --> 01:32:40,140
+c'est mieux, d'accord
+
+1560
+01:32:40,140 --> 01:32:42,239
+à votre avis
+
+1561
+01:32:42,239 --> 01:32:48,260
+combien de ventes immobilières en france chaque année à votre avis
+
+1562
+01:32:56,859 --> 01:33:08,260
+750 milles nous dit catherine alors laurent vient de dire une grosse connerie après pourquoi donc
+
+1563
+01:33:08,260 --> 01:33:12,199
+Donc, 750 000, nous dit Catherine, 900 000, nous dit Corinne.
+
+1564
+01:33:12,280 --> 01:33:13,320
+Oui, on est dans ces eaux-là.
+
+1565
+01:33:13,680 --> 01:33:15,579
+On va dire, allez, on fait une moyenne à 800 000.
+
+1566
+01:33:16,260 --> 01:33:21,239
+En France, en ce moment, chaque année, on va dire 800 000 ventes.
+
+1567
+01:33:21,760 --> 01:33:25,100
+Je parle de vente normale, pas rentable.
+
+1568
+01:33:25,780 --> 01:33:27,100
+OK ?
+
+1569
+01:33:27,100 --> 01:33:33,720
+Donc, on va mettre ici, vente classique, environ 800 000.
+
+1570
+01:33:33,820 --> 01:33:37,800
+Oui, 750 000, 900 000, on est à peu près là, bien sûr.
+
+1571
+01:33:38,260 --> 01:33:48,539
+« Combien y a-t-il selon vous de ventes en viagé en France chaque année ? »
+
+1572
+01:33:48,539 --> 01:33:50,079
+Et c'est là que Laurent avait dit sa connerie,
+
+1573
+01:33:50,159 --> 01:33:51,780
+parce qu'il avait donné le nom des ventes en viagé,
+
+1574
+01:33:52,400 --> 01:33:56,119
+mais il a triché, au lieu des ventes normales.
+
+1575
+01:33:56,560 --> 01:33:58,860
+Alors, à votre avis, combien y a-t-il de ventes en viagé ?
+
+1576
+01:33:58,860 --> 01:34:03,860
+Alors, on me dit 3%, 5%, 10%, 15 000, 35 000 !
+
+1577
+01:34:08,260 --> 01:34:20,159
+5 000 ventes par an, entre 5 000 et 5 500 exactement.
+
+1578
+01:34:21,579 --> 01:34:23,960
+Donc vous voyez, ce n'est pas le Pérou.
+
+1579
+01:34:24,880 --> 01:34:27,480
+Il ne faut pas s'imaginer que du jour au lendemain,
+
+1580
+01:34:27,480 --> 01:34:32,900
+vous allez avoir une manne qui va s'ouvrir,
+
+1581
+01:34:33,280 --> 01:34:35,060
+une poule aux œufs d'or entre les mains.
+
+1582
+01:34:35,060 --> 01:34:50,060
+Non, c'est environ 0,5% des ventes annuelles.
+
+1583
+01:34:51,380 --> 01:34:52,680
+Donc vous voyez, ce n'est pas énorme.
+
+1584
+01:34:55,480 --> 01:34:57,560
+Je disais à Laurent hier quand j'avais un téléphone,
+
+1585
+01:34:58,380 --> 01:35:03,120
+si on fait une simple division entre le nombre de ventes en viagé
+
+1586
+01:35:03,119 --> 01:35:06,140
+par le nombre de communes en France
+
+1587
+01:35:06,140 --> 01:35:13,680
+ça fait 0,13 ventes par commune
+
+1588
+01:35:13,680 --> 01:35:15,000
+et encore quand je dis une commune
+
+1589
+01:35:15,000 --> 01:35:15,720
+je ne dis pas un village
+
+1590
+01:35:15,720 --> 01:35:17,899
+je ne dis pas un village
+
+1591
+01:35:17,899 --> 01:35:20,619
+je dis une commune
+
+1592
+01:35:20,619 --> 01:35:21,559
+0,13
+
+1593
+01:35:21,559 --> 01:35:23,420
+donc vous voyez
+
+1594
+01:35:23,420 --> 01:35:25,599
+ça ne va pas changer la donne
+
+1595
+01:35:25,599 --> 01:35:28,420
+mais attention, il y a deux choses qui sont intéressantes
+
+1596
+01:35:28,420 --> 01:35:29,859
+c'est que premièrement
+
+1597
+01:35:29,859 --> 01:35:32,279
+ces dernières années depuis le Covid environ
+
+1598
+01:35:33,119 --> 01:35:35,699
+peut-être un peu avant, je ne sais pas exactement, environ depuis le Covid, on va dire,
+
+1599
+01:35:36,699 --> 01:35:40,579
+ça augmente, et ça augmente de manière notable.
+
+1600
+01:35:41,260 --> 01:35:46,779
+Alors vous pourrez me dire, c'est normal, allongement de la durée de vie, bien sûr,
+
+1601
+01:35:47,000 --> 01:35:51,479
+les retraites sont incertaines, on met de plus en plus les personnes âgées en EHPAD,
+
+1602
+01:35:51,479 --> 01:35:57,420
+il faut financer l'EHPAD, les gens sont de plus en plus vieux de plus en plus tard,
+
+1603
+01:35:57,420 --> 01:36:00,000
+c'est normal, ça va dans la logique
+
+1604
+01:36:00,000 --> 01:36:01,859
+sociologique et
+
+1605
+01:36:01,859 --> 01:36:03,180
+démographique
+
+1606
+01:36:03,180 --> 01:36:05,899
+ça va dans la logique
+
+1607
+01:36:05,899 --> 01:36:08,199
+de cette évolution normale et naturelle
+
+1608
+01:36:08,199 --> 01:36:08,880
+oui absolument
+
+1609
+01:36:08,880 --> 01:36:11,159
+mais on s'aperçoit que ça augmente
+
+1610
+01:36:11,159 --> 01:36:14,140
+plus fort, plus vite
+
+1611
+01:36:14,140 --> 01:36:15,619
+c'est un petit peu comme si
+
+1612
+01:36:15,619 --> 01:36:17,340
+le viagé avait un peu le vent en poupe
+
+1613
+01:36:17,340 --> 01:36:19,319
+je ne vais pas dire devenu à la mode
+
+1614
+01:36:19,319 --> 01:36:20,140
+mais quasiment
+
+1615
+01:36:20,140 --> 01:36:23,220
+donc premièrement
+
+1616
+01:36:23,220 --> 01:36:25,539
+on pourrait dire que c'est quand même un marché d'avenir
+
+1617
+01:36:25,539 --> 01:36:26,859
+sans aucun doute
+
+1618
+01:36:26,859 --> 01:36:28,960
+il est très faible ce marché
+
+1619
+01:36:28,960 --> 01:36:30,579
+mais c'est un marché
+
+1620
+01:36:30,579 --> 01:36:33,119
+qui croit et qui va sans aucun doute
+
+1621
+01:36:33,119 --> 01:36:34,239
+croître dans la vie
+
+1622
+01:36:34,239 --> 01:36:37,000
+mais également
+
+1623
+01:36:37,000 --> 01:36:39,500
+c'est surtout un marché d'opportunité
+
+1624
+01:36:39,500 --> 01:36:41,279
+aujourd'hui vous pouvez
+
+1625
+01:36:41,279 --> 01:36:43,339
+passer à côté d'un viagé
+
+1626
+01:36:43,339 --> 01:36:45,000
+notamment parce que vous avez une bonne relation
+
+1627
+01:36:45,000 --> 01:36:46,139
+avec votre notaire
+
+1628
+01:36:46,139 --> 01:36:49,199
+et puis il vous met sur le coup d'un viagé
+
+1629
+01:36:49,199 --> 01:36:50,299
+et puis vous êtes obligé de dire
+
+1630
+01:36:50,299 --> 01:36:52,000
+bah non désolé je ne sais pas faire, on ne fait pas
+
+1631
+01:36:52,000 --> 01:36:53,899
+donc en fait
+
+1632
+01:36:53,899 --> 01:36:56,339
+vous rater plutôt des opportunités
+
+1633
+01:36:56,339 --> 01:36:58,339
+qu'autre chose, qu'un vrai levier de croissance
+
+1634
+01:36:58,339 --> 01:37:00,679
+regardez, je suis absolument convaincu
+
+1635
+01:37:00,679 --> 01:37:02,379
+que WeMove est un levier de croissance
+
+1636
+01:37:02,379 --> 01:37:04,179
+très important à actionner
+
+1637
+01:37:04,179 --> 01:37:06,279
+WeMove, ça peut
+
+1638
+01:37:06,279 --> 01:37:08,339
+changer la donne
+
+1639
+01:37:08,339 --> 01:37:09,599
+dans votre chiffre d'affaires
+
+1640
+01:37:09,599 --> 01:37:12,619
+le viagé non, mais le viagé
+
+1641
+01:37:12,619 --> 01:37:14,500
+ça peut être des opportunités intéressantes
+
+1642
+01:37:14,500 --> 01:37:15,699
+donc
+
+1643
+01:37:15,699 --> 01:37:18,299
+c'est la raison pour laquelle on vous propose
+
+1644
+01:37:18,299 --> 01:37:19,619
+de vous lancer là-dedans
+
+1645
+01:37:19,619 --> 01:37:22,239
+comment va se dérouler cette formation ?
+
+1646
+01:37:22,239 --> 01:37:40,039
+va se dérouler en trois étapes. Premièrement, une vision de formation sur le viagé lui-même
+
+1647
+01:37:40,039 --> 01:37:44,560
+avec moi.
+
+1648
+01:37:49,260 --> 01:37:49,699
+Deuxièmement,
+
+1649
+01:37:50,279 --> 01:37:51,019
+une visio
+
+1650
+01:37:51,019 --> 01:37:53,539
+sur
+
+1651
+01:37:53,539 --> 01:37:56,619
+l'estimation
+
+1652
+01:37:56,619 --> 01:37:59,399
+du prix.
+
+1653
+01:38:00,760 --> 01:38:01,859
+J'écris n'importe quoi.
+
+1654
+01:38:04,760 --> 01:38:06,220
+Alors, à votre avis,
+
+1655
+01:38:06,359 --> 01:38:07,939
+c'est avec qui ça ?
+
+1656
+01:38:07,939 --> 01:38:08,960
+Bien sûr que c'est avec Laurent.
+
+1657
+01:38:08,960 --> 01:38:11,680
+le champion de l'estimation du prix
+
+1658
+01:38:11,680 --> 01:38:12,859
+de la vie de valeur c'est Laurent
+
+1659
+01:38:12,859 --> 01:38:15,980
+c'est pas moi, il est beaucoup plus légitime
+
+1660
+01:38:15,980 --> 01:38:17,939
+que moi pour vous former
+
+1661
+01:38:17,939 --> 01:38:19,260
+là dessus
+
+1662
+01:38:19,260 --> 01:38:22,180
+donc une première vision
+
+1663
+01:38:22,180 --> 01:38:24,319
+sur le viagé
+
+1664
+01:38:24,319 --> 01:38:25,939
+lui même, je vous explique
+
+1665
+01:38:25,939 --> 01:38:26,899
+dans le détail
+
+1666
+01:38:26,899 --> 01:38:29,880
+juridique, historique, fiscal
+
+1667
+01:38:29,880 --> 01:38:31,420
+comment ça fonctionne
+
+1668
+01:38:31,420 --> 01:38:33,819
+les différents types de viagés
+
+1669
+01:38:33,819 --> 01:38:35,899
+comment ça s'articule etc etc
+
+1670
+01:38:35,899 --> 01:38:37,779
+c'est déjà un bon morceau
+
+1671
+01:38:37,779 --> 01:38:40,500
+une deuxième vision
+
+1672
+01:38:40,500 --> 01:38:42,079
+avec l'orange
+
+1673
+01:38:42,079 --> 01:38:43,840
+je ne sais pas pourquoi j'ai un espace en trop ici
+
+1674
+01:38:43,840 --> 01:38:46,759
+sur le prix lui-même
+
+1675
+01:38:46,759 --> 01:38:48,579
+comment on fait pour estimer
+
+1676
+01:38:48,579 --> 01:38:50,659
+le bouquet, la rente
+
+1677
+01:38:50,659 --> 01:38:52,460
+est-ce qu'il y a un bouquet, est-ce qu'il y a une rente
+
+1678
+01:38:52,460 --> 01:38:53,739
+comment on articule tout ça
+
+1679
+01:38:53,739 --> 01:38:56,639
+troisième étape
+
+1680
+01:38:56,639 --> 01:38:57,920
+un QCM
+
+1681
+01:38:57,920 --> 01:39:00,599
+obligatoire
+
+1682
+01:39:00,599 --> 01:39:05,019
+avec 75%
+
+1683
+01:39:05,019 --> 01:39:06,399
+de réussite
+
+1684
+01:39:07,779 --> 01:39:09,800
+que vous pourrez passer plusieurs fois si vous l'avez raté.
+
+1685
+01:39:12,279 --> 01:39:16,380
+QCM obligatoire avec 75% de réussite pour pouvoir former,
+
+1686
+01:39:17,279 --> 01:39:20,099
+pour pouvoir commercialiser des viagers.
+
+1687
+01:39:21,679 --> 01:39:25,519
+Ensuite, ceux d'entre vous qui seront intéressés par des viagers
+
+1688
+01:39:25,519 --> 01:39:30,979
+et qui pourront commercialiser, seront coachés individuellement par moi.
+
+1689
+01:39:32,099 --> 01:39:35,179
+C'est-à-dire que lorsque vous rentrerez vos premiers mandats en viager,
+
+1690
+01:39:35,180 --> 01:39:37,740
+je vais vous aider, vous coacher individuellement
+
+1691
+01:39:37,740 --> 01:39:39,500
+on en parlera ensemble
+
+1692
+01:39:39,500 --> 01:39:41,300
+quelle est l'éthique de viager
+
+1693
+01:39:41,300 --> 01:39:43,260
+on s'y prend comme ci, on s'y prend comme ça
+
+1694
+01:39:43,260 --> 01:39:45,420
+on va faire ci, on va faire ça
+
+1695
+01:39:45,420 --> 01:39:50,000
+ces trois visios vont se dérouler
+
+1696
+01:39:50,000 --> 01:39:51,360
+ces trois visios, pardon
+
+1697
+01:39:51,360 --> 01:39:53,320
+ces trois étapes, excusez-moi, vont se dérouler
+
+1698
+01:39:53,320 --> 01:39:55,659
+de la manière suivante
+
+1699
+01:39:55,659 --> 01:39:56,760
+je pense que
+
+1700
+01:39:56,760 --> 01:39:58,619
+courant avril-mai
+
+1701
+01:39:58,619 --> 01:40:01,520
+on va faire les visios
+
+1702
+01:40:01,520 --> 01:40:03,539
+de formation elles-mêmes, il va y en avoir
+
+1703
+01:40:03,539 --> 01:40:04,440
+deux
+
+1704
+01:40:05,180 --> 01:40:08,140
+la même, parce que tout le monde ne peut pas être là
+
+1705
+01:40:08,140 --> 01:40:09,039
+le même jour au même endroit
+
+1706
+01:40:09,039 --> 01:40:12,159
+et après, ceux d'entre vous
+
+1707
+01:40:12,159 --> 01:40:14,079
+qui auront fait cette visio jusqu'au bout
+
+1708
+01:40:14,079 --> 01:40:15,960
+pourront s'inscrire
+
+1709
+01:40:15,960 --> 01:40:17,020
+à la visio de Laurent
+
+1710
+01:40:17,020 --> 01:40:19,300
+au visio de Laurent, il y en aura également
+
+1711
+01:40:19,300 --> 01:40:20,060
+deux
+
+1712
+01:40:20,060 --> 01:40:23,720
+ensuite, il y aura un QCM
+
+1713
+01:40:23,720 --> 01:40:26,100
+dans Eglantine, parce que vous ne le savez pas
+
+1714
+01:40:26,100 --> 01:40:27,800
+ça je ne l'ai dit encore à personne
+
+1715
+01:40:27,800 --> 01:40:29,800
+mais je suis en train de travailler
+
+1716
+01:40:29,800 --> 01:40:31,700
+ardemment à
+
+1717
+01:40:31,700 --> 01:40:33,800
+remettre en place le e-learning
+
+1718
+01:40:33,800 --> 01:40:40,820
+dans aiglantine avec des qcm tout nouveau tout beau tout frais tout joli et il y aura ce qcm
+
+1719
+01:40:40,820 --> 01:40:46,760
+obligatoire et il faudra avoir 75 % de réussite minimum pour pouvoir commercialiser les biens
+
+1720
+01:40:46,760 --> 01:40:56,360
+ensuite alors le qcm attention soyons clairs c'est pas l'examen d'entrée à navarre alors
+
+1721
+01:40:56,360 --> 01:41:02,779
+c'est un qcm sur les formations que nous aurons fait sachant que ceux d'entre vous qui auront fait
+
+1722
+01:41:02,779 --> 01:41:17,659
+les formations disposeront des supports de cours qui sont quasi fini voici par exemple le support
+
+1723
+01:41:17,659 --> 01:41:25,099
+de cours prévu alors il y aura et non ça c'est pas du tout le support de course assez le plan
+
+1724
+01:41:25,099 --> 01:41:30,380
+excusez moi je vous dis n'importe quoi le support de cours je vais vous montrer tout de suite il
+
+1725
+01:41:30,380 --> 01:41:32,100
+Il sera optimisé, on est en train de voir.
+
+1726
+01:41:32,239 --> 01:41:35,760
+Laurent l'a déjà potassé aussi pour me dire, tiens, ça, c'est pas très clair.
+
+1727
+01:41:35,900 --> 01:41:37,239
+On modifie comme si on modifie comme ça.
+
+1728
+01:41:37,760 --> 01:41:41,840
+J'ai proposé à Julien également de jeter un oeil dessus, éventuellement Marjo.
+
+1729
+01:41:41,840 --> 01:41:46,520
+Enfin, on peut voir deux, trois agents qui regardent si c'est bien clair.
+
+1730
+01:41:47,079 --> 01:41:51,980
+Mais vous aurez également donc ce support de cours complet.
+
+1731
+01:41:52,720 --> 01:41:54,260
+Alors, c'est assez dense.
+
+1732
+01:41:54,960 --> 01:41:56,500
+Il y a quoi ? Il y a 27 pages.
+
+1733
+01:41:56,840 --> 01:41:58,720
+C'est pas rien quand même.
+
+1734
+01:41:58,720 --> 01:42:16,840
+Alors, 27 pages, c'est aéré, ce n'est pas la légende des siècles, soyons clairs, ce n'est pas non plus Proust. Lisez Proust. Je sais que je vous l'ai probablement déjà dit, lisez Proust.
+
+1735
+01:42:16,840 --> 01:42:19,900
+ça peut paraître
+
+1736
+01:42:19,900 --> 01:42:22,100
+pénible, ça peut paraître
+
+1737
+01:42:22,100 --> 01:42:24,720
+difficile, il y a des auteurs
+
+1738
+01:42:24,720 --> 01:42:26,100
+à côté desquels il ne faut
+
+1739
+01:42:26,100 --> 01:42:27,739
+pas passer
+
+1740
+01:42:27,739 --> 01:42:30,720
+bien sûr Victor Hugo, je vous parlais de la légende des siècles
+
+1741
+01:42:30,720 --> 01:42:32,699
+bien sûr Proust
+
+1742
+01:42:32,699 --> 01:42:34,100
+faites cet effort
+
+1743
+01:42:34,100 --> 01:42:35,560
+ça
+
+1744
+01:42:35,560 --> 01:42:38,779
+je ne vais pas dire que ça va vous changer la vie
+
+1745
+01:42:38,779 --> 01:42:40,239
+mais
+
+1746
+01:42:40,239 --> 01:42:41,920
+il y a beaucoup de choses
+
+1747
+01:42:41,920 --> 01:42:43,960
+que vous envisagerez différemment
+
+1748
+01:42:43,960 --> 01:42:45,720
+après avoir du Proust
+
+1749
+01:42:45,720 --> 01:42:48,180
+lisez poste, c'est pas le seul auteur
+
+1750
+01:42:48,180 --> 01:42:50,500
+qui faille lire bien sûr mais il faut lire poste
+
+1751
+01:42:50,500 --> 01:42:52,539
+bon, on s'en fout de ce que je dis là
+
+1752
+01:42:52,539 --> 01:42:55,539
+vous voyez c'est pas
+
+1753
+01:42:55,539 --> 01:42:58,180
+je vous disais c'est pas poste, c'est pas ultra dense
+
+1754
+01:42:58,180 --> 01:42:58,900
+ultra long
+
+1755
+01:42:58,900 --> 01:43:04,079
+il y a des parties un petit peu
+
+1756
+01:43:04,079 --> 01:43:05,560
+aérées pour repasser au truc suivant
+
+1757
+01:43:05,560 --> 01:43:07,480
+mais vous aurez si vous faites
+
+1758
+01:43:07,480 --> 01:43:09,360
+toutes ces formations
+
+1759
+01:43:09,360 --> 01:43:11,820
+vous aurez accès à
+
+1760
+01:43:11,820 --> 01:43:13,840
+ce support de cours
+
+1761
+01:43:13,840 --> 01:43:15,819
+quand il sera complètement terminé, il est quasiment
+
+1762
+01:43:15,819 --> 01:43:17,600
+terminé et le QCM
+
+1763
+01:43:17,600 --> 01:43:20,039
+portera sur ce support de cours
+
+1764
+01:43:20,039 --> 01:43:21,960
+il n'y aura pas des réponses
+
+1765
+01:43:21,960 --> 01:43:24,079
+cachées ailleurs qu'il faudra les trouver sur internet
+
+1766
+01:43:24,079 --> 01:43:25,680
+absolument pas
+
+1767
+01:43:25,680 --> 01:43:27,440
+donc
+
+1768
+01:43:27,440 --> 01:43:30,039
+voilà comment ça va se passer pour le
+
+1769
+01:43:30,039 --> 01:43:32,560
+pour le
+
+1770
+01:43:32,560 --> 01:43:35,440
+le visager
+
+1771
+01:43:35,440 --> 01:43:37,539
+est-ce que vous avez des questions ?
+
+1772
+01:43:37,539 --> 01:43:38,619
+avant que
+
+1773
+01:43:38,619 --> 01:43:41,460
+on termine par les 2-3 petites choses qu'on a à voir
+
+1774
+01:43:41,460 --> 01:43:42,960
+non il n'y a pas de questions ?
+
+1775
+01:43:43,840 --> 01:44:07,640
+Alors oui, Véro a demandé des cours ou visio sur les pathologies du bâtiment. Oui, c'est tout à fait prévu. Et d'ailleurs, Véro nous a posé une question en disant comment fait-on pour l'évaluation d'un prix lorsqu'on a un bien qui lui souffre de beaucoup de ces pathologies de bâtiment, éventuellement des fissures, etc.
+
+1776
+01:44:08,140 --> 01:44:11,280
+Alors, c'est plutôt une question que vous verrez éventuellement avec Laurent,
+
+1777
+01:44:11,400 --> 01:44:13,579
+parce que, comme je vous l'ai dit, il est plus pertinent que moi là-dessus,
+
+1778
+01:44:13,740 --> 01:44:17,320
+mais de manière simple, un bien qui a un gros défaut,
+
+1779
+01:44:17,440 --> 01:44:21,160
+qui est facilement reconnaissable et chiffrable.
+
+1780
+01:44:22,480 --> 01:44:26,280
+Il faut faire l'avis de valeur du bien sans ce défaut,
+
+1781
+01:44:26,280 --> 01:44:30,640
+parce que c'est difficile, je n'ai pas forcément dans le quartier 50 maisons
+
+1782
+01:44:30,640 --> 01:44:32,660
+qui ont le même défaut pour faire une comparaison.
+
+1783
+01:44:33,360 --> 01:44:37,460
+Eh bien, faites l'avis de valeur de ce bien sans ce défaut,
+
+1784
+01:44:37,640 --> 01:44:49,640
+Ensuite, obtenez des devis, au moins trois devis pour la réparation de ce ou de ces défauts.
+
+1785
+01:44:49,640 --> 01:45:00,640
+Et ensuite, on va négocier le prix de base en prenant en compte les devis de réparation de ces défauts qu'il faut obligatoirement réparer.
+
+1786
+01:45:01,180 --> 01:45:03,579
+Si c'est une question de goût, je n'aime pas la couleur de la salle de bain.
+
+1787
+01:45:03,579 --> 01:45:29,840
+Ce n'est pas une pathologie du bâtiment, ce n'est pas un défaut dont il faut absolument prendre le coup en compte. Par contre, effectivement, une maison dont il faut entièrement refaire la toiture, je prends cet exemple comme ça, on regarde quels sont les travaux de toiture impératifs à faire, combien ça coûte, et on va prendre ça soit en levier de négociation, soit directement à impacter sur le prix de vente.
+
+1788
+01:45:29,840 --> 01:45:31,640
+mais effectivement c'est plutôt des questions
+
+1789
+01:45:31,640 --> 01:45:33,539
+qu'il faut poser à Laurent, je pense qu'il vous donnera
+
+1790
+01:45:33,539 --> 01:45:35,920
+des réponses plus précises que les miennes
+
+1791
+01:45:35,920 --> 01:45:37,699
+et sur les honoraires de Viagé
+
+1792
+01:45:37,699 --> 01:45:39,900
+j'ai peut-être deux Viagé à récupérer
+
+1793
+01:45:39,900 --> 01:45:41,640
+alors les honoraires de Viagé c'est une question
+
+1794
+01:45:41,640 --> 01:45:43,860
+qu'on s'est posé avec Laurent, Laurent me l'a posé
+
+1795
+01:45:43,860 --> 01:45:45,699
+et on est en train de réfléchir
+
+1796
+01:45:45,699 --> 01:45:47,560
+nous-mêmes également
+
+1797
+01:45:47,560 --> 01:45:50,020
+et là il y a bien sûr
+
+1798
+01:45:50,020 --> 01:45:50,960
+Julien qui balance
+
+1799
+01:45:50,960 --> 01:45:53,900
+une tarjette à Camille
+
+1800
+01:45:53,900 --> 01:45:55,900
+en disant coaching avec Camille, prendre quelqu'un
+
+1801
+01:45:55,900 --> 01:45:57,420
+concerné par le Viagé, bam
+
+1802
+01:45:57,420 --> 01:45:59,199
+toujours Julien
+
+1803
+01:45:59,199 --> 01:46:00,300
+et Camille
+
+1804
+01:46:00,300 --> 01:46:03,460
+donc la question Guillaume sur les honoraires
+
+1805
+01:46:03,460 --> 01:46:05,119
+du viager, on se pose la question
+
+1806
+01:46:05,119 --> 01:46:06,019
+est-ce que
+
+1807
+01:46:06,019 --> 01:46:09,220
+on fait des grilles spéciales pour le viager
+
+1808
+01:46:09,220 --> 01:46:11,099
+ou pas
+
+1809
+01:46:11,099 --> 01:46:13,279
+on est en train d'étudier
+
+1810
+01:46:13,279 --> 01:46:14,579
+je suis en train de regarder
+
+1811
+01:46:14,579 --> 01:46:17,079
+quels sont les tarifs des viagers, des spécialistes
+
+1812
+01:46:17,079 --> 01:46:18,500
+comme Coste mais c'est pas le seul
+
+1813
+01:46:18,500 --> 01:46:21,279
+pour voir à peu près comment ça s'articule
+
+1814
+01:46:21,279 --> 01:46:23,019
+par rapport à des honoraires normaux
+
+1815
+01:46:23,019 --> 01:46:24,659
+les honoraires du viager
+
+1816
+01:46:24,659 --> 01:46:27,420
+se prennent par rapport à la valeur
+
+1817
+01:46:27,420 --> 01:46:28,899
+du bien
+
+1818
+01:46:28,899 --> 01:46:30,519
+la valeur vénale
+
+1819
+01:46:30,519 --> 01:46:32,679
+c'est à dire la valeur de marché
+
+1820
+01:46:32,679 --> 01:46:35,019
+la maison vaut 500 000 euros
+
+1821
+01:46:35,019 --> 01:46:36,179
+sur le marché aujourd'hui
+
+1822
+01:46:36,179 --> 01:46:38,619
+moins la décote viagère
+
+1823
+01:46:38,619 --> 01:46:40,939
+300 000 euros par exemple
+
+1824
+01:46:40,939 --> 01:46:42,359
+vous avez une maison de 500 000 euros
+
+1825
+01:46:42,359 --> 01:46:44,899
+mais sa valeur viagère quand on applique
+
+1826
+01:46:44,899 --> 01:46:46,659
+la décote parce que le monsieur va continuer
+
+1827
+01:46:46,659 --> 01:46:48,359
+à habiter dedans etc etc etc
+
+1828
+01:46:48,359 --> 01:46:50,359
+elle ne vaut plus que 300 000 euros
+
+1829
+01:46:50,359 --> 01:46:52,299
+c'est ça le prix de vente
+
+1830
+01:46:52,299 --> 01:46:54,699
+et c'est là dessus que sont calculés nos honoraires
+
+1831
+01:46:54,699 --> 01:46:56,859
+est-ce qu'il faut qu'on ait des grilles d'honoraires
+
+1832
+01:46:56,859 --> 01:46:58,239
+un peu plus costauds ou pas
+
+1833
+01:46:58,239 --> 01:47:17,859
+C'est ce que je suis en train de regarder et d'étudier, dont on reparlera au cours de ces visios futures. Je n'ai pas encore la réponse. Donc, on regarde ça. Je vous invite d'ailleurs, si vous êtes intéressé, à regarder un petit peu ce qui pourrait se faire dans votre secteur. Mais a priori, on appliquerait votre grille d'honoraires à la valeur viagère.
+
+1834
+01:47:17,859 --> 01:47:20,359
+est-ce qu'on va s'adapter
+
+1835
+01:47:20,359 --> 01:47:21,460
+et faire des grilles un peu différentes
+
+1836
+01:47:21,460 --> 01:47:22,659
+pourquoi pas
+
+1837
+01:47:22,659 --> 01:47:26,079
+j'y ai pensé, c'est une des premières questions
+
+1838
+01:47:26,079 --> 01:47:27,179
+qui est venue à l'esprit de Laurent
+
+1839
+01:47:27,179 --> 01:47:29,859
+c'est une question qui vient tout de suite à l'esprit de Guillaume
+
+1840
+01:47:29,859 --> 01:47:31,659
+ce qui prouve bien qu'elle est pertinente cette question
+
+1841
+01:47:31,659 --> 01:47:33,739
+donc on regarde
+
+1842
+01:47:33,739 --> 01:47:35,779
+on se demande et puis on regarde ça
+
+1843
+01:47:35,779 --> 01:47:38,099
+j'ai trouvé Gestimo pour avoir des questions
+
+1844
+01:47:38,099 --> 01:47:40,019
+prononcées sur la vie de valeur et c'est très bien
+
+1845
+01:47:40,019 --> 01:47:42,199
+nous dit Vérot, j'ai deux couvreurs
+
+1846
+01:47:42,199 --> 01:47:44,479
+à la maison, ah bah oui, son mari est couvreur
+
+1847
+01:47:44,479 --> 01:47:46,119
+et Vérot, c'est normal
+
+1848
+01:47:46,119 --> 01:47:48,920
+donc voilà, s'il n'y a pas plus de questions
+
+1849
+01:47:48,920 --> 01:47:50,319
+là-dessus sur le viagé
+
+1850
+01:47:50,319 --> 01:47:53,119
+ma voisine
+
+1851
+01:47:53,119 --> 01:47:55,059
+vient de signer un viagé, c'est dommage qu'elle n'ait pas fait
+
+1852
+01:47:55,059 --> 01:47:57,260
+avec nous, alors juste avant de partir
+
+1853
+01:47:57,260 --> 01:47:58,960
+les amis, je voulais vous montrer
+
+1854
+01:47:58,960 --> 01:48:00,380
+deux petites choses
+
+1855
+01:48:00,380 --> 01:48:02,699
+qui ont été faites par
+
+1856
+01:48:02,699 --> 01:48:04,579
+Cathy, Cathy du
+
+1857
+01:48:04,579 --> 01:48:06,920
+Pas-de-Calais, elle nous a envoyé les numéros de mandat
+
+1858
+01:48:06,920 --> 01:48:09,059
+tout à l'heure et je l'en remercie
+
+1859
+01:48:09,059 --> 01:48:10,920
+parce que je lui avais demandé quand on était au téléphone
+
+1860
+01:48:10,920 --> 01:48:13,279
+ensemble, elle me les a envoyés
+
+1861
+01:48:13,279 --> 01:48:14,479
+alors c'est ici
+
+1862
+01:48:14,479 --> 01:48:17,739
+Cathy, voilà les numéros de mandat.
+
+1863
+01:48:26,359 --> 01:48:27,619
+Première chose.
+
+1864
+01:48:36,399 --> 01:48:42,639
+Alors, vous allez me dire, Cathy, c'est recyclé dans la vente de vêtements pour hommes.
+
+1865
+01:48:44,479 --> 01:48:52,039
+et pour femmes donc j'ai vu là on est dans la section entrée et à la section hommes ici
+
+1866
+01:48:52,039 --> 01:48:58,579
+c'est pour les hommes ça non c'est des hommes les hommes du pas de calais
+
+1867
+01:48:58,579 --> 01:49:03,739
+après on va voir que il ya une section
+
+1868
+01:49:03,739 --> 01:49:08,000
+et plus pour les hommes
+
+1869
+01:49:08,000 --> 01:49:11,119
+alors
+
+1870
+01:49:11,119 --> 01:49:15,340
+deuxième
+
+1871
+01:49:15,340 --> 01:49:18,559
+quotidien
+
+1872
+01:49:18,559 --> 01:49:22,380
+envoyé par Cathy
+
+1873
+01:49:22,380 --> 01:49:27,680
+boum
+
+1874
+01:49:27,680 --> 01:49:29,880
+on arrive
+
+1875
+01:49:29,880 --> 01:49:39,460
+est-ce que quelqu'un peut me dire
+
+1876
+01:49:39,460 --> 01:49:40,680
+ce que c'est que ces trucs là
+
+1877
+01:49:40,680 --> 01:49:44,760
+Est-ce que Cathy commercialise désormais des magasins de fringues ? Non.
+
+1878
+01:49:55,020 --> 01:49:59,480
+Ah oui, Guillaume est en train de me parler d'un petit bug sur l'affichage des pages.
+
+1879
+01:49:59,800 --> 01:50:02,100
+Ce sera normalement rétabli demain, Guillaume, en théorie.
+
+1880
+01:50:02,440 --> 01:50:06,840
+Ça a été déjà signalé et normalement, je pense que ce sera rétabli demain.
+
+1881
+01:50:08,020 --> 01:50:09,180
+Donc, ça a bien été pris en compte.
+
+1882
+01:50:10,180 --> 01:50:12,520
+Ah, j'ai fait 15 ans de prêt-à-porter, nous dit Cathy H.
+
+1883
+01:50:12,520 --> 01:50:12,960
+Je ne savais pas.
+
+1884
+01:50:13,079 --> 01:50:14,220
+On va croire qu'elle y retourne.
+
+1885
+01:50:15,400 --> 01:50:17,000
+Cathy a fait ce que Nicolas a demandé.
+
+1886
+01:50:17,119 --> 01:50:17,940
+Oui, c'est exactement.
+
+1887
+01:50:18,140 --> 01:50:19,520
+Oui, move avec les commerçants.
+
+1888
+01:50:20,159 --> 01:50:20,780
+Vous le voyez.
+
+1889
+01:50:23,060 --> 01:50:26,140
+C'est exactement ça qu'il faut faire.
+
+1890
+01:50:26,760 --> 01:50:28,900
+Alors, là, il manque une chose qui sera rajoutée bientôt.
+
+1891
+01:50:29,020 --> 01:50:31,119
+Il y aura ici les coordonnées de Cathy, en bas à gauche.
+
+1892
+01:50:31,500 --> 01:50:33,220
+Quand je dis en bas à gauche, c'est…
+
+1893
+01:50:34,720 --> 01:50:35,360
+Ça ne marche plus.
+
+1894
+01:50:36,600 --> 01:50:36,840
+Voilà.
+
+1895
+01:50:37,740 --> 01:50:39,039
+Ici, là, en bas à gauche.
+
+1896
+01:50:39,180 --> 01:50:40,700
+la voyez ma petite souris
+
+1897
+01:50:40,700 --> 01:50:43,640
+il y aura les coordonnées directes de Cathy
+
+1898
+01:50:43,640 --> 01:50:45,159
+pour l'instant ce n'est pas encore le cas
+
+1899
+01:50:45,159 --> 01:50:46,460
+mais on va mettre ça en place
+
+1900
+01:50:46,460 --> 01:50:49,100
+c'est exactement ça que vous devez faire
+
+1901
+01:50:49,100 --> 01:50:51,119
+vous devez aller
+
+1902
+01:50:51,119 --> 01:50:51,760
+faire
+
+1903
+01:50:51,760 --> 01:50:57,520
+ce travail d'aller rencontrer
+
+1904
+01:50:57,520 --> 01:50:59,820
+les commerçants de votre secteur
+
+1905
+01:50:59,820 --> 01:51:01,560
+alors les commerçants
+
+1906
+01:51:01,560 --> 01:51:03,039
+les musées
+
+1907
+01:51:03,039 --> 01:51:05,579
+la salle polyvalente de la mairie
+
+1908
+01:51:05,579 --> 01:51:08,960
+le salon de coiffure
+
+1909
+01:51:08,960 --> 01:51:11,020
+la belle église, le club
+
+1910
+01:51:11,020 --> 01:51:13,079
+de badminton, le dojo
+
+1911
+01:51:13,079 --> 01:51:15,060
+de karaté, que sais-je encore
+
+1912
+01:51:15,060 --> 01:51:16,840
+je sais que Cathy
+
+1913
+01:51:16,840 --> 01:51:18,619
+est en train de faire avec Julien
+
+1914
+01:51:18,619 --> 01:51:20,399
+une très belle abbaye, également
+
+1915
+01:51:20,399 --> 01:51:24,159
+à mon avis ça, ça va
+
+1916
+01:51:24,159 --> 01:51:25,560
+je vais vous montrer si
+
+1917
+01:51:25,560 --> 01:51:27,399
+alors attendez
+
+1918
+01:51:27,399 --> 01:51:30,199
+hop
+
+1919
+01:51:30,199 --> 01:51:32,460
+l'abbaye de Belleval, voilà je cherchais
+
+1920
+01:51:32,460 --> 01:51:34,119
+je ne me souvenais plus du nom
+
+1921
+01:51:34,119 --> 01:51:40,359
+regardez ce qui est en préparation
+
+1922
+01:51:40,359 --> 01:51:51,579
+alors bien entendu il n'y aura pas toute l'abbaye
+
+1923
+01:51:51,579 --> 01:51:53,039
+parce qu'elle est encore
+
+1924
+01:51:53,039 --> 01:51:55,319
+exploitée par les sœurs etc
+
+1925
+01:51:55,319 --> 01:51:57,899
+mais ils sont en train de préparer
+
+1926
+01:51:57,899 --> 01:51:59,519
+une visite virtuelle de cette
+
+1927
+01:51:59,519 --> 01:52:00,399
+belle abbaye
+
+1928
+01:52:00,399 --> 01:52:02,939
+félicitations
+
+1929
+01:52:02,939 --> 01:52:04,279
+Chaque fois vous
+
+1930
+01:52:04,279 --> 01:52:07,079
+Il faut impérativement
+
+1931
+01:52:07,079 --> 01:52:09,219
+Que vous vous lanciez dans la création
+
+1932
+01:52:09,219 --> 01:52:10,419
+De maquettes interactives
+
+1933
+01:52:10,419 --> 01:52:12,799
+Pour des gens qui sont autour de vous
+
+1934
+01:52:12,799 --> 01:52:14,960
+Chez qui vous pourrez mettre
+
+1935
+01:52:14,960 --> 01:52:16,359
+Votre petit QR code WeMove
+
+1936
+01:52:16,359 --> 01:52:17,339
+Bien sûr
+
+1937
+01:52:17,339 --> 01:52:20,179
+Des gens que vous
+
+1938
+01:52:20,179 --> 01:52:22,679
+Rentrez dans votre WeMove
+
+1939
+01:52:22,679 --> 01:52:24,979
+Grâce à ce
+
+1940
+01:52:24,979 --> 01:52:26,539
+Cadeau que vous leur offrez
+
+1941
+01:52:26,539 --> 01:52:29,159
+Une visite virtuelle de leur commerce
+
+1942
+01:52:29,159 --> 01:52:30,960
+De leur lieu
+
+1943
+01:52:30,960 --> 01:52:33,119
+culturel, associatif
+
+1944
+01:52:33,119 --> 01:52:34,500
+n'importe quoi
+
+1945
+01:52:34,500 --> 01:52:36,100
+n'importe quoi
+
+1946
+01:52:36,100 --> 01:52:39,060
+c'est un cadeau que vous leur faites
+
+1947
+01:52:39,060 --> 01:52:40,399
+gratuitement
+
+1948
+01:52:40,399 --> 01:52:42,739
+on affiche ça, vous le voyez
+
+1949
+01:52:42,739 --> 01:52:44,739
+sur une jolie page
+
+1950
+01:52:44,739 --> 01:52:46,980
+sur laquelle
+
+1951
+01:52:46,980 --> 01:52:48,600
+il n'y a pas un prix, un machin
+
+1952
+01:52:48,600 --> 01:52:50,180
+c'est vraiment une page de visite virtuelle
+
+1953
+01:52:50,180 --> 01:52:52,720
+on leur donne ce lien qui est ici
+
+1954
+01:52:52,720 --> 01:52:54,260
+qu'ils peuvent mettre sur
+
+1955
+01:52:54,260 --> 01:52:56,560
+leur Facebook
+
+1956
+01:52:56,560 --> 01:52:59,079
+leur Instagram, leur n'importe quoi
+
+1957
+01:52:59,079 --> 01:53:00,800
+ils peuvent eux aussi
+
+1958
+01:53:00,800 --> 01:53:03,060
+d'ailleurs en faire un QR code pour mettre
+
+1959
+01:53:03,060 --> 01:53:04,699
+je ne sais pas où, où ils veulent
+
+1960
+01:53:04,699 --> 01:53:06,579
+pour mettre sur leur voiture
+
+1961
+01:53:06,579 --> 01:53:08,640
+s'ils veulent, c'est un cadeau
+
+1962
+01:53:08,640 --> 01:53:11,060
+que vous leur faites en échange
+
+1963
+01:53:11,060 --> 01:53:12,960
+d'un nouveau partenariat
+
+1964
+01:53:12,960 --> 01:53:15,000
+WeMove, ils ont tout à y
+
+1965
+01:53:15,000 --> 01:53:16,800
+gagner, ils gagnent une belle visite
+
+1966
+01:53:16,800 --> 01:53:18,680
+virtuelle de leur commerce, gratuite
+
+1967
+01:53:18,680 --> 01:53:21,060
+et ils gagnent
+
+1968
+01:53:21,060 --> 01:53:22,380
+la possibilité de gagner
+
+1969
+01:53:22,380 --> 01:53:24,699
+de remporter plus tard de l'argent sur les
+
+1970
+01:53:24,699 --> 01:53:26,860
+mandats qu'ils vous envoient, c'est quand même
+
+1971
+01:53:26,860 --> 01:53:28,220
+un deal en or massif
+
+1972
+01:53:28,220 --> 01:53:29,900
+pour ne pas dire en diamant
+
+1973
+01:53:30,800 --> 01:53:33,199
+faite exactement
+
+1974
+01:53:33,199 --> 01:53:33,960
+comme Cathy
+
+1975
+01:53:33,960 --> 01:53:36,279
+elle a fait ça cette semaine
+
+1976
+01:53:36,279 --> 01:53:38,239
+ces deux trucs là elle les a fait cette semaine
+
+1977
+01:53:38,239 --> 01:53:39,539
+donc vous voyez
+
+1978
+01:53:39,539 --> 01:53:41,579
+c'est à votre portée
+
+1979
+01:53:41,579 --> 01:53:43,619
+et elle a pas chômé, bravo à elle
+
+1980
+01:53:43,619 --> 01:53:44,960
+alors d'ailleurs je remarque Cathy
+
+1981
+01:53:44,960 --> 01:53:47,539
+l'appareil que vous utilisez pour faire les 360
+
+1982
+01:53:47,539 --> 01:53:48,960
+il est soit sale
+
+1983
+01:53:48,960 --> 01:53:51,860
+soit abîmé à cet endroit là sur une des lentilles
+
+1984
+01:53:51,860 --> 01:53:53,860
+regardez, on voit que sur toutes les photos
+
+1985
+01:53:53,860 --> 01:53:55,560
+il y a une zone qui est un peu floue
+
+1986
+01:53:55,560 --> 01:53:57,060
+ça peut être
+
+1987
+01:53:57,060 --> 01:53:58,960
+une grosse trace de doigt
+
+1988
+01:53:58,960 --> 01:54:01,359
+une traînée un petit peu sale
+
+1989
+01:54:01,359 --> 01:54:03,340
+ça peut être également
+
+1990
+01:54:03,340 --> 01:54:04,899
+une rayure dessus, je ne sais pas
+
+1991
+01:54:04,899 --> 01:54:06,720
+donc je vous invite à regarder ça
+
+1992
+01:54:06,720 --> 01:54:09,199
+parce que vous voyez, si on va regarder ailleurs sur les autres photos
+
+1993
+01:54:09,199 --> 01:54:10,899
+on le voit aussi
+
+1994
+01:54:10,899 --> 01:54:12,840
+ici, là, vous voyez
+
+1995
+01:54:12,840 --> 01:54:14,239
+il y a toute cette bande là
+
+1996
+01:54:14,239 --> 01:54:16,880
+c'est le truc
+
+1997
+01:54:16,880 --> 01:54:17,480
+qui est un petit peu
+
+1998
+01:54:17,480 --> 01:54:20,899
+un petit peu abîmé
+
+1999
+01:54:20,899 --> 01:54:23,079
+Guillaume demande
+
+2000
+01:54:23,079 --> 01:54:24,779
+est-ce qu'il est possible de m'envoyer des exemples
+
+2001
+01:54:24,779 --> 01:54:26,920
+de liens de maquettes interactives de commerce pour que je puisse
+
+2002
+01:54:26,920 --> 01:54:28,180
+proposer, bien sûr
+
+2003
+01:54:28,960 --> 01:54:39,680
+Je vous en envoie un premier, mon cher Guillaume. Le voici. Et puis je vous en envoie un deuxième, celui que j'ai montré juste avant, à Saint-Paul.
+
+2004
+01:54:41,680 --> 01:54:55,640
+Oh, je fais n'importe quoi ! Voilà. Et le voici, mon cher Guillaume. Vous en avez deux. Si on en a d'autres, on vous en enverra éventuellement d'autres, il n'y a pas de problème.
+
+2005
+01:54:55,640 --> 01:54:59,560
+Cathy fait exactement
+
+2006
+01:54:59,560 --> 01:55:00,760
+ce qu'il faut faire
+
+2007
+01:55:00,760 --> 01:55:02,380
+bravo
+
+2008
+01:55:02,380 --> 01:55:04,460
+je disais tout à l'heure à Julien
+
+2009
+01:55:04,460 --> 01:55:06,680
+il va dire ça va encore avec les faillots du Pas-de-Calais
+
+2010
+01:55:06,680 --> 01:55:08,579
+et le lèche-botte
+
+2011
+01:55:08,579 --> 01:55:11,440
+c'est exactement ça qu'il faut faire
+
+2012
+01:55:11,440 --> 01:55:13,220
+là ce sont deux magasins de vêtements
+
+2013
+01:55:13,220 --> 01:55:15,180
+Julien avait fait un petit resto l'autre jour
+
+2014
+01:55:15,180 --> 01:55:17,039
+il faut faire les belles églises
+
+2015
+01:55:17,039 --> 01:55:17,780
+il faut faire
+
+2016
+01:55:17,780 --> 01:55:20,500
+je voyais avec Guy
+
+2017
+01:55:20,500 --> 01:55:23,400
+en début de semaine, mardi on en discutait
+
+2018
+01:55:23,400 --> 01:55:24,780
+je lui disais
+
+2019
+01:55:24,779 --> 01:55:26,859
+à côté de chez vous, à Bain-de-Bretagne
+
+2020
+01:55:26,859 --> 01:55:29,079
+il y a, on voyait un beau truc
+
+2021
+01:55:29,079 --> 01:55:29,979
+où ils faisaient des
+
+2022
+01:55:29,979 --> 01:55:33,199
+jites, des chambres d'hôtes ou je sais pas quoi
+
+2023
+01:55:33,199 --> 01:55:35,119
+c'est idéal les jites
+
+2024
+01:55:35,119 --> 01:55:37,380
+et chambres d'hôtes là-bas, idéal
+
+2025
+01:55:37,380 --> 01:55:38,859
+parce qu'ils ont besoin
+
+2026
+01:55:38,859 --> 01:55:41,039
+eux, d'une belle visite virtuelle
+
+2027
+01:55:41,039 --> 01:55:42,920
+de leur chambre, de la piscine
+
+2028
+01:55:42,920 --> 01:55:44,819
+du machin, pour mettre sur leur site internet
+
+2029
+01:55:44,819 --> 01:55:47,239
+sur Instagram, sur Facebook, sur Booking
+
+2030
+01:55:47,239 --> 01:55:48,679
+ou je sais pas quoi, ils en ont besoin
+
+2031
+01:55:48,679 --> 01:55:50,759
+ça coûte cher, ils savent pas où le faire
+
+2032
+01:55:50,759 --> 01:55:53,300
+ils y ont pas pensé, vous, vous arrivez, vous leur faites ce cadeau là
+
+2033
+01:55:53,300 --> 01:55:54,760
+gratuit, gratuit
+
+2034
+01:55:54,760 --> 01:55:57,600
+alors si j'apprends qu'il y a un malin parmi vous
+
+2035
+01:55:57,600 --> 01:55:59,119
+qui vend en douce
+
+2036
+01:55:59,119 --> 01:56:00,360
+ça va mal aller
+
+2037
+01:56:00,360 --> 01:56:02,500
+donc
+
+2038
+01:56:02,500 --> 01:56:04,560
+je vous en prie
+
+2039
+01:56:04,560 --> 01:56:06,980
+je lui ai envoyé par mail, il nous remercie
+
+2040
+01:56:06,980 --> 01:56:09,360
+ça c'est de l'efficacité
+
+2041
+01:56:09,360 --> 01:56:10,180
+donc
+
+2042
+01:56:10,180 --> 01:56:13,420
+Cathy fait là exactement
+
+2043
+01:56:13,420 --> 01:56:15,680
+ce qu'il faut faire, suivez son exemple
+
+2044
+01:56:15,680 --> 01:56:17,579
+suivez son exemple
+
+2045
+01:56:17,579 --> 01:56:21,619
+c'est vraiment comme ça
+
+2046
+01:56:21,619 --> 01:56:25,079
+que vous allez développer votre notoriété locale.
+
+2047
+01:56:25,579 --> 01:56:29,460
+Et là, aucun de vos concurrents n'a accès à ça.
+
+2048
+01:56:29,760 --> 01:56:30,260
+Ce n'est pas vrai.
+
+2049
+01:56:30,880 --> 01:56:31,939
+On a toujours des agents qui disent,
+
+2050
+01:56:32,220 --> 01:56:35,380
+« Oh, mais les autres, ils font aussi, les autres, ils font ça. »
+
+2051
+01:56:35,380 --> 01:56:35,920
+Non, ce n'est pas vrai.
+
+2052
+01:56:36,599 --> 01:56:38,420
+Vous ne pouvez pas montrer un agent immobilier,
+
+2053
+01:56:38,539 --> 01:56:41,460
+un négociateur immobilier qui va offrir des visites virtuelles
+
+2054
+01:56:41,460 --> 01:56:44,779
+aux commerçants, aux tissus associatifs locales,
+
+2055
+01:56:44,779 --> 01:56:47,300
+gratuitement, pour faire un partenariat WeMove.
+
+2056
+01:56:47,439 --> 01:56:49,220
+Ne venez pas me raconter ça, ce n'est pas vrai.
+
+2057
+01:56:49,840 --> 01:56:51,000
+Parce qu'alors là, j'attends de voir.
+
+2058
+01:56:51,619 --> 01:56:53,899
+voilà ce que vous devez
+
+2059
+01:56:53,899 --> 01:56:56,359
+tous faire
+
+2060
+01:56:56,359 --> 01:56:57,880
+ça va vous apporter
+
+2061
+01:56:57,880 --> 01:56:59,300
+énormément
+
+2062
+01:56:59,300 --> 01:57:00,899
+je vous disais il y a un instant
+
+2063
+01:57:00,899 --> 01:57:04,039
+le viager c'est peut-être pas ça qui va multiplier votre chiffre d'affaires
+
+2064
+01:57:04,039 --> 01:57:05,380
+par 50, on le voit
+
+2065
+01:57:05,380 --> 01:57:07,859
+par contre vous pourrez faire quelques opportunités
+
+2066
+01:57:07,859 --> 01:57:08,979
+par ci par là, pourquoi pas
+
+2067
+01:57:08,979 --> 01:57:11,979
+ça par contre, les visites virtuelles
+
+2068
+01:57:11,979 --> 01:57:14,619
+associées à WeMove
+
+2069
+01:57:14,619 --> 01:57:16,359
+c'est un levier
+
+2070
+01:57:16,359 --> 01:57:18,319
+de rentrée de mandat de qualité
+
+2071
+01:57:18,319 --> 01:57:20,099
+qui lui peut vraiment
+
+2072
+01:57:20,100 --> 01:57:22,320
+vous permet de doubler votre chiffre d'affaires
+
+2073
+01:57:22,320 --> 01:57:23,840
+ça par contre c'est une réalité
+
+2074
+01:57:23,840 --> 01:57:26,280
+n'oubliez pas que Julien, l'année dernière
+
+2075
+01:57:26,280 --> 01:57:27,820
+Julien, le faillot
+
+2076
+01:57:27,820 --> 01:57:30,560
+l'année dernière, sans utiliser
+
+2077
+01:57:30,560 --> 01:57:31,740
+les visites virtuelles aux commerçants
+
+2078
+01:57:31,740 --> 01:57:34,260
+juste en étant hyper proactif sur WeMove
+
+2079
+01:57:34,260 --> 01:57:37,100
+il a fait 7 actes authentiques
+
+2080
+01:57:37,100 --> 01:57:38,720
+qu'il n'aurait pas fait
+
+2081
+01:57:38,720 --> 01:57:40,400
+j'ai pas dit 7 mandats
+
+2082
+01:57:40,400 --> 01:57:42,000
+7 ventes
+
+2083
+01:57:42,000 --> 01:57:44,620
+7 actes authentiques qu'il n'aurait pas fait
+
+2084
+01:57:44,620 --> 01:57:46,440
+s'il n'avait pas utilisé WeMove
+
+2085
+01:57:46,440 --> 01:57:48,640
+qui parmi vous
+
+2086
+01:57:48,640 --> 01:57:51,160
+peut dire, cette 27 actes authentiques
+
+2087
+01:57:51,160 --> 01:57:52,680
+oh ça change pas grand chose
+
+2088
+01:57:52,680 --> 01:57:54,200
+dans un chiffre d'affaires, tiens
+
+2089
+01:57:54,200 --> 01:57:56,820
+bien sûr
+
+2090
+01:57:56,820 --> 01:57:57,560
+que ça change tout
+
+2091
+01:57:57,560 --> 01:58:00,619
+dernière chose avant de partir
+
+2092
+01:58:00,619 --> 01:58:02,880
+je sais pas si vous l'avez
+
+2093
+01:58:02,880 --> 01:58:04,900
+vu, si ça s'est bien présenté
+
+2094
+01:58:04,900 --> 01:58:06,000
+à vous, je sais pas quoi
+
+2095
+01:58:06,000 --> 01:58:08,840
+mais tous ceux d'entre vous qui se sont inscrits
+
+2096
+01:58:08,840 --> 01:58:11,000
+avec le lien d'inscription
+
+2097
+01:58:11,000 --> 01:58:12,560
+de la vision de ce soir
+
+2098
+01:58:12,560 --> 01:58:14,600
+j'espère que ça va marcher, on va voir
+
+2099
+01:58:14,600 --> 01:58:16,619
+ils sont normalement
+
+2100
+01:58:16,619 --> 01:58:18,659
+inscrit à toutes les visios
+
+2101
+01:58:18,659 --> 01:58:20,140
+du jeudi jusqu'à fin juin
+
+2102
+01:58:20,140 --> 01:58:22,800
+on a enfin réussi à faire fonctionner
+
+2103
+01:58:22,800 --> 01:58:24,859
+cette option de l'inscription
+
+2104
+01:58:24,859 --> 01:58:26,939
+unique à toutes
+
+2105
+01:58:26,939 --> 01:58:28,699
+les visios questions réponses du jeudi
+
+2106
+01:58:28,699 --> 01:58:30,739
+de fin juin, alors c'est pas pour
+
+2107
+01:58:30,739 --> 01:58:33,059
+les autres visios sur le viager, sur je sais pas quoi
+
+2108
+01:58:33,059 --> 01:58:34,819
+pour les visios
+
+2109
+01:58:34,819 --> 01:58:36,659
+questions réponses, normalement vous êtes inscrit
+
+2110
+01:58:36,659 --> 01:58:39,059
+une fois jusqu'à fin juin
+
+2111
+01:58:39,059 --> 01:58:40,779
+ça va prendre en compte les autres visios
+
+2112
+01:58:40,779 --> 01:58:42,739
+du jeudi, mais que les
+
+2113
+01:58:42,739 --> 01:58:44,760
+visios du jeudi, on va voir si
+
+2114
+01:58:44,760 --> 01:58:46,059
+ça marche, normalement ça a l'air
+
+2115
+01:58:46,619 --> 01:58:47,760
+J'espère bien.
+
+2116
+01:58:50,099 --> 01:58:53,439
+70 retraités à la chorale de Colombes, c'est un bon filon pour le viagé.
+
+2117
+01:58:53,659 --> 01:58:55,559
+C'est un excellent filon pour le viagé.
+
+2118
+01:58:55,720 --> 01:59:02,180
+Alors, il faut que vous sachiez que dans la visio, justement, sur le viagé que j'ai préparé,
+
+2119
+01:59:03,180 --> 01:59:08,979
+il y a une partie, effectivement, dans laquelle on voit quelles sont les actions que vous pouvez mettre en œuvre,
+
+2120
+01:59:08,979 --> 01:59:10,699
+les actions concrètes
+
+2121
+01:59:10,699 --> 01:59:13,759
+que vous pouvez mettre en place
+
+2122
+01:59:13,759 --> 01:59:15,019
+pour essayer
+
+2123
+01:59:15,019 --> 01:59:17,579
+d'aller chercher des viagers
+
+2124
+01:59:17,579 --> 01:59:19,779
+excusez-moi
+
+2125
+01:59:19,779 --> 01:59:21,179
+et effectivement
+
+2126
+01:59:21,179 --> 01:59:22,279
+aller voir
+
+2127
+01:59:22,279 --> 01:59:26,099
+les retraités de la chorale de Colombe
+
+2128
+01:59:26,099 --> 01:59:27,659
+comme d'autres actions
+
+2129
+01:59:27,659 --> 01:59:29,719
+ça peut être une excellente
+
+2130
+01:59:29,719 --> 01:59:30,619
+manière de faire
+
+2131
+01:59:30,619 --> 01:59:31,799
+oui absolument
+
+2132
+01:59:31,799 --> 01:59:33,839
+à bientôt Hugues qui nous quitte
+
+2133
+01:59:33,839 --> 01:59:35,839
+visio drone de l'abbaye aussi
+
+2134
+01:59:35,839 --> 01:59:37,699
+on pourrait bien sûr absolument
+
+2135
+01:59:37,699 --> 01:59:39,819
+absolument, j'ai proposé d'ailleurs
+
+2136
+01:59:39,819 --> 01:59:41,579
+à Julien et Cathy
+
+2137
+01:59:41,579 --> 01:59:43,059
+lorsque je viendrai la prochaine fois
+
+2138
+01:59:43,059 --> 01:59:45,599
+chez eux dans le coin, d'aller faire
+
+2139
+01:59:45,599 --> 01:59:47,519
+des belles photos de drones éventuellement
+
+2140
+01:59:47,519 --> 01:59:49,739
+de l'abbaye, alors vous voyez qu'ils en ont déjà
+
+2141
+01:59:49,739 --> 01:59:51,179
+apparemment d'après ce que j'ai vu sur internet
+
+2142
+01:59:51,179 --> 01:59:53,460
+peut-être qu'on peut en faire d'autres, je ne sais pas
+
+2143
+01:59:53,460 --> 01:59:55,460
+en tout cas on le fera avec beaucoup de plaisir
+
+2144
+01:59:55,460 --> 01:59:56,260
+parce que moi vous savez
+
+2145
+01:59:56,260 --> 01:59:59,619
+vous me dites un vieux château médiéval
+
+2146
+01:59:59,619 --> 02:00:01,359
+une abbaye
+
+2147
+02:00:01,359 --> 02:00:02,159
+une
+
+2148
+02:00:02,159 --> 02:00:05,119
+une abbassiale, une église etc
+
+2149
+02:00:05,119 --> 02:00:07,260
+vous savez j'accours, je galope
+
+2150
+02:00:07,260 --> 02:00:09,680
+une cathédrale, un machin, j'arrive, j'arrive
+
+2151
+02:00:09,680 --> 02:00:11,520
+j'arrive, je laisse tout tomber
+
+2152
+02:00:11,520 --> 02:00:12,280
+et je débarque
+
+2153
+02:00:12,280 --> 02:00:15,680
+donc je dirais hyper hyper hyper
+
+2154
+02:00:15,680 --> 02:00:17,460
+volontiers. Est-ce que vous pouvez mettre les deux liens
+
+2155
+02:00:17,460 --> 02:00:19,460
+dans le chat ? Ah oui, oui, oui
+
+2156
+02:00:19,460 --> 02:00:21,780
+c'est une très bonne idée Guy, alors attendez
+
+2157
+02:00:21,780 --> 02:00:23,800
+je vais récupérer les liens que j'ai envoyés
+
+2158
+02:00:23,800 --> 02:00:25,600
+il y a un instant à Guillaume
+
+2159
+02:00:25,600 --> 02:00:27,880
+et je les envoie dans le chat
+
+2160
+02:00:27,880 --> 02:00:29,340
+pif, paf, pouf, clac
+
+2161
+02:00:29,340 --> 02:00:31,600
+le chat, il est là
+
+2162
+02:00:31,600 --> 02:00:33,480
+hop, les voici
+
+2163
+02:00:33,480 --> 02:00:35,760
+les visios viagées
+
+2164
+02:00:35,760 --> 02:00:38,460
+seront-elles éligibles, loi, allure ?
+
+2165
+02:00:38,460 --> 02:00:39,960
+Oui, absolument.
+
+2166
+02:00:40,320 --> 02:00:42,060
+Elles seront éligibles, loi, allure.
+
+2167
+02:00:42,619 --> 02:00:43,600
+Mes visios à moi
+
+2168
+02:00:43,600 --> 02:00:45,420
+et les visios de Laurent sur le Viagé
+
+2169
+02:00:45,420 --> 02:00:47,000
+seront éligibles, loi, allure ?
+
+2170
+02:00:47,000 --> 02:00:48,300
+Absolument, tout à fait.
+
+2171
+02:00:50,000 --> 02:00:51,640
+Avant de signer mes contrats cette semaine,
+
+2172
+02:00:51,780 --> 02:00:53,199
+pourriez-vous me dire si j'estime
+
+2173
+02:00:53,199 --> 02:00:55,060
+45 euros par mois, estime complète ?
+
+2174
+02:00:55,060 --> 02:00:56,060
+Ah, je ne peux pas vous dire comme ça.
+
+2175
+02:00:56,440 --> 02:00:58,539
+Envoyez à l'animation les éléments verrous
+
+2176
+02:00:58,539 --> 02:00:59,780
+et je regarde demain si vous voulez.
+
+2177
+02:01:00,739 --> 02:01:01,560
+Là, je ne peux pas vous dire comme ça,
+
+2178
+02:01:01,560 --> 02:01:02,539
+je n'y connais pas, j'estime.
+
+2179
+02:01:04,400 --> 02:01:05,699
+Envoyez tout ce que vous avez à l'animation
+
+2180
+02:01:05,699 --> 02:01:07,699
+et je regarde demain, je vous le promets.
+
+2181
+02:01:09,099 --> 02:01:10,539
+Est-ce qu'on a tout vu ?
+
+2182
+02:01:10,539 --> 02:01:11,859
+Oui ?
+
+2183
+02:01:11,859 --> 02:01:14,199
+Bon, regardez, ce soir, je vous laisse à peu près à l'heure.
+
+2184
+02:01:14,639 --> 02:01:15,359
+À peu près à l'heure.
+
+2185
+02:01:15,460 --> 02:01:17,220
+En tout cas, bravo Cathy.
+
+2186
+02:01:17,559 --> 02:01:19,659
+Cathy, c'est le bon élève de la semaine.
+
+2187
+02:01:20,300 --> 02:01:25,319
+30 points pour Gryffondor, hop, pour ses deux visios de magasin.
+
+2188
+02:01:25,939 --> 02:01:29,760
+Jetez un petit coup d'œil, Cathy, à votre appareil de prise de vue
+
+2189
+02:01:29,760 --> 02:01:32,260
+parce que vous voyez, il y a cette espèce de zone-là un peu floue.
+
+2190
+02:01:32,260 --> 02:01:35,000
+soit votre appareil est rayé
+
+2191
+02:01:35,000 --> 02:01:37,180
+soit tout simplement il est sale
+
+2192
+02:01:37,180 --> 02:01:38,039
+à cet endroit là
+
+2193
+02:01:38,039 --> 02:01:39,960
+ça peut être tout simplement qu'il n'est pas très propre
+
+2194
+02:01:39,960 --> 02:01:41,739
+il suffit de bien l'essuyer et de bien le nettoyer
+
+2195
+02:01:41,739 --> 02:01:44,300
+en tout cas vérifiez
+
+2196
+02:01:44,300 --> 02:01:46,920
+parce qu'on voit clairement qu'il y a un petit défaut là dessus
+
+2197
+02:01:46,920 --> 02:01:47,940
+mais c'est pas grave
+
+2198
+02:01:47,940 --> 02:01:50,140
+là dessus d'ailleurs vous savez
+
+2199
+02:01:50,140 --> 02:01:51,960
+si vous retournez prendre la photo on peut la changer
+
+2200
+02:01:51,960 --> 02:01:53,600
+c'est assez habituel
+
+2201
+02:01:53,600 --> 02:01:56,039
+merci à tous
+
+2202
+02:01:56,039 --> 02:01:57,360
+merci à toutes pour cette visio
+
+2203
+02:01:57,360 --> 02:02:00,060
+on vous tient au courant pour les dates
+
+2204
+02:02:00,060 --> 02:02:02,360
+de visio sur le viagé
+
+2205
+02:02:02,360 --> 02:02:04,180
+pour ceux d'entre vous qui seront intéressés
+
+2206
+02:02:04,180 --> 02:02:05,680
+on enverra un email à tout le réseau
+
+2207
+02:02:05,680 --> 02:02:06,940
+quand les dates auront été calées
+
+2208
+02:02:06,940 --> 02:02:08,640
+ce sera vers je pense
+
+2209
+02:02:08,640 --> 02:02:11,340
+à partir de la deuxième quinzaine d'avril
+
+2210
+02:02:11,340 --> 02:02:12,180
+je pense
+
+2211
+02:02:12,180 --> 02:02:15,520
+merci à tous
+
+2212
+02:02:15,520 --> 02:02:17,380
+je pense qu'il est un peu rayé
+
+2213
+02:02:17,380 --> 02:02:17,960
+nous dit Cathy
+
+2214
+02:02:17,960 --> 02:02:21,180
+très bonne soirée
+
+2215
+02:02:21,180 --> 02:02:22,360
+à tous et à toutes
+
+2216
+02:02:22,360 --> 02:02:25,340
+Corinne, Maryse, Catherine, tout le monde
+
+2217
+02:02:25,340 --> 02:02:27,420
+Véro, merci beaucoup
+
+2218
+02:02:27,420 --> 02:02:29,280
+et puis à très très vite
+
+2219
+02:02:29,279 --> 02:02:31,699
+bien sûr, ah, et rentrez des mandats
+
+2220
+02:02:31,699 --> 02:02:33,659
+s'il vous plaît, plein de mandats
+
+2221
+02:02:33,659 --> 02:02:35,500
+plein plein plein, rentrez
+
+2222
+02:02:35,500 --> 02:02:37,719
+des mandats, c'est vital
+
+2223
+02:02:37,719 --> 02:02:39,399
+et lisez Proust, oui
+
+2224
+02:02:39,399 --> 02:02:40,739
+Véro me dit, on va dire Proust
+
+2225
+02:02:40,739 --> 02:02:43,380
+lisez Proust
+
+2226
+02:02:43,380 --> 02:02:45,159
+mais pas seulement Proust
+
+2227
+02:02:45,159 --> 02:02:46,460
+si vous voulez je vous fais une petite
+
+2228
+02:02:46,460 --> 02:02:49,219
+une liste, conseil de
+
+2229
+02:02:49,219 --> 02:02:51,539
+conseil de lecture
+
+2230
+02:02:51,539 --> 02:02:53,399
+non, je déconne, je vais pas
+
+2231
+02:02:53,399 --> 02:02:55,019
+je vais pas vous le faire, je vais pas vous le faire
+
+2232
+02:02:55,019 --> 02:02:57,679
+d'autant que je vais vous faire lire des trucs chiants qui vous intéresseront pas
+
+2233
+02:02:57,679 --> 02:02:58,859
+mais lisez Proust, oui
+
+2234
+02:02:58,859 --> 02:03:01,099
+Balzac aussi, lisez Balzac
+
+2235
+02:03:01,099 --> 02:03:02,239
+hyper important Balzac
+
+2236
+02:03:02,239 --> 02:03:03,399
+hyper important
+
+2237
+02:03:03,399 --> 02:03:07,139
+Peter Hugo un peu lignifiant
+
+2238
+02:03:07,139 --> 02:03:08,519
+un peu cucul à praline
+
+2239
+02:03:08,519 --> 02:03:10,839
+mais d'une puissance littéraire absolument
+
+2240
+02:03:10,839 --> 02:03:13,219
+incontestable
+
+2241
+02:03:13,219 --> 02:03:14,739
+bonne soirée à tout le monde
+
+2242
+02:03:14,739 --> 02:03:16,219
+merci beaucoup
+
+2243
+02:03:16,219 --> 02:03:17,519
+et à très bientôt
+
