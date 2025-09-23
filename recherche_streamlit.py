@@ -1,3 +1,4 @@
+
 from openai import OpenAI
 import os
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
@@ -12,17 +13,52 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
-
+# ------------------------------------
+# Page setup
+# ------------------------------------
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
-# 🎨 Logo
-st.image("logo_lucarne.png", width=180)
-st.markdown("# 📚 Base de connaissance A LA LUCARNE")
+# ------------------------------------
+# Helpers: session state + safe image
+# ------------------------------------
+def init_state():
+    """Initialize all session_state keys that are later read by the app."""
+    defaults = {
+        "nav": "🔍 Recherche",
+        "search_query": "",
+        "video_search": "",
+        "selected_theme": "",
+        "reset_search": False,
+        "selected_video": None,
+        "user_question": "",
+        "show_thumbs": True,
+    }
+    for k, v in defaults.items():
+        if k not in st.session_state:
+            st.session_state[k] = v
 
+def show_image(img, width=None, caption=None):
+    """Robust wrapper for st.image that avoids width=0 and empty/invalid sources."""
+    if not img:  # empty / falsy
+        st.write("🖼️ Miniature indisponible")
+        return
+    try:
+        if width is None or int(width) <= 0:
+            st.image(img, caption=caption, use_container_width=True)
+        else:
+            st.image(img, caption=caption, width=int(width))
+    except Exception:
+        # As a fallback, try container width
+        st.image(img, caption=caption, use_container_width=True)
+
+init_state()
+
+# 🎨 Logo
+show_image("logo_lucarne.png", width=180)
+st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 
 # 🔐 Clé API OpenAI
 openai.api_key = os.environ.get("OPENAI_API_KEY")
-
 
 # 📂 Dossier newsletters
 DOSSIER_NEWSLETTERS = "newsletters"
@@ -43,8 +79,6 @@ def bouton_telecharger_newsletter(nom_fichier, contenu_html):
         file_name=f"{nom_fichier}.html",
         mime="text/html"
     )
-
-
 
 # 🔥 Détection encodage
 def detect_encoding(file_path):
@@ -92,8 +126,6 @@ def embed_openai(query):
     )
     return np.array(response.data[0].embedding)
 
-
-
 # 🔥 Recherche vectorielle
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     similarities = np.dot(vecteurs, vecteur_query)
@@ -113,18 +145,18 @@ for theme_list in themes_df["themes"].dropna():
         if theme:
             all_themes.add(theme)
 
-# 🧠 Gérer session
-if "selected_theme" not in st.session_state:
-    st.session_state.selected_theme = ""
+# ---- Sidebar Navigation (robuste) ----
+options = ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"]
+default = st.session_state.get("nav", options[0])
+if default not in options:
+    default = options[0]
+menu = st.sidebar.radio("Navigation", options, index=options.index(default), key="nav")
 
-if "reset_search" not in st.session_state:
-    st.session_state.reset_search = False
-
-menu = st.sidebar.radio("Navigation", ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"])
-
-
+# =====================
+#       PAGES
+# =====================
 if menu == "🔍 Recherche":
-    col1, col2 = st.columns([3,1])
+    col1, col2 = st.columns([3, 1])
 
     # Réinitialiser si besoin
     if st.session_state.reset_search:
@@ -135,7 +167,7 @@ if menu == "🔍 Recherche":
     # Champ de recherche
     with col1:
         st.text_input("🔍 Que veux-tu savoir ?", key="search_query")
-    
+
     # Bouton Réinitialiser
     with col2:
         if st.button("🔄 Réinitialiser"):
@@ -194,25 +226,34 @@ if menu == "🔍 Recherche":
 
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
-    recherche = st.text_input("🔍 Recherche par titre, résumé, idée ou thème", key="video_search")
+    st.text_input("🔍 Recherche par titre, résumé, idée ou thème", key="video_search")
 
     tri = st.selectbox("📜 Trier par", ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A"))
 
+    recherche = st.session_state.get("video_search", "").strip()
+    urls_view = urls_df.copy()
+
     if recherche:
-        urls_df = urls_df[urls_df.apply(lambda row: recherche.lower() in (str(row["titre"])+str(row["resume"])+str(row["idees"])+str(row["themes"])).lower(), axis=1)]
+        urls_view = urls_view[urls_view.apply(
+            lambda row: recherche.lower() in (str(row.get("titre",""))+str(row.get("resume",""))+str(row.get("idees",""))+str(row.get("themes",""))).lower(),
+            axis=1
+        )]
 
-    if tri == "Date récente":
-        urls_df = urls_df.sort_values("date", ascending=False)
-    elif tri == "Date ancienne":
-        urls_df = urls_df.sort_values("date", ascending=True)
-    elif tri == "Titre A → Z":
-        urls_df = urls_df.sort_values("titre", ascending=True)
-    elif tri == "Titre Z → A":
-        urls_df = urls_df.sort_values("titre", ascending=False)
+    if "date" in urls_view.columns:
+        if tri == "Date récente":
+            urls_view = urls_view.sort_values("date", ascending=False)
+        elif tri == "Date ancienne":
+            urls_view = urls_view.sort_values("date", ascending=True)
 
-    st.markdown(f"### 🎬 {len(urls_df)} vidéo(s) trouvée(s)")
+    if "titre" in urls_view.columns:
+        if tri == "Titre A → Z":
+            urls_view = urls_view.sort_values("titre", ascending=True)
+        elif tri == "Titre Z → A":
+            urls_view = urls_view.sort_values("titre", ascending=False)
 
-    for _, row in urls_df.iterrows():
+    st.markdown(f"### 🎬 {len(urls_view)} vidéo(s) trouvée(s)")
+
+    for _, row in urls_view.iterrows():
         video_name = row.get("titre", "Titre inconnu")
         video_date = row.get("date", "Date inconnue")
         url_complet = row.get("url", "")
@@ -221,25 +262,26 @@ elif menu == "🎥 Toutes les vidéos":
         themes = row.get("themes", "")
         fichier_nom = row.get("fichier", "")
 
+        youtube_id = ""
         if "watch?v=" in url_complet:
             youtube_id = url_complet.split("watch?v=")[-1]
         elif "youtu.be/" in url_complet:
             youtube_id = url_complet.split("youtu.be/")[-1]
-        else:
-            youtube_id = ""
-
-        thumbnail_url = f"https://img.youtube.com/vi/{youtube_id}/0.jpg"
 
         col1, col2 = st.columns([1, 5])
         with col1:
-            st.image(thumbnail_url, width=140)
+            if youtube_id:
+                thumbnail_url = f"https://img.youtube.com/vi/{youtube_id}/0.jpg"
+                show_image(thumbnail_url, width=140)
+            else:
+                st.write("🖼️ Miniature indisponible")
         with col2:
             st.markdown(f"### [{video_name}]({url_complet})")
             st.markdown(f"🗓️ *{video_date}*")
             if resume:
                 st.markdown(f"📜 {resume}")
 
- # Bouton Newsletter ici
+            # Bouton Newsletter ici
             if fichier_nom:
                 if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
                     newsletter_contenu = charger_newsletter_html(fichier_nom)
@@ -250,14 +292,12 @@ elif menu == "🎥 Toutes les vidéos":
                     else:
                         st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
 
-
-
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
                 for theme in themes.split("|"):
                     theme = theme.strip()
                     if theme:
-                        tags_html += f"<span style='background-color: #D0E8FF; padding: 6px 12px; border-radius: 20px;'>{theme}</span>"
+                        tags_html += "<span style='background-color: #D0E8FF; padding: 6px 12px; border-radius: 20px;'>{}</span>".format(theme)
                 tags_html += "</div>"
                 st.markdown(tags_html, unsafe_allow_html=True)
 
@@ -287,9 +327,10 @@ elif menu == "🎥 Toutes les vidéos":
 
 elif menu == "🧠 Moteur intelligent":
     st.header("🧠 Assistant IA basé sur vos formations vidéos")
-    
-    user_question = st.text_input("Pose ta question :", key="user_question")
-    
+
+    st.text_input("Pose ta question :", key="user_question")
+    user_question = st.session_state.get("user_question", "").strip()
+
     if user_question:
         with st.spinner("Recherche intelligente en cours..."):
             # Charger FAISS
@@ -330,4 +371,3 @@ Question : {user_question}
 
             # Afficher la réponse
             st.success(response.content)
-
