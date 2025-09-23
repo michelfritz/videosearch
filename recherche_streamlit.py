@@ -1,4 +1,3 @@
-
 from openai import OpenAI
 import os
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
@@ -19,7 +18,7 @@ from langchain_openai import ChatOpenAI
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
 # ------------------------------------
-# Helpers: session state + safe image
+# Helpers: session state + safe image + safe URL
 # ------------------------------------
 def init_state():
     """Initialize all session_state keys that are later read by the app."""
@@ -51,9 +50,40 @@ def show_image(img, width=None, caption=None):
         # As a fallback, try container width
         st.image(img, caption=caption, use_container_width=True)
 
+def to_str(x, default=""):
+    if x is None:
+        return default
+    try:
+        if pd.isna(x):
+            return default
+    except Exception:
+        pass
+    return str(x)
+
+def extract_youtube_id(url) -> str:
+    s = to_str(url, "")
+    if not s:
+        return ""
+    s = s.strip()
+    if "watch?v=" in s:
+        part = s.split("watch?v=")[-1]
+        return part.split("&")[0]
+    if "youtu.be/" in s:
+        part = s.split("youtu.be/")[-1]
+        return part.split("?")[0]
+    return ""
+
+def to_int(x, default=0):
+    try:
+        if x is None or (isinstance(x, float) and np.isnan(x)):
+            return default
+        return int(float(x))
+    except Exception:
+        return default
+
 init_state()
 
-# 🎨 Logo
+# 🎨 Logo (optionnel)
 show_image("logo_lucarne.png", width=180)
 st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 
@@ -97,23 +127,40 @@ def charger_donnees():
 @st.cache_data
 def charger_urls_et_idees_themes():
     urls = pd.read_csv("urls.csv", encoding=detect_encoding("urls.csv"))
+    # colonnes attendues
+    for col in ("titre","date","resume","idees","themes","fichier","url"):
+        if col not in urls.columns:
+            urls[col] = ""
     urls["titre"] = urls["titre"].fillna("Titre inconnu")
     urls["date"] = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
 
     idees = pd.read_csv("idees.csv", encoding=detect_encoding("idees.csv"))
+    if "fichier" not in idees.columns:
+        idees["fichier"] = ""
+    if "idees" not in idees.columns:
+        idees["idees"] = ""
     idees["idees"] = idees["idees"].fillna("")
 
     idees_v2 = pd.read_csv("idees_v2.csv", encoding=detect_encoding("idees_v2.csv"))
 
     themes = pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv"))
+    if "fichier" not in themes.columns:
+        themes["fichier"] = ""
+    if "themes" not in themes.columns:
+        themes["themes"] = ""
     themes["themes"] = themes["themes"].fillna("")
 
     mesthemes = pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv"))
-    mesthemes_list = mesthemes["themes"].dropna().tolist()
+    mesthemes_list = mesthemes["themes"].dropna().tolist() if "themes" in mesthemes.columns else []
 
-    df = pd.merge(urls, idees, on="fichier", how="left")
-    df = pd.merge(df, themes, on="fichier", how="left")
+    # merges robustes (si colonnes présentes)
+    df = urls.copy()
+    if "fichier" in df.columns and "fichier" in idees.columns:
+        df = pd.merge(df, idees[["fichier","idees"]], on="fichier", how="left")
+    if "fichier" in df.columns and "fichier" in themes.columns:
+        df = pd.merge(df, themes[["fichier","themes"]], on="fichier", how="left")
+
     return df, idees_v2, themes, mesthemes_list
 
 # 🔎 Embedding OpenAI
@@ -133,17 +180,20 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
     return top_indices, similarities[top_indices]
 
-# 🛠 Interface
+# =====================
+#       DONNÉES
+# =====================
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
 # 🔖 Préparer tous les thèmes
 all_themes = set()
-for theme_list in themes_df["themes"].dropna():
-    for theme in theme_list.split("|"):
-        theme = theme.strip()
-        if theme:
-            all_themes.add(theme)
+if "themes" in themes_df.columns:
+    for theme_list in themes_df["themes"].dropna():
+        for theme in to_str(theme_list).split("|"):
+            theme = theme.strip()
+            if theme:
+                all_themes.add(theme)
 
 # ---- Sidebar Navigation (robuste) ----
 options = ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"]
@@ -160,8 +210,7 @@ if menu == "🔍 Recherche":
 
     # Réinitialiser si besoin
     if st.session_state.reset_search:
-        if "search_query" in st.session_state:
-            del st.session_state["search_query"]
+        st.session_state.search_query = ""
         st.session_state.reset_search = False
 
     # Champ de recherche
@@ -196,7 +245,7 @@ if menu == "🔍 Recherche":
                 st.experimental_rerun()
 
     # Définir la requête
-    query = st.session_state.get("search_query", "").strip() or st.session_state.get("selected_theme", "").strip()
+    query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
 
     if query:
         with st.spinner("🔍 Recherche en cours..."):
@@ -209,19 +258,16 @@ if menu == "🔍 Recherche":
             st.markdown("### 🌟 Résultats pertinents :")
             for idx, score in zip(indices, scores):
                 bloc = df.iloc[idx]
-                url_complet = bloc["url"]
-                youtube_id = ""
-                if "watch?v=" in url_complet:
-                    youtube_id = url_complet.split("watch?v=")[-1]
-                elif "youtu.be/" in url_complet:
-                    youtube_id = url_complet.split("youtu.be/")[-1]
+                url_str = to_str(bloc.get("url", ""))
+                youtube_id = extract_youtube_id(url_str)
+                start_time = to_int(bloc.get("start", 0), 0)
+                text = to_str(bloc.get("text", ""))
 
-                start_time = int(float(bloc["start"]))
-                embed_url = f"https://www.youtube.com/embed/{youtube_id}?start={start_time}&autoplay=0"
-
-                with st.expander(f"⏱️ {start_time}s — 💬 {bloc['text'][:60]}... (score: {score:.2f})"):
-                    st.markdown(f"**Texte complet :** {bloc['text']}")
+                with st.expander(f"⏱️ {start_time}s — 💬 {text[:60]}... (score: {score:.2f})"):
+                    if text:
+                        st.markdown(f"**Texte complet :** {text}")
                     if youtube_id:
+                        embed_url = f"https://www.youtube.com/embed/{youtube_id}?start={start_time}&autoplay=0"
                         st.components.v1.iframe(embed_url, height=315)
 
 elif menu == "🎥 Toutes les vidéos":
@@ -230,12 +276,12 @@ elif menu == "🎥 Toutes les vidéos":
 
     tri = st.selectbox("📜 Trier par", ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A"))
 
-    recherche = st.session_state.get("video_search", "").strip()
+    recherche = to_str(st.session_state.get("video_search", "")).strip()
     urls_view = urls_df.copy()
 
     if recherche:
         urls_view = urls_view[urls_view.apply(
-            lambda row: recherche.lower() in (str(row.get("titre",""))+str(row.get("resume",""))+str(row.get("idees",""))+str(row.get("themes",""))).lower(),
+            lambda row: recherche.lower() in (to_str(row.get("titre",""))+to_str(row.get("resume",""))+to_str(row.get("idees",""))+to_str(row.get("themes",""))).lower(),
             axis=1
         )]
 
@@ -254,19 +300,15 @@ elif menu == "🎥 Toutes les vidéos":
     st.markdown(f"### 🎬 {len(urls_view)} vidéo(s) trouvée(s)")
 
     for _, row in urls_view.iterrows():
-        video_name = row.get("titre", "Titre inconnu")
-        video_date = row.get("date", "Date inconnue")
-        url_complet = row.get("url", "")
-        resume = row.get("resume", "")
-        idees = row.get("idees", "")
-        themes = row.get("themes", "")
-        fichier_nom = row.get("fichier", "")
+        video_name = to_str(row.get("titre", "Titre inconnu"))
+        video_date = to_str(row.get("date", "Date inconnue"))
+        url_str = to_str(row.get("url", ""))
+        resume = to_str(row.get("resume", ""))
+        idees = to_str(row.get("idees", ""))
+        themes = to_str(row.get("themes", ""))
+        fichier_nom = to_str(row.get("fichier", ""))
 
-        youtube_id = ""
-        if "watch?v=" in url_complet:
-            youtube_id = url_complet.split("watch?v=")[-1]
-        elif "youtu.be/" in url_complet:
-            youtube_id = url_complet.split("youtu.be/")[-1]
+        youtube_id = extract_youtube_id(url_str)
 
         col1, col2 = st.columns([1, 5])
         with col1:
@@ -276,7 +318,10 @@ elif menu == "🎥 Toutes les vidéos":
             else:
                 st.write("🖼️ Miniature indisponible")
         with col2:
-            st.markdown(f"### [{video_name}]({url_complet})")
+            if url_str:
+                st.markdown(f"### [{video_name}]({url_str})")
+            else:
+                st.markdown(f"### {video_name}")
             st.markdown(f"🗓️ *{video_date}*")
             if resume:
                 st.markdown(f"📜 {resume}")
@@ -295,9 +340,9 @@ elif menu == "🎥 Toutes les vidéos":
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
                 for theme in themes.split("|"):
-                    theme = theme.strip()
-                    if theme:
-                        tags_html += "<span style='background-color: #D0E8FF; padding: 6px 12px; border-radius: 20px;'>{}</span>".format(theme)
+                    t = theme.strip()
+                    if t:
+                        tags_html += "<span style='background-color: #D0E8FF; padding: 6px 12px; border-radius: 20px;'>{}</span>".format(t)
                 tags_html += "</div>"
                 st.markdown(tags_html, unsafe_allow_html=True)
 
@@ -306,18 +351,18 @@ elif menu == "🎥 Toutes les vidéos":
             if idees:
                 with st.expander("🌟 Sujets de la vidéo"):
                     for idee in idees.split("|"):
-                        idee = idee.strip()
-                        if idee and youtube_id:
-                            st.markdown(f"- [{idee}](https://www.youtube.com/watch?v={youtube_id}&t=0s)")
-                        elif idee:
-                            st.markdown(f"- {idee}")
+                        i = idee.strip()
+                        if i and youtube_id:
+                            st.markdown(f"- [{i}](https://www.youtube.com/watch?v={youtube_id}&t=0s)")
+                        elif i:
+                            st.markdown(f"- {i}")
 
-            if fichier_nom:
+            if fichier_nom and "fichier" in idees_v2_df.columns:
                 with st.expander("🕒 Moments de la vidéo"):
                     idees_v2_video = idees_v2_df[idees_v2_df["fichier"] == fichier_nom]
                     for _, idee_row in idees_v2_video.iterrows():
-                        idee_text = idee_row.get("idee", "")
-                        start_time = int(float(idee_row.get("start", 0)))
+                        idee_text = to_str(idee_row.get("idee", ""))
+                        start_time = to_int(idee_row.get("start", 0), 0)
                         if idee_text and youtube_id:
                             st.markdown(f"- [{idee_text}](https://www.youtube.com/watch?v={youtube_id}&t={start_time}s)")
                         elif idee_text:
@@ -329,7 +374,7 @@ elif menu == "🧠 Moteur intelligent":
     st.header("🧠 Assistant IA basé sur vos formations vidéos")
 
     st.text_input("Pose ta question :", key="user_question")
-    user_question = st.session_state.get("user_question", "").strip()
+    user_question = to_str(st.session_state.get("user_question", "")).strip()
 
     if user_question:
         with st.spinner("Recherche intelligente en cours..."):
