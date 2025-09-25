@@ -2,6 +2,7 @@ from openai import OpenAI
 import os
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
+import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
@@ -192,6 +193,11 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
 # =====================
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
+# juste après: urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
+url_by_file = {}
+if "fichier" in urls_df.columns and "url" in urls_df.columns:
+    url_by_file = dict(zip(urls_df["fichier"].astype(str), urls_df["url"].astype(str)))
+
 
 # 🔖 Préparer tous les thèmes
 all_themes = set()
@@ -229,7 +235,7 @@ if menu == "🔍 Recherche":
         if st.button("🔄 Réinitialiser"):
             st.session_state.selected_theme = ""
             st.session_state.reset_search = True
-            st.experimental_rerun()
+            st.do_rerun()
 
     seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
@@ -240,7 +246,7 @@ if menu == "🔍 Recherche":
             if cols[i % 4].button(theme, key=f"mestheme_{theme}"):
                 st.session_state.selected_theme = theme
                 st.session_state.reset_search = True
-                st.experimental_rerun()
+                st.do_rerun()
 
     # 🌟 Tous les Thèmes
     with st.expander("🏷️ Tags", expanded=False):
@@ -249,7 +255,7 @@ if menu == "🔍 Recherche":
             if cols[i % 4].button(theme, key=f"theme_{theme}"):
                 st.session_state.selected_theme = theme
                 st.session_state.reset_search = True
-                st.experimental_rerun()
+                st.do_rerun()
 
     # Définir la requête
     query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
@@ -309,7 +315,11 @@ elif menu == "🎥 Toutes les vidéos":
     for _, row in urls_view.iterrows():
         video_name = to_str(row.get("titre", "Titre inconnu"))
         video_date = to_str(row.get("date", "Date inconnue"))
-        url_str = to_str(row.get("url", ""))
+        url_str = to_str(bloc.get("url", ""))
+if not url_str:
+    fichier_key = to_str(bloc.get("fichier", ""))
+    url_str = url_by_file.get(fichier_key, "")
+
         resume = to_str(row.get("resume", ""))
         idees = to_str(row.get("idees", ""))
         themes = to_str(row.get("themes", ""))
