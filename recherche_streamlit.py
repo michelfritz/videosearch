@@ -2,12 +2,19 @@ from openai import OpenAI
 import os
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
-import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
 import openai
 import chardet
+
+def do_rerun():
+    import streamlit as st
+    if hasattr(st, "rerun"):
+        st.rerun()
+    else:
+        st.experimental_rerun()
+
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
