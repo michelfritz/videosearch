@@ -398,40 +398,98 @@ elif menu == "🎥 Toutes les vidéos":
     st.markdown(f"### 🎬 {len(urls_view)} vidéo(s) trouvée(s)")
 
     for _, row in urls_view.iterrows():
-        video_name = to_str(row.get("titre", "Titre inconnu"))
-        video_date = to_str(row.get("date", "Date inconnue"))
-        fichier_nom = to_str(row.get("fichier", ""))
+    video_name  = to_str(row.get("titre", "Titre inconnu"))
+    video_date  = to_str(row.get("date", "Date inconnue"))
+    fichier_nom = to_str(row.get("fichier", ""))
 
-        # URL + fallback
-        url_str = to_str(row.get("url", ""))
-        if not url_str and fichier_nom:
-            url_str = url_by_file.get(fichier_nom, "")
+    # URL + fallback
+    url_str = to_str(row.get("url", ""))
+    if not url_str and fichier_nom:
+        url_str = url_by_file.get(fichier_nom, "")
 
-        resume = to_str(row.get("resume", ""))
-        idees = to_str(row.get("idees", ""))
-        themes = to_str(row.get("themes", ""))
+    resume = to_str(row.get("resume", ""))
+    idees  = to_str(row.get("idees", ""))
+    themes = to_str(row.get("themes", ""))
 
-        youtube_id = extract_youtube_id(url_str)
+    youtube_id = extract_youtube_id(url_str)
 
-        # 🚫 Masquer les cartes totalement vides
-        if (to_str(url_str) == "") and (video_name == "Titre inconnu"):
-            continue
+    # 🚫 Masquer les cartes totalement vides
+    if (to_str(url_str) == "") and (video_name == "Titre inconnu"):
+        continue
 
-        col1, col2 = st.columns([1, 5])
-        with col1:
-            if youtube_id:
-                thumbnail_url = f"https://img.youtube.com/vi/{youtube_id}/0.jpg"
-                show_image(thumbnail_url, width=140)
-            else:
-                st.write("🖼️ Miniature indisponible")
-        with col2:
-            if url_str:
-                st.markdown(f"### [{video_name}]({url_str})")
-            else:
-                st.markdown(f"### {video_name}")
-            st.markdown(f"🗓️ *{video_date}*")
-            if resume:
-                st.markdown(f"📜 {resume}")
+    col1, col2 = st.columns([1, 5])
+    with col1:
+        if youtube_id:
+            thumbnail_url = f"https://img.youtube.com/vi/{youtube_id}/0.jpg"
+            show_image(thumbnail_url, width=140)
+        else:
+            st.write("🖼️ Miniature indisponible")
+
+    with col2:
+        # Titre + lien
+        if url_str:
+            st.markdown(f"### [{video_name}]({url_str})")
+        else:
+            st.markdown(f"### {video_name}")
+        st.markdown(f"🗓️ *{video_date}*")
+
+        if resume:
+            st.markdown(f"📜 {resume}")
+
+        # -------- Newsletter : un seul bouton toggle + affichage stylé ----------
+        if fichier_nom:
+            state_key = f"show_newsletter_{fichier_nom}"
+
+            if st.button("📬 Newsletter liée à cette vidéo", key=f"btn_nl_{fichier_nom}"):
+                toggle(state_key)
+
+            if st.session_state.get(state_key, False):
+                newsletter_contenu = charger_newsletter_html(fichier_nom)
+                if newsletter_contenu:
+                    newsletter_contenu = fix_newsletter_html(newsletter_contenu)
+                    with st.expander("📬 Newsletter (ouvrir/fermer)", expanded=True):
+                        st.markdown(newsletter_contenu, unsafe_allow_html=True)
+                        bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
+                else:
+                    st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
+        # -----------------------------------------------------------------------
+
+        # Tags jolis
+        if themes:
+            tags_html = "<div class='badges' style='display:flex;flex-wrap:wrap;gap:5px;'>"
+            for theme in themes.split("|"):
+                t = theme.strip()
+                if t:
+                    tags_html += "<span style='background-color:#D0E8FF;padding:6px 12px;border-radius:20px;'>"+t+"</span>"
+            tags_html += "</div>"
+            st.markdown(tags_html, unsafe_allow_html=True)
+
+        st.markdown("<div style='height: 10px;'></div>", unsafe_allow_html=True)
+
+        # Idées (sommaire)
+        if idees:
+            with st.expander("🌟 Sujets de la vidéo"):
+                for idee in idees.split("|"):
+                    i = idee.strip()
+                    if i and youtube_id:
+                        st.markdown(f"- [{i}](https://www.youtube.com/watch?v={youtube_id}&t=0s)")
+                    elif i:
+                        st.markdown(f"- {i}")
+
+        # Moments (idees_v2)
+        if fichier_nom and "fichier" in idees_v2_df.columns:
+            with st.expander("🕒 Moments de la vidéo"):
+                idees_v2_video = idees_v2_df[idees_v2_df["fichier"] == fichier_nom]
+                for _, idee_row in idees_v2_video.iterrows():
+                    idee_text = to_str(idee_row.get("idee", ""))
+                    start_time = to_int(idee_row.get("start", 0), 0)
+                    if idee_text and youtube_id:
+                        st.markdown(f"- [{idee_text}](https://www.youtube.com/watch?v={youtube_id}&t={start_time}s)")
+                    elif idee_text:
+                        st.markdown(f"- {idee_text}")
+
+    st.markdown("---")
+
 
 
             # --- remplace TOUT votre bloc actuel "Voir Newsletter" par celui-ci ---
