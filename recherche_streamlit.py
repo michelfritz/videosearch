@@ -134,14 +134,47 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
+    # — lecture robuste + normalisation des 'nan' en NaN réels
     urls = pd.read_csv("urls.csv", encoding=detect_encoding("urls.csv"))
+    urls = urls.replace(r"^\s*(nan|null|none|NaN)\s*$", np.nan, regex=True)
+
+    # colonnes attendues
     for col in ("titre","date","resume","idees","themes","fichier","url"):
         if col not in urls.columns:
-            urls[col] = ""
-    urls["titre"] = urls["titre"].fillna("Titre inconnu")
-    urls["date"] = urls["date"].fillna("Date inconnue")
-    urls["resume"] = urls["resume"].fillna("")
+            urls[col] = np.nan
 
+    # drop lignes totalement vides
+    urls = urls.dropna(how="all")
+
+    # helper pour tester le “vide” (NaN, '', 'nan', espaces)
+    def _is_blank(x):
+        s = str(x).strip().lower()
+        return (s == "") or (s == "nan") or (s == "none") or pd.isna(x)
+
+    # on ne garde que les lignes avec AU MOINS un champ utile
+    essential_cols = ["url", "fichier", "titre", "resume", "themes"]
+    urls = urls[~urls[essential_cols].applymap(_is_blank).all(axis=1)].copy()
+
+    # Nettoyage basique : si 'url' est vide ET 'fichier' est vide → ignorer
+    urls = urls[~(urls["url"].apply(_is_blank) & urls["fichier"].apply(_is_blank))].copy()
+
+    # Optionnel : ne garder que des URLs plausibles (YouTube ou http(s))
+    def _url_ok(u):
+        if _is_blank(u): return False
+        u = str(u).strip()
+        return ("youtube.com/watch?v=" in u) or ("youtu.be/" in u) or u.startswith("http")
+    urls = urls[urls["url"].apply(_url_ok) | ~urls["fichier"].apply(_is_blank)].copy()
+
+    # Valeurs par défaut (affichage)
+    urls["titre"]  = urls["titre"].fillna("Titre inconnu")
+    urls["date"]   = urls["date"].fillna("Date inconnue")
+    urls["resume"] = urls["resume"].fillna("")
+    urls["idees"]  = urls["idees"].fillna("")
+    urls["themes"] = urls["themes"].fillna("")
+    urls["fichier"]= urls["fichier"].fillna("").astype(str)
+    urls["url"]    = urls["url"].fillna("").astype(str)
+
+    # --- idem qu’avant pour les autres CSV ---
     idees = pd.read_csv("idees.csv", encoding=detect_encoding("idees.csv"))
     if "fichier" not in idees.columns: idees["fichier"] = ""
     if "idees" not in idees.columns:   idees["idees"] = ""
@@ -151,7 +184,7 @@ def charger_urls_et_idees_themes():
 
     themes = pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv"))
     if "fichier" not in themes.columns: themes["fichier"] = ""
-    if "themes" not in themes.columns:   themes["themes"] = ""
+    if "themes" not in themes.columns:  themes["themes"] = ""
     themes["themes"] = themes["themes"].fillna("")
 
     mesthemes = pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv"))
@@ -291,6 +324,13 @@ if menu == "🔍 Recherche":
 
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
+    # 🔄 bouton de refresh data (invalide le cache, recharge les CSV)
+cols_refresh = st.columns([1, 3])
+with cols_refresh[0]:
+    if st.button("🔄 Actualiser les vidéos"):
+        st.cache_data.clear()
+        st.experimental_rerun()
+
     st.text_input("🔍 Recherche par titre, résumé, idée ou thème", key="video_search")
 
     tri = st.selectbox("📜 Trier par", ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A"))
