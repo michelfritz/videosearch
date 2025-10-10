@@ -324,12 +324,13 @@ if menu == "🔍 Recherche":
 
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
+
     # 🔄 bouton de refresh data (invalide le cache, recharge les CSV)
-cols_refresh = st.columns([1, 3])
-with cols_refresh[0]:
-    if st.button("🔄 Actualiser les vidéos"):
-        st.cache_data.clear()
-        st.experimental_rerun()
+    cols_refresh = st.columns([1, 3])
+    with cols_refresh[0]:
+        if st.button("🔄 Actualiser les vidéos"):
+            st.cache_data.clear()
+            do_rerun()
 
     st.text_input("🔍 Recherche par titre, résumé, idée ou thème", key="video_search")
 
@@ -376,6 +377,10 @@ with cols_refresh[0]:
         themes = to_str(row.get("themes", ""))
 
         youtube_id = extract_youtube_id(url_str)
+
+        # 🚫 Masquer les cartes totalement vides
+        if (to_str(url_str) == "") and (video_name == "Titre inconnu"):
+            continue
 
         col1, col2 = st.columns([1, 5])
         with col1:
@@ -435,6 +440,7 @@ with cols_refresh[0]:
                             st.markdown(f"- {idee_text}")
 
         st.markdown("---")
+
 
 elif menu == "🧠 Moteur intelligent":
     st.header("🧠 Assistant IA basé sur vos formations vidéos")
