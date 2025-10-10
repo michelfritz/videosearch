@@ -1,0 +1,105 @@
+
+<style>
+:root {
+  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
+  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
+}
+*{box-sizing:border-box}
+body {
+  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
+  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
+}
+.container {
+  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
+  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
+  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
+}
+.hero { 
+  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
+}
+@media (max-width:680px){ .hero{ height:220px; } }
+.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title {
+  position:absolute; left:24px; bottom:20px; right:24px;
+  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
+  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
+}
+.inner { padding: 28px; }
+h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
+h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
+p { line-height:1.7; color: var(--txt); margin: 12px 0; }
+
+/* Puces classiques */
+ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
+ul li { margin: 8px 0; }
+
+.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
+.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
+  padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout {
+  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
+  margin:16px 0; color:#d1fae5;
+}
+.cta {
+  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
+  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
+  box-shadow: 0 8px 20px rgba(56,189,248,.35);
+}
+.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
+code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
+@media (max-width:680px){ .inner{ padding:18px; } }
+</style>
+
+<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
+<div class="container">
+  <div class="hero"><img src="images/Visio Questions-Réponses - 13 mars 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Actualités du Réseau Immobilier 🏡</div></div>
+  <div class="inner">
+    
+    <div class="badges">
+    <span>#Nouveautés</span>
+    <span>#Formation</span>
+    <span>#Visio</span>
+    <span>#Viager</span>
+    <span>#Mandats</span>
+</div>
+
+
+
+<div class="callout">
+    <p><strong>Astuce du jour :</strong> Rentrez un maximum de mandats ! Plus vous en avez, plus vous multipliez vos chances de réussite !</p>
+</div>
+
+<h2>🧠 À retenir</h2>
+<p>Un nouvel outil pour l’édition automatique des attestations de mandat sera disponible ce vendredi. Il fonctionnera uniquement sur les mandats électroniques.</p>
+
+<h2>⚡ Moments forts</h2>
+<ul>
+    <li>Félicitations à Guy pour sa première vente en Bretagne ! 🎉</li>
+    <li>Rappel : le succès commercial est lié au nombre de mandats. Rentrez tout ce qui passe !</li>
+</ul>
+
+<h2>📚 Ressources utiles</h2>
+<p>Un guide sur l’utilisation de l’outil d’attestation de mandat sera mis à disposition. Pensez à le consulter pour une meilleure utilisation.</p>
+
+<h2>📅 À venir</h2>
+<ul>
+    <li>Formation sur le viager prévue en avril-mai. Restez à l'écoute pour les dates exactes !</li>
+    <li>Prochaines visios questions-réponses chaque jeudi jusqu'à fin juin.</li>
+</ul>
+
+<h2>Bravo 👏</h2>
+<p>Un grand bravo à Cathy pour son initiative de créer des visites virtuelles pour les commerçants de son secteur. Un excellent moyen de développer des partenariats !</p>
+
+<h2>Chiffres clés</h2>
+<ul>
+    <li>Environ 800 000 ventes immobilières en France chaque année.</li>
+    <li>Seulement 5 000 à 5 500 ventes en viager par an, représentant environ 0,5% des ventes totales.</li>
+</ul>
+
+<p>Pour toute question ou pour plus d'informations, <a href="mailto:support@immobilier.com">contactez le support formation</a>.</p>
+    <div class="footer">
+      Newsletter générée automatiquement – A La Lucarne • Tue, 07 Oct 2025 13:14:13 +0200
+    </div>
+  </div>
+</div>

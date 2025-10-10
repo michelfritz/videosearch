@@ -1,13 +1,14 @@
-import pandas as pd
-import pickle
-import openai
 import os
-from tqdm import tqdm
 import glob
-from pathlib import Path  # ✅ Ajout important
+import pickle
+from pathlib import Path
 
-# 🔑 Chargement de ta clé API OpenAI depuis l'environnement
-openai.api_key = os.getenv("OPENAI_API_KEY")
+import pandas as pd
+from tqdm import tqdm
+
+# --- OpenAI SDK (nouvelle version) ---
+from openai import OpenAI
+client = OpenAI()  # lit automatiquement OPENAI_API_KEY
 
 # 📚 Charger tous les blocs CSV depuis le dossier blocs/
 bloc_files = glob.glob("blocs/*.csv")
@@ -15,46 +16,44 @@ bloc_files = glob.glob("blocs/*.csv")
 dfs = []
 for f in bloc_files:
     df = pd.read_csv(f)
-    # Ajouter une colonne pour le nom de la vidéo
+    # Ajouter une colonne 'fichier' basée sur le nom de fichier (comme avant)
     video_name = Path(f).stem.replace("_blocs", "")
     df["fichier"] = video_name
     dfs.append(df)
 
-# Fusionner tous les blocs
+# Fusionner
 blocs_fusionnes = pd.concat(dfs, ignore_index=True)
 
-# 🌐 Charger ton vrai urls.csv (avec 'fichier' et 'url')
+# 🔗 Charger la table des URLs (identique: encodage cp1252)
 urls_df = pd.read_csv("urls.csv", encoding="cp1252")
-
-
-# 🔥 Correction ici : utiliser 'url' au lieu de 'youtube_id'
 urls_dict = dict(zip(urls_df["fichier"], urls_df["url"]))
 
 # Ajouter la colonne 'url' correspondante
 blocs_fusionnes["url"] = blocs_fusionnes["fichier"].map(urls_dict)
 
-# Ne garder que les colonnes utiles
+# Ne garder que les colonnes utiles (comme avant)
 blocs_fusionnes = blocs_fusionnes[["start", "end", "text", "url"]]
 
-# Sauvegarde du CSV final
+# Sauvegarde du CSV final (même comportement que l'original : pas d'encoding explicite)
 blocs_fusionnes.to_csv("blocs_fusionnes.csv", index=False)
 
 print(f"✅ {len(blocs_fusionnes)} blocs fusionnés et enrichis !")
 
-# 🧠 Vectorisation avec OpenAI
-def embed_openai(texts):
-    response = openai.embeddings.create(
-        input=texts,
-        model="text-embedding-3-small"
+# --- Embeddings ---
+def embed_openai(batch_texts):
+    # Appel minimaliste pour rester proche de l’original
+    resp = client.embeddings.create(
+        model="text-embedding-3-small",
+        input=batch_texts
     )
-    return [d.embedding for d in response.data]
+    return [d.embedding for d in resp.data]
 
-# Découper en batchs si besoin
+# Découper en batchs (valeur d'origine : 1000)
 BATCH_SIZE = 1000
 vectors = []
 
 for i in tqdm(range(0, len(blocs_fusionnes), BATCH_SIZE), desc="🔍 Vectorisation"):
-    batch_texts = blocs_fusionnes["text"].iloc[i:i+BATCH_SIZE].tolist()
+    batch_texts = blocs_fusionnes["text"].iloc[i:i+BATCH_SIZE].fillna("").astype(str).tolist()
     batch_vectors = embed_openai(batch_texts)
     vectors.extend(batch_vectors)
 

@@ -3,21 +3,18 @@
 # - Segment into ~30s blocks + write SRT
 # - Summarize and create a short title with OpenAI
 # - Find YouTube URL (unlisted/private included) via OAuth and update urls.csv
-# - Update urls.csv non-destructively (keeps existing fields) and insert at TOP
+# - Update urls.csv non-destructively (keeps existing fields)
 
 import os
-import re
 import json
 import shutil
 import subprocess
 import shlex
 import tempfile
-import unicodedata
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
 
-import argparse
 import pandas as pd
 import whisper
 import requests
@@ -54,18 +51,6 @@ DECODE_OPTS = dict(
     logprob_threshold=-0.5,
     no_speech_threshold=0.6,
 )
-
-# ---- early flag (--reauth) ----
-ap = argparse.ArgumentParser(add_help=False)
-ap.add_argument("--reauth", action="store_true", help="Force a new Google OAuth (delete token.json)")
-args, _ = ap.parse_known_args()
-if args.reauth:
-    try:
-        os.remove("token.json")
-        print("[OK] token.json deleted (--reauth).")
-    except FileNotFoundError:
-        pass
-    os.environ["YT_FORCE_REAUTH"] = "1"
 
 # ======================================================
 #                   System helpers
@@ -146,11 +131,6 @@ def upsert_urls_row(csv_path: str, fichier: str, url: str, resume: str, titre: s
     # Keep any extra columns present
     df = ensure_columns(df, ["fichier","url","resume","titre","date"])
 
-    # Drop duplicate columns like 'fichier.1'
-    dup_cols = [c for c in df.columns if c.lower().startswith("fichier.") and c != "fichier"]
-    if dup_cols:
-        df = df.drop(columns=dup_cols)
-
     # Build index by normalized key
     key_to_row: Dict[str, int] = {}
     for i, v in enumerate(df["fichier"]):
@@ -167,29 +147,19 @@ def upsert_urls_row(csv_path: str, fichier: str, url: str, resume: str, titre: s
         new = (new or "").strip()
         return new if (not old and new) else old
 
-    row_data = {
-        "fichier": fichier,
-        "url": (url or "").strip(),
-        "resume": (resume or "").strip(),
-        "titre": (titre or "").strip(),
-        "date": (date_iso or datetime.now().date().isoformat()),
-    }
-
     if row_idx is None:
-        # 1) If there is an empty row at the very top, fill it first
-        if len(df) > 0 and str(df.iloc[0]["fichier"]).strip() == "":
-            for c in row_data:
-                df.iat[0, df.columns.get_loc(c)] = row_data[c]
-        else:
-            # 2) Otherwise insert at TOP
-            row_df = pd.DataFrame([row_data]).reindex(columns=df.columns, fill_value="")
-            df = pd.concat([row_df, df], ignore_index=True)
+        df.loc[len(df)] = {
+            "fichier": fichier,
+            "url": url.strip(),
+            "resume": resume.strip(),
+            "titre": titre.strip(),
+            "date": (date_iso or datetime.now().date().isoformat()),
+        }
     else:
-        # Update existing row (non-destructive)
-        df.at[row_idx, "url"]    = merge_val(df.at[row_idx, "url"], row_data["url"])
-        df.at[row_idx, "resume"] = merge_val(df.at[row_idx, "resume"], row_data["resume"])
-        df.at[row_idx, "titre"]  = merge_val(df.at[row_idx, "titre"], row_data["titre"])
-        df.at[row_idx, "date"]   = merge_val(df.at[row_idx, "date"], row_data["date"])
+        df.at[row_idx, "url"]    = merge_val(df.at[row_idx, "url"], url)
+        df.at[row_idx, "resume"] = merge_val(df.at[row_idx, "resume"], resume)
+        df.at[row_idx, "titre"]  = merge_val(df.at[row_idx, "titre"], titre)
+        df.at[row_idx, "date"]   = merge_val(df.at[row_idx, "date"], (date_iso or ""))
 
     write_csv(df, csv_path, "utf-8-sig")
 
@@ -215,7 +185,7 @@ def summarize_and_title(text: str) -> (str, str):
     )
     user_msg = (
         "Voici le contenu d'une formation (texte transcrit). "
-        "Ecris un resume TRES court (1-2 phrases, <= 40 mots) qui synthetise toute la video.\n\n"
+        "Ecris un resume TRES court (1-2 phrases, <= 40 mots) qui synthétise toute la video.\n\n"
         f"TEXTE:\n{text}"
     )
     try:
@@ -261,16 +231,8 @@ def get_youtube_service_oauth():
         print("[WARN] google-api-python-client not installed -> YouTube URL auto off.")
         return None
 
-    token_path = "token.json"
-    force = os.environ.get("YT_FORCE_REAUTH") == "1"
-    if force and os.path.exists(token_path):
-        try:
-            os.remove(token_path)
-            print("[INFO] token.json removed due to forced reauth.")
-        except Exception:
-            pass
-
     creds = None
+    token_path = "token.json"
     if os.path.exists(token_path):
         try:
             creds = Credentials.from_authorized_user_file(token_path, SCOPES)
@@ -281,7 +243,6 @@ def get_youtube_service_oauth():
         if creds and creds.expired and creds.refresh_token:
             try:
                 creds.refresh(Request())
-                print("[OK] OAuth token refreshed.")
             except Exception as e:
                 print(f"[WARN] Token refresh failed: {e}")
                 creds = None
@@ -291,28 +252,14 @@ def get_youtube_service_oauth():
                 return None
             try:
                 flow = InstalledAppFlow.from_client_secrets_file("client_secret.json", SCOPES)
-                try:
-                    creds = flow.run_local_server(
-                        port=0,
-                        prompt="consent",
-                        access_type="offline",
-                        include_granted_scopes="true",
-                        open_browser=True,
-                    )
-                except Exception as e1:
-                    print(f"[WARN] Browser open failed ({e1}); trying console mode.")
-                    creds = flow.run_console(
-                        authorization_prompt_message="Open this URL: {url}",
-                        code_verifier=None,
-                        open_browser=False,
-                    )
+                # Opens a browser on first run
+                creds = flow.run_local_server(port=0, prompt="consent")
             except Exception as e:
                 print(f"[WARN] OAuth flow failed: {e}")
                 return None
         try:
             with open(token_path, "w", encoding="utf-8") as f:
                 f.write(creds.to_json())
-            print("[OK] OAuth token saved.")
         except Exception:
             pass
 
@@ -360,23 +307,8 @@ def build_my_uploads_index(youtube) -> Dict[str, str]:
             break
     return index
 
-def _normalize_text(s: str) -> str:
-    s = (s or "").lower()
-    s = unicodedata.normalize("NFKD", s)
-    s = "".join(ch for ch in s if not unicodedata.combining(ch))
-    s = re.sub(r"[^a-z0-9]+", " ", s)
-    s = " ".join(s.split())
-    return s
-
-def _combined_score(target_norm: str, title_norm: str) -> float:
-    ta = set(target_norm.split())
-    tb = set(title_norm.split())
-    jacc = len(ta & tb) / max(1, len(ta | tb))
-    sm = SequenceMatcher(None, target_norm, title_norm).ratio()
-    bonus = 0.15 if target_norm in title_norm or title_norm in target_norm else 0.0
-    return 0.5 * jacc + 0.5 * sm + bonus
-
-DEBUG_YT = os.environ.get("DEBUG_YT") == "1"
+def _similarity(a, b):
+    return SequenceMatcher(None, (a or "").lower(), (b or "").lower()).ratio()
 
 def find_youtube_url_for_file(filename_stem: str) -> str:
     """Fuzzy match local filename to your uploads titles and return the best URL."""
@@ -391,25 +323,15 @@ def find_youtube_url_for_file(filename_stem: str) -> str:
     if not _YT_INDEX:
         return ""
 
-    target_raw = filename_stem.replace("_", " ").strip()
-    target_norm = _normalize_text(target_raw)
-
-    scored = []
+    target = filename_stem.replace("_", " ").strip()
+    best_url = ""
+    best_score = 0.0
     for title, url in _YT_INDEX.items():
-        s = _combined_score(target_norm, _normalize_text(title))
-        scored.append((s, title, url))
-    scored.sort(reverse=True, key=lambda x: x[0])
-
-    if not scored:
-        return ""
-
-    if DEBUG_YT:
-        print("[DEBUG_YT] target:", target_raw, "=>", target_norm)
-        for s, t, u in scored[:5]:
-            print(f"[DEBUG_YT] {s:.3f} :: {t} :: {u}")
-
-    best_score, best_title, best_url = scored[0]
-    return best_url if best_score >= 0.40 else ""
+        score = _similarity(target, title)
+        if score > best_score:
+            best_score = score
+            best_url = url
+    return best_url if best_score >= 0.55 else ""
 
 # ======================================================
 #                Optional glossary for prompt
@@ -540,9 +462,9 @@ def main():
         pd.DataFrame(resegmented).to_csv(blocs_path, index=False, encoding="utf-8")
         print(f"[OK] Blocks CSV written: {blocs_path}")
 
-        # --- Summary + short title + YouTube URL via OAuth + upsert urls.csv ---
+        # --- NEW: summary + short title + YouTube URL via OAuth + upsert urls.csv ---
         resume, titre = summarize_and_title(full_text)
-        url = find_youtube_url_for_file(nom_video)  # includes unlisted/private
+        url = find_youtube_url_for_file(nom_video)  # includes unlisted/private in your channel
         today = datetime.now().date().isoformat()
 
         upsert_urls_row(
