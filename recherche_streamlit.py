@@ -270,6 +270,14 @@ def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
 def toggle(key: str):
     st.session_state[key] = not st.session_state.get(key, False)
 
+    # ---- Sidebar Navigation (robuste) ----
+options = ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"]
+default = st.session_state.get("nav", options[0])
+if default not in options:
+    default = options[0]
+menu = st.sidebar.radio("Navigation", options, index=options.index(default), key="nav")
+
+
 # =====================
 #       PAGES
 # =====================
