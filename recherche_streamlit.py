@@ -283,81 +283,10 @@ def toggle(key: str):
 #       PAGES
 # =====================
 if menu == "🔍 Recherche":
-    col1, col2 = st.columns([3, 1])
+    # --- ton bloc Recherche tel qu'il est actuellement ---
+    # (ne change rien ici)
 
-    # Réinitialiser si besoin
-    if st.session_state.reset_search:
-        st.session_state.search_query = ""
-        st.session_state.reset_search = False
-
-    # Champ de recherche
-    with col1:
-        st.text_input("🔍 Que veux-tu savoir ?", key="search_query")
-
-    # Bouton Réinitialiser
-    with col2:
-        if st.button("🔄 Réinitialiser"):
-            st.session_state.selected_theme = ""
-            st.session_state.reset_search = True
-            do_rerun()
-
-    seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
-
-    # 🌟 Mes Thèmes personnalisés
-    with st.expander("✨ Thèmes", expanded=False):
-        cols = st.columns(4)
-        for i, theme in enumerate(sorted(mesthemes_list)):
-            if cols[i % 4].button(theme, key=f"mestheme_{theme}"):
-                st.session_state.selected_theme = theme
-                st.session_state.reset_search = True
-                do_rerun()
-
-    # 🌟 Tous les Thèmes
-    with st.expander("🏷️ Tags", expanded=False):
-        cols = st.columns(4)
-        for i, theme in enumerate(sorted(all_themes)):
-            if cols[i % 4].button(theme, key=f"theme_{theme}"):
-                st.session_state.selected_theme = theme
-                st.session_state.reset_search = True
-                do_rerun()
-
-    # Définir la requête
-    query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
-
-    if query:
-        with st.spinner("🔍 Recherche en cours..."):
-            vecteur_query = embed_openai(query)
-            indices, scores = rechercher_similaires(vecteur_query, vecteurs, seuil=seuil)
-
-        if len(indices) == 0:
-            st.warning("Aucun résultat trouvé.")
-        else:
-            st.markdown("### 🌟 Résultats pertinents :")
-            for idx, score in zip(indices, scores):
-                bloc = df.iloc[idx]
-
-                # URL prioritaire depuis le bloc; sinon fallback par 'fichier'
-                url_str = to_str(bloc.get("url", ""))
-                if not url_str:
-                    fichier_key = to_str(bloc.get("fichier", ""))
-                    url_str = url_by_file.get(fichier_key, "")
-
-                youtube_id = extract_youtube_id(url_str)
-                start_time = to_int(bloc.get("start", 0), 0)
-                text = to_str(bloc.get("text", ""))
-
-                with st.expander(f"⏱️ {start_time}s — 💬 {text[:60]}... (score: {score:.2f})"):
-                    if text:
-                        st.markdown(f"**Texte complet :** {text}")
-                    if youtube_id:
-                        embed_url = f"https://www.youtube.com/embed/{youtube_id}?start={start_time}&autoplay=0"
-                        st.components.v1.iframe(embed_url, height=315)
-                    elif url_str:
-                        st.markdown(f"[▶️ Ouvrir la vidéo]({url_str})")
-                    else:
-                        st.info("Aucune URL vidéo disponible pour ce résultat.")
-
-    elif menu == "🎥 Toutes les vidéos":
+elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
     # 🔄 bouton de refresh data (invalide le cache, recharge les CSV)
@@ -489,6 +418,7 @@ if menu == "🔍 Recherche":
                             st.markdown(f"- {idee_text}")
 
         st.markdown("---")
+
 
 
 
