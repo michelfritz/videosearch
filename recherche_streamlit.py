@@ -244,6 +244,41 @@ if default not in options:
     default = options[0]
 menu = st.sidebar.radio("Navigation", options, index=options.index(default), key="nav")
 
+def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
+    """
+    - Réécrit les chemins relatifs vers le sous-dossier 'newsletters/images/...'
+    - Injecte un peu de CSS pour les badges si la feuille externe n'est pas dispo.
+    """
+    if not html:
+        return html
+
+    # Normaliser les chemins d'images (src="images/...") -> src="newsletters/images/..."
+    html = html.replace('src="images/', f'src="{base_folder}/images/')
+    html = html.replace("src='images/", f"src='{base_folder}/images/")
+
+    # Idem pour href éventuels (liens vers images ou assets)
+    html = html.replace('href="images/', f'href="{base_folder}/images/')
+    html = html.replace("href='images/", f"href='{base_folder}/images/")
+
+    # CSS minimal pour les badges si .badges est utilisé
+    css = """
+    <style>
+      .badges{display:flex;gap:.5rem;flex-wrap:wrap;margin:.5rem 0;}
+      .badges span{background:#EEF6FF;border:1px solid #CDE3FF;border-radius:16px;
+                   padding:.25rem .6rem;font-size:.85rem;}
+      .nl-hero img{max-width:100%;height:auto;border-radius:8px;display:block;}
+    </style>
+    """
+    # Injecter la CSS au début si absent
+    if "<style" not in html[:800]:
+        html = css + html
+    return html
+
+
+def toggle(key: str):
+    st.session_state[key] = not st.session_state.get(key, False)
+
+
 # =====================
 #       PAGES
 # =====================
@@ -398,15 +433,25 @@ elif menu == "🎥 Toutes les vidéos":
             if resume:
                 st.markdown(f"📜 {resume}")
 
-            if fichier_nom:
-                if st.button("📰 Voir Newsletter", key=f"newsletter_{fichier_nom}"):
-                    newsletter_contenu = charger_newsletter_html(fichier_nom)
-                    if newsletter_contenu:
-                        with st.expander("📬 Newsletter liée à cette vidéo"):
-                            st.markdown(newsletter_contenu, unsafe_allow_html=True)
-                            bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
-                    else:
-                        st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
+
+            # --- remplace TOUT votre bloc actuel "Voir Newsletter" par celui-ci ---
+if fichier_nom:
+    state_key = f"show_newsletter_{fichier_nom}"
+
+    # Un seul bouton qui toggle l’affichage
+    if st.button("📬 Newsletter liée à cette vidéo", key=f"btn_nl_{fichier_nom}"):
+        toggle(state_key)
+
+    if st.session_state.get(state_key, False):
+        newsletter_contenu = charger_newsletter_html(fichier_nom)
+        if newsletter_contenu:
+            newsletter_contenu = fix_newsletter_html(newsletter_contenu)
+            with st.expander("📬 Newsletter (ouvrir/fermer)", expanded=True):
+                st.markdown(newsletter_contenu, unsafe_allow_html=True)
+                bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
+        else:
+            st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
+
 
             if themes:
                 tags_html = "<div style='display: flex; flex-wrap: wrap; gap: 5px;'>"
