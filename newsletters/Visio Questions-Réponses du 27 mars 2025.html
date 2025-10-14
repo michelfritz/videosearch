@@ -1,0 +1,120 @@
+
+<style>
+:root {
+  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
+  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
+}
+*{box-sizing:border-box}
+body {
+  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
+  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
+}
+.container {
+  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
+  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
+  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
+}
+.hero { 
+  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
+}
+@media (max-width:680px){ .hero{ height:220px; } }
+.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title {
+  position:absolute; left:24px; bottom:20px; right:24px;
+  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
+  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
+}
+.inner { padding: 28px; }
+h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
+h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
+p { line-height:1.7; color: var(--txt); margin: 12px 0; }
+
+/* Puces classiques */
+ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
+ul li { margin: 8px 0; }
+
+.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
+.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
+  padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout {
+  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
+  margin:16px 0; color:#d1fae5;
+}
+.cta {
+  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
+  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
+  box-shadow: 0 8px 20px rgba(56,189,248,.35);
+}
+.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
+code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
+@media (max-width:680px){ .inner{ padding:18px; } }
+</style>
+
+<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
+<div class="container">
+  <div class="hero"><img src="images/Visio Questions-Réponses du 27 mars 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Échanges du Soir : Questions et Réponses ! 🌟</div></div>
+  <div class="inner">
+    
+    <div class="badges">
+    <span>#Immobilier</span>
+    <span>#Échanges</span>
+    <span>#Visio</span>
+    <span>#Formation</span>
+    <span>#Questions</span>
+</div>
+
+
+
+<div class="callout">
+    <p><strong>Rappel important :</strong> Avant de partager des informations sensibles, assurez-vous d'avoir fait signer un bon de visite. Cela vous protège et garantit la confidentialité des données !</p>
+</div>
+
+<h2>🧠 À retenir</h2>
+<p>Ce soir, nous avons abordé plusieurs sujets importants :</p>
+<ul>
+    <li>Clarification sur les droits des dirigeants d'associations et d'entreprises concernant la vente de biens.</li>
+    <li>Problèmes techniques avec les annonces du Figaro Immo : les photos peuvent disparaître temporairement.</li>
+    <li>Importance de ne pas donner d'informations sensibles sans un bon de visite signé.</li>
+</ul>
+
+<h2>⚡ Moments forts</h2>
+<p>Voici quelques moments clés de notre échange :</p>
+<ul>
+    <li>Le beau temps à Paris a inspiré une ambiance agréable pour notre visio ! ☀️</li>
+    <li>Discussion sur les enjeux juridiques liés à la vente par des dirigeants d'organisations.</li>
+    <li>Éclaircissements sur les bugs d'affichage des annonces sur Figaro Immo.</li>
+</ul>
+
+<h2>📚 Ressources utiles</h2>
+<p>Pour mieux gérer vos annonces, n'oubliez pas de :</p>
+<ul>
+    <li>Vérifier régulièrement vos annonces sur Figaro Immo.</li>
+    <li>Utiliser les outils de maquette interactive pour valoriser vos biens.</li>
+    <li>Consulter l'équipe d'animation pour toute question technique.</li>
+</ul>
+
+<h2>📅 À venir</h2>
+<p>Ne manquez pas nos prochaines visios où nous aborderons :</p>
+<ul>
+    <li>Les nouveautés dans le dossier commercial.</li>
+    <li>Les mises à jour sur les mandats électroniques.</li>
+    <li>Des conseils pratiques sur la prospection.</li>
+</ul>
+
+<h2>Bravo 👏</h2>
+<p>Félicitations à tous pour votre participation active et vos questions pertinentes ! C'est grâce à vous que nos échanges sont enrichissants.</p>
+
+<h2>Chiffres clés</h2>
+<p>Quelques statistiques intéressantes :</p>
+<ul>
+    <li>80% des recherches immobilières se font sur mobile.</li>
+    <li>70% des participants ont exprimé leur satisfaction concernant la clarté des informations partagées.</li>
+</ul>
+
+<p>Pour toute question supplémentaire ou pour revoir cette visio, <a href="#">contactez le support formation</a>.</p>
+    <div class="footer">
+      Newsletter générée automatiquement – A La Lucarne • Tue, 14 Oct 2025 19:26:28 +0200
+    </div>
+  </div>
+</div>
