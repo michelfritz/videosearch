@@ -1,5 +1,39 @@
 from openai import OpenAI
 import os
+
+# === Tag & CSV header normalization helpers ===
+def _normalize_columns(df):
+    # normalize column names and coerce any column that startswith 'themes' to exactly 'themes'
+    df.columns = [str(c).strip() for c in df.columns]
+    lower = [c.lower() for c in df.columns]
+    # rename any column that startswith 'themes' (e.g., 'themes||||') to 'themes'
+    rename_map = {}
+    for orig, low in zip(df.columns, lower):
+        if low.startswith("themes"):
+            rename_map[orig] = "themes"
+        elif low == "fichier":
+            rename_map[orig] = "fichier"
+    if rename_map:
+        df = df.rename(columns=rename_map)
+    return df
+
+def _split_and_clean_tags(value):
+    # Split by '|' and common separators just in case, strip spaces, drop empties
+    if value is None:
+        return []
+    s = str(value)
+    # Normalize separators to '|'
+    for sep in [" ; ", ";", ",", " / ", "/", "\\\\", "  "]:
+        s = s.replace(sep, "|")
+    parts = [p.strip() for p in s.split("|")]
+    # drop empties and de-duplicate while preserving order
+    seen, out = set(), []
+    for p in parts:
+        if p and p not in seen:
+            out.append(p); seen.add(p)
+    return out
+
+
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
 import streamlit as st
@@ -182,12 +216,21 @@ def charger_urls_et_idees_themes():
 
     idees_v2 = pd.read_csv("idees_v2.csv", encoding=detect_encoding("idees_v2.csv"))
 
-    themes = pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv"))
+    themes = _normalize_columns(pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv")))
+
+# === Canonical computation of all_themes (dedup, cleaned) ===
+_all_themes_list = []
+if "themes" in themes.columns:
+    for theme_list in themes["themes"]:
+        _all_themes_list.extend(_split_and_clean_tags(theme_list))
+all_themes = list(dict.fromkeys(_all_themes_list))  # preserves order
+
+
     if "fichier" not in themes.columns: themes["fichier"] = ""
     if "themes" not in themes.columns:  themes["themes"] = ""
     themes["themes"] = themes["themes"].fillna("")
 
-    mesthemes = pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv"))
+    mesthemes = _normalize_columns(pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv")))
     mesthemes_list = mesthemes["themes"].dropna().tolist() if "themes" in mesthemes.columns else []
 
     # merges robustes
