@@ -8,6 +8,7 @@ import numpy as np
 import pickle
 import openai
 import chardet
+import re
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
@@ -237,70 +238,63 @@ url_by_file = {}
 if "fichier" in urls_df.columns and "url" in urls_df.columns:
     url_by_file = dict(zip(urls_df["fichier"].astype(str), urls_df["url"].astype(str)))
 
+
 def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     """
-    - Réécrit les chemins relatifs vers le sous-dossier 'newsletters/images/...'
-    - Uniformise le rendu en thème clair sur fond sombre (texte blanc)
-    - Supprime l'entête <header> si elle ne contient aucune image après correction des chemins
+    Nettoie et isole le HTML des newsletters pour l'intégrer sans casser l'UI :
+    - Corrige les chemins d'images: images/... -> newsletters/images/...
+    - Supprime <style>, <link rel="stylesheet"> et <script> du HTML source
+    - Supprime le <header> et tout bloc <div class="badges">...</div> interne
+    - Force des couleurs 100% blanches (y compris les liens et puces)
+    - Neutralise les positionnements "fixed" et les opacités qui grisaient l'interface
+    - Retourne un HTML complet (body minimal) à afficher dans un IFRAME (st.components.v1.html)
     """
     if not html:
-        return html
+        return ""
 
-    # Normaliser les chemins d'images (src="images/...") -> src="newsletters/images/..."
+    # 1) Réécriture chemins images/liens
     html = html.replace('src="images/', f'src="{base_folder}/images/')
     html = html.replace("src='images/", f"src='{base_folder}/images/")
-    # Idem pour href éventuels (liens vers images ou assets)
     html = html.replace('href="images/', f'href="{base_folder}/images/')
     html = html.replace("href='images/", f"href='{base_folder}/images/")
 
-    # Si header sans image => supprimer le bloc pour éviter un bandeau vide
-    low = html.lower()
-    if "<header" in low:
-        start = low.find("<header")
-        end   = low.find("</header>", start)
-        if end != -1:
-            header_block = html[start:end+9]
-            header_low = header_block.lower()
-            if "<img" not in header_low:
-                html = html.replace(header_block, "")
+    # 2) Supprimer scripts et styles globaux
+    html = re.sub(r"(?is)<script.*?>.*?</script>", "", html)
+    html = re.sub(r'(?is)<link[^>]+rel=["\']stylesheet["\'][^>]*>', "", html)
+    html = re.sub(r"(?is)<style.*?>.*?</style>", "", html)
 
-    # Styles pour affichage intégré dans Streamlit
+    # 3) Supprimer header intégralement
+    html = re.sub(r"(?is)<header.*?>.*?</header>", "", html)
+
+    # 4) Supprimer le pavé badges éventuel dans la NL
+    html = re.sub(r'(?is)<div\s+class=["\']badges["\'].*?>.*?</div>', "", html)
+
+    # 5) Supprimer les styles inline parasites (couleurs/position/opacity)
+    html = re.sub(r'(?is)\sstyle=["\'][^"\']*["\']', "", html)
+
+    # 6) CSS isolée dans l'iframe (tout en blanc, pas d'overlay)
     css = """
     <style>
+      :root { color-scheme: dark; }
+      html, body { background: transparent !important; margin:0; padding:0; }
       .nl-wrap, .nl-wrap * { color:#fff !important; }
-      .nl-wrap a { color:#B6D7FF !important; text-decoration: underline; }
-      .nl-wrap h1, .nl-wrap h2, .nl-wrap h3, .nl-wrap h4 { color:#fff !important; }
+      .nl-wrap a, .nl-wrap a:visited, .nl-wrap a:hover { color:#fff !important; text-decoration: underline; }
+      .nl-wrap li::marker { color:#fff !important; }
       .nl-wrap pre, .nl-wrap code { background: rgba(255,255,255,0.08) !important; color:#fff !important; }
       .nl-wrap img { max-width:100%; height:auto; display:block; border-radius:8px; }
-      .badges{display:flex;gap:.5rem;flex-wrap:wrap;margin:.5rem 0;}
-      .badges span{background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.18);border-radius:16px;
-                   padding:.25rem .6rem;font-size:.85rem; color:#fff !important;}
-      .nl-hero img{max-width:100%;height:auto;border-radius:8px;display:block;}
+      /* Neutraliser les overlays/positions bloquantes */
+      .nl-wrap * { position: static !important; opacity: 1 !important; filter: none !important; backdrop-filter:none !important; }
+      /* Titres un peu plus clairs */
+      .nl-wrap h1, .nl-wrap h2, .nl-wrap h3, .nl-wrap h4, .nl-wrap h5 { color:#fff !important; margin: .6rem 0; }
+      /* Espacements doux */
+      .nl-wrap p { margin: .45rem 0; line-height: 1.55; }
     </style>
     """
-    return css + f"<div class='nl-wrap'>{html}</div>"
 
-    # Normaliser les chemins d'images (src="images/...") -> src="newsletters/images/..."
-    html = html.replace('src="images/', f'src="{base_folder}/images/')
-    html = html.replace("src='images/", f"src='{base_folder}/images/")
-
-    # Idem pour href éventuels (liens vers images ou assets)
-    html = html.replace('href="images/', f'href="{base_folder}/images/')
-    html = html.replace("href='images/", f"href='{base_folder}/images/")
-
-    # CSS minimal pour les badges si .badges est utilisé
-    css = """
-    <style>
-      .badges{display:flex;gap:.5rem;flex-wrap:wrap;margin:.5rem 0;}
-      .badges span{background:#EEF6FF;border:1px solid #CDE3FF;border-radius:16px;
-                   padding:.25rem .6rem;font-size:.85rem;}
-      .nl-hero img{max-width:100%;height:auto;border-radius:8px;display:block;}
-    </style>
-    """
-    # Injecter la CSS au début si absent
-    if "<style" not in html[:800]:
-        html = css + html
-    return html
+    # 7) Contenu encapsulé pour IFRAME (srcdoc)
+    body = f"{css}<div class='nl-wrap'>{html}</div>"
+    iframe_html = f"<!DOCTYPE html><html><head><meta charset='utf-8' /></head><body>{body}</body></html>"
+    return iframe_html
 
 def toggle(key: str):
     st.session_state[key] = not st.session_state.get(key, False)
@@ -484,7 +478,7 @@ elif menu == "🎥 Toutes les vidéos":
                     if newsletter_contenu:
                         newsletter_contenu = fix_newsletter_html(newsletter_contenu)
                         with st.expander("📬 Newsletter (ouvrir/fermer)", expanded=True):
-                            st.markdown(newsletter_contenu, unsafe_allow_html=True)
+                            st.components.v1.html(newsletter_contenu, height=900, scrolling=True)
                             bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
                     else:
                         st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
