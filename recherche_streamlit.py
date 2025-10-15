@@ -210,12 +210,12 @@ def charger_urls_et_idees_themes():
 
     idees_v2 = pd.read_csv("idees_v2.csv", encoding=detect_encoding("idees_v2.csv"))
 
-    themes = _normalize_columns(pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv"))
+    themes = _normalize_columns(pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv")))
     if "fichier" not in themes.columns: themes["fichier"] = ""
     if "themes" not in themes.columns:  themes["themes"] = ""
     themes["themes"] = themes["themes"].fillna("")
 
-    mesthemes = _normalize_columns(pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv"))
+    mesthemes = _normalize_columns(pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv")))
     mesthemes_list = mesthemes["themes"].dropna().tolist() if "themes" in mesthemes.columns else []
 
     # merges robustes
@@ -257,11 +257,6 @@ if 'themes' in themes_df.columns:
     for theme_list in themes_df['themes'].dropna():
         _all_themes_list.extend(_split_and_clean_tags(theme_list))
 all_themes = list(dict.fromkeys(_all_themes_list))  # ordre préservé
-
-            theme = theme.strip()
-            if theme:
-                all_themes.add(theme)
-
 # 🔁 Fallback URL par 'fichier' (utile si df["url"] est vide)
 url_by_file = {}
 if "fichier" in urls_df.columns and "url" in urls_df.columns:
