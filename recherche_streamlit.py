@@ -21,7 +21,49 @@ st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide"
 # ------------------------------------
 # Helpers: session state + safe image + safe URL + safe rerun
 # ------------------------------------
-def init_state():
+def 
+def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
+    \"\"\"Affiche des tags sur 2 rangées, scroll horizontal (mobile + flèches).\"\"\"
+    if not themes_str:
+        return
+    chips = [t.strip() for t in str(themes_str).split("|") if t.strip()]
+    if not chips:
+        return
+    # Build HTML component
+    items_html = "".join([f"<span class='tag'>{html.escape(c)}</span>" for c in chips])
+    html_block = f'''
+    <style>
+      .tagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
+      .tagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
+                           gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
+                           scroll-behavior:smooth; overscroll-behavior:contain;
+                           -webkit-overflow-scrolling:touch; scrollbar-width:thin;}}
+      .tagbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
+      .tagbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
+      .tagbox-{uid} .tag{{display:inline-block;white-space:nowrap;background:#D0E8FF;color:#0A2540;
+                          border-radius:999px;padding:6px 12px;font-size:13px;border:1px solid rgba(0,0,0,.05);}}
+      .tagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
+                          padding:0 6px;line-height:1}}
+      .tagbox-{uid} .btn:focus{{outline:none}}
+    </style>
+    <div class="tagbox-{uid}">
+      <div class="bar">
+        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:-320,behavior:'smooth'}})">&#9664;</button>
+        <div id="wrap-{uid}" class="wrap" style="height:{height-24}px">{items_html}</div>
+        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
+      </div>
+    </div>
+    <script>
+      const w = document.getElementById('wrap-{uid}');
+      if (w) { 
+        w.addEventListener('wheel', (e)=>{{ 
+          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }} 
+        }}, {{passive:false}});
+      }
+    </script>
+    '''
+    st.components.v1.html(html_block, height=height, scrolling=False)
+init_state():
     """Initialize all session_state keys that are later read by the app."""
     defaults = {
         "nav": "🔍 Recherche",
@@ -239,14 +281,16 @@ if "fichier" in urls_df.columns and "url" in urls_df.columns:
     url_by_file = dict(zip(urls_df["fichier"].astype(str), urls_df["url"].astype(str)))
 
 
+
 def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     """
     Nettoie et isole le HTML des newsletters pour l'intégrer sans casser l'UI :
     - Corrige les chemins d'images: images/... -> newsletters/images/...
     - Supprime <style>, <link rel="stylesheet"> et <script> du HTML source
-    - Supprime le <header> et tout bloc <div class="badges">...</div> interne
-    - Force des couleurs 100% blanches (y compris les liens et puces)
-    - Neutralise les positionnements "fixed" et les opacités qui grisaient l'interface
+    - Supprime le header .hero et en récupère le titre pour l'afficher en <h1> agrandi
+    - Supprime tout bloc <div class="badges">...</div>
+    - Force des couleurs 100% blanches (y compris les liens et puces) + neutralise overlays
+    - Réécrit le footer: "Copyright A La Lucarne de l'immobilier • <DATE>"
     - Retourne un HTML complet (body minimal) à afficher dans un IFRAME (st.components.v1.html)
     """
     if not html:
@@ -258,21 +302,41 @@ def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     html = html.replace('href="images/', f'href="{base_folder}/images/')
     html = html.replace("href='images/", f"href='{base_folder}/images/")
 
-    # 2) Supprimer scripts et styles globaux
+    # 2) Supprimer scripts, feuilles de style et styles inline qui polluent
     html = re.sub(r"(?is)<script.*?>.*?</script>", "", html)
-    html = re.sub(r'(?is)<link[^>]+rel=["\']stylesheet["\'][^>]*>', "", html)
+    html = re.sub(r'(?is)<link[^>]+rel=["\\\']stylesheet["\\\'][^>]*>', "", html)
     html = re.sub(r"(?is)<style.*?>.*?</style>", "", html)
+    html = re.sub(r'(?is)\\sstyle=["\\\'][^"\\\']*["\\\']', "", html)
 
-    # 3) Supprimer header intégralement
-    html = re.sub(r"(?is)<header.*?>.*?</header>", "", html)
+    # 3) Extraire le titre de la section .hero si présent, puis retirer entièrement .hero
+    title_txt = ""
+    m_hero = re.search(r'(?is)<div\\s+class=["\\\']hero["\\\'][^>]*>(.*?)</div>', html)
+    if m_hero:
+        hero_block = m_hero.group(0)
+        # Chercher .title interne
+        m_title = re.search(r'(?is)<div\\s+class=["\\\']title["\\\'][^>]*>(.*?)</div>', hero_block)
+        if m_title:
+            # Nettoyer le texte
+            raw = m_title.group(1)
+            raw = re.sub(r"(?is)<.*?>", "", raw)  # retirer tags
+            title_txt = raw.strip()
+        # Retirer le hero complet
+        html = html.replace(hero_block, "")
 
     # 4) Supprimer le pavé badges éventuel dans la NL
-    html = re.sub(r'(?is)<div\s+class=["\']badges["\'].*?>.*?</div>', "", html)
+    html = re.sub(r'(?is)<div\\s+class=["\\\']badges["\\\'].*?>.*?</div>', "", html)
 
-    # 5) Supprimer les styles inline parasites (couleurs/position/opacity)
-    html = re.sub(r'(?is)\sstyle=["\'][^"\']*["\']', "", html)
+    # 5) Réécrire le footer
+    def _rewrite_footer(block: str) -> str:
+        # extraire une date du type "Tue, 14 Oct 2025" (sans heure)
+        m = re.search(r'([A-Za-zéûîÉÈÀÂÔÛÏËÇç]{3,},?\\s*\\d{1,2}\\s+[A-Za-zéûîÉÈÀÂÔÛÏËÇç]{3,}\\s+\\d{4})', block)
+        date_txt = m.group(1) if m else ""
+        return f'<div class="footer">Copyright A La Lucarne de l\\'immobilier • {date_txt}</div>'
+    m_footer = re.search(r'(?is)<div\\s+class=["\\\']footer["\\\'].*?>.*?</div>', html)
+    if m_footer:
+        html = html.replace(m_footer.group(0), _rewrite_footer(m_footer.group(0)))
 
-    # 6) CSS isolée dans l'iframe (tout en blanc, pas d'overlay)
+    # 6) CSS isolée dans l'iframe (tout en blanc, pas d'overlay) + titre agrandi
     css = """
     <style>
       :root { color-scheme: dark; }
@@ -284,15 +348,19 @@ def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
       .nl-wrap img { max-width:100%; height:auto; display:block; border-radius:8px; }
       /* Neutraliser les overlays/positions bloquantes */
       .nl-wrap * { position: static !important; opacity: 1 !important; filter: none !important; backdrop-filter:none !important; }
-      /* Titres un peu plus clairs */
-      .nl-wrap h1, .nl-wrap h2, .nl-wrap h3, .nl-wrap h4, .nl-wrap h5 { color:#fff !important; margin: .6rem 0; }
+      /* Titres */
+      .nl-wrap h1, .nl-title { color:#fff !important; margin:.6rem 0; font-size: clamp(28px, 4.8vw, 42px); font-weight:800; }
+      .nl-wrap h2, .nl-wrap h3, .nl-wrap h4, .nl-wrap h5 { color:#fff !important; margin:.6rem 0; }
       /* Espacements doux */
       .nl-wrap p { margin: .45rem 0; line-height: 1.55; }
     </style>
     """
 
-    # 7) Contenu encapsulé pour IFRAME (srcdoc)
-    body = f"{css}<div class='nl-wrap'>{html}</div>"
+    # 7) Injecter un H1 si on a récupéré un titre depuis .hero
+    title_html = f"<h1 class='nl-title'>{title_txt}</h1>" if title_txt else ""
+
+    # 8) Contenu encapsulé pour IFRAME (srcdoc)
+    body = f"{css}<div class='nl-wrap'>{title_html}{html}</div>"
     iframe_html = f"<!DOCTYPE html><html><head><meta charset='utf-8' /></head><body>{body}</body></html>"
     return iframe_html
 
@@ -484,15 +552,9 @@ elif menu == "🎥 Toutes les vidéos":
                         st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
             # -----------------------------------------------------------------------
 
-            # Tags jolis
+            # Tags jolis → scroller 2 rangées
             if themes:
-                tags_html = "<div class='badges' style='display:flex;flex-wrap:wrap;gap:5px;'>"
-                for theme in themes.split("|"):
-                    t = theme.strip()
-                    if t:
-                        tags_html += "<span style='background-color:#D0E8FF;padding:6px 12px;border-radius:20px;'>" + t + "</span>"
-                tags_html += "</div>"
-                st.markdown(tags_html, unsafe_allow_html=True)
+                render_tags_scroller(themes, uid=(fichier_nom or 'tags'))
 
             st.markdown("<div style='height: 10px;'></div>", unsafe_allow_html=True)
 
