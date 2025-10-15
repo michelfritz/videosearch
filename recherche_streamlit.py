@@ -12,34 +12,6 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
-# === Helpers: CSV header & tag normalization ===
-def _normalize_columns(df):
-    df.columns = [str(c).strip() for c in df.columns]
-    rename_map = {}
-    for c in df.columns:
-        lc = c.lower()
-        if lc.startswith('themes'):
-            rename_map[c] = 'themes'
-        elif lc == 'fichier':
-            rename_map[c] = 'fichier'
-    if rename_map:
-        df = df.rename(columns=rename_map)
-    return df
-
-def _split_and_clean_tags(value):
-    if value is None:
-        return []
-    s = str(value)
-    for sep in [' ; ', ';', ',', ' / ', '/', '\\', '  ']:
-        s = s.replace(sep, '|')
-    parts = [p.strip() for p in s.split('|')]
-    seen, out = set(), []
-    for p in parts:
-        if p and p not in seen:
-            out.append(p); seen.add(p)
-    return out
-
-
 # ------------------------------------
 # Page setup
 # ------------------------------------
@@ -210,12 +182,12 @@ def charger_urls_et_idees_themes():
 
     idees_v2 = pd.read_csv("idees_v2.csv", encoding=detect_encoding("idees_v2.csv"))
 
-    themes = _normalize_columns(pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv")))
+    themes = pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv"))
     if "fichier" not in themes.columns: themes["fichier"] = ""
     if "themes" not in themes.columns:  themes["themes"] = ""
     themes["themes"] = themes["themes"].fillna("")
 
-    mesthemes = _normalize_columns(pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv")))
+    mesthemes = pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv"))
     mesthemes_list = mesthemes["themes"].dropna().tolist() if "themes" in mesthemes.columns else []
 
     # merges robustes
@@ -251,12 +223,15 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
-# 🔖 Préparer tous les thèmes (nettoyés & sans doublons)
-_all_themes_list = []
-if 'themes' in themes_df.columns:
-    for theme_list in themes_df['themes'].dropna():
-        _all_themes_list.extend(_split_and_clean_tags(theme_list))
-all_themes = list(dict.fromkeys(_all_themes_list))  # ordre préservé
+# 🔖 Préparer tous les thèmes
+all_themes = set()
+if "themes" in themes_df.columns:
+    for theme_list in themes_df["themes"].dropna():
+        for theme in to_str(theme_list).split("|"):
+            theme = theme.strip()
+            if theme:
+                all_themes.add(theme)
+
 # 🔁 Fallback URL par 'fichier' (utile si df["url"] est vide)
 url_by_file = {}
 if "fichier" in urls_df.columns and "url" in urls_df.columns:
@@ -265,10 +240,45 @@ if "fichier" in urls_df.columns and "url" in urls_df.columns:
 def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     """
     - Réécrit les chemins relatifs vers le sous-dossier 'newsletters/images/...'
-    - Injecte un peu de CSS pour les badges si la feuille externe n'est pas dispo.
+    - Uniformise le rendu en thème clair sur fond sombre (texte blanc)
+    - Supprime l'entête <header> si elle ne contient aucune image après correction des chemins
     """
     if not html:
         return html
+
+    # Normaliser les chemins d'images (src="images/...") -> src="newsletters/images/..."
+    html = html.replace('src="images/', f'src="{base_folder}/images/')
+    html = html.replace("src='images/", f"src='{base_folder}/images/")
+    # Idem pour href éventuels (liens vers images ou assets)
+    html = html.replace('href="images/', f'href="{base_folder}/images/')
+    html = html.replace("href='images/", f"href='{base_folder}/images/")
+
+    # Si header sans image => supprimer le bloc pour éviter un bandeau vide
+    low = html.lower()
+    if "<header" in low:
+        start = low.find("<header")
+        end   = low.find("</header>", start)
+        if end != -1:
+            header_block = html[start:end+9]
+            header_low = header_block.lower()
+            if "<img" not in header_low:
+                html = html.replace(header_block, "")
+
+    # Styles pour affichage intégré dans Streamlit
+    css = """
+    <style>
+      .nl-wrap, .nl-wrap * { color:#fff !important; }
+      .nl-wrap a { color:#B6D7FF !important; text-decoration: underline; }
+      .nl-wrap h1, .nl-wrap h2, .nl-wrap h3, .nl-wrap h4 { color:#fff !important; }
+      .nl-wrap pre, .nl-wrap code { background: rgba(255,255,255,0.08) !important; color:#fff !important; }
+      .nl-wrap img { max-width:100%; height:auto; display:block; border-radius:8px; }
+      .badges{display:flex;gap:.5rem;flex-wrap:wrap;margin:.5rem 0;}
+      .badges span{background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.18);border-radius:16px;
+                   padding:.25rem .6rem;font-size:.85rem; color:#fff !important;}
+      .nl-hero img{max-width:100%;height:auto;border-radius:8px;display:block;}
+    </style>
+    """
+    return css + f"<div class='nl-wrap'>{html}</div>"
 
     # Normaliser les chemins d'images (src="images/...") -> src="newsletters/images/..."
     html = html.replace('src="images/', f'src="{base_folder}/images/')
@@ -425,6 +435,7 @@ elif menu == "🎥 Toutes les vidéos":
         video_name  = to_str(row.get("titre", "Titre inconnu"))
         video_date  = to_str(row.get("date", "Date inconnue"))
         fichier_nom = to_str(row.get("fichier", ""))
+        primary_title = fichier_nom if fichier_nom else video_name
 
         # URL + fallback
         url_str = to_str(row.get("url", ""))
@@ -450,12 +461,13 @@ elif menu == "🎥 Toutes les vidéos":
                 st.write("🖼️ Miniature indisponible")
 
         with col2:
-            # Titre + lien
+            # Titre principal = nom de fichier ; titre original en plus petit sur la ligne de date
             if url_str:
-                st.markdown(f"### [{video_name}]({url_str})")
+                st.markdown(f"### [{primary_title}]({url_str})")
             else:
-                st.markdown(f"### {video_name}")
-            st.markdown(f"🗓️ *{video_date}*")
+                st.markdown(f"### {primary_title}")
+            meta_line = f"🗓️ <em>{video_date}</em> — <span style=\"font-size:0.95rem; opacity:0.85\">{video_name}</span>"
+            st.markdown(meta_line, unsafe_allow_html=True)
 
             if resume:
                 st.markdown(f"📜 {resume}")
@@ -544,8 +556,8 @@ Tu es un expert de notre entreprise. Voici des extraits de nos formations :
 
 {context}
 
-Réponds précisément à la question suivante en utilisant en premiere intention ces extraits et en complétant si necessaire par AI.
-Si aucune information n'existe dans le corpus de ces extraits, réponds en commencant ta phrase par: "Je n'ai pas trouvé cette information précise dans notre base de connaissance actuelle."
+Réponds précisément à la question suivante en utilisant uniquement ces extraits.
+Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette information dans notre base actuelle."
 
 Question : {user_question}
 """
