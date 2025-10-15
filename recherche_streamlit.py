@@ -8,7 +8,7 @@ import numpy as np
 import pickle
 import openai
 import chardet
-import re
+import re, html, urllib.parse
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
@@ -19,51 +19,38 @@ from langchain_openai import ChatOpenAI
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
 
 # ------------------------------------
+# Helpers: CSV header & tag normalization
+# ------------------------------------
+def _normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
+    df.columns = [str(c).strip() for c in df.columns]
+    rename_map = {}
+    for c in df.columns:
+        lc = c.lower()
+        if lc.startswith("themes"):
+            rename_map[c] = "themes"
+        elif lc == "fichier":
+            rename_map[c] = "fichier"
+    if rename_map:
+        df = df.rename(columns=rename_map)
+    return df
+
+def _split_and_clean_tags(value) -> list[str]:
+    if value is None:
+        return []
+    s = str(value)
+    for sep in [" ; ", ";", ",", " / ", "/", "\\", "  "]:
+        s = s.replace(sep, "|")
+    parts = [p.strip() for p in s.split("|")]
+    seen, out = set(), []
+    for p in parts:
+        if p and p not in seen:
+            out.append(p); seen.add(p)
+    return out
+
+# ------------------------------------
 # Helpers: session state + safe image + safe URL + safe rerun
 # ------------------------------------
-def 
-def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
-    \"\"\"Affiche des tags sur 2 rangées, scroll horizontal (mobile + flèches).\"\"\"
-    if not themes_str:
-        return
-    chips = [t.strip() for t in str(themes_str).split("|") if t.strip()]
-    if not chips:
-        return
-    # Build HTML component
-    items_html = "".join([f"<span class='tag'>{html.escape(c)}</span>" for c in chips])
-    html_block = f'''
-    <style>
-      .tagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
-      .tagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
-                           gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
-                           scroll-behavior:smooth; overscroll-behavior:contain;
-                           -webkit-overflow-scrolling:touch; scrollbar-width:thin;}}
-      .tagbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
-      .tagbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
-      .tagbox-{uid} .tag{{display:inline-block;white-space:nowrap;background:#D0E8FF;color:#0A2540;
-                          border-radius:999px;padding:6px 12px;font-size:13px;border:1px solid rgba(0,0,0,.05);}}
-      .tagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
-                          padding:0 6px;line-height:1}}
-      .tagbox-{uid} .btn:focus{{outline:none}}
-    </style>
-    <div class="tagbox-{uid}">
-      <div class="bar">
-        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:-320,behavior:'smooth'}})">&#9664;</button>
-        <div id="wrap-{uid}" class="wrap" style="height:{height-24}px">{items_html}</div>
-        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
-      </div>
-    </div>
-    <script>
-      const w = document.getElementById('wrap-{uid}');
-      if (w) { 
-        w.addEventListener('wheel', (e)=>{{ 
-          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }} 
-        }}, {{passive:false}});
-      }
-    </script>
-    '''
-    st.components.v1.html(html_block, height=height, scrolling=False)
-init_state():
+def init_state():
     """Initialize all session_state keys that are later read by the app."""
     defaults = {
         "nav": "🔍 Recherche",
@@ -130,7 +117,104 @@ def to_int(x, default=0):
     except Exception:
         return default
 
+# ------------------------------------
+# Tag scrollers (display + interactive picker)
+# ------------------------------------
+def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
+    """Affiche des tags (texte) sur 2 rangées, scroll horizontal (mobile + flèches)."""
+    if not themes_str:
+        return
+    chips = [t.strip() for t in str(themes_str).split("|") if t.strip()]
+    if not chips:
+        return
+    items_html = "".join([f"<span class='tag'>{html.escape(c)}</span>" for c in chips])
+    html_block = """
+    <style>
+      .tagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
+      .tagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
+                           gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
+                           scroll-behavior:smooth; overscroll-behavior:contain;
+                           -webkit-overflow-scrolling:touch; scrollbar-width:thin;}}
+      .tagbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
+      .tagbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
+      .tagbox-{uid} .tag{{display:inline-block;white-space:nowrap;background:#D0E8FF;color:#0A2540;
+                          border-radius:999px;padding:6px 12px;font-size:13px;border:1px solid rgba(0,0,0,.05);}}
+      .tagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
+                          padding:0 6px;line-height:1}}
+      .tagbox-{uid} .btn:focus{{outline:none}}
+    </style>
+    <div class="tagbox-{uid}">
+      <div class="bar">
+        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:-320,behavior:'smooth'}})">&#9664;</button>
+        <div id="wrap-{uid}" class="wrap" style="height:{h}px">{items_html}</div>
+        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
+      </div>
+    </div>
+    <script>
+      const w = document.getElementById('wrap-{uid}');
+      if (w) {{ 
+        w.addEventListener('wheel', (e)=>{{ 
+          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }} 
+        }}, {{passive:false}});
+      }}
+    </script>
+    """.format(uid=uid, h=height-24, items_html=items_html)
+    st.components.v1.html(html_block, height=height, scrolling=False)
+
+def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 130):
+    """Affiche des tags *cliquables* sur 2 rangées, défilement horizontal (mobile + flèches)."""
+    if not tags:
+        return
+    items_html = []
+    for c in tags:
+        label = html.escape(c)
+        link  = "?select_tag=" + urllib.parse.quote(c)
+        items_html.append(f"<a class='tag' href='{link}'>{label}</a>")
+    items_html = "".join(items_html)
+    html_block = """
+    <style>
+      .itagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
+      .itagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
+                           gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
+                           scroll-behavior:smooth; overscroll-behavior:contain;
+                           -webkit-overflow-scrolling:touch; scrollbar-width:thin;}}
+      .itagbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
+      .itagbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
+      .itagbox-{uid} .tag{{display:inline-block;white-space:nowrap;background:#D0E8FF;color:#0A2540;
+                          border-radius:999px;padding:6px 12px;font-size:13px;border:1px solid rgba(0,0,0,.05);
+                          text-decoration:none}}
+      .itagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
+                          padding:0 6px;line-height:1}}
+      .itagbox-{uid} .btn:focus{{outline:none}}
+    </style>
+    <div class="itagbox-{uid}">
+      <div class="bar">
+        <button class="btn" onclick="document.getElementById('iwrap-{uid}').scrollBy({{left:-320,behavior:'smooth'}})">&#9664;</button>
+        <div id="iwrap-{uid}" class="wrap" style="height:{h}px">{items_html}</div>
+        <button class="btn" onclick="document.getElementById('iwrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
+      </div>
+    </div>
+    <script>
+      const w = document.getElementById('iwrap-{uid}');
+      if (w) {{ 
+        w.addEventListener('wheel', (e)=>{{ 
+          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }} 
+        }}, {{passive:false}});
+      }}
+    </script>
+    """.format(uid=uid, h=height-24, items_html=items_html)
+    st.components.v1.html(html_block, height=height, scrolling=False)
+
+def handle_select_tag_from_query():
+    params = st.experimental_get_query_params()
+    if "select_tag" in params and params["select_tag"]:
+        tag = params["select_tag"][0]
+        st.session_state.selected_theme = tag
+        st.experimental_set_query_params()  # clear param
+        st.session_state.reset_search = True
+
 init_state()
+handle_select_tag_from_query()
 
 # 🎨 Logo (optionnel)
 show_image("logo_lucarne.png", width=180)
@@ -217,7 +301,7 @@ def charger_urls_et_idees_themes():
     urls["fichier"]= urls["fichier"].fillna("").astype(str)
     urls["url"]    = urls["url"].fillna("").astype(str)
 
-    # --- idem qu’avant pour les autres CSV ---
+    # --- autres CSV ---
     idees = pd.read_csv("idees.csv", encoding=detect_encoding("idees.csv"))
     if "fichier" not in idees.columns: idees["fichier"] = ""
     if "idees" not in idees.columns:   idees["idees"] = ""
@@ -225,12 +309,12 @@ def charger_urls_et_idees_themes():
 
     idees_v2 = pd.read_csv("idees_v2.csv", encoding=detect_encoding("idees_v2.csv"))
 
-    themes = pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv"))
+    themes = _normalize_columns(pd.read_csv("themes.csv", encoding=detect_encoding("themes.csv")))
     if "fichier" not in themes.columns: themes["fichier"] = ""
     if "themes" not in themes.columns:  themes["themes"] = ""
     themes["themes"] = themes["themes"].fillna("")
 
-    mesthemes = pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv"))
+    mesthemes = _normalize_columns(pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv")))
     mesthemes_list = mesthemes["themes"].dropna().tolist() if "themes" in mesthemes.columns else []
 
     # merges robustes
@@ -266,33 +350,33 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
-# 🔖 Préparer tous les thèmes
-all_themes = set()
+# 🔖 Préparer tous les thèmes (nettoyés & sans doublons)
+_all_themes_list = []
 if "themes" in themes_df.columns:
     for theme_list in themes_df["themes"].dropna():
-        for theme in to_str(theme_list).split("|"):
-            theme = theme.strip()
-            if theme:
-                all_themes.add(theme)
+        _all_themes_list.extend(_split_and_clean_tags(theme_list))
+all_themes = list(dict.fromkeys(_all_themes_list))  # ordre préservé
 
 # 🔁 Fallback URL par 'fichier' (utile si df["url"] est vide)
 url_by_file = {}
 if "fichier" in urls_df.columns and "url" in urls_df.columns:
     url_by_file = dict(zip(urls_df["fichier"].astype(str), urls_df["url"].astype(str)))
 
-
-
-def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
+# ------------------------------------
+# Newsletter HTML → iFrame isolée + nettoyage + titre + footer
+# ------------------------------------
+def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     """
     Nettoie et isole le HTML des newsletters pour l'intégrer sans casser l'UI :
     - Corrige les chemins d'images: images/... -> newsletters/images/...
-    - Supprime <style>, <link rel="stylesheet"> et <script> du HTML source
-    - Supprime le header .hero et en récupère le titre pour l'afficher en <h1> agrandi
+    - Supprime <style>, <link rel="stylesheet"> et <script> + styles inline
+    - Retire complètement le bloc .hero et extrait le titre .title → <h1 class="nl-title">
     - Supprime tout bloc <div class="badges">...</div>
-    - Force des couleurs 100% blanches (y compris les liens et puces) + neutralise overlays
-    - Réécrit le footer: "Copyright A La Lucarne de l'immobilier • <DATE>"
-    - Retourne un HTML complet (body minimal) à afficher dans un IFRAME (st.components.v1.html)
+    - Réécrit le footer: "Copyright A La Lucarne de l'immobilier • <DATE sans heure>"
+    - Force des couleurs blanches + neutralise overlays/positions/filtres
+    - Retourne un HTML complet (body minimal) prêt pour un IFRAME (srcdoc)
     """
+    html = html_src or ""
     if not html:
         return ""
 
@@ -302,41 +386,37 @@ def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     html = html.replace('href="images/', f'href="{base_folder}/images/')
     html = html.replace("href='images/", f"href='{base_folder}/images/")
 
-    # 2) Supprimer scripts, feuilles de style et styles inline qui polluent
+    # 2) Supprimer scripts, feuilles de style et styles inline
     html = re.sub(r"(?is)<script.*?>.*?</script>", "", html)
-    html = re.sub(r'(?is)<link[^>]+rel=["\\\']stylesheet["\\\'][^>]*>', "", html)
+    html = re.sub(r'(?is)<link[^>]+rel=["\']stylesheet["\'][^>]*>', "", html)
     html = re.sub(r"(?is)<style.*?>.*?</style>", "", html)
-    html = re.sub(r'(?is)\\sstyle=["\\\'][^"\\\']*["\\\']', "", html)
+    html = re.sub(r'(?is)\sstyle=["\'][^"\']*["\']', "", html)
 
-    # 3) Extraire le titre de la section .hero si présent, puis retirer entièrement .hero
+    # 3) Extraire le titre de .hero puis retirer .hero
     title_txt = ""
-    m_hero = re.search(r'(?is)<div\\s+class=["\\\']hero["\\\'][^>]*>(.*?)</div>', html)
+    m_hero = re.search(r'(?is)<div\s+class=["\']hero["\'][^>]*>(.*?)</div>', html)
     if m_hero:
         hero_block = m_hero.group(0)
-        # Chercher .title interne
-        m_title = re.search(r'(?is)<div\\s+class=["\\\']title["\\\'][^>]*>(.*?)</div>', hero_block)
+        m_title = re.search(r'(?is)<div\s+class=["\']title["\'][^>]*>(.*?)</div>', hero_block)
         if m_title:
-            # Nettoyer le texte
             raw = m_title.group(1)
-            raw = re.sub(r"(?is)<.*?>", "", raw)  # retirer tags
+            raw = re.sub(r"(?is)<.*?>", "", raw)
             title_txt = raw.strip()
-        # Retirer le hero complet
         html = html.replace(hero_block, "")
 
     # 4) Supprimer le pavé badges éventuel dans la NL
-    html = re.sub(r'(?is)<div\\s+class=["\\\']badges["\\\'].*?>.*?</div>', "", html)
+    html = re.sub(r'(?is)<div\s+class=["\']badges["\'].*?>.*?</div>', "", html)
 
     # 5) Réécrire le footer
     def _rewrite_footer(block: str) -> str:
-        # extraire une date du type "Tue, 14 Oct 2025" (sans heure)
-        m = re.search(r'([A-Za-zéûîÉÈÀÂÔÛÏËÇç]{3,},?\\s*\\d{1,2}\\s+[A-Za-zéûîÉÈÀÂÔÛÏËÇç]{3,}\\s+\\d{4})', block)
+        m = re.search(r'([A-Za-zéûîÉÈÀÂÔÛÏËÇç]{3,},?\s*\d{1,2}\s+[A-Za-zéûîÉÈÀÂÔÛÏËÇç]{3,}\s+\d{4})', block)
         date_txt = m.group(1) if m else ""
-        return f'<div class="footer">Copyright A La Lucarne de l\\'immobilier • {date_txt}</div>'
-    m_footer = re.search(r'(?is)<div\\s+class=["\\\']footer["\\\'].*?>.*?</div>', html)
+        return f'<div class="footer">Copyright A La Lucarne de l\'immobilier • {date_txt}</div>'
+    m_footer = re.search(r'(?is)<div\s+class=["\']footer["\'].*?>.*?</div>', html)
     if m_footer:
         html = html.replace(m_footer.group(0), _rewrite_footer(m_footer.group(0)))
 
-    # 6) CSS isolée dans l'iframe (tout en blanc, pas d'overlay) + titre agrandi
+    # 6) CSS isolée (blanc) et neutralisation d'effets
     css = """
     <style>
       :root { color-scheme: dark; }
@@ -349,17 +429,15 @@ def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
       /* Neutraliser les overlays/positions bloquantes */
       .nl-wrap * { position: static !important; opacity: 1 !important; filter: none !important; backdrop-filter:none !important; }
       /* Titres */
-      .nl-wrap h1, .nl-title { color:#fff !important; margin:.6rem 0; font-size: clamp(28px, 4.8vw, 42px); font-weight:800; }
-      .nl-wrap h2, .nl-wrap h3, .nl-wrap h4, .nl-wrap h5 { color:#fff !important; margin:.6rem 0; }
-      /* Espacements doux */
-      .nl-wrap p { margin: .45rem 0; line-height: 1.55; }
+      .nl-wrap h1.nl-title, .nl-title { color:#fff !important; margin:.35rem 0 1rem; 
+        font-size: clamp(34px, 6.2vw, 56px) !important; font-weight:900 !important; line-height:1.15 !important; letter-spacing:-.3px; }
+      .nl-wrap h2 { font-size: clamp(20px, 3.4vw, 28px) !important; font-weight:700 !important; }
+      .nl-wrap h3 { font-size: clamp(18px, 3vw, 24px) !important; font-weight:600 !important; }
+      .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.4vw, 18px); }
     </style>
     """
-
-    # 7) Injecter un H1 si on a récupéré un titre depuis .hero
     title_html = f"<h1 class='nl-title'>{title_txt}</h1>" if title_txt else ""
 
-    # 8) Contenu encapsulé pour IFRAME (srcdoc)
     body = f"{css}<div class='nl-wrap'>{title_html}{html}</div>"
     iframe_html = f"<!DOCTYPE html><html><head><meta charset='utf-8' /></head><body>{body}</body></html>"
     return iframe_html
@@ -367,13 +445,12 @@ def fix_newsletter_html(html: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
 def toggle(key: str):
     st.session_state[key] = not st.session_state.get(key, False)
 
-    # ---- Sidebar Navigation (robuste) ----
+# ---- Sidebar Navigation (robuste) ----
 options = ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"]
 default = st.session_state.get("nav", options[0])
 if default not in options:
     default = options[0]
 menu = st.sidebar.radio("Navigation", options, index=options.index(default), key="nav")
-
 
 # =====================
 #       PAGES
@@ -408,14 +485,9 @@ if menu == "🔍 Recherche":
                 st.session_state.reset_search = True
                 do_rerun()
 
-    # 🌟 Tous les Thèmes
+    # 🌟 Tous les Tags (2 lignes + scroll horizontal + clics)
     with st.expander("🏷️ Tags", expanded=False):
-        cols = st.columns(4)
-        for i, theme in enumerate(sorted(all_themes)):
-            if cols[i % 4].button(theme, key=f"theme_{theme}"):
-                st.session_state.selected_theme = theme
-                st.session_state.reset_search = True
-                do_rerun()
+        render_tags_scroller_interactive(sorted(all_themes), uid="global-tags", height=136)
 
     # Définir la requête
     query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
@@ -552,7 +624,7 @@ elif menu == "🎥 Toutes les vidéos":
                         st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
             # -----------------------------------------------------------------------
 
-            # Tags jolis → scroller 2 rangées
+            # Tags compacts → scroller 2 rangées (affichage seulement pour la carte)
             if themes:
                 render_tags_scroller(themes, uid=(fichier_nom or 'tags'))
 
