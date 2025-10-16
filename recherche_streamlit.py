@@ -162,13 +162,11 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     st.components.v1.html(html_block, height=height, scrolling=False)
 
 def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 136):
-    """Pastilles cliquables (2 rangées, scroll horizontal). Rendues dans le DOM Streamlit
-    pour que les liens ?select_tag=… naviguent correctement."""
+    """Pastilles cliquables (2 rangées, scroll horizontal). Pas de navigation."""
     if not tags:
         return
-    # Construit des <a href="?select_tag=..."> directement (pas de JS, pas d'iframe)
     items_html = "".join(
-        f"<a class='tag' href='?select_tag={urllib.parse.quote(t)}' role='button'>{html.escape(t)}</a>"
+        f"<a class='tag' role='button' data-tag='{html.escape(t)}'>{html.escape(t)}</a>"
         for t in tags
     )
     html_block = f"""
@@ -184,7 +182,7 @@ def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 13
       .sbox-{uid} .tag{{
          display:inline-flex;align-items:center;justify-content:center;text-align:center;white-space:nowrap;
          background:#D0E8FF;color:#0A2540;border-radius:999px;padding:6px 14px;font-size:13px;
-         border:1px solid rgba(0,0,0,.05);text-decoration:none
+         border:1px solid rgba(0,0,0,.05);text-decoration:none;cursor:pointer
       }}
       .sbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;padding:0 6px;line-height:1}}
       .sbox-{uid} .btn:focus{{outline:none}}
@@ -198,6 +196,66 @@ def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 13
     </div>
     """
     st.markdown(html_block, unsafe_allow_html=True)
+
+def render_tag_picker(tags: list[str], uid: str = "global-tags", height: int = 136):
+    """
+    In-page tag picker (aucune navigation) :
+    - input caché pour recevoir le tag
+    - bouton caché pour déclencher un rerun côté serveur
+    """
+    # 1) champs cachés Streamlit
+    st.markdown(f"<div id='tag_input_marker_{uid}'></div>", unsafe_allow_html=True)
+    st.text_input(f"tag-capture-{uid}", key=f"__tag_capture_{uid}", label_visibility="collapsed")
+    st.markdown(
+        f"<style>#tag_input_marker_{uid} + div input {{position:absolute;left:-10000px;top:-10000px;width:1px;height:1px;opacity:0;pointer-events:none;}}</style>",
+        unsafe_allow_html=True,
+    )
+    st.markdown(f"<div id='tag_apply_marker_{uid}'></div>", unsafe_allow_html=True)
+    apply_clicked = st.button(f"_apply_tag_{uid}")
+    st.markdown(
+        f"<style>#tag_apply_marker_{uid} + div button {{position:absolute;left:-10000px;top:-10000px;width:1px;height:1px;opacity:0;pointer-events:none;}}</style>",
+        unsafe_allow_html=True,
+    )
+
+    # 2) si “bouton caché” cliqué : on applique le tag et on relance la page
+    if apply_clicked:
+        picked = to_str(st.session_state.get(f"__tag_capture_{uid}", "")).strip()
+        if picked:
+            st.session_state.selected_theme = picked
+            st.session_state.nav = "🔍 Recherche"
+            st.session_state.reset_search = True
+            do_rerun()
+
+    # 3) rendu des puces (utilise la fonction remplacée au §1)
+    render_tags_scroller_interactive(tags, uid=uid, height=height)
+
+    # 4) JS : au clic sur une puce → remplir l’input caché + cliquer le bouton caché
+    st.markdown(
+        f"""
+        <script>
+        (function(){{
+          const root = document.querySelector('.sbox-{uid}');
+          if(!root) return;
+          root.addEventListener('click', function(e){{
+            const a = e.target.closest('.tag');
+            if(!a) return;
+            e.preventDefault();
+            const val = a.textContent.trim();
+            const inp = document.querySelector('#tag_input_marker_{uid} + div input');
+            const btn = document.querySelector('#tag_apply_marker_{uid} + div button');
+            if (inp) {{
+              const setter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set;
+              setter.call(inp, val);
+              inp.dispatchEvent(new Event('input', {{ bubbles: true }}));
+            }}
+            if (btn) btn.click();
+          }});
+        }})();
+        </script>
+        """,
+        unsafe_allow_html=True,
+    )
+
 
 
 def handle_select_tag_from_query():
@@ -470,7 +528,8 @@ if menu == "🔍 Recherche":
 
     # 🌟 Tous les Tags (2 lignes + scroll horizontal + clics)
     with st.expander("🏷️ Tags", expanded=False):
-        render_tags_scroller_interactive(sorted(all_themes), uid="global-tags", height=136)
+        render_tag_picker(sorted(all_themes), uid="global-tags", height=136)
+
 
     # Définir la requête à partir du champ ou du tag
     query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
