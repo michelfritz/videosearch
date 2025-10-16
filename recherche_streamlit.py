@@ -162,16 +162,16 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     st.components.v1.html(html_block, height=height, scrolling=False)
 
 def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 130):
-    """Affiche des tags *cliquables* sur 2 rangées, défilement horizontal (mobile + flèches).
-    Chaque clic recharge la page en haut niveau (target=_top) avec ?select_tag=... 
-    """
+    """Affiche des tags *cliquables* (2 rangées + scroll).
+    Chaque clic **redirige la fenêtre de niveau supérieur** vers l'URL courante
+    en ajoutant ?select_tag=<tag>. Fonctionne aussi sur Streamlit Cloud (/~/+/)."""
     if not tags:
         return
     items_html = []
     for c in tags:
         label = html.escape(c)
-        link  = "?select_tag=" + urllib.parse.quote(c)
-        items_html.append(f"<a class='tag' href='{link}' target='_top' role='button'>{label}</a>")
+        # on ne met PAS d'href relatif (about:srcdoc) → on clique et on pilote window.top.location
+        items_html.append(f"<a class='tag' data-tag='{label}' href='#' role='button'>{label}</a>")
     items_html = "".join(items_html)
     html_block = """    <style>
       .itagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
@@ -184,7 +184,7 @@ def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 13
       .itagbox-{uid} .tag{{display:inline-flex;align-items:center;justify-content:center;text-align:center;
                           white-space:nowrap;background:#D0E8FF;color:#0A2540;
                           border-radius:999px;padding:6px 14px;font-size:13px;border:1px solid rgba(0,0,0,.05);
-                          text-decoration:none}}
+                          text-decoration:none;cursor:pointer}}
       .itagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
                           padding:0 6px;line-height:1}}
       .itagbox-{uid} .btn:focus{{outline:none}}
@@ -197,12 +197,29 @@ def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 13
       </div>
     </div>
     <script>
-      const w = document.getElementById('iwrap-{uid}');
-      if (w) {{ 
-        w.addEventListener('wheel', (e)=>{{ 
-          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }} 
+      (function(){{
+        const wrap = document.getElementById('iwrap-{uid}');
+        if (!wrap) return;
+        // Défilement vertical -> horizontal (trackpad)
+        wrap.addEventListener('wheel', (e)=>{{ 
+          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ wrap.scrollLeft += e.deltaY; e.preventDefault(); }}
         }}, {{passive:false}});
-      }}
+        // Clic sur une pastille -> redirection top-level avec ?select_tag=...
+        wrap.addEventListener('click', (e)=>{{ 
+          const a = e.target.closest('.tag');
+          if (!a) return;
+          e.preventDefault();
+          const tag = a.getAttribute('data-tag');
+          try {{
+            const url = new URL(window.top.location.href);
+            url.searchParams.set('select_tag', tag);
+            window.top.location.href = url.toString();
+          }} catch(err) {{
+            // fallback
+            window.top.location.search = '?select_tag=' + encodeURIComponent(tag);
+          }}
+        }});
+      }})();
     </script>
     """.format(uid=uid, h=height-24, items_html=items_html)
     st.components.v1.html(html_block, height=height, scrolling=False)
@@ -215,9 +232,9 @@ def handle_select_tag_from_query():
         tag = tag[0] if tag else None
     if tag:
         st.session_state.selected_theme = tag
-        # Clear the param so the yellow deprecation/toast won't appear and URL stays clean
+        st.session_state.nav = "🔍 Recherche"  # assurer affichage dans l'onglet Recherche
         try:
-            qp.pop("select_tag", None)
+            qp.pop("select_tag", None)  # nettoie l'URL
         except Exception:
             pass
         st.session_state.reset_search = True
@@ -375,41 +392,37 @@ if "fichier" in urls_df.columns and "url" in urls_df.columns:
 # Newsletter HTML → iFrame isolée + nettoyage + titre + footer
 # ------------------------------------
 def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
-    """Nettoie + isole la NL puis injecte un <h1> titre extrait de .title (plus grand que H2)."""
-    html = html_src or ""
-    if not html:
+    """Nettoie + isole la NL, et injecte un <h1> (un peu + gros que H2)."""
+    html_doc = html_src or ""
+    if not html_doc:
         return ""
 
-    # 1) Réécriture chemins images/liens
-    html = html.replace('src="images/', f'src="{base_folder}/images/')
-    html = html.replace("src='images/", f"src='{base_folder}/images/")
-    html = html.replace('href="images/', f'href="{base_folder}/images/')
-    html = html.replace("href='images/", f"href='{base_folder}/images/")
+    # 1) Réécrire chemins images/liens
+    html_doc = html_doc.replace('src="images/', f'src="{base_folder}/images/')
+    html_doc = html_doc.replace("src='images/", f"src='{base_folder}/images/")
+    html_doc = html_doc.replace('href="images/', f'href="{base_folder}/images/')
+    html_doc = html_doc.replace("href='images/", f"href='{base_folder}/images/")
 
     # 2) Supprimer scripts, feuilles de style et styles inline
-    html = re.sub(r"(?is)<script.*?>.*?</script>", "", html)
-    html = re.sub(r'(?is)<link[^>]+rel=["\']stylesheet["\'][^>]*>', "", html)
-    html = re.sub(r"(?is)<style.*?>.*?</style>", "", html)
-    html = re.sub(r'(?is)\sstyle=["\'][^"\']*["\']', "", html)
+    html_doc = re.sub(r"(?is)<script.*?>.*?</script>", "", html_doc)
+    html_doc = re.sub(r'(?is)<link[^>]+rel=["\']stylesheet["\'][^>]*>', "", html_doc)
+    html_doc = re.sub(r"(?is)<style.*?>.*?</style>", "", html_doc)
+    html_doc = re.sub(r'(?is)\sstyle=["\'][^"\']*["\']', "", html_doc)
 
-    # 3) Récupérer le titre depuis .title (souvent dans .hero)
+    # 3) Récupérer le titre depuis .title (souvent dans .hero), puis retirer .hero/.badges
     title_txt = ""
-    m_title = re.search(r'(?is)<div\s+class=["\']title["\'][^>]*>(.*?)</div>', html)
+    m_title = re.search(r'(?is)<div\s+class=["\']title["\'][^>]*>(.*?)</div>', html_doc)
     if m_title:
-        raw = m_title.group(1)
-        raw = re.sub(r"(?is)<.*?>", "", raw)
+        raw = re.sub(r"(?is)<.*?>", "", m_title.group(1))
         title_txt = raw.strip()
-        # retirer le bloc .title du HTML pour éviter doublon
-        html = html.replace(m_title.group(0), "")
+        html_doc = html_doc.replace(m_title.group(0), "")
 
-    # 4) Retirer aussi .overlay puis .hero (après suppression de .title pour gérer l'imbrication)
-    html = re.sub(r'(?is)<div\s+class=["\']overlay["\'][^>]*>.*?</div>', "", html)
-    html = re.sub(r'(?is)<div\s+class=["\']hero["\'][^>]*>.*?</div>', "", html)
+    # overlay + hero + badges
+    html_doc = re.sub(r'(?is)<div\s+class=["\']overlay["\'][^>]*>.*?</div>', "", html_doc)
+    html_doc = re.sub(r'(?is)<div\s+class=["\']hero["\'][^>]*>.*?</div>', "", html_doc)
+    html_doc = re.sub(r'(?is)<div\s+class=["\']badges["\'].*?>.*?</div>', "", html_doc)
 
-    # 5) Supprimer le pavé badges éventuel dans la NL
-    html = re.sub(r'(?is)<div\s+class=["\']badges["\'].*?>.*?</div>', "", html)
-
-    # 6) CSS isolée (texte 100% blanc) + H1 nettement plus grand que H2
+    # 4) CSS isolée (texte 100% blanc) + H1 juste au-dessus des H2
     css = """
     <style>
       :root { color-scheme: dark; }
@@ -419,12 +432,11 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
       .nl-wrap li::marker { color:#fff !important; }
       .nl-wrap pre, .nl-wrap code { background: rgba(255,255,255,0.08) !important; color:#fff !important; }
       .nl-wrap img { max-width:100%; height:auto; display:block; border-radius:8px; }
-      /* Neutraliser overlays/positions bloquantes */
       .nl-wrap * { position: static !important; opacity: 1 !important; filter: none !important; backdrop-filter:none !important; }
-      /* Titres */
+      /* Titres – H1 un poil plus grand que H2 */
       .nl-wrap h1.nl-title { 
-        color:#fff !important; margin:.35rem 0 1rem; 
-        font-size: clamp(38px, 6.5vw, 64px) !important; font-weight:900 !important; line-height:1.12 !important; letter-spacing:-.3px;
+        color:#fff !important; margin:.25rem 0 0.75rem;
+        font-size: clamp(26px, 3.6vw, 34px) !important; font-weight:800 !important; line-height:1.16 !important;
       }
       .nl-wrap h2 { font-size: clamp(20px, 3vw, 28px) !important; font-weight:700 !important; }
       .nl-wrap h3 { font-size: clamp(18px, 2.6vw, 24px) !important; font-weight:600 !important; }
@@ -433,8 +445,7 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     """
 
     title_html = f"<h1 class='nl-title'>{title_txt}</h1>" if title_txt else ""
-
-    body = f"{css}<div class='nl-wrap'>{title_html}{html}</div>"
+    body = f"{css}<div class='nl-wrap'>{title_html}{html_doc}</div>"
     iframe_html = f"<!DOCTYPE html><html><head><meta charset='utf-8' /></head><body>{body}</body></html>"
     return iframe_html
 
@@ -485,7 +496,7 @@ if menu == "🔍 Recherche":
     with st.expander("🏷️ Tags", expanded=False):
         render_tags_scroller_interactive(sorted(all_themes), uid="global-tags", height=136)
 
-    # Définir la requête
+    # Définir la requête à partir du champ ou du tag
     query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
 
     if query:
