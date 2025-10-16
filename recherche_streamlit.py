@@ -161,68 +161,44 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     """.format(uid=uid, h=height-24, items_html=items_html)
     st.components.v1.html(html_block, height=height, scrolling=False)
 
-def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 130):
-    """Affiche des tags *cliquables* (2 rangées + scroll).
-    Chaque clic **redirige la fenêtre de niveau supérieur** vers l'URL courante
-    en ajoutant ?select_tag=<tag>. Fonctionne aussi sur Streamlit Cloud (/~/+/)."""
+def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 136):
+    """Pastilles cliquables (2 rangées, scroll horizontal). Rendues dans le DOM Streamlit
+    pour que les liens ?select_tag=… naviguent correctement."""
     if not tags:
         return
-    items_html = []
-    for c in tags:
-        label = html.escape(c)
-        # on ne met PAS d'href relatif (about:srcdoc) → on clique et on pilote window.top.location
-        items_html.append(f"<a class='tag' data-tag='{label}' href='#' role='button'>{label}</a>")
-    items_html = "".join(items_html)
-    html_block = """    <style>
-      .itagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
-      .itagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
-                           gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
-                           scroll-behavior:smooth; overscroll-behavior:contain;
-                           -webkit-overflow-scrolling:touch; scrollbar-width:thin;}}
-      .itagbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
-      .itagbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
-      .itagbox-{uid} .tag{{display:inline-flex;align-items:center;justify-content:center;text-align:center;
-                          white-space:nowrap;background:#D0E8FF;color:#0A2540;
-                          border-radius:999px;padding:6px 14px;font-size:13px;border:1px solid rgba(0,0,0,.05);
-                          text-decoration:none;cursor:pointer}}
-      .itagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
-                          padding:0 6px;line-height:1}}
-      .itagbox-{uid} .btn:focus{{outline:none}}
+    # Construit des <a href="?select_tag=..."> directement (pas de JS, pas d'iframe)
+    items_html = "".join(
+        f"<a class='tag' href='?select_tag={urllib.parse.quote(t)}' role='button'>{html.escape(t)}</a>"
+        for t in tags
+    )
+    html_block = f"""
+    <style>
+      .sbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
+      .sbox-{uid} .wrap{{
+         display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
+         gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
+         scroll-behavior:smooth;-webkit-overflow-scrolling:touch;scrollbar-width:thin;
+      }}
+      .sbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
+      .sbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
+      .sbox-{uid} .tag{{
+         display:inline-flex;align-items:center;justify-content:center;text-align:center;white-space:nowrap;
+         background:#D0E8FF;color:#0A2540;border-radius:999px;padding:6px 14px;font-size:13px;
+         border:1px solid rgba(0,0,0,.05);text-decoration:none
+      }}
+      .sbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;padding:0 6px;line-height:1}}
+      .sbox-{uid} .btn:focus{{outline:none}}
     </style>
-    <div class="itagbox-{uid}">
+    <div class="sbox-{uid}">
       <div class="bar">
-        <button class="btn" onclick="document.getElementById('iwrap-{uid}').scrollBy({{left:-320,behavior:'smooth'}})">&#9664;</button>
-        <div id="iwrap-{uid}" class="wrap" style="height:{h}px">{items_html}</div>
-        <button class="btn" onclick="document.getElementById('iwrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
+        <button class="btn" onclick="document.getElementById('swrap-{uid}').scrollBy({{left:-320,behavior:'smooth'}})">&#9664;</button>
+        <div id="swrap-{uid}" class="wrap" style="height:{height-24}px">{items_html}</div>
+        <button class="btn" onclick="document.getElementById('swrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
       </div>
     </div>
-    <script>
-      (function(){{
-        const wrap = document.getElementById('iwrap-{uid}');
-        if (!wrap) return;
-        // Défilement vertical -> horizontal (trackpad)
-        wrap.addEventListener('wheel', (e)=>{{ 
-          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ wrap.scrollLeft += e.deltaY; e.preventDefault(); }}
-        }}, {{passive:false}});
-        // Clic sur une pastille -> redirection top-level avec ?select_tag=...
-        wrap.addEventListener('click', (e)=>{{ 
-          const a = e.target.closest('.tag');
-          if (!a) return;
-          e.preventDefault();
-          const tag = a.getAttribute('data-tag');
-          try {{
-            const url = new URL(window.top.location.href);
-            url.searchParams.set('select_tag', tag);
-            window.top.location.href = url.toString();
-          }} catch(err) {{
-            // fallback
-            window.top.location.search = '?select_tag=' + encodeURIComponent(tag);
-          }}
-        }});
-      }})();
-    </script>
-    """.format(uid=uid, h=height-24, items_html=items_html)
-    st.components.v1.html(html_block, height=height, scrolling=False)
+    """
+    st.markdown(html_block, unsafe_allow_html=True)
+
 
 def handle_select_tag_from_query():
     # New Streamlit API (no experimental deprecation)
