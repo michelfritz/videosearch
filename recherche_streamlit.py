@@ -13,20 +13,10 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
-def get_openai_key():
-    # 1) Cloud Run (env var)  2) Streamlit Cloud (st.secrets)
-    key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
-    if not key:
-        st.error("Clé OpenAI absente. Définis OPENAI_API_KEY (Cloud Run: Variables & secrets).")
-        raise RuntimeError("OPENAI_API_KEY manquant")
-    return key
-
 # ------------------------------------
 # Page setup
 # ------------------------------------
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
-st.caption(f"Clé OpenAI détectée : {bool(get_openai_key())}")
-
 
 # ------------------------------------
 # Helpers: CSV header & tag normalization
@@ -58,10 +48,9 @@ def _split_and_clean_tags(value) -> list[str]:
     return out
 
 # ------------------------------------
-# Helpers: session state + safe image + safe URL + safe rerun
+# Helpers: session state + safe rerun + misc
 # ------------------------------------
 def init_state():
-    """Initialize all session_state keys that are later read by the app."""
     defaults = {
         "nav": "🔍 Recherche",
         "search_query": "",
@@ -77,14 +66,12 @@ def init_state():
             st.session_state[k] = v
 
 def do_rerun():
-    # Works on both new/old Streamlit versions
     if hasattr(st, "rerun"):
         st.rerun()
     else:
         st.experimental_rerun()
 
 def show_image(img, width=None, caption=None):
-    """Robust wrapper for st.image that avoids width=0 and empty/invalid sources."""
     if not img:
         st.write("🖼️ Miniature indisponible")
         return
@@ -128,30 +115,29 @@ def to_int(x, default=0):
         return default
 
 # ------------------------------------
-# Tag scrollers (display + interactive picker)
+# Tags: affichage "carte" (non cliquable) & affichage interactif (cliquable)
 # ------------------------------------
 def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
-    """Affiche des tags (texte) sur 2 rangées, scroll horizontal (mobile + flèches)."""
+    """Affiche des tags en 2 rangées (scroll horizontal) — usage: cartes vidéo (non cliquable)."""
     if not themes_str:
         return
     chips = [t.strip() for t in str(themes_str).split("|") if t.strip()]
     if not chips:
         return
     items_html = "".join([f"<span class='tag'>{html.escape(c)}</span>" for c in chips])
-    html_block = """    <style>
+    html_block = """
+    <style>
       .tagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
       .tagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
                            gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
-                           scroll-behavior:smooth; overscroll-behavior:contain;
-                           -webkit-overflow-scrolling:touch; scrollbar-width:thin;}}
+                           scroll-behavior:smooth;-webkit-overflow-scrolling:touch;scrollbar-width:thin;}}
       .tagbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
       .tagbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
       .tagbox-{uid} .tag{{display:inline-flex;align-items:center;justify-content:center;text-align:center;
-                          white-space:nowrap;background:#D0E8FF;color:#0A2540;
-                          border-radius:999px;padding:6px 14px;font-size:13px;border:1px solid rgba(0,0,0,.05);}}
+                          white-space:nowrap;background:#D0E8FF;color:#0A2540;border-radius:999px;
+                          padding:6px 14px;font-size:13px;border:1px solid rgba(0,0,0,.05);}}
       .tagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
                           padding:0 6px;line-height:1}}
-      .tagbox-{uid} .btn:focus{{outline:none}}
     </style>
     <div class="tagbox-{uid}">
       <div class="bar">
@@ -160,23 +146,15 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
         <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
       </div>
     </div>
-    <script>
-      const w = document.getElementById('wrap-{uid}');
-      if (w) {{ 
-        w.addEventListener('wheel', (e)=>{{ 
-          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }} 
-        }}, {{passive:false}});
-      }}
-    </script>
     """.format(uid=uid, h=height-24, items_html=items_html)
     st.components.v1.html(html_block, height=height, scrolling=False)
 
 def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 136):
-    """Pastilles cliquables (2 rangées, scroll horizontal). Pas de navigation."""
+    """Affiche des tags *cliquables* (2 rangées, scroll horizontal) sans iframe (Markdown pur)."""
     if not tags:
         return
     items_html = "".join(
-        f"<a class='tag' role='button' data-tag='{html.escape(t)}'>{html.escape(t)}</a>"
+        f"<a class='tag' href='?select_tag={urllib.parse.quote(t)}#search' target='_self'>{html.escape(t)}</a>"
         for t in tags
     )
     html_block = f"""
@@ -192,10 +170,9 @@ def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 13
       .sbox-{uid} .tag{{
          display:inline-flex;align-items:center;justify-content:center;text-align:center;white-space:nowrap;
          background:#D0E8FF;color:#0A2540;border-radius:999px;padding:6px 14px;font-size:13px;
-         border:1px solid rgba(0,0,0,.05);text-decoration:none;cursor:pointer
+         border:1px solid rgba(0,0,0,.05);text-decoration:none
       }}
       .sbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;padding:0 6px;line-height:1}}
-      .sbox-{uid} .btn:focus{{outline:none}}
     </style>
     <div class="sbox-{uid}">
       <div class="bar">
@@ -207,91 +184,26 @@ def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 13
     """
     st.markdown(html_block, unsafe_allow_html=True)
 
-def render_tag_picker(tags: list[str], uid: str = "global-tags", height: int = 136):
-    """
-    In-page tag picker (aucune navigation) :
-    - input caché pour recevoir le tag
-    - bouton caché pour déclencher un rerun côté serveur
-    """
-    # 1) champs cachés Streamlit
-    st.markdown(f"<div id='tag_input_marker_{uid}'></div>", unsafe_allow_html=True)
-    st.text_input(f"tag-capture-{uid}", key=f"__tag_capture_{uid}", label_visibility="collapsed")
-    st.markdown(
-        f"<style>#tag_input_marker_{uid} + div input {{position:absolute;left:-10000px;top:-10000px;width:1px;height:1px;opacity:0;pointer-events:none;}}</style>",
-        unsafe_allow_html=True,
-    )
-    st.markdown(f"<div id='tag_apply_marker_{uid}'></div>", unsafe_allow_html=True)
-    apply_clicked = st.button(f"_apply_tag_{uid}")
-    st.markdown(
-        f"<style>#tag_apply_marker_{uid} + div button {{position:absolute;left:-10000px;top:-10000px;width:1px;height:1px;opacity:0;pointer-events:none;}}</style>",
-        unsafe_allow_html=True,
-    )
-
-    # 2) si “bouton caché” cliqué : on applique le tag et on relance la page
-    if apply_clicked:
-        picked = to_str(st.session_state.get(f"__tag_capture_{uid}", "")).strip()
-        if picked:
-            st.session_state.selected_theme = picked
-            st.session_state.nav = "🔍 Recherche"
-            st.session_state.reset_search = True
-            do_rerun()
-
-    # 3) rendu des puces (utilise la fonction remplacée au §1)
-    render_tags_scroller_interactive(tags, uid=uid, height=height)
-
-    # 4) JS : au clic sur une puce → remplir l’input caché + cliquer le bouton caché
-    st.markdown(
-        f"""
-        <script>
-        (function(){{
-          const root = document.querySelector('.sbox-{uid}');
-          if(!root) return;
-          root.addEventListener('click', function(e){{
-            const a = e.target.closest('.tag');
-            if(!a) return;
-            e.preventDefault();
-            const val = a.textContent.trim();
-            const inp = document.querySelector('#tag_input_marker_{uid} + div input');
-            const btn = document.querySelector('#tag_apply_marker_{uid} + div button');
-            if (inp) {{
-              const setter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set;
-              setter.call(inp, val);
-              inp.dispatchEvent(new Event('input', {{ bubbles: true }}));
-            }}
-            if (btn) btn.click();
-          }});
-        }})();
-        </script>
-        """,
-        unsafe_allow_html=True,
-    )
-
-
-
 def handle_select_tag_from_query():
-    # New Streamlit API (no experimental deprecation)
+    """Lit ?select_tag=… (nouvelle API st.query_params), applique le tag, puis nettoie l'URL."""
     qp = st.query_params
     tag = qp.get("select_tag", None)
     if isinstance(tag, list):
         tag = tag[0] if tag else None
     if tag:
         st.session_state.selected_theme = tag
-        st.session_state.nav = "🔍 Recherche"  # assurer affichage dans l'onglet Recherche
-        try:
-            qp.pop("select_tag", None)  # nettoie l'URL
-        except Exception:
-            pass
+        st.session_state.nav = "🔍 Recherche"
         st.session_state.reset_search = True
-
-init_state()
-handle_select_tag_from_query()
-
-# 🎨 Logo (optionnel)
-show_image("logo_lucarne.png", width=180)
-st.markdown("# 📚 Base de connaissance A LA LUCARNE")
-
-# 🔐 Clé API OpenAI
-openai.api_key = os.environ.get("OPENAI_API_KEY")
+        # Nettoyer l’URL (robuste selon version)
+        try:
+            del st.query_params["select_tag"]
+        except Exception:
+            try:
+                st.experimental_set_query_params()
+            except Exception:
+                pass
+        # On reste sur la même page; la relance affiche les résultats
+        do_rerun()
 
 # ------------------------------------
 # Data loading + encoding helpers
@@ -321,7 +233,6 @@ def bouton_telecharger_newsletter(nom_fichier, contenu_html):
 @st.cache_data
 def charger_donnees():
     df = pd.read_csv("blocs_fusionnes.csv")
-    # Sécuriser colonnes utilisées par la page Recherche
     for col in ("url", "start", "text", "fichier"):
         if col not in df.columns:
             df[col] = "" if col != "start" else 0
@@ -331,38 +242,29 @@ def charger_donnees():
 
 @st.cache_data
 def charger_urls_et_idees_themes():
-    # — lecture robuste + normalisation des 'nan' en NaN réels
     urls = pd.read_csv("urls.csv", encoding=detect_encoding("urls.csv"))
     urls = urls.replace(r"^\s*(nan|null|none|NaN)\s*$", np.nan, regex=True)
 
-    # colonnes attendues
     for col in ("titre","date","resume","idees","themes","fichier","url"):
         if col not in urls.columns:
             urls[col] = np.nan
 
-    # drop lignes totalement vides
     urls = urls.dropna(how="all")
 
-    # helper pour tester le “vide” (NaN, '', 'nan', espaces)
     def _is_blank(x):
         s = str(x).strip().lower()
         return (s == "") or (s == "nan") or (s == "none") or pd.isna(x)
 
-    # on ne garde que les lignes avec AU MOINS un champ utile
     essential_cols = ["url", "fichier", "titre", "resume", "themes"]
     urls = urls[~urls[essential_cols].applymap(_is_blank).all(axis=1)].copy()
-
-    # Nettoyage basique : si 'url' est vide ET 'fichier' est vide → ignorer
     urls = urls[~(urls["url"].apply(_is_blank) & urls["fichier"].apply(_is_blank))].copy()
 
-    # Optionnel : ne garder que des URLs plausibles (YouTube ou http(s))
     def _url_ok(u):
         if _is_blank(u): return False
         u = str(u).strip()
         return ("youtube.com/watch?v=" in u) or ("youtu.be/" in u) or u.startswith("http")
     urls = urls[urls["url"].apply(_url_ok) | ~urls["fichier"].apply(_is_blank)].copy()
 
-    # Valeurs par défaut (affichage)
     urls["titre"]  = urls["titre"].fillna("Titre inconnu")
     urls["date"]   = urls["date"].fillna("Date inconnue")
     urls["resume"] = urls["resume"].fillna("")
@@ -371,7 +273,6 @@ def charger_urls_et_idees_themes():
     urls["fichier"]= urls["fichier"].fillna("").astype(str)
     urls["url"]    = urls["url"].fillna("").astype(str)
 
-    # --- autres CSV ---
     idees = pd.read_csv("idees.csv", encoding=detect_encoding("idees.csv"))
     if "fichier" not in idees.columns: idees["fichier"] = ""
     if "idees" not in idees.columns:   idees["idees"] = ""
@@ -387,7 +288,6 @@ def charger_urls_et_idees_themes():
     mesthemes = _normalize_columns(pd.read_csv("mesthemes.csv", encoding=detect_encoding("mesthemes.csv")))
     mesthemes_list = mesthemes["themes"].dropna().tolist() if "themes" in mesthemes.columns else []
 
-    # merges robustes
     df = urls.copy()
     if "fichier" in df.columns and "fichier" in idees.columns:
         df = pd.merge(df, idees[["fichier","idees"]], on="fichier", how="left")
@@ -417,17 +317,20 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
 # =====================
 #       DONNÉES
 # =====================
+init_state()
+handle_select_tag_from_query()
+
 df, vecteurs = charger_donnees()
 urls_df, idees_v2_df, themes_df, mesthemes_list = charger_urls_et_idees_themes()
 
-# 🔖 Préparer tous les thèmes (nettoyés & sans doublons)
+# Tous les thèmes (unicité)
 _all_themes_list = []
 if "themes" in themes_df.columns:
     for theme_list in themes_df["themes"].dropna():
         _all_themes_list.extend(_split_and_clean_tags(theme_list))
-all_themes = list(dict.fromkeys(_all_themes_list))  # ordre préservé
+all_themes = list(dict.fromkeys(_all_themes_list))
 
-# 🔁 Fallback URL par 'fichier' (utile si df["url"] est vide)
+# Fallback URL par fichier
 url_by_file = {}
 if "fichier" in urls_df.columns and "url" in urls_df.columns:
     url_by_file = dict(zip(urls_df["fichier"].astype(str), urls_df["url"].astype(str)))
@@ -436,24 +339,21 @@ if "fichier" in urls_df.columns and "url" in urls_df.columns:
 # Newsletter HTML → iFrame isolée + nettoyage + titre + footer
 # ------------------------------------
 def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
-    """Nettoie + isole la NL, et injecte un <h1> (un peu + gros que H2)."""
+    """Nettoie la NL, supprime .hero/.badges, uniformise la couleur, et injecte un <h1> (un peu > H2)."""
     html_doc = html_src or ""
     if not html_doc:
         return ""
 
-    # 1) Réécrire chemins images/liens
     html_doc = html_doc.replace('src="images/', f'src="{base_folder}/images/')
     html_doc = html_doc.replace("src='images/", f"src='{base_folder}/images/")
     html_doc = html_doc.replace('href="images/', f'href="{base_folder}/images/')
     html_doc = html_doc.replace("href='images/", f"href='{base_folder}/images/")
 
-    # 2) Supprimer scripts, feuilles de style et styles inline
     html_doc = re.sub(r"(?is)<script.*?>.*?</script>", "", html_doc)
     html_doc = re.sub(r'(?is)<link[^>]+rel=["\']stylesheet["\'][^>]*>', "", html_doc)
     html_doc = re.sub(r"(?is)<style.*?>.*?</style>", "", html_doc)
     html_doc = re.sub(r'(?is)\sstyle=["\'][^"\']*["\']', "", html_doc)
 
-    # 3) Récupérer le titre depuis .title (souvent dans .hero), puis retirer .hero/.badges
     title_txt = ""
     m_title = re.search(r'(?is)<div\s+class=["\']title["\'][^>]*>(.*?)</div>', html_doc)
     if m_title:
@@ -461,12 +361,10 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
         title_txt = raw.strip()
         html_doc = html_doc.replace(m_title.group(0), "")
 
-    # overlay + hero + badges
     html_doc = re.sub(r'(?is)<div\s+class=["\']overlay["\'][^>]*>.*?</div>', "", html_doc)
     html_doc = re.sub(r'(?is)<div\s+class=["\']hero["\'][^>]*>.*?</div>', "", html_doc)
     html_doc = re.sub(r'(?is)<div\s+class=["\']badges["\'].*?>.*?</div>', "", html_doc)
 
-    # 4) CSS isolée (texte 100% blanc) + H1 juste au-dessus des H2
     css = """
     <style>
       :root { color-scheme: dark; }
@@ -476,27 +374,24 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
       .nl-wrap li::marker { color:#fff !important; }
       .nl-wrap pre, .nl-wrap code { background: rgba(255,255,255,0.08) !important; color:#fff !important; }
       .nl-wrap img { max-width:100%; height:auto; display:block; border-radius:8px; }
-      .nl-wrap * { position: static !important; opacity: 1 !important; filter: none !important; backdrop-filter:none !important; }
-      /* Titres – H1 un poil plus grand que H2 */
-      .nl-wrap h1.nl-title { 
-        color:#fff !important; margin:.25rem 0 0.75rem;
-        font-size: clamp(26px, 3.6vw, 34px) !important; font-weight:800 !important; line-height:1.16 !important;
-      }
-      .nl-wrap h2 { font-size: clamp(20px, 3vw, 28px) !important; font-weight:700 !important; }
-      .nl-wrap h3 { font-size: clamp(18px, 2.6vw, 24px) !important; font-weight:600 !important; }
-      .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.2vw, 18px); }
+      .nl-wrap * { position: static !important; opacity: 1 !important; filter:none !important; backdrop-filter:none !important; }
+      .nl-wrap h1.nl-title {{
+        color:#fff !important; margin:.25rem 0 .75rem;
+        font-size: clamp(24px, 3.2vw, 30px) !important; font-weight:800 !important; line-height:1.16 !important;
+      }}
+      .nl-wrap h2 {{ font-size: clamp(20px, 3vw, 28px) !important; font-weight:700 !important; }}
+      .nl-wrap h3 {{ font-size: clamp(18px, 2.6vw, 24px) !important; font-weight:600 !important; }}
+      .nl-wrap p  {{ margin:.45rem 0; line-height:1.6; font-size: clamp(15px, 2.2vw, 18px); }}
     </style>
     """
-
     title_html = f"<h1 class='nl-title'>{title_txt}</h1>" if title_txt else ""
     body = f"{css}<div class='nl-wrap'>{title_html}{html_doc}</div>"
-    iframe_html = f"<!DOCTYPE html><html><head><meta charset='utf-8' /></head><body>{body}</body></html>"
-    return iframe_html
+    return f"<!DOCTYPE html><html><head><meta charset='utf-8' /></head><body>{body}</body></html>"
 
 def toggle(key: str):
     st.session_state[key] = not st.session_state.get(key, False)
 
-# ---- Sidebar Navigation (robuste) ----
+# ---- Sidebar Navigation ----
 options = ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"]
 default = st.session_state.get("nav", options[0])
 if default not in options:
@@ -509,16 +404,15 @@ menu = st.sidebar.radio("Navigation", options, index=options.index(default), key
 if menu == "🔍 Recherche":
     col1, col2 = st.columns([3, 1])
 
-    # Réinitialiser si besoin
     if st.session_state.reset_search:
         st.session_state.search_query = ""
         st.session_state.reset_search = False
 
-    # Champ de recherche
     with col1:
         st.text_input("🔍 Que veux-tu savoir ?", key="search_query")
+        # Ancre pour faire arriver le scroll ici quand on clique un tag
+        st.markdown("<span id='search'></span>", unsafe_allow_html=True)
 
-    # Bouton Réinitialiser
     with col2:
         if st.button("🔄 Réinitialiser"):
             st.session_state.selected_theme = ""
@@ -527,7 +421,7 @@ if menu == "🔍 Recherche":
 
     seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
 
-    # 🌟 Mes Thèmes personnalisés
+    # Mes Thèmes
     with st.expander("✨ Thèmes", expanded=False):
         cols = st.columns(4)
         for i, theme in enumerate(sorted(mesthemes_list)):
@@ -536,12 +430,11 @@ if menu == "🔍 Recherche":
                 st.session_state.reset_search = True
                 do_rerun()
 
-    # 🌟 Tous les Tags (2 lignes + scroll horizontal + clics)
+    # Tous les Tags (interactif, sans iframe, sans bouton caché)
     with st.expander("🏷️ Tags", expanded=False):
-        render_tag_picker(sorted(all_themes), uid="global-tags", height=136)
+        render_tags_scroller_interactive(sorted(all_themes), uid="global-tags", height=136)
 
-
-    # Définir la requête à partir du champ ou du tag
+    # Query = champ de recherche ou tag sélectionné
     query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
 
     if query:
@@ -556,7 +449,6 @@ if menu == "🔍 Recherche":
             for idx, score in zip(indices, scores):
                 bloc = df.iloc[idx]
 
-                # URL prioritaire depuis le bloc; sinon fallback par 'fichier'
                 url_str = to_str(bloc.get("url", ""))
                 if not url_str:
                     fichier_key = to_str(bloc.get("fichier", ""))
@@ -580,7 +472,6 @@ if menu == "🔍 Recherche":
 elif menu == "🎥 Toutes les vidéos":
     st.header("📚 Liste des vidéos disponibles")
 
-    # 🔄 bouton de refresh data (invalide le cache, recharge les CSV)
     cols_refresh = st.columns([1, 3])
     with cols_refresh[0]:
         if st.button("🔄 Actualiser les vidéos"):
@@ -588,7 +479,6 @@ elif menu == "🎥 Toutes les vidéos":
             do_rerun()
 
     st.text_input("🔍 Recherche par titre, résumé, idée ou thème", key="video_search")
-
     tri = st.selectbox("📜 Trier par", ("Date récente", "Date ancienne", "Titre A → Z", "Titre Z → A"))
 
     recherche = to_str(st.session_state.get("video_search", "")).strip()
@@ -623,7 +513,6 @@ elif menu == "🎥 Toutes les vidéos":
         fichier_nom = to_str(row.get("fichier", ""))
         primary_title = fichier_nom if fichier_nom else video_name
 
-        # URL + fallback
         url_str = to_str(row.get("url", ""))
         if not url_str and fichier_nom:
             url_str = url_by_file.get(fichier_nom, "")
@@ -634,7 +523,6 @@ elif menu == "🎥 Toutes les vidéos":
 
         youtube_id = extract_youtube_id(url_str)
 
-        # 🚫 Masquer les cartes totalement vides
         if (to_str(url_str) == "") and (video_name == "Titre inconnu"):
             continue
 
@@ -647,7 +535,6 @@ elif menu == "🎥 Toutes les vidéos":
                 st.write("🖼️ Miniature indisponible")
 
         with col2:
-            # Titre principal = nom de fichier ; titre original en plus petit sur la ligne de date
             if url_str:
                 st.markdown(f"### [{primary_title}]({url_str})")
             else:
@@ -658,7 +545,6 @@ elif menu == "🎥 Toutes les vidéos":
             if resume:
                 st.markdown(f"📜 {resume}")
 
-            # -------- Newsletter : un seul bouton toggle + affichage stylé ----------
             if fichier_nom:
                 state_key = f"show_newsletter_{fichier_nom}"
 
@@ -674,15 +560,12 @@ elif menu == "🎥 Toutes les vidéos":
                             bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
                     else:
                         st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
-            # -----------------------------------------------------------------------
 
-            # Tags compacts → scroller 2 rangées (affichage seulement pour la carte)
             if themes:
                 render_tags_scroller(themes, uid=(fichier_nom or 'tags'))
 
             st.markdown("<div style='height: 10px;'></div>", unsafe_allow_html=True)
 
-            # Idées (sommaire)
             if idees:
                 with st.expander("🌟 Sujets de la vidéo"):
                     for idee in idees.split("|"):
@@ -692,7 +575,6 @@ elif menu == "🎥 Toutes les vidéos":
                         elif i:
                             st.markdown(f"- {i}")
 
-            # Moments (idees_v2)
             if fichier_nom and "fichier" in idees_v2_df.columns:
                 with st.expander("🕒 Moments de la vidéo"):
                     idees_v2_video = idees_v2_df[idees_v2_df["fichier"] == fichier_nom]
@@ -714,23 +596,18 @@ elif menu == "🧠 Moteur intelligent":
 
     if user_question:
         with st.spinner("Recherche intelligente en cours..."):
-            # Charger FAISS
             vectordb = FAISS.load_local(
                 "faiss_transcripts",
                 OpenAIEmbeddings(openai_api_key=os.environ.get("OPENAI_API_KEY")),
                 allow_dangerous_deserialization=True
             )
-
-            # Recherche dans FAISS
             docs = vectordb.similarity_search(user_question, k=5)
 
-            # Contexte pour GPT
             context = ""
             for doc in docs:
                 url = doc.metadata.get("url", "URL inconnue")
                 context += f"[Source: {url}]\n{doc.page_content}\n\n"
 
-            # Construire prompt
             prompt = f"""
 Tu es un expert de notre entreprise. Voici des extraits de nos formations :
 
@@ -741,13 +618,10 @@ Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette informatio
 
 Question : {user_question}
 """
-
-            # Appel à GPT-4 Turbo (ou modèle dispo)
             llm = ChatOpenAI(
                 model="gpt-4-0125-preview",
                 temperature=0.2,
                 openai_api_key=openai.api_key
             )
             response = llm.invoke(prompt)
-
             st.success(response.content)
