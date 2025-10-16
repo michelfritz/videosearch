@@ -128,8 +128,7 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     if not chips:
         return
     items_html = "".join([f"<span class='tag'>{html.escape(c)}</span>" for c in chips])
-    html_block = """
-    <style>
+    html_block = """    <style>
       .tagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
       .tagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
                            gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
@@ -137,8 +136,9 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
                            -webkit-overflow-scrolling:touch; scrollbar-width:thin;}}
       .tagbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
       .tagbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
-      .tagbox-{uid} .tag{{display:inline-block;white-space:nowrap;background:#D0E8FF;color:#0A2540;
-                          border-radius:999px;padding:6px 12px;font-size:13px;border:1px solid rgba(0,0,0,.05);}}
+      .tagbox-{uid} .tag{{display:inline-flex;align-items:center;justify-content:center;text-align:center;
+                          white-space:nowrap;background:#D0E8FF;color:#0A2540;
+                          border-radius:999px;padding:6px 14px;font-size:13px;border:1px solid rgba(0,0,0,.05);}}
       .tagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
                           padding:0 6px;line-height:1}}
       .tagbox-{uid} .btn:focus{{outline:none}}
@@ -162,17 +162,18 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     st.components.v1.html(html_block, height=height, scrolling=False)
 
 def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 130):
-    """Affiche des tags *cliquables* sur 2 rangées, défilement horizontal (mobile + flèches)."""
+    """Affiche des tags *cliquables* sur 2 rangées, défilement horizontal (mobile + flèches).
+    Chaque clic recharge la page en haut niveau (target=_top) avec ?select_tag=... 
+    """
     if not tags:
         return
     items_html = []
     for c in tags:
         label = html.escape(c)
         link  = "?select_tag=" + urllib.parse.quote(c)
-        items_html.append(f"<a class='tag' href='{link}'>{label}</a>")
+        items_html.append(f"<a class='tag' href='{link}' target='_top' role='button'>{label}</a>")
     items_html = "".join(items_html)
-    html_block = """
-    <style>
+    html_block = """    <style>
       .itagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
       .itagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
                            gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
@@ -180,8 +181,9 @@ def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 13
                            -webkit-overflow-scrolling:touch; scrollbar-width:thin;}}
       .itagbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
       .itagbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
-      .itagbox-{uid} .tag{{display:inline-block;white-space:nowrap;background:#D0E8FF;color:#0A2540;
-                          border-radius:999px;padding:6px 12px;font-size:13px;border:1px solid rgba(0,0,0,.05);
+      .itagbox-{uid} .tag{{display:inline-flex;align-items:center;justify-content:center;text-align:center;
+                          white-space:nowrap;background:#D0E8FF;color:#0A2540;
+                          border-radius:999px;padding:6px 14px;font-size:13px;border:1px solid rgba(0,0,0,.05);
                           text-decoration:none}}
       .itagbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;
                           padding:0 6px;line-height:1}}
@@ -206,11 +208,18 @@ def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 13
     st.components.v1.html(html_block, height=height, scrolling=False)
 
 def handle_select_tag_from_query():
-    params = st.experimental_get_query_params()
-    if "select_tag" in params and params["select_tag"]:
-        tag = params["select_tag"][0]
+    # New Streamlit API (no experimental deprecation)
+    qp = st.query_params
+    tag = qp.get("select_tag", None)
+    if isinstance(tag, list):
+        tag = tag[0] if tag else None
+    if tag:
         st.session_state.selected_theme = tag
-        st.experimental_set_query_params()  # clear param
+        # Clear the param so the yellow deprecation/toast won't appear and URL stays clean
+        try:
+            qp.pop("select_tag", None)
+        except Exception:
+            pass
         st.session_state.reset_search = True
 
 init_state()
@@ -366,16 +375,7 @@ if "fichier" in urls_df.columns and "url" in urls_df.columns:
 # Newsletter HTML → iFrame isolée + nettoyage + titre + footer
 # ------------------------------------
 def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
-    """
-    Nettoie et isole le HTML des newsletters pour l'intégrer sans casser l'UI :
-    - Corrige les chemins d'images: images/... -> newsletters/images/...
-    - Supprime <style>, <link rel="stylesheet"> et <script> + styles inline
-    - Retire complètement le bloc .hero et extrait le titre .title → <h1 class="nl-title">
-    - Supprime tout bloc <div class="badges">...</div>
-    - Réécrit le footer: "Copyright A La Lucarne de l'immobilier • <DATE sans heure>"
-    - Force des couleurs blanches + neutralise overlays/positions/filtres
-    - Retourne un HTML complet (body minimal) prêt pour un IFRAME (srcdoc)
-    """
+    """Nettoie + isole la NL puis injecte un <h1> titre extrait de .title (plus grand que H2)."""
     html = html_src or ""
     if not html:
         return ""
@@ -392,31 +392,24 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     html = re.sub(r"(?is)<style.*?>.*?</style>", "", html)
     html = re.sub(r'(?is)\sstyle=["\'][^"\']*["\']', "", html)
 
-    # 3) Extraire le titre de .hero puis retirer .hero
+    # 3) Récupérer le titre depuis .title (souvent dans .hero)
     title_txt = ""
-    m_hero = re.search(r'(?is)<div\s+class=["\']hero["\'][^>]*>(.*?)</div>', html)
-    if m_hero:
-        hero_block = m_hero.group(0)
-        m_title = re.search(r'(?is)<div\s+class=["\']title["\'][^>]*>(.*?)</div>', hero_block)
-        if m_title:
-            raw = m_title.group(1)
-            raw = re.sub(r"(?is)<.*?>", "", raw)
-            title_txt = raw.strip()
-        html = html.replace(hero_block, "")
+    m_title = re.search(r'(?is)<div\s+class=["\']title["\'][^>]*>(.*?)</div>', html)
+    if m_title:
+        raw = m_title.group(1)
+        raw = re.sub(r"(?is)<.*?>", "", raw)
+        title_txt = raw.strip()
+        # retirer le bloc .title du HTML pour éviter doublon
+        html = html.replace(m_title.group(0), "")
 
-    # 4) Supprimer le pavé badges éventuel dans la NL
+    # 4) Retirer aussi .overlay puis .hero (après suppression de .title pour gérer l'imbrication)
+    html = re.sub(r'(?is)<div\s+class=["\']overlay["\'][^>]*>.*?</div>', "", html)
+    html = re.sub(r'(?is)<div\s+class=["\']hero["\'][^>]*>.*?</div>', "", html)
+
+    # 5) Supprimer le pavé badges éventuel dans la NL
     html = re.sub(r'(?is)<div\s+class=["\']badges["\'].*?>.*?</div>', "", html)
 
-    # 5) Réécrire le footer
-    def _rewrite_footer(block: str) -> str:
-        m = re.search(r'([A-Za-zéûîÉÈÀÂÔÛÏËÇç]{3,},?\s*\d{1,2}\s+[A-Za-zéûîÉÈÀÂÔÛÏËÇç]{3,}\s+\d{4})', block)
-        date_txt = m.group(1) if m else ""
-        return f'<div class="footer">Copyright A La Lucarne de l\'immobilier • {date_txt}</div>'
-    m_footer = re.search(r'(?is)<div\s+class=["\']footer["\'].*?>.*?</div>', html)
-    if m_footer:
-        html = html.replace(m_footer.group(0), _rewrite_footer(m_footer.group(0)))
-
-    # 6) CSS isolée (blanc) et neutralisation d'effets
+    # 6) CSS isolée (texte 100% blanc) + H1 nettement plus grand que H2
     css = """
     <style>
       :root { color-scheme: dark; }
@@ -426,16 +419,19 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
       .nl-wrap li::marker { color:#fff !important; }
       .nl-wrap pre, .nl-wrap code { background: rgba(255,255,255,0.08) !important; color:#fff !important; }
       .nl-wrap img { max-width:100%; height:auto; display:block; border-radius:8px; }
-      /* Neutraliser les overlays/positions bloquantes */
+      /* Neutraliser overlays/positions bloquantes */
       .nl-wrap * { position: static !important; opacity: 1 !important; filter: none !important; backdrop-filter:none !important; }
       /* Titres */
-      .nl-wrap h1.nl-title, .nl-title { color:#fff !important; margin:.35rem 0 1rem; 
-        font-size: clamp(34px, 6.2vw, 56px) !important; font-weight:900 !important; line-height:1.15 !important; letter-spacing:-.3px; }
-      .nl-wrap h2 { font-size: clamp(20px, 3.4vw, 28px) !important; font-weight:700 !important; }
-      .nl-wrap h3 { font-size: clamp(18px, 3vw, 24px) !important; font-weight:600 !important; }
-      .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.4vw, 18px); }
+      .nl-wrap h1.nl-title { 
+        color:#fff !important; margin:.35rem 0 1rem; 
+        font-size: clamp(38px, 6.5vw, 64px) !important; font-weight:900 !important; line-height:1.12 !important; letter-spacing:-.3px;
+      }
+      .nl-wrap h2 { font-size: clamp(20px, 3vw, 28px) !important; font-weight:700 !important; }
+      .nl-wrap h3 { font-size: clamp(18px, 2.6vw, 24px) !important; font-weight:600 !important; }
+      .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.2vw, 18px); }
     </style>
     """
+
     title_html = f"<h1 class='nl-title'>{title_txt}</h1>" if title_txt else ""
 
     body = f"{css}<div class='nl-wrap'>{title_html}{html}</div>"
