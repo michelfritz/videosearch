@@ -13,10 +13,20 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
+def get_openai_key():
+    # 1) Cloud Run (env var)  2) Streamlit Cloud (st.secrets)
+    key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
+    if not key:
+        st.error("Clé OpenAI absente. Définis OPENAI_API_KEY (Cloud Run: Variables & secrets).")
+        raise RuntimeError("OPENAI_API_KEY manquant")
+    return key
+
 # ------------------------------------
 # Page setup
 # ------------------------------------
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
+st.caption(f"Clé OpenAI détectée : {bool(get_openai_key())}")
+
 
 # ------------------------------------
 # Helpers: CSV header & tag normalization
