@@ -8,7 +8,7 @@ import numpy as np
 import pickle
 import openai
 import chardet
-import re, html
+import re, html, urllib.parse
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
@@ -128,7 +128,7 @@ def to_int(x, default=0):
         return default
 
 # ------------------------------------
-# Tag scrollers (display only for cards)
+# Tag scrollers (display + interactive picker)
 # ------------------------------------
 def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     """Affiche des tags (texte) sur 2 rangées, scroll horizontal (mobile + flèches)."""
@@ -138,8 +138,7 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     if not chips:
         return
     items_html = "".join([f"<span class='tag'>{html.escape(c)}</span>" for c in chips])
-    html_block = """
-    <style>
+    html_block = """    <style>
       .tagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
       .tagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
                            gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
@@ -172,45 +171,14 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     """.format(uid=uid, h=height-24, items_html=items_html)
     st.components.v1.html(html_block, height=height, scrolling=False)
 
-# ------------------------------------
-# NEW: In-page interactive tag picker (no navigation, no extra label)
-# ------------------------------------
-def _apply_tag_from_input(uid: str):
-    picked = to_str(st.session_state.get(f"__tag_capture_{uid}", "")).strip()
-    if picked:
-        # on est déjà dans la page "Recherche", pas besoin de toucher à nav
-        st.session_state.selected_theme = picked
-        st.session_state.reset_search = True
-        do_rerun()
-
-def render_tag_picker(tags: list[str], uid: str = "global-tags", height: int = 136):
-    """
-    Affiche les pastilles bleues (2 rangées, scroll horizontal). Au clic :
-    - remplit un text_input caché
-    - déclenche on_change côté Python -> applique le tag -> rerun
-    Pas de bouton ou label parasite visible dans l'UI.
-    """
+def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 136):
+    """Pastilles cliquables (2 rangées, scroll horizontal). Rendues dans le DOM Streamlit
+    pour que les liens ?select_tag=… naviguent correctement."""
     if not tags:
         return
-
-    # 1) widget caché + callback
-    st.markdown(f"<div id='cap_marker_{uid}'></div>", unsafe_allow_html=True)
-    st.text_input(
-        "_cap_",
-        key=f"__tag_capture_{uid}",
-        label_visibility="collapsed",
-        on_change=_apply_tag_from_input,
-        args=(uid,),
-    )
-    # Masquer complètement le widget précédent
-    st.markdown(
-        f"<style>#cap_marker_{uid} + div {{ display:none !important; }}</style>",
-        unsafe_allow_html=True,
-    )
-
-    # 2) rendu des puces
+    # Construit des <a href="?select_tag=..."> directement (pas de JS, pas d'iframe)
     items_html = "".join(
-        f"<a class='tag' data-tag='{html.escape(t)}'>{html.escape(t)}</a>"
+        f"<a class='tag' href='?select_tag={urllib.parse.quote(t)}' role='button'>{html.escape(t)}</a>"
         for t in tags
     )
     html_block = f"""
@@ -226,7 +194,7 @@ def render_tag_picker(tags: list[str], uid: str = "global-tags", height: int = 1
       .sbox-{uid} .tag{{
          display:inline-flex;align-items:center;justify-content:center;text-align:center;white-space:nowrap;
          background:#D0E8FF;color:#0A2540;border-radius:999px;padding:6px 14px;font-size:13px;
-         border:1px solid rgba(0,0,0,.05);text-decoration:none;cursor:pointer
+         border:1px solid rgba(0,0,0,.05);text-decoration:none
       }}
       .sbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;padding:0 6px;line-height:1}}
       .sbox-{uid} .btn:focus{{outline:none}}
@@ -238,28 +206,27 @@ def render_tag_picker(tags: list[str], uid: str = "global-tags", height: int = 1
         <button class="btn" onclick="document.getElementById('swrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
       </div>
     </div>
-    <script>
-      (function(){{
-        const root = document.querySelector('.sbox-{uid}');
-        if(!root) return;
-        const inputEl = document.querySelector('#cap_marker_{uid} + div input');
-        root.addEventListener('click', function(e){{
-          const a = e.target.closest('.tag');
-          if(!a) return;
-          e.preventDefault();
-          if(!inputEl) return;
-          const val = a.textContent.trim();
-          const setter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set;
-          setter.call(inputEl, val);
-          inputEl.dispatchEvent(new Event('input', {{ bubbles: true }}));
-          inputEl.dispatchEvent(new Event('change', {{ bubbles: true }}));
-        }});
-      }})();
-    </script>
     """
     st.markdown(html_block, unsafe_allow_html=True)
 
+
+def handle_select_tag_from_query():
+    # New Streamlit API (no experimental deprecation)
+    qp = st.query_params
+    tag = qp.get("select_tag", None)
+    if isinstance(tag, list):
+        tag = tag[0] if tag else None
+    if tag:
+        st.session_state.selected_theme = tag
+        st.session_state.nav = "🔍 Recherche"  # assurer affichage dans l'onglet Recherche
+        try:
+            qp.pop("select_tag", None)  # nettoie l'URL
+        except Exception:
+            pass
+        st.session_state.reset_search = True
+
 init_state()
+handle_select_tag_from_query()
 
 # 🎨 Logo (optionnel)
 show_image("logo_lucarne.png", width=180)
@@ -409,7 +376,6 @@ if "fichier" in urls_df.columns and "url" in urls_df.columns:
 
 # ------------------------------------
 # Newsletter HTML → iFrame isolée + nettoyage + titre + footer
-# (reprend ta version précédente qui marche)
 # ------------------------------------
 def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     """Nettoie + isole la NL, et injecte un <h1> (un peu + gros que H2)."""
@@ -456,11 +422,11 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
       /* Titres – H1 un poil plus grand que H2 */
       .nl-wrap h1.nl-title { 
         color:#fff !important; margin:.25rem 0 0.75rem;
-        font-size: clamp(26px, 3.0vw, 30px) !important; font-weight:800 !important; line-height:1.16 !important;
+        font-size: clamp(26px, 3.6vw, 34px) !important; font-weight:800 !important; line-height:1.16 !important;
       }
-      .nl-wrap h2 { font-size: clamp(20px, 2.6vw, 26px) !important; font-weight:700 !important; }
-      .nl-wrap h3 { font-size: clamp(18px, 2.3vw, 22px) !important; font-weight:600 !important; }
-      .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.0vw, 18px); }
+      .nl-wrap h2 { font-size: clamp(20px, 3vw, 28px) !important; font-weight:700 !important; }
+      .nl-wrap h3 { font-size: clamp(18px, 2.6vw, 24px) !important; font-weight:600 !important; }
+      .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.2vw, 18px); }
     </style>
     """
 
@@ -512,9 +478,9 @@ if menu == "🔍 Recherche":
                 st.session_state.reset_search = True
                 do_rerun()
 
-    # 🌟 Tous les Tags (2 lignes + scroll horizontal) — clic = recherche in-page
+    # 🌟 Tous les Tags (2 lignes + scroll horizontal + clics)
     with st.expander("🏷️ Tags", expanded=False):
-        render_tag_picker(sorted(all_themes), uid="global-tags", height=136)
+        render_tags_scroller_interactive(sorted(all_themes), uid="global-tags", height=136)
 
     # Définir la requête à partir du champ ou du tag
     query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
@@ -717,7 +683,7 @@ Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette informatio
 Question : {user_question}
 """
 
-            # Appel à GPT-4 (ou modèle dispo)
+            # Appel à GPT-4 Turbo (ou modèle dispo)
             llm = ChatOpenAI(
                 model="gpt-4-0125-preview",
                 temperature=0.2,
