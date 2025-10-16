@@ -8,25 +8,15 @@ import numpy as np
 import pickle
 import openai
 import chardet
-import re, html
+import re, html, urllib.parse
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
-
-def get_openai_key():
-    # 1) Cloud Run (env var)  2) Streamlit Cloud (st.secrets)
-    key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
-    if not key:
-        st.error("Clé OpenAI absente. Définis OPENAI_API_KEY (Cloud Run: Variables & secrets).")
-        raise RuntimeError("OPENAI_API_KEY manquant")
-    return key
 
 # ------------------------------------
 # Page setup
 # ------------------------------------
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
-st.caption(f"Clé OpenAI détectée : {bool(get_openai_key())}")
-
 
 # ------------------------------------
 # Helpers: CSV header & tag normalization
@@ -71,6 +61,8 @@ def init_state():
         "selected_video": None,
         "user_question": "",
         "show_thumbs": True,
+        # pager for the global tag strip
+        "global_tags_offset": 0,
     }
     for k, v in defaults.items():
         if k not in st.session_state:
@@ -128,7 +120,7 @@ def to_int(x, default=0):
         return default
 
 # ------------------------------------
-# Tag scrollers (display only for cards)
+# Legacy: visual-only tag scroller (kept for cards)
 # ------------------------------------
 def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     """Affiche des tags (texte) sur 2 rangées, scroll horizontal (mobile + flèches)."""
@@ -163,9 +155,9 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     </div>
     <script>
       const w = document.getElementById('wrap-{uid}');
-      if (w) {{ 
-        w.addEventListener('wheel', (e)=>{{ 
-          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }} 
+      if (w) {{
+        w.addEventListener('wheel', (e)=>{{
+          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }}
         }}, {{passive:false}});
       }}
     </script>
@@ -173,93 +165,73 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     st.components.v1.html(html_block, height=height, scrolling=False)
 
 # ------------------------------------
-# NEW: In-page interactive tag picker (no navigation, no extra label)
+# New: Pure-Streamlit tag picker with pager (in-page search trigger)
 # ------------------------------------
-def _apply_tag_from_input(uid: str):
-    picked = to_str(st.session_state.get(f"__tag_capture_{uid}", "")).strip()
-    if picked:
-        # on est déjà dans la page "Recherche", pas besoin de toucher à nav
-        st.session_state.selected_theme = picked
-        st.session_state.reset_search = True
-        do_rerun()
-
-def render_tag_picker(tags: list[str], uid: str = "global-tags", height: int = 136):
-    """
-    Affiche les pastilles bleues (2 rangées, scroll horizontal). Au clic :
-    - remplit un text_input caché
-    - déclenche on_change côté Python -> applique le tag -> rerun
-    Pas de bouton ou label parasite visible dans l'UI.
-    """
+def render_tag_picker_paged(tags: list[str], uid: str = "global-tags", ncols: int = 5, rows: int = 2):
+    """Affiche des pastilles cliquables qui lancent la recherche *dans la page*.
+    Pas de navigation, pas de query params. On montre 2 rangées, avec pagination (◀ ▶)."""
     if not tags:
         return
+    page_size = ncols * rows
+    key_off = f"{uid}_offset"
+    if key_off not in st.session_state:
+        st.session_state[key_off] = 0
+    off = int(st.session_state[key_off])
+    total = len(tags)
+    # clamp
+    if total > page_size:
+        off = max(0, min(off, total - page_size))
+    else:
+        off = 0
+    st.session_state[key_off] = off
 
-    # 1) widget caché + callback
-    st.markdown(f"<div id='cap_marker_{uid}'></div>", unsafe_allow_html=True)
-    st.text_input(
-        "_cap_",
-        key=f"__tag_capture_{uid}",
-        label_visibility="collapsed",
-        on_change=_apply_tag_from_input,
-        args=(uid,),
-    )
-    # Masquer complètement le widget précédent
-    st.markdown(
-        f"<style>#cap_marker_{uid} + div {{ display:none !important; }}</style>",
-        unsafe_allow_html=True,
-    )
+    # Toolbar with arrows + position
+    tcols = st.columns([1,6,1])
+    with tcols[0]:
+        if st.button("◀", key=f"{uid}_prev", help="Tags précédents", use_container_width=True) and off > 0:
+            st.session_state[key_off] = max(0, off - page_size)
+            do_rerun()
+    with tcols[1]:
+        st.caption(f"{off+1}–{min(off+page_size, total)} / {total} tags")
+    with tcols[2]:
+        if st.button("▶", key=f"{uid}_next", help="Tags suivants", use_container_width=True) and off + page_size < total:
+            st.session_state[key_off] = min(total - page_size, off + page_size)
+            do_rerun()
 
-    # 2) rendu des puces
-    items_html = "".join(
-        f"<a class='tag' data-tag='{html.escape(t)}'>{html.escape(t)}</a>"
-        for t in tags
-    )
-    html_block = f"""
-    <style>
-      .sbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
-      .sbox-{uid} .wrap{{
-         display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
-         gap:8px 8px;overflow-x:auto;overflow-y:hidden;padding:6px 6px;
-         scroll-behavior:smooth;-webkit-overflow-scrolling:touch;scrollbar-width:thin;
-      }}
-      .sbox-{uid} .wrap::-webkit-scrollbar{{height:8px}}
-      .sbox-{uid} .wrap::-webkit-scrollbar-thumb{{background:rgba(0,0,0,.15);border-radius:8px}}
-      .sbox-{uid} .tag{{
-         display:inline-flex;align-items:center;justify-content:center;text-align:center;white-space:nowrap;
-         background:#D0E8FF;color:#0A2540;border-radius:999px;padding:6px 14px;font-size:13px;
-         border:1px solid rgba(0,0,0,.05);text-decoration:none;cursor:pointer
-      }}
-      .sbox-{uid} .btn{{border:0;background:transparent;color:#6b7280;font-size:22px;cursor:pointer;padding:0 6px;line-height:1}}
-      .sbox-{uid} .btn:focus{{outline:none}}
-    </style>
-    <div class="sbox-{uid}">
-      <div class="bar">
-        <button class="btn" onclick="document.getElementById('swrap-{uid}').scrollBy({{left:-320,behavior:'smooth'}})">&#9664;</button>
-        <div id="swrap-{uid}" class="wrap" style="height:{height-24}px">{items_html}</div>
-        <button class="btn" onclick="document.getElementById('swrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
-      </div>
-    </div>
-    <script>
-      (function(){{
-        const root = document.querySelector('.sbox-{uid}');
-        if(!root) return;
-        const inputEl = document.querySelector('#cap_marker_{uid} + div input');
-        root.addEventListener('click', function(e){{
-          const a = e.target.closest('.tag');
-          if(!a) return;
-          e.preventDefault();
-          if(!inputEl) return;
-          const val = a.textContent.trim();
-          const setter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set;
-          setter.call(inputEl, val);
-          inputEl.dispatchEvent(new Event('input', {{ bubbles: true }}));
-          inputEl.dispatchEvent(new Event('change', {{ bubbles: true }}));
-        }});
-      }})();
-    </script>
-    """
-    st.markdown(html_block, unsafe_allow_html=True)
+    # Two rows of buttons
+    window = tags[off:off + page_size]
+    for r in range(rows):
+        cols = st.columns(ncols)
+        for c in range(ncols):
+            i = r * ncols + c
+            if i >= len(window):
+                continue
+            tag = window[i]
+            if cols[c].button(tag, key=f"{uid}_btn_{off+i}"):
+                st.session_state.selected_theme = tag
+                st.session_state.nav = "🔍 Recherche"
+                st.session_state.reset_search = True
+                do_rerun()
+
+# ------------------------------------
+# Query-param based tag selection (kept for compatibility)
+# ------------------------------------
+def handle_select_tag_from_query():
+    qp = st.query_params
+    tag = qp.get("select_tag", None)
+    if isinstance(tag, list):
+        tag = tag[0] if tag else None
+    if tag:
+        st.session_state.selected_theme = tag
+        st.session_state.nav = "🔍 Recherche"  # assurer affichage dans l'onglet Recherche
+        try:
+            qp.pop("select_tag", None)  # nettoie l'URL
+        except Exception:
+            pass
+        st.session_state.reset_search = True
 
 init_state()
+handle_select_tag_from_query()
 
 # 🎨 Logo (optionnel)
 show_image("logo_lucarne.png", width=180)
@@ -409,7 +381,6 @@ if "fichier" in urls_df.columns and "url" in urls_df.columns:
 
 # ------------------------------------
 # Newsletter HTML → iFrame isolée + nettoyage + titre + footer
-# (reprend ta version précédente qui marche)
 # ------------------------------------
 def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     """Nettoie + isole la NL, et injecte un <h1> (un peu + gros que H2)."""
@@ -456,11 +427,11 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
       /* Titres – H1 un poil plus grand que H2 */
       .nl-wrap h1.nl-title { 
         color:#fff !important; margin:.25rem 0 0.75rem;
-        font-size: clamp(26px, 3.0vw, 30px) !important; font-weight:800 !important; line-height:1.16 !important;
+        font-size: clamp(26px, 3.2vw, 30px) !important; font-weight:800 !important; line-height:1.16 !important;
       }
-      .nl-wrap h2 { font-size: clamp(20px, 2.6vw, 26px) !important; font-weight:700 !important; }
-      .nl-wrap h3 { font-size: clamp(18px, 2.3vw, 22px) !important; font-weight:600 !important; }
-      .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.0vw, 18px); }
+      .nl-wrap h2 { font-size: clamp(20px, 3vw, 24px) !important; font-weight:700 !important; }
+      .nl-wrap h3 { font-size: clamp(18px, 2.6vw, 22px) !important; font-weight:600 !important; }
+      .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.2vw, 18px); }
     </style>
     """
 
@@ -512,9 +483,9 @@ if menu == "🔍 Recherche":
                 st.session_state.reset_search = True
                 do_rerun()
 
-    # 🌟 Tous les Tags (2 lignes + scroll horizontal) — clic = recherche in-page
+    # 🌟 Tous les Tags (2 rangées, pagination; clic = recherche dans la page)
     with st.expander("🏷️ Tags", expanded=False):
-        render_tag_picker(sorted(all_themes), uid="global-tags", height=136)
+        render_tag_picker_paged(sorted(all_themes), uid="global_tags", ncols=6, rows=2)
 
     # Définir la requête à partir du champ ou du tag
     query = to_str(st.session_state.get("search_query", "")).strip() or to_str(st.session_state.get("selected_theme", "")).strip()
@@ -627,7 +598,7 @@ elif menu == "🎥 Toutes les vidéos":
                 st.markdown(f"### [{primary_title}]({url_str})")
             else:
                 st.markdown(f"### {primary_title}")
-            meta_line = f"🗓️ <em>{video_date}</em> — <span style=\"font-size:0.95rem; opacity:0.85\">{video_name}</span>"
+            meta_line = f"🗓️ <em>{video_date}</em> — <span style=\\"font-size:0.95rem; opacity:0.85\\">{video_name}</span>"
             st.markdown(meta_line, unsafe_allow_html=True)
 
             if resume:
@@ -703,7 +674,7 @@ elif menu == "🧠 Moteur intelligent":
             context = ""
             for doc in docs:
                 url = doc.metadata.get("url", "URL inconnue")
-                context += f"[Source: {url}]\n{doc.page_content}\n\n"
+                context += f"[Source: {url}]\\n{doc.page_content}\\n\\n"
 
             # Construire prompt
             prompt = f"""
@@ -717,7 +688,7 @@ Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette informatio
 Question : {user_question}
 """
 
-            # Appel à GPT-4 (ou modèle dispo)
+            # Appel à GPT-4 Turbo (ou modèle dispo)
             llm = ChatOpenAI(
                 model="gpt-4-0125-preview",
                 temperature=0.2,
