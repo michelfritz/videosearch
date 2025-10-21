@@ -467,7 +467,7 @@ if menu == "🔍 Recherche":
             st.session_state.reset_search = True
             do_rerun()
 
-    seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.5, 0.05)
+    seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.4, 0.05)
 
     # 🌟 Mes Thèmes personnalisés
     with st.expander("✨ Thèmes", expanded=False):
@@ -538,9 +538,10 @@ elif menu == "🎥 Toutes les vidéos":
     if recherche:
         urls_view = urls_view[urls_view.apply(
             lambda row: recherche.lower() in (to_str(row.get("titre","")) +
-                                              to_str(row.get("resume","")) +
-                                              to_str(row.get("idees","")) +
-                                              to_str(row.get("themes",""))).lower(),
+                                      to_str(row.get("resume","")) +
+                                      to_str(row.get("idees","")) +
+                                      to_str(row.get("themes","")) +
+                                      to_str(row.get("fichier",""))).lower(),
             axis=1
         )]
 
