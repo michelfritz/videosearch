@@ -651,30 +651,74 @@ elif menu == "🎥 Toutes les vidéos":
 elif menu == "🧠 Moteur intelligent":
     st.header("🧠 Assistant IA basé sur vos formations vidéos")
 
+    # -- Prévol clés + chemins --
+    from pathlib import Path
+    def ensure_openai():
+        key = get_openai_key()  # lit env OU st.secrets
+        os.environ["OPENAI_API_KEY"] = key
+        openai.api_key = key
+        return key
+
+    FAISS_DIR = Path(__file__).resolve().parent / "faiss_transcripts"
+
+    with st.expander("🔧 Diagnostic rapide (masqué en prod)", expanded=False):
+        st.write("CWD:", os.getcwd())
+        st.write("FAISS_DIR:", str(FAISS_DIR))
+        st.write("FAISS présent:", FAISS_DIR.exists())
+        try:
+            import faiss  # type: ignore
+            st.write("faiss OK")
+        except Exception as e:
+            st.error("❗ Module 'faiss-cpu' manquant — ajoutez 'faiss-cpu' dans requirements.txt")
+            st.exception(e)
+
+        try:
+            st.write("Contenu du dossier:", [p.name for p in FAISS_DIR.glob('*')] if FAISS_DIR.exists() else "—")
+        except Exception as e:
+            st.write("Lecture du dossier impossible:", e)
+
+        try:
+            st.write("lib versions:", {
+                "langchain": __import__("langchain").__version__,
+                "langchain_openai": __import__("langchain_openai").__version__,
+                "langchain_community": __import__("langchain_community").__version__,
+                "openai": __import__("openai").__version__,
+            })
+        except Exception as e:
+            st.write("Versions non disponibles:", e)
+
     st.text_input("Pose ta question :", key="user_question")
     user_question = to_str(st.session_state.get("user_question", "")).strip()
 
     if user_question:
-        with st.spinner("Recherche intelligente en cours..."):
-            # Charger FAISS
-            vectordb = FAISS.load_local(
-                "faiss_transcripts",
-                OpenAIEmbeddings(openai_api_key=os.environ.get("OPENAI_API_KEY")),
-                allow_dangerous_deserialization=True
-            )
+        try:
+            with st.spinner("Recherche intelligente en cours..."):
+                ensure_openai()
 
-            # Recherche dans FAISS
-            docs = vectordb.similarity_search(user_question, k=5)
+                if not FAISS_DIR.exists():
+                    st.error("❌ Dossier 'faiss_transcripts' introuvable sur ce déploiement.")
+                    st.stop()
 
-            # Contexte pour GPT
-            context = ""
-            for doc in docs:
-                url = doc.metadata.get("url", "URL inconnue")
-                context += f"[Source: {url}]\n{doc.page_content}\n\n"
+                expected = {"index.faiss", "index.pkl"}
+                have = {p.name for p in FAISS_DIR.glob("*")}
+                missing = expected - have
+                if missing:
+                    st.error(f"❌ Fichiers FAISS manquants: {', '.join(sorted(missing))}")
+                    st.stop()
 
-            # Construire prompt
-            prompt = f"""
-Tu es un expert de notre entreprise. Voici des extraits de nos formations :
+                vectordb = FAISS.load_local(
+                    str(FAISS_DIR),
+                    OpenAIEmbeddings(openai_api_key=openai.api_key),
+                    allow_dangerous_deserialization=True,
+                )
+
+                docs = vectordb.similarity_search(user_question, k=5)
+
+                context = "\n\n".join(
+                    f"[Source: {d.metadata.get('url','URL inconnue')}]\n{d.page_content}" for d in docs
+                )
+
+                prompt = f"""Tu es un expert de notre entreprise. Voici des extraits de nos formations :
 
 {context}
 
@@ -684,12 +728,18 @@ Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette informatio
 Question : {user_question}
 """
 
-            # Appel à GPT-4 Turbo (ou modèle dispo)
-            llm = ChatOpenAI(
-                model="gpt-4-0125-preview",
-                temperature=0.2,
-                openai_api_key=openai.api_key
-            )
-            response = llm.invoke(prompt)
+                model_name = st.secrets.get("OPENAI_CHAT_MODEL", "gpt-4o-mini")
+                llm = ChatOpenAI(
+                    model=model_name,
+                    temperature=0.2,
+                    openai_api_key=openai.api_key,
+                    max_retries=1,
+                    # request_timeout=40,  # décommentez si votre version de langchain_openai le supporte
+                )
+                response = llm.invoke(prompt)
+                st.success(response.content)
 
-            st.success(response.content)
+        except Exception as e:
+            st.error("❌ Erreur dans la recherche intelligente.")
+            st.exception(e)
+            st.stop()
