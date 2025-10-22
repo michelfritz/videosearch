@@ -1,1 +1,7 @@
 videos/
+Dropbox (Personal)/**
+.dropbox.cache/**
+.venv*/
+venv*/
+__pycache__/
+*.pyc
