@@ -467,7 +467,7 @@ if menu == "🔍 Recherche":
             st.session_state.reset_search = True
             do_rerun()
 
-    seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.4, 0.05)
+    seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.3, 0.05)
 
     # 🌟 Mes Thèmes personnalisés
     with st.expander("✨ Thèmes", expanded=False):
