@@ -613,9 +613,7 @@ elif menu == "🎥 Toutes les vidéos":
 
         st.markdown("---")
 
-elif menu == "🧠 Moteur intelligent":
-    # ✅ garder l'utilisateur sur cet onglet même si le script rerun
-    st.session_state["nav"] = "🧠 Moteur intelligent"
+eelif menu == "🧠 Moteur intelligent":
     st.header("🧠 Assistant IA basé sur vos formations vidéos")
 
     # -- Prévol clés + chemins --
@@ -644,6 +642,7 @@ elif menu == "🧠 Moteur intelligent":
             st.write("Lecture du dossier impossible:", e)
 
         # ✅ versions sans __version__
+        from importlib.metadata import version as _version
         def _v(pkg):
             try:
                 return _version(pkg)
@@ -735,14 +734,15 @@ Question : {user_question}
                 except Exception as e:
                     err_lc = e
 
-                # 2) Fallback via SDK OpenAI si nécessaire
+                # 2) Fallback via SDK OpenAI si nécessaire (timeout côté requête)
                 if answer is None:
                     try:
-                        client = OpenAI(api_key=openai.api_key, timeout=40)
+                        client = OpenAI(api_key=openai.api_key)  # pas d'option timeout ici
                         resp = client.chat.completions.create(
                             model=model_name,
                             messages=[{"role": "user", "content": prompt}],
                             temperature=0.2,
+                            timeout=40,
                         )
                         answer = resp.choices[0].message.content
                     except Exception as e2:
