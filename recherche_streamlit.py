@@ -613,7 +613,7 @@ elif menu == "🎥 Toutes les vidéos":
 
         st.markdown("---")
 
-eelif menu == "🧠 Moteur intelligent":
+elif menu == "🧠 Moteur intelligent":
     st.header("🧠 Assistant IA basé sur vos formations vidéos")
 
     # -- Prévol clés + chemins --
@@ -737,7 +737,8 @@ Question : {user_question}
                 # 2) Fallback via SDK OpenAI si nécessaire (timeout côté requête)
                 if answer is None:
                     try:
-                        client = OpenAI(api_key=openai.api_key)  # pas d'option timeout ici
+                        from openai import OpenAI as _OAI
+                        client = _OAI(api_key=openai.api_key)
                         resp = client.chat.completions.create(
                             model=model_name,
                             messages=[{"role": "user", "content": prompt}],
