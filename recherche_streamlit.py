@@ -12,32 +12,30 @@ import re, html, urllib.parse
 from pathlib import Path
 from langchain_community.vectorstores import FAISS
 
-# Embeddings + chat depuis langchain_openai (plus sûr en 0.3.x)
+# Embeddings + Chat via langchain_openai (présent selon tes versions)
 try:
     from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 except Exception:
-    # Fallback si jamais langchain_openai n'est pas dispo
+    # Si l'import échoue (peu probable chez toi), on garde Embeddings côté community
     from langchain_community.embeddings import OpenAIEmbeddings  # type: ignore
-    from langchain_openai import ChatOpenAI  # type: ignore
-
+    ChatOpenAI = None  # on tombera sur le fallback SDK OpenAI pour le chat
 
 # -----------------------------
-#  Config sans risque
+#  Config OpenAI sans risque
 # -----------------------------
 def get_openai_key():
     """
     1) Essaie l'ENV (Cloud Run / VM / Docker)
     2) Essaie st.secrets["OPENAI_API_KEY"] si présent
-    -> NE LEVE PAS d'exception ici pour ne pas casser le chargement.
+    -> NE lève pas d'exception ici pour ne pas casser le chargement.
     """
     key = os.getenv("OPENAI_API_KEY")
     if key:
         return key
     try:
-        return st.secrets["OPENAI_API_KEY"]  # peut ne pas exister -> except
+        return st.secrets["OPENAI_API_KEY"]
     except Exception:
         return None
-
 
 # ------------------------------------
 # Page setup
@@ -50,7 +48,6 @@ if _API_KEY:
     os.environ["OPENAI_API_KEY"] = _API_KEY
     openai.api_key = _API_KEY
 st.caption(f"Clé OpenAI détectée : {bool(_API_KEY)}")
-
 
 # ------------------------------------
 # Helpers généraux
@@ -146,7 +143,7 @@ def show_image(img, width=None, caption=None):
         st.image(img, caption=caption, use_container_width=True)
 
 def show_logo():
-    """Essaie plusieurs emplacements probables du logo. Ne force pas un affichage cassé."""
+    """Essaie plusieurs emplacements pour le logo, n'affiche rien si introuvable (évite le '0')."""
     candidates = [
         "logo_lucarne.png",
         "static/logo_lucarne.png",
@@ -160,9 +157,7 @@ def show_logo():
                 return
         except Exception:
             pass
-    # Si rien trouvé, on n'affiche rien (évite l'icône '0')
-    st.write("")
-
+    st.write("")  # pas d'icône cassée
 
 # ------------------------------------
 # Tag scrollers
@@ -255,7 +250,6 @@ def handle_select_tag_from_query():
         except Exception:
             pass
         st.session_state.reset_search = True
-
 
 # ------------------------------------
 # Chargement initial + logo + titre
@@ -355,7 +349,6 @@ def charger_urls_et_idees_themes():
 
     return df, idees_v2, themes, mesthemes_list
 
-
 # ------------------------------------
 # Embeddings + vector search (page 🔍)
 # ------------------------------------
@@ -379,7 +372,6 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     top_indices = indices[np.argsort(similarities[indices])[::-1][:top_k]]
     return top_indices, similarities[top_indices]
 
-
 # =====================
 #       DONNÉES
 # =====================
@@ -398,7 +390,6 @@ url_by_file = {}
 if "fichier" in urls_df.columns and "url" in urls_df.columns:
     url_by_file = dict(zip(urls_df["fichier"].astype(str), urls_df["url"].astype(str)))
 
-
 # ------------------------------------
 # Newsletter (utilitaires d'affichage)
 # ------------------------------------
@@ -406,23 +397,30 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
     html_doc = html_src or ""
     if not html_doc:
         return ""
-    html_doc = html_doc.replace('src="images/', f'src="{base_folder}/images/')
-    html_doc = html_doc.replace("src='images/", f"src='{base_folder}/images/")
-    html_doc = html_doc.replace('href="images/', f'href="{base_folder}/images/")
+    # ⚠️ f-strings correctement fermées (le bug venait d'ici)
+    html_doc = html_doc.replace('src="images/',  f'src="{base_folder}/images/')
+    html_doc = html_doc.replace("src='images/",  f"src='{base_folder}/images/")
+    html_doc = html_doc.replace('href="images/', f'href="{base_folder}/images/')
     html_doc = html_doc.replace("href='images/", f"href='{base_folder}/images/")
+
+    # Nettoyage
     html_doc = re.sub(r"(?is)<script.*?>.*?</script>", "", html_doc)
     html_doc = re.sub(r'(?is)<link[^>]+rel=["\']stylesheet["\'][^>]*>', "", html_doc)
     html_doc = re.sub(r"(?is)<style.*?>.*?</style>", "", html_doc)
     html_doc = re.sub(r'(?is)\sstyle=["\'][^"\']*["\']', "", html_doc)
+
+    # Titre éventuel
     title_txt = ""
     m_title = re.search(r'(?is)<div\s+class=["\']title["\'][^>]*>(.*?)</div>', html_doc)
     if m_title:
         raw = re.sub(r"(?is)<.*?>", "", m_title.group(1))
         title_txt = raw.strip()
         html_doc = html_doc.replace(m_title.group(0), "")
+
     html_doc = re.sub(r'(?is)<div\s+class=["\']overlay["\'][^>]*>.*?</div>', "", html_doc)
     html_doc = re.sub(r'(?is)<div\s+class=["\']hero["\'][^>]*>.*?</div>', "", html_doc)
     html_doc = re.sub(r'(?is)<div\s+class=["\']badges["\'].*?>.*?</div>', "", html_doc)
+
     css = """
     <style>
       :root { color-scheme: dark; }
@@ -450,14 +448,12 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
 def toggle(key: str):
     st.session_state[key] = not st.session_state.get(key, False)
 
-
 # ---- Sidebar Navigation ----
 options = ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"]
 default = st.session_state.get("nav", options[0])
 if default not in options:
     default = options[0]
 menu = st.sidebar.radio("Navigation", options, index=options.index(default), key="nav")
-
 
 # =====================
 #       PAGES
@@ -683,7 +679,7 @@ elif menu == "🧠 Moteur intelligent":
                     allow_dangerous_deserialization=True,
                 )
 
-                # Vérifie compatibilité dims (fail-fast si différent)
+                # Vérifie compatibilité dims
                 try:
                     faiss_dim = getattr(vectordb.index, "d", None)
                     test_vec  = embedder.embed_query("ping")
@@ -716,27 +712,28 @@ Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette informatio
 Question : {user_question}
 """.strip()
 
-                # Modèle chat robuste (évite les previews retirées)
+                # Modèle chat (modifiable via OPENAI_CHAT_MODEL)
                 model_name = os.getenv("OPENAI_CHAT_MODEL", "gpt-4o-mini")
 
-                # 1) LangChain
+                # 1) LangChain (si dispo)
                 answer = None
                 err_lc = None
-                try:
-                    llm = ChatOpenAI(
-                        model=model_name,
-                        temperature=0.2,
-                        openai_api_key=api_key,
-                        max_retries=1,
-                    )
-                    answer = llm.invoke(prompt).content
-                except Exception as e:
-                    err_lc = e
+                if ChatOpenAI is not None:
+                    try:
+                        llm = ChatOpenAI(
+                            model=model_name,
+                            temperature=0.2,
+                            openai_api_key=api_key,
+                            max_retries=1,
+                        )
+                        answer = llm.invoke(prompt).content
+                    except Exception as e:
+                        err_lc = e
 
-                # 2) Fallback OpenAI SDK si besoin
+                # 2) Fallback SDK OpenAI
                 if answer is None:
                     try:
-                        client = OpenAI(api_key=api_key, timeout=40)
+                        client = OpenAI(api_key=api_key)
                         resp = client.chat.completions.create(
                             model=model_name,
                             messages=[{"role": "user", "content": prompt}],
@@ -744,7 +741,7 @@ Question : {user_question}
                         )
                         answer = resp.choices[0].message.content
                     except Exception as e2:
-                        st.error("❌ Appel LLM en échec (LangChain puis SDK OpenAI).")
+                        st.error("❌ Appel LLM en échec.")
                         if err_lc:
                             st.exception(err_lc)
                         st.exception(e2)
@@ -753,7 +750,7 @@ Question : {user_question}
                 st.success(answer)
 
         except Exception as e:
-            # On capture TOUT pour éviter le “retour à l’accueil” silencieux
+            # On capture TOUT pour éviter le “retour à l’accueil”
             st.error("❌ Erreur dans la recherche intelligente.")
             st.exception(e)
             st.stop()
