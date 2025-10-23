@@ -686,7 +686,7 @@ Question : {user_question}
 
             # Appel à GPT-4 Turbo (ou modèle dispo)
             llm = ChatOpenAI(
-                model="gpt-4-0125-preview",
+                model="gpt-4o-mini",
                 temperature=0.2,
                 openai_api_key=openai.api_key
             )
