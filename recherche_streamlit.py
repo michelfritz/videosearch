@@ -15,16 +15,28 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
-# =============================
-#         CONFIG CLE OPENAI
-# =============================
+def get_cfg(key: str, default=None):
+    """Retourne d'abord la variable d'env, sinon tente st.secrets[key], sinon default.
+    Ne plante pas si le fichier secrets.toml n'existe pas."""
+    val = os.getenv(key)
+    if val not in (None, ""):
+        return val
+    try:
+        # ATTENTION: .get(...) peut lever si secrets.toml est absent => on protège
+        return st.secrets[key]  # lève KeyError si présent mais clé absente, on laissera remonter None
+    except Exception:
+        return default
+
 def get_openai_key():
-    # 1) Cloud Run (env var)  2) Streamlit Cloud (st.secrets)
-    key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
+    key = get_cfg("OPENAI_API_KEY", None)
     if not key:
         st.error("Clé OpenAI absente. Définis OPENAI_API_KEY (Cloud Run: Variables & secrets).")
         raise RuntimeError("OPENAI_API_KEY manquant")
     return key
+
+# Unifier la clé partout
+os.environ["OPENAI_API_KEY"] = get_openai_key()
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
 # ------------------------------------
 # Page setup
@@ -675,7 +687,7 @@ elif menu == "🧠 Moteur intelligent":
                     st.stop()
 
                 # ✅ Embedding pin + vérif de dimension
-                EMB_MODEL = st.secrets.get("OPENAI_EMBED_MODEL", "text-embedding-3-small")
+                EMB_MODEL  = get_cfg("OPENAI_EMBED_MODEL", "text-embedding-3-small")
                 embedder = OpenAIEmbeddings(model=EMB_MODEL, openai_api_key=openai.api_key)
 
                 vectordb = FAISS.load_local(
@@ -701,9 +713,10 @@ elif menu == "🧠 Moteur intelligent":
                 docs = vectordb.similarity_search(user_question, k=5)
 
                 # Contexte borné pour éviter les timeouts
-                MAX_CHARS = int(st.secrets.get("MAX_CONTEXT_CHARS", 6000))
+                MAX_CHARS  = int(get_cfg("MAX_CONTEXT_CHARS", "6000"))
                 context = "\n\n".join(
-                    f"[Source: {d.metadata.get('url','URL inconnue')}]\n{d.page_content}" for d in docs
+                    f"[Source: {d.metadata.get('url','URL inconnue')}]\n{d.page_content}" 
+                    for d in docs
                 )
                 context = context[:MAX_CHARS]
 
@@ -717,7 +730,7 @@ Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette informatio
 Question : {user_question}
 """
 
-                model_name = st.secrets.get("OPENAI_CHAT_MODEL", "gpt-4o-mini")
+                model_name = get_cfg("OPENAI_CHAT_MODEL", "gpt-4o-mini")
 
                 # 1) Essai via LangChain
                 answer = None
@@ -738,12 +751,11 @@ Question : {user_question}
                 if answer is None:
                     try:
                         from openai import OpenAI as _OAI
-                        client = _OAI(api_key=openai.api_key)
+                        client = _OAI(api_key=openai.api_key, timeout=40)  # timeout ici
                         resp = client.chat.completions.create(
                             model=model_name,
                             messages=[{"role": "user", "content": prompt}],
                             temperature=0.2,
-                            timeout=40,
                         )
                         answer = resp.choices[0].message.content
                     except Exception as e2:
