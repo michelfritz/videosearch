@@ -15,42 +15,37 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
+# -----------------------------
+#  Helper de config sans risque
+# -----------------------------
 def get_cfg(key: str, default=None):
-    """Retourne d'abord la variable d'env, sinon tente st.secrets[key], sinon default.
-    Ne plante pas si le fichier secrets.toml n'existe pas."""
+    """ENV d'abord, puis st.secrets si dispo, sinon valeur par défaut.
+    Ne plante pas si secrets.toml est absent."""
     val = os.getenv(key)
     if val not in (None, ""):
         return val
     try:
-        # ATTENTION: .get(...) peut lever si secrets.toml est absent => on protège
-        return st.secrets[key]  # lève KeyError si présent mais clé absente, on laissera remonter None
+        return st.secrets[key]   # si secrets.toml existe ET contient la clé
     except Exception:
         return default
 
 def get_openai_key():
     key = get_cfg("OPENAI_API_KEY", None)
-    if not key:
-        st.error("Clé OpenAI absente. Définis OPENAI_API_KEY (Cloud Run: Variables & secrets).")
-        raise RuntimeError("OPENAI_API_KEY manquant")
-    return key
-
-# Unifier la clé partout
-os.environ["OPENAI_API_KEY"] = get_openai_key()
-openai.api_key = os.environ["OPENAI_API_KEY"]
+    return key  # on n'échoue pas ici : on échouera seulement quand on en a besoin
 
 # ------------------------------------
 # Page setup
 # ------------------------------------
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
-st.caption(f"Clé OpenAI détectée : {bool(get_openai_key())}")
 
-# ✅ Unifier la clé (env + SDK openai)
-try:
-    _KEY = get_openai_key()
-    os.environ["OPENAI_API_KEY"] = _KEY
-    openai.api_key = _KEY
-except Exception:
-    pass
+# ✅ Unifier la clé (ENV + SDK openai) SANS forcer l'accès aux secrets
+_API_KEY = get_openai_key()
+if _API_KEY:
+    os.environ["OPENAI_API_KEY"] = _API_KEY
+    openai.api_key = _API_KEY
+
+# Indicateur non bloquant
+st.caption(f"Clé OpenAI détectée : {bool(_API_KEY)}")
 
 # ------------------------------------
 # Helpers: CSV header & tag normalization
@@ -183,9 +178,9 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     </div>
     <script>
       const w = document.getElementById('wrap-{uid}');
-      if (w) {{ 
-        w.addEventListener('wheel', (e)=>{{ 
-          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }} 
+      if (w) {{
+        w.addEventListener('wheel', (e)=>{{
+          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {{ w.scrollLeft += e.deltaY; e.preventDefault(); }}
         }}, {{passive:false}});
       }}
     </script>
@@ -347,10 +342,16 @@ def charger_urls_et_idees_themes():
 # Embeddings + vector search
 # ------------------------------------
 def embed_openai(query):
-    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+    # clé d'abord via ENV, sinon via secrets si présents
+    api_key = os.environ.get("OPENAI_API_KEY") or get_openai_key()
+    if not api_key:
+        st.error("Clé OpenAI absente. Définis la variable d'environnement OPENAI_API_KEY.")
+        st.stop()
+    client = OpenAI(api_key=api_key)
+    model = get_cfg("OPENAI_EMBED_MODEL", "text-embedding-3-small")
     response = client.embeddings.create(
         input=query,
-        model="text-embedding-3-small",
+        model=model,
         encoding_format="float"
     )
     return np.array(response.data[0].embedding)
@@ -388,7 +389,7 @@ def fix_newsletter_html(html_src: str, base_folder=DOSSIER_NEWSLETTERS) -> str:
         return ""
     html_doc = html_doc.replace('src="images/', f'src="{base_folder}/images/')
     html_doc = html_doc.replace("src='images/", f"src='{base_folder}/images/")
-    html_doc = html_doc.replace('href="images/', f'href="{base_folder}/images/')
+    html_doc = html_doc.replace('href="images/', f'href="{base_folder}/images/")
     html_doc = html_doc.replace("href='images/", f"href='{base_folder}/images/")
 
     html_doc = re.sub(r"(?is)<script.*?>.*?</script>", "", html_doc)
@@ -631,6 +632,9 @@ elif menu == "🧠 Moteur intelligent":
     # -- Prévol clés + chemins --
     def ensure_openai():
         key = get_openai_key()
+        if not key:
+            st.error("Clé OpenAI absente. Définis la variable d'environnement OPENAI_API_KEY.")
+            st.stop()
         os.environ["OPENAI_API_KEY"] = key
         openai.api_key = key
         return key
@@ -653,7 +657,7 @@ elif menu == "🧠 Moteur intelligent":
         except Exception as e:
             st.write("Lecture du dossier impossible:", e)
 
-        # ✅ versions sans __version__
+        # ✅ versions via importlib.metadata (ne touche pas aux secrets)
         from importlib.metadata import version as _version
         def _v(pkg):
             try:
@@ -688,7 +692,7 @@ elif menu == "🧠 Moteur intelligent":
 
                 # ✅ Embedding pin + vérif de dimension
                 EMB_MODEL  = get_cfg("OPENAI_EMBED_MODEL", "text-embedding-3-small")
-                embedder = OpenAIEmbeddings(model=EMB_MODEL, openai_api_key=openai.api_key)
+                embedder   = OpenAIEmbeddings(model=EMB_MODEL, openai_api_key=openai.api_key)
 
                 vectordb = FAISS.load_local(
                     str(FAISS_DIR),
@@ -699,7 +703,7 @@ elif menu == "🧠 Moteur intelligent":
                 # Vérifie compatibilité dims (fail-fast si différent)
                 try:
                     faiss_dim = getattr(vectordb.index, "d", None)
-                    test_vec = embedder.embed_query("ping")
+                    test_vec  = embedder.embed_query("ping")
                     if faiss_dim and len(test_vec) != faiss_dim:
                         st.error(
                             f"⚠️ Incompatibilité d'embeddings : index={faiss_dim} dims "
@@ -717,8 +721,7 @@ elif menu == "🧠 Moteur intelligent":
                 context = "\n\n".join(
                     f"[Source: {d.metadata.get('url','URL inconnue')}]\n{d.page_content}" 
                     for d in docs
-                )
-                context = context[:MAX_CHARS]
+                )[:MAX_CHARS]
 
                 prompt = f"""Tu es un expert de notre entreprise. Voici des extraits de nos formations :
 
@@ -741,7 +744,6 @@ Question : {user_question}
                         temperature=0.2,
                         openai_api_key=openai.api_key,
                         max_retries=1,
-                        # request_timeout=40,  # décommentez si votre version le supporte
                     )
                     answer = llm.invoke(prompt).content
                 except Exception as e:
@@ -751,7 +753,7 @@ Question : {user_question}
                 if answer is None:
                     try:
                         from openai import OpenAI as _OAI
-                        client = _OAI(api_key=openai.api_key, timeout=40)  # timeout ici
+                        client = _OAI(api_key=openai.api_key, timeout=40)  # timeout au niveau client
                         resp = client.chat.completions.create(
                             model=model_name,
                             messages=[{"role": "user", "content": prompt}],
