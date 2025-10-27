@@ -1,0 +1,186 @@
+{
+  "video_file": "nan",
+  "video_url": "nan",
+  "title": "Restez à jour sur l'immobilier!",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/red-and-white-concrete-building-Tt_oxCmOev8",
+          "attribution": {
+            "photographer": "Jasper Bennett",
+            "profile_url": "https://unsplash.com/@jasper_bennett",
+            "photo_url": "https://unsplash.com/photos/red-and-white-concrete-building-Tt_oxCmOev8",
+            "unsplash_id": "Tt_oxCmOev8"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-city-street-lined-with-tall-buildings-and-bicycles-qw0lSJ7Mz8M",
+          "attribution": {
+            "photographer": "Iain Cridland",
+            "profile_url": "https://unsplash.com/@icridland1",
+            "photo_url": "https://unsplash.com/photos/a-city-street-lined-with-tall-buildings-and-bicycles-qw0lSJ7Mz8M",
+            "unsplash_id": "qw0lSJ7Mz8M"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-brown-concrete-building-E4PWnzTdpJ8",
+          "attribution": {
+            "photographer": "Nguyen Minh",
+            "profile_url": "https://unsplash.com/@ngminh8895",
+            "photo_url": "https://unsplash.com/photos/white-and-brown-concrete-building-E4PWnzTdpJ8",
+            "unsplash_id": "E4PWnzTdpJ8"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-piece-of-paper-with-a-red-marker-drawn-on-it-UUXwGCZLhp4",
+          "attribution": {
+            "photographer": "Walls.io",
+            "profile_url": "https://unsplash.com/@walls_io",
+            "photo_url": "https://unsplash.com/photos/a-piece-of-paper-with-a-red-marker-drawn-on-it-UUXwGCZLhp4",
+            "unsplash_id": "UUXwGCZLhp4"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/people-in-sitting-in-front-of-rectangular-wooden-table-rL1u334QqTw",
+          "attribution": {
+            "photographer": "Domino Studio",
+            "profile_url": "https://unsplash.com/@dominostudio",
+            "photo_url": "https://unsplash.com/photos/people-in-sitting-in-front-of-rectangular-wooden-table-rL1u334QqTw",
+            "unsplash_id": "rL1u334QqTw"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-group-of-people-sitting-around-a-conference-table-z5N9buNp2Pg",
+          "attribution": {
+            "photographer": "Walls.io",
+            "profile_url": "https://unsplash.com/@walls_io",
+            "photo_url": "https://unsplash.com/photos/a-group-of-people-sitting-around-a-conference-table-z5N9buNp2Pg",
+            "unsplash_id": "z5N9buNp2Pg"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/brown-and-white-concrete-building-during-daytime--1C3Tb_sKY4",
+          "attribution": {
+            "photographer": "Wei Zeng",
+            "profile_url": "https://unsplash.com/@fotowei",
+            "photo_url": "https://unsplash.com/photos/brown-and-white-concrete-building-during-daytime--1C3Tb_sKY4",
+            "unsplash_id": "-1C3Tb_sKY4"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-large-building-with-many-windows-and-a-clock-tower-E15L3JoZjMI",
+          "attribution": {
+            "photographer": "Thức Trần",
+            "profile_url": "https://unsplash.com/@thucne",
+            "photo_url": "https://unsplash.com/photos/a-large-building-with-many-windows-and-a-clock-tower-E15L3JoZjMI",
+            "unsplash_id": "E15L3JoZjMI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-brown-concrete-building-KghP_QITK-w",
+          "attribution": {
+            "photographer": "Steve Pancrate",
+            "profile_url": "https://unsplash.com/@redaska",
+            "photo_url": "https://unsplash.com/photos/white-and-brown-concrete-building-KghP_QITK-w",
+            "unsplash_id": "KghP_QITK-w"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/three-colleagues-collaborating-around-a-laptop-in-a-meeting-room-pOO-q-KP4tU",
+          "attribution": {
+            "photographer": "Marcel Petzold",
+            "profile_url": "https://unsplash.com/@mpsc2021",
+            "photo_url": "https://unsplash.com/photos/three-colleagues-collaborating-around-a-laptop-in-a-meeting-room-pOO-q-KP4tU",
+            "unsplash_id": "pOO-q-KP4tU"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-conference-room-with-a-wooden-table-and-chairs-Yngqf938yNY",
+          "attribution": {
+            "photographer": "Jonathan Wells",
+            "profile_url": "https://unsplash.com/@thedigstudios",
+            "photo_url": "https://unsplash.com/photos/a-conference-room-with-a-wooden-table-and-chairs-Yngqf938yNY",
+            "unsplash_id": "Yngqf938yNY"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/group-of-four-people-smiling-sitting-around-white-boardroom-table-6ml55lp0E_E",
+          "attribution": {
+            "photographer": "Mapbox",
+            "profile_url": "https://unsplash.com/@mapbox",
+            "photo_url": "https://unsplash.com/photos/group-of-four-people-smiling-sitting-around-white-boardroom-table-6ml55lp0E_E",
+            "unsplash_id": "6ml55lp0E_E"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

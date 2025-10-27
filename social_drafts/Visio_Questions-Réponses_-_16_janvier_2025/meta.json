@@ -1,0 +1,186 @@
+{
+  "video_file": "Visio Questions-Réponses - 16 janvier 2025",
+  "video_url": "https://youtu.be/yglzx_7YXLY",
+  "title": "Questions Réponses : Soyez Prêts !",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-silver-ring-and-silver-ring-1dw2vzUBxQQ",
+          "attribution": {
+            "photographer": "Anton Konovalov",
+            "profile_url": "https://unsplash.com/@antonkonovalov",
+            "photo_url": "https://unsplash.com/photos/person-wearing-silver-ring-and-silver-ring-1dw2vzUBxQQ",
+            "unsplash_id": "1dw2vzUBxQQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/grayscale-photo-of-person-holding-babys-hand-s3xlC5_Ws78",
+          "attribution": {
+            "photographer": "Priscilla Trujillo",
+            "profile_url": "https://unsplash.com/@trusilly",
+            "photo_url": "https://unsplash.com/photos/grayscale-photo-of-person-holding-babys-hand-s3xlC5_Ws78",
+            "unsplash_id": "s3xlC5_Ws78"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/person-hands-bX0tQ0HTRLg",
+          "attribution": {
+            "photographer": "Palden Gyamtso",
+            "profile_url": "https://unsplash.com/@_infinitycanvas",
+            "photo_url": "https://unsplash.com/photos/person-hands-bX0tQ0HTRLg",
+            "unsplash_id": "bX0tQ0HTRLg"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-white-building-with-a-blue-sky-MVVp2_sVMgI",
+          "attribution": {
+            "photographer": "Alice Spark",
+            "profile_url": "https://unsplash.com/@alicespark",
+            "photo_url": "https://unsplash.com/photos/a-white-building-with-a-blue-sky-MVVp2_sVMgI",
+            "unsplash_id": "MVVp2_sVMgI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-brick-building-with-two-air-conditioners-on-the-side-of-it-DZZqeO5wm6w",
+          "attribution": {
+            "photographer": "Linus Belanger",
+            "profile_url": "https://unsplash.com/@linusbelanger",
+            "photo_url": "https://unsplash.com/photos/a-brick-building-with-two-air-conditioners-on-the-side-of-it-DZZqeO5wm6w",
+            "unsplash_id": "DZZqeO5wm6w"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-yellow-house-with-a-red-chimney-on-a-sunny-day-JqlmKzqloFw",
+          "attribution": {
+            "photographer": "Kaydn Ito",
+            "profile_url": "https://unsplash.com/@kaydnontoast",
+            "photo_url": "https://unsplash.com/photos/a-yellow-house-with-a-red-chimney-on-a-sunny-day-JqlmKzqloFw",
+            "unsplash_id": "JqlmKzqloFw"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-XjJvy2G638M",
+          "attribution": {
+            "photographer": "Zachary Delorenzo",
+            "profile_url": "https://unsplash.com/@zdelo",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-XjJvy2G638M",
+            "unsplash_id": "XjJvy2G638M"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/two-businessmen-shaking-hands-outside-modern-building-AIdnnF7oKws",
+          "attribution": {
+            "photographer": "Vitaly Gariev",
+            "profile_url": "https://unsplash.com/@silverkblack",
+            "photo_url": "https://unsplash.com/photos/two-businessmen-shaking-hands-outside-modern-building-AIdnnF7oKws",
+            "unsplash_id": "AIdnnF7oKws"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-white-dress-shirt-Y_E0Or3TUpg",
+          "attribution": {
+            "photographer": "Nick Karvounis",
+            "profile_url": "https://unsplash.com/@nickkarvounis",
+            "photo_url": "https://unsplash.com/photos/person-wearing-white-dress-shirt-Y_E0Or3TUpg",
+            "unsplash_id": "Y_E0Or3TUpg"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-yellow-house-with-three-windows-and-a-wooden-deck-rt9L73JkuNk",
+          "attribution": {
+            "photographer": "Jacky Watt",
+            "profile_url": "https://unsplash.com/@jackywatt",
+            "photo_url": "https://unsplash.com/photos/a-yellow-house-with-three-windows-and-a-wooden-deck-rt9L73JkuNk",
+            "unsplash_id": "rt9L73JkuNk"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-house-with-a-black-roof-and-white-trim-qbWtIU720Rw",
+          "attribution": {
+            "photographer": "Nadhira Riezza",
+            "profile_url": "https://unsplash.com/@naderar",
+            "photo_url": "https://unsplash.com/photos/a-house-with-a-black-roof-and-white-trim-qbWtIU720Rw",
+            "unsplash_id": "qbWtIU720Rw"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-building-with-flowers-on-the-windows-GqDjMmYqDWE",
+          "attribution": {
+            "photographer": "Markus Winkler",
+            "profile_url": "https://unsplash.com/@markuswinkler",
+            "photo_url": "https://unsplash.com/photos/a-building-with-flowers-on-the-windows-GqDjMmYqDWE",
+            "unsplash_id": "GqDjMmYqDWE"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

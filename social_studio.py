@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Optional, Dict, List
 import requests
 import streamlit as st
+import hashlib
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -25,34 +26,48 @@ st.write("Valide, retouche et publie tes posts Instagram & Facebook.")
 
 # -------- Helpers ----------
 def _read(p: Path, default=""):
-    try: return p.read_text(encoding="utf-8")
-    except Exception: return default
+    try:
+        return p.read_text(encoding="utf-8")
+    except Exception:
+        return default
 
 def _save(p: Path, text: str):
     p.write_text(text, encoding="utf-8")
 
 def _resolve_local(base_dir: Path, rel: str) -> Optional[Path]:
-    if not rel: return None
+    if not rel:
+        return None
     p = base_dir / rel
-    if p.exists(): return p
+    if p.exists():
+        return p
     fn = Path(rel).name
     p2 = base_dir / "images" / fn
-    if p2.exists(): return p2
+    if p2.exists():
+        return p2
     p3 = base_dir / fn
-    if p3.exists(): return p3
+    if p3.exists():
+        return p3
     return None
 
 def _load_meta(root: Path) -> Optional[dict]:
-    m = root/"meta.json"
-    if not m.exists(): return None
-    try: return json.loads(m.read_text(encoding="utf-8"))
-    except Exception: return None
+    m = root / "meta.json"
+    if not m.exists():
+        return None
+    try:
+        return json.loads(m.read_text(encoding="utf-8"))
+    except Exception:
+        return None
 
 def _save_meta(root: Path, meta: dict):
-    (root/"meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+    (root / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
 
 def list_drafts():
-    return sorted([p for p in DRAFTS_DIR.glob("*") if p.is_dir() and (p/"meta.json").exists()])
+    return sorted([p for p in DRAFTS_DIR.glob("*") if p.is_dir() and (p / "meta.json").exists()])
+
+# Clés uniques robustes pour les widgets streamlit
+def _uikey(*parts) -> str:
+    raw = "::".join(str(p) for p in parts if p is not None)
+    return "k_" + hashlib.md5(raw.encode("utf-8")).hexdigest()[:10]
 
 # --------- Facebook API ----------
 def fb_publish_photo(message: str, image_path: Path, schedule_ts: Optional[int] = None):
@@ -64,8 +79,10 @@ def fb_publish_photo(message: str, image_path: Path, schedule_ts: Optional[int] 
         data["scheduled_publish_time"] = str(schedule_ts)
     r = requests.post(url, data=data, files=files, timeout=60)
     if files:
-        try: files["source"].close()
-        except Exception: pass
+        try:
+            files["source"].close()
+        except Exception:
+            pass
     return r.status_code, r.text
 
 def fb_publish_link(message: str, link: str, schedule_ts: Optional[int] = None):
@@ -105,7 +122,7 @@ if not meta:
     st.error("meta.json introuvable.")
     st.stop()
 
-st.header(meta.get("title","(Sans titre)"))
+st.header(meta.get("title", "(Sans titre)"))
 st.caption(f"🎬 Fichier: {meta.get('video_file')} | 🔗 URL: {meta.get('video_url','')}")
 
 # -------- UI helpers : carrousel + édition/validation ----------
@@ -122,60 +139,64 @@ def render_variant(area: str, node: dict, cap_file: str, is_instagram: bool, sta
     idx = st.session_state[state_key] % len(cands)
     cand = cands[idx]
 
-    cols = st.columns([1,2,1])
+    cols = st.columns([1, 2, 1])
     with cols[0]:
-        if st.button("⟵", key=f"{area}_prev"):
+        if st.button("⟵", key=_uikey(area, "prev")):
             st.session_state[state_key] = (idx - 1) % len(cands)
-            idx = st.session_state[state_key]; cand = cands[idx]
+            idx = st.session_state[state_key]
+            cand = cands[idx]
     with cols[1]:
-        img_local = _resolve_local(sel, cand.get("image_local",""))
+        img_local = _resolve_local(sel, cand.get("image_local", ""))
         if img_local:
-            st.image(str(img_local), use_container_width=True)
+            st.image(str(img_local), width="stretch")
         elif cand.get("image_url"):
-            st.image(cand["image_url"], use_container_width=True)
+            st.image(cand["image_url"], width="stretch")
         else:
             st.error("Image introuvable (ni locale, ni URL).")
     with cols[2]:
-        if st.button("⟶", key=f"{area}_next"):
+        if st.button("⟶", key=_uikey(area, "next")):
             st.session_state[state_key] = (idx + 1) % len(cands)
-            idx = st.session_state[state_key]; cand = cands[idx]
+            idx = st.session_state[state_key]
+            cand = cands[idx]
 
     st.caption(f"Source: **{cand.get('source','?')}** — URL publique: {'✅' if cand.get('image_url') else '❌'}")
-    st.progress((idx+1)/len(cands), text=f"{idx+1} / {len(cands)}")
+    st.progress((idx + 1) / len(cands), text=f"{idx+1} / {len(cands)}")
 
     # Légende : édition / validation
     cap_path = sel / cap_file
+    cap_abs = str(cap_path.resolve())
     edit_key = f"{area}_edit_mode"
     if edit_key not in st.session_state:
         st.session_state[edit_key] = False
 
     if st.session_state[edit_key]:
-        txt = st.text_area("✏️ Modifier la légende", _read(cap_path), height=220, key=f"{area}_editor")
+        txt = st.text_area("✏️ Modifier la légende", _read(cap_path), height=220, key=_uikey(area, "editor", cap_abs))
         c1, c2 = st.columns(2)
         with c1:
-            if st.button("✅ Valider", key=f"{area}_validate"):
+            if st.button("✅ Valider", key=_uikey(area, "validate")):
                 _save(cap_path, txt)
                 node["selected"] = idx
                 _save_meta(sel, meta)
                 st.session_state[edit_key] = False
                 st.success("Légende enregistrée et image sélectionnée.")
         with c2:
-            if st.button("↩️ Annuler", key=f"{area}_cancel"):
+            if st.button("↩️ Annuler", key=_uikey(area, "cancel")):
                 st.session_state[edit_key] = False
     else:
-        st.text_area("Légende", _read(cap_path), height=180, disabled=True)
+        # ⚠️ Clé unique pour éviter StreamlitDuplicateElementId
+        st.text_area("Légende", _read(cap_path), height=180, disabled=True, key=_uikey(area, "caption", cap_abs))
         c1, c2, c3 = st.columns(3)
         with c1:
-            if st.button("✏️ Éditer", key=f"{area}_edit"):
+            if st.button("✏️ Éditer", key=_uikey(area, "edit")):
                 st.session_state[edit_key] = True
         with c2:
-            if st.button("💾 Sauver sélection", key=f"{area}_save"):
+            if st.button("💾 Sauver sélection", key=_uikey(area, "save")):
                 node["selected"] = idx
                 _save_meta(sel, meta)
                 st.success("Sélection d’image sauvegardée.")
         with c3:
             label = "📤 Publier IG" if is_instagram else "📣 Publier FB"
-            if st.button(label, key=f"{area}_publish"):
+            if st.button(label, key=_uikey(area, "publish")):
                 message = _read(cap_path)
                 if is_instagram:
                     if not cand.get("image_url"):
@@ -186,15 +207,15 @@ def render_variant(area: str, node: dict, cap_file: str, is_instagram: bool, sta
                 else:
                     # Choix du mode (Photo / Lien)
                     st.info("FB : publication Photo (image locale si dispo) ou Lien (URL vidéo).")
-                    mode = st.radio("Mode de publication FB", ["Photo", "Lien"], horizontal=True, key=f"{area}_fbmode")
-                    sched = st.checkbox("Programmer", key=f"{area}_sched")
+                    mode = st.radio("Mode de publication FB", ["Photo", "Lien"], horizontal=True, key=_uikey(area, "fbmode"))
+                    sched = st.checkbox("Programmer", key=_uikey(area, "sched"))
                     sched_ts = None
                     if sched:
-                        d = st.date_input("Date", value=dt.date.today()+dt.timedelta(days=1), key=f"{area}_date")
-                        t = st.time_input("Heure", value=dt.time(9,0), key=f"{area}_time")
-                        sched_ts = int(dt.datetime.combine(d,t).timestamp())
+                        d = st.date_input("Date", value=dt.date.today() + dt.timedelta(days=1), key=_uikey(area, "date"))
+                        t = st.time_input("Heure", value=dt.time(9, 0), key=_uikey(area, "time"))
+                        sched_ts = int(dt.datetime.combine(d, t).timestamp())
                     if mode == "Photo":
-                        img_local = _resolve_local(sel, cand.get("image_local",""))
+                        img_local = _resolve_local(sel, cand.get("image_local", ""))
                         if img_local:
                             status, resp = fb_publish_photo(message, img_local, schedule_ts=sched_ts)
                             st.code(f"FB (photo) → {status}\n{resp}")

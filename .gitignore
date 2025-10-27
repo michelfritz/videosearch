@@ -1,1 +1,6 @@
 videos/
+.env*.env
+.env
+token.json
+client_secret.json
+

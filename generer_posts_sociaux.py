@@ -1,7 +1,7 @@
 # generer_posts_sociaux.py — Brouillons “flex” (base: version prod)
 # - 4 candidats image par variante (IG A/B, FB A/B) : 3 Unsplash + 1 OpenAI (si dispo)
 # - Recadrage visage + fallback robustes (Unsplash→OpenAI)
-# - Skip idempotent si brouillon complet existe déjà
+# - Pas de saut dur : met à jour les légendes faibles même si le brouillon existe déjà
 # - meta.json contient candidates[] et selected (par variante)
 # - Compat descendante : captions .txt conservées ; images finales choisies via social_studio.py
 
@@ -55,7 +55,6 @@ def _read_resume_for_file(stem: str) -> str:
     cands = list(RESUME_DIR.glob("*.txt"))
     stem_low = stem.lower()
 
-    # NEW: privilégier préfixe/sous-chaîne exacte si dispo, sinon score d'intersection (comportement historique).
     exact = [p for p in cands if stem_low in p.stem.lower() or p.stem.lower() in stem_low]
     if exact:
         try: return exact[0].read_text(encoding="utf-8", errors="ignore")
@@ -71,6 +70,13 @@ def _read_resume_for_file(stem: str) -> str:
         try: return best.read_text(encoding="utf-8", errors="ignore")
         except Exception: return best.read_text(errors="ignore")
     return ""
+
+def _public_title(title: str) -> str:
+    """Titre sans mentions internes (visio, webinar…)"""
+    t = title or ""
+    t = re.sub(r"(?i)\bwebinar|webinaire|visi[oô]|formation\s+interne|atelier|module|newsletter|youtube|vid[ée]o", "", t)
+    t = re.sub(r"\s{2,}", " ", t).strip(" -–—:·").strip()
+    return t or "Actu immobilière"
 
 def _parse_yt_id(url: str) -> str:
     if not url: return ""
@@ -287,6 +293,41 @@ TOPIC_RULES = [
     },
 ]
 
+# ===== B2C Audience targeting & sanitation =====
+AUDIENCES = ("acheteurs","vendeurs","candidats")
+_CANDIDATE_PATTERNS = [
+    r"recrut", r"deven(?:ez|ir)\s+agent", r"nous rejoindre", r"mandataire",
+    r"commission", r"statut\s+ind[ée]pendant", r"candidats?", r"postule[rz]?"
+]
+
+def pick_audiences(text: str, title: str) -> Tuple[str, str]:
+    """Choisit 2 audiences pour A/B. Par défaut: acheteurs & vendeurs.
+       Si le texte parle clairement de recrutement (≥2 matches), B passe en 'candidats'."""
+    base = (title or "") + "\n" + (text or "")
+    score_cand = sum(len(re.findall(p, base, flags=re.I)) for p in _CANDIDATE_PATTERNS)
+    if score_cand >= 2:
+        return ("acheteurs","candidats")
+    return ("acheteurs","vendeurs")
+
+def _sanitize_b2c_text(s: str) -> str:
+    """Supprime liens/mentions internes et reformule quelques termes pour le grand public."""
+    if not s: return s
+    s = re.sub(r"https?://\S+", "", s)  # enlever liens
+    banned = r"(webinar|webinaire|visi[oô]|formation\s+interne|atelier|module|newsletter|youtube|vid[ée]o)"
+    lines = [ln for ln in s.splitlines() if not re.search(banned, ln, flags=re.I)]
+    s = "\n".join(lines)
+    s = re.sub(r"\bagents?\s+immobiliers?\b", "conseillers immobiliers", s, flags=re.I)
+    s = re.sub(r"\s{2,}", " ", s).strip()
+    return s
+
+def _cta_for_persona(persona: str, city: Optional[str]) -> str:
+    if persona == "acheteurs":
+        return "Besoin d’y voir clair ? Parlons de votre projet en message privé."
+    if persona == "vendeurs":
+        prefix = f"{city}: " if city else ""
+        return f"{prefix}Estimation offerte et stratégie sur-mesure. Écrivez-nous."
+    return "Envie de devenir conseiller immobilier ? Échangeons en message privé."
+
 def _norm(s: str) -> str:
     return (s or "").lower()
 
@@ -312,8 +353,6 @@ def _extract_topics(text: str, title: str) -> List[dict]:
 def _topic_to_bucket(topic_rule: dict, cities: List[str]) -> Dict:
     """Construit un 'bucket' dynamique compatible avec le pipeline existant."""
     rule = topic_rule["rule"]
-    city_suffix = f" — {cities[0]}" if cities else ""
-    # prompts contextualisés ville si pertinente
     pA = rule["prompt_A"] + (f", city of {cities[0]}" if cities and rule["key"] in {"prix_transactions","marche_local","neuf_construction"} else "")
     pB = rule["prompt_B"] + (f", city of {cities[0]}" if cities and rule["key"] in {"prix_transactions","marche_local","neuf_construction"} else "")
     return {
@@ -341,17 +380,13 @@ def choose_buckets(title: str, resume: str) -> Tuple[Dict, Dict]:
     cities = _find_cities(resume, title)
     if topics:
         bA = _topic_to_bucket(topics[0], cities)
-        # choisir un second sujet différent si possible
         if len(topics) > 1:
             bB = _topic_to_bucket(topics[1], cities)
         else:
-            # second angle du même sujet : inverser prompts A/B pour variété
             bB = dict(bA)
             bB["prompt_A"], bB["prompt_B"] = bA["prompt_B"], bA["prompt_A"]
         return bA, bB
-    # Fallback exact à l'ancien comportement
     bA = _fallback_pick_bucket(title, resume)
-    # choisir un autre bucket legacy pour B
     other = [b for b in SCENE_BUCKETS if b["key"] != bA["key"]]
     random.seed(int(hashlib.md5(title.encode("utf-8")).hexdigest(),16))
     b0 = random.choice(other) if other else bA
@@ -359,21 +394,21 @@ def choose_buckets(title: str, resume: str) -> Tuple[Dict, Dict]:
     return bA, bB
 
 # ---------------------- Captions ----------------------
-# CHANGED: prompt enrichi pour s'ancrer sur les résumés + varier les sujets
-CAPTION_PROMPT = """Tu écris des publications sociales pour un réseau immobilier français.
-Objectif: t'appuyer STRICTEMENT sur le texte fourni (résumé vidéo) et les Faits clés, sans inventer.
-Produis DEUX variantes pour INSTAGRAM et DEUX variantes pour FACEBOOK, en couvrant idéalement DEUX sujets/angles DIFFÉRENTS relevés dans le texte.
-Contraintes:
-- Ton pro, dynamique, clair, informatif (actualité immobilière).
+CAPTION_PROMPT = """Tu écris des publications sociales B2C pour un public français (acheteurs / vendeurs ; optionnellement candidats si le texte parle clairement de recrutement).
+Objectif: t'appuyer STRICTEMENT sur le texte fourni (résumé) et les Faits clés, sans inventer.
+Produis DEUX variantes pour INSTAGRAM et DEUX variantes pour FACEBOOK.
+Règles:
+- Cible principale: A = acheteurs ; B = vendeurs. (Si le texte parle clairement de recrutement, tu peux orienter une variante "candidats".)
+- NE t'adresse PAS aux "agents immobiliers" ni au "réseau interne". Pas de mention de visio, webinar, formation interne.
+- N'inclus AUCUN lien (pas de YouTube / pas de vidéo). Pas d'appel du type "voir la vidéo".
+- Ton pro, dynamique, clair, orienté bénéfices clients. Intègre des chiffres/dates/% uniquement s'ils figurent dans le texte.
 - Instagram: 150–2200 caractères, 8–12 hashtags pertinents par variante (immobilier, crédit, DPE, marché, ville…), pas de lien cliquable.
-- Facebook: inclure le lien YouTube fourni (s'il existe) DANS le texte avec UTM source=fb&utm_medium=social&utm_campaign=newsletter. 3–6 hashtags max.
-- Utilise si possible des CHIFFRES/DATES/POURCENTAGES présents dans le texte (ex: taux, €/m², volumes).
-- Ne répète pas exactement la même idée entre A et B; fais varier l’angle, la promesse, ou la cible.
+- Facebook: 3–6 hashtags, pas de lien.
+- Termine chaque variante par un court CTA adapté (ex: estimation offerte, parler du projet, message privé).
 - Retourne en JSON compact:
-  {"ig":["...varA...","...varB..."], "fb":["...varA...","...varB..."], "title":"titre court punchy"}
+  {{"ig":["...varA...","...varB..."], "fb":["...varA...","...varB..."], "title":"titre court punchy"}}
 ENTRÉES:
 - TITRE: {title_hint}
-- URL: {video_url}
 - SUJETS: {topics_inline}
 - FAITS: {facts_inline}
 TEXTE:
@@ -383,7 +418,6 @@ TEXTE:
 def _extract_fact_snippets(text: str, max_items: int = 6) -> List[str]:
     """Extrait de courts 'faits' (phrases/segments) contenant chiffres/dates/€/%/m²… pour aider le modèle."""
     if not text: return []
-    # découpage simple phrases/lignes
     parts = re.split(r"[\.\n\r;]+", text)
     facts = []
     for p in parts:
@@ -391,7 +425,6 @@ def _extract_fact_snippets(text: str, max_items: int = 6) -> List[str]:
         if not p: continue
         if re.search(r"\b20\d{2}\b|€|%|points? de base|taux|prix|m²|\bIRL\b|\bDPE\b|\bPTZ\b|\bPinel\+?\b|\bLMNP\b|\bOAT\b|transactions?", p, re.I):
             facts.append(p)
-    # unicité + taille raisonnable
     seen = set()
     out = []
     for f in facts:
@@ -402,19 +435,7 @@ def _extract_fact_snippets(text: str, max_items: int = 6) -> List[str]:
         if len(out) >= max_items: break
     return out
 
-def _add_utm(url: str, source: str="fb") -> str:
-    if not url: return ""
-    try:
-        u = urllib.parse.urlsplit(url)
-        q = dict(urllib.parse.parse_qsl(u.query))
-        q.update({"utm_source": source, "utm_medium": "social", "utm_campaign": "newsletter"})
-        new_q = urllib.parse.urlencode(q)
-        return urllib.parse.urlunsplit((u.scheme, u.netloc, u.path, new_q, u.fragment))
-    except Exception:
-        return url
-
-def _topic_hashtags(key: str, extra_city: Optional[str]=None, n_ig:int=10, n_fb:int=5) -> Tuple[List[str], List[str]]:
-    # chercher dans TOPIC_RULES
+def _topic_hashtags(key: str, extra_city: Optional[str]=None, persona: Optional[str]=None, n_ig:int=10, n_fb:int=5) -> Tuple[List[str], List[str]]:
     base = ["#immobilier", "#conseilsimmobilier"]
     for r in TOPIC_RULES:
         if r["key"] == key:
@@ -422,88 +443,96 @@ def _topic_hashtags(key: str, extra_city: Optional[str]=None, n_ig:int=10, n_fb:
             break
     if extra_city:
         base = base + [f"#{extra_city.replace(' ', '')}", "#marchélocal"]
-    # IG 8–12, FB 3–6
+    persona_tags: List[str] = []
+    if persona == "acheteurs":
+        persona_tags = ["#acheteurs", "#projetimmobilier", "#premierachat"]
+    elif persona == "vendeurs":
+        persona_tags = ["#vendeurs", "#estimationgratuite", "#vendre"]
+    elif persona == "candidats":
+        persona_tags = ["#recrutement", "#devenezconseiller", "#carrière"]
+    base = list(dict.fromkeys(base + persona_tags))
     ig = (base + ["#réseau", "#actualité", "#france"])[:max(8, min(n_ig, 12))]
     fb = (base + ["#actualité"])[:max(3, min(n_fb, 6))]
     return ig, fb
 
-def _compose_caption_variant(topic_key: str, title_hint: str, facts: List[str], city: Optional[str], platform: str, video_url: str) -> str:
-    ig_hash, fb_hash = _topic_hashtags(topic_key, city)
+def _compose_caption_variant(topic_key: str, title_hint: str, facts: List[str], city: Optional[str], platform: str, persona: str) -> str:
+    ig_hash, fb_hash = _topic_hashtags(topic_key, city, persona)
     facts_txt = ""
     if facts:
         facts_txt = " • ".join(facts[:3])
+    safe_title = _public_title(title_hint)
     if platform == "ig":
-        # IG: sans lien, 8–12 hashtags
-        body = f"{title_hint}\n\n{facts_txt}\n\n"
-        # petite phrase d’accroche thématique
-        label = next((r["label"] for r in TOPIC_RULES if r["key"] == topic_key), title_hint)
+        label = next((r["label"] for r in TOPIC_RULES if r["key"] == topic_key), safe_title)
         hook = f"Zoom sur {label.lower()}" if label else "Zoom sur l’actualité"
-        body = f"{hook} — {body}"
-        return body + " ".join(ig_hash)
+        body = f"{hook} — {safe_title}\n\n{facts_txt}\n\n{_cta_for_persona(persona, city)}\n\n"
+        txt = _sanitize_b2c_text(body + " ".join(ig_hash))
     else:
-        # FB: avec lien UTM
-        link = _add_utm(video_url, "fb")
         label = next((r["label"] for r in TOPIC_RULES if r["key"] == topic_key), "")
         intro = f"{label} — " if label else ""
-        txt = f"{intro}{title_hint}\n\n{facts_txt}\n\nÀ voir en vidéo : {link}\n\n" if link else f"{intro}{title_hint}\n\n{facts_txt}\n\n"
-        return txt + " ".join(fb_hash)
+        body = f"{intro}{safe_title}\n\n{facts_txt}\n\n{_cta_for_persona(persona, city)}\n\n"
+        txt = _sanitize_b2c_text(body + " ".join(fb_hash))
+    # garde‑fou si trop court après nettoyage
+    if len(txt.strip()) < 60:
+        mini = f"{_sanitize_b2c_text(safe_title)} — {_cta_for_persona(persona, city)}\n\n" + " ".join((ig_hash if platform=='ig' else fb_hash))
+        return mini.strip()
+    return txt.strip()
 
-def generate_captions(text: str, title_hint: str, video_url: str) -> dict:
-    # NEW: extraction sujets/faits pour guider la génération
+def _local_caption_pack(text: str, title_hint: str) -> dict:
+    """Générateur local B2C (sans OpenAI)."""
     topics = _extract_topics(text, title_hint)
     topic_keys = [t["key"] for t in topics[:2]] or ["mandat_transaction", "prix_transactions"]
     facts = _extract_fact_snippets(text)
     cities = _find_cities(text, title_hint)
     city_for_hash = cities[0] if cities else None
+    audA, audB = pick_audiences(text, title_hint)
+    tA = topic_keys[0]
+    tB = topic_keys[1] if len(topic_keys) > 1 else topic_keys[0]
+    ig = [
+        _compose_caption_variant(tA, title_hint, facts, city_for_hash, "ig", audA),
+        _compose_caption_variant(tB, "Le point à retenir", facts[2:]+facts[:2], city_for_hash, "ig", audB),
+    ]
+    fb = [
+        _compose_caption_variant(tA, title_hint, facts, city_for_hash, "fb", audA),
+        _compose_caption_variant(tB, "À savoir cette semaine", facts[2:]+facts[:2], city_for_hash, "fb", audB),
+    ]
+    return {"ig": ig, "fb": fb, "title": (_public_title(title_hint) or "À La Lucarne")[:80]}
 
-    # --- Fallback local si pas d'OpenAI ---
-    if not openai_client:
-        # 2 variantes IG et 2 FB, en diversifiant les deux premiers sujets détectés
-        tA = topic_keys[0]
-        tB = topic_keys[1] if len(topic_keys) > 1 else topic_keys[0]
-        ig = [
-            _compose_caption_variant(tA, title_hint, facts, city_for_hash, "ig", video_url),
-            _compose_caption_variant(tB, "Le point à retenir", facts[2:]+facts[:2], city_for_hash, "ig", video_url),
-        ]
-        fb = [
-            _compose_caption_variant(tA, title_hint, facts, city_for_hash, "fb", video_url),
-            _compose_caption_variant(tB, "À savoir cette semaine", facts[2:]+facts[:2], city_for_hash, "fb", video_url),
-        ]
-        return {"ig": ig, "fb": fb, "title": (title_hint or "À La Lucarne")[:80]}
-
-    # --- OpenAI: prompt contraint et ancré sur faits + sujets ---
-    topics_inline = ", ".join([t["rule"]["label"] for t in topics[:4]]) or "Actualité immobilière diverse"
-    facts_inline = " | ".join(facts) if facts else "—"
-    payload = CAPTION_PROMPT.format(
-        title_hint=title_hint, video_url=video_url, topics_inline=topics_inline, facts_inline=facts_inline, text=text[:4000]
-    )
-    try:
-        r = openai_client.chat.completions.create(
-            model="gpt-4o-mini", temperature=0.6,
-            messages=[{"role":"user","content": payload}],
+def generate_captions(text: str, title_hint: str, video_url: str) -> dict:
+    """Essaie OpenAI → retombe sur générateur local en toute circonstance."""
+    # 1) Essai OpenAI
+    if openai_client:
+        topics = _extract_topics(text, title_hint)
+        facts = _extract_fact_snippets(text)
+        topics_inline = ", ".join([t["rule"]["label"] for t in topics[:4]]) or "Actualité immobilière"
+        facts_inline = " | ".join(facts) if facts else "—"
+        payload = CAPTION_PROMPT.format(
+            title_hint=_public_title(title_hint), topics_inline=topics_inline, facts_inline=facts_inline, text=text[:4000]
         )
-        raw = r.choices[0].message.content.strip()
-        m = re.search(r"\{.*\}", raw, re.S)
-        if m:
-            j = json.loads(m.group(0))
-            # nettoyage + garde-fous
-            j["ig"] = [x.strip() for x in j.get("ig", [])][:2]
-            j["fb"] = [x.strip() for x in j.get("fb", [])][:2]
-            j["title"] = (j.get("title") or title_hint or "À La Lucarne")[:80]
-            # si pas assez de variantes, compléter avec fallback local diversifié
-            while len(j["ig"]) < 2:
-                j["ig"].append(_compose_caption_variant(topic_keys[min(len(j['ig']), len(topic_keys)-1)], title_hint, facts, city_for_hash, "ig", video_url))
-            while len(j["fb"]) < 2:
-                j["fb"].append(_compose_caption_variant(topic_keys[min(len(j['fb']), len(topic_keys)-1)], title_hint, facts, city_for_hash, "fb", video_url))
-            # Forcer UTM dans FB si le modèle a oublié
-            if video_url:
-                utm = _add_utm(video_url, "fb")
-                j["fb"] = [re.sub(r"https?://\S+", utm, s, flags=re.I) if "http" in s else (s + f"\n\nÀ voir : {utm}") for s in j["fb"]]
-            return j
-    except Exception as e:
-        print("[WARN] OpenAI captions error:", e)
-    # dernier recours
-    return {"ig": [], "fb": [], "title": title_hint or "À La Lucarne"}
+        try:
+            r = openai_client.chat.completions.create(
+                model="gpt-4o-mini", temperature=0.6,
+                messages=[{"role":"user","content": payload}],
+            )
+            raw = r.choices[0].message.content.strip()
+            m = re.search(r"\{.*\}", raw, re.S)
+            if m:
+                j = json.loads(m.group(0))
+                ig = [_sanitize_b2c_text((x or "").strip()) for x in j.get("ig", []) if (x or "").strip()]
+                fb = [_sanitize_b2c_text((x or "").strip()) for x in j.get("fb", []) if (x or "").strip()]
+                title = (j.get("title") or _public_title(title_hint) or "À La Lucarne")[:80]
+                # compléter avec local si insuffisant
+                if len(ig) < 2 or len(fb) < 2:
+                    local = _local_caption_pack(text, title_hint)
+                    ig = (ig + local["ig"])[:2]
+                    fb = (fb + local["fb"])[:2]
+                # garde‑fou final
+                ig = [s if len(s.strip()) >= 40 else _local_caption_pack(text, title_hint)["ig"][i] for i, s in enumerate(ig)]
+                fb = [s if len(s.strip()) >= 40 else _local_caption_pack(text, title_hint)["fb"][i] for i, s in enumerate(fb)]
+                return {"ig": ig, "fb": fb, "title": title}
+        except Exception as e:
+            print("[WARN] OpenAI captions error:", e)
+    # 2) Fallback sûr
+    return _local_caption_pack(text, title_hint)
 
 # ---------------------- Images (OpenAI/Unsplash API) ----------------------
 def openai_image(prompt: str, size: str="1536x1024") -> Optional[bytes]:
@@ -531,7 +560,6 @@ def _unsplash_headers() -> dict:
     }
 
 def _unsplash_search(query: str, orientation: Optional[str]=None, per_page: int=30) -> List[dict]:
-    """Retourne la liste brute des résultats de recherche Unsplash."""
     params = {
         "query": query,
         "per_page": max(1, min(per_page, 30)),
@@ -571,7 +599,6 @@ def _unsplash_random(query: str, orientation: Optional[str]=None, count: int=3) 
     return []
 
 def _pick_deterministic(items: List[dict], title: str, tag: str, i: int) -> Optional[dict]:
-    """Choisit 1 élément de manière stable selon (title, tag, index)."""
     if not items:
         return None
     h = hashlib.md5(f"{title}|{tag}|{i}".encode("utf-8")).hexdigest()
@@ -579,28 +606,17 @@ def _pick_deterministic(items: List[dict], title: str, tag: str, i: int) -> Opti
     return items[idx]
 
 def unsplash_bytes_list(keywords: str, desired_size: str, title: str, tag: str, n: int = 3, orientation: Optional[str]=None) -> List[Tuple[Optional[bytes], str, dict]]:
-    """
-    Retourne jusqu'à n images (bytes, url_affichage, meta_attribution) depuis l'API Unsplash.
-    meta = {photographer, profile_url, photo_url, unsplash_id}
-    """
     items = []
-    # 1) Search
     results = _unsplash_search(keywords, orientation=orientation, per_page=UNSPLASH_PER_PAGE)
-    # 2) Fallback random si aucun
     if not results:
         results = _unsplash_random(keywords, orientation=orientation, count=max(3, n))
-
     for i in range(n):
         picked = _pick_deterministic(results, title, tag, i)
         if not picked:
             items.append((None, "", {}))
             continue
-
-        # Choisir l'URL à télécharger (regular est suffisant, on recadre ensuite)
         url_dl = picked.get("urls", {}).get("regular") or picked.get("urls", {}).get("full") or picked.get("urls", {}).get("raw") or ""
         img_bytes = download_with_retry(url_dl, tries=3)
-
-        # Pour l'affichage/lien (attribution)
         photographer = (picked.get("user") or {}).get("name") or ""
         profile_url  = ((picked.get("user") or {}).get("links") or {}).get("html") or ""
         photo_url    = (picked.get("links") or {}).get("html") or ""
@@ -627,7 +643,6 @@ def ensure_saved_candidate(img_bytes: Optional[bytes], out_path: Path, w: int, h
 def build_candidates(title: str, resume: str, video_url: str, base_dir: Path) -> Dict:
     """Construit 4 candidats distincts par variante IG/FB (thèmes dynamiques)."""
     base_dir.mkdir(parents=True, exist_ok=True)
-    # CHANGED: buckets dynamiques basés sur les résumés (avec fallback legacy)
     bA, bB = choose_buckets(title, resume)
 
     vid = _parse_yt_id(video_url)
@@ -640,17 +655,11 @@ def build_candidates(title: str, resume: str, video_url: str, base_dir: Path) ->
         if b and ensure_saved_candidate(b, base_dir/"IG_A_youtube.jpg", 1080, 1350, 0.30, 0.06):
             igA_cands.append({"source":"youtube","image_local":"images/IG_A_youtube.jpg","image_url":yt_url})
 
-    # CHANGED: mots-clés Unsplash selon le sujet + extra spécifique (people vs architecture)
     kwA = ",".join(filter(None, [bA['unsplash'], bA.get('unsplash_extra','people,faces,editorial')]))
     for idx, (b, url, meta) in enumerate(unsplash_bytes_list(kwA, "1080x1350", title, "IG_A", 3, orientation="portrait"), start=1):
         name = f"IG_A_u{idx}.jpg"
         if ensure_saved_candidate(b, base_dir/name, 1080, 1350, 0.30, 0.06):
-            igA_cands.append({
-                "source":"unsplash",
-                "image_local":f"images/{name}",
-                "image_url":url,
-                "attribution": meta
-            })
+            igA_cands.append({"source":"unsplash","image_local":f"images/{name}","image_url":url,"attribution": meta})
     if openai_client and IMAGE_PROVIDER in {"openai","hybrid"}:
         b = openai_image(bA["prompt_A"], size="1024x1536")
         if ensure_saved_candidate(b, base_dir/"IG_A_ai.jpg", 1080, 1350, 0.30, 0.06):
@@ -660,12 +669,7 @@ def build_candidates(title: str, resume: str, video_url: str, base_dir: Path) ->
     for idx, (b, url, meta) in enumerate(unsplash_bytes_list(kwB, "1080x1350", title, "IG_B", 3, orientation="portrait"), start=1):
         name = f"IG_B_u{idx}.jpg"
         if ensure_saved_candidate(b, base_dir/name, 1080, 1350, 0.28, 0.08):
-            igB_cands.append({
-                "source":"unsplash",
-                "image_local":f"images/{name}",
-                "image_url":url,
-                "attribution": meta
-            })
+            igB_cands.append({"source":"unsplash","image_local":f"images/{name}","image_url":url,"attribution": meta})
     if openai_client and IMAGE_PROVIDER in {"openai","hybrid"}:
         b = openai_image(bB["prompt_B"], size="1024x1536")
         if ensure_saved_candidate(b, base_dir/"IG_B_ai.jpg", 1080, 1350, 0.28, 0.08):
@@ -676,12 +680,7 @@ def build_candidates(title: str, resume: str, video_url: str, base_dir: Path) ->
     for idx, (b, url, meta) in enumerate(unsplash_bytes_list(kwAfb, "1600x1066", title, "FB_A", 3, orientation="landscape"), start=1):
         name = f"FB_A_u{idx}.jpg"
         if ensure_saved_candidate(b, base_dir/name, 1200, 630, 0.40, 0.03):
-            fbA_cands.append({
-                "source":"unsplash",
-                "image_local":f"images/{name}",
-                "image_url":url,
-                "attribution": meta
-            })
+            fbA_cands.append({"source":"unsplash","image_local":f"images/{name}","image_url":url,"attribution": meta})
     if openai_client and IMAGE_PROVIDER in {"openai","hybrid"}:
         b = openai_image(bA["prompt_A"], size="1536x1024")
         if ensure_saved_candidate(b, base_dir/"FB_A_ai.jpg", 1200, 630, 0.40, 0.03):
@@ -691,12 +690,7 @@ def build_candidates(title: str, resume: str, video_url: str, base_dir: Path) ->
     for idx, (b, url, meta) in enumerate(unsplash_bytes_list(kwBfb, "1600x1066", title, "FB_B", 3, orientation="landscape"), start=1):
         name = f"FB_B_u{idx}.jpg"
         if ensure_saved_candidate(b, base_dir/name, 1200, 630, 0.46, 0.05):
-            fbB_cands.append({
-                "source":"unsplash",
-                "image_local":f"images/{name}",
-                "image_url":url,
-                "attribution": meta
-            })
+            fbB_cands.append({"source":"unsplash","image_local":f"images/{name}","image_url":url,"attribution": meta})
     if openai_client and IMAGE_PROVIDER in {"openai","hybrid"}:
         b = openai_image(bB["prompt_B"], size="1536x1024")
         if ensure_saved_candidate(b, base_dir/"FB_B_ai.jpg", 1200, 630, 0.46, 0.05):
@@ -728,6 +722,32 @@ def _is_complete_draft(root: Path) -> bool:
     except Exception:
         return False
 
+# --- écriture « sûre » des légendes (remplace si vide / trop faible / interne) ---
+_INTERNAL_PAT = re.compile(r"(?i)\bwebinar|webinaire|visi[oô]|formation\s+interne|atelier|module|newsletter|youtube|vid[ée]o")
+
+def _is_weak_caption(text: str, title_hint: str) -> bool:
+    s = (text or "").strip()
+    if len(s) == 0:
+        return True
+    if _INTERNAL_PAT.search(s):
+        return True
+    # "titre seul" ou trop court sans hashtags
+    if (s.lower() == (title_hint or "").lower()) or (len(s) < 40 and "#" not in s):
+        return True
+    return False
+
+def _write_if_missing_or_weak(path: Path, content: str, title_hint: str):
+    content = (content or "").strip()
+    if not path.exists():
+        path.write_text(content, encoding="utf-8")
+        return
+    try:
+        cur = path.read_text(encoding="utf-8")
+    except Exception:
+        cur = ""
+    if _is_weak_caption(cur, title_hint):
+        path.write_text(content, encoding="utf-8")
+
 def main():
     df = pd.read_csv(URLS_CSV, encoding="utf-8")
     if "fichier" not in df.columns:
@@ -749,28 +769,24 @@ def main():
         droot = DRAFTS_DIR / slug
         (droot / "images").mkdir(parents=True, exist_ok=True)
 
-        if _is_complete_draft(droot):
-            print(f"[SKIP] {slug} complet déjà généré → ignoré.")
-            continue
-
-        # captions
+        # captions (toujours générées, même si brouillon « complet »)
         caps = generate_captions(resume_text, title_hint, video_url)
         ig_caps = (caps.get("ig") or [])[:2]
         fb_caps = (caps.get("fb") or [])[:2]
-        title   = caps.get("title") or title_hint
+        title   = caps.get("title") or _public_title(title_hint)
 
-        def _write_if_missing(path: Path, content: str):
-            if not path.exists():
-                path.write_text(content, encoding="utf-8")
-        _write_if_missing(droot / "ig_caption_A.txt", ig_caps[0] if len(ig_caps)>0 else title)
-        _write_if_missing(droot / "ig_caption_B.txt", ig_caps[1] if len(ig_caps)>1 else title)
-        _write_if_missing(droot / "fb_caption_A.txt", fb_caps[0] if len(fb_caps)>0 else f"{title}\n{video_url}")
-        _write_if_missing(droot / "fb_caption_B.txt", fb_caps[1] if len(fb_caps)>1 else f"{title}\n{video_url}")
+        def _safe_get(lst: List[str], i: int, fallback: str) -> str:
+            return (lst[i] if i < len(lst) and (lst[i] or "").strip() else fallback)
 
-        # images candidates
+        _write_if_missing_or_weak(droot / "ig_caption_A.txt", _safe_get(ig_caps, 0, title), title)
+        _write_if_missing_or_weak(droot / "ig_caption_B.txt", _safe_get(ig_caps, 1, title), title)
+        _write_if_missing_or_weak(droot / "fb_caption_A.txt", _safe_get(fb_caps, 0, title), title)
+        _write_if_missing_or_weak(droot / "fb_caption_B.txt", _safe_get(fb_caps, 1, title), title)
+
+        # images candidates (on (re)construit, mais on préserve l'ordre précédent si meta existe)
         cands = build_candidates(title, resume_text, video_url, droot / "images")
 
-        # meta (avec attribution Unsplash si présente)
+        # meta (avec attribution Unsplash si présente) — merge idempotent
         meta_path = droot / "meta.json"
         meta = {
             "video_file": fichier,
@@ -791,7 +807,6 @@ def main():
                 old = json.loads(meta_path.read_text(encoding="utf-8"))
             except Exception:
                 old = {}
-            # Préserver d’éventuels tris manuels antérieurs
             for k1 in ("ig","fb"):
                 if k1 in old:
                     for k2 in ("A","B"):
@@ -801,7 +816,8 @@ def main():
             meta.update({k:v for k,v in old.items() if k not in meta})
         meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print("\n[OK] Brouillons créés dans:", DRAFTS_DIR.resolve())
+    print("\n[OK] Brouillons (ré)générés dans:", DRAFTS_DIR.resolve())
 
 if __name__ == "__main__":
     main()
+

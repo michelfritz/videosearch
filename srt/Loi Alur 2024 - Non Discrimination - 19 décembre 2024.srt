@@ -1,0 +1,5928 @@
+1
+00:00:00,000 --> 00:00:30,000
+La discrimination en droit français, parce que c'est une définition qui n'est pas la même selon les pays, c'est une définition, en particulier quand on va dans les pays anglo-saxons et aux États-Unis, c'est une notion qui est chargée d'une histoire et d'un sens un petit peu plus lourd et un petit peu plus sombre qu'en Europe.
+
+2
+00:00:30,000 --> 00:00:37,200
+au pays, on va dire, au pays latin. En France, en droit français, la discrimination, alors je vais
+
+3
+00:00:37,200 --> 00:00:43,359
+vous citer un des textes, se définit comme toute distinction, exclusion ou restriction opérée sur
+
+4
+00:00:43,359 --> 00:00:49,379
+la base d'un critère prohibé ayant pour effet de compromettre l'égalité de traitement entre les
+
+5
+00:00:49,379 --> 00:00:57,600
+individus. En matière de logement, cette interdiction est encadrée par des textes spécifiques, en
+
+6
+00:00:57,600 --> 00:01:04,019
+en particulier certains articles du Code pénal que nous allons lister, citer par la suite.
+
+7
+00:01:04,159 --> 00:01:06,879
+Alors qu'est-ce que ça veut dire cette simple définition ?
+
+8
+00:01:06,879 --> 00:01:14,420
+Ça veut dire qu'en France, en droit français, la discrimination c'est tout processus par lequel on met de côté quelqu'un,
+
+9
+00:01:14,740 --> 00:01:21,060
+on lui interdit quelque chose, on restreint ses droits à partir d'un critère interdit.
+
+10
+00:01:21,060 --> 00:01:27,439
+On va voir tout à l'heure qu'il y en a pas mal, la liste s'est allongée, il y a une liste très précise
+
+11
+00:01:27,439 --> 00:01:36,640
+des critères sur lesquels on n'a pas le droit de ne pas offrir un service, un traitement, un droit à quelqu'un.
+
+12
+00:01:36,900 --> 00:01:41,879
+Je vais vous en citer un tout bête, tout simple, d'une simplicité évangélique.
+
+13
+00:01:43,000 --> 00:01:47,319
+On n'a pas le droit d'interdire un emploi à quelqu'un sous prétexte que c'est une femme.
+
+14
+00:01:47,599 --> 00:01:54,439
+Vous êtes une femme, dans cet emploi je ne veux que des hommes, c'est une discrimination liée au sexe.
+
+15
+00:01:54,439 --> 00:01:57,920
+et c'est interdit, ça vous le comprenez aisément.
+
+16
+00:01:58,179 --> 00:02:01,719
+Et on va voir que la liste de ce que l'on appelle les critères prohibés
+
+17
+00:02:01,719 --> 00:02:03,259
+est aujourd'hui très longue.
+
+18
+00:02:04,219 --> 00:02:07,439
+Bien entendu, ça s'applique également dans le logement.
+
+19
+00:02:08,039 --> 00:02:12,659
+C'est-à-dire qu'on ne peut pas accorder ou interdire l'accès à un logement
+
+20
+00:02:12,659 --> 00:02:14,020
+sur des critères prohibés.
+
+21
+00:02:14,520 --> 00:02:17,259
+Là encore, je ne peux pas dire non, je ne veux pas louer mon appartement
+
+22
+00:02:17,259 --> 00:02:19,560
+à une femme parce que je n'aime pas les femmes.
+
+23
+00:02:20,319 --> 00:02:21,120
+Ça n'est pas possible.
+
+24
+00:02:21,120 --> 00:02:30,319
+Il faut attribuer ce logement sur des critères non seulement objectifs, mais surtout des critères licites, des critères autorisés.
+
+25
+00:02:30,680 --> 00:02:33,280
+Par exemple, ça peut être des critères économiques.
+
+26
+00:02:35,000 --> 00:02:44,540
+Aujourd'hui, ce que nous allons voir, c'est la discrimination dans le logement, appliquée aux ventes, mais également aux locations et à la gestion locative.
+
+27
+00:02:44,659 --> 00:02:45,840
+Et ce, pour deux raisons.
+
+28
+00:02:46,539 --> 00:02:59,580
+Premièrement, parce que si on se limitait exclusivement, stricto sensu, à la discrimination dans l'accès au logement appliquée aux ventes, qui sont notre véritable métier, on n'aurait pas grand-chose à dire.
+
+29
+00:02:59,920 --> 00:03:04,780
+Parce que ce n'est pas là que s'exerce la discrimination dans l'accès au logement. Très peu.
+
+30
+00:03:05,439 --> 00:03:08,259
+Ça existe, mais c'est très rare.
+
+31
+00:03:08,620 --> 00:03:15,480
+C'est très rare parce que quand on vend, quand on achète, on s'en fout un peu de savoir à qui on vend, à qui on achète.
+
+32
+00:03:15,479 --> 00:03:21,879
+Les cas de discrimination dans l'acquisition existent, mais sont quand même très rares.
+
+33
+00:03:22,639 --> 00:03:30,199
+Par contre, dans la location ou dans la gestion locative, ils sont beaucoup plus fréquents.
+
+34
+00:03:30,199 --> 00:03:36,099
+Donc, pour que cette visioconférence ne soit pas trop restrictive et qu'elle ne dure pas à peine 10 minutes et après chacun rentre chez soi,
+
+35
+00:03:36,319 --> 00:03:45,039
+on a deux heures à se taper quand même là-dessus, c'est obligatoire, on va étendre aussi à la location et à la gestion locative.
+
+36
+00:03:45,479 --> 00:03:53,259
+La deuxième raison pour laquelle il est pertinent, il est intéressant d'étendre cette visioconférence à la location et à la gestion locative,
+
+37
+00:03:53,259 --> 00:04:05,239
+c'est tout simplement parce que vous savez que nous travaillons depuis un certain temps à ouvrir nos services à la location et à la gestion locative indirectement avec un partenaire.
+
+38
+00:04:05,259 --> 00:04:13,120
+Un partenaire que nombre d'entre vous connaissent déjà pour être déjà, je ne vais pas dire client, mais agent pour cette société.
+
+39
+00:04:13,120 --> 00:04:19,939
+On avait sélectionné une société en particulier qui s'appelle Imo Direct, avec laquelle on avait travaillé à faire un accord-carte.
+
+40
+00:04:20,199 --> 00:04:25,600
+Ce n'est pas encore le cas parce que tout ne se passe pas comme on aurait souhaité que ça se passe.
+
+41
+00:04:26,079 --> 00:04:33,240
+Certains d'entre vous ont eu des petites déconvenues et des déconvenues, dans certains cas, assez casquées.
+
+42
+00:04:34,019 --> 00:04:35,759
+Donc, ce n'est pas encore complètement bouclé.
+
+43
+00:04:35,980 --> 00:04:41,079
+Mais vous savez qu'on a cette volonté d'ouvrir nos services à la location et éventuellement à la gestion locative.
+
+44
+00:04:41,079 --> 00:04:49,659
+Donc, il n'est pas impertinent, inutile que nous soyons tous formés à ça et à cette question de la non-discrimination dans l'accès à la location.
+
+45
+00:04:50,259 --> 00:04:51,379
+OK ?
+
+46
+00:04:51,379 --> 00:04:58,360
+Alors, selon l'article 225, indice 1 du Code pénal, constitue une discrimination, je cite,
+
+47
+00:04:58,620 --> 00:05:05,060
+« toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe, de leur situation familiale,
+
+48
+00:05:05,139 --> 00:05:09,939
+de leur apparence physique, de leur patronyme, de leur état de santé, de leur handicap, de leurs caractéristiques génétiques,
+
+49
+00:05:09,939 --> 00:05:12,860
+de leur meurtre, de leur orientation sexuelle, de leur âge, de leur opinion politique,
+
+50
+00:05:12,939 --> 00:05:16,180
+de leur activité syndicale, de leur appartenance vraie ou supposée à une équilibre,
+
+51
+00:05:16,279 --> 00:05:18,259
+une nation, une race ou une religion déterminée.
+
+52
+00:05:18,860 --> 00:05:21,639
+Cette liste a été élargie au fil du temps.
+
+53
+00:05:21,800 --> 00:05:25,899
+On a toujours rajouté des choses qui, auparavant, n'étaient pas importantes
+
+54
+00:05:25,899 --> 00:05:30,519
+et qui, avec l'évolution de la société, sont devenues importantes.
+
+55
+00:05:31,420 --> 00:05:37,720
+On a estimé que, désormais, cette question-là comptait, alors qu'auparavant, elle ne comptait pas.
+
+56
+00:05:37,720 --> 00:05:40,100
+souvent sur la pression
+
+57
+00:05:40,100 --> 00:05:41,900
+de lobbies très très très actifs
+
+58
+00:05:41,900 --> 00:05:43,820
+aujourd'hui il y a
+
+59
+00:05:43,820 --> 00:05:45,900
+25 critères prohibés
+
+60
+00:05:45,900 --> 00:05:48,200
+dans la définition
+
+61
+00:05:48,200 --> 00:05:49,140
+de la discrimination
+
+62
+00:05:49,140 --> 00:05:51,600
+dans le cadre des transactions immobilières
+
+63
+00:05:51,600 --> 00:05:53,920
+toute décision reposant sur
+
+64
+00:05:53,920 --> 00:05:55,980
+l'un ou l'autre de ces critères
+
+65
+00:05:55,980 --> 00:05:58,140
+l'un ou plusieurs peut entraîner
+
+66
+00:05:58,140 --> 00:05:59,700
+ces sanctions, les sanctions
+
+67
+00:05:59,700 --> 00:06:01,680
+vous commencez à les connaître, il y en a trois
+
+68
+00:06:01,680 --> 00:06:03,700
+enfin il y en a trois types, les sanctions
+
+69
+00:06:03,700 --> 00:06:05,800
+civiles, réparation du préjudice
+
+70
+00:06:05,800 --> 00:06:07,540
+les sanctions pénales
+
+71
+00:06:07,720 --> 00:06:13,560
+Amende, prison, les sanctions administratives, interdiction d'exercer, etc.
+
+72
+00:06:14,760 --> 00:06:18,620
+Les agents immobiliers, nous sommes donc en première ligne
+
+73
+00:06:18,620 --> 00:06:25,280
+et nous avons une obligation de vigilance absolue pour éviter tout comportement discriminatoire,
+
+74
+00:06:25,760 --> 00:06:29,560
+mais également pour empêcher tout comportement discriminatoire.
+
+75
+00:06:30,140 --> 00:06:34,380
+C'est-à-dire que nous devons éviter nous-mêmes d'exercer des comportements discriminatoires,
+
+76
+00:06:34,380 --> 00:06:37,320
+mais nous devons empêcher les gens avec lesquels nous sommes en affaire.
+
+77
+00:06:37,720 --> 00:06:41,900
+c'est-à-dire les acquéreurs, les vendeurs, les locataires, les bailleurs ou n'importe qui,
+
+78
+00:06:42,960 --> 00:06:47,740
+eux-mêmes, à travers notre entremise, de faire œuvre de discrimination.
+
+79
+00:06:49,400 --> 00:06:52,100
+Alors bien entendu, vous le savez parce que vous y êtes habitués,
+
+80
+00:06:52,240 --> 00:06:56,080
+d'après ce que j'ai compris, vous trouvez ça intéressant, d'après ce qui m'a été remonté.
+
+81
+00:06:56,300 --> 00:06:59,420
+D'ailleurs, dites-le moi aussi sur le chat, parce que moi j'en discute avec les uns et les autres
+
+82
+00:06:59,420 --> 00:07:02,460
+quand je vous ai au téléphone, dites-moi clairement sur le chat,
+
+83
+00:07:02,560 --> 00:07:06,260
+est-ce que ça vous intéresse les exemples concrets que je vous donne ?
+
+84
+00:07:06,259 --> 00:07:10,579
+Quand je vous dis, là par exemple, en 2022, Lyon, une agence immobilière a été condamnée
+
+85
+00:07:10,579 --> 00:07:15,459
+pour avoir systématiquement rejeté les dossiers de candidats au nom à consonance étrangère.
+
+86
+00:07:16,079 --> 00:07:19,439
+Il a été estimé que ces pratiques constituaient une violation du code pénal.
+
+87
+00:07:19,439 --> 00:07:22,920
+10 000 euros d'amende a été infligé, sanction pénale,
+
+88
+00:07:23,360 --> 00:07:28,180
+accompagné d'une interdiction d'exercer pour une durée de 6 mois, sanction administrative.
+
+89
+00:07:29,039 --> 00:07:33,860
+Tous ces exemples hyper concrets, j'ai l'impression que ça vous intéresse et que ça vous plaît.
+
+90
+00:07:33,860 --> 00:07:35,819
+dites-moi clairement, est-ce que vous voulez que je continue à les chercher
+
+91
+00:07:35,819 --> 00:07:37,939
+parce que vous avez quand même du boulot de le faire
+
+92
+00:07:37,939 --> 00:07:39,980
+ça se fait pas comme ça en appuyant
+
+93
+00:07:39,980 --> 00:07:41,980
+sur un bouton, si tous
+
+94
+00:07:41,980 --> 00:07:44,000
+les uns et les autres vous en avez rien à foutre, ça vous intéresse pas
+
+95
+00:07:44,000 --> 00:07:45,360
+du tout, bah dites-le moi, j'arrête
+
+96
+00:07:45,360 --> 00:07:48,319
+si par contre ça vous intéresse, là encore
+
+97
+00:07:48,319 --> 00:07:50,139
+dites-le moi également
+
+98
+00:07:50,139 --> 00:07:51,720
+oui c'est intéressant
+
+99
+00:07:51,720 --> 00:07:53,420
+oui intéressant d'avoir des exemples
+
+100
+00:07:53,420 --> 00:07:55,840
+concrets, j'ai des amis qui habitent
+
+101
+00:07:55,840 --> 00:07:57,819
+Marseille, là c'était à Lyon
+
+102
+00:07:57,819 --> 00:08:00,139
+là c'était, ce que je viens de vous citer, l'agence immobilière
+
+103
+00:08:00,139 --> 00:08:01,520
+c'était à Lyon, oui continuez
+
+104
+00:08:01,519 --> 00:08:09,299
+Oui, c'est sûr, c'est bien les exemples, c'est important. Ah bon, ça vous plaît. Impeccable. Bon, écoutez, je continuerai. Très bien.
+
+105
+00:08:10,879 --> 00:08:27,719
+Alors, on va très, très rapidement, avant de passer au contexte légal qui est ici, c'est-à-dire on va détailler exactement quels sont les textes en question,
+
+106
+00:08:27,720 --> 00:08:34,879
+dont on va rappeler les obligations spécifiques des agents immobiliers en matière de discrimination.
+
+107
+00:08:36,360 --> 00:08:41,379
+Les agents immobiliers, vous le savez, c'est ce qu'on appelle une profession réglementée,
+
+108
+00:08:41,540 --> 00:08:44,519
+ça je ne vais pas revenir dessus parce que je vous en ai parlé mille et mille et mille fois,
+
+109
+00:08:45,340 --> 00:08:49,700
+réglementée par la loi Huguet, mais pas seulement, vous le savez, il y a le fameux décret de 2015,
+
+110
+00:08:49,700 --> 00:08:55,820
+il y a le décret de 2005, il y a la loi Allure, il y a la loi SRU, tout ça, c'est renforcé, tout ça.
+
+111
+00:08:55,820 --> 00:09:15,700
+L'article 3 du Code de déontologie des agents immobiliers du décret de 2015 qu'on a étudié lors de la visioconférence sur la déontologie nous interdit tout comportement ou propos discriminatoires et nous impose d'assurer une égalité de traitement à tous les clients.
+
+112
+00:09:15,700 --> 00:09:33,860
+Alors, ces obligations, elles s'appliquent à toutes les étapes de notre travail. La rédaction des annonces immobilières, la sélection des candidats locataires ou acquéreurs en particulier, mais pas seulement.
+
+113
+00:09:33,860 --> 00:09:54,800
+Je vais rajouter une petite chose supplémentaire dont je vous avais parlé lors des précédentes formations sur la discrimination qu'on avait faite à Center Parcs ou ailleurs. N'oubliez pas la condamnation très, très, très, très, très lourde qu'a subie Foncia. Foncia, vous savez que c'est un des leaders, sinon le leader en France de la gestion locative.
+
+114
+00:09:55,479 --> 00:10:00,399
+Foncia, il y a quelques années, avait subi une condamnation très grosse,
+
+115
+00:10:00,439 --> 00:10:01,939
+il y a une petite dizaine d'années peut-être,
+
+116
+00:10:02,519 --> 00:10:06,500
+parce que dans leur logiciel interne, l'équivalent des glantines,
+
+117
+00:10:07,479 --> 00:10:10,019
+dans leur fiche produit et leur fiche client,
+
+118
+00:10:10,979 --> 00:10:16,019
+un certain nombre de conseillers Foncia s'étaient permis de faire des remarques
+
+119
+00:10:16,019 --> 00:10:20,879
+jugées discriminatoires sur les clients, sur les candidats acquéreurs,
+
+120
+00:10:20,879 --> 00:10:29,259
+sur les candidats locataires, sur les vendeurs, sur tous les gens qu'ils avaient rangés dans leur logiciel,
+
+121
+00:10:29,500 --> 00:10:34,340
+ils avaient rajouté des petits commentaires, des commentaires désobligeants, des commentaires discriminatoires
+
+122
+00:10:34,340 --> 00:10:44,419
+sur le sexe, sur les orientations sexuelles, sur l'ethnie, la nationalité, etc. de différentes personnes.
+
+123
+00:10:44,419 --> 00:10:47,399
+s'était ressorti, je ne sais pas comment
+
+124
+00:10:47,399 --> 00:10:50,159
+et arrivé aux oreilles de la DGCCRF
+
+125
+00:10:50,159 --> 00:10:51,019
+et des tribunaux
+
+126
+00:10:51,019 --> 00:10:53,799
+Foncia a été condamné
+
+127
+00:10:53,799 --> 00:10:54,919
+très très très lourdement
+
+128
+00:10:54,919 --> 00:10:57,879
+donc vous voyez, on parle de la rédaction des annonces immobilières
+
+129
+00:10:57,879 --> 00:10:59,819
+et de la sélection des candidats locataires ou acquéreurs
+
+130
+00:10:59,819 --> 00:11:01,319
+parce que c'est ce qui nous vient en premier à l'esprit
+
+131
+00:11:01,319 --> 00:11:03,559
+c'est évident, mais voyez même
+
+132
+00:11:03,559 --> 00:11:06,039
+rien que en allant mettre des petites notes
+
+133
+00:11:06,039 --> 00:11:07,879
+et des petits commentaires dans des fiches
+
+134
+00:11:08,639 --> 00:11:10,339
+clients
+
+135
+00:11:10,339 --> 00:11:12,059
+c'est un comportement
+
+136
+00:11:12,059 --> 00:11:13,079
+discriminatoire
+
+137
+00:11:14,419 --> 00:11:26,639
+Petit exemple sur la sélection des candidats, en 2021 à Paris, un agent immobilier a été sanctionné pour avoir explicitement exclu les bénéficiaires de prestations sociales des candidatures locatives.
+
+138
+00:11:27,039 --> 00:11:39,559
+En gros, il avait décidé que tous les gens qui bénéficiaient du RSA ou des minima sociaux devaient être immédiatement éliminés de tout accès à leurs offres locatives.
+
+139
+00:11:39,559 --> 00:11:50,399
+Une plainte a été déposée par SOS Racisme qui a conduit à une condamnation assortie d'une amende de 5 000 euros et interdiction de retirer les annonces litigieuses.
+
+140
+00:11:55,799 --> 00:12:08,219
+Les sanctions pénales de l'article 225, indice 2 jusqu'à 4 du Code pénal, impliquent des peines qui peuvent aller jusqu'à 3 ans d'emprisonnement et 45 000 euros d'amende.
+
+141
+00:12:08,220 --> 00:12:24,800
+Vous allez voir dans les exemples que je vous donne par la suite, on n'atteint pas les maximums prévus par la loi, mais vous voyez que c'est considéré très sérieusement à partir du moment où la peine de prison peut aller jusqu'à 3 ans et la peine d'amende 45 000 euros.
+
+142
+00:12:26,580 --> 00:12:32,460
+Bien entendu, en plus de cela, on peut avoir des interdictions temporaires ou définitives d'exercice.
+
+143
+00:12:32,460 --> 00:12:44,700
+en 2019 à toulouse de la prison avec sursis six mois de prison avec sursis ont été prononcés
+
+144
+00:12:44,700 --> 00:12:49,440
+contre une agence immobilière ainsi que 15000 euros d'amende pour avoir refusé un dossier
+
+145
+00:12:49,440 --> 00:12:57,220
+locatif en raison de l'orientation sexuelle du candidat donc vous le voyez de là on est
+
+146
+00:12:57,220 --> 00:13:01,800
+quelqu'un en prison ferme j'imagine qu'il ya de la marche parce qu'il ya un paquet d'autres
+
+147
+00:13:01,799 --> 00:13:06,359
+personnes infiniment peut-être plus dangereuses qui devraient aller en prison et qui n'y vont
+
+148
+00:13:06,359 --> 00:13:12,719
+déjà pas mais une peine de six mois de prison avec sursis soyons clairs si ça arrive à un agent
+
+149
+00:13:12,719 --> 00:13:18,359
+immobilier non pas un négociateur un agent immobilier six mois de prison avec sursis pour
+
+150
+00:13:18,359 --> 00:13:26,399
+ce type de d'infraction ça peut un terrain impliqué de ne plus avoir sa carte professionnelle ce sont
+
+151
+00:13:26,399 --> 00:13:33,279
+des condamnations lourdes qui doivent être considérées comme non pas fictive non pas
+
+152
+00:13:33,279 --> 00:13:39,959
+symbolique mais comme réellement appliquée vous le savez les sanctions administratives
+
+153
+00:13:39,959 --> 00:13:46,139
+et disciplinaires peuvent venir s'ajouter à tout cela le défenseur des droits peut intervenir ainsi
+
+154
+00:13:46,139 --> 00:13:51,279
+que les chambres professionnelles avec le fun à la fameuse chambre dont on parlait le stgi lors
+
+155
+00:13:51,279 --> 00:13:59,559
+de la visio sur la déontologie tout cela ça vient en plus bien entendu de des condamnations pénales
+
+156
+00:13:59,559 --> 00:14:07,480
+et éventuellement civile alors qu'on va voir dans le détail et de manière exhaustive pour
+
+157
+00:14:07,480 --> 00:14:13,179
+les textes législatifs et réglementaires qui encadrent la notion de discrimination dans
+
+158
+00:14:13,179 --> 00:14:20,980
+l'accès au logement alors avant tout il ya la constitution la constitution doit considérer ça
+
+159
+00:14:20,980 --> 00:14:27,159
+comme le texte suprême même si les traités internationaux sont en l'état actuel du droit
+
+160
+00:14:27,159 --> 00:14:33,740
+en tout cas considéré comme supérieur à la constitution la constitution qui vous savez
+
+161
+00:14:33,740 --> 00:14:40,060
+c'est la pension de cinquième république en ce moment dans son article premier premier article
+
+162
+00:14:40,060 --> 00:14:45,039
+de la constitution consacre le principe fondamental de l'égalité devant la loi c'est
+
+163
+00:14:45,039 --> 00:14:59,919
+C'est assez important, je vous dis bien égalité devant la loi, parce que ce concept d'égalité est très souvent, notamment par certains tribunaux, considéré comme une obligation d'égalité d'État.
+
+164
+00:15:00,099 --> 00:15:07,059
+Non, c'est une égalité devant la loi, c'est-à-dire que nous sommes tous égaux dans le traitement que la loi fait de notre cas.
+
+165
+00:15:07,059 --> 00:15:18,379
+Mais ça ne veut pas dire qu'on doit tous être égaux dans la réalité. Il y a des grands, il y a des petits. Moi, je ne fais pas partie des grands. Il y a des gros, il y a des maigres, il y a des riches et des pauvres. L'égalité, c'est une égalité de droit devant la loi.
+
+166
+00:15:19,500 --> 00:15:29,879
+La Constitution, dans son article premier, nous dit que la France assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion.
+
+167
+00:15:29,879 --> 00:15:49,419
+C'est donc un principe constitutionnel qui s'impose et qui se superpose à tout autre texte interne. C'est le fondement de base de l'interdiction de toutes les discriminations face au logement ou autre chose en droit français. Bien entendu, ça s'applique donc également à l'accès au logement.
+
+168
+00:15:49,419 --> 00:16:07,319
+Les agents immobiliers, en tant qu'intermédiaires professionnels, sont soumis à cette obligation constitutionnelle. Toute action de notre part, volontaire ou involontaire par une simple omission qui viendrait à contredire ce principe, engagera notre responsabilité d'agent immobilier.
+
+169
+00:16:07,320 --> 00:16:15,020
+Alors, pourriez-vous dire, oui, mais nous, on n'est pas agents immobiliers, on est agents mandataires. Oui, en l'espèce, c'est pareil. Nous sommes collectivement soumis à ces obligations.
+
+170
+00:16:16,340 --> 00:16:28,640
+Le Conseil constitutionnel avait été saisi pour une question relative au logement et a rendu sa décision en 2020.
+
+171
+00:16:28,639 --> 00:16:32,899
+et ils ont confirmé la conformité de l'article 1er de la Constitution
+
+172
+00:16:32,899 --> 00:16:38,100
+à l'article 225 indice 1, c'était une question prioritaire de constitutionnalité
+
+173
+00:16:38,100 --> 00:16:41,740
+qui leur avait été soumise, renforçant l'application des sanctions pénales
+
+174
+00:16:41,740 --> 00:16:44,100
+pour les comportements discriminatoires dans l'accès au logement
+
+175
+00:16:44,100 --> 00:16:46,000
+par les agents immobiliers.
+
+176
+00:16:47,139 --> 00:16:52,100
+Ensuite, il y a eu des lois spécifiquement rédigées en ce sens,
+
+177
+00:16:52,720 --> 00:16:57,139
+notamment la loi 2008-496 du 27 mai 2008 relative à la lutte
+
+178
+00:16:57,139 --> 00:16:58,480
+contre les discriminations.
+
+179
+00:16:58,639 --> 00:17:15,920
+Cette loi qui en fait transposait en droit français des directives européennes, alors une directive européenne, ça je vous en ai déjà parlé, c'est une décision européenne, mais qui n'est pas une loi qui vient nous dire comment nous devons nous comporter.
+
+180
+00:17:15,920 --> 00:17:41,080
+Une directive européenne ou des directives européennes fixent un objectif à atteindre et laissent les États membres mettre en œuvre les mesures qui leur semblent opportunes pour atteindre cet objectif. C'est la raison pour laquelle, selon qu'on soit dans un pays ou dans un autre, on ne s'y prendra pas de la même manière, on n'appliquera pas les mêmes règles, mais le but à atteindre sera le même.
+
+181
+00:17:41,079 --> 00:17:48,099
+Donc, cette loi de 2008 a transposé en droit français plusieurs directives
+
+182
+00:17:48,099 --> 00:17:53,019
+établissant un cadre juridique global dans le cadre de la lutte contre les discriminations
+
+183
+00:17:53,019 --> 00:17:56,319
+Elle définit la discrimination directe comme, et je cite
+
+184
+00:17:56,319 --> 00:18:00,319
+« la situation dans laquelle une personne est traitée de manière moins favorable qu'une autre
+
+185
+00:18:00,319 --> 00:18:05,859
+dans une situation comparable, sur le fondement d'un critère prohibé »
+
+186
+00:18:05,859 --> 00:18:13,879
+Et la discrimination indirecte, elle, est définie comme une disposition, un critère ou une pratique apparemment neutre,
+
+187
+00:18:14,299 --> 00:18:20,459
+susceptible d'entraîner un désavantage particulier pour des personnes en raison d'un critère prohibé.
+
+188
+00:18:20,459 --> 00:18:27,240
+Ça veut dire quoi ? Ça veut dire que cette loi vise à la fois les comportements activement discriminatoires,
+
+189
+00:18:27,619 --> 00:18:34,799
+comme les comportements non actifs, mais qui pourraient laisser une situation discriminatoire se produire.
+
+190
+00:18:34,799 --> 00:18:49,639
+C'est intéressant ça, ça veut dire que non seulement on ne doit pas avoir un comportement discriminatoire, mais on ne doit pas laisser, ne serait-ce que par omission, les conditions d'une situation discriminatoire se réunir et produire une action discriminatoire.
+
+191
+00:18:50,279 --> 00:18:59,299
+Ça nous impose une vigilance accrue dans l'ensemble de nos activités, nous les agents immobiliers, notamment lors de la rédaction d'annonces, la sélection des dossiers et la négociation des contrats.
+
+192
+00:18:59,299 --> 00:19:03,119
+2019 à Lille, pouf, on monte chez Pierre
+
+193
+00:19:03,119 --> 00:19:05,299
+une agence immobilière a été poursuivie
+
+194
+00:19:05,299 --> 00:19:08,799
+pour avoir appliqué une politique de sélection discrète
+
+195
+00:19:08,799 --> 00:19:11,159
+et je cite, sélection discrète
+
+196
+00:19:11,159 --> 00:19:15,220
+des dossiers locatifs basés sur des critères d'origine nationale
+
+197
+00:19:15,220 --> 00:19:18,700
+le tribunal a retenu la discrimination indirecte
+
+198
+00:19:18,700 --> 00:19:20,019
+conformément à la loi de 2008
+
+199
+00:19:20,019 --> 00:19:21,940
+et a infligé une amende de 15 000 euros à l'agence
+
+200
+00:19:21,940 --> 00:19:23,480
+ça veut dire quoi ?
+
+201
+00:19:23,480 --> 00:19:28,159
+ça veut dire que l'agence n'avait pas officiellement dit
+
+202
+00:19:28,160 --> 00:19:45,880
+« Nous, on ne veut pas de telle nationalité, telle nationalité, tellement. » Non, c'est simplement laisser le bailleur mettre de côté les dossiers dont les noms ne lui plaisaient pas, dont les noms ne lui semblaient pas provenir de la nationalité qu'il préférait.
+
+203
+00:19:45,880 --> 00:19:58,680
+Le Code pénal lui-même, dans ses articles 225, indices 1 à 4, ainsi que le Code civil, mais ça c'est sur la réparation du préjudice,
+
+204
+00:19:59,780 --> 00:20:02,120
+érige la discrimination en infraction pénale.
+
+205
+00:20:02,460 --> 00:20:11,440
+Selon l'article 225.1, constitue une discrimination toute distinction opérée entre les personnes physiques à raison de leur origine, de leur sexe et de leur situation familiale,
+
+206
+00:20:11,440 --> 00:20:17,279
+de leur religion déterminée, toutes ces dispositions visent spécifiquement les actes discriminatoires
+
+207
+00:20:17,279 --> 00:20:21,200
+dans l'accès à des biens, des services, y compris le logement.
+
+208
+00:20:22,320 --> 00:20:27,880
+L'article 225, indice 2, prévoit que les discriminations sont passibles de 3 ans d'emprisonnement,
+
+209
+00:20:28,019 --> 00:20:33,080
+45 000 euros d'amende, comme on l'a dit au-dessus, et que ces peines peuvent être aggravées en cas de récidive
+
+210
+00:20:33,080 --> 00:20:37,200
+ou lorsque la discrimination est commise dans le cadre d'une activité professionnelle.
+
+211
+00:20:37,200 --> 00:20:44,519
+Bien sûr, le Code civil prévoit que toute faute causant un dommage à autrui doit être réparée.
+
+212
+00:20:44,519 --> 00:20:52,220
+Donc, toute personne qui subirait un préjudice du fait d'une action discriminatoire est en droit d'en demander la réparation.
+
+213
+00:20:52,759 --> 00:21:00,539
+Mais là, on est dans un mécanisme que nous connaissons bien et dont nous parlons très souvent.
+
+214
+00:21:02,720 --> 00:21:04,900
+Petit exemple à Marseille, en 2021.
+
+215
+00:21:04,900 --> 00:21:26,440
+Un propriétaire a été condamné à 10 000 euros de dommages intérêts aversés à une victime. Donc, dommages intérêts, on est dans le cadre du droit civil, il s'agit de la réparation du préjudice. 10 000 euros à la victime après avoir été reconnue coupable de discrimination fondée sur l'origine nationale en violation de l'article 225, indice 2 du Code pénal.
+
+216
+00:21:26,440 --> 00:21:34,039
+Ensuite, le code de la construction et de l'habitation, en son article L441, indice 1,
+
+217
+00:21:34,220 --> 00:21:36,140
+L, je vous l'ai déjà dit, ça veut dire législatif.
+
+218
+00:21:36,600 --> 00:21:39,120
+Quand il y a réglementaire, il y a un gros R ici.
+
+219
+00:21:39,980 --> 00:21:42,360
+Donc, à chaque fois, vous voyez L, c'est la partie législative.
+
+220
+00:21:43,759 --> 00:21:48,940
+Donc, le code de l'habitation et de la construction, en son article L441, indice 1,
+
+221
+00:21:49,580 --> 00:21:54,740
+lui également impose que l'attribution des logements sociaux se fasse sans aucune discrimination
+
+222
+00:21:54,740 --> 00:21:58,120
+en garantissant l'égalité de traitement entre tous les demandeurs.
+
+223
+00:21:58,700 --> 00:22:01,960
+Ils précisent que les critères d'attribution doivent être exclusivement fondés
+
+224
+00:22:01,960 --> 00:22:04,259
+sur la situation économique et sociale des candidats
+
+225
+00:22:04,259 --> 00:22:08,400
+et non sur des caractéristiques personnelles telles que l'origine ou la religion.
+
+226
+00:22:10,000 --> 00:22:12,859
+Les bailleurs sociaux ainsi que leurs mandataires,
+
+227
+00:22:13,200 --> 00:22:14,740
+donc parfois les agents immobiliers,
+
+228
+00:22:15,099 --> 00:22:18,620
+doivent impérativement respecter ces dispositions en cascade.
+
+229
+00:22:19,620 --> 00:22:22,160
+Un bailleur social en Ile-de-France en 2022
+
+230
+00:22:22,160 --> 00:22:26,060
+a été sanctionné pour avoir attribué des logements en priorité
+
+231
+00:22:26,060 --> 00:22:28,840
+à des candidats issus de certaines zones géographiques
+
+232
+00:22:28,840 --> 00:22:32,360
+en violation de l'article L441, indice 1.
+
+233
+00:22:32,980 --> 00:22:34,800
+Une amende de 20 000 euros a été infligée
+
+234
+00:22:34,800 --> 00:22:37,080
+et un plan de mise en conformité a été imposé
+
+235
+00:22:37,080 --> 00:22:39,200
+par le tribunal administratif à ce bailleur social.
+
+236
+00:22:41,700 --> 00:22:43,300
+Ensuite, voilà.
+
+237
+00:22:44,320 --> 00:22:46,740
+Alors, bien entendu, vous le savez, les amis,
+
+238
+00:22:46,820 --> 00:22:50,440
+on va passer à la troisième diapositive.
+
+239
+00:22:52,160 --> 00:22:55,000
+J'ai mes petites notes à moi, ici, là.
+
+240
+00:22:55,700 --> 00:22:59,680
+Vous y aurez accès sous forme de PDF avec la vidéo.
+
+241
+00:23:00,040 --> 00:23:05,120
+Quand on mettra toutes les vidéos en ligne, là, en début janvier,
+
+242
+00:23:05,660 --> 00:23:08,500
+vous aurez le PDF tout propre, tout joli, tout beau,
+
+243
+00:23:08,940 --> 00:23:10,960
+directement téléchargeable en dessous.
+
+244
+00:23:11,259 --> 00:23:13,460
+Parce que là, comme je vous le dis, comme vous le voyez à chaque fois,
+
+245
+00:23:13,960 --> 00:23:16,640
+c'est des copiers-collés, il y a des choses en vert pour m'y retrouver,
+
+246
+00:23:16,640 --> 00:23:21,340
+il y a des machins qui ne sont pas très bien mis en pagination
+
+247
+00:23:21,339 --> 00:23:27,399
+et en disposition, donc on vous fera un truc tout propre et vous l'aurez directement sous les vidéos.
+
+248
+00:23:27,959 --> 00:23:31,720
+Je le répète pour ceux qui ne le savaient pas, toutes les vidéos des formations en loi allure
+
+249
+00:23:31,720 --> 00:23:39,339
+et des formations à venir seront mises avec un découpage en chapitres, début janvier,
+
+250
+00:23:40,240 --> 00:23:44,759
+je sais que ça fait plusieurs vidéos que je vous en parle, sur la page YouTube de la Lucarne
+
+251
+00:23:44,759 --> 00:23:46,459
+que je vous ai montrée il y a un ou deux jours.
+
+252
+00:23:46,460 --> 00:24:04,079
+Alors, le droit européen et international. Les fameuses directives dont je vous parlais tout à l'heure, la directive 2043-CE du Conseil du 29 juin 2000, qu'on appelle également la directive sur l'égalité raciale, constitue un texte fondamental du droit européen en matière de lutte contre les discriminations.
+
+253
+00:24:04,079 --> 00:24:14,019
+Ces principaux apports sont la définition matérielle de la discrimination directe et indirecte dont on vient de parler
+
+254
+00:24:14,019 --> 00:24:19,960
+La discrimination directe survient lorsqu'une personne est traitée de manière moins favorable qu'une autre
+
+255
+00:24:19,960 --> 00:24:25,079
+dans une situation comparable en raison de son origine raciale ou ethnique
+
+256
+00:24:25,079 --> 00:24:33,240
+La discrimination indirecte quant à elle, on en a parlé juste au-dessus, se produit lorsque une disposition, un critère ou une pratique apparemment neutre
+
+257
+00:24:33,240 --> 00:24:49,980
+C'est-à-dire qu'on a un comportement qui n'est pas proactivement discriminatoire, mais qui a pour effet, volontairement ou non, de désavantager une personne d'une origine spécifique, sauf si cette pratique est objectivement justifiée par un objectif légitime.
+
+258
+00:24:49,980 --> 00:25:06,960
+C'est ça la nouveauté de cette disposition européenne qui n'existait pas en droit français auparavant, c'est la définition de la discrimination indirecte. Parce qu'auparavant, en droit français, on interdisait les comportements volontairement et activement discriminatoires.
+
+259
+00:25:06,960 --> 00:25:28,680
+Cette notion du droit européen impose aux États membres de lutter contre les comportements en apparence neutres, qui n'ont pas pour but objectif et pour volonté de créer une situation discriminatoire, mais qui pourraient aboutir à une situation discriminatoire, de les interdire.
+
+260
+00:25:29,600 --> 00:25:33,400
+Alors, cette directive s'applique à toute une série de secteurs,
+
+261
+00:25:34,360 --> 00:25:38,320
+tous les accès aux biens et aux services disponibles au grand public,
+
+262
+00:25:38,580 --> 00:25:40,220
+bien entendu, y compris le logement.
+
+263
+00:25:44,360 --> 00:25:48,480
+En 2018, une agence immobilière strasbourgeoise a été condamnée
+
+264
+00:25:48,480 --> 00:25:52,799
+pour avoir refusé de présenter un logement à un candidat en raison de son origine maghrébine.
+
+265
+00:25:53,600 --> 00:25:58,140
+Cette discrimination, révélée par un testing mené par une association locale,
+
+266
+00:25:58,140 --> 00:26:11,140
+on va en reparler plusieurs fois dans cette visioconférence, a conduit à une sanction de 20 000 euros d'amende conformément au principe établi par la directive et transposé dans le code pénal sur la discrimination indirecte.
+
+267
+00:26:11,140 --> 00:26:27,140
+Parce qu'en fait, il avait été établi que cette agence immobilière strasbourgeoise n'avait pas interdit aux candidats locataires de venir visiter le logement.
+
+268
+00:26:27,140 --> 00:26:52,600
+Tout simplement, elle avait fait visiter à d'autres personnes et n'avait pas fait visiter à ces personnes d'origine maghrébine. Pas encore, peut-être plus tard, peut-être jamais, peut-être avait-elle oublié, peut-être est-ce que ça allait se produire. En tout cas, ça n'avait pas eu lieu. Elle n'avait pas interdit du tout. Elle n'avait pas dit non, vous ne visiterez pas. Mais la visite n'avait pas eu lieu.
+
+269
+00:26:52,599 --> 00:27:05,959
+Il a été considéré grâce à une opération de testing que, on voit bien que vous avez fait visiter à d'autres personnes par contre, et pas à cette personne d'origine maghrébine. C'est comme ça que l'infraction a été constatée.
+
+270
+00:27:05,960 --> 00:27:10,279
+bien entendu la France en tant que signataire
+
+271
+00:27:10,279 --> 00:27:12,559
+de plusieurs traités internationaux
+
+272
+00:27:12,559 --> 00:27:14,279
+j'arrive pas, excusez-moi
+
+273
+00:27:14,279 --> 00:27:15,960
+à surligner ça, voilà
+
+274
+00:27:15,960 --> 00:27:18,559
+en tant que signataire de plusieurs traités internationaux
+
+275
+00:27:18,559 --> 00:27:20,460
+est au lieu de respecter et de promouvoir
+
+276
+00:27:20,460 --> 00:27:22,100
+l'égalité des traitements, notamment
+
+277
+00:27:22,100 --> 00:27:23,620
+dans le domaine du logement
+
+278
+00:27:23,620 --> 00:27:26,440
+en particulier la Convention Européenne
+
+279
+00:27:26,440 --> 00:27:27,980
+des Droits de l'Homme, que nous connaissons tous
+
+280
+00:27:27,980 --> 00:27:28,980
+pour différentes raisons
+
+281
+00:27:28,980 --> 00:27:32,519
+elle garantit le droit à l'égalité
+
+282
+00:27:32,519 --> 00:27:34,380
+à la non-discrimination dans l'exercice des droits
+
+283
+00:27:34,380 --> 00:27:35,620
+et des libertés fondamentaux
+
+284
+00:27:35,960 --> 00:27:49,240
+Son article 14 en particulier interdit toute discrimination fondée sur des critères tels que la race, la couleur, l'origine nationale, la religion ou tout autre statut, laissant donc ouverte, grande ouverte, une interprétation large du texte.
+
+285
+00:27:49,559 --> 00:27:55,539
+Son article premier dans le protocole additionnel 1 protège le droit au respect des biens, ce qui inclut le droit à un logement.
+
+286
+00:27:56,360 --> 00:28:02,740
+Toute discrimination dans l'accès au logement peut donc être portée également devant la Cour européenne des droits de l'homme.
+
+287
+00:28:02,740 --> 00:28:18,299
+Alors, il faut d'abord précédemment avoir utilisé toutes les voies de recours nationales. En cas d'échec de toutes ces voies de recours nationales, à ce moment-là, vous pouvez porter l'affaire devant la CEDH.
+
+288
+00:28:18,299 --> 00:28:39,559
+En 2020, dans l'affaire EBC, la CEDH a condamné la France pour discrimination indirecte dans une affaire d'attribution de logement social. La victime avait été systématiquement écartée en raison de critères géographiques injustifiés. Elle était africaine, ce n'est pas une justification.
+
+289
+00:28:39,559 --> 00:28:51,079
+Passons désormais à la liste des critères prohibés, si vous voulez bien, parce qu'elle est assez longue.
+
+290
+00:28:51,639 --> 00:28:58,460
+Aujourd'hui, il y a jusqu'à 25 critères de discrimination inscrits dans le Code pénal et dans la loi.
+
+291
+00:28:58,460 --> 00:29:03,779
+Nous savons très bien que cette liste va continuer à grossir. Pourquoi ?
+
+292
+00:29:03,779 --> 00:29:10,059
+parce qu'il ne s'agit pas du tout ici de juger de la pertinence des critères
+
+293
+00:29:10,059 --> 00:29:12,220
+et de la manière dont ces critères sont ajoutés,
+
+294
+00:29:12,599 --> 00:29:15,339
+est-ce que c'est justifié, pas justifié, légitime, pas légitime,
+
+295
+00:29:15,480 --> 00:29:16,619
+ce n'est pas le sujet aujourd'hui,
+
+296
+00:29:17,259 --> 00:29:19,519
+on en discutera si vous voulez quand on déjeunera ensemble,
+
+297
+00:29:20,899 --> 00:29:25,339
+mais on voit, il est évident que les critères les plus récents,
+
+298
+00:29:25,960 --> 00:29:29,980
+vous allez le voir dans la liste, les critères du bas de la liste,
+
+299
+00:29:29,980 --> 00:29:46,079
+Ce sont des critères qui sont quand même furieusement dans l'air du temps et qui, on le voit, ressemblent de très loin quand même à des critères imposés sous la pression de lobbies qui sont très actifs aujourd'hui.
+
+300
+00:29:46,079 --> 00:29:51,259
+donc on voit que cette liste évolue dans le temps elle évolue pour des raisons tout à fait
+
+301
+00:29:51,259 --> 00:29:57,720
+objectif tout à fait rationnel et tout à fait logique sur certains de ces critères on dit bon
+
+302
+00:29:57,720 --> 00:30:06,319
+ça ça sent plutôt quand même une pression propre à notre environnement aujourd'hui hier on n'aurait
+
+303
+00:30:06,319 --> 00:30:12,359
+pas fait ça demain on fera peut-être pas alors quels sont tous ces critères dans la 25 accrochez
+
+304
+00:30:12,359 --> 00:30:20,039
+à vos chaises on y va le premier c'est l'origine de critères il est un petit peu large parce qu'il
+
+305
+00:30:20,039 --> 00:30:28,119
+va un peu tout et rien dire ensuite le sexe la situation familiale c'est je veux pas de
+
+306
+00:30:28,119 --> 00:30:37,539
+mères célibataires pas de pas de de divorcer la grossesse l'apparence physique le patronyme
+
+307
+00:30:37,539 --> 00:30:46,000
+l'état de santé, le handicap, les caractéristiques génétiques, ça encore c'est quelque chose d'assez
+
+308
+00:30:46,000 --> 00:30:52,359
+flou, les mœurs, l'orientation sexuelle, l'âge, les opinions politiques, les activités syndicales,
+
+309
+00:30:52,359 --> 00:31:01,240
+les apparences vraies ou supposées à une ethnie, les apparences vraies ou supposées à une nation,
+
+310
+00:31:01,240 --> 00:31:03,400
+les apparences vraies
+
+311
+00:31:03,400 --> 00:31:05,519
+ou supposées à une race
+
+312
+00:31:05,519 --> 00:31:07,480
+l'appartenance
+
+313
+00:31:07,480 --> 00:31:09,779
+vraie ou supposée
+
+314
+00:31:09,779 --> 00:31:12,000
+à une religion déterminée
+
+315
+00:31:12,000 --> 00:31:14,120
+le lieu de résidence
+
+316
+00:31:14,120 --> 00:31:15,279
+vous voyez dire ça
+
+317
+00:31:15,279 --> 00:31:16,640
+le lieu de résidence qu'est-ce que ça veut dire
+
+318
+00:31:16,640 --> 00:31:18,779
+je vais vous donner un exemple tout bête
+
+319
+00:31:18,779 --> 00:31:21,660
+moi je veux de personnes qui viennent du 93
+
+320
+00:31:21,660 --> 00:31:23,519
+on l'a déjà vu parce qu'il y a des cas
+
+321
+00:31:23,519 --> 00:31:24,220
+par la suite etc
+
+322
+00:31:24,220 --> 00:31:26,480
+on est dans le
+
+323
+00:31:26,480 --> 00:31:29,180
+77 moi je veux
+
+324
+00:31:29,180 --> 00:31:31,160
+personne qui vient du 93 parce que je décide que
+
+325
+00:31:31,160 --> 00:31:32,519
+les gens du 93, ce n'est pas des gens bien.
+
+326
+00:31:32,960 --> 00:31:35,000
+Vous voyez, c'est ça le lieu de résidence d'origine.
+
+327
+00:31:37,220 --> 00:31:38,960
+La perte d'autonomie, en particulier
+
+328
+00:31:38,960 --> 00:31:41,460
+dans l'accès
+
+329
+00:31:41,460 --> 00:31:42,279
+à un emploi.
+
+330
+00:31:42,960 --> 00:31:45,460
+La perte d'autonomie, une particularité
+
+331
+00:31:46,060 --> 00:31:47,360
+linguistique,
+
+332
+00:31:48,340 --> 00:31:49,620
+une vulnérabilité
+
+333
+00:31:49,620 --> 00:31:50,340
+économique.
+
+334
+00:31:51,160 --> 00:31:53,779
+Le sexe avec changement
+
+335
+00:31:53,779 --> 00:31:55,080
+d'identité sexuelle,
+
+336
+00:31:56,080 --> 00:31:57,460
+la capacité à s'exprimer
+
+337
+00:31:57,460 --> 00:32:03,480
+exprimer dans une autre langue et, dernier critère, l'identité de genre.
+
+338
+00:32:04,200 --> 00:32:09,259
+Alors, je vois arriver sur le chat les gens, les uns et les autres,
+
+339
+00:32:09,380 --> 00:32:11,180
+qui disent que c'est n'importe quoi.
+
+340
+00:32:11,579 --> 00:32:12,160
+Ce n'est pas le sujet.
+
+341
+00:32:12,700 --> 00:32:14,059
+Ce n'est pas le sujet.
+
+342
+00:32:16,440 --> 00:32:20,180
+Un exemple tout bête qui nous est donné par Béatrice et des amis qui habitent Marseille
+
+343
+00:32:20,180 --> 00:32:23,519
+et ils ont énormément de difficultés à trouver un logement en location
+
+344
+00:32:23,519 --> 00:32:26,759
+car ils ont plus de 70 ans tous les deux.
+
+345
+00:32:26,759 --> 00:32:37,660
+Oui, oui, c'est typiquement, c'est un critère de discrimination basé sur le critère numéro 12, l'âge. Absolument.
+
+346
+00:32:37,660 --> 00:32:44,860
+je suis en train de dire
+
+347
+00:32:44,860 --> 00:32:47,660
+les questions en même temps
+
+348
+00:32:47,660 --> 00:32:49,640
+un exemple Nicolas, Pâques-Calais
+
+349
+00:32:49,640 --> 00:32:51,640
+habite un bailleur social, quand il met en vente
+
+350
+00:32:51,640 --> 00:32:53,560
+un bien, il sélectionne les offres des acquéreurs
+
+351
+00:32:53,560 --> 00:32:55,519
+et les classant dans des rangs en fonction
+
+352
+00:32:55,519 --> 00:32:57,759
+de leurs revenus, il accepte les offres
+
+353
+00:32:57,759 --> 00:32:59,740
+acquéreurs qui ont des
+
+354
+00:32:59,740 --> 00:33:02,060
+revenus supérieurs après un délai de plusieurs mois
+
+355
+00:33:02,060 --> 00:33:02,800
+alors attention
+
+356
+00:33:02,800 --> 00:33:05,600
+ça c'est assez intéressant
+
+357
+00:33:05,600 --> 00:33:06,440
+ce que nous dit
+
+358
+00:33:06,440 --> 00:33:09,360
+Camille, dans cet exemple
+
+359
+00:33:09,360 --> 00:33:11,120
+qui est là, alors en même temps il y a Christelle
+
+360
+00:33:11,120 --> 00:33:12,680
+qui me demande si je vais venir en Gironde
+
+361
+00:33:12,680 --> 00:33:15,240
+non, pas tout de suite, début 2025
+
+362
+00:33:15,240 --> 00:33:16,840
+oui, mais là tout de suite
+
+363
+00:33:16,840 --> 00:33:18,380
+fin 2024, non
+
+364
+00:33:18,380 --> 00:33:20,980
+mais début 2025, oui
+
+365
+00:33:20,980 --> 00:33:21,820
+et avec grand plaisir
+
+366
+00:33:21,820 --> 00:33:24,840
+donc, ce que nous cite
+
+367
+00:33:24,840 --> 00:33:26,860
+Camille
+
+368
+00:33:26,860 --> 00:33:28,940
+dans le cas du bailleur social quand il met en vente
+
+369
+00:33:28,940 --> 00:33:30,840
+les biens, il sélectionne les offres sur
+
+370
+00:33:30,840 --> 00:33:32,920
+des critères économiques
+
+371
+00:33:32,920 --> 00:33:34,759
+et les critères économiques sont
+
+372
+00:33:34,759 --> 00:33:36,220
+considérés comme des critères
+
+373
+00:33:36,220 --> 00:33:38,579
+objectifs, en gros
+
+374
+00:33:38,579 --> 00:33:40,600
+est-ce que les gens ont les moyens
+
+375
+00:33:40,600 --> 00:33:42,940
+de faire ceci ou n'ont pas les moyens de faire cela
+
+376
+00:33:42,940 --> 00:33:44,059
+attention
+
+377
+00:33:44,059 --> 00:33:46,759
+les critères économiques sont des critères
+
+378
+00:33:46,759 --> 00:33:48,620
+objectifs à condition
+
+379
+00:33:48,620 --> 00:33:50,519
+qu'il soit évident et qu'on arrive
+
+380
+00:33:50,519 --> 00:33:52,539
+à démontrer que ce sont des
+
+381
+00:33:52,539 --> 00:33:53,839
+critères utiles
+
+382
+00:33:53,839 --> 00:33:56,819
+dans le cadre de l'opération
+
+383
+00:33:56,819 --> 00:33:57,860
+envisagée
+
+384
+00:33:57,860 --> 00:34:00,839
+il y a des cas dans lesquels les critères économiques
+
+385
+00:34:00,839 --> 00:34:03,000
+sont considérés comme totalement inutiles
+
+386
+00:34:03,000 --> 00:34:04,519
+dans telle ou telle
+
+387
+00:34:04,519 --> 00:34:05,500
+opération
+
+388
+00:34:06,220 --> 00:34:20,760
+Donc, si dans ces opérations de revente d'anciens logements sociaux, le critère économique a été retenu comme objectivement utile, à ce moment-là, ça n'est pas une discrimination, mais ça pourrait très bien l'être dans un autre cas.
+
+389
+00:34:20,760 --> 00:34:32,540
+Alors, bien entendu, vous le voyez dans ces 25 différents cas, on peut mettre beaucoup de choses quand même.
+
+390
+00:34:32,540 --> 00:34:43,660
+On peut faire rentrer un très grand nombre de cas avec bonne ou mauvaise foi.
+
+391
+00:34:43,659 --> 00:34:57,659
+C'est évident. Il y a toujours des cas dans lesquels des personnes de mauvaise foi se saisissent de ce souci louable de lutter contre les discriminations pour faire valoir des droits en recherchant un prétexte.
+
+392
+00:34:57,659 --> 00:35:14,420
+Et je me souviens très très bien, il y a un certain nombre d'années, l'un d'entre vous, enfin l'une d'entre vous exactement qui est avec nous et qui était dans l'Oise, je me souviens très très bien, avait fait visiter des terrains à des acquéreurs.
+
+393
+00:35:14,420 --> 00:35:30,860
+Il y avait un acquéreur en particulier qui avait visité le terrain et qui souhaitait faire une offre, mais il n'en avait pas du tout les moyens parce qu'une analyse de solvabilité de son dossier avait démontré qu'il n'était pas finançable du tout dessus, mais il s'était plaint.
+
+394
+00:35:30,860 --> 00:35:39,360
+il avait voulu monter tout un dossier de plainte en disant que c'était en raison de son origine nationale
+
+395
+00:35:39,360 --> 00:35:41,900
+que ce dossier lui avait été refusé.
+
+396
+00:35:42,180 --> 00:35:45,280
+Alors qu'en fait, c'était tout simplement quelque part de pas solvable.
+
+397
+00:35:45,800 --> 00:35:50,300
+Il n'avait pas les moyens de financer l'achat de ce terrain.
+
+398
+00:35:51,380 --> 00:35:56,500
+Alors je ne dis pas de quel agent il s'agit, parce que je n'ai pas envie que quelqu'un aille lui reprocher quoi que ce soit,
+
+399
+00:35:57,099 --> 00:36:00,360
+mais c'est un agent qui est avec nous aujourd'hui et qui, je pense, se reconnaît.
+
+400
+00:36:00,360 --> 00:36:02,480
+c'était il y a bien 5 ou 6 ans cette affaire
+
+401
+00:36:02,480 --> 00:36:05,019
+je m'en souviens très très bien
+
+402
+00:36:05,019 --> 00:36:06,380
+et je vois que cet agent me dit
+
+403
+00:36:06,380 --> 00:36:08,000
+je m'en souviens bien aussi
+
+404
+00:36:08,000 --> 00:36:11,340
+est-ce que la vulgarité est un cas ?
+
+405
+00:36:11,340 --> 00:36:13,120
+alors, je ne sais pas ce que vous visez
+
+406
+00:36:13,120 --> 00:36:13,960
+mon cher Jérôme
+
+407
+00:36:13,960 --> 00:36:17,380
+comme cas avec la vulgarité
+
+408
+00:36:17,380 --> 00:36:18,940
+mais est-ce que dans toute cette liste
+
+409
+00:36:18,940 --> 00:36:21,579
+on arriverait à caler la vulgarité ?
+
+410
+00:36:21,579 --> 00:36:22,980
+je ne sais pas mais je vous dirais
+
+411
+00:36:22,980 --> 00:36:23,700
+peut-être
+
+412
+00:36:23,700 --> 00:36:25,539
+peut-être, peut-être, peut-être
+
+413
+00:36:25,539 --> 00:36:28,820
+alors après on peut toujours revendiquer quelque chose
+
+414
+00:36:28,820 --> 00:36:30,260
+après il faut pouvoir démontrer
+
+415
+00:36:30,360 --> 00:36:34,140
+« Refuser un promoteur est une attitude discriminatoire ? »
+
+416
+00:36:34,140 --> 00:36:37,579
+Non Stéphanie, pourquoi refuser un promoteur serait une attitude discriminatoire ?
+
+417
+00:36:37,579 --> 00:36:43,120
+Ce n'était pas un promoteur l'activité, c'était une simple personne qui voulait acheter un terrain pour construire une maison individuelle,
+
+418
+00:36:43,180 --> 00:36:43,880
+ce n'était pas un promoteur.
+
+419
+00:36:44,660 --> 00:36:48,400
+Si on parle bien du cas en question, c'était un monsieur qui voulait acheter un terrain,
+
+420
+00:36:48,980 --> 00:36:51,340
+mais qui n'avait pas de quoi le payer tout simplement,
+
+421
+00:36:51,500 --> 00:36:56,180
+et l'analyse de solvabilité avait démontré qu'il n'était tout simplement pas finançable.
+
+422
+00:36:56,519 --> 00:36:58,760
+C'était aussi bête que ça, c'était hyper objectif.
+
+423
+00:37:00,360 --> 00:37:06,800
+Alors, là, des exemples concrets, je vous en ai fait quelques-uns.
+
+424
+00:37:07,300 --> 00:37:12,640
+Vous allez voir, j'ai pris, regardez, vous avez vu dans tous les PDF
+
+425
+00:37:12,640 --> 00:37:14,480
+que vous allez montrer, maintenant, je fais toujours attention
+
+426
+00:37:14,480 --> 00:37:17,840
+à vous mettre les exemples en vert, qu'ils soient bien séparés
+
+427
+00:37:17,840 --> 00:37:18,880
+du reste du texte.
+
+428
+00:37:19,220 --> 00:37:21,860
+Vous voyez, là, j'ai l'origine, le sexe, situation familiale, handicap,
+
+429
+00:37:21,860 --> 00:37:24,579
+je vous en ai sorti une jolie petite liste.
+
+430
+00:37:24,720 --> 00:37:27,880
+On ne va pas tous les voir parce que vous les aurez tous dans le PDF,
+
+431
+00:37:27,880 --> 00:37:31,619
+On va en voir deux ou trois pour ne pas passer la soirée dessus non plus.
+
+432
+00:37:32,300 --> 00:37:39,240
+L'origine, 2021 Toulouse, une agence immobilière a été condamnée pour avoir refusé de présenter un dossier locatif au motif que le candidat était maghrébin.
+
+433
+00:37:39,860 --> 00:37:43,840
+La plainte déposée par l'association SOS Racisme a conduit à une amende de 10 000 euros.
+
+434
+00:37:45,940 --> 00:37:56,039
+Ensuite, handicap, en 2022, un testing mené par une association lilloise a révélé qu'un locataire en fauteuil roulant s'était vu refuser un logement sous prétexte que l'immeuble n'est pas adapté.
+
+435
+00:37:56,039 --> 00:38:22,559
+L'agence immobilière concernée a été condamnée à 15 000 euros d'amende. Ensuite, allez, un dernier, la religion. Il y en a cinq ou six, vous les aurez tous. En 2019, à Marseille, une agence a rejeté un candidat locatif en raison de son affiliation religieuse supposée. L'affaire portée devant le défenseur des droits a condamné à une injonction de modification des pratiques et une sanction administrative de 20 000 euros.
+
+436
+00:38:22,559 --> 00:38:37,539
+Alors, vous m'avez entendu plusieurs fois dire, excusez-moi j'ai le hoquet, vous m'avez entendu plusieurs fois dire appartenance vraie ou supposée à une ethnie, à une nation, à une race, à une religion. Pourquoi ?
+
+437
+00:38:37,539 --> 00:38:42,380
+Ça, c'est très important dans tous les cas de discrimination pour l'accès au logement ou non.
+
+438
+00:38:42,380 --> 00:38:50,900
+Et là, dans le cas qu'on vient de voir pour la religion à Marseille, c'était de son affiliation religieuse supposée,
+
+439
+00:38:51,719 --> 00:38:59,420
+il ne suffit pas de dire « moi, j'ai refusé tel candidat parce qu'il est, par exemple, musulman ».
+
+440
+00:38:59,420 --> 00:39:08,200
+Non, absolument pas, parce qu'imaginons que derrière la personne qui a effectué l'action discriminatoire
+
+441
+00:39:08,200 --> 00:39:13,539
+croyait qu'elle avait en face d'elle un musulman, alors que le musulman ne l'était pas du tout,
+
+442
+00:39:14,400 --> 00:39:17,380
+on ne peut pas se défendre en disant « Ah ben vous regardez, en plus il n'est même pas musulman,
+
+443
+00:39:17,519 --> 00:39:19,800
+donc je n'ai pas fait de discrimination ». Non, ça ne marche pas,
+
+444
+00:39:20,139 --> 00:39:22,180
+parce que vous étiez persuadé qu'il était musulman,
+
+445
+00:39:22,720 --> 00:39:27,119
+et c'est sur ce fondement-là que vous avez exercé votre action discriminatoire.
+
+446
+00:39:27,119 --> 00:39:43,460
+Donc ce n'est pas parce qu'en réalité on s'aperçoit aujourd'hui que cette personne n'est pas musulmane et que vous vous étiez trompé que ça vous dédouane de la discrimination que vous avez mise en œuvre. C'est ça le principe de l'appartenance vraie ou supposée.
+
+447
+00:39:43,460 --> 00:39:58,679
+C'est-à-dire que même si la personne ne fait pas partie de la catégorie que vous aviez cru identifier en exerçant la discrimination, ce n'est pas parce que finalement elle n'en fait pas partie que vous êtes innocenté.
+
+448
+00:39:58,780 --> 00:40:08,820
+Non, parce que vous, vous pensiez vraiment que vous aviez face à vous, par exemple, un musulman, un homosexuel, une femme célibataire ou que sais-je encore.
+
+449
+00:40:08,820 --> 00:40:11,720
+peut-être que
+
+450
+00:40:11,720 --> 00:40:13,559
+nombreux entre vous se souviennent
+
+451
+00:40:13,559 --> 00:40:14,660
+des
+
+452
+00:40:14,660 --> 00:40:17,780
+vilains bruits qui m'ont bien fait rigoler
+
+453
+00:40:17,780 --> 00:40:19,740
+moi qui ont couru il y a quelques années
+
+454
+00:40:19,740 --> 00:40:21,740
+à mon sujet à la suite
+
+455
+00:40:21,740 --> 00:40:23,480
+d'une formation où on avait intégré
+
+456
+00:40:23,480 --> 00:40:25,640
+des nouveaux, je ne sais pas pourquoi
+
+457
+00:40:25,640 --> 00:40:27,580
+que c'était répandu comme une traînée de poudre
+
+458
+00:40:27,580 --> 00:40:28,640
+au sein de cette
+
+459
+00:40:28,640 --> 00:40:31,559
+formation des vilaines
+
+460
+00:40:31,559 --> 00:40:33,519
+rumeurs à mon sujet, bon moi il m'en faut
+
+461
+00:40:33,519 --> 00:40:35,780
+beaucoup pour me choquer donc franchement
+
+462
+00:40:35,780 --> 00:40:37,600
+ça ne m'a pas vraiment gêné
+
+463
+00:40:37,600 --> 00:40:38,340
+mais
+
+464
+00:40:38,820 --> 00:40:47,080
+C'était des cancans, des racontards, les gens racontaient des saletés sur moi, sur des choses qu'ils avaient totalement imaginées.
+
+465
+00:40:47,500 --> 00:40:50,260
+Vous voyez, ça peut avoir un impact.
+
+466
+00:40:50,420 --> 00:40:53,320
+Bon, moi, franchement, j'en rigole plus qu'autre chose.
+
+467
+00:40:54,680 --> 00:41:03,180
+Alors, vous avez également, là, on va rentrer dans des analyses un petit peu plus détaillées de cas jurisprudentiels,
+
+468
+00:41:03,179 --> 00:41:10,299
+parce que là, je suis allé un petit peu plus loin que les simples exemples concrets habituels.
+
+469
+00:41:11,079 --> 00:41:17,319
+Le cas de l'agence immobilière de Paris, on va rentrer un peu dans le détail,
+
+470
+00:41:18,259 --> 00:41:22,619
+parce que, alors tout ça vous l'aurez également dans mes exemples,
+
+471
+00:41:22,739 --> 00:41:25,059
+mais là on va rentrer un petit peu plus loin dans le détail.
+
+472
+00:41:25,819 --> 00:41:31,519
+Un locataire potentiel d'origine africaine avait porté plainte contre une agence
+
+473
+00:41:31,519 --> 00:41:35,699
+qui refusait systématiquement de transmettre son dossier au propriétaire.
+
+474
+00:41:36,380 --> 00:41:41,519
+Le défenseur des droits a été saisi, il a mené une enquête approfondie,
+
+475
+00:41:42,219 --> 00:41:44,880
+parce que le défenseur des droits c'est comme une autorité administrative,
+
+476
+00:41:45,099 --> 00:41:51,619
+il a des pouvoirs d'enquête élargis, de sorte à confirmer que cette pratique
+
+477
+00:41:51,619 --> 00:41:56,400
+constitue une discrimination directe fondée sur l'origine en violation des articles 225,
+
+478
+00:41:56,400 --> 00:41:58,219
+1 et 2 du Code pénal.
+
+479
+00:41:58,219 --> 00:42:03,719
+Le tribunal a ordonné le versement de 12 000 euros de dommages intérêts aux plaignants
+
+480
+00:42:03,719 --> 00:42:07,119
+Donc en réparation de son préjudice
+
+481
+00:42:07,119 --> 00:42:09,480
+C'est-à-dire le tort qu'il a subi ce monsieur
+
+482
+00:42:09,480 --> 00:42:13,939
+Lui est réparé à hauteur de 12 000 euros
+
+483
+00:42:13,939 --> 00:42:21,259
+En plus de quoi, une amende a été infligée à l'agence immobilière
+
+484
+00:42:21,259 --> 00:42:23,819
+A hauteur de 20 000 euros
+
+485
+00:42:23,819 --> 00:42:26,699
+Vous le voyez, ça peut aller loin
+
+486
+00:42:26,699 --> 00:42:37,419
+Ça peut aller loin parce que cette agence immobilière, dans ce cas, les propriétaires d'ailleurs, il n'a pas été démontré du tout qu'ils étaient complices de quoi que ce soit.
+
+487
+00:42:37,599 --> 00:42:39,659
+On va voir, ça peut poser problème par la suite.
+
+488
+00:42:40,179 --> 00:42:41,299
+Ça peut vraiment poser problème.
+
+489
+00:42:42,059 --> 00:42:50,339
+L'agence immobilière a été elle-même et seule directement condamnée pour avoir systématiquement mis de côté son dossier.
+
+490
+00:42:50,340 --> 00:43:05,920
+On a une deuxième affaire un petit peu plus détaillée encore à Marseille qui a donné lieu, alors je vous laisserai rentrer dans le détail de celle-là dans le petit texte que je vous donnerai, mais là elle a quand même donné lieu à une sanction de 30 000 euros.
+
+491
+00:43:05,920 --> 00:43:07,800
+30 000 euros
+
+492
+00:43:07,800 --> 00:43:10,260
+parce que le bailleur
+
+493
+00:43:10,260 --> 00:43:12,300
+alors là c'était pas l'agence immobilière
+
+494
+00:43:12,300 --> 00:43:13,380
+c'est le bailleur lui-même
+
+495
+00:43:13,380 --> 00:43:16,000
+qui avait stipulé une interdiction
+
+496
+00:43:16,000 --> 00:43:18,740
+d'organiser des réunions religieuses
+
+497
+00:43:18,740 --> 00:43:21,300
+quoi que cela puisse vouloir dire
+
+498
+00:43:21,300 --> 00:43:23,440
+le contrat a été annulé
+
+499
+00:43:23,440 --> 00:43:25,280
+et une sanction de 30 000 euros
+
+500
+00:43:25,280 --> 00:43:26,559
+a été prononcée
+
+501
+00:43:26,559 --> 00:43:27,619
+alors
+
+502
+00:43:27,619 --> 00:43:31,440
+quelles sont les pratiques
+
+503
+00:43:31,440 --> 00:43:33,599
+spécifiquement explicitement interdites
+
+504
+00:43:33,599 --> 00:43:35,740
+dans la gestion locative et la vente
+
+505
+00:43:35,920 --> 00:43:54,440
+Donc premièrement, le refus de location ou de vente sur des critères discriminatoires. Ça existe dans la vente, je vais vous donner un exemple concret de l'abus de carnet dans quelques instants, mais soyons clairs, c'est beaucoup, beaucoup, beaucoup plus rare que dans la location.
+
+506
+00:43:54,440 --> 00:44:11,440
+Alors, le refus de location ou de vente fondé sur un critère discriminatoire parmi les 25 critères possibles que nous avons étudiés au-dessus sont des actes de discrimination directe qui interdisent toute distinction normalement fondée sur l'origine, le sexe, la religion, l'état de santé ou tout autre critère de la liste.
+
+507
+00:44:11,440 --> 00:44:14,579
+toute distinction
+
+508
+00:44:14,579 --> 00:44:16,220
+injustifiée
+
+509
+00:44:16,220 --> 00:44:18,400
+opérée par un agent immobilier
+
+510
+00:44:18,400 --> 00:44:20,960
+un vendeur, un bailleur
+
+511
+00:44:20,960 --> 00:44:23,179
+un acquéreur ou un locataire
+
+512
+00:44:23,179 --> 00:44:24,760
+parce que on croit toujours
+
+513
+00:44:24,760 --> 00:44:26,320
+que ce sont les vendeurs et les bailleurs
+
+514
+00:44:26,320 --> 00:44:28,460
+qui exercent des actions discriminatoires
+
+515
+00:44:28,460 --> 00:44:30,380
+que ce ne sont pas les acquéreurs ou les locataires
+
+516
+00:44:30,380 --> 00:44:31,800
+ça existe également
+
+517
+00:44:31,800 --> 00:44:34,059
+probablement moins, j'en sais rien
+
+518
+00:44:34,059 --> 00:44:36,380
+j'imagine, mais ça existe également
+
+519
+00:44:36,380 --> 00:44:37,780
+on en a un certain nombre de cas
+
+520
+00:44:37,780 --> 00:44:40,700
+donc un propriétaire, un bailleur
+
+521
+00:44:41,440 --> 00:44:58,019
+Un locataire, un acquéreur qui refuserait une candidature quelconque pour des motifs non liés à des capacités objectives telles que les ressources financières ou la solidité objective matérielle du dossier serait absolument prohibé.
+
+522
+00:44:58,019 --> 00:45:12,759
+Tout refus doit être motivé, documenté et fondé sur des critères absolument objectifs comme des garanties locatives insuffisantes, des antécédents de loyers impayés ou une insolvabilité démontrée.
+
+523
+00:45:13,920 --> 00:45:21,019
+En 2021, une agence immobilière bordelaise a été condamnée pour avoir refusé un candidat à la location en raison de son objectif subsaharienne.
+
+524
+00:45:21,019 --> 00:45:32,619
+Ce refus, révélé par un testing, là encore organisé par l'association SOS Racisme, a conduit à une sanction de 10 000 euros d'amende et à la nullité des baux conclus avec des candidats favorisés sur des critères discriminatoires.
+
+525
+00:45:32,619 --> 00:46:01,920
+Ça veut dire que le bail qui a été conclu avec une personne non discriminée mais qui, elle, n'avait rien à voir là-dedans, était totalement innocente de tout cela, ont été annulés. On leur a dit « Désolé, vous dégagez de la maison parce que l'agent immobilier a exercé une action discriminatoire à l'encontre d'autres candidats qui auraient dû ou pu obtenir le bien à votre place. Donc, vous dégagez. »
+
+526
+00:46:01,920 --> 00:46:08,480
+Cette décision s'est appuyée sur le Code pénal et sur le Code civil, qui garantissent la nullité des contrats contraires à l'ordre public.
+
+527
+00:46:09,380 --> 00:46:15,860
+Alors, bien entendu, des sanctions pénales viennent s'ajouter à cela.
+
+528
+00:46:16,820 --> 00:46:24,480
+On l'a vu, trois ans d'emprisonnement, 45 000 euros d'amende, réparation du préjudice subi au titre du Code civil,
+
+529
+00:46:24,480 --> 00:46:30,280
+et les sanctions administratives que nous connaissons, qui viennent s'ajouter à tout cela.
+
+530
+00:46:30,280 --> 00:46:46,620
+Alors, dans le principe d'écarter un candidat à l'acquisition, on a vu le cas tout à l'heure du monsieur qui voulait acheter un terrain breloise et qui accusait la Ducarne de pratiques discriminatoires.
+
+531
+00:46:46,619 --> 00:47:15,319
+Alors, je vous disais que parfois, l'agence immobilière se retrouve absolument coincée, bloquée, parce qu'elle ne veut pas exercer la moindre action discriminatoire, mais elle est face à un client, vendeur, bailleur pour l'allocation, locataire lui-même ou acquéreur, qui refusent qu'on lui présente une candidature qui ne lui plaît pas.
+
+532
+00:47:15,320 --> 00:47:18,320
+c'est beaucoup plus rare
+
+533
+00:47:18,320 --> 00:47:20,660
+dans le cas de la vente que de la location
+
+534
+00:47:20,660 --> 00:47:22,480
+pourquoi ?
+
+535
+00:47:22,480 --> 00:47:23,740
+parce que quand quelqu'un vend sa maison
+
+536
+00:47:23,740 --> 00:47:26,660
+il n'en a rien à faire de savoir si les gens qui vont venir dedans
+
+537
+00:47:26,660 --> 00:47:28,840
+sont blancs, noirs, jaunes
+
+538
+00:47:28,840 --> 00:47:31,039
+grands, petits, hommes, femmes, homosexuels
+
+539
+00:47:31,039 --> 00:47:32,140
+ou pas, ils s'en foutent
+
+540
+00:47:32,140 --> 00:47:34,680
+tout ce qu'ils veulent c'est vendre, prendre l'argent
+
+541
+00:47:34,680 --> 00:47:36,380
+partir, passer à autre chose
+
+542
+00:47:36,380 --> 00:47:38,660
+donc c'est très rare, mais ça existe
+
+543
+00:47:38,660 --> 00:47:40,640
+et moi je me souviens très très bien d'un cas qu'on a eu
+
+544
+00:47:40,640 --> 00:47:41,800
+il y a une
+
+545
+00:47:41,800 --> 00:47:44,460
+7-8 ans, c'était Sophie Sanret
+
+546
+00:47:44,460 --> 00:47:51,460
+qui est en Alsace, et qui vend une maison à des acquéreurs maghrébins,
+
+547
+00:47:52,199 --> 00:47:53,119
+et le vendeur n'en veut pas.
+
+548
+00:47:53,260 --> 00:47:57,920
+Le vendeur dit « Non, je ne veux pas, je signerai pas, je ne veux pas vendre à des Arabes. »
+
+549
+00:47:57,920 --> 00:48:02,740
+Et Sophie, qui nous sollicite, qui nous saisit, nous, la lucarne,
+
+550
+00:48:02,840 --> 00:48:05,579
+nous disons « Qu'est-ce que je fais ? Qu'est-ce que c'est que cette histoire ? »
+
+551
+00:48:05,579 --> 00:48:09,900
+Le vendeur refuse de vendre parce que les acquéreurs sont des Arabes.
+
+552
+00:48:10,400 --> 00:48:12,220
+Et qu'est-ce qu'on peut faire ?
+
+553
+00:48:12,219 --> 00:48:21,980
+Et on a dû exercer une pression très importante sur le vendeur pour, parce que c'était une offre au prix en plus, pour que le vendeur fasse la vente.
+
+554
+00:48:21,980 --> 00:48:33,399
+Ça a duré trois mois cette histoire, trois mois de recommander de machins, de trucs, de bidules pour forcer le vendeur à vendre la maison alors qu'il avait dit « bon, j'en veux pas parce que moi je veux pas d'arabe ».
+
+555
+00:48:33,399 --> 00:48:34,939
+C'est hors de question.
+
+556
+00:48:34,940 --> 00:48:42,900
+voyez c'est même dans la vente ça peut se produire alors qu'on pourrait imaginer que
+
+557
+00:48:42,900 --> 00:48:49,880
+un affreux un raciste qui veut pas d'arabe en tant que locataire c'est parce qu'il veut pas
+
+558
+00:48:49,880 --> 00:48:55,480
+être en contact avec eux quand on vend on s'en fout pas non il y en a qui sont un petit peu
+
+559
+00:48:55,480 --> 00:49:02,300
+plus radicaux que les autres bien entendu ça c'est une évidence me direz vous ça va sans
+
+560
+00:49:02,300 --> 00:49:08,980
+dire dans les publicités les annonces immobilières il faut éviter tout contenu discriminatoire les
+
+561
+00:49:08,980 --> 00:49:14,060
+annonces immobilières sont très souvent le premier contact entre un professionnel de l'immobilier et
+
+562
+00:49:14,060 --> 00:49:21,680
+un candidat acquéreur locataire et elles doivent respecter une neutralité absolument strict radical
+
+563
+00:49:21,680 --> 00:49:25,800
+oserais-je dire comme je viens d'utiliser et ne comporter aucune mention susceptible d'être
+
+564
+00:49:25,800 --> 00:49:30,740
+interprété comme discriminatoire qu'est ce qu'on n'a pas le droit de mettre dans les annonces pas
+
+565
+00:49:30,739 --> 00:49:37,099
+n'a pas le droit de dire recherche locataires hommes uniquement on n'a pas le droit de dire
+
+566
+00:49:37,099 --> 00:49:41,779
+interdiction aux animaux de compagnie vous imaginez bien que ce sont des discriminations
+
+567
+00:49:41,779 --> 00:49:49,500
+que je ne laisserai pas passer on n'a pas le droit de dire là vous le voyez ça commence à
+
+568
+00:49:49,500 --> 00:49:56,479
+être beaucoup plus tendancieux on n'a pas le droit de dire appartement situé dans un quartier calme
+
+569
+00:49:56,480 --> 00:50:02,179
+idéal pour retraités là vous allez bien mais non mais c'est pas de la discrimination autant
+
+570
+00:50:02,179 --> 00:50:08,059
+dire recherche locataire homme uniquement interdiction aux animaux très panique pas
+
+571
+00:50:08,059 --> 00:50:15,320
+de femmes seules c'est une discrimination évidente mais dire que c'est un quartier
+
+572
+00:50:15,320 --> 00:50:21,980
+qui est idéal pour les retraités pourquoi parce que de manière objective ici un retraité il sera
+
+573
+00:50:21,980 --> 00:50:41,699
+Il y a la pharmacie juste à côté, il y a la boulangerie juste en face, il y a une vie de quartier facile, confortable pour une personne âgée. On est en train de dire que commercialement, c'est un produit qui s'adresse directement, naturellement à un retraité.
+
+574
+00:50:41,699 --> 00:50:44,000
+c'est exactement comme si
+
+575
+00:50:44,000 --> 00:50:46,460
+je commercialisais
+
+576
+00:50:46,460 --> 00:50:47,839
+une grande voiture
+
+577
+00:50:47,839 --> 00:50:49,079
+comme on appelle ça
+
+578
+00:50:49,079 --> 00:50:50,960
+un grand monospace
+
+579
+00:50:50,960 --> 00:50:54,059
+et que je disais ça c'est une voiture idéale
+
+580
+00:50:54,059 --> 00:50:55,099
+pour les familles nombreuses
+
+581
+00:50:55,099 --> 00:50:57,960
+c'est vrai, ça a été pensé pour les familles nombreuses
+
+582
+00:50:57,960 --> 00:50:59,859
+je ne suis pas en train de dire que j'interdis
+
+583
+00:50:59,859 --> 00:51:01,679
+à un célibataire d'acheter une Renault Espace
+
+584
+00:51:01,679 --> 00:51:03,480
+non, je dis que la Renault Espace
+
+585
+00:51:03,480 --> 00:51:05,179
+elle a été pensée pour les familles et donc
+
+586
+00:51:05,179 --> 00:51:07,500
+construite, designée
+
+587
+00:51:07,500 --> 00:51:08,819
+pour les familles nombreuses
+
+588
+00:51:08,820 --> 00:51:27,660
+Là, c'est pareil. De même que nous avons, nous, très souvent, un petit produit d'appel qui est idéalement placé en termes de prix pour ce qu'on appelle les jeunes couples et les primo-accédants. De manière commerciale, ce produit, il leur conviendra à eux plus qu'à tout autre.
+
+589
+00:51:28,259 --> 00:51:30,480
+Je ne suis pas en train de dire que j'interdis à quelqu'un
+
+590
+00:51:30,480 --> 00:51:32,779
+qui n'est pas un primo-accédant d'acheter cet appartement.
+
+591
+00:51:33,079 --> 00:51:34,659
+Toute personne qui veut l'acheter est la bienvenue.
+
+592
+00:51:35,440 --> 00:51:38,259
+Mais c'est vrai que le primo-accédant, j'attire son attention
+
+593
+00:51:38,259 --> 00:51:40,879
+sur le fait que ça, c'est un produit qui est vraiment fait pour lui.
+
+594
+00:51:42,059 --> 00:51:46,920
+Donc vous le voyez, là on interdit des mentions discriminatoires
+
+595
+00:51:46,920 --> 00:51:50,480
+qu'on appelle implicites, là où nous on serait tenté de se dire
+
+596
+00:51:50,480 --> 00:51:54,980
+« non, j'interdis à personne de venir, je suis en train de dire à d'autres
+
+597
+00:51:54,980 --> 00:51:56,879
+que ça leur convient particulièrement ».
+
+598
+00:51:57,659 --> 00:52:01,099
+Vous voyez, la ligne, elle est fine, là.
+
+599
+00:52:03,039 --> 00:52:07,159
+2020, agence immobilière à Marseille, une annonce contenant la mention
+
+600
+00:52:07,159 --> 00:52:12,920
+« appartement non adapté aux familles nombreuses et aux personnes non actives »
+
+601
+00:52:12,920 --> 00:52:16,639
+a fait l'objet d'une plainte auprès du défenseur des droits qui a saisi le procureur de la République.
+
+602
+00:52:16,779 --> 00:52:23,739
+L'agence a été condamnée à 5 000 euros d'amende et a publié un communiqué reconnaissant la violation des principes de non-discrimination.
+
+603
+00:52:23,739 --> 00:52:37,739
+Bon, vous me direz, avoir indiqué appartement non adapté aux familles nombreuses et aux personnes non actives, qu'est-ce que ça veut dire ? Je ne sais pas très bien. Je ne sais pas très bien. Est-ce que là, c'est eux qui sont tendancieux ?
+
+604
+00:52:37,739 --> 00:53:00,359
+Alors, hop là, excusez-moi, je m'y perds ici, je vais être très clair avec vous, là je m'y perds dans mes trucs
+
+605
+00:53:00,360 --> 00:53:02,780
+que j'ai mal rangé dans mon petit document
+
+606
+00:53:02,780 --> 00:53:04,860
+ici, donc je vais reprendre
+
+607
+00:53:04,860 --> 00:53:06,380
+tout de suite
+
+608
+00:53:06,380 --> 00:53:08,300
+bougez pas, on va reprendre ça
+
+609
+00:53:08,300 --> 00:53:09,579
+tout de suite
+
+610
+00:53:09,579 --> 00:53:12,260
+sur mes autres notes, je vous demande
+
+611
+00:53:12,260 --> 00:53:14,960
+un petit instant
+
+612
+00:53:14,960 --> 00:53:16,019
+voilà
+
+613
+00:53:16,019 --> 00:53:18,079
+et voilà
+
+614
+00:53:18,079 --> 00:53:19,380
+alors
+
+615
+00:53:19,380 --> 00:53:22,200
+parce que ça normalement
+
+616
+00:53:22,200 --> 00:53:24,420
+c'est quelque chose que j'avais enlevé
+
+617
+00:53:24,420 --> 00:53:25,960
+le numéro 6 ici
+
+618
+00:53:25,960 --> 00:53:27,579
+je vous explique
+
+619
+00:53:27,579 --> 00:53:30,420
+moi j'extrais le plan
+
+620
+00:53:30,420 --> 00:53:32,319
+de Word, c'est à dire que je prends mon machin Word
+
+621
+00:53:32,319 --> 00:53:33,940
+et il y a une fonctionnalité dans Word
+
+622
+00:53:33,940 --> 00:53:35,599
+qui extrait le plan
+
+623
+00:53:35,599 --> 00:53:37,679
+et ce machin là je l'avais enlevé
+
+624
+00:53:37,679 --> 00:53:40,559
+parce qu'on conservait ça uniquement pour la conformité
+
+625
+00:53:40,559 --> 00:53:41,179
+avec Calliope
+
+626
+00:53:41,179 --> 00:53:42,400
+normalement
+
+627
+00:53:42,400 --> 00:53:46,119
+on devait passer directement au 7
+
+628
+00:53:46,119 --> 00:53:47,099
+qui est ici
+
+629
+00:53:47,099 --> 00:53:49,420
+et j'avais enlevé le 6
+
+630
+00:53:49,420 --> 00:53:51,500
+et j'ai un petit problème dans mon copier-coller
+
+631
+00:53:51,500 --> 00:53:53,340
+donc ça je l'enlèverai
+
+632
+00:53:53,340 --> 00:53:56,039
+de ce PDF
+
+633
+00:53:56,039 --> 00:54:22,199
+C'est pour ça. Alors, quelles sont les bonnes pratiques pour éviter les discriminations involontaires ? Parce qu'il est évident que les discriminations volontaires, on les comprend tous, on les identifie tous et on n'a aucun mal à dire « ça, on ne fait pas et on ne mène pas telle action ».
+
+634
+00:54:22,199 --> 00:54:36,199
+Par contre, les discriminations involontaires, telles qu'elles ont été introduites par la notion de discrimination indirecte par la directive européenne de 2008, c'est beaucoup plus compliqué.
+
+635
+00:54:37,919 --> 00:54:48,339
+Alors, on va rentrer dans des notions qui peuvent vous sembler un peu wokistes, wokisantes, mais soyons clairs, quand on parle de discrimination, on est obligé d'aller sur ce terrain.
+
+636
+00:54:48,340 --> 00:54:51,000
+donc je vais vous demander d'être un petit peu
+
+637
+00:54:51,000 --> 00:54:54,559
+les plus anti-walkistes d'entre vous
+
+638
+00:54:54,559 --> 00:54:57,460
+c'est un mauvais moment qui va vite passer
+
+639
+00:54:57,460 --> 00:54:59,640
+soyez tranquilles
+
+640
+00:54:59,640 --> 00:55:02,940
+alors les discriminations involontaires
+
+641
+00:55:02,940 --> 00:55:04,519
+sont souvent le résultat
+
+642
+00:55:04,519 --> 00:55:09,000
+et c'est là qu'on arrive dans un terrain un peu meuble
+
+643
+00:55:09,000 --> 00:55:13,340
+de biais inconscients ou de pratiques mal calibrées
+
+644
+00:55:13,340 --> 00:55:15,740
+qui constituent un risque significatif
+
+645
+00:55:15,740 --> 00:55:17,460
+pour les professionnels de l'immobilier
+
+646
+00:55:17,460 --> 00:55:37,119
+« Afin de prévenir ces comportements, il est impératif de mettre en œuvre de bonnes pratiques strictement conformes aux cadres législatifs et réglementaires, en particulier le Code pénal, en ces articles 225, 1 à 4, et la loi du 6 juillet 1989. »
+
+647
+00:55:37,119 --> 00:55:43,199
+Bon, on est un peu dans le politiquement correct, mais on n'a pas le choix.
+
+648
+00:55:43,460 --> 00:55:45,859
+Ça fait partie de ce qui est imposé aujourd'hui.
+
+649
+00:55:46,299 --> 00:55:52,039
+C'est-à-dire que nous devons, vous devez vous interroger sur vos biais inconscients.
+
+650
+00:55:52,940 --> 00:55:54,239
+Ça veut dire quoi ?
+
+651
+00:55:54,239 --> 00:56:02,279
+Ça veut dire que malgré nous, en dépit de notre propre volonté,
+
+652
+00:56:02,280 --> 00:56:04,680
+nous devons considérer
+
+653
+00:56:04,680 --> 00:56:06,720
+que nous sommes
+
+654
+00:56:06,720 --> 00:56:08,100
+quand même un peu coupables
+
+655
+00:56:08,100 --> 00:56:08,840
+et nous
+
+656
+00:56:08,840 --> 00:56:12,440
+avons des pratiques
+
+657
+00:56:12,440 --> 00:56:14,300
+discriminatoires
+
+658
+00:56:14,300 --> 00:56:16,060
+même sans le vouloir
+
+659
+00:56:16,060 --> 00:56:18,640
+c'est pour ça que vous disiez qu'on allait marcher
+
+660
+00:56:18,640 --> 00:56:20,460
+un petit peu sur les plates-bandes du wokisme
+
+661
+00:56:20,460 --> 00:56:22,720
+et du
+
+662
+00:56:22,720 --> 00:56:24,580
+politiquement correct parce que je pense
+
+663
+00:56:24,580 --> 00:56:26,519
+qu'il y en a un paquet d'entre vous qui sont en train de bondir
+
+664
+00:56:26,519 --> 00:56:28,660
+sur leur chaise en se
+
+665
+00:56:28,660 --> 00:56:30,580
+disant qu'est-ce que c'est
+
+666
+00:56:30,580 --> 00:56:31,100
+que cette connerie
+
+667
+00:56:31,099 --> 00:56:40,719
+Bon, on doit en passer par là, accrochez-vous. Donc, quelles sont les mesures de prévention clés que nous devons mettre en œuvre ?
+
+668
+00:56:40,719 --> 00:56:55,980
+Tout d'abord, nous devons, vous, c'est-à-dire vous, nos collaborateurs, vous sensibiliser au bien-conscient, c'est-à-dire à l'idée, au concept selon lequel, même sans le vouloir, même sans vous apercevoir,
+
+669
+00:56:55,980 --> 00:56:57,780
+vous avez, nous avons
+
+670
+00:56:57,780 --> 00:57:00,099
+très certainement, si on nous le dit
+
+671
+00:57:00,099 --> 00:57:01,019
+c'est que ça doit être vrai
+
+672
+00:57:01,019 --> 00:57:02,579
+des
+
+673
+00:57:02,579 --> 00:57:05,940
+biais qui nous poussent
+
+674
+00:57:05,940 --> 00:57:08,320
+à avoir des comportements discriminatoires
+
+675
+00:57:08,320 --> 00:57:09,240
+même
+
+676
+00:57:09,240 --> 00:57:11,840
+malgré nous, nous devons faire
+
+677
+00:57:11,840 --> 00:57:14,059
+cette espèce d'introspection, aller regarder
+
+678
+00:57:14,059 --> 00:57:15,599
+à l'intérieur de notre âme
+
+679
+00:57:15,599 --> 00:57:17,920
+si on n'a pas des comportements
+
+680
+00:57:17,920 --> 00:57:20,139
+discriminatoires, sans même y penser
+
+681
+00:57:20,139 --> 00:57:21,980
+à l'insu de notre plein gré
+
+682
+00:57:21,980 --> 00:57:23,320
+aurait dit Richard Virenque
+
+683
+00:57:23,320 --> 00:57:25,460
+lorsqu'il s'est dopé
+
+684
+00:57:25,460 --> 00:57:27,079
+pour le Tour de France.
+
+685
+00:57:28,639 --> 00:57:33,639
+Donc, nous devons nous attacher à toujours appliquer
+
+686
+00:57:33,639 --> 00:57:38,679
+de manière extrêmement stricte des critères purement objectifs.
+
+687
+00:57:38,800 --> 00:57:42,519
+Nous devons limiter l'évaluation de nos candidats locataires
+
+688
+00:57:42,519 --> 00:57:48,940
+ou acquéreurs à des critères légaux, vérifiables, justifiables
+
+689
+00:57:48,940 --> 00:57:52,360
+et démontrables, tels que les ressources financières,
+
+690
+00:57:52,360 --> 00:58:10,680
+La capacité à honorer les obligations contractuelles ou l'absence de litiges passés analogues. Nous devons également maintenir une traçabilité et une documentation complète concernant les éventuelles décisions de refus,
+
+691
+00:58:10,679 --> 00:58:19,539
+en conservant tous les documents susceptibles de prouver, démontrer
+
+692
+00:58:19,539 --> 00:58:23,960
+les justifications qui nous ont poussé à prendre telle ou telle décision.
+
+693
+00:58:25,039 --> 00:58:29,399
+En 2022 à Lille, une agence immobilière a mis en place un système de scoring
+
+694
+00:58:29,399 --> 00:58:34,299
+basé uniquement sur des critères objectifs tels que le revenu
+
+695
+00:58:34,299 --> 00:58:38,259
+et la stabilité professionnelle, ce qui a permis de réduire les litiges
+
+696
+00:58:38,259 --> 00:58:40,079
+liés à des accusations de discrimination.
+
+697
+00:58:40,679 --> 00:59:08,339
+Alors ce n'était pas une agence immobilière, c'était un réseau, c'était Foncia également, qui à la suite des condamnations qu'il y avait eu il y a une dizaine d'années, a été obligé, parce que vous savez Foncia c'est un petit peu les leaders de la location et de la gestion locative en France, qui avait été obligé d'introduire dans les logiciels utilisés par ses collaborateurs, et ça a commencé par Lille, il y a plusieurs agences Foncia à Lille et dans la région,
+
+698
+00:59:08,340 --> 00:59:14,960
+un système qui permettait d'attribuer un certain nombre de points sur chaque critère objectif,
+
+699
+00:59:14,960 --> 00:59:21,980
+c'est-à-dire que tel revenu par rapport à tel loyer, c'est-à-dire un revenu qui représente 5 fois le loyer,
+
+700
+00:59:22,440 --> 00:59:29,820
+apporte un certain nombre de points, alors qu'un revenu qui représente 3 fois 0,5 le loyer apporte tel autre nombre de points.
+
+701
+00:59:30,220 --> 00:59:37,400
+La stabilité professionnelle basée sur le fait qu'on soit en CDI depuis un certain nombre d'années apporte un certain nombre de points,
+
+702
+00:59:37,400 --> 00:59:48,720
+ce qui permettait de dire objectivement, sans se faire accuser d'avoir choisi les gens sur des critères consciemment ou inconsciemment discriminatoires,
+
+703
+00:59:48,820 --> 00:59:58,440
+de dire, ben non, regardez, tel candidat locataire, lui, il vaut 42 points, alors que tel autre candidat locataire, lui, il vaut 33 points.
+
+704
+00:59:59,180 --> 01:00:04,400
+Pourquoi 42 points et pas 33 ? Parce que lui, il est en CDI depuis 15 ans et sa femme est fonctionnaire.
+
+705
+01:00:04,400 --> 01:00:33,119
+Alors que le deuxième, il est en CDI depuis trois ans et sa femme est en CDD. Donc, le couple n'a pas la même stabilité professionnelle et le même revenu, etc. Donc, le score est objectivement plus élevé. Ça n'est pas moi, l'agent immobilier, qui ai décidé que ce candidat était meilleur que tel autre candidat. Donc, ne nous accusez pas de discrimination. Tout cela n'est qu'objectif justifiable.
+
+706
+01:00:33,119 --> 01:00:59,219
+En fait, la lutte contre les discriminations, ça n'est pas un problème, ça c'est normal. Le problème, c'est que l'obligation de la sensibilisation au bien conscient, c'est un petit peu considérer que même sans le vouloir, nous sommes de toute manière tous coupables et nous devons garder en tête de nous innocenter.
+
+707
+01:00:59,219 --> 01:01:02,579
+C'est un petit peu le principe de la loi des suspects sous la terreur.
+
+708
+01:01:03,299 --> 01:01:07,419
+Tout le monde est suspect, tout le monde est coupable de ne pas être suffisamment révolutionnaire.
+
+709
+01:01:08,500 --> 01:01:11,980
+Alors, la rédaction des annonces.
+
+710
+01:01:16,319 --> 01:01:17,799
+On a quitté la partie wokiska.
+
+711
+01:01:18,259 --> 01:01:19,779
+Tout va bien, vous avez vu, ça s'est bien passé.
+
+712
+01:01:20,419 --> 01:01:24,619
+Personne ne s'est évanoui en cours de route.
+
+713
+01:01:25,500 --> 01:01:28,219
+La rédaction des annonces neutres et non discriminatoires.
+
+714
+01:01:28,219 --> 01:01:56,359
+Comment devons-nous nous y prouver ? Les annonces immobilières, vous le savez, c'est un élément crucial, central de l'accès au logement parce que c'est la porte d'entrée vers le logement lui-même. Elles doivent être absolument vierges, neutres et exemples de tout biais discriminatoire conscient ou inconscient, conformément à l'article 1er de la loi de 89 et au décret de 2015 relatif à la déontologie.
+
+715
+01:01:56,360 --> 01:02:22,820
+Les critères à respecter et à favoriser dans les annonces sont une grande neutralité dans les termes utilisés. Nous devons éviter les formulations excluant implicitement ou explicitement certains candidats. Par exemple, les mentions idéales pour jeunes couples sont à proscrire. Convient uniquement à une personne seule, sont à proscrire.
+
+716
+01:02:22,820 --> 01:02:32,580
+Nous devons nous focaliser exclusivement sur les caractéristiques objectives du bien.
+
+717
+01:02:32,580 --> 01:02:38,900
+Quelle est la superficie, le prix, la localisation, les équipements ? On ne
+
+718
+01:02:38,900 --> 01:02:45,320
+doit jamais évoquer de conditions relatives à l'acquéreur ou au locataire. Donc on présente
+
+719
+01:02:45,320 --> 01:02:53,059
+une maison, un appartement, un terrain. Nous ne parlons que de cette maison, de cet appartement,
+
+720
+01:02:53,059 --> 01:03:00,320
+de ce terrain et nous ne parlons pas de qui pourrait l'acheter ou qui ne pourrait pas,
+
+721
+01:03:00,320 --> 01:03:08,240
+ne devrait pas l'acheter. Même si en fait, et je suis sûr que là si je vais sur Eglantine et que
+
+722
+01:03:08,240 --> 01:03:14,840
+je regarde un certain nombre de vos actions, je verrai un grand nombre d'annonces dans
+
+723
+01:03:14,840 --> 01:03:19,280
+lesquelles vous avez écrit idéal pour telle personne idéal pour investisseurs il ya parce
+
+724
+01:03:19,280 --> 01:03:24,200
+que c'est logique d'un point de vue commercial c'est assez légitime et bien ces pratiques là
+
+725
+01:03:24,200 --> 01:03:31,640
+bien sûr sont à proscrire nous le voyons et nous devons nous cons nous contenter de dire que c'est
+
+726
+01:03:31,640 --> 01:03:43,500
+une grande maison de 150 mètres carrés avec un grand jardin et avec cinq chambres sans imaginer
+
+727
+01:03:43,500 --> 01:03:49,260
+que ça pourrait convenir à une famille parce que ça c'est très très très mal c'est très violent
+
+728
+01:03:49,260 --> 01:03:57,179
+voici un exemple d' annonce absolument neutre appartement t3 65 mètres carrés centre ville
+
+729
+01:03:57,179 --> 01:04:03,440
+proche des commerces et transports disponible immédiatement le prix alors venir c'est un peu
+
+730
+01:04:03,440 --> 01:04:09,500
+triste c'est pas très commercial on n'est pas prêt de vendre avec ça c'est vrai mais c'est ce
+
+731
+01:04:09,500 --> 01:04:11,219
+c'est ce qu'il faudrait faire dans l'idéal.
+
+732
+01:04:11,940 --> 01:04:15,360
+Bon, dans les faits, on peut se permettre d'être un petit peu plus créatif,
+
+733
+01:04:15,760 --> 01:04:18,280
+on peut se permettre d'écrire quelque chose d'un petit peu plus joli.
+
+734
+01:04:18,280 --> 01:04:20,719
+Alors, vous savez que moi, je vous ai toujours recommandé
+
+735
+01:04:20,719 --> 01:04:23,320
+de ne pas faire du Baudelaire de prise unique,
+
+736
+01:04:23,719 --> 01:04:30,320
+à vous lancer dans des rédactions un peu pompeuses, un peu ronflantes.
+
+737
+01:04:31,159 --> 01:04:35,019
+Moi, je pense qu'une petite annonce, pour être efficace,
+
+738
+01:04:35,579 --> 01:04:37,760
+doit être aussi courte que possible.
+
+739
+01:04:39,500 --> 01:04:48,619
+Tout en donnant les caractéristiques du bien objective, en donnant toutes les caractéristiques utiles et ne pas rajouter de fioritures.
+
+740
+01:04:48,619 --> 01:04:52,300
+Parce que je pense qu'elles ne sont pas lues et ça fait fuir les acquéreurs.
+
+741
+01:04:52,579 --> 01:05:00,519
+Mais on n'est pas obligé non plus de transformer nos annonces en articles du Code des impôts, je pense.
+
+742
+01:05:02,039 --> 01:05:06,019
+2021 à Paris, une agence a été condamnée pour avoir utilisé l'expression…
+
+743
+01:05:06,019 --> 01:05:08,780
+Quand j'ai vu ça, je me suis dit
+
+744
+01:05:08,780 --> 01:05:10,440
+C'est pas possible d'être con à ce point quand même
+
+745
+01:05:10,440 --> 01:05:13,340
+En 2021 à Paris, une agence a été condamnée
+
+746
+01:05:13,340 --> 01:05:14,460
+Pour avoir utilisé l'expression
+
+747
+01:05:14,460 --> 01:05:17,659
+Pas d'étranger dans une annonce en ligne
+
+748
+01:05:17,659 --> 01:05:19,840
+Le tribunal correctionnel
+
+749
+01:05:19,840 --> 01:05:21,000
+A retenu l'infraction
+
+750
+01:05:21,000 --> 01:05:23,280
+Et a condamné l'amende à 12 000 euros
+
+751
+01:05:23,280 --> 01:05:25,460
+A condamné l'agence
+
+752
+01:05:25,460 --> 01:05:26,400
+A 12 000 euros d'amende
+
+753
+01:05:26,400 --> 01:05:29,519
+Vous me direz, lui il la mérite son amende quand même
+
+754
+01:05:29,519 --> 01:05:31,800
+Être con et idiot
+
+755
+01:05:31,800 --> 01:05:33,460
+Et bête au point d'écrire
+
+756
+01:05:33,460 --> 01:05:35,099
+Pas d'étranger dans une annonce en ligne
+
+757
+01:05:35,099 --> 01:05:38,039
+franchement il mérite son amende
+
+758
+01:05:38,039 --> 01:05:39,139
+mais vous voyez bien
+
+759
+01:05:39,139 --> 01:05:41,440
+c'est pas pour rien que j'ai mis cet exemple
+
+760
+01:05:41,440 --> 01:05:42,279
+à cet endroit là
+
+761
+01:05:42,279 --> 01:05:44,500
+vous voyez bien la différence entre
+
+762
+01:05:44,500 --> 01:05:46,440
+pas d'étranger et
+
+763
+01:05:46,440 --> 01:05:48,719
+maison familiale
+
+764
+01:05:48,719 --> 01:05:51,559
+c'est dans un cas
+
+765
+01:05:51,559 --> 01:05:53,480
+on est bien évidemment
+
+766
+01:05:53,480 --> 01:05:54,799
+dans une discrimination
+
+767
+01:05:54,799 --> 01:05:56,900
+dans une bêtise crasse
+
+768
+01:05:56,900 --> 01:05:59,579
+dans l'autre cas on voit que c'est une grande maison
+
+769
+01:05:59,579 --> 01:06:01,239
+qui bien évidemment
+
+770
+01:06:01,239 --> 01:06:03,019
+est prévue pour une famille
+
+771
+01:06:03,019 --> 01:06:06,199
+et qui, bien évidemment, conviendraient à une famille.
+
+772
+01:06:06,480 --> 01:06:08,659
+Mais on n'interdit pas à un célibataire de l'acheter.
+
+773
+01:06:09,259 --> 01:06:10,039
+Absolument pas.
+
+774
+01:06:10,300 --> 01:06:12,119
+On n'interdit à personne de venir.
+
+775
+01:06:12,639 --> 01:06:13,259
+C'est évident.
+
+776
+01:06:15,420 --> 01:06:25,800
+Alors, nous devons également pratiquer une sensibilisation active de nos mandants,
+
+777
+01:06:25,800 --> 01:06:28,619
+qu'il s'agisse des propriétaires ou des bailleurs.
+
+778
+01:06:28,619 --> 01:06:34,019
+Les mandants, ceux qui nous confient les mandats, en tant que parties directement impliquées
+
+779
+01:06:34,019 --> 01:06:40,039
+dans la sélection des locataires ou des acquéreurs, doivent être informés de leurs obligations
+
+780
+01:06:40,039 --> 01:06:41,039
+légales.
+
+781
+01:06:41,039 --> 01:06:46,059
+N'oubliez pas ce que nous avons dit un grand nombre de fois, nous avons une obligation,
+
+782
+01:06:46,059 --> 01:06:49,259
+un devoir de conseil et d'information.
+
+783
+01:06:49,260 --> 01:07:14,860
+Alors, un vendeur qui adopterait un comportement ouvertement discriminatoire, pas nous, lui, qui porterait préjudice à un acquéreur par exemple, pourrait, lorsqu'il est attaqué en justice par l'acquéreur, nous reprocher à nous de ne pas lui avoir dit qu'il n'avait pas le droit de fermer la porte à telle population pour telle et telle raison.
+
+784
+01:07:14,860 --> 01:07:44,840
+Ils pourraient dire « Ah ben non, c'est peut-être à l'agent immobilier de me mettre en garde. Comment voulez-vous que je le sache, moi ? Si je m'adresse à un professionnel, c'est pour qu'il me protège de ce genre d'avatar. »
+
+785
+01:07:44,840 --> 01:07:49,760
+c'était à l'agence immobilière de me préserver de cette obligation.
+
+786
+01:07:52,039 --> 01:07:56,840
+Donc, nous devons fournir des informations, des guides pratiques,
+
+787
+01:07:57,360 --> 01:08:01,240
+entre guillemets des formations sur les critères de sélection licites,
+
+788
+01:08:01,620 --> 01:08:05,660
+légaux, autorisés, et sur les sanctions encourues en cas de discrimination.
+
+789
+01:08:06,340 --> 01:08:10,380
+Nous devons, auprès des propriétaires, insister sur l'importance
+
+790
+01:08:10,380 --> 01:08:12,400
+de l'égalité de traitement dans l'accès au logement,
+
+791
+01:08:12,400 --> 01:08:14,720
+insister sur l'importance
+
+792
+01:08:14,720 --> 01:08:16,739
+d'ouvrir les portes de la maison et de l'appartement
+
+793
+01:08:16,739 --> 01:08:17,940
+à tout le monde
+
+794
+01:08:17,940 --> 01:08:20,100
+sans distinction
+
+795
+01:08:20,100 --> 01:08:21,319
+aucune
+
+796
+01:08:21,319 --> 01:08:24,420
+il est également conseillé
+
+797
+01:08:24,420 --> 01:08:26,659
+d'inclure des clauses
+
+798
+01:08:26,659 --> 01:08:28,640
+spécifiques dans les mandats de vente et de
+
+799
+01:08:28,640 --> 01:08:30,440
+location, des clauses
+
+800
+01:08:30,440 --> 01:08:32,819
+stipulant que le propriétaire s'engage
+
+801
+01:08:32,819 --> 01:08:34,220
+à respecter les dispositions
+
+802
+01:08:34,220 --> 01:08:36,779
+antidiscriminatoires sous peine
+
+803
+01:08:36,779 --> 01:08:38,239
+de résiliation du mandat
+
+804
+01:08:38,239 --> 01:08:40,680
+ça c'est une recommandation que j'ai prise sur le site
+
+805
+01:08:40,680 --> 01:08:41,440
+de la FNAIM
+
+806
+01:08:41,439 --> 01:08:44,259
+je suis un petit peu
+
+807
+01:08:44,259 --> 01:08:44,859
+circonspect
+
+808
+01:08:44,859 --> 01:08:47,139
+c'est la FNAIM
+
+809
+01:08:47,139 --> 01:08:49,500
+au cours de la préparation de cette visioconférence
+
+810
+01:08:49,500 --> 01:08:51,759
+j'ai pris ça sur le site de la FNAIM
+
+811
+01:08:51,759 --> 01:08:52,439
+ça me semble
+
+812
+01:08:52,439 --> 01:08:55,519
+la formation des propriétaires aussi
+
+813
+01:08:55,519 --> 01:08:57,899
+j'ai pris sur la FNAIM
+
+814
+01:08:57,899 --> 01:08:59,179
+ça me semble quand même
+
+815
+01:08:59,179 --> 01:09:02,219
+pas la meilleure idée
+
+816
+01:09:02,219 --> 01:09:04,259
+qu'on puisse avoir
+
+817
+01:09:04,259 --> 01:09:06,519
+je discutais avec Xavier
+
+818
+01:09:06,519 --> 01:09:07,419
+il y a deux jours
+
+819
+01:09:07,419 --> 01:09:09,559
+des mandats chez 3G Immobilier
+
+820
+01:09:09,560 --> 01:09:17,420
+dans lesquelles ils indiquent que les vendeurs, les mandants, doivent transmettre leur fiche d'imposition.
+
+821
+01:09:18,460 --> 01:09:20,840
+Et on se disait que ce n'était certainement pas une super idée,
+
+822
+01:09:21,820 --> 01:09:27,080
+parce que je ne vois pas comment les mandants vont accepter de fournir leur fiche d'imposition à un agent immobilier
+
+823
+01:09:27,080 --> 01:09:29,020
+rien que lors de la signature du mandat de vente.
+
+824
+01:09:29,660 --> 01:09:34,300
+Là, c'est pareil. Je ne sais pas si c'est quelque chose de très malin, de très pertinent.
+
+825
+01:09:35,140 --> 01:09:37,960
+C'est en tout cas une recommandation de la FNAIM.
+
+826
+01:09:38,699 --> 01:09:43,340
+Soyons clairs, la FNAIM recommande ça pour elle-même se protéger.
+
+827
+01:09:44,439 --> 01:09:50,100
+Pour que lorsqu'il y aura un souci, lorsqu'un agent immobilier FNAIM sera au tribunal pour je ne sais pas quelle affaire,
+
+828
+01:09:50,100 --> 01:09:54,840
+la FNAIM pourra dire « Ah, mais nous avions recommandé le contraire ! »
+
+829
+01:09:54,840 --> 01:09:57,039
+C'est ce qu'on appelle un parapluie de responsabilité.
+
+830
+01:09:59,119 --> 01:10:02,100
+Ensuite, dernière chose, médiation accompagnement.
+
+831
+01:10:02,100 --> 01:10:06,120
+nous devons accompagner les mandants dans l'évaluation des dossiers
+
+832
+01:10:06,120 --> 01:10:10,579
+pour garantir une sélection fondée uniquement sur des critères objectifs.
+
+833
+01:10:10,700 --> 01:10:11,740
+Alors ça, c'est ce qu'on fait tous les jours.
+
+834
+01:10:12,960 --> 01:10:17,539
+Tous les jours, nous conseillons le vendeur ou le propriétaire bailleur
+
+835
+01:10:17,539 --> 01:10:21,200
+dans le cadre d'une location sur la manière dont on doit éventuellement
+
+836
+01:10:21,200 --> 01:10:24,480
+sélectionner les candidats et les offres.
+
+837
+01:10:24,880 --> 01:10:28,180
+Alors pour nous, c'est relativement simple parce que c'est sur des critères
+
+838
+01:10:28,180 --> 01:10:28,980
+purement objectifs.
+
+839
+01:10:28,980 --> 01:10:32,079
+Qui peut payer, qui ne peut pas payer, qui fait la meilleure offre.
+
+840
+01:10:32,100 --> 01:10:37,280
+dans le cadre de la location, c'est beaucoup plus subjectif.
+
+841
+01:10:39,420 --> 01:10:43,200
+En 2020, à Lyon, un agent immobilier a résilié le mandat
+
+842
+01:10:43,200 --> 01:10:46,060
+qui lui avait été confié par un propriétaire, c'était un mandat de location,
+
+843
+01:10:47,000 --> 01:10:52,160
+lorsque le propriétaire a explicitement demandé que seul des locataires français soient acceptés.
+
+844
+01:10:52,820 --> 01:10:57,140
+Le tribunal administratif, saisi par l'agent, a confirmé la légalité de cette résiliation,
+
+845
+01:10:57,140 --> 01:11:00,920
+considérant que le mandant avait manqué à son obligation
+
+846
+01:11:00,920 --> 01:11:03,220
+de respecter la législation contre la discrimination.
+
+847
+01:11:04,300 --> 01:11:05,900
+Ça, je ne pense pas que ce soit une mauvaise idée.
+
+848
+01:11:06,320 --> 01:11:07,820
+Alors, je ne suis pas du tout en train de dire
+
+849
+01:11:07,820 --> 01:11:10,300
+que nous devons nous transformer en chevaliers blancs
+
+850
+01:11:10,300 --> 01:11:12,800
+et que nous devons nous assigner la mission
+
+851
+01:11:12,800 --> 01:11:15,200
+de faire cesser toutes les discriminations sur la Terre.
+
+852
+01:11:15,660 --> 01:11:17,200
+Ce n'est pas notre métier, ce n'est pas notre mission,
+
+853
+01:11:17,320 --> 01:11:18,060
+ce n'est pas notre job.
+
+854
+01:11:18,180 --> 01:11:19,320
+Si nous avons envie de faire ça,
+
+855
+01:11:19,740 --> 01:11:22,440
+nous devons nous impliquer dans des associations
+
+856
+01:11:22,440 --> 01:11:25,640
+œuvrant à la lutte contre les discriminations,
+
+857
+01:11:25,820 --> 01:11:27,039
+non pas à titre professionnel,
+
+858
+01:11:27,140 --> 01:11:51,780
+Par contre, on comprend bien, de manière purement objective et rationnelle, qu'un propriétaire, un vendeur qui nous imposerait tel ou tel type de candidat, de manière évidente, il nous empêche de faire notre travail. Parce que nous, on ne pourra pas et on ne fera pas de discrimination dans la sélection des candidats. Donc, tout simplement, cher monsieur, on ne peut pas vous aider.
+
+859
+01:11:51,779 --> 01:12:01,880
+C'est vrai, moi je vais aller chercher des acquéreurs qui soient maghrébins, homosexuels, catholiques, gros ou chauves, je m'en fous moi.
+
+860
+01:12:02,079 --> 01:12:08,800
+Tout ce que je veux c'est que ce soit des acquéreurs qui sont objectivement solvables et qu'ils aient envie d'acheter votre maison.
+
+861
+01:12:10,099 --> 01:12:20,380
+Si vous me demandez qu'en plus de la solvabilité et de leur volonté d'acheter votre maison, il faut qu'ils soient comme ci et surtout pas comme ça, moi je ne vais pas pouvoir travailler, je ne vais pas pouvoir faire mon boulot, ce n'est pas la peine.
+
+862
+01:12:20,380 --> 01:12:37,119
+Vous savez, c'est un petit peu comme cet exemple que je prends régulièrement, qui n'a rien à voir avec les discriminations, mais du vendeur qui vous dit, d'accord, je vous signe un mandat de vente, je vous autorise à commercialiser mon bien, mais attention, pas de publicité, je ne veux pas de petite annonce sur le bon point.
+
+863
+01:12:37,119 --> 01:12:39,099
+ah bah écoutez monsieur je peux pas travailler
+
+864
+01:12:39,099 --> 01:12:40,599
+je peux pas, c'est pas possible
+
+865
+01:12:40,599 --> 01:12:42,739
+vous me demandez quelque chose que je ne peux pas faire
+
+866
+01:12:42,739 --> 01:12:44,099
+parce que moi mon travail justement
+
+867
+01:12:44,099 --> 01:12:47,260
+ça consiste à passer des petites annonces au bon endroit
+
+868
+01:12:47,260 --> 01:12:49,159
+pour aller chercher les bons acquéreurs là où il faut
+
+869
+01:12:49,159 --> 01:12:51,359
+si vous m'interdisez de passer des petites annonces
+
+870
+01:12:51,359 --> 01:12:53,399
+ou alors de diffuser des photos
+
+871
+01:12:53,399 --> 01:12:54,819
+de votre maison, ça arrive parfois
+
+872
+01:12:54,819 --> 01:12:56,720
+je ne peux pas faire mon travail
+
+873
+01:12:56,720 --> 01:12:59,140
+je ne pourrais pas
+
+874
+01:12:59,140 --> 01:13:00,159
+vendre votre maison
+
+875
+01:13:00,159 --> 01:13:02,479
+donc on résilie le mandat, c'est pas la peine
+
+876
+01:13:02,479 --> 01:13:04,979
+on travaille avec quelqu'un d'autre
+
+877
+01:13:04,979 --> 01:13:06,220
+mais pas avec moi
+
+878
+01:13:06,220 --> 01:13:08,860
+Je ne pourrai pas vous aider.
+
+879
+01:13:11,300 --> 01:13:13,480
+Alors, contrôle et sanctions applicables.
+
+880
+01:13:14,119 --> 01:13:15,980
+Je vais regarder s'il n'y a pas quelques questions.
+
+881
+01:13:16,840 --> 01:13:20,060
+Bien entendu, refuser un promoteur est une...
+
+882
+01:13:20,060 --> 01:13:20,880
+Ça, j'avais déjà lu.
+
+883
+01:13:21,860 --> 01:13:24,619
+Dans les AirBnB, c'est Christelle qui nous dit ça,
+
+884
+01:13:24,680 --> 01:13:27,260
+les animaux peuvent être interdits, cette partie d'immobilier
+
+885
+01:13:27,260 --> 01:13:30,079
+est-elle soumise aussi à la non-discrimination ?
+
+886
+01:13:30,079 --> 01:13:31,119
+Oui et non.
+
+887
+01:13:32,060 --> 01:13:33,940
+Alors, attention, attention.
+
+888
+01:13:36,220 --> 01:13:45,199
+Oui, les Airbnb, ce sont des prestataires de services.
+
+889
+01:13:46,260 --> 01:13:50,460
+Quelqu'un qui loue un appartement en Airbnb, c'est une prestation de services.
+
+890
+01:13:50,760 --> 01:13:57,659
+À ce titre, le service doit être ouvert à tous, sans discrimination aucune,
+
+891
+01:13:58,520 --> 01:14:03,740
+parmi les 25 critères de discrimination qu'on a vus au-dessus.
+
+892
+01:14:03,739 --> 01:14:06,319
+dans les 25 critères vous avez vu qu'il n'y avait pas écrit
+
+893
+01:14:06,319 --> 01:14:08,579
+les animaux, c'était pas écrit du tout
+
+894
+01:14:08,579 --> 01:14:10,479
+pourquoi est-ce que
+
+895
+01:14:10,479 --> 01:14:12,019
+les animaux peuvent
+
+896
+01:14:12,019 --> 01:14:14,599
+ne peuvent pas
+
+897
+01:14:14,599 --> 01:14:16,159
+faire l'objet
+
+898
+01:14:16,159 --> 01:14:17,699
+d'un refus de location
+
+899
+01:14:17,699 --> 01:14:19,979
+dans le cadre d'un bail civil
+
+900
+01:14:19,979 --> 01:14:21,699
+alors là on va élargir un petit peu
+
+901
+01:14:21,699 --> 01:14:23,439
+la chose pour répondre à la question
+
+902
+01:14:23,439 --> 01:14:24,840
+de Christelle
+
+903
+01:14:24,840 --> 01:14:27,539
+si jamais
+
+904
+01:14:27,539 --> 01:14:29,960
+je vous interdis
+
+905
+01:14:29,960 --> 01:14:32,019
+de louer l'appartement
+
+906
+01:14:32,019 --> 01:14:33,119
+que je vous propose
+
+907
+01:14:33,119 --> 01:14:34,920
+parce que vous avez des animaux
+
+908
+01:14:34,920 --> 01:14:41,380
+je vous interdis l'allocation
+
+909
+01:14:41,380 --> 01:14:43,840
+sur la foi d'un critère illicite
+
+910
+01:14:43,840 --> 01:14:45,300
+parce que je n'ai pas le droit
+
+911
+01:14:45,300 --> 01:14:46,920
+de vous interdire d'avoir des animaux
+
+912
+01:14:46,920 --> 01:14:49,220
+en dehors de mon appartement
+
+913
+01:14:49,220 --> 01:14:51,439
+il n'y a qu'une seule et unique
+
+914
+01:14:51,439 --> 01:14:53,439
+personne qui décide
+
+915
+01:14:53,439 --> 01:14:55,340
+si elle veut avoir un animal de compagnie
+
+916
+01:14:55,340 --> 01:14:56,720
+ou pas, c'est vous
+
+917
+01:14:56,720 --> 01:14:59,239
+de même qu'il n'y a personne qui décide
+
+918
+01:14:59,239 --> 01:15:01,159
+si vous avez le droit d'avoir des enfants ou pas
+
+919
+01:15:01,159 --> 01:15:03,559
+c'est vous, ce serait la même chose
+
+920
+01:15:03,559 --> 01:15:05,279
+si je disais attention moi je ne veux pas que vous ayez d'enfants
+
+921
+01:15:05,279 --> 01:15:07,420
+je ne peux pas vous interdire d'avoir des animaux
+
+922
+01:15:07,420 --> 01:15:09,539
+comme je ne peux pas vous interdire d'avoir des enfants
+
+923
+01:15:09,539 --> 01:15:11,159
+c'est la même chose
+
+924
+01:15:11,159 --> 01:15:13,500
+donc en disant que je
+
+925
+01:15:13,500 --> 01:15:15,460
+refuse des locataires qui
+
+926
+01:15:15,460 --> 01:15:16,899
+auraient des animaux
+
+927
+01:15:16,899 --> 01:15:19,260
+et bien de manière évidente
+
+928
+01:15:19,260 --> 01:15:21,659
+je vous barre
+
+929
+01:15:21,659 --> 01:15:23,500
+la porte sur
+
+930
+01:15:23,500 --> 01:15:25,359
+une demande
+
+931
+01:15:25,359 --> 01:15:27,119
+illicite, mais
+
+932
+01:15:27,119 --> 01:15:29,159
+mais mais mais
+
+933
+01:15:29,159 --> 01:15:31,599
+dans le cadre d'un Airbnb
+
+934
+01:15:31,599 --> 01:15:33,340
+il y a une différence
+
+935
+01:15:33,340 --> 01:15:35,239
+pourquoi ?
+
+936
+01:15:35,239 --> 01:15:37,119
+parce que c'est une prestation de service
+
+937
+01:15:37,119 --> 01:15:38,539
+c'est pas un bail civil
+
+938
+01:15:38,539 --> 01:15:40,680
+c'est pas un bail civil
+
+939
+01:15:40,680 --> 01:15:42,199
+c'est une prestation de service
+
+940
+01:15:42,199 --> 01:15:44,380
+vous savez c'est pas pour rien si les Airbnb
+
+941
+01:15:44,380 --> 01:15:47,699
+c'est sous le feu des critiques
+
+942
+01:15:47,699 --> 01:15:49,319
+et qu'il y a des
+
+943
+01:15:49,319 --> 01:15:51,399
+mairies qui les interdisent
+
+944
+01:15:51,399 --> 01:15:52,680
+d'autres qui ne les interdisent pas
+
+945
+01:15:52,680 --> 01:15:54,760
+d'autres mairies qui les laissent se produire
+
+946
+01:15:54,760 --> 01:15:56,939
+mais avec certaines conditions etc
+
+947
+01:15:56,939 --> 01:16:18,979
+C'est parce qu'on est dans une espèce d'entre-deux. Ce n'est pas un bail civil normal, c'est ce qu'on appelle un bail précaire, une location saisonnière. Mais dans un certain nombre de cas, on peut considérer qu'on est dans de l'hôtellerie. Et l'hôtellerie, c'est une prestation de service à laquelle vous pouvez appliquer des conditions restrictives.
+
+948
+01:16:18,979 --> 01:16:36,679
+Donc on n'est pas dans un bail, on est dans une prestation de service hôtelière. Donc ce n'est pas de la discrimination. Par contre, cette prestation de service hôtelière, comme toute prestation de service, ne peut en aucun cas laisser se produire des actions discriminatoires.
+
+949
+01:16:36,680 --> 01:16:57,659
+Par exemple, je fais du Airbnb, mais je n'accepte pas les homosexuels, par exemple. Absolument pas. Non, je n'accepte pas les Noirs, je n'accepte pas les Maghrébins, je n'accepte pas les femmes seules. Non, en aucun cas. Parce que là, c'est clairement une discrimination à l'accès à un service, éventuellement hôtelier.
+
+950
+01:16:57,659 --> 01:17:05,720
+donc voyez on est dans une espèce d'entre deux dans ce cas là car il nous dit idéal famille on
+
+951
+01:17:05,720 --> 01:17:13,779
+ne peut pas le mettre donc et bien c'est un petit peu ce que ce que ce que dans l'idéal on nous
+
+952
+01:17:13,779 --> 01:17:21,239
+interdit ray oui on nous interdit ray dans l'idéal de dire que tel bien est idéal pour une famille et
+
+953
+01:17:21,239 --> 01:17:27,019
+Et c'est là que je vous dis que c'est une vraie bêtise, c'est une vraie stupidité,
+
+954
+01:17:27,479 --> 01:17:29,819
+parce que quand on dit que c'est idéal pour une famille,
+
+955
+01:17:30,179 --> 01:17:32,699
+on n'est pas en train de dire que c'est interdit aux non-familles.
+
+956
+01:17:33,639 --> 01:17:39,760
+C'est pour ça que je vous disais, on va un petit peu sur un terrain un peu meuble,
+
+957
+01:17:40,500 --> 01:17:43,199
+un terrain un petit peu sable mouvant,
+
+958
+01:17:43,199 --> 01:17:49,699
+où on ne nous interdit pas seulement d'avoir des actions discriminatoires actives,
+
+959
+01:17:49,699 --> 01:18:11,079
+Et ça, c'est normal. Il est normal que nous n'écrivions pas dans nos annonces, ceci est interdit aux célibataires. C'est logique. Mais aller dire que ce produit, c'est vrai qu'il est parfaitement calibré pour une famille, ça n'est pas interdire aux non-familles de l'acheter.
+
+960
+01:18:11,460 --> 01:18:14,500
+Ça n'est pas dire au non-famille, je ne vous laisserai pas visiter.
+
+961
+01:18:14,920 --> 01:18:16,979
+Non, venez visiter aussi, vous êtes les bienvenus.
+
+962
+01:18:17,319 --> 01:18:19,500
+Ce n'est peut-être pas le bon produit pour vous, ça on va le voir ensemble.
+
+963
+01:18:19,819 --> 01:18:21,420
+Vous allez vous en apercevoir tout seul.
+
+964
+01:18:21,760 --> 01:18:25,920
+Vous allez en le visitant vous apercevoir que ça ne vous correspond pas nécessairement.
+
+965
+01:18:26,600 --> 01:18:28,319
+Mais vous pouvez acheter si vous voulez.
+
+966
+01:18:28,640 --> 01:18:31,340
+Moi je ne vous empêche pas, puis je serais même très content que vous l'achetiez,
+
+967
+01:18:31,439 --> 01:18:34,619
+parce que moi mes honoraires, qu'ils soient payés par un célibataire ou pour une famille,
+
+968
+01:18:34,619 --> 01:18:36,600
+je m'en fous un peu, l'argent n'a pas d'odeur.
+
+969
+01:18:36,600 --> 01:18:39,539
+donc dans l'idéal c'est un petit peu
+
+970
+01:18:39,539 --> 01:18:40,600
+ce qu'on essaye de nous
+
+971
+01:18:40,600 --> 01:18:43,240
+mettre sous la gorge comme couteau
+
+972
+01:18:43,240 --> 01:18:44,380
+Karine vous avez raison
+
+973
+01:18:44,380 --> 01:18:46,860
+on voudrait même nous interdire ça
+
+974
+01:18:46,860 --> 01:18:49,460
+je pense que c'est une stupidité sans nom
+
+975
+01:18:49,460 --> 01:18:50,320
+bon
+
+976
+01:18:50,320 --> 01:18:53,900
+restons relativement neutres
+
+977
+01:18:53,900 --> 01:18:54,820
+dans nos annonces
+
+978
+01:18:54,820 --> 01:18:58,060
+mais sachons quand même être créatifs
+
+979
+01:18:58,060 --> 01:18:59,560
+et les rédiger de manière
+
+980
+01:18:59,560 --> 01:19:00,579
+attrayante
+
+981
+01:19:00,579 --> 01:19:03,079
+Sandrine nous dit
+
+982
+01:19:03,079 --> 01:19:05,500
+j'ai eu le souci avec des vendeurs qui voulaient
+
+983
+01:19:05,500 --> 01:19:07,300
+m'imposer des critères pour trouver des acquéreurs
+
+984
+01:19:07,300 --> 01:19:09,619
+répondant à ces idées. J'ai refusé
+
+985
+01:19:09,619 --> 01:19:11,460
+après dialogue de prendre le
+
+986
+01:19:11,460 --> 01:19:13,300
+mandat. La vendeuse ne voulait pas de
+
+987
+01:19:13,300 --> 01:19:14,960
+noirs et pas de personnes avec enfants.
+
+988
+01:19:15,979 --> 01:19:17,340
+Bon, pas de personnes avec
+
+989
+01:19:17,340 --> 01:19:19,319
+enfants, je comprends, c'est de la saleté.
+
+990
+01:19:20,079 --> 01:19:21,359
+Je plaisante bien sûr.
+
+991
+01:19:21,500 --> 01:19:23,340
+Pour une maison avec quatre chambres, alors oui,
+
+992
+01:19:23,960 --> 01:19:25,220
+là on comprend bien la
+
+993
+01:19:25,220 --> 01:19:27,340
+connerie de la vendeuse
+
+994
+01:19:27,340 --> 01:19:29,319
+au-delà
+
+995
+01:19:29,319 --> 01:19:30,979
+d'être purement raciste.
+
+996
+01:19:32,880 --> 01:19:33,500
+Une maison
+
+997
+01:19:33,500 --> 01:19:35,380
+avec quatre chambres, il est évident que c'est une personne
+
+998
+01:19:35,380 --> 01:19:36,739
+qu'il y a des enfants qui vont venir l'acheter
+
+999
+01:19:36,739 --> 01:19:37,779
+qu'elle soit noire ou blanche
+
+1000
+01:19:37,779 --> 01:19:38,779
+donc
+
+1001
+01:19:38,779 --> 01:19:42,420
+vous avez eu raison
+
+1002
+01:19:42,420 --> 01:19:44,199
+parce que ça vous empêchait de travailler Sandrine
+
+1003
+01:19:44,199 --> 01:19:45,699
+vous n'auriez pas pu le vendre
+
+1004
+01:19:45,699 --> 01:19:47,960
+Annabelle nous dit pour les amoureux de la nature
+
+1005
+01:19:47,960 --> 01:19:50,539
+Annabelle là nous propose quelque chose
+
+1006
+01:19:50,539 --> 01:19:51,000
+quand même
+
+1007
+01:19:51,000 --> 01:19:53,880
+c'est assez intelligemment proposé
+
+1008
+01:19:53,880 --> 01:19:55,840
+pourquoi ?
+
+1009
+01:19:55,840 --> 01:19:57,619
+idéal pour les amoureux de la nature
+
+1010
+01:19:57,619 --> 01:20:00,739
+on discrimine qui là ?
+
+1011
+01:20:00,739 --> 01:20:01,659
+on discrimine personne
+
+1012
+01:20:01,659 --> 01:20:03,560
+est-ce que quelqu'un
+
+1013
+01:20:03,560 --> 01:20:05,520
+viendraient attaquer en disant
+
+1014
+01:20:05,520 --> 01:20:08,180
+vous interdisez à ceux qui n'aiment pas la nature
+
+1015
+01:20:08,180 --> 01:20:10,420
+c'est de la stupidité tout ça
+
+1016
+01:20:10,420 --> 01:20:11,420
+donc
+
+1017
+01:20:11,420 --> 01:20:14,660
+si on se place là dessus
+
+1018
+01:20:14,660 --> 01:20:15,860
+on peut se dire ah bah oui
+
+1019
+01:20:15,860 --> 01:20:18,539
+on n'a pas le droit non plus d'écrire pour les amoureux
+
+1020
+01:20:18,539 --> 01:20:20,840
+de la nature, qu'est ce que c'est que cette idiotie
+
+1021
+01:20:20,840 --> 01:20:22,020
+c'est évident
+
+1022
+01:20:22,020 --> 01:20:23,740
+Jérôme nous dit
+
+1023
+01:20:23,740 --> 01:20:25,500
+exemple idéal pour petits artisans
+
+1024
+01:20:25,500 --> 01:20:25,780
+oui
+
+1025
+01:20:25,780 --> 01:20:29,900
+c'est normal
+
+1026
+01:20:29,900 --> 01:20:32,520
+on a un produit
+
+1027
+01:20:32,520 --> 01:20:34,620
+dans lequel il y a un petit atelier
+
+1028
+01:20:34,620 --> 01:20:36,420
+qui était précédemment
+
+1029
+01:20:36,420 --> 01:20:38,440
+exploité par un artisan
+
+1030
+01:20:38,440 --> 01:20:40,760
+il s'était, on a déjà vu ça
+
+1031
+01:20:40,760 --> 01:20:42,600
+mille fois, il s'était
+
+1032
+01:20:42,600 --> 01:20:44,460
+organisé un petit atelier pour avoir son
+
+1033
+01:20:44,460 --> 01:20:45,860
+activité professionnelle
+
+1034
+01:20:45,860 --> 01:20:48,420
+il est évident que la personne qui viendra
+
+1035
+01:20:48,420 --> 01:20:50,440
+derrière elle va trouver un truc tout calibré
+
+1036
+01:20:50,440 --> 01:20:52,240
+pour un petit artisan, on peut dire que
+
+1037
+01:20:52,240 --> 01:20:54,460
+effectivement c'est idéal pour les petits
+
+1038
+01:20:54,460 --> 01:20:56,560
+artisans, dans l'absolu il ne faudrait pas
+
+1039
+01:20:56,560 --> 01:20:58,380
+parce qu'on considère que de manière implicite
+
+1040
+01:20:58,380 --> 01:21:00,380
+par une espèce de biais subjectif
+
+1041
+01:21:00,380 --> 01:21:02,400
+sans le vouloir mais en le voulant quand même
+
+1042
+01:21:02,399 --> 01:21:04,719
+on est en train d'interdire les non-artisans
+
+1043
+01:21:04,719 --> 01:21:06,920
+comme le dit Dominique, c'est pas intelligent du tout
+
+1044
+01:21:06,920 --> 01:21:08,539
+alors Marc nous dit
+
+1045
+01:21:08,539 --> 01:21:10,139
+on ne voit pas Eglantine ni l'annonce
+
+1046
+01:21:10,139 --> 01:21:12,319
+non j'ai parlé d'Eglantine, je ne l'ai jamais montré, c'est normal
+
+1047
+01:21:12,319 --> 01:21:14,219
+j'ai pas sorti Eglantine du tout
+
+1048
+01:21:14,219 --> 01:21:15,679
+donc vous ne ratez rien, promis
+
+1049
+01:21:15,679 --> 01:21:18,539
+Marjorie dit, moi je vais mettre interdit aux gosses
+
+1050
+01:21:18,539 --> 01:21:20,099
+moi je veux bien, vous savez je ne peux pas les blairer
+
+1051
+01:21:20,099 --> 01:21:20,579
+c'est celle-là
+
+1052
+01:21:20,579 --> 01:21:23,799
+moi ça me convient bien
+
+1053
+01:21:23,799 --> 01:21:25,799
+Johan nous dit
+
+1054
+01:21:25,799 --> 01:21:28,219
+étant propriétaire d'un gîte, j'interdis les animaux
+
+1055
+01:21:28,219 --> 01:21:30,019
+sur NBRB, ah mais pourquoi Johan
+
+1056
+01:21:30,019 --> 01:21:31,119
+pourquoi vous faites ça ?
+
+1057
+01:21:31,119 --> 01:21:33,439
+Pourquoi ? Mais pourquoi vous faites ça, Johan ?
+
+1058
+01:21:33,439 --> 01:21:34,279
+Moi, je vous aimais bien.
+
+1059
+01:21:35,300 --> 01:21:39,399
+Mais Johan, oh ben non, on s'entendait bien jusqu'à présent.
+
+1060
+01:21:39,720 --> 01:21:41,380
+Pourquoi vous faites ça ?
+
+1061
+01:21:41,380 --> 01:21:42,720
+J'interdis les animaux sur...
+
+1062
+01:21:42,720 --> 01:21:45,359
+Interdisez les enfants, c'est ça la saleté ?
+
+1063
+01:21:45,359 --> 01:21:48,140
+Les animaux...
+
+1064
+01:21:48,140 --> 01:21:50,559
+La plateforme propose l'interdiction.
+
+1065
+01:21:50,720 --> 01:21:52,760
+Oui, parce qu'en fait, c'est ce que je vous disais,
+
+1066
+01:21:53,579 --> 01:21:55,760
+on peut très bien considérer, dans un cas, quand ça nous arrange,
+
+1067
+01:21:55,760 --> 01:21:58,539
+que Airbnb, c'est de la location saisonnière,
+
+1068
+01:21:58,539 --> 01:22:00,340
+de la location de vacances
+
+1069
+01:22:00,340 --> 01:22:01,939
+de la location touristique
+
+1070
+01:22:01,939 --> 01:22:03,260
+donc c'est une forme de bail
+
+1071
+01:22:03,260 --> 01:22:06,300
+mais on peut très bien considérer, lorsque ça nous arrange
+
+1072
+01:22:06,300 --> 01:22:08,359
+qu'en fait non, il s'agit d'une prestation de service hôtelier
+
+1073
+01:22:08,359 --> 01:22:10,739
+c'est ce qui permet
+
+1074
+01:22:10,739 --> 01:22:12,220
+je vous disais, aux mairies de jouer un petit peu
+
+1075
+01:22:12,220 --> 01:22:14,199
+avec les règles qu'ils souhaitent
+
+1076
+01:22:14,199 --> 01:22:16,439
+sauf qu'un Airbnb, ils ont le droit de refuser
+
+1077
+01:22:16,439 --> 01:22:18,260
+des animaux comme les hôtels, ils font le nettoyage
+
+1078
+01:22:18,260 --> 01:22:20,420
+de leur logement et fournissent le linge
+
+1079
+01:22:20,420 --> 01:22:22,399
+oui, c'est exactement ça, absolument
+
+1080
+01:22:22,399 --> 01:22:26,039
+et il peut y avoir des allergènes
+
+1081
+01:22:26,039 --> 01:22:28,239
+alors pourquoi vous parlez des allergènes la Marjorie
+
+1082
+01:22:28,239 --> 01:22:31,599
+Si je dis dans l'annonce
+
+1083
+01:22:31,599 --> 01:22:33,039
+Idéal pour chambre d'hôte
+
+1084
+01:22:33,039 --> 01:22:35,319
+Est-ce discriminatoire ?
+
+1085
+01:22:35,319 --> 01:22:35,679
+Alors
+
+1086
+01:22:35,679 --> 01:22:39,119
+Je ne sais pas
+
+1087
+01:22:39,119 --> 01:22:43,079
+Je n'ai pas vu de condamnation
+
+1088
+01:22:43,079 --> 01:22:44,899
+Relative à la mention
+
+1089
+01:22:44,899 --> 01:22:46,340
+Idéal pour chambre d'hôte
+
+1090
+01:22:46,340 --> 01:22:48,920
+Vous comprenez bien
+
+1091
+01:22:48,920 --> 01:22:50,579
+Qu'avec ce genre de principe flou
+
+1092
+01:22:50,579 --> 01:22:52,300
+Ce genre de principe
+
+1093
+01:22:52,300 --> 01:22:53,219
+Avec une
+
+1094
+01:22:53,219 --> 01:22:57,139
+Interprétation très large
+
+1095
+01:22:57,140 --> 01:23:20,180
+En fait, on ne sait pas ce qui peut nous être reproché tant que ça ne nous a pas été reproché. Vous voyez ce que je veux dire. Donc, il est impossible de savoir si on nous interdirait ou pas d'écrire « idéal pour chambre d'hôte ».
+
+1096
+01:23:20,180 --> 01:23:37,680
+Est-ce que ça peut être considéré par quelqu'un comme discriminatoire et donc reconnu par une juridiction pénale, civile, administrative ou que sais-je encore comme discriminatoire ? On ne sait pas. Vous savez, quand on a un truc flou d'interprétation large, on peut essayer de mettre ce qu'on veut dedans. Après, on voit si ça passe ou si ça ne passe pas.
+
+1097
+01:23:37,680 --> 01:23:40,100
+c'est un tissu de bêtise
+
+1098
+01:23:40,100 --> 01:23:41,920
+pauvre de nous, c'est dans l'air du temps
+
+1099
+01:23:41,920 --> 01:23:43,380
+nous dit Karine, oui Karine a bien raison
+
+1100
+01:23:43,380 --> 01:23:46,280
+c'est la crétinerie dans l'air du temps
+
+1101
+01:23:46,280 --> 01:23:47,700
+il y a eu une autre crétinerie hier
+
+1102
+01:23:47,700 --> 01:23:49,579
+il y en aura une autre demain, c'est comme ça
+
+1103
+01:23:49,579 --> 01:23:51,539
+Johan dit
+
+1104
+01:23:51,539 --> 01:23:53,900
+ça pue, il faut nettoyer en parlant des animaux
+
+1105
+01:23:53,900 --> 01:23:55,220
+mais vous n'avez jamais eu d'enfant Johan
+
+1106
+01:23:55,220 --> 01:23:57,240
+parce que les enfants qui puent, il faut nettoyer derrière
+
+1107
+01:23:57,240 --> 01:23:58,420
+je peux vous en présenter un paquet
+
+1108
+01:23:58,420 --> 01:24:01,480
+moi j'interdis les enfants mais je l'accepte les animaux
+
+1109
+01:24:01,480 --> 01:24:02,880
+nous dit Karine, voilà
+
+1110
+01:24:02,880 --> 01:24:05,840
+on est sur la même longueur d'onde Karine et moi
+
+1111
+01:24:05,840 --> 01:24:07,360
+c'est une certitude
+
+1112
+01:24:07,359 --> 01:24:10,319
+un bien où il y a trop d'escaliers n'est pas possible
+
+1113
+01:24:10,319 --> 01:24:11,639
+pour les personnes d'un certain âge
+
+1114
+01:24:11,639 --> 01:24:14,239
+ça, ce que nous dit Dominique
+
+1115
+01:24:14,239 --> 01:24:16,099
+c'est très concret
+
+1116
+01:24:16,099 --> 01:24:17,739
+un bien
+
+1117
+01:24:17,739 --> 01:24:19,739
+avec plein d'escaliers
+
+1118
+01:24:19,739 --> 01:24:22,139
+de manière évidente, c'est pas prévu
+
+1119
+01:24:22,139 --> 01:24:24,319
+pour des personnes âgées qui ont du mal à se déplacer
+
+1120
+01:24:24,319 --> 01:24:26,359
+qui ont un déambulateur, c'est évident
+
+1121
+01:24:26,359 --> 01:24:28,519
+alors quelqu'un qui voudrait
+
+1122
+01:24:28,519 --> 01:24:30,339
+personne âgée venir acheter
+
+1123
+01:24:30,339 --> 01:24:32,239
+un bien avec plein d'escaliers, elle en a le droit
+
+1124
+01:24:32,239 --> 01:24:33,779
+on lui interdit pas
+
+1125
+01:24:33,779 --> 01:24:36,039
+on l'en empêche pas, par contre
+
+1126
+01:24:36,039 --> 01:24:38,960
+on est en droit de se dire, nous, dans notre fort intérieur,
+
+1127
+01:24:39,140 --> 01:24:44,539
+que c'est peut-être mieux d'avoir un plein pied quand on est très vieux
+
+1128
+01:24:44,539 --> 01:24:48,840
+et qu'on a du mal à se déplacer.
+
+1129
+01:24:49,460 --> 01:24:50,000
+C'est normal.
+
+1130
+01:24:53,060 --> 01:24:55,019
+Alors, je ne sais pas pourquoi, Marc m'envoie,
+
+1131
+01:24:55,100 --> 01:24:57,659
+« Rappelle, le webinaire commence dans 15 minutes à 7 heures,
+
+1132
+01:24:57,760 --> 01:25:00,239
+loi allure, discrimination. »
+
+1133
+01:25:00,239 --> 01:25:02,079
+Alors, tiens, d'ailleurs, c'est assez intéressant, ça.
+
+1134
+01:25:02,800 --> 01:25:03,640
+Pourquoi ?
+
+1135
+01:25:03,640 --> 01:25:04,720
+Alors, ça n'a rien à voir.
+
+1136
+01:25:04,720 --> 01:25:06,240
+ce qu'on est en train de voir, mais
+
+1137
+01:25:06,240 --> 01:25:08,940
+Marc me montre, je ne sais pas si c'est une erreur
+
+1138
+01:25:08,940 --> 01:25:10,640
+de copier-coller, le webinaire
+
+1139
+01:25:10,640 --> 01:25:12,300
+commence dans 15 minutes à 7h
+
+1140
+01:25:12,300 --> 01:25:14,180
+et c'est pareil
+
+1141
+01:25:14,180 --> 01:25:17,119
+toutes les visios elles commencent à 18h
+
+1142
+01:25:17,119 --> 01:25:18,539
+et il y a deux jours
+
+1143
+01:25:18,539 --> 01:25:20,800
+Sabrina m'a montré que l'email qui lui avait
+
+1144
+01:25:20,800 --> 01:25:21,659
+été envoyé
+
+1145
+01:25:21,659 --> 01:25:24,940
+automatiquement par la plateforme Zoho
+
+1146
+01:25:24,940 --> 01:25:26,840
+pour la
+
+1147
+01:25:26,840 --> 01:25:28,240
+visioconférence d'avant-hier
+
+1148
+01:25:28,240 --> 01:25:30,640
+dans cet email aussi
+
+1149
+01:25:30,640 --> 01:25:32,740
+il était écrit que
+
+1150
+01:25:32,740 --> 01:25:34,680
+ça commençait à 7h
+
+1151
+01:25:34,680 --> 01:25:38,980
+c'est-à-dire à 19h. Alors, je ne comprends pas, parce que j'ai vérifié après avoir vu Sabrina,
+
+1152
+01:25:39,579 --> 01:25:42,600
+et c'était bien indiqué, c'était bien paramétré pour 18h.
+
+1153
+01:25:42,700 --> 01:25:47,900
+Alors, est-ce qu'il y a un problème d'heure d'été, heure d'hiver, heure machin, heure truc ?
+
+1154
+01:25:47,900 --> 01:25:52,159
+Je ne sais pas, mais les visios sont bien à 18h.
+
+1155
+01:25:52,240 --> 01:25:55,840
+Donc, si vous voyez des mails de Zoho, le temps qu'on trouve ce qui se passe,
+
+1156
+01:25:55,980 --> 01:25:58,920
+qui vous dit que c'est 7h, ben non, c'est 18h.
+
+1157
+01:25:58,920 --> 01:26:01,500
+Pierre-Yves nous dit
+
+1158
+01:26:01,500 --> 01:26:03,659
+j'ai 5 gites et je suis depuis 3 ans
+
+1159
+01:26:03,659 --> 01:26:04,960
+en adulte only
+
+1160
+01:26:04,960 --> 01:26:07,340
+ça ne pose aucun problème sauf pour gites de France
+
+1161
+01:26:07,340 --> 01:26:08,800
+qui nous opposent la discrimination
+
+1162
+01:26:08,800 --> 01:26:11,199
+ils sont un peu vieille France
+
+1163
+01:26:11,199 --> 01:26:17,340
+moi je ne vais pas dire que je suis contre
+
+1164
+01:26:17,340 --> 01:26:19,699
+parce que j'ai vu plein de fois
+
+1165
+01:26:19,699 --> 01:26:21,340
+des cas de trucs
+
+1166
+01:26:21,340 --> 01:26:23,779
+des croisières, des trucs de vacances
+
+1167
+01:26:23,779 --> 01:26:25,640
+réservés aux adultes
+
+1168
+01:26:25,640 --> 01:26:26,480
+interdits aux enfants
+
+1169
+01:26:26,480 --> 01:26:28,819
+et c'est vrai que moi de mon point de vue
+
+1170
+01:26:28,920 --> 01:26:31,039
+je ne trouve pas que ce soit discriminatoire
+
+1171
+01:26:31,039 --> 01:26:32,680
+et je trouve que c'est plutôt une bonne idée
+
+1172
+01:26:32,680 --> 01:26:34,940
+c'est perso, comme quoi vous voyez que
+
+1173
+01:26:34,940 --> 01:26:37,359
+hors de discrimination
+
+1174
+01:26:37,359 --> 01:26:39,079
+il y a quand même une notion
+
+1175
+01:26:39,079 --> 01:26:39,579
+de
+
+1176
+01:26:39,579 --> 01:26:43,399
+personnellement
+
+1177
+01:26:43,399 --> 01:26:44,779
+on peut préférer ceci ou cela
+
+1178
+01:26:44,779 --> 01:26:47,119
+moi je comprends très bien que des gens
+
+1179
+01:26:47,119 --> 01:26:49,119
+veuillent passer des vacances là où il n'y a pas
+
+1180
+01:26:49,119 --> 01:26:51,140
+d'enfants, pourquoi ? Parce que eux-mêmes
+
+1181
+01:26:51,140 --> 01:26:52,840
+ils n'ont pas d'enfants
+
+1182
+01:26:52,840 --> 01:26:55,060
+ils n'aiment pas les enfants, c'est vrai que
+
+1183
+01:26:55,060 --> 01:26:57,199
+ça fait du bruit, ça pue
+
+1184
+01:26:57,199 --> 01:26:59,300
+ça a les mains qui collent, il faut toujours
+
+1185
+01:26:59,300 --> 01:27:00,939
+qu'ils parlent et qu'ils aient toujours raison
+
+1186
+01:27:00,939 --> 01:27:03,000
+moi ça m'agace parce que normalement celui qui parle tout le temps
+
+1187
+01:27:03,000 --> 01:27:05,079
+et qui a toujours raison c'est moi, alors si il y a un gamin
+
+1188
+01:27:05,079 --> 01:27:06,099
+de 8 ans qui vient et qui dit
+
+1189
+01:27:06,099 --> 01:27:08,199
+j'ai envie de lui foutre des claques, forcément
+
+1190
+01:27:08,199 --> 01:27:11,359
+il essaie de me prendre mon rôle
+
+1191
+01:27:11,359 --> 01:27:12,760
+mais
+
+1192
+01:27:12,760 --> 01:27:15,019
+c'est à dire que je comprends qu'on ait
+
+1193
+01:27:15,019 --> 01:27:16,880
+envie de passer des vacances tranquilles sans avoir
+
+1194
+01:27:16,880 --> 01:27:18,939
+des enfants qui piaillent parce qu'on a pas d'enfants
+
+1195
+01:27:18,939 --> 01:27:19,659
+on aime pas ça etc
+
+1196
+01:27:19,659 --> 01:27:22,939
+il y a des croisières pour ça
+
+1197
+01:27:22,939 --> 01:27:24,859
+il y a des trucs de vacances, des camps d'été
+
+1198
+01:27:24,859 --> 01:27:26,939
+des machins etc, sans parler
+
+1199
+01:27:26,939 --> 01:27:28,799
+du cap d'acte qui, bien entendu,
+
+1200
+01:27:28,919 --> 01:27:30,699
+n'est pas réservé aux enfants. Je pense qu'on
+
+1201
+01:27:30,699 --> 01:27:31,619
+comprend tous.
+
+1202
+01:27:36,219 --> 01:27:36,619
+Là,
+
+1203
+01:27:37,079 --> 01:27:39,819
+est-ce qu'il s'agit de discrimination ou pas ?
+
+1204
+01:27:39,819 --> 01:27:40,739
+Je ne sais pas très bien.
+
+1205
+01:27:41,299 --> 01:27:42,839
+Là encore, c'est la jurisprudence
+
+1206
+01:27:42,839 --> 01:27:44,399
+qui, derrière, peut nous le dire. C'est
+
+1207
+01:27:44,399 --> 01:27:45,559
+une évidence.
+
+1208
+01:27:48,099 --> 01:27:49,219
+Idéal pour l'investissement
+
+1209
+01:27:49,219 --> 01:27:51,639
+locatif, est-ce discriminant ?
+
+1210
+01:27:51,639 --> 01:27:53,299
+Demande Ludovic. Mais là encore,
+
+1211
+01:27:53,399 --> 01:27:55,119
+je ne vois pas comment et en quoi ça pourrait
+
+1212
+01:27:55,119 --> 01:28:00,340
+discriminant jusqu'à ce qu'un jour on constate que quelqu'un le condamne comme discriminant on
+
+1213
+01:28:00,340 --> 01:28:08,619
+peut l'imaginer laurent nous dit en résumé il est interdit d'interdire ou le contraire je ne savais
+
+1214
+01:28:08,619 --> 01:28:14,979
+pas laurent 68 ar parce qu'il est interdit d'interdire c'était un slogan de 1968 il y
+
+1215
+01:28:14,979 --> 01:28:19,479
+avait deux grands slogans comme ça il y avait il est interdit d'interdire il y avait jouir sans
+
+1216
+01:28:19,479 --> 01:28:26,019
+entraves ça a donné tout le comportement du monde du cinéma et des réalisateurs sur les
+
+1217
+01:28:26,019 --> 01:28:33,339
+petites filles dans les années 70 et 80 ça moi je suis pas très très fort personnellement alors si
+
+1218
+01:28:33,339 --> 01:28:40,639
+3 c'est johan qui dit si trois propos des gîtes et des animaux mais je vois pas pourquoi il dit
+
+1219
+01:28:40,640 --> 01:28:42,619
+6, 3. Je ne sais pas.
+
+1220
+01:28:43,960 --> 01:28:44,579
+Marjorie dit
+
+1221
+01:28:44,579 --> 01:28:46,039
+« Karine, je t'aime.
+
+1222
+01:28:46,840 --> 01:28:48,740
+Comment refuser les animaux bande de
+
+1223
+01:28:48,740 --> 01:28:50,020
+sans-coeur ? » Mais oui.
+
+1224
+01:28:50,920 --> 01:28:52,660
+Johan, à partir de maintenant, on va faire un deal.
+
+1225
+01:28:52,980 --> 01:28:54,720
+Vous refusez tous les gamins et vous acceptez
+
+1226
+01:28:54,720 --> 01:28:56,579
+tous les animaux. Vous allez voir.
+
+1227
+01:28:57,079 --> 01:28:58,140
+Ça va beaucoup mieux se passer.
+
+1228
+01:28:59,140 --> 01:29:00,700
+« Si j'ai bien compris, il y aura des paquets
+
+1229
+01:29:00,700 --> 01:29:02,760
+de croquettes sous le sapin. » Alors oui, effectivement.
+
+1230
+01:29:02,960 --> 01:29:05,039
+J'ai déjà prévu des croquettes,
+
+1231
+01:29:05,039 --> 01:29:06,100
+mais pas que des croquettes.
+
+1232
+01:29:07,619 --> 01:29:09,100
+Effectivement prévu, ça.
+
+1233
+01:29:09,100 --> 01:29:10,980
+c'est ce qu'on a reçu par mail
+
+1234
+01:29:10,980 --> 01:29:12,640
+il me dit Marc, oui le 7h
+
+1235
+01:29:12,640 --> 01:29:14,780
+comme Sabrina, Sabrina me l'a montré
+
+1236
+01:29:14,780 --> 01:29:16,300
+il y a deux jours, je ne comprends pas pourquoi
+
+1237
+01:29:16,300 --> 01:29:18,640
+parce qu'après que Sabrina m'ait montré ça, j'ai tout de suite vérifié
+
+1238
+01:29:18,640 --> 01:29:21,220
+dès que je suis reparti et c'était bien 18h
+
+1239
+01:29:21,220 --> 01:29:22,579
+donc je me demande si ce n'est pas un problème
+
+1240
+01:29:22,579 --> 01:29:24,180
+d'heure d'été, heure machin, heure truc
+
+1241
+01:29:24,180 --> 01:29:27,039
+Yoann dit moi aussi
+
+1242
+01:29:27,039 --> 01:29:28,720
+Christelle aussi
+
+1243
+01:29:28,720 --> 01:29:31,300
+Frédéric aussi, Dominique aussi
+
+1244
+01:29:31,300 --> 01:29:32,700
+en gros tout le monde a reçu
+
+1245
+01:29:32,700 --> 01:29:35,180
+un rappel commençant à 7h
+
+1246
+01:29:35,180 --> 01:29:36,860
+et pourtant, alors attendez, est-ce que je peux
+
+1247
+01:29:36,860 --> 01:29:37,700
+vous montrer ça
+
+1248
+01:29:37,699 --> 01:29:40,899
+regardez, ça c'est l'interface
+
+1249
+01:29:40,899 --> 01:29:42,539
+de gestion
+
+1250
+01:29:42,539 --> 01:29:44,699
+des visioconférences
+
+1251
+01:29:44,699 --> 01:29:46,899
+et vous voyez que, donc c'était il y a deux jours
+
+1252
+01:29:46,899 --> 01:29:48,699
+la déontologie
+
+1253
+01:29:49,479 --> 01:29:50,699
+non c'était la loi performance énergétique
+
+1254
+01:29:51,300 --> 01:29:51,699
+voyez
+
+1255
+01:29:51,699 --> 01:29:53,380
+et bien
+
+1256
+01:29:53,380 --> 01:29:56,220
+regardez ici, date et heure
+
+1257
+01:29:56,220 --> 01:29:59,019
+mardi 17 décembre, 18h
+
+1258
+01:29:59,019 --> 01:30:00,179
+voyez c'est là
+
+1259
+01:30:00,179 --> 01:30:02,300
+c'est bien indiqué à 18h
+
+1260
+01:30:02,300 --> 01:30:04,500
+et pour aujourd'hui aussi
+
+1261
+01:30:04,500 --> 01:30:07,679
+hop
+
+1262
+01:30:07,699 --> 01:30:09,479
+hop, discrimination
+
+1263
+01:30:09,479 --> 01:30:12,380
+ah là il y a écrit 19h par contre
+
+1264
+01:30:12,380 --> 01:30:14,699
+alors là je comprends vraiment pas pourquoi
+
+1265
+01:30:14,699 --> 01:30:16,199
+et pourtant
+
+1266
+01:30:16,199 --> 01:30:18,359
+vous voyez on est bien sur le fuseau horaire parisien
+
+1267
+01:30:18,359 --> 01:30:20,059
+et sur le précédent
+
+1268
+01:30:20,059 --> 01:30:21,699
+on est sur quel fuseau horaire
+
+1269
+01:30:21,699 --> 01:30:24,279
+parce que Zoho
+
+1270
+01:30:24,279 --> 01:30:26,119
+c'est une société indienne
+
+1271
+01:30:26,119 --> 01:30:28,239
+donc peut-être qu'ils sont pas exactement
+
+1272
+01:30:28,239 --> 01:30:29,939
+sur le même fuseau horaire, bah Paris aussi
+
+1273
+01:30:29,939 --> 01:30:31,579
+je peux pas vous dire
+
+1274
+01:30:31,579 --> 01:30:34,000
+je peux pas vous dire, il va falloir qu'on creuse ça
+
+1275
+01:30:34,000 --> 01:30:35,079
+et qu'on essaye de comprendre
+
+1276
+01:30:35,079 --> 01:30:37,380
+en tout cas, soyez certains les amis
+
+1277
+01:30:37,380 --> 01:30:40,659
+les visios sont bien toujours à 18h
+
+1278
+01:30:40,659 --> 01:30:42,340
+on va essayer de comprendre ce qui se passe
+
+1279
+01:30:42,340 --> 01:30:42,980
+et d'où ça vient
+
+1280
+01:30:42,980 --> 01:30:45,539
+c'est toujours 18h
+
+1281
+01:30:45,539 --> 01:30:48,079
+alors
+
+1282
+01:30:48,079 --> 01:30:50,100
+moi aussi
+
+1283
+01:30:50,100 --> 01:30:52,300
+en fait tous là vous me dites
+
+1284
+01:30:52,300 --> 01:30:53,760
+que oui il y avait bien écrit 19h
+
+1285
+01:30:53,760 --> 01:30:55,380
+je ne comprends pas pourquoi
+
+1286
+01:30:55,380 --> 01:30:57,680
+c'est l'horaire de l'hébergeur pour zoo
+
+1287
+01:30:57,680 --> 01:31:00,060
+c'est ce que je viens de regarder il y avait bien écrit heure de Paris
+
+1288
+01:31:00,060 --> 01:31:02,699
+vous avez vu c'est pour ça que je sais pas
+
+1289
+01:31:02,699 --> 01:31:04,539
+et les maisons closes
+
+1290
+01:31:04,539 --> 01:31:06,579
+les maisons closes
+
+1291
+01:31:06,579 --> 01:31:08,359
+effectivement ne sont pas
+
+1292
+01:31:08,359 --> 01:31:10,100
+réservées aux enfants
+
+1293
+01:31:10,100 --> 01:31:11,819
+ce ne sont pas
+
+1294
+01:31:11,819 --> 01:31:15,100
+Dominique a tout à fait raison
+
+1295
+01:31:15,100 --> 01:31:18,180
+Segura Michel
+
+1296
+01:31:18,180 --> 01:31:20,100
+dit je fais de la location saisonnière
+
+1297
+01:31:20,100 --> 01:31:21,079
+j'interdis les animaux
+
+1298
+01:31:21,079 --> 01:31:22,420
+mais qu'est-ce que c'est que ces idées
+
+1299
+01:31:22,420 --> 01:31:25,739
+j'interdis les enfants
+
+1300
+01:31:25,739 --> 01:31:27,260
+à cause des assurances et de la piscine
+
+1301
+01:31:27,260 --> 01:31:28,319
+et aussi des cris pour les voisins
+
+1302
+01:31:28,319 --> 01:31:31,739
+voilà une décision censée
+
+1303
+01:31:31,739 --> 01:31:32,939
+bravo Karim
+
+1304
+01:31:32,939 --> 01:31:34,539
+on est ensemble là-dessus
+
+1305
+01:31:34,539 --> 01:31:36,019
+tout le monde a reçu 19h
+
+1306
+01:31:36,020 --> 01:31:38,360
+Marie, Joachim, etc. On va regarder ce qui se passe.
+
+1307
+01:31:38,780 --> 01:31:41,820
+On va regarder pourquoi 19h, pas 18h, etc.
+
+1308
+01:31:42,720 --> 01:31:45,360
+Séverine nous dit « Bonsoir, pour avoir travaillé en gestion locative,
+
+1309
+01:31:45,500 --> 01:31:47,860
+certains propriétaires refusent les enfants par rapport au nombre,
+
+1310
+01:31:47,940 --> 01:31:52,260
+car certains parents n'ont pas peur de mettre 9 enfants dans des maisons avec 2 chambres.
+
+1311
+01:31:52,320 --> 01:31:54,860
+Pour le confort des enfants, ces maisons ne sont pas adaptées. »
+
+1312
+01:31:54,860 --> 01:31:56,440
+Ah oui, alors là, on est sur autre chose.
+
+1313
+01:31:57,220 --> 01:31:58,380
+On est sur une autre question.
+
+1314
+01:31:59,020 --> 01:32:05,200
+Maintenant, est-ce qu'on peut vraiment interdire de mettre 9 enfants dans une maison avec 2 chambres ?
+
+1315
+01:32:05,199 --> 01:32:08,920
+Je ne sais pas, parce qu'on pourrait vous dire qu'on fait une…
+
+1316
+01:32:08,920 --> 01:32:11,279
+Regardez, je vais vous ressortir la liste.
+
+1317
+01:32:11,279 --> 01:32:13,159
+Je vais vous ressortir la liste.
+
+1318
+01:32:13,260 --> 01:32:14,699
+Ne bougez pas, ne bougez pas, ne bougez pas.
+
+1319
+01:32:14,880 --> 01:32:17,599
+Regardez, je suis en train de chercher dans mon petit machin, là.
+
+1320
+01:32:18,739 --> 01:32:21,279
+Ici, vous voyez que dans la liste, on a…
+
+1321
+01:32:21,279 --> 01:32:24,279
+Vulnérabilité économique.
+
+1322
+01:32:26,899 --> 01:32:28,139
+Vulnérabilité économique.
+
+1323
+01:32:28,460 --> 01:32:30,960
+Est-ce que neuf enfants dans deux chambres ?
+
+1324
+01:32:30,960 --> 01:32:37,600
+Je ne peux pas invoquer le fait que je suis discriminé sur ma pauvreté,
+
+1325
+01:32:37,800 --> 01:32:41,140
+le fait que je n'ai pas beaucoup de sous, que je suis vulnérable économique
+
+1326
+01:32:41,140 --> 01:32:43,880
+et moi, je n'ai nulle part ailleurs où mettre mes enfants.
+
+1327
+01:32:44,560 --> 01:32:49,180
+Bon, moi, je dis, vous avez neuf enfants, vous ne savez pas comment les loger,
+
+1328
+01:32:49,960 --> 01:32:52,859
+foutez-en cinq ou six sur le bon coin, ça va débarrasser,
+
+1329
+01:32:53,060 --> 01:32:55,560
+ça fera plaisir à des gens qui n'en ont pas, ça vous fera un peu de sous.
+
+1330
+01:32:56,340 --> 01:33:00,000
+Franchement, soyons rationnels, ça sert à ça le bon coin.
+
+1331
+01:33:00,960 --> 01:33:06,539
+ou sur ebay pour ceux d'entre vous qui préfèrent bien entendu ça fera plaisir à ceux qui peuvent
+
+1332
+01:33:06,539 --> 01:33:13,619
+pas en avoir moi aussi j'ai un transfert et c'est juste vous dire bonjour à tous car je reviens
+
+1333
+01:33:13,619 --> 01:33:22,980
+d'arriver à la halle alors hop annabelle nous dit bonjour à tous je viens d'arriver à la lucarne et
+
+1334
+01:33:22,980 --> 01:33:25,960
+c'est mon premier webinaire effectivement normalement c'est quelque chose qu'on disait
+
+1335
+01:33:25,960 --> 01:33:47,760
+On dit à la fin ce genre de choses, mais bienvenue à Annabelle. Alors Annabelle, vous ne la connaissez pas tous, par contre, vous connaissez tous Sébastien, car Annabelle est la cousine de Sébastien Olive, qui était auparavant en Vendée et qui désormais représente la lucarne avec brio à Angers, qui d'après ce que j'ai compris, est sa région d'origine.
+
+1336
+01:33:47,760 --> 01:33:54,420
+Je ne savais pas que Sébastien était angevin, mais d'après ce que j'ai compris, c'est sa région d'origine.
+
+1337
+01:33:55,180 --> 01:34:00,720
+Et Annabelle, donc cousine de Sébastien, vient d'intégrer le réseau et c'est sa première visio.
+
+1338
+01:34:00,940 --> 01:34:04,739
+Donc, bienvenue Annabelle, bienvenue à vous, on est content de vous retrouver.
+
+1339
+01:34:06,260 --> 01:34:12,140
+Bien entendu, tout le monde se joint à moi pour vous souhaiter la bienvenue.
+
+1340
+01:34:14,159 --> 01:34:16,340
+Ça y est, c'est parti, tout le monde sur le chat.
+
+1341
+01:34:16,340 --> 01:34:39,420
+Bienvenue Annabelle, bonjour, bienvenue à vous, bienvenue à vous, donc on aura plaisir à vous retrouver physiquement au cours d'autres réunions. Annabelle, très joli prénom, nous dit Laurent, c'est vrai, c'est vrai que c'est un très joli prénom, bienvenue, bienvenue Annabelle, de Maryse, de Daniel, tout le monde vous souhaite la bienvenue, ma chère Annabelle, et moi le premier, c'est évident.
+
+1342
+01:34:39,420 --> 01:34:44,359
+Petit coup de gueule, c'est tellement mieux
+
+1343
+01:34:44,359 --> 01:34:46,079
+De les abandonner
+
+1344
+01:34:46,079 --> 01:34:47,819
+Les animaux, non les enfants
+
+1345
+01:34:47,819 --> 01:34:49,480
+Là j'ai pas bien compris Christelle
+
+1346
+01:34:49,480 --> 01:34:50,699
+J'ai pas bien compris
+
+1347
+01:34:50,699 --> 01:34:53,039
+Animaux plus enfants c'est bien aussi
+
+1348
+01:34:53,039 --> 01:34:55,300
+Bon
+
+1349
+01:34:55,300 --> 01:34:57,699
+On va pas rentrer dans ce débat
+
+1350
+01:34:57,699 --> 01:35:00,460
+J'ai déjà loué un T2 avec Imo direct
+
+1351
+01:35:00,460 --> 01:35:01,940
+Un couple avec 3 enfants
+
+1352
+01:35:01,940 --> 01:35:03,319
+Moudi, Marc
+
+1353
+01:35:03,319 --> 01:35:05,560
+3 enfants dans un T2 avec Imo
+
+1354
+01:35:05,560 --> 01:35:07,440
+Putain, waouh
+
+1355
+01:35:07,439 --> 01:35:12,779
+Eh bien oui, il y a des gens qui n'ont pas vraiment les moyens et ils font comme ils peuvent, je peux comprendre.
+
+1356
+01:35:13,519 --> 01:35:18,500
+Alors, sinon, Julien, lui, il donne son astuce et ce qu'il fait lui-même avec ses garçons,
+
+1357
+01:35:18,659 --> 01:35:22,299
+parce qu'il a deux garçons, il leur fait fabriquer des ballons ou des baskets.
+
+1358
+01:35:22,739 --> 01:35:26,319
+Effectivement, comme on disait tout à l'heure, parfois, il y a des propriétaires
+
+1359
+01:35:26,319 --> 01:35:29,239
+qui ont organisé un petit atelier d'artisanat dans leur maison.
+
+1360
+01:35:29,399 --> 01:35:33,039
+C'est ce qu'a fait Julien dans la cave de sa maison à côté de Saint-Paul.
+
+1361
+01:35:33,039 --> 01:35:36,659
+il a mis des machines à coudre
+
+1362
+01:35:36,659 --> 01:35:38,979
+et il a menotté ses enfants aux machines à coudre
+
+1363
+01:35:38,979 --> 01:35:40,300
+qui font des ballons ou des baskets
+
+1364
+01:35:40,300 --> 01:35:42,460
+qu'il va vendre sur les marchés
+
+1365
+01:35:42,460 --> 01:35:43,800
+et sur le bon coin le week-end
+
+1366
+01:35:43,800 --> 01:35:46,279
+c'est une très très bonne idée
+
+1367
+01:35:46,279 --> 01:35:48,640
+ça permet de libérer une chambre pour le chien
+
+1368
+01:35:48,640 --> 01:35:49,960
+parce qu'en plus Julien il a un gros chien
+
+1369
+01:35:49,960 --> 01:35:52,019
+il a un gros toutou qui a besoin de place
+
+1370
+01:35:52,019 --> 01:35:53,260
+qui a besoin d'une chambre entière
+
+1371
+01:35:53,260 --> 01:35:56,439
+quel dragueur celui-là dit Marjorie
+
+1372
+01:35:56,439 --> 01:35:57,539
+je pense que c'est pour Laurent
+
+1373
+01:35:57,539 --> 01:36:00,300
+donc tout le monde vous dit
+
+1374
+01:36:00,300 --> 01:36:02,260
+Annabelle bienvenue c'est évident
+
+1375
+01:36:02,260 --> 01:36:15,539
+On a vu toutes les questions là pour l'instant. Oui, bien. Alors, on va pouvoir se remettre sur les contrôles et sanctions applicables et ce sera la fin de notre vidéo.
+
+1376
+01:36:15,539 --> 01:36:18,479
+hop là
+
+1377
+01:36:18,479 --> 01:36:19,899
+premièrement
+
+1378
+01:36:19,899 --> 01:36:22,420
+le rôle des autorités administratives
+
+1379
+01:36:22,420 --> 01:36:24,359
+alors les autorités administratives c'est quelque chose
+
+1380
+01:36:24,359 --> 01:36:26,880
+qui a pris beaucoup d'ampleur ces dernières années
+
+1381
+01:36:26,880 --> 01:36:28,939
+on appelle ça en droit les A.A.I
+
+1382
+01:36:28,939 --> 01:36:30,779
+les autorités administratives
+
+1383
+01:36:30,779 --> 01:36:33,000
+indépendantes, ce sont des organismes
+
+1384
+01:36:33,000 --> 01:36:34,939
+qui ont été créés
+
+1385
+01:36:34,939 --> 01:36:35,939
+par l'état
+
+1386
+01:36:35,939 --> 01:36:39,079
+à qui on a délégué un certain nombre de droits
+
+1387
+01:36:39,079 --> 01:36:41,060
+soyons clairs
+
+1388
+01:36:41,060 --> 01:36:43,060
+ce sont des organismes qui ont été créés
+
+1389
+01:36:43,060 --> 01:36:44,960
+pour recaser les copains, c'est évident
+
+1390
+01:36:44,960 --> 01:36:48,960
+et pour rien du tout, ça coûte une fortune absolument inouïe
+
+1391
+01:36:48,960 --> 01:36:53,619
+et elles ont pris un pouvoir absolument dingue
+
+1392
+01:36:53,619 --> 01:36:56,520
+ça c'est vraiment de l'argent foutu par les fenêtres
+
+1393
+01:36:56,520 --> 01:37:01,560
+il y a le défenseur des droits et la DILCRA en particulier
+
+1394
+01:37:01,560 --> 01:37:04,899
+ce sont les autorités administratives qui jouent un rôle essentiel dans la prévention
+
+1395
+01:37:04,899 --> 01:37:07,739
+le contrôle, la sanction des discriminations dans le logement
+
+1396
+01:37:07,739 --> 01:37:10,739
+je vous l'ai dit tout à l'heure, les autorités administratives indépendantes
+
+1397
+01:37:10,739 --> 01:37:12,699
+ont des pouvoirs d'enquête étendus
+
+1398
+01:37:12,699 --> 01:37:21,659
+Le Défenseur des Droits, dont je crois qu'aujourd'hui c'est toujours Jacques Toubon, mais je ne suis pas sûr que ce soit toujours lui aujourd'hui, a été créé en 2011.
+
+1399
+01:37:21,960 --> 01:37:29,880
+C'est une autorité indépendante, donc une AAI, chargée de veiller au respect des droits fondamentaux en matière de lutte contre la discrimination dans le logement en particulier.
+
+1400
+01:37:29,880 --> 01:37:42,679
+Ces missions incluent recevoir les signalements de la part des personnes qui estiment avoir été victimes de discrimination, opérer une mission de médiation et recommandation pour proposer des solutions AMIA,
+
+1401
+01:37:42,699 --> 01:37:46,619
+ou émettre des recommandations, et saisir éventuellement les juridictions compétentes,
+
+1402
+01:37:46,739 --> 01:37:53,420
+c'est-à-dire saisir le procureur de la République en cas de manquement constaté
+
+1403
+01:37:53,420 --> 01:37:58,599
+pour lequel sa médiation et ses recommandations n'auraient pas porté leur fruit.
+
+1404
+01:37:59,279 --> 01:38:04,099
+En 2021, à Marseille, le défenseur des droits a été saisi par une locataire maghrébine
+
+1405
+01:38:04,099 --> 01:38:07,479
+dont le dossier avait été systématiquement rejeté.
+
+1406
+01:38:08,000 --> 01:38:11,840
+L'enquête menée par le défenseur des droits a révélé une discrimination avérée
+
+1407
+01:38:11,840 --> 01:38:19,940
+de l'agence immobilière, entraînant une sanction de 5 000 euros et une publication obligatoire d'un communiqué.
+
+1408
+01:38:21,420 --> 01:38:30,659
+La DILCRA, c'est une délégation interministérielle à la lutte contre le racisme, l'antisémitisme et la haine anti-LGBT.
+
+1409
+01:38:30,860 --> 01:38:37,699
+La DILCRA est un organisme dédié à la coordination des politiques publiques en matière de lutte contre les discriminations en matière de logement.
+
+1410
+01:38:37,699 --> 01:38:56,760
+Elle finance des programmes de testing pour identifier les pratiques discriminatoires. Vous savez ce que c'est le testing ? Il s'agit d'envoyer un certain nombre de candidatures, par exemple à un emploi ou à une proposition de location, des candidatures avec des dossiers, avec différents profils.
+
+1411
+01:38:56,760 --> 01:39:05,060
+et voir si les profils qui montrent une discrimination possible sont rejetés
+
+1412
+01:39:05,060 --> 01:39:09,579
+alors que les profils qui n'ont pas de discrimination possible sont acceptés.
+
+1413
+01:39:10,460 --> 01:39:14,600
+Donc, elle finance les programmes de testing et elle soutient les associations et campagnes de sensibilisation
+
+1414
+01:39:14,600 --> 01:39:18,440
+visant à promouvoir l'égalité de traitement de touffes.
+
+1415
+01:39:19,260 --> 01:39:23,579
+Un testing effectué en 2020 à Lille, financé par la DILCRA, a révélé qu'un propriétaire
+
+1416
+01:39:23,579 --> 01:39:26,060
+privilégiait systématiquement les locataires français.
+
+1417
+01:39:26,060 --> 01:39:38,400
+Les résultats transmis au procureur ont entraîné une condamnation pour discrimination indirecte, telle que définie par la Directive européenne de 2008.
+
+1418
+01:39:40,140 --> 01:39:48,400
+Les sanctions civiles, alors vous le savez, les sanctions civiles c'est tout ce qui concerne le droit des obligations, le droit des contrats, les exécutions.
+
+1419
+01:39:48,399 --> 01:39:57,339
+Deux choses principales définies par les juridictions civiles
+
+1420
+01:39:57,339 --> 01:40:00,279
+La nullité des contrats passés, on l'a vu tout à l'heure
+
+1421
+01:40:00,279 --> 01:40:04,539
+Et l'indemnisation des victimes en fonction du préjudice dont elles ont été victimes
+
+1422
+01:40:04,539 --> 01:40:10,139
+La nullité des contrats, c'est le principe selon lequel un contrat qui aurait été passé
+
+1423
+01:40:10,139 --> 01:40:11,819
+Par exemple un contrat de location
+
+1424
+01:40:11,819 --> 01:40:15,159
+en écartant d'autres candidats
+
+1425
+01:40:15,159 --> 01:40:16,739
+pour des raisons discriminatoires
+
+1426
+01:40:16,739 --> 01:40:18,979
+et non pas des raisons objectives légitimes
+
+1427
+01:40:18,979 --> 01:40:21,039
+ces contrats seraient frappés
+
+1428
+01:40:21,039 --> 01:40:21,699
+de nullité
+
+1429
+01:40:21,699 --> 01:40:25,460
+ça a un côté un peu gênant
+
+1430
+01:40:25,460 --> 01:40:26,979
+parce que qu'on demande
+
+1431
+01:40:26,979 --> 01:40:29,019
+de réparer le préjudice
+
+1432
+01:40:29,019 --> 01:40:32,000
+subi par la victime
+
+1433
+01:40:32,000 --> 01:40:33,119
+ça c'est bien normal
+
+1434
+01:40:33,119 --> 01:40:34,099
+c'est bien logique
+
+1435
+01:40:34,099 --> 01:40:37,199
+mais qu'on dise à la personne qui elle a signé le contrat
+
+1436
+01:40:37,199 --> 01:40:38,000
+en toute bonne foi
+
+1437
+01:40:38,000 --> 01:40:41,420
+celui qui est devenu le locataire et qui lui n'est coupable de rien
+
+1438
+01:40:41,420 --> 01:41:03,480
+Ce n'est pas lui qui a demandé à ce que les autres soient discriminés. C'est celui qui a opéré la discrimination qui doit être condamné. Frapper son contrat de nullité, je trouve que là, on rajoute un problème à un problème préexistant. On rajoute un deuxième problème par-dessus en voulant réparer le premier.
+
+1439
+01:41:03,479 --> 01:41:10,199
+donc ça je pense moi que c'est pas une sanction très justifié très légitime mais c'est une
+
+1440
+01:41:10,199 --> 01:41:14,759
+sanction utilisée on l'a vu dans un cas juste au dessus c'est le cas les personnes qui avaient
+
+1441
+01:41:14,759 --> 01:41:21,699
+signé les contrats de location ont dû rendre l'appartement donc les victimes peuvent dans
+
+1442
+01:41:21,699 --> 01:41:25,739
+la procédure civile demander l'annulation du bail ou de la promesse de vente entaché
+
+1443
+01:41:25,739 --> 01:41:30,479
+de discrimination en 2019 à paris un locataire est vincé d'un logement en raison de son
+
+1444
+01:41:30,479 --> 01:41:36,959
+orientation sexuelle a obtenu l'annulation de son contrat et des dommages intérêts de 8000 euros
+
+1445
+01:41:36,959 --> 01:41:43,139
+ensuite l'indemnisation des victimes ce qui me semble beaucoup plus logique beaucoup plus normal
+
+1446
+01:41:43,139 --> 01:41:48,839
+beaucoup plus légitime parce que là il n'a pas d'impact sur la personne innocente car rien à
+
+1447
+01:41:48,839 --> 01:41:56,639
+voir là dedans qui a signé le bail par la suite la réparation du préjudice ça c'est le principe
+
+1448
+01:41:56,640 --> 01:42:05,700
+même du droit civil et du droit des obligations peut être infligé par le tribunal lorsqu'une
+
+1449
+01:42:05,700 --> 01:42:11,079
+personne victime de discrimination démontre le préjudice dont elle a été victime et démontre
+
+1450
+01:42:11,079 --> 01:42:19,440
+le chiffrement de ce préjudice donc le préjudice matériel objectif la perte d'opportunités d'un
+
+1451
+01:42:19,440 --> 01:42:26,420
+logement les coûts que ça a engendré etc ça c'est évident c'est une c'est une évidence assez logique
+
+1452
+01:42:26,420 --> 01:42:32,659
+qui coule de source, mais également, on le sait, le préjudice moral peut être indemnisé, parce que
+
+1453
+01:42:32,659 --> 01:42:38,300
+je peux estimer que j'ai été atteint dans ma dignité, je peux estimer que ça m'a causé beaucoup
+
+1454
+01:42:38,300 --> 01:42:43,699
+de soucis psychologiques, je m'en sors pas, j'ai cru que je trouverais jamais un logement, enfin,
+
+1455
+01:42:43,699 --> 01:42:48,440
+il peut y avoir un véritable préjudice moral, ça peut véritablement mettre ces personnes au-delà
+
+1456
+01:42:48,440 --> 01:42:54,100
+du préjudice matériel, ces personnes dans une situation morale et psychologique terrible à
+
+1457
+01:42:54,100 --> 01:43:00,520
+vivre et ça ça s'indemnise également bien entendu vous savez il y à les fameuses sanctions pénales
+
+1458
+01:43:00,520 --> 01:43:05,380
+alors ça ça fait toujours un petit peu plus peur des amendes et des peines d'emprisonnement qu'on
+
+1459
+01:43:05,380 --> 01:43:09,579
+a déjà vu au dessus alors l'emprisonnement il est très fictif parce que c'est l'emprisonnement
+
+1460
+01:43:09,579 --> 01:43:18,480
+généralement au maximum avec sursis les prisons sont pleines il ya bien des gens qui devraient
+
+1461
+01:43:18,480 --> 01:43:23,640
+être en prison et qui n'y sont pas des gens très très dangereux pour la société donc on
+
+1462
+01:43:23,640 --> 01:43:28,619
+Il est évident que les personnes qui se rendent coupables de discrimination ne vont pas physiquement en prison.
+
+1463
+01:43:29,260 --> 01:43:32,260
+Ça ne les empêche pas de subir des amendes, des amendes très lourdes,
+
+1464
+01:43:32,260 --> 01:43:37,619
+et ça ne les empêche pas de subir éventuellement des peines de prison avec sursis,
+
+1465
+01:43:37,780 --> 01:43:40,579
+voire des aménagements de peine avec bracelet électronique, etc.
+
+1466
+01:43:41,960 --> 01:43:47,420
+Donc, on l'a vu, principalement les articles 225, indices 1 et 2 du Code pénal,
+
+1467
+01:43:47,420 --> 01:43:56,380
+qui prévoit jusqu'à trois ans d'emprisonnement maximum et une amende pouvant atteindre 45 000 euros maximum.
+
+1468
+01:43:57,159 --> 01:43:59,619
+Bien entendu, la récidive peut alourdir la peine.
+
+1469
+01:43:59,779 --> 01:44:05,819
+En cas de récidive ou de circonstances aggravantes, notamment les discriminations commises par un professionnel,
+
+1470
+01:44:05,960 --> 01:44:08,859
+les peines peuvent être augmentées, on l'a déjà vu tout à l'heure.
+
+1471
+01:44:09,739 --> 01:44:16,300
+L'article 131 à 1027 du Code pénal permet également d'interdire l'exercice de la profession d'agent immobilier
+
+1472
+01:44:16,300 --> 01:44:20,000
+pour une durée déterminée ou même à titre définitif.
+
+1473
+01:44:21,039 --> 01:44:24,699
+Exemple, en 2020 à Toulouse, une agence immobilière a été condamnée
+
+1474
+01:44:24,699 --> 01:44:27,380
+à six mois de prison avec sursis 15 000 euros d'amende
+
+1475
+01:44:27,380 --> 01:44:30,239
+pour avoir refusé un candidat locataire en raison de sa religion.
+
+1476
+01:44:31,000 --> 01:44:35,220
+Le tribunal a également prononcé une interdiction d'exercer pendant deux ans.
+
+1477
+01:44:36,199 --> 01:44:41,420
+J'ai deux ou trois autres petits cas encore dans mon petit PDF
+
+1478
+01:44:41,420 --> 01:44:44,920
+que vous aurez sous la vidéo.
+
+1479
+01:44:44,920 --> 01:44:47,359
+je ne vous les donne pas tous parce que sinon ce sera un petit peu long
+
+1480
+01:44:47,359 --> 01:44:49,180
+merci à tous, merci à toutes
+
+1481
+01:44:49,180 --> 01:44:50,600
+très bonne soirée, joyeux Noël
+
+1482
+01:44:50,600 --> 01:44:52,260
+et à très bientôt
+
