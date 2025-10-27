@@ -649,9 +649,9 @@ elif menu == "🎥 Toutes les vidéos":
         st.markdown("---")
 
 elif menu == "🧠 Moteur intelligent":
-    st.header("🧠 Assistant IA basé sur vos formations vidéos")
+    st.header("🧠 Assistant IA basé sur vos formations vidéos (non fonctionnel)")
 
-    st.text_input("Pose ta question :", key="user_question")
+    st.text_input("Pose ta question :(moteur non fonctionnel)", key="user_question")
     user_question = to_str(st.session_state.get("user_question", "")).strip()
 
     if user_question:
@@ -686,7 +686,7 @@ Question : {user_question}
 
             # Appel à GPT-4 Turbo (ou modèle dispo)
             llm = ChatOpenAI(
-                model="gpt-4-0125-preview",
+                model="gpt-4o-mini",
                 temperature=0.2,
                 openai_api_key=openai.api_key
             )
