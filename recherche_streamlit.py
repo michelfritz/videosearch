@@ -649,9 +649,9 @@ elif menu == "🎥 Toutes les vidéos":
         st.markdown("---")
 
 elif menu == "🧠 Moteur intelligent":
-    st.header("🧠 Assistant IA basé sur vos formations vidéos")
+    st.header("🧠 Assistant IA basé sur vos formations vidéos (non fonctionnel)")
 
-    st.text_input("Pose ta question :", key="user_question")
+    st.text_input("Pose ta question :(moteur non fonctionnel)", key="user_question")
     user_question = to_str(st.session_state.get("user_question", "")).strip()
 
     if user_question:
