@@ -13,11 +13,15 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
+# Paths robustes (FAISS)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) if "__file__" in globals() else os.getcwd()
+FAISS_DIR = os.path.join(BASE_DIR, "faiss_transcripts")
+
 def get_openai_key():
-    # 1) Cloud Run (env var)  2) Streamlit Cloud (st.secrets)
-    key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
+    # 1) Cloud Run/Render (env var)  2) Streamlit Cloud (st.secrets)
+    key = os.getenv("OPENAI_API_KEY") or (st.secrets.get("OPENAI_API_KEY") if hasattr(st, "secrets") else None)
     if not key:
-        st.error("Clé OpenAI absente. Définis OPENAI_API_KEY (Cloud Run: Variables & secrets).")
+        st.error("Clé OpenAI absente. Définis OPENAI_API_KEY (Render/Cloud Run: Variables & secrets).")
         raise RuntimeError("OPENAI_API_KEY manquant")
     return key
 
@@ -25,7 +29,11 @@ def get_openai_key():
 # Page setup
 # ------------------------------------
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
+# Affiche si une clé est détectée (déclenche une erreur explicite si absente)
 st.caption(f"Clé OpenAI détectée : {bool(get_openai_key())}")
+
+# Définir la clé au niveau du SDK openai (utile pour certaines libs)
+openai.api_key = get_openai_key()
 
 
 # ------------------------------------
@@ -232,9 +240,6 @@ handle_select_tag_from_query()
 show_image("logo_lucarne.png", width=180)
 st.markdown("# 📚 Base de connaissance A LA LUCARNE")
 
-# 🔐 Clé API OpenAI
-openai.api_key = os.environ.get("OPENAI_API_KEY")
-
 # ------------------------------------
 # Data loading + encoding helpers
 # ------------------------------------
@@ -342,7 +347,7 @@ def charger_urls_et_idees_themes():
 # Embeddings + vector search
 # ------------------------------------
 def embed_openai(query):
-    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+    client = OpenAI(api_key=get_openai_key())
     response = client.embeddings.create(
         input=query,
         model="text-embedding-3-small",
@@ -649,31 +654,76 @@ elif menu == "🎥 Toutes les vidéos":
         st.markdown("---")
 
 elif menu == "🧠 Moteur intelligent":
-    st.header("🧠 Assistant IA basé sur vos formations vidéos (non fonctionnel)")
+    st.header("🧠 Assistant IA basé sur vos formations vidéos")
 
-    st.text_input("Pose ta question :(moteur non fonctionnel)", key="user_question")
+    st.text_input("Pose ta question", key="user_question")
     user_question = to_str(st.session_state.get("user_question", "")).strip()
 
     if user_question:
-        with st.spinner("Recherche intelligente en cours..."):
-            # Charger FAISS
-            vectordb = FAISS.load_local(
-                "faiss_transcripts",
-                OpenAIEmbeddings(openai_api_key=os.environ.get("OPENAI_API_KEY")),
-                allow_dangerous_deserialization=True
-            )
+        try:
+            with st.spinner("Recherche intelligente en cours..."):
 
-            # Recherche dans FAISS
-            docs = vectordb.similarity_search(user_question, k=5)
+                # =========================
+                # 1) ESSAI FAISS (si dispo)
+                # =========================
+                docs = None
+                source = "faiss"
+                try:
+                    vectordb = FAISS.load_local(
+                        FAISS_DIR,
+                        OpenAIEmbeddings(openai_api_key=get_openai_key()),
+                        allow_dangerous_deserialization=True
+                    )
+                    docs = vectordb.similarity_search(user_question, k=5)
+                except Exception as e_faiss:
+                    # ===============================
+                    # 2) FALLBACK SANS FAISS (numpy)
+                    # ===============================
+                    source = "numpy"
+                    st.warning(f"⚠️ Index FAISS indisponible : {e_faiss}. "
+                               "Bascule sur le moteur embarqué (numpy).")
+                    vecteur_query = embed_openai(user_question)
+                    idxs, _ = rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.25)
 
-            # Contexte pour GPT
-            context = ""
-            for doc in docs:
-                url = doc.metadata.get("url", "URL inconnue")
-                context += f"[Source: {url}]\n{doc.page_content}\n\n"
+                    # Construire des 'docs' équivalents à partir de df
+                    class Doc:
+                        def __init__(self, page_content, metadata):
+                            self.page_content = page_content
+                            self.metadata = metadata
 
-            # Construire prompt
-            prompt = f"""
+                    docs = []
+                    for i in idxs:
+                        r = df.iloc[i]
+                        url_str = to_str(r.get("url", ""))
+                        if not url_str:
+                            fichier_key = to_str(r.get("fichier", ""))
+                            url_str = url_by_file.get(fichier_key, "")
+                        docs.append(Doc(
+                            page_content=to_str(r.get("text", "")),
+                            metadata={"url": url_str}
+                        ))
+
+                # =========================
+                # 3) Construire le contexte
+                # =========================
+                context_parts = []
+                for d in docs or []:
+                    meta = getattr(d, "metadata", {}) or {}
+                    url = to_str(meta.get("url", "URL inconnue"))
+                    page_content = to_str(getattr(d, "page_content", ""))
+                    if page_content:
+                        context_parts.append(f"[Source: {url}]\n{page_content}")
+                context = "\n\n".join(context_parts)
+
+                if not context.strip():
+                    st.error("Aucun contexte trouvé dans la base.")
+                else:
+                    llm = ChatOpenAI(
+                        model="gpt-4o-mini",
+                        temperature=0.2,
+                        openai_api_key=get_openai_key()
+                    )
+                    prompt = f"""
 Tu es un expert de notre entreprise. Voici des extraits de nos formations :
 
 {context}
@@ -682,14 +732,12 @@ Réponds précisément à la question suivante en utilisant uniquement ces extra
 Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette information dans notre base actuelle."
 
 Question : {user_question}
-"""
+""".strip()
+                    response = llm.invoke(prompt)
+                    st.success(response.content)
 
-            # Appel à GPT-4 Turbo (ou modèle dispo)
-            llm = ChatOpenAI(
-                model="gpt-4o-mini",
-                temperature=0.2,
-                openai_api_key=openai.api_key
-            )
-            response = llm.invoke(prompt)
-
-            st.success(response.content)
+        except Exception as e:
+            st.error("Une erreur est survenue dans la recherche intelligente.")
+            st.exception(e)
+    else:
+        st.info("Saisis une question pour lancer la recherche.")
