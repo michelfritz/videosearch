@@ -33,8 +33,6 @@ def get_openai_key():
 # Page setup
 # ------------------------------------
 st.set_page_config(page_title="Base de connaissance A LA LUCARNE", layout="wide")
-# Affiche si une clé est détectée (déclenche une erreur explicite si absente)
-st.caption(f"Clé OpenAI détectée : {bool(get_openai_key())}")
 
 # Définir la clé au niveau du SDK openai (utile pour certaines libs)
 openai.api_key = get_openai_key()
@@ -448,7 +446,7 @@ def toggle(key: str):
     st.session_state[key] = not st.session_state.get(key, False)
 
 # ---- Sidebar Navigation (robuste) ----
-options = ["🔍 Recherche", "🎥 Toutes les vidéos", "🧠 Moteur intelligent"]
+options = ["🔍 Recherche", "🎥 Toutes les vidéos"]
 default = st.session_state.get("nav", options[0])
 if default not in options:
     default = options[0]
