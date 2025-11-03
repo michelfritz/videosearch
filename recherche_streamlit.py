@@ -13,6 +13,10 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
+FORCE_NUMPY = True  # force le moteur numpy (désactive FAISS)
+DEBUG_MODE = True   # affiche des traces visibles dans l'UI
+
+
 # Paths robustes (FAISS)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__)) if "__file__" in globals() else os.getcwd()
 FAISS_DIR = os.path.join(BASE_DIR, "faiss_transcripts")
@@ -652,92 +656,3 @@ elif menu == "🎥 Toutes les vidéos":
                             st.markdown(f"- {idee_text}")
 
         st.markdown("---")
-
-elif menu == "🧠 Moteur intelligent":
-    st.header("🧠 Assistant IA basé sur vos formations vidéos")
-
-    st.text_input("Pose ta question", key="user_question")
-    user_question = to_str(st.session_state.get("user_question", "")).strip()
-
-    if user_question:
-        try:
-            with st.spinner("Recherche intelligente en cours..."):
-
-                # =========================
-                # 1) ESSAI FAISS (si dispo)
-                # =========================
-                docs = None
-                source = "faiss"
-                try:
-                    vectordb = FAISS.load_local(
-                        FAISS_DIR,
-                        OpenAIEmbeddings(openai_api_key=get_openai_key()),
-                        allow_dangerous_deserialization=True
-                    )
-                    docs = vectordb.similarity_search(user_question, k=5)
-                except Exception as e_faiss:
-                    # ===============================
-                    # 2) FALLBACK SANS FAISS (numpy)
-                    # ===============================
-                    source = "numpy"
-                    st.warning(f"⚠️ Index FAISS indisponible : {e_faiss}. "
-                               "Bascule sur le moteur embarqué (numpy).")
-                    vecteur_query = embed_openai(user_question)
-                    idxs, _ = rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.25)
-
-                    # Construire des 'docs' équivalents à partir de df
-                    class Doc:
-                        def __init__(self, page_content, metadata):
-                            self.page_content = page_content
-                            self.metadata = metadata
-
-                    docs = []
-                    for i in idxs:
-                        r = df.iloc[i]
-                        url_str = to_str(r.get("url", ""))
-                        if not url_str:
-                            fichier_key = to_str(r.get("fichier", ""))
-                            url_str = url_by_file.get(fichier_key, "")
-                        docs.append(Doc(
-                            page_content=to_str(r.get("text", "")),
-                            metadata={"url": url_str}
-                        ))
-
-                # =========================
-                # 3) Construire le contexte
-                # =========================
-                context_parts = []
-                for d in docs or []:
-                    meta = getattr(d, "metadata", {}) or {}
-                    url = to_str(meta.get("url", "URL inconnue"))
-                    page_content = to_str(getattr(d, "page_content", ""))
-                    if page_content:
-                        context_parts.append(f"[Source: {url}]\n{page_content}")
-                context = "\n\n".join(context_parts)
-
-                if not context.strip():
-                    st.error("Aucun contexte trouvé dans la base.")
-                else:
-                    llm = ChatOpenAI(
-                        model="gpt-4o-mini",
-                        temperature=0.2,
-                        openai_api_key=get_openai_key()
-                    )
-                    prompt = f"""
-Tu es un expert de notre entreprise. Voici des extraits de nos formations :
-
-{context}
-
-Réponds précisément à la question suivante en utilisant uniquement ces extraits.
-Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette information dans notre base actuelle."
-
-Question : {user_question}
-""".strip()
-                    response = llm.invoke(prompt)
-                    st.success(response.content)
-
-        except Exception as e:
-            st.error("Une erreur est survenue dans la recherche intelligente.")
-            st.exception(e)
-    else:
-        st.info("Saisis une question pour lancer la recherche.")
