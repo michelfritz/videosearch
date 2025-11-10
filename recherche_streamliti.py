@@ -140,7 +140,7 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     chips = [t.strip() for t in str(themes_str).split("|") if t.strip()]
     if not chips: return
     items_html = "".join([f"<span class='tag'>{html.escape(c)}</span>" for c in chips])
-    html_block = f\"\"\"
+    html_block = f"""
     <style>
       .tagbox-{uid} .bar{{display:flex;align-items:center;gap:.25rem;margin:.25rem 0;}}
       .tagbox-{uid} .wrap{{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);
@@ -158,12 +158,12 @@ def render_tags_scroller(themes_str: str, uid: str, height: int = 120):
     </style>
     <div class="tagbox-{uid}">
       <div class="bar">
-        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({left:-320,behavior:'smooth'})">&#9664;</button>
+        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:-320,behavior:'smooth'}})">&#9664;</button>
         <div id="wrap-{uid}" class="wrap" style="height:{height-24}px">{items_html}</div>
-        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({left:320,behavior:'smooth'})">&#9654;</button>
+        <button class="btn" onclick="document.getElementById('wrap-{uid}').scrollBy({{left:320,behavior:'smooth'}})">&#9654;</button>
       </div>
     </div>
-    \"\"\"
+    """
     st.components.v1.html(html_block, height=height, scrolling=False)
 
 def render_tags_scroller_interactive(tags: list[str], uid: str, height: int = 136):
@@ -208,10 +208,8 @@ def handle_select_tag_from_query():
         if tag:
             st.session_state.selected_theme = tag
             st.session_state.nav = "🔍 Recherche"
-            # Nettoyer l'URL si possible (API évolutive selon versions)
             try:
                 if hasattr(st, "query_params"):
-                    # réaffectation complète supprime le paramètre
                     all_q = dict(st.query_params)
                     all_q.pop("select_tag", None)
                     st.query_params = all_q
@@ -219,7 +217,6 @@ def handle_select_tag_from_query():
                 pass
             st.session_state.reset_search = True
     except Exception:
-        # Ne pas planter si l'API n'existe pas
         pass
 
 init_state()
@@ -276,17 +273,13 @@ def charger_newsletter_html(nom_fichier):
     return None
 
 def _inline_local_images(html_doc: str, base_folder: str) -> str:
-    \"\"\"Remplace les <img src=...> relatifs par des data:URI (base64) pour Cloud Run.
-    Ne touche pas aux URLs http(s) ni aux data: existants.\"\"\"
     def repl_src(m):
         quote = m.group(1)
         src   = m.group(2).strip()
         if not src or src.startswith("http://") or src.startswith("https://") or src.startswith("data:"):
             return m.group(0)
-        # normaliser le chemin local
         candidate = src
         if candidate.startswith("/"):
-            # chemin absolu dans l'URL → on le résout depuis BASE_DIR
             abs_path = os.path.join(BASE_DIR, candidate.lstrip("/"))
         elif candidate.startswith("newsletters/"):
             abs_path = os.path.join(BASE_DIR, candidate)
@@ -297,7 +290,6 @@ def _inline_local_images(html_doc: str, base_folder: str) -> str:
         try:
             mime, _ = mimetypes.guess_type(abs_path)
             if not mime:
-                # fallback binaire
                 mime = "application/octet-stream"
             with open(abs_path, "rb") as f:
                 b64 = base64.b64encode(f.read()).decode("ascii")
@@ -305,9 +297,7 @@ def _inline_local_images(html_doc: str, base_folder: str) -> str:
         except Exception:
             return m.group(0)
 
-    # double quotes
     html_doc = re.sub(r'src=(")([^"]+)\1', repl_src, html_doc, flags=re.IGNORECASE)
-    # single quotes
     html_doc = re.sub(r"src=(')([^']+)\1", repl_src, html_doc, flags=re.IGNORECASE)
     return html_doc
 
@@ -315,19 +305,16 @@ def fix_newsletter_html(html_src: str, base_folder: str = NEWSLETTER_DIR) -> str
     html_doc = html_src or ""
     if not html_doc: return ""
 
-    # 1) Réécrire chemins simples 'images/...'
     html_doc = html_doc.replace('src="images/', f'src="{os.path.join(base_folder, "images")}/')
     html_doc = html_doc.replace("src='images/", f"src='{os.path.join(base_folder, 'images')}/")
     html_doc = html_doc.replace('href="images/', f'href="{os.path.join(base_folder, "images")}/')
     html_doc = html_doc.replace("href='images/", f"href='{os.path.join(base_folder, 'images')}/")
 
-    # 2) Nettoyage scripts/styles lourds
     html_doc = re.sub(r"(?is)<script.*?>.*?</script>", "", html_doc)
     html_doc = re.sub(r'(?is)<link[^>]+rel=["\\\']stylesheet["\\\'][^>]*>', "", html_doc)
     html_doc = re.sub(r"(?is)<style.*?>.*?</style>", "", html_doc)
     html_doc = re.sub(r'(?is)\\sstyle=["\\\'][^"\\\']*["\\\']', "", html_doc)
 
-    # 3) Extraire titre puis retirer blocs overlay/hero/badges
     title_txt = ""
     m_title = re.search(r'(?is)<div\\s+class=["\\\']title["\\\'][^>]*>(.*?)</div>', html_doc)
     if m_title:
@@ -339,10 +326,8 @@ def fix_newsletter_html(html_src: str, base_folder: str = NEWSLETTER_DIR) -> str
     html_doc = re.sub(r'(?is)<div\\s+class=["\\\']hero["\\\'][^>]*>.*?</div>', "", html_doc)
     html_doc = re.sub(r'(?is)<div\\s+class=["\\\']badges["\\\'].*?>.*?</div>', "", html_doc)
 
-    # 3bis) Inline des images locales pour Cloud Run
     html_doc = _inline_local_images(html_doc, base_folder)
 
-    # 4) CSS & rendu isolé
     css = """
     <style>
       :root { color-scheme: dark; }
@@ -382,14 +367,11 @@ def charger_urls_et_idees_themes():
     if urls.empty:
         urls = pd.DataFrame(columns=["titre","date","resume","idees","themes","fichier","url"])
 
-    # normaliser colonnes
     for col in ("titre","date","resume","idees","themes","fichier","url"):
         if col not in urls.columns: urls[col] = np.nan
 
-    # drop lignes totalement vides
     urls = urls.dropna(how="all").copy()
 
-    # valeurs affichage par défaut
     urls["titre"]   = urls["titre"].fillna("Titre inconnu")
     urls["resume"]  = urls["resume"].fillna("")
     urls["idees"]   = urls["idees"].fillna("")
@@ -397,7 +379,6 @@ def charger_urls_et_idees_themes():
     urls["fichier"] = urls["fichier"].fillna("").astype(str)
     urls["url"]     = urls["url"].fillna("").astype(str)
 
-    # 1) garder les lignes ayant au moins un champ utile
     def _is_blank(x):
         s = str(x).strip().lower()
         return (s == "") or (s == "nan") or (s == "none") or pd.isna(x)
@@ -405,15 +386,12 @@ def charger_urls_et_idees_themes():
     essential_cols = ["url", "fichier", "titre", "resume", "themes"]
     urls = urls[~urls[essential_cols].applymap(_is_blank).all(axis=1)].copy()
 
-    # 2) filtrer les URLs invraisemblables (mais garder les fiches avec fichier)
     def _url_ok(u):
         if _is_blank(u): return False
         u = str(u).strip()
         return ("youtube.com/watch?v=" in u) or ("youtu.be/" in u) or u.startswith("http")
     urls = urls[urls["url"].apply(_url_ok) | ~urls["fichier"].apply(_is_blank)].copy()
 
-    # 3) colonne 'date' propre pour tri (date_sort) + colonne d'affichage
-    #    On ne casse pas 'date' si elle contient des libellés libres; on crée 'date_sort'
     urls["date_str"]  = urls["date"].fillna("Date inconnue").astype(str)
     urls["date_sort"] = pd.to_datetime(urls["date"], errors="coerce")
 
@@ -432,7 +410,6 @@ def charger_urls_et_idees_themes():
     mesthemes = _normalize_columns(safe_read_csv("mesthemes.csv"))
     mesthemes_list = mesthemes["themes"].dropna().tolist() if "themes" in mesthemes.columns else []
 
-    # merge pour un df pratique si besoin
     df = urls.copy()
     if "fichier" in df.columns and "fichier" in idees.columns:
         df = pd.merge(df, idees[["fichier","idees"]], on="fichier", how="left")
@@ -443,7 +420,6 @@ def charger_urls_et_idees_themes():
 
 @st.cache_data
 def charger_df_seul():
-    # Pour éviter de charger 'vecteurs.pkl' si on n'en a pas besoin
     try:
         df = safe_read_csv("blocs_fusionnes.csv")
         for col in ("url", "start", "text", "fichier"):
@@ -456,13 +432,11 @@ def charger_df_seul():
 
 @st.cache_resource
 def charger_vecteurs():
-    # lourd → cache_resource (pas de re-pickling, réutilise l'objet en mémoire)
     vec = safe_load_pickle("vecteurs.pkl")
     if isinstance(vec, np.ndarray):
         return vec
     if vec is None:
         return np.zeros((0, 1536), dtype="float32")
-    # tolère listes python picklées
     try:
         arr = np.array(vec, dtype="float32")
     except Exception:
@@ -501,14 +475,12 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
 # =========================
 urls_merge_df, idees_v2_df, themes_df, mesthemes_list, urls_df = charger_urls_et_idees_themes()
 
-# Préparer tous les tags (thèmes)
 _all_themes_list = []
 if "themes" in themes_df.columns:
     for theme_list in themes_df["themes"].dropna():
         _all_themes_list.extend(_split_and_clean_tags(theme_list))
 all_themes = list(dict.fromkeys(_all_themes_list))
 
-# Fallback URL par 'fichier'
 url_by_file = {}
 if "fichier" in urls_df.columns and "url" in urls_df.columns:
     url_by_file = dict(zip(urls_df["fichier"].astype(str), urls_df["url"].astype(str)))
@@ -528,7 +500,6 @@ menu = st.sidebar.radio("Navigation", options, index=options.index(default), key
 #   PAGES
 # =========================
 if menu == "🔍 Recherche":
-    # Lazy load du corpus heavy pour éviter crash au 1er rendu
     df = charger_df_seul()
     vecteurs = charger_vecteurs()
 
@@ -634,7 +605,6 @@ elif menu == "🎥 Toutes les vidéos":
             axis=1
         )]
 
-    # Assurer une colonne de tri sûre
     if "date_sort" not in urls_view.columns:
         urls_view["date_sort"] = pd.to_datetime(urls_view.get("date", None), errors="coerce")
 
@@ -651,7 +621,6 @@ elif menu == "🎥 Toutes les vidéos":
 
     for _, row in urls_view.iterrows():
         video_name  = to_str(row.get("titre", "Titre inconnu"))
-        # Affichage : préférer date_str si dispo
         video_date  = to_str(row.get("date_str", row.get("date", "Date inconnue")))
         fichier_nom = to_str(row.get("fichier", ""))
         primary_title = fichier_nom if fichier_nom else video_name
@@ -666,7 +635,6 @@ elif menu == "🎥 Toutes les vidéos":
 
         youtube_id = extract_youtube_id(url_str)
 
-        # Masquer cartes vides
         if (to_str(url_str) == "") and (video_name == "Titre inconnu"):
             continue
 
@@ -686,7 +654,6 @@ elif menu == "🎥 Toutes les vidéos":
 
             if resume: st.markdown(f"📜 {resume}")
 
-            # -------- Newsletter ----------
             if fichier_nom:
                 state_key = f"show_newsletter_{fichier_nom}"
                 if st.button("📬 Newsletter liée à cette vidéo", key=f"btn_nl_{fichier_nom}"):
@@ -701,7 +668,6 @@ elif menu == "🎥 Toutes les vidéos":
                             bouton_telecharger_newsletter(fichier_nom, newsletter_contenu)
                     else:
                         st.warning("❌ Pas de newsletter disponible pour cette vidéo.")
-            # ------------------------------
 
             if themes:
                 render_tags_scroller(themes, uid=(fichier_nom or 'tags'))
@@ -759,7 +725,7 @@ elif menu == "🧠 Moteur intelligent":
                         docs = vectordb.similarity_search(user_question, k=5)
                         if DEBUG_MODE: st.write("DEBUG: résultats FAISS →", len(docs))
                     except Exception as e_faiss:
-                        st.warning(f"⚠️ FAISS indisponible: {e_faiss}\\n→ bascule sur numpy")
+                        st.warning(f"⚠️ FAISS indisponible: {e_faiss}\n→ bascule sur numpy")
 
                 if docs is None:
                     if DEBUG_MODE: st.write("DEBUG: Fallback numpy → embed_openai()")
@@ -792,8 +758,8 @@ elif menu == "🧠 Moteur intelligent":
                                 docs.append(Doc(page_content=to_str(r.get("text","")), metadata={"url": url_str}))
                             if DEBUG_MODE: st.write("DEBUG: docs construits →", len(docs))
 
-                context = "\\n\\n".join(
-                    f"[Source: {to_str(getattr(d, 'metadata', {}) or {}).get('url','URL inconnue')}]\\n"
+                context = "\n\n".join(
+                    f"[Source: {to_str(getattr(d, 'metadata', {}) or {}).get('url','URL inconnue')}]\n"
                     f"{to_str(getattr(d,'page_content',''))}"
                     for d in (docs or [])
                 )
@@ -808,7 +774,7 @@ elif menu == "🧠 Moteur intelligent":
                         st.error("Clé OpenAI manquante pour la réponse IA.")
                     else:
                         llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.2, openai_api_key=key)
-                        prompt = f\"\"\"Tu es un expert de notre entreprise. Voici des extraits de nos formations :
+                        prompt = f"""Tu es un expert de notre entreprise. Voici des extraits de nos formations :
 
 {context}
 
@@ -816,7 +782,7 @@ Réponds précisément à la question suivante en utilisant uniquement ces extra
 Si aucune information n'existe, réponds : "Je n'ai pas trouvé cette information dans notre base actuelle."
 
 Question : {user_question}
-\"\"\".strip()
+""".strip()
                         resp = llm.invoke(prompt)
                         if DEBUG_MODE: st.write("DEBUG: réponse reçue")
                         st.success(resp.content)
