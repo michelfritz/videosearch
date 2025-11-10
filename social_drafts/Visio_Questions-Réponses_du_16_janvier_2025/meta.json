@@ -1,0 +1,166 @@
+{
+  "video_file": "Visio Questions-Réponses du 16 janvier 2025",
+  "video_url": "https://www.youtube.com/watch?v=yglzx_7YXLY",
+  "title": "Questions Réponses Du 16 Janvier 2025",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-holding-white-heart-shaped-paper-kVFm9KGrusc",
+          "attribution": {
+            "photographer": "Branimir Balogović",
+            "profile_url": "https://unsplash.com/@brandaohh",
+            "photo_url": "https://unsplash.com/photos/person-holding-white-heart-shaped-paper-kVFm9KGrusc",
+            "unsplash_id": "kVFm9KGrusc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/person-holding-babys-hand-JNwba6cv4e0",
+          "attribution": {
+            "photographer": "A. C.",
+            "profile_url": "https://unsplash.com/@3tnik",
+            "photo_url": "https://unsplash.com/photos/person-holding-babys-hand-JNwba6cv4e0",
+            "unsplash_id": "JNwba6cv4e0"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-zlaldRKYqBY",
+          "attribution": {
+            "photographer": "Kate Bezzubets",
+            "profile_url": "https://unsplash.com/@k8_bzz",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-zlaldRKYqBY",
+            "unsplash_id": "zlaldRKYqBY"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/yellow-painted-wall-with-yellow-paint-N-DZ9-rsfEw",
+          "attribution": {
+            "photographer": "Jimmy Nguyen",
+            "profile_url": "https://unsplash.com/@jimreaper",
+            "photo_url": "https://unsplash.com/photos/yellow-painted-wall-with-yellow-paint-N-DZ9-rsfEw",
+            "unsplash_id": "N-DZ9-rsfEw"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-white-house-with-a-red-roof-and-two-windows-ZnI4oAoN2Kw",
+          "attribution": {
+            "photographer": "Charly Campos",
+            "profile_url": "https://unsplash.com/@cfieldsm",
+            "photo_url": "https://unsplash.com/photos/a-white-house-with-a-red-roof-and-two-windows-ZnI4oAoN2Kw",
+            "unsplash_id": "ZnI4oAoN2Kw"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-man-cleans-a-white-car-pNl2TQ8_Cc8",
+          "attribution": {
+            "photographer": "Varun Kumar e.k",
+            "profile_url": "https://unsplash.com/@varun_ek",
+            "photo_url": "https://unsplash.com/photos/a-man-cleans-a-white-car-pNl2TQ8_Cc8",
+            "unsplash_id": "pNl2TQ8_Cc8"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/man-and-woman-holding-hands-idDvA4jPBO8",
+          "attribution": {
+            "photographer": "Constantin Wenning",
+            "profile_url": "https://unsplash.com/@conniwenningsimages",
+            "photo_url": "https://unsplash.com/photos/man-and-woman-holding-hands-idDvA4jPBO8",
+            "unsplash_id": "idDvA4jPBO8"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-white-dress-shirt-Y_E0Or3TUpg",
+          "attribution": {
+            "photographer": "Nick Karvounis",
+            "profile_url": "https://unsplash.com/@nickkarvounis",
+            "photo_url": "https://unsplash.com/photos/person-wearing-white-dress-shirt-Y_E0Or3TUpg",
+            "unsplash_id": "Y_E0Or3TUpg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+          "attribution": {
+            "photographer": "550Park Luxury Wedding Films",
+            "profile_url": "https://unsplash.com/@550park",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+            "unsplash_id": "Hvoz70ivd4Y"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-paper-model-of-a-house-on-a-blue-background-LLth_aEuv5k",
+          "attribution": {
+            "photographer": "Ashin K Suresh",
+            "profile_url": "https://unsplash.com/@ashin_k_suresh",
+            "photo_url": "https://unsplash.com/photos/a-paper-model-of-a-house-on-a-blue-background-LLth_aEuv5k",
+            "unsplash_id": "LLth_aEuv5k"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-white-and-brown-house-with-a-black-roof-DLpPYo-u-WY",
+          "attribution": {
+            "photographer": "Roger Starnes Sr",
+            "profile_url": "https://unsplash.com/@rstar50",
+            "photo_url": "https://unsplash.com/photos/a-white-and-brown-house-with-a-black-roof-DLpPYo-u-WY",
+            "unsplash_id": "DLpPYo-u-WY"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-building-with-flowers-on-the-windows-GqDjMmYqDWE",
+          "attribution": {
+            "photographer": "Markus Winkler",
+            "profile_url": "https://unsplash.com/@markuswinkler",
+            "photo_url": "https://unsplash.com/photos/a-building-with-flowers-on-the-windows-GqDjMmYqDWE",
+            "unsplash_id": "GqDjMmYqDWE"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

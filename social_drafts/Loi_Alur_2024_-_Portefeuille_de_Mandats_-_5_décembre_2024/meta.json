@@ -1,0 +1,166 @@
+{
+  "video_file": "Loi Alur 2024 - Portefeuille de Mandats - 5 décembre 2024",
+  "video_url": "https://www.youtube.com/watch?v=Hf37VEXRa3U",
+  "title": "Loi Alur 2024 Portefeuille De Mandats 5 Décembre 2024",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-FonPN-EHOrc",
+          "attribution": {
+            "photographer": "Tai's Captures",
+            "profile_url": "https://unsplash.com/@taiscaptures",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-FonPN-EHOrc",
+            "unsplash_id": "FonPN-EHOrc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-brick-wall-4jHORQi_B4w",
+          "attribution": {
+            "photographer": "armina arhm",
+            "profile_url": "https://unsplash.com/@a__arhm",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-brick-wall-4jHORQi_B4w",
+            "unsplash_id": "4jHORQi_B4w"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-wearing-a-suit-and-tie-O6rU5z1FTec",
+          "attribution": {
+            "photographer": "Filipp Romanovski",
+            "profile_url": "https://unsplash.com/@filipp_roman_photography",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-wearing-a-suit-and-tie-O6rU5z1FTec",
+            "unsplash_id": "O6rU5z1FTec"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/opened-book-page-YdwMQMIrdww",
+          "attribution": {
+            "photographer": "pranav anand",
+            "profile_url": "https://unsplash.com/@pranavanand",
+            "photo_url": "https://unsplash.com/photos/opened-book-page-YdwMQMIrdww",
+            "unsplash_id": "YdwMQMIrdww"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/grayscale-photo-of-person-writing-on-notebook-MbClFGJBH6k",
+          "attribution": {
+            "photographer": "Signature Pro",
+            "profile_url": "https://unsplash.com/@signaturepro",
+            "photo_url": "https://unsplash.com/photos/grayscale-photo-of-person-writing-on-notebook-MbClFGJBH6k",
+            "unsplash_id": "MbClFGJBH6k"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/black-and-silver-camera-on-books-Pe5AxQtav0c",
+          "attribution": {
+            "photographer": "Syed Aoun Abbas",
+            "profile_url": "https://unsplash.com/@aoun17",
+            "photo_url": "https://unsplash.com/photos/black-and-silver-camera-on-books-Pe5AxQtav0c",
+            "unsplash_id": "Pe5AxQtav0c"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-in-front-of-a-computer-monitor-CTlq8OuK8-U",
+          "attribution": {
+            "photographer": "David Trinks",
+            "profile_url": "https://unsplash.com/@dtrinksrph",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-in-front-of-a-computer-monitor-CTlq8OuK8-U",
+            "unsplash_id": "CTlq8OuK8-U"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-in-front-of-a-computer-monitor-CTlq8OuK8-U",
+          "attribution": {
+            "photographer": "David Trinks",
+            "profile_url": "https://unsplash.com/@dtrinksrph",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-in-front-of-a-computer-monitor-CTlq8OuK8-U",
+            "unsplash_id": "CTlq8OuK8-U"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+          "attribution": {
+            "photographer": "550Park Luxury Wedding Films",
+            "profile_url": "https://unsplash.com/@550park",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+            "unsplash_id": "Hvoz70ivd4Y"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/papers-and-pens-are-spread-on-a-desktop-2iRt1pgtztM",
+          "attribution": {
+            "photographer": "sara sanchez sabogal",
+            "profile_url": "https://unsplash.com/@sara_a_sanchez",
+            "photo_url": "https://unsplash.com/photos/papers-and-pens-are-spread-on-a-desktop-2iRt1pgtztM",
+            "unsplash_id": "2iRt1pgtztM"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-few-people-sitting-at-a-table-O2GCr83qCdg",
+          "attribution": {
+            "photographer": "sarah b",
+            "profile_url": "https://unsplash.com/@sixthcitysarah",
+            "photo_url": "https://unsplash.com/photos/a-few-people-sitting-at-a-table-O2GCr83qCdg",
+            "unsplash_id": "O2GCr83qCdg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/man-and-two-women-sitting-beside-brown-wooden-table-close-up-photography-Dx6lpoMAG-Y",
+          "attribution": {
+            "photographer": "Van Tay Media",
+            "profile_url": "https://unsplash.com/@vantaymedia",
+            "photo_url": "https://unsplash.com/photos/man-and-two-women-sitting-beside-brown-wooden-table-close-up-photography-Dx6lpoMAG-Y",
+            "unsplash_id": "Dx6lpoMAG-Y"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

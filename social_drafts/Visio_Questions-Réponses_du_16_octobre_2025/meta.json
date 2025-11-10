@@ -1,0 +1,186 @@
+{
+  "video_file": "Visio Questions-Réponses du 16 octobre 2025",
+  "video_url": "https://www.youtube.com/watch?v=AFQ-JeM-5xk",
+  "title": "Restez informés sur le marché immobilier!",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-white-building-with-lots-of-windows-Upxy_xFdCxs",
+          "attribution": {
+            "photographer": "Danist Soh",
+            "profile_url": "https://unsplash.com/@danist07",
+            "photo_url": "https://unsplash.com/photos/a-tall-white-building-with-lots-of-windows-Upxy_xFdCxs",
+            "unsplash_id": "Upxy_xFdCxs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-building-with-a-large-window-qZEtCM39DTk",
+          "attribution": {
+            "photographer": "Alan Rostovtev",
+            "profile_url": "https://unsplash.com/@alanrost",
+            "photo_url": "https://unsplash.com/photos/a-building-with-a-large-window-qZEtCM39DTk",
+            "unsplash_id": "qZEtCM39DTk"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/modern-white-high-rise-buildings-against-a-clear-sky-r475UhDdLMQ",
+          "attribution": {
+            "photographer": "Haberdoedas",
+            "profile_url": "https://unsplash.com/@haberdoedas",
+            "photo_url": "https://unsplash.com/photos/modern-white-high-rise-buildings-against-a-clear-sky-r475UhDdLMQ",
+            "unsplash_id": "r475UhDdLMQ"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-man-is-adjusting-his-cufflink-gKPXsVnfCsw",
+          "attribution": {
+            "photographer": "Pablo Lancaster Jones",
+            "profile_url": "https://unsplash.com/@fotolancaster",
+            "photo_url": "https://unsplash.com/photos/a-man-is-adjusting-his-cufflink-gKPXsVnfCsw",
+            "unsplash_id": "gKPXsVnfCsw"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-holding-the-hand-of-another-person-MngNtT2BlA4",
+          "attribution": {
+            "photographer": "Taha Raef",
+            "profile_url": "https://unsplash.com/@__raef__",
+            "photo_url": "https://unsplash.com/photos/a-person-holding-the-hand-of-another-person-MngNtT2BlA4",
+            "unsplash_id": "MngNtT2BlA4"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-gMuTY0U9NxU",
+          "attribution": {
+            "photographer": "Filipp Romanovski",
+            "profile_url": "https://unsplash.com/@filipp_roman_photography",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-gMuTY0U9NxU",
+            "unsplash_id": "gMuTY0U9NxU"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/three-white-houses-under-blue-sky-PHDjXu1Jtus",
+          "attribution": {
+            "photographer": "Alexander Tsang",
+            "profile_url": "https://unsplash.com/@alexander_tsang",
+            "photo_url": "https://unsplash.com/photos/three-white-houses-under-blue-sky-PHDjXu1Jtus",
+            "unsplash_id": "PHDjXu1Jtus"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/modern-apartment-buildings-against-a-blue-sky-YUD5bTxAm9k",
+          "attribution": {
+            "photographer": "Mihai Neagu",
+            "profile_url": "https://unsplash.com/@mihaufy",
+            "photo_url": "https://unsplash.com/photos/modern-apartment-buildings-against-a-blue-sky-YUD5bTxAm9k",
+            "unsplash_id": "YUD5bTxAm9k"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-with-a-crane-on-top-of-it-W05EYgNSPgE",
+          "attribution": {
+            "photographer": "Prajwal Hiremath",
+            "profile_url": "https://unsplash.com/@prajwalhiremath",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-with-a-crane-on-top-of-it-W05EYgNSPgE",
+            "unsplash_id": "W05EYgNSPgE"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-NzIV4vOBA7s",
+          "attribution": {
+            "photographer": "Rock Staar",
+            "profile_url": "https://unsplash.com/@rockstaar_",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-NzIV4vOBA7s",
+            "unsplash_id": "NzIV4vOBA7s"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+          "attribution": {
+            "photographer": "550Park Luxury Wedding Films",
+            "profile_url": "https://unsplash.com/@550park",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+            "unsplash_id": "Hvoz70ivd4Y"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-cigarette-stick-eXX2tMFs1sQ",
+          "attribution": {
+            "photographer": "Erik Mclean",
+            "profile_url": "https://unsplash.com/@introspectivedsgn",
+            "photo_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-cigarette-stick-eXX2tMFs1sQ",
+            "unsplash_id": "eXX2tMFs1sQ"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

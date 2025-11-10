@@ -1,0 +1,166 @@
+{
+  "video_file": "Visio Questions-Réponses du 13 mars 2025",
+  "video_url": "https://www.youtube.com/watch?v=R2NE2SjpZ5c",
+  "title": "Questions Réponses Du 13 Mars 2025",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-holding-babys-hand-JNwba6cv4e0",
+          "attribution": {
+            "photographer": "A. C.",
+            "profile_url": "https://unsplash.com/@3tnik",
+            "photo_url": "https://unsplash.com/photos/person-holding-babys-hand-JNwba6cv4e0",
+            "unsplash_id": "JNwba6cv4e0"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-brick-wall-4jHORQi_B4w",
+          "attribution": {
+            "photographer": "armina arhm",
+            "profile_url": "https://unsplash.com/@a__arhm",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-brick-wall-4jHORQi_B4w",
+            "unsplash_id": "4jHORQi_B4w"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-zlaldRKYqBY",
+          "attribution": {
+            "photographer": "Kate Bezzubets",
+            "profile_url": "https://unsplash.com/@k8_bzz",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-zlaldRKYqBY",
+            "unsplash_id": "zlaldRKYqBY"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-house-with-a-clock-on-the-front-of-it-SPSbLtt1_HI",
+          "attribution": {
+            "photographer": "Sudhakar Lahade",
+            "profile_url": "https://unsplash.com/@slahade",
+            "photo_url": "https://unsplash.com/photos/a-house-with-a-clock-on-the-front-of-it-SPSbLtt1_HI",
+            "unsplash_id": "SPSbLtt1_HI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/view-photography-of-blue-concrete-house-yNx21UQm0-w",
+          "attribution": {
+            "photographer": "Rico Arya Prakoso",
+            "profile_url": "https://unsplash.com/@ricoaryaprakoso",
+            "photo_url": "https://unsplash.com/photos/view-photography-of-blue-concrete-house-yNx21UQm0-w",
+            "unsplash_id": "yNx21UQm0-w"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-blue-concrete-house-under-blue-sky-during-daytime-gQIWlK9SEaA",
+          "attribution": {
+            "photographer": "Corina Rainer",
+            "profile_url": "https://unsplash.com/@corina_rainer_",
+            "photo_url": "https://unsplash.com/photos/white-and-blue-concrete-house-under-blue-sky-during-daytime-gQIWlK9SEaA",
+            "unsplash_id": "gQIWlK9SEaA"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-a-persons-hand-ZYrbtOGXEos",
+          "attribution": {
+            "photographer": "Gerald Berliner",
+            "profile_url": "https://unsplash.com/@geraberl",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-a-persons-hand-ZYrbtOGXEos",
+            "unsplash_id": "ZYrbtOGXEos"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-are-shaking-hands-Pfs5Xf0kiG8",
+          "attribution": {
+            "photographer": "dlxmedia.hu",
+            "profile_url": "https://unsplash.com/@dlxmedia",
+            "photo_url": "https://unsplash.com/photos/two-people-are-shaking-hands-Pfs5Xf0kiG8",
+            "unsplash_id": "Pfs5Xf0kiG8"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-NzIV4vOBA7s",
+          "attribution": {
+            "photographer": "Rock Staar",
+            "profile_url": "https://unsplash.com/@rockstaar_",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-NzIV4vOBA7s",
+            "unsplash_id": "NzIV4vOBA7s"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-large-white-house-with-a-red-roof-mFNgSz7Swoc",
+          "attribution": {
+            "photographer": "mark",
+            "profile_url": "https://unsplash.com/@kxvn",
+            "photo_url": "https://unsplash.com/photos/a-large-white-house-with-a-red-roof-mFNgSz7Swoc",
+            "unsplash_id": "mFNgSz7Swoc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/an-apartment-building-with-a-balcony-and-balconies-UwErzqS_rVU",
+          "attribution": {
+            "photographer": "Adrian Hernandez",
+            "profile_url": "https://unsplash.com/@iceage26",
+            "photo_url": "https://unsplash.com/photos/an-apartment-building-with-a-balcony-and-balconies-UwErzqS_rVU",
+            "unsplash_id": "UwErzqS_rVU"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-white-and-brown-house-with-a-black-roof-DLpPYo-u-WY",
+          "attribution": {
+            "photographer": "Roger Starnes Sr",
+            "profile_url": "https://unsplash.com/@rstar50",
+            "photo_url": "https://unsplash.com/photos/a-white-and-brown-house-with-a-black-roof-DLpPYo-u-WY",
+            "unsplash_id": "DLpPYo-u-WY"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

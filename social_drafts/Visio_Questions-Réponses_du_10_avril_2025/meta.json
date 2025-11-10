@@ -1,0 +1,166 @@
+{
+  "video_file": "Visio Questions-Réponses du 10 avril 2025",
+  "video_url": "https://www.youtube.com/watch?v=sABhIWgx0yA",
+  "title": "Questions Réponses Du 10 Avril 2025",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-hands-bX0tQ0HTRLg",
+          "attribution": {
+            "photographer": "Palden Gyamtso",
+            "profile_url": "https://unsplash.com/@_infinitycanvas",
+            "photo_url": "https://unsplash.com/photos/person-hands-bX0tQ0HTRLg",
+            "unsplash_id": "bX0tQ0HTRLg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-persons-hands-with-a-ring-on-their-wrist-kAOL6GOJDPE",
+          "attribution": {
+            "photographer": "Clay Banks",
+            "profile_url": "https://unsplash.com/@claybanks",
+            "photo_url": "https://unsplash.com/photos/a-persons-hands-with-a-ring-on-their-wrist-kAOL6GOJDPE",
+            "unsplash_id": "kAOL6GOJDPE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/holding-hands-Yv_cOo72F8I",
+          "attribution": {
+            "photographer": "Jon Tyson",
+            "profile_url": "https://unsplash.com/@jontyson",
+            "photo_url": "https://unsplash.com/photos/holding-hands-Yv_cOo72F8I",
+            "unsplash_id": "Yv_cOo72F8I"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/finance-book-MjQ4rsuHF4U",
+          "attribution": {
+            "photographer": "Ivan Shilov",
+            "profile_url": "https://unsplash.com/@mycreate",
+            "photo_url": "https://unsplash.com/photos/finance-book-MjQ4rsuHF4U",
+            "unsplash_id": "MjQ4rsuHF4U"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/finance-book-MjQ4rsuHF4U",
+          "attribution": {
+            "photographer": "Ivan Shilov",
+            "profile_url": "https://unsplash.com/@mycreate",
+            "photo_url": "https://unsplash.com/photos/finance-book-MjQ4rsuHF4U",
+            "unsplash_id": "MjQ4rsuHF4U"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/finance-book-MjQ4rsuHF4U",
+          "attribution": {
+            "photographer": "Ivan Shilov",
+            "profile_url": "https://unsplash.com/@mycreate",
+            "photo_url": "https://unsplash.com/photos/finance-book-MjQ4rsuHF4U",
+            "unsplash_id": "MjQ4rsuHF4U"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-YQgCkDUst2o",
+          "attribution": {
+            "photographer": "Lucas T Photography",
+            "profile_url": "https://unsplash.com/@lucastphotography",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-YQgCkDUst2o",
+            "unsplash_id": "YQgCkDUst2o"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-gold-round-analog-watch-xw4pDqavzAs",
+          "attribution": {
+            "photographer": "Alexis Fauvet",
+            "profile_url": "https://unsplash.com/@childeye",
+            "photo_url": "https://unsplash.com/photos/person-wearing-gold-round-analog-watch-xw4pDqavzAs",
+            "unsplash_id": "xw4pDqavzAs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-in-front-of-a-laptop-_XeQ8XEWb4Q",
+          "attribution": {
+            "photographer": "Radission US",
+            "profile_url": "https://unsplash.com/@radission",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-in-front-of-a-laptop-_XeQ8XEWb4Q",
+            "unsplash_id": "_XeQ8XEWb4Q"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-hand-holding-a-pen-fTRZAC-uri4",
+          "attribution": {
+            "photographer": "Masjid MABA",
+            "profile_url": "https://unsplash.com/@masjidmaba",
+            "photo_url": "https://unsplash.com/photos/a-hand-holding-a-pen-fTRZAC-uri4",
+            "unsplash_id": "fTRZAC-uri4"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-typewriter-and-a-lamp-on-a-table-e2DhFvBS6ck",
+          "attribution": {
+            "photographer": "Eugenia Pan'kiv",
+            "profile_url": "https://unsplash.com/@eugenivy_now",
+            "photo_url": "https://unsplash.com/photos/a-typewriter-and-a-lamp-on-a-table-e2DhFvBS6ck",
+            "unsplash_id": "e2DhFvBS6ck"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/real-estate-investment-shown-with-houses-and-money-TDe_01_NrTo",
+          "attribution": {
+            "photographer": "Jakub Żerdzicki",
+            "profile_url": "https://unsplash.com/@jakubzerdzicki",
+            "photo_url": "https://unsplash.com/photos/real-estate-investment-shown-with-houses-and-money-TDe_01_NrTo",
+            "unsplash_id": "TDe_01_NrTo"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

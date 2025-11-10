@@ -1,0 +1,186 @@
+{
+  "video_file": "Visio Questions-Réponses du 2 octobre 2025",
+  "video_url": "https://www.youtube.com/watch?v=cu1WMkKefKQ",
+  "title": "Investir et Vendre en 2025",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-holding-babys-hand-JNwba6cv4e0",
+          "attribution": {
+            "photographer": "A. C.",
+            "profile_url": "https://unsplash.com/@3tnik",
+            "photo_url": "https://unsplash.com/photos/person-holding-babys-hand-JNwba6cv4e0",
+            "unsplash_id": "JNwba6cv4e0"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/person-holding-white-heart-shaped-paper-kVFm9KGrusc",
+          "attribution": {
+            "photographer": "Branimir Balogović",
+            "profile_url": "https://unsplash.com/@brandaohh",
+            "photo_url": "https://unsplash.com/photos/person-holding-white-heart-shaped-paper-kVFm9KGrusc",
+            "unsplash_id": "kVFm9KGrusc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-the-hand-of-another-person-I93zwBiXCx8",
+          "attribution": {
+            "photographer": "Angel Renville",
+            "profile_url": "https://unsplash.com/@angelrenville19",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-the-hand-of-another-person-I93zwBiXCx8",
+            "unsplash_id": "I93zwBiXCx8"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-with-a-clock-on-the-top-of-it-kNgSj3iES6U",
+          "attribution": {
+            "photographer": "Rizky Yogatama",
+            "profile_url": "https://unsplash.com/@rizkyogatama",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-with-a-clock-on-the-top-of-it-kNgSj3iES6U",
+            "unsplash_id": "kNgSj3iES6U"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-with-a-clock-on-the-top-of-it-kNgSj3iES6U",
+          "attribution": {
+            "photographer": "Rizky Yogatama",
+            "profile_url": "https://unsplash.com/@rizkyogatama",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-with-a-clock-on-the-top-of-it-kNgSj3iES6U",
+            "unsplash_id": "kNgSj3iES6U"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/black-and-white-concrete-building-ulOZ-1CLvsY",
+          "attribution": {
+            "photographer": "Matt Reames",
+            "profile_url": "https://unsplash.com/@mattreames",
+            "photo_url": "https://unsplash.com/photos/black-and-white-concrete-building-ulOZ-1CLvsY",
+            "unsplash_id": "ulOZ-1CLvsY"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/two-business-partners-shaking-hands-in-agreement-gdCwuKCuJWY",
+          "attribution": {
+            "photographer": "Ambre Estève",
+            "profile_url": "https://unsplash.com/@ambresteve",
+            "photo_url": "https://unsplash.com/photos/two-business-partners-shaking-hands-in-agreement-gdCwuKCuJWY",
+            "unsplash_id": "gdCwuKCuJWY"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-piece-of-paper-4mEyvORkbN0",
+          "attribution": {
+            "photographer": "Amina Atar",
+            "profile_url": "https://unsplash.com/@minaslens",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-piece-of-paper-4mEyvORkbN0",
+            "unsplash_id": "4mEyvORkbN0"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/persons-hand-XcN-m2vvcDs",
+          "attribution": {
+            "photographer": "Ricardo Moura",
+            "profile_url": "https://unsplash.com/@ricardomoura",
+            "photo_url": "https://unsplash.com/photos/persons-hand-XcN-m2vvcDs",
+            "unsplash_id": "XcN-m2vvcDs"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-FSSOBzqECIc",
+          "attribution": {
+            "photographer": "Auro Realty",
+            "profile_url": "https://unsplash.com/@aurorealty",
+            "photo_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-FSSOBzqECIc",
+            "unsplash_id": "FSSOBzqECIc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-IsjWm6Y1niQ",
+          "attribution": {
+            "photographer": "john xiao",
+            "profile_url": "https://unsplash.com/@xiaotojohn",
+            "photo_url": "https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-IsjWm6Y1niQ",
+            "unsplash_id": "IsjWm6Y1niQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-T6bN5HJf6bI",
+          "attribution": {
+            "photographer": "Auro Realty",
+            "profile_url": "https://unsplash.com/@aurorealty",
+            "photo_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-T6bN5HJf6bI",
+            "unsplash_id": "T6bN5HJf6bI"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

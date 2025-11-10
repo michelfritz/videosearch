@@ -1,0 +1,186 @@
+{
+  "video_file": "Visio Alur 2025 - Responsabilité - 6 novembre 2025",
+  "video_url": "https://www.youtube.com/watch?v=ZvXWr93mwdc",
+  "title": "Préparez-vous pour Alur 2025 !",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA",
+          "attribution": {
+            "photographer": "Austin Kehmeier",
+            "profile_url": "https://unsplash.com/@a_kehmeier",
+            "photo_url": "https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA",
+            "unsplash_id": "lyiKExA4zQA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA",
+          "attribution": {
+            "photographer": "Austin Kehmeier",
+            "profile_url": "https://unsplash.com/@a_kehmeier",
+            "photo_url": "https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA",
+            "unsplash_id": "lyiKExA4zQA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/people-holding-hands-vM4-o55wE3E",
+          "attribution": {
+            "photographer": "Oliver Cole",
+            "profile_url": "https://unsplash.com/@oliver_photographer",
+            "photo_url": "https://unsplash.com/photos/people-holding-hands-vM4-o55wE3E",
+            "unsplash_id": "vM4-o55wE3E"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/black-educational-books-BJ_BMDHjxhc",
+          "attribution": {
+            "photographer": "Marissa Grootes",
+            "profile_url": "https://unsplash.com/@marissacristina",
+            "photo_url": "https://unsplash.com/photos/black-educational-books-BJ_BMDHjxhc",
+            "unsplash_id": "BJ_BMDHjxhc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/person-sitting-on-chair-in-front-of-computer-gyakyi02Qcs",
+          "attribution": {
+            "photographer": "Nima Sarram",
+            "profile_url": "https://unsplash.com/@sarramphotography",
+            "photo_url": "https://unsplash.com/photos/person-sitting-on-chair-in-front-of-computer-gyakyi02Qcs",
+            "unsplash_id": "gyakyi02Qcs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/an-open-book-sitting-on-top-of-a-table-HSlDZ7suCQQ",
+          "attribution": {
+            "photographer": "Sofya Kholodkova",
+            "profile_url": "https://unsplash.com/@nordzonne",
+            "photo_url": "https://unsplash.com/photos/an-open-book-sitting-on-top-of-a-table-HSlDZ7suCQQ",
+            "unsplash_id": "HSlDZ7suCQQ"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-silver-ring-holding-white-paper-F371xdVbybs",
+          "attribution": {
+            "photographer": "Heather Blough",
+            "profile_url": "https://unsplash.com/@hblough09",
+            "photo_url": "https://unsplash.com/photos/person-wearing-silver-ring-holding-white-paper-F371xdVbybs",
+            "unsplash_id": "F371xdVbybs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-gold-round-analog-watch-xw4pDqavzAs",
+          "attribution": {
+            "photographer": "Alexis Fauvet",
+            "profile_url": "https://unsplash.com/@childeye",
+            "photo_url": "https://unsplash.com/photos/person-wearing-gold-round-analog-watch-xw4pDqavzAs",
+            "unsplash_id": "xw4pDqavzAs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-men-facing-each-other-while-shake-hands-and-smiling-NbtIDoFKGO8",
+          "attribution": {
+            "photographer": "Sebastian Herrmann",
+            "profile_url": "https://unsplash.com/@officestock",
+            "photo_url": "https://unsplash.com/photos/two-men-facing-each-other-while-shake-hands-and-smiling-NbtIDoFKGO8",
+            "unsplash_id": "NbtIDoFKGO8"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/text-DoAM33prby4",
+          "attribution": {
+            "photographer": "Brett Jordan",
+            "profile_url": "https://unsplash.com/@brett_jordan",
+            "photo_url": "https://unsplash.com/photos/text-DoAM33prby4",
+            "unsplash_id": "DoAM33prby4"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-writing-on-a-notebook-with-a-laptop-in-the-background-0KT9gxj_BdM",
+          "attribution": {
+            "photographer": "Светлана Химочка",
+            "profile_url": "https://unsplash.com/@oraswet",
+            "photo_url": "https://unsplash.com/photos/a-person-writing-on-a-notebook-with-a-laptop-in-the-background-0KT9gxj_BdM",
+            "unsplash_id": "0KT9gxj_BdM"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-man-in-a-suit-writing-on-a-piece-of-paper-hPCxZUDqdaY",
+          "attribution": {
+            "photographer": "Hananeh Reisi",
+            "profile_url": "https://unsplash.com/@hananehreisi",
+            "photo_url": "https://unsplash.com/photos/a-man-in-a-suit-writing-on-a-piece-of-paper-hPCxZUDqdaY",
+            "unsplash_id": "hPCxZUDqdaY"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

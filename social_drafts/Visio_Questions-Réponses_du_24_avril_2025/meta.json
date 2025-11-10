@@ -1,0 +1,166 @@
+{
+  "video_file": "Visio Questions-Réponses du 24 avril 2025",
+  "video_url": "https://www.youtube.com/watch?v=bmrR71b3vRg",
+  "title": "Questions Réponses Du 24 Avril 2025",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/grayscale-photo-of-man-and-woman-holding-hands-CkDPHkkpBeI",
+          "attribution": {
+            "photographer": "Valeria Machado",
+            "profile_url": "https://unsplash.com/@veemachado9",
+            "photo_url": "https://unsplash.com/photos/grayscale-photo-of-man-and-woman-holding-hands-CkDPHkkpBeI",
+            "unsplash_id": "CkDPHkkpBeI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-in-a-black-suit-is-pointing-at-something-qM0qaVSAaCk",
+          "attribution": {
+            "photographer": "Klim Musalimov",
+            "profile_url": "https://unsplash.com/@klim11",
+            "photo_url": "https://unsplash.com/photos/a-person-in-a-black-suit-is-pointing-at-something-qM0qaVSAaCk",
+            "unsplash_id": "qM0qaVSAaCk"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-FonPN-EHOrc",
+          "attribution": {
+            "photographer": "Tai's Captures",
+            "profile_url": "https://unsplash.com/@taiscaptures",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-FonPN-EHOrc",
+            "unsplash_id": "FonPN-EHOrc"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/white-concrete-building-during-daytime-AZyiK_pLAKg",
+          "attribution": {
+            "photographer": "Jongdae Park",
+            "profile_url": "https://unsplash.com/@jess_lowly_pic",
+            "photo_url": "https://unsplash.com/photos/white-concrete-building-during-daytime-AZyiK_pLAKg",
+            "unsplash_id": "AZyiK_pLAKg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-two-story-building-QSXDXnYE8WQ",
+          "attribution": {
+            "photographer": "Naksha Banwao",
+            "profile_url": "https://unsplash.com/@nakshabanwao",
+            "photo_url": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-two-story-building-QSXDXnYE8WQ",
+            "unsplash_id": "QSXDXnYE8WQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/white-concrete-building-during-daytime-AZyiK_pLAKg",
+          "attribution": {
+            "photographer": "Jongdae Park",
+            "profile_url": "https://unsplash.com/@jess_lowly_pic",
+            "photo_url": "https://unsplash.com/photos/white-concrete-building-during-daytime-AZyiK_pLAKg",
+            "unsplash_id": "AZyiK_pLAKg"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+          "attribution": {
+            "photographer": "550Park Luxury Wedding Films",
+            "profile_url": "https://unsplash.com/@550park",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+            "unsplash_id": "Hvoz70ivd4Y"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/business-partners-shake-hands-making-a-deal-6-iunIrJtbQ",
+          "attribution": {
+            "photographer": "Ambre Estève",
+            "profile_url": "https://unsplash.com/@ambresteve",
+            "photo_url": "https://unsplash.com/photos/business-partners-shake-hands-making-a-deal-6-iunIrJtbQ",
+            "unsplash_id": "6-iunIrJtbQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-shaking-hands-nZi5og5YslQ",
+          "attribution": {
+            "photographer": "David Trinks",
+            "profile_url": "https://unsplash.com/@dtrinksrph",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-shaking-hands-nZi5og5YslQ",
+            "unsplash_id": "nZi5og5YslQ"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-white-building-with-lots-of-windows-1B3fsHHIvjA",
+          "attribution": {
+            "photographer": "Stephen Kong",
+            "profile_url": "https://unsplash.com/@stephenkon9",
+            "photo_url": "https://unsplash.com/photos/a-tall-white-building-with-lots-of-windows-1B3fsHHIvjA",
+            "unsplash_id": "1B3fsHHIvjA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-FSSOBzqECIc",
+          "attribution": {
+            "photographer": "Auro Realty",
+            "profile_url": "https://unsplash.com/@aurorealty",
+            "photo_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-FSSOBzqECIc",
+            "unsplash_id": "FSSOBzqECIc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-T2JK2h4rTdc",
+          "attribution": {
+            "photographer": "Ricardo Gomez Angel",
+            "profile_url": "https://unsplash.com/@rgaleriacom",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-T2JK2h4rTdc",
+            "unsplash_id": "T2JK2h4rTdc"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

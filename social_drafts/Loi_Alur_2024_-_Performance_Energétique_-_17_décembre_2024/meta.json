@@ -1,0 +1,166 @@
+{
+  "video_file": "Loi Alur 2024 - Performance Energétique - 17 décembre 2024",
+  "video_url": "https://www.youtube.com/watch?v=eqHgYCSFheQ",
+  "title": "Loi Alur 2024 Performance Energétique 17 Décembre 2024",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/brown-and-white-wooden-house-e1Lprlo5JNU",
+          "attribution": {
+            "photographer": "Gema Saputera",
+            "profile_url": "https://unsplash.com/@gemasaputera",
+            "photo_url": "https://unsplash.com/photos/brown-and-white-wooden-house-e1Lprlo5JNU",
+            "unsplash_id": "e1Lprlo5JNU"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-large-white-house-with-a-red-roof-5Oqde6yugbg",
+          "attribution": {
+            "photographer": "Jose Noel Marenco",
+            "profile_url": "https://unsplash.com/@jnmarenco",
+            "photo_url": "https://unsplash.com/photos/a-large-white-house-with-a-red-roof-5Oqde6yugbg",
+            "unsplash_id": "5Oqde6yugbg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-white-building-with-balconies-and-a-clock-AFuLpV6hSLU",
+          "attribution": {
+            "photographer": "Yeh Xintong",
+            "profile_url": "https://unsplash.com/@blsnki",
+            "photo_url": "https://unsplash.com/photos/a-tall-white-building-with-balconies-and-a-clock-AFuLpV6hSLU",
+            "unsplash_id": "AFuLpV6hSLU"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-brick-wall-4jHORQi_B4w",
+          "attribution": {
+            "photographer": "armina arhm",
+            "profile_url": "https://unsplash.com/@a__arhm",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-standing-in-front-of-a-brick-wall-4jHORQi_B4w",
+            "unsplash_id": "4jHORQi_B4w"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/grayscale-photo-of-person-holding-babys-hand-s3xlC5_Ws78",
+          "attribution": {
+            "photographer": "Priscilla Trujillo",
+            "profile_url": "https://unsplash.com/@trusilly",
+            "photo_url": "https://unsplash.com/photos/grayscale-photo-of-person-holding-babys-hand-s3xlC5_Ws78",
+            "unsplash_id": "s3xlC5_Ws78"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-holding-a-small-key-in-their-hand-8hLZZ8Vjdc0",
+          "attribution": {
+            "photographer": "LOGAN WEAVER | @LGNWVR",
+            "profile_url": "https://unsplash.com/@lgnwvr",
+            "photo_url": "https://unsplash.com/photos/a-person-holding-a-small-key-in-their-hand-8hLZZ8Vjdc0",
+            "unsplash_id": "8hLZZ8Vjdc0"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/an-empty-room-with-a-vaulted-ceiling-and-windows-FKPXsY_WDXE",
+          "attribution": {
+            "photographer": "Alex Tyson",
+            "profile_url": "https://unsplash.com/@alextyson195",
+            "photo_url": "https://unsplash.com/photos/an-empty-room-with-a-vaulted-ceiling-and-windows-FKPXsY_WDXE",
+            "unsplash_id": "FKPXsY_WDXE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-yellow-house-with-a-black-roof-BpTqayJMA7k",
+          "attribution": {
+            "photographer": "Jeremy Bezanger",
+            "profile_url": "https://unsplash.com/@jeremybezanger",
+            "photo_url": "https://unsplash.com/photos/a-yellow-house-with-a-black-roof-BpTqayJMA7k",
+            "unsplash_id": "BpTqayJMA7k"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-building-with-flowers-on-the-windows-GqDjMmYqDWE",
+          "attribution": {
+            "photographer": "Markus Winkler",
+            "profile_url": "https://unsplash.com/@markuswinkler",
+            "photo_url": "https://unsplash.com/photos/a-building-with-flowers-on-the-windows-GqDjMmYqDWE",
+            "unsplash_id": "GqDjMmYqDWE"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-in-suits-holding-hands-qxOn3sTOViU",
+          "attribution": {
+            "photographer": "550Park Luxury Wedding Films",
+            "profile_url": "https://unsplash.com/@550park",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-in-suits-holding-hands-qxOn3sTOViU",
+            "unsplash_id": "qxOn3sTOViU"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-mEzNSWMVUuY",
+          "attribution": {
+            "photographer": "Rock Staar",
+            "profile_url": "https://unsplash.com/@rockstaar_",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-mEzNSWMVUuY",
+            "unsplash_id": "mEzNSWMVUuY"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-silver-ring-holding-white-paper-F371xdVbybs",
+          "attribution": {
+            "photographer": "Heather Blough",
+            "profile_url": "https://unsplash.com/@hblough09",
+            "photo_url": "https://unsplash.com/photos/person-wearing-silver-ring-holding-white-paper-F371xdVbybs",
+            "unsplash_id": "F371xdVbybs"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

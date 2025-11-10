@@ -1,0 +1,166 @@
+{
+  "video_file": "Visio Questions-Réponses du 13 février 2025",
+  "video_url": "https://www.youtube.com/watch?v=OzKDyjLujb8",
+  "title": "Questions Réponses Du 13 Février 2025",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-man-wearing-a-suit-and-a-wedding-ring-hpcKDq3BtEg",
+          "attribution": {
+            "photographer": "Matteo Vistocco",
+            "profile_url": "https://unsplash.com/@mrsunflower94",
+            "photo_url": "https://unsplash.com/photos/a-man-wearing-a-suit-and-a-wedding-ring-hpcKDq3BtEg",
+            "unsplash_id": "hpcKDq3BtEg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-gMuTY0U9NxU",
+          "attribution": {
+            "photographer": "Filipp Romanovski",
+            "profile_url": "https://unsplash.com/@filipp_roman_photography",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-gMuTY0U9NxU",
+            "unsplash_id": "gMuTY0U9NxU"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-the-hand-of-another-person-I93zwBiXCx8",
+          "attribution": {
+            "photographer": "Angel Renville",
+            "profile_url": "https://unsplash.com/@angelrenville19",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-the-hand-of-another-person-I93zwBiXCx8",
+            "unsplash_id": "I93zwBiXCx8"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/modern-high-rise-building-with-balconies-and-greenery-z72tjb_3tss",
+          "attribution": {
+            "photographer": "Aalo Lens",
+            "profile_url": "https://unsplash.com/@aalolens",
+            "photo_url": "https://unsplash.com/photos/modern-high-rise-building-with-balconies-and-greenery-z72tjb_3tss",
+            "unsplash_id": "z72tjb_3tss"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/an-aerial-view-of-a-modern-rooftop-garden-3_-9b-ZaUxA",
+          "attribution": {
+            "photographer": "ca ffeine",
+            "profile_url": "https://unsplash.com/@caffeine2510",
+            "photo_url": "https://unsplash.com/photos/an-aerial-view-of-a-modern-rooftop-garden-3_-9b-ZaUxA",
+            "unsplash_id": "3_-9b-ZaUxA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/architectural-photography-of-gray-and-yellow-building-YsEOuVd7afg",
+          "attribution": {
+            "photographer": "Simone Hutsch",
+            "profile_url": "https://unsplash.com/@heysupersimi",
+            "photo_url": "https://unsplash.com/photos/architectural-photography-of-gray-and-yellow-building-YsEOuVd7afg",
+            "unsplash_id": "YsEOuVd7afg"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/two-person-shake-hands-photograph-FAebY51RJ_c",
+          "attribution": {
+            "photographer": "Maks Styazhkin",
+            "profile_url": "https://unsplash.com/@mstyazhkin",
+            "photo_url": "https://unsplash.com/photos/two-person-shake-hands-photograph-FAebY51RJ_c",
+            "unsplash_id": "FAebY51RJ_c"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/black-and-white-human-skull-sketch--XzK_XUn_eA",
+          "attribution": {
+            "photographer": "Jon Tyson",
+            "profile_url": "https://unsplash.com/@jontyson",
+            "photo_url": "https://unsplash.com/photos/black-and-white-human-skull-sketch--XzK_XUn_eA",
+            "unsplash_id": "-XzK_XUn_eA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-person-shake-hands-photograph-FAebY51RJ_c",
+          "attribution": {
+            "photographer": "Maks Styazhkin",
+            "profile_url": "https://unsplash.com/@mstyazhkin",
+            "photo_url": "https://unsplash.com/photos/two-person-shake-hands-photograph-FAebY51RJ_c",
+            "unsplash_id": "FAebY51RJ_c"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-white-building-with-lots-of-windows-1B3fsHHIvjA",
+          "attribution": {
+            "photographer": "Stephen Kong",
+            "profile_url": "https://unsplash.com/@stephenkon9",
+            "photo_url": "https://unsplash.com/photos/a-tall-white-building-with-lots-of-windows-1B3fsHHIvjA",
+            "unsplash_id": "1B3fsHHIvjA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/modern-house-with-two-cars-parked-in-driveway-mbEX7raPoCs",
+          "attribution": {
+            "photographer": "backtest indonesia",
+            "profile_url": "https://unsplash.com/@backtest",
+            "photo_url": "https://unsplash.com/photos/modern-house-with-two-cars-parked-in-driveway-mbEX7raPoCs",
+            "unsplash_id": "mbEX7raPoCs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/modern-house-with-two-cars-parked-in-driveway-mbEX7raPoCs",
+          "attribution": {
+            "photographer": "backtest indonesia",
+            "profile_url": "https://unsplash.com/@backtest",
+            "photo_url": "https://unsplash.com/photos/modern-house-with-two-cars-parked-in-driveway-mbEX7raPoCs",
+            "unsplash_id": "mbEX7raPoCs"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

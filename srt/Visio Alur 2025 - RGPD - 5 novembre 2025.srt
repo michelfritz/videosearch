@@ -1,0 +1,6540 @@
+1
+00:00:00,000 --> 00:00:17,059
+Bonjour à tous, bonjour à toutes, bienvenue dans cette session de formation, cette visioconférence consacrée au règlement général sur la protection des données, plus communément appelé RGPD.
+
+2
+00:00:17,580 --> 00:00:27,359
+Le RGPD, vous connaissez tous ça de loin, c'est une directive européenne qui a été transposée en droit français avec beaucoup de célérité il y a quelques années.
+
+3
+00:00:27,359 --> 00:00:33,539
+Vous le voyez à peu près partout sur internet mais sans vraiment chercher à savoir ce que c'est
+
+4
+00:00:33,539 --> 00:00:37,859
+parce que c'est quelque chose d'assez obscur, d'assez technique et d'assez compliqué
+
+5
+00:00:37,859 --> 00:00:44,239
+Le RGPD que nous allons étudier aujourd'hui et surtout ses implications concrètes dans notre métier
+
+6
+00:00:44,239 --> 00:00:48,200
+notre métier d'agent immobilier, de réseau d'agents mandataires indépendants
+
+7
+00:00:48,200 --> 00:00:54,159
+plus globalement en fait d'entreprise française
+
+8
+00:00:54,159 --> 00:01:01,099
+Pourquoi d'entreprise française ? Parce que le RGPD n'est pas une disposition propre à l'immobilier, absolument pas.
+
+9
+00:01:01,799 --> 00:01:07,280
+C'est une loi, puisque ça a été transposé d'une directive européenne, d'un règlement européen,
+
+10
+00:01:07,939 --> 00:01:14,159
+c'est une loi qui s'applique à toute société qui est basée dans l'Union Européenne,
+
+11
+00:01:15,179 --> 00:01:20,060
+ou bien basée hors Union Européenne, mais qui a des activités dans l'Union Européenne,
+
+12
+00:01:20,060 --> 00:01:27,939
+« Toute société susceptible de collecter des informations sur des personnes, des clients, des prospects, des fournisseurs, n'importe quoi. »
+
+13
+00:01:27,939 --> 00:01:31,219
+À partir du moment où on collecte des données, on collecte des informations,
+
+14
+00:01:31,640 --> 00:01:35,079
+« données, informations », ça veut dire la même chose dans notre cas d'aujourd'hui,
+
+15
+00:01:36,359 --> 00:01:42,700
+à partir de ce moment-là, nous sommes soumis au RGPD, nous devons en respecter les dispositions,
+
+16
+00:01:42,700 --> 00:01:47,320
+qui sont assez compliquées, assez échevelées d'ailleurs, et assez difficiles à mettre en place.
+
+17
+00:01:47,779 --> 00:01:49,539
+La raison pour laquelle on a préparé cette formation,
+
+18
+00:01:49,659 --> 00:01:51,419
+parce que vous pourriez dire que ça ne vous intéresse pas trop,
+
+19
+00:01:51,519 --> 00:01:53,699
+que ce n'est pas trop votre problème,
+
+20
+00:01:54,559 --> 00:01:56,539
+la raison pour laquelle nous avons préparé cette formation,
+
+21
+00:01:56,799 --> 00:02:00,539
+c'est parce que la lucarne de l'immobilier est, jusqu'à présent,
+
+22
+00:02:01,119 --> 00:02:06,259
+partiellement conforme au RGPD, mais pas entièrement.
+
+23
+00:02:06,259 --> 00:02:10,539
+Et nous avons lancé un grand chantier pour nous mettre en conformité totale,
+
+24
+00:02:10,819 --> 00:02:12,719
+parfaite, avec le RGPD.
+
+25
+00:02:13,000 --> 00:02:14,919
+La raison pour laquelle on ne l'a pas été jusqu'à présent,
+
+26
+00:02:14,919 --> 00:02:19,219
+c'est parce que c'est un règlement européen extrêmement compliqué, extrêmement technique,
+
+27
+00:02:19,679 --> 00:02:23,519
+très difficile à mettre en œuvre, et le RGPD s'applique à tous,
+
+28
+00:02:23,679 --> 00:02:28,399
+aussi bien les toutes petites entreprises que les énormes multinationales,
+
+29
+00:02:28,479 --> 00:02:33,659
+sans aucune différence d'application entre une très grosse entreprise et un travailleur indépendant.
+
+30
+00:02:34,219 --> 00:02:38,099
+Donc, pour une société comme la nôtre, c'est très difficile à mettre en place, très long,
+
+31
+00:02:38,759 --> 00:02:43,000
+et nous l'avons fait par étapes, et aujourd'hui, nous arrivons au chantier final
+
+32
+00:02:43,000 --> 00:02:45,639
+pour être parfaitement en règle avec le RGPD.
+
+33
+00:02:45,759 --> 00:02:48,560
+On a encore un certain nombre de choses à faire et à mettre en place.
+
+34
+00:02:49,500 --> 00:02:53,300
+Et il est utile que vous en connaissiez les tenants et les aboutissants
+
+35
+00:02:53,300 --> 00:02:58,180
+parce que, bien entendu, quand on sera parfaitement compatible en règle avec le RGPD,
+
+36
+00:02:58,500 --> 00:03:01,920
+vous verrez des petites modifications dans la manière dont on gère
+
+37
+00:03:01,920 --> 00:03:05,860
+les informations concernant principalement nos clients.
+
+38
+00:03:07,099 --> 00:03:12,180
+Alors, ce chantier aura quelques implications sur votre travail à tous,
+
+39
+00:03:12,180 --> 00:03:18,819
+mais ce sera relativement transparent, parce que le RGPD, c'est surtout nous qui devons être en règle avec ce règlement,
+
+40
+00:03:19,360 --> 00:03:25,200
+et pas tellement vous, parce que toutes les données que vous collectez et que vous utilisez par rapport à vos clients,
+
+41
+00:03:25,400 --> 00:03:28,560
+vous les mettez dans l'églantine, donc c'est à gérer par le siège.
+
+42
+00:03:29,140 --> 00:03:36,520
+Vous devez vous-même être en règle avec le RGPD si vous procédez à des collectes et à des traitements d'informations vous-même,
+
+43
+00:03:36,659 --> 00:03:41,760
+des traitements d'informations personnelles, ce qui normalement n'est pas le cas.
+
+44
+00:03:42,180 --> 00:04:00,460
+Alors, cette petite formation vous permettra de, premièrement, comprendre précisément les principes juridiques et techniques du RGPD. C'est assez compliqué. Deuxièmement, identifier les obligations qui nous concernent directement en tant que professionnels de la transaction immobilière.
+
+45
+00:04:01,300 --> 00:04:09,360
+Surtout, adopter les bonnes pratiques et adapter nos pratiques actuelles pour assurer la protection des données personnelles,
+
+46
+00:04:09,460 --> 00:04:13,560
+des informations de nos clients, de nos prospects, de nos partenaires commerciaux,
+
+47
+00:04:14,060 --> 00:04:18,759
+dans toutes les étapes de la relation commerciale qu'on est susceptible de nouer.
+
+48
+00:04:19,180 --> 00:04:24,900
+Alors, ce n'est pas un sujet qui est uniquement théorique, qui est accessoire, qui est uniquement sur le papier.
+
+49
+00:04:24,899 --> 00:04:30,639
+Et c'est un enjeu de conformité, de sécurité et également de crédibilité professionnelle.
+
+50
+00:04:31,419 --> 00:04:34,279
+C'est comme ça qu'on nous le vend, mais ce n'est pas tout à fait faux.
+
+51
+00:04:34,399 --> 00:04:35,319
+On va le voir tout à l'heure.
+
+52
+00:04:36,120 --> 00:04:40,199
+Dans un environnement aujourd'hui de plus en plus informatisé, de plus en plus numérisé,
+
+53
+00:04:40,199 --> 00:04:44,379
+l'intégralité de notre métier, de nos actions sont aujourd'hui informatisées.
+
+54
+00:04:45,519 --> 00:04:50,379
+La maîtrise des obligations du RGPD est devenue absolument indispensable
+
+55
+00:04:50,379 --> 00:04:54,159
+pour éviter les litiges, pour éviter les sanctions financières au cours de contrôle
+
+56
+00:04:54,160 --> 00:04:56,860
+et mais également, c'est ce qu'on va voir tout à l'heure,
+
+57
+00:04:56,939 --> 00:04:58,640
+je vous disais, c'est à moitié vrai, à moitié faux,
+
+58
+00:04:59,140 --> 00:05:00,700
+on va dire que ça devient de plus en plus vrai,
+
+59
+00:05:01,460 --> 00:05:03,560
+renforcer la confiance de vos clients
+
+60
+00:05:03,560 --> 00:05:07,400
+dans la manière dont vous gérez leurs données personnelles.
+
+61
+00:05:08,000 --> 00:05:10,060
+Alors, on verra que la conformité du RGPD,
+
+62
+00:05:10,220 --> 00:05:12,220
+ce n'est pas une obligation réglementaire seulement,
+
+63
+00:05:12,540 --> 00:05:14,360
+ça peut devenir un atout concurrentiel
+
+64
+00:05:14,360 --> 00:05:17,340
+face à des professionnels qui, eux, ne sont pas en règle avec le RGPD.
+
+65
+00:05:17,720 --> 00:05:19,280
+Ça peut être un gage de sérieux,
+
+66
+00:05:19,340 --> 00:05:21,200
+un critère de sélection pour les clients vendeurs
+
+67
+00:05:21,200 --> 00:05:22,100
+comme pour les acquéreurs.
+
+68
+00:05:22,220 --> 00:05:23,780
+Vous savez, c'est un petit peu comme le DPE.
+
+69
+00:05:23,779 --> 00:05:37,039
+Le DPE, il y a une dizaine d'années, personne n'en avait rien à faire, on savait à peine ce que c'était. Aujourd'hui, ça devient un critère de sélection centrale pour un candidat acquéreur ou candidat locataire.
+
+70
+00:05:37,040 --> 00:05:56,700
+C'est pareil avec le RGPD. Aujourd'hui, on est dans une phase d'adoption. Les gens ne savent pas trop ce que c'est, ils n'y prêtent pas trop attention, mais on peut imaginer qu'à l'avenir, le respect des données personnelles de nos clients devienne un enjeu pour eux dans le choix du professionnel avec lequel ils souhaitent faire affaire.
+
+71
+00:05:57,159 --> 00:05:59,740
+On verra ça, si ça se produit ou si ça ne se produit pas.
+
+72
+00:05:59,860 --> 00:06:00,800
+C'est l'avenir qui nous le dira.
+
+73
+00:06:01,479 --> 00:06:07,319
+Alors, on va aborder étape par étape, pas à pas, les fondements du RGPD,
+
+74
+00:06:08,579 --> 00:06:10,779
+les bases juridiques des traitements que nous mettons en œuvre,
+
+75
+00:06:11,579 --> 00:06:14,240
+les durées de conservation à respecter, c'est très important ça,
+
+76
+00:06:15,419 --> 00:06:20,419
+toutes nos obligations documentaires, en particulier en termes de sécurisation,
+
+77
+00:06:20,899 --> 00:06:24,240
+et les droits des personnes concernées avec les sanctions encourues.
+
+78
+00:06:24,240 --> 00:06:31,259
+On a prévu donc 13 parties pour cette formation que nous allons suivre les unes après les autres avec des exemples concrets.
+
+79
+00:06:31,420 --> 00:06:40,139
+Alors, je n'en ai pas mis trop. J'en ai mis parce que c'est utile et je sais que vous aimez bien, mais je n'en ai pas mis trop pour noyer le cours avec des exemples concrets
+
+80
+00:06:40,139 --> 00:06:46,319
+et surtout des applications dans notre quotidien de vente de biens immobiliers.
+
+81
+00:06:46,319 --> 00:06:53,939
+Alors, on va commencer tout de suite, on va passer au premier écran.
+
+82
+00:06:54,139 --> 00:07:02,040
+Alors, vous voyez, vous reconnaissez mes PowerPoints, j'arrive maintenant à faire des trucs propres, mais sans trop de fioritures, il ne faut pas m'en demander trop.
+
+83
+00:07:03,500 --> 00:07:15,519
+Alors, l'objectif principal de cette formation, c'est de vous permettre de comprendre et maîtriser toutes les règles essentielles du RGPD dans le cadre de notre métier à nous, qui est la transaction immobilière.
+
+84
+00:07:15,519 --> 00:07:44,560
+Il ne s'agit pas d'une approche uniquement théorique et académique du règlement, mais bien d'une formation dédiée à vous former à un respect opérationnel du RGPD, conforme à une réalité juridique d'aujourd'hui qui permettra de vous armer, de vous outiller pour pouvoir, au quotidien, exercer sans crainte de passer la ligne jaune du respect du traitement des données personnelles de nos clients.
+
+85
+00:07:44,560 --> 00:07:54,500
+Alors, à l'issue de cette session de formation, normalement, nous serons tous capables de comprendre les principes clés du RGPD.
+
+86
+00:07:54,939 --> 00:08:03,360
+On va voir des notions de lycéité, vous m'avez souvent entendu parler de lycéité, de transparence, de finalité déterminée.
+
+87
+00:08:03,459 --> 00:08:07,879
+Alors ça, par contre, ce n'est pas un truc qu'on a souvent abordé parce que c'est vraiment propre au RGPD.
+
+88
+00:08:08,459 --> 00:08:11,500
+De la minimisation des données et de la durée de conservation proportionnée.
+
+89
+00:08:11,500 --> 00:08:16,819
+proportionnées. Là, c'est vraiment le vocabulaire du RGPD qu'on est en train de décortiquer.
+
+90
+00:08:17,480 --> 00:08:21,740
+Toutes ces notions fondent l'ensemble des règles applicables au traitement des données
+
+91
+00:08:21,740 --> 00:08:26,220
+à caractère personnel de toutes les personnes avec lesquelles nous sommes en contact quotidiennement
+
+92
+00:08:26,220 --> 00:08:31,040
+et dont on est susceptible de récupérer les informations, les données et les enregistrer
+
+93
+00:08:31,040 --> 00:08:35,019
+quelque part, que ce soit sur du papier, que ce soit dans un ordinateur, c'est pareil.
+
+94
+00:08:36,019 --> 00:08:42,960
+Ensuite, nous apprendrons à identifier les obligations spécifiques à notre métier en tant que mandataire immobilier.
+
+95
+00:08:44,299 --> 00:08:50,699
+Quelles informations doit-on fournir à nos interlocuteurs, qu'ils soient vendeurs, acquéreurs ou simples prospects d'ailleurs ?
+
+96
+00:08:50,699 --> 00:08:55,439
+Quelles sont les bases juridiques qui nous permettent de collecter et traiter les données ?
+
+97
+00:08:55,439 --> 00:08:58,059
+Combien de temps nous pouvons conserver ces informations ?
+
+98
+00:08:58,059 --> 00:09:03,600
+Et quelles sont les démarches que nous devons engager pour être conformes à cette réglementation assez touffue ?
+
+99
+00:09:03,600 --> 00:09:16,080
+Ensuite, on détaillera les bonnes pratiques à adopter, comment adapter nos pratiques actuelles pour mettre en œuvre une conformité vraiment concrète et opérationnelle, pas seulement théorique.
+
+100
+00:09:16,540 --> 00:09:23,500
+Donc, comment sécuriser les documents et les échanges, les communications, les e-mails, les SMS, tout ça.
+
+101
+00:09:24,320 --> 00:09:31,100
+La tenue d'un registre des traitements, ça, il ne faut pas que ça vous fasse peur parce que c'est vraiment à la lucarne de le faire et pas à vous.
+
+102
+00:09:31,100 --> 00:09:34,080
+Le respect des droits des personnes concernées
+
+103
+00:09:34,080 --> 00:09:37,720
+Alors là on va aborder notamment une notion que vous connaissez un petit peu mieux
+
+104
+00:09:37,720 --> 00:09:41,259
+Parce qu'elle date de 1978 et de la fameuse loi informatique et liberté
+
+105
+00:09:41,259 --> 00:09:46,040
+Dont on peut être assez fier parce que ça a été quelque chose d'assez visionnaire quand même
+
+106
+00:09:46,040 --> 00:09:53,920
+En 1978 avoir ce genre de crainte et préparer la réponse c'était assez visionnaire on peut le dire
+
+107
+00:09:53,920 --> 00:09:58,660
+Donc ces notions que vous connaissez déjà c'est le droit d'accès, rectification, suppression
+
+108
+00:09:58,659 --> 00:10:03,139
+Ces trois notions ont été reprises par le RGPD
+
+109
+00:10:03,139 --> 00:10:06,480
+Mais à l'origine, elles viennent vraiment de la CNIL
+
+110
+00:10:06,480 --> 00:10:08,699
+La Commission Nationale de l'Informatique et des Libertés
+
+111
+00:10:08,699 --> 00:10:11,980
+De la loi Informatique et Libertés Française de 1978
+
+112
+00:10:11,980 --> 00:10:14,620
+Alors, c'est un double enjeu
+
+113
+00:10:14,620 --> 00:10:17,199
+Premièrement, nous protéger juridiquement
+
+114
+00:10:17,199 --> 00:10:18,959
+En cas de contrôle
+
+115
+00:10:18,959 --> 00:10:22,240
+Et ou en cas de litige, de procès
+
+116
+00:10:22,240 --> 00:10:26,699
+Donc nous mettre à l'abri des condamnations, des amendes, etc
+
+117
+00:10:26,700 --> 00:10:46,420
+Mais également, c'est ce que je vous disais tout à l'heure, peut-être consolider, protéger votre réputation professionnelle auprès des clients qui, peut-être avec le temps, comme je vous le disais avec le DPE, vont attendre des professionnels avec qui ils font affaire à un niveau de rigueur en matière de protection des données de plus en plus élevé.
+
+118
+00:10:47,259 --> 00:10:51,740
+Ça, nous le verrons par la suite, comme je vous le disais.
+
+119
+00:10:51,740 --> 00:11:00,720
+Donc, on va tout de suite commencer par les fondements juridiques du RGPD, qui encadrent les traitements de données à caractère personnel.
+
+120
+00:11:01,200 --> 00:11:12,220
+Alors, ces principes fondamentaux du RGPD reposent sur une série de notions que tous les professionnels qui traitent des données à caractère personnel,
+
+121
+00:11:12,220 --> 00:11:21,340
+pas seulement les agents immobiliers, on vendrait des voitures ou on serait une simple association ou fondation de protection de la nature, ce serait pareil.
+
+122
+00:11:21,740 --> 00:11:25,340
+tout professionnel qui traite des coordonnées à caractère personnel
+
+123
+00:11:25,340 --> 00:11:27,320
+doivent impérativement respecter
+
+124
+00:11:27,320 --> 00:11:29,240
+elles ont une portée juridique contraignante
+
+125
+00:11:29,240 --> 00:11:32,700
+ça veut dire qu'on ne les respecte pas si on a envie de bien faire les choses
+
+126
+00:11:32,700 --> 00:11:35,460
+non, ces règles s'imposent à nous
+
+127
+00:11:35,460 --> 00:11:37,720
+elles sont contraignantes, on doit les respecter
+
+128
+00:11:37,720 --> 00:11:40,120
+ça n'est pas une question de choix
+
+129
+00:11:40,120 --> 00:11:43,879
+et c'est la base de toute mise en conformité RGPD
+
+130
+00:11:43,879 --> 00:11:46,379
+alors on va les voir les unes après les autres
+
+131
+00:11:46,379 --> 00:11:49,960
+on va les illustrer rapidement avec des situations un peu concrètes
+
+132
+00:11:49,960 --> 00:11:53,519
+des situations concrètes propres à notre métier, bien sûr.
+
+133
+00:11:53,920 --> 00:11:59,759
+Et on va commencer en premier ici par l'ICIT, loyauté, transparence.
+
+134
+00:12:00,519 --> 00:12:04,060
+Alors la première chose, c'est que tout traitement de données doit être licite.
+
+135
+00:12:04,240 --> 00:12:08,040
+Licite, ça veut dire légal, légitime d'un point de vue légal.
+
+136
+00:12:08,400 --> 00:12:11,300
+La liceité, c'est un mot un petit peu compliqué qu'on n'utilise pas tous les jours,
+
+137
+00:12:11,300 --> 00:12:16,540
+mais par contre, de ce mot liceité, on peut ressortir un autre mot qu'on connaît très bien
+
+138
+00:12:16,540 --> 00:12:18,879
+et qu'on utilise tous les jours, c'est le mot illicite.
+
+139
+00:12:18,879 --> 00:12:22,179
+ça c'est illicite, ça veut dire que ça n'est pas légal
+
+140
+00:12:22,179 --> 00:12:24,919
+ça n'est pas autorisé, on n'a pas le droit de le faire
+
+141
+00:12:24,919 --> 00:12:28,000
+et bien la licéité c'est quand quelque chose est légal
+
+142
+00:12:28,000 --> 00:12:29,200
+on a le droit de le faire
+
+143
+00:12:29,200 --> 00:12:33,720
+licite, illicite, licéité, illicéité
+
+144
+00:12:33,720 --> 00:12:37,340
+donc licéité, loyauté, transparence
+
+145
+00:12:37,340 --> 00:12:41,179
+avant tout la licéité on est fondé sur une base juridique valable
+
+146
+00:12:41,179 --> 00:12:44,539
+ça veut dire que nous sommes autorisés par la loi
+
+147
+00:12:44,539 --> 00:12:52,699
+il est légal de collecter, stocker, traiter des données à caractère personnel.
+
+148
+00:12:53,399 --> 00:12:57,279
+La première chose, c'est que ce soit autorisé et légal dans ce cadre-là.
+
+149
+00:12:58,000 --> 00:13:03,620
+Ensuite, cet enregistrement, traitement de données personnelles doit être loyal.
+
+150
+00:13:04,259 --> 00:13:08,719
+C'est-à-dire qu'on ne peut pas le faire à l'insu des personnes concernées, dans leur dos.
+
+151
+00:13:08,980 --> 00:13:13,699
+On ne peut pas collecter des informations sur quelqu'un sans premièrement qu'il le sache,
+
+152
+00:13:13,700 --> 00:13:17,300
+mais on va voir après qu'ils soient d'accord.
+
+153
+00:13:17,820 --> 00:13:19,940
+Ça, on le verra un petit peu par la suite.
+
+154
+00:13:21,259 --> 00:13:26,280
+Ensuite, cette collecte traitement des données doit être transparent.
+
+155
+00:13:27,400 --> 00:13:29,520
+Nos clients doivent être clairement informés,
+
+156
+00:13:29,900 --> 00:13:32,259
+dès la collecte, de ce que nous faisons avec leurs données,
+
+157
+00:13:32,980 --> 00:13:35,320
+pourquoi on les collecte, pendant combien de temps,
+
+158
+00:13:36,020 --> 00:13:37,680
+à quel but, dans quel objectif,
+
+159
+00:13:38,080 --> 00:13:40,080
+et à qui elles sont éventuellement transmises.
+
+160
+00:13:40,780 --> 00:13:43,240
+Parce que vous savez, la revente de collecte de données,
+
+161
+00:13:43,240 --> 00:13:45,080
+c'est un marché important.
+
+162
+00:13:46,100 --> 00:13:49,000
+Donc, je vais vous donner un exemple tout bête et tout simple.
+
+163
+00:13:49,139 --> 00:13:53,919
+Dans un mandat de vente, on doit intégrer une notice d'information RGPD
+
+164
+00:13:53,919 --> 00:13:57,159
+expliquant l'usage des données personnelles que nous collectons.
+
+165
+00:13:57,480 --> 00:13:58,500
+Aujourd'hui, ça n'est pas le cas.
+
+166
+00:13:59,100 --> 00:14:01,779
+Dans ce chantier de mise en conformité RGPD,
+
+167
+00:14:02,100 --> 00:14:05,419
+nous prévoyons dans nos mandats de vente futurs,
+
+168
+00:14:05,500 --> 00:14:09,460
+qui arriveront un petit peu plus tard, début 2026 normalement,
+
+169
+00:14:10,100 --> 00:14:11,879
+une notice d'information RGPD
+
+170
+00:14:11,879 --> 00:14:16,460
+dans laquelle il sera expliqué quelles sont les informations que nous collectons,
+
+171
+00:14:17,059 --> 00:14:21,700
+pourquoi et à quoi elles servent, ce qu'on en fait, combien de temps nous devons les garder.
+
+172
+00:14:23,159 --> 00:14:31,240
+Ensuite, les informations que nous collectons doivent avoir une deuxième ligne,
+
+173
+00:14:31,460 --> 00:14:34,980
+finalité déterminée et une limitation de traitement.
+
+174
+00:14:35,779 --> 00:14:37,980
+Alors, qu'est-ce que ça veut dire ?
+
+175
+00:14:37,980 --> 00:14:46,159
+Ça veut dire qu'on n'a pas le droit de collecter des données sans avoir un véritable objectif et un objectif légitime.
+
+176
+00:14:46,259 --> 00:14:54,740
+En gros, on ne peut pas collecter des données et les enregistrer au cas où, comme ça, pour voir, sans réelle raison, juste parce que je le fais et puis c'est tout.
+
+177
+00:14:54,920 --> 00:15:00,420
+Non. Chaque information collectée doit répondre à une finalité précise, à une utilité précise.
+
+178
+00:15:00,419 --> 00:15:10,019
+On doit collecter une information parce qu'on a besoin de cette information dans un but précis, explicite et légitime.
+
+179
+00:15:10,299 --> 00:15:17,559
+Par exemple, demander les coordonnées d'un acquéreur pour organiser une visite, c'est légitime.
+
+180
+00:15:18,019 --> 00:15:26,399
+Lui demander son nom, son prénom, son adresse pour protéger notre travail, pour empêcher qu'il fasse affaire directement avec le vendeur,
+
+181
+00:15:26,399 --> 00:15:48,240
+C'est une finalité légitime, précise, explicite. On a une vraie raison de lui demander. Je vais vous donner un deuxième exemple. La carte d'identité qu'on est susceptible de lui demander, et on va en reparler par la suite, là encore, on a une utilité.
+
+182
+00:15:48,240 --> 00:16:01,080
+On va voir que c'est une utilité, que ça peut même être une obligation. Donc, cette carte d'identité, on peut la lui demander, voire même on devrait la lui demander. C'est ce qu'on verra par la suite et ce qu'on a déjà vu lors de la formation sur TRACFIN.
+
+183
+00:16:01,080 --> 00:16:19,940
+Ces informations, on doit les conserver pour un usage ultérieur, mais les conserver pour un usage ultérieur non déclaré, secret, ou les transmettre à un tiers, là encore, non déclaré, secret, ça, ça n'est plus légal.
+
+184
+00:16:19,940 --> 00:16:27,300
+Ça, ça n'est plus légitime. Vous comprenez ? Demander les coordonnées d'un acquéreur pour organiser une visite, c'est légitime.
+
+185
+00:16:27,299 --> 00:16:33,539
+Conserver ces données pour plus tard organiser le compromis de vente, c'est légitime, c'est l'usage ultérieur.
+
+186
+00:16:33,740 --> 00:16:39,199
+Par contre, si je les garde en douce pour refiler les informations à un fabricant de fenêtres
+
+187
+00:16:39,199 --> 00:16:42,799
+sans que la personne ne le sache et que je récupère un petit billet au passage,
+
+188
+00:16:42,799 --> 00:16:49,279
+alors ça, non, ça n'est pas du tout légitime, explicite et dans une finalité licite.
+
+189
+00:16:50,759 --> 00:16:56,620
+Ensuite, troisième principe fondamental du RGPD, c'est la minimisation des données.
+
+190
+00:16:57,299 --> 00:17:07,759
+On doit limiter la collecte uniquement aux données qui nous sont strictement nécessaires, strictement nécessaires pour l'objectif que nous avons et qui lui-même est licite.
+
+191
+00:17:08,220 --> 00:17:20,759
+Ça signifie qu'on n'a pas le droit de conserver une copie de la carte d'identité, j'en parlais juste avant, alors qu'il n'y aura pas de compromis de vente, alors que la visite ne débouchera pas sur une vente.
+
+192
+00:17:21,500 --> 00:17:24,519
+Là, je ne peux pas garder indéfiniment la copie de cette carte d'identité,
+
+193
+00:17:24,660 --> 00:17:27,879
+pour moi, comme ça, dans mon ordinateur, ou une photocopie dans un tiroir,
+
+194
+00:17:28,619 --> 00:17:29,680
+parce qu'il n'y aura pas de suite.
+
+195
+00:17:30,480 --> 00:17:36,279
+Je ne dois collecter que ce dont j'ai strictement besoin.
+
+196
+00:17:36,500 --> 00:17:39,559
+Je n'ai plus besoin de la carte d'identité de la personne, je dois la détruire.
+
+197
+00:17:40,079 --> 00:17:40,779
+Sans attendre.
+
+198
+00:17:43,660 --> 00:17:48,079
+Autre petit exemple, on n'a pas le droit de demander à un prospect des informations sur ses revenus,
+
+199
+00:17:48,500 --> 00:17:50,059
+si on n'a aucun bien à lui proposer.
+
+200
+00:17:50,059 --> 00:17:52,579
+si on n'est pas en train de faire une vente avec lui.
+
+201
+00:17:53,319 --> 00:17:55,779
+Je n'ai pas le droit de demander ces informations et de les récupérer.
+
+202
+00:17:57,359 --> 00:17:59,919
+Dernier petit exemple là-dessus, lorsqu'on fait un mandat de vente,
+
+203
+00:18:00,319 --> 00:18:03,759
+et ça on nous a souvent posé cette question,
+
+204
+00:18:03,759 --> 00:18:06,919
+notamment lorsque nous avons recruté des négociateurs
+
+205
+00:18:06,919 --> 00:18:10,779
+qui viennent d'agences comme Century 21, ERA, La Forêt.
+
+206
+00:18:12,779 --> 00:18:15,359
+Souvent, des agents qui viennent de ces réseaux
+
+207
+00:18:15,359 --> 00:18:16,940
+et qui rejoignent la lucarne de l'immobilier,
+
+208
+00:18:16,940 --> 00:18:20,700
+Lorsqu'on leur dit que dans le mandat de vente
+
+209
+00:18:20,700 --> 00:18:22,140
+Pour le vendeur
+
+210
+00:18:22,140 --> 00:18:23,840
+On prend le nom
+
+211
+00:18:23,840 --> 00:18:25,900
+Et le nom de jeune fille pour les femmes
+
+212
+00:18:25,900 --> 00:18:28,019
+Toujours, vous le savez, il faut demander le nom de jeune fille pour les femmes
+
+213
+00:18:28,019 --> 00:18:29,340
+C'est leur véritable patronyme
+
+214
+00:18:29,340 --> 00:18:31,820
+Donc on prend le nom, le prénom
+
+215
+00:18:31,820 --> 00:18:33,940
+Et l'adresse
+
+216
+00:18:33,940 --> 00:18:35,900
+De chaque vendeur
+
+217
+00:18:35,900 --> 00:18:38,259
+Et parfois, les gens qui venaient de chez
+
+218
+00:18:38,259 --> 00:18:40,200
+Century, de chez Hera, La Forêt
+
+219
+00:18:40,200 --> 00:18:41,160
+C'est-à-dire ces gros réseaux disent
+
+220
+00:18:41,160 --> 00:18:44,640
+Non, il faut demander aussi leur date de naissance
+
+221
+00:18:44,640 --> 00:18:46,200
+Leur régime matrimonial
+
+222
+00:18:46,200 --> 00:18:48,519
+matrimoniales, tous leurs prénoms,
+
+223
+00:18:48,620 --> 00:18:49,620
+ils en ont peut-être plusieurs,
+
+224
+00:18:50,100 --> 00:18:52,380
+et à chaque fois, je leur ai répondu, non, on n'en a pas besoin.
+
+225
+00:18:53,080 --> 00:18:54,519
+On n'en a pas besoin. Pourquoi aurions-nous
+
+226
+00:18:54,519 --> 00:18:57,259
+besoin de la date de naissance ?
+
+227
+00:18:57,259 --> 00:18:58,559
+Ah bah, parce que chez Centurie,
+
+228
+00:18:58,620 --> 00:19:00,279
+on faisait comme ça. Ouais, mais ici,
+
+229
+00:19:00,340 --> 00:19:02,440
+c'est pas Centurie. Pourquoi Centurie
+
+230
+00:19:02,440 --> 00:19:04,480
+demandait ça ? Parce que Centurie,
+
+231
+00:19:04,559 --> 00:19:05,940
+derrière, va organiser le compromis.
+
+232
+00:19:06,779 --> 00:19:08,480
+Et pour organiser le compromis,
+
+233
+00:19:08,660 --> 00:19:10,160
+Centurie 21, la forêt,
+
+234
+00:19:10,559 --> 00:19:12,400
+a besoin de la date de naissance
+
+235
+00:19:12,400 --> 00:19:14,259
+de tous les prénoms du régime matrimonial,
+
+236
+00:19:14,360 --> 00:19:15,860
+etc. Eux, ils en ont besoin.
+
+237
+00:19:16,200 --> 00:19:21,160
+C'est normal. Nous, nous n'en avons pas besoin. C'est le notaire qui fera le compromis de vente.
+
+238
+00:19:21,519 --> 00:19:26,900
+C'est donc le notaire qui récupérera les dates de naissance, les régimes matrimoniaux, les machins, les trucs, etc.
+
+239
+00:19:27,259 --> 00:19:33,740
+Nous, on n'en a pas besoin. Nous ne demandons que les informations dont nous avons absolument, strictement besoin.
+
+240
+00:19:34,840 --> 00:19:40,220
+Ces informations-là, on n'en a pas besoin, on ne les demande pas. On ne les récupère pas, on ne les enregistre pas, on ne les traite pas.
+
+241
+00:19:40,220 --> 00:19:43,940
+Ça c'est le principe de minimisation des données
+
+242
+00:19:43,940 --> 00:19:50,120
+Nous récupérons et traitons que les données dont nous avons absolument besoin
+
+243
+00:19:50,120 --> 00:19:52,380
+Vraiment le minimum dont on a besoin
+
+244
+00:19:52,380 --> 00:19:55,799
+Ensuite, l'exactitude des données
+
+245
+00:19:55,799 --> 00:19:59,000
+Alors l'exactitude des données, ça va avec
+
+246
+00:19:59,000 --> 00:20:01,000
+Les données doivent être tenues à jour
+
+247
+00:20:01,000 --> 00:20:04,180
+Si un client change de coordonnées, on doit les tenir à jour
+
+248
+00:20:04,180 --> 00:20:07,200
+Et il doit avoir la possibilité, mais on y reviendra par la suite
+
+249
+00:20:07,200 --> 00:20:08,660
+Un petit peu plus bas dans la formation
+
+250
+00:20:08,660 --> 00:20:11,400
+d'y accéder pour vérifier qu'elles sont exactes
+
+251
+00:20:11,400 --> 00:20:12,540
+et éventuellement les faire corriger.
+
+252
+00:20:13,500 --> 00:20:16,440
+Alors, ensuite, conservation limitée dans le temps.
+
+253
+00:20:16,560 --> 00:20:17,900
+Ça, c'est très, très, très important.
+
+254
+00:20:18,880 --> 00:20:20,600
+Les informations que nous collectons,
+
+255
+00:20:20,700 --> 00:20:22,180
+que nous enregistrons, que nous traitons,
+
+256
+00:20:22,960 --> 00:20:25,519
+elles doivent être conservées pendant une durée.
+
+257
+00:20:26,120 --> 00:20:27,800
+Là encore, c'est comme la minimisation,
+
+258
+00:20:28,259 --> 00:20:31,160
+strictement nécessaire et pas un jour de plus.
+
+259
+00:20:31,740 --> 00:20:33,900
+On en a besoin pour une certaine durée
+
+260
+00:20:33,900 --> 00:20:35,960
+par rapport à l'objectif que nous avons.
+
+261
+00:20:36,800 --> 00:20:38,519
+Au-delà de cette durée, nous, on n'en avait pas besoin.
+
+262
+00:20:38,660 --> 00:20:51,540
+On verra plus tard les différentes durées dans un panneau, un slide un petit peu plus bas, mais juste pour aller vite, on n'a pas le droit de conserver indéfiniment, de manière illimitée, les informations d'un ancien POSPED.
+
+263
+00:20:51,740 --> 00:20:56,259
+On ne peut pas non plus les garder comme ça jusqu'à ce qu'on décide qu'on n'en a plus besoin, non.
+
+264
+00:20:56,700 --> 00:21:00,440
+Il y a des durées précises, on les garde et c'est prévu pour chaque information.
+
+265
+00:21:00,940 --> 00:21:03,580
+Telle information, on la garde jusqu'à telle date et pas plus.
+
+266
+00:21:03,579 --> 00:21:28,139
+Alors, ensuite, ici, le 1, 2, 3, 4, 5ème, l'intégrité, confidentialité et sécurité. Très, très, très important. Nous avons l'obligation de mettre en œuvre toutes les mesures techniques, organisationnelles et logistiques nécessaires pour protéger ces données.
+
+267
+00:21:28,140 --> 00:21:31,520
+Pour protéger ces données, je vous le disais juste avant
+
+268
+00:21:31,520 --> 00:21:33,240
+Pour qu'elles ne soient pas erronées
+
+269
+00:21:33,240 --> 00:21:37,380
+Qu'il n'y ait pas de mélange d'informations qui viennent faire des informations fausses
+
+270
+00:21:37,380 --> 00:21:38,200
+Mais également tout simplement
+
+271
+00:21:38,200 --> 00:21:41,740
+On doit les protéger contre tout accès non autorisé
+
+272
+00:21:41,740 --> 00:21:44,120
+Toute altération dont je parlais il y a un instant
+
+273
+00:21:44,120 --> 00:21:45,300
+Toute perte
+
+274
+00:21:45,300 --> 00:21:47,240
+Mais ce qui nous intéresse surtout
+
+275
+00:21:47,240 --> 00:21:49,940
+C'est la sécurité contre les accès non autorisés
+
+276
+00:21:49,940 --> 00:21:52,740
+Ça implique de mettre en place des mesures techniques
+
+277
+00:21:52,740 --> 00:21:54,480
+Comme des mots de passe
+
+278
+00:21:54,480 --> 00:21:56,300
+Du chiffrement
+
+279
+00:21:56,299 --> 00:22:03,299
+du verrouillage informatique, de faire attention à ce que votre ordinateur, votre smartphone soit protégé,
+
+280
+00:22:04,379 --> 00:22:07,319
+avec un mot de passe, une empreinte digitale et ce genre de choses.
+
+281
+00:22:07,940 --> 00:22:13,279
+Souvenez-vous, en 2021-2022, nous avons procédé, à la suite de différentes attaques informatiques,
+
+282
+00:22:14,099 --> 00:22:19,379
+à la modification d'autorité de tous les mots de passe Eglantine et de tous les mots de passe mail
+
+283
+00:22:19,379 --> 00:22:26,220
+pour mettre en place une politique de mots de passe beaucoup plus stricte et beaucoup plus sécurisée.
+
+284
+00:22:26,299 --> 00:22:44,919
+C'est exactement ce genre de choses. Faire attention à avoir des systèmes informatiques ou des systèmes de stockage des informations lorsqu'elles sont sous forme papier, sûrs, robustes, qui ne soient pas un véritable moulin dans lequel n'importe qui peut entrer pour voler des données.
+
+285
+00:22:44,920 --> 00:22:59,640
+En dernier, la responsabilité. Bien sûr, nous sommes non seulement responsables des données que nous collectons, mais nous sommes responsables devant les autorités qui sont susceptibles de venir nous contrôler.
+
+286
+00:22:59,640 --> 00:23:15,440
+Donc nous devons non seulement être en conformité avec le RGPD, mais nous devons à tout moment, en permanence, être en mesure de le prouver, de le démontrer.
+
+287
+00:23:15,440 --> 00:23:34,720
+C'est-à-dire que nous devons tout le temps être non seulement en conformité, mais non pas en nous croyant sur une bonne parole. On doit maintenir toute une procédure permettant de le démontrer, et ça passe notamment, mais pas seulement, par la tenue d'un registre des traitements.
+
+288
+00:23:34,720 --> 00:23:57,559
+C'est très important et c'est ce dont je vous disais tout à l'heure, vous ne devez pas trop vous en inquiéter, ça c'est la LUCAM qui s'en occupe. On doit garder la preuve du consentement de nos contacts, d'avoir une politique de confidentialité, là encore en règle avec l'ACNIL et le RGPD, et que nous avons des procédures internes destinées à protéger toutes ces informations.
+
+289
+00:23:58,500 --> 00:24:02,619
+Donc cette obligation de traçabilité est hyper importante en fait.
+
+290
+00:24:02,740 --> 00:24:05,279
+Ce n'est pas du tout accessoire, c'est au cœur du RGPD moderne.
+
+291
+00:24:05,799 --> 00:24:13,480
+Il ne suffit pas d'être conforme, il faut avoir les moyens de le prouver en cas de contrôle, en cas de litige et à tout moment.
+
+292
+00:24:14,519 --> 00:24:17,859
+Alors tous ces principes que nous venons de voir, ils s'appliquent de manière cumulative.
+
+293
+00:24:17,859 --> 00:24:20,119
+Ce n'est pas l'un et ou l'autre.
+
+294
+00:24:20,960 --> 00:24:24,200
+Tous ces principes, nous devons les respecter en permanence.
+
+295
+00:24:24,200 --> 00:24:27,220
+tous les traitements de données que nous réalisons
+
+296
+00:24:27,220 --> 00:24:29,120
+sont concernés
+
+297
+00:24:29,120 --> 00:24:30,960
+pas seulement les clients
+
+298
+00:24:30,960 --> 00:24:33,039
+pas seulement les prospects
+
+299
+00:24:33,039 --> 00:24:35,860
+pas seulement les éventuels partenaires
+
+300
+00:24:35,860 --> 00:24:37,380
+toutes les données
+
+301
+00:24:37,380 --> 00:24:38,980
+que nous collectons, que nous enregistrons
+
+302
+00:24:38,980 --> 00:24:41,000
+doivent être conformes
+
+303
+00:24:41,000 --> 00:24:43,400
+et répondre à ces différents principes
+
+304
+00:24:43,400 --> 00:24:44,700
+le RGPD
+
+305
+00:24:44,700 --> 00:24:46,140
+et ça c'est assez important
+
+306
+00:24:46,140 --> 00:24:48,779
+et c'est assez, je dirais, stupide
+
+307
+00:24:48,779 --> 00:24:50,819
+le RGPD ne fait
+
+308
+00:24:50,819 --> 00:24:52,180
+aucune distinction
+
+309
+00:24:52,180 --> 00:24:55,180
+aucune exception, aucune discrimination
+
+310
+00:24:55,180 --> 00:24:57,140
+selon que nous soyons
+
+311
+00:24:57,140 --> 00:24:58,799
+une petite ou une grande structure
+
+312
+00:24:58,799 --> 00:25:00,480
+ça veut dire quoi ?
+
+313
+00:25:00,480 --> 00:25:02,680
+ça veut dire que le RGPD qui est, soyons clairs
+
+314
+00:25:02,680 --> 00:25:05,140
+une espèce de gigantesque usine à gaz
+
+315
+00:25:05,140 --> 00:25:07,340
+extrêmement difficile à mettre en oeuvre
+
+316
+00:25:07,340 --> 00:25:09,500
+et à maintenir au cours du temps
+
+317
+00:25:09,500 --> 00:25:11,140
+raison pour laquelle nous l'avons fait
+
+318
+00:25:11,140 --> 00:25:12,940
+petit à petit et là on essaye de mettre
+
+319
+00:25:12,940 --> 00:25:14,600
+le coup de collier final
+
+320
+00:25:14,600 --> 00:25:17,380
+le RGPD ne fait aucune différence
+
+321
+00:25:17,380 --> 00:25:18,660
+entre nous, une TPE
+
+322
+00:25:18,660 --> 00:25:21,820
+vous, une entreprise individuelle
+
+323
+00:25:21,819 --> 00:25:27,500
+un artisan, je ne sais pas, un artisan peintre ou un artisan cordonnier
+
+324
+00:25:27,500 --> 00:25:31,659
+et une multinationale comme Google, Coca-Cola ou Air France.
+
+325
+00:25:32,259 --> 00:25:36,839
+La procédure, le principe du RGPD sont exactement les mêmes
+
+326
+00:25:36,839 --> 00:25:40,500
+et sont applicables au détail près de la même manière
+
+327
+00:25:40,500 --> 00:25:43,799
+que l'on soit artisan cordonnier tout seul,
+
+328
+00:25:45,539 --> 00:25:47,139
+sans aucune formation juridique,
+
+329
+00:25:47,140 --> 00:25:53,060
+ou que l'on soit Apple, Google ou Samsung,
+
+330
+00:25:54,680 --> 00:25:56,820
+c'est-à-dire une multinationale tentaculaire
+
+331
+00:25:56,820 --> 00:26:02,080
+qui a des personnels juridiques, techniques, administratifs absolument pléthoriques
+
+332
+00:26:02,080 --> 00:26:04,800
+qui sont susceptibles de mettre en œuvre et de suivre le RGPD.
+
+333
+00:26:05,520 --> 00:26:08,480
+C'est la raison pour laquelle, et ça on va en reparler un petit peu plus tard,
+
+334
+00:26:08,480 --> 00:26:21,819
+Alors, vous ne devez vous surtout pas enregistrer et conserver des données personnelles sur vos clients, les notaires ou que sais-je encore.
+
+335
+00:26:22,620 --> 00:26:26,180
+Mettez tout dans l'églantine et ne conservez rien de votre côté.
+
+336
+00:26:26,759 --> 00:26:30,420
+Comme ça, vous n'avez vous pas à être conforme au RGPD.
+
+337
+00:26:31,160 --> 00:26:36,079
+Si vous mettez tout dans l'églantine et que vous ne conservez rien vous-même, c'est donc à la lucarne de se débrouiller.
+
+338
+00:26:36,079 --> 00:26:42,519
+Et la lucarne fait ce qu'il faut pour être conforme au RGPD et comme ça, vous n'avez pas à le faire.
+
+339
+00:26:42,960 --> 00:26:50,899
+À partir du moment où vous avez ne serait-ce qu'un fichier Excel sur votre ordinateur dans lequel vous mettez le nom, le prénom et l'adresse de vos clients,
+
+340
+00:26:51,419 --> 00:27:00,139
+vous devez être conforme au RGPD dans le moindre détail, avoir la tenue d'un registre des traitements, avoir une personne désignée responsable, machin, etc.
+
+341
+00:27:00,419 --> 00:27:02,079
+Et vous êtes susceptible de contrôle.
+
+342
+00:27:02,799 --> 00:27:06,259
+Ce qu'il faut que vous puissiez faire, c'est qu'en cas de contrôle de la DGCCRF,
+
+343
+00:27:06,579 --> 00:27:09,819
+c'est rare que les agents mandataires soient contrôlés par la DGCCRF, mais ça arrive.
+
+344
+00:27:10,139 --> 00:27:12,639
+Il y a eu une époque, il y a quelques années, ça s'est multiplié,
+
+345
+00:27:12,759 --> 00:27:14,259
+puis apparemment ça s'est un petit peu arrêté.
+
+346
+00:27:15,279 --> 00:27:17,699
+Mais imaginons que vous soyez contrôlé par la DGCCRF,
+
+347
+00:27:18,480 --> 00:27:20,079
+et puis ça peut très bien vous arriver.
+
+348
+00:27:21,519 --> 00:27:25,419
+Si on vous dit, Madame, Monsieur, qu'avez-vous mis en œuvre ?
+
+349
+00:27:25,419 --> 00:27:27,399
+Montrez-moi votre conformité au RGPD.
+
+350
+00:27:27,539 --> 00:27:29,179
+Il faut que vous soyez en mesure de répondre,
+
+351
+00:27:29,180 --> 00:27:34,180
+je ne conserve, je ne collecte et ne conserve aucune donnée personnelle.
+
+352
+00:27:35,140 --> 00:27:36,279
+Tout est géré par le réseau.
+
+353
+00:27:37,480 --> 00:27:39,180
+Sur mon ordinateur, je n'ai rien.
+
+354
+00:27:39,799 --> 00:27:41,799
+Rien, rien, rien, rien.
+
+355
+00:27:42,400 --> 00:27:46,400
+C'est tout dans le logiciel interne qui lui est conforme au RGPD.
+
+356
+00:27:46,940 --> 00:27:48,320
+Mettez-vous à l'abri de cela.
+
+357
+00:27:49,620 --> 00:27:52,900
+Parce que sinon, en tant qu'entreprise individuelle, en tant qu'agent commercial,
+
+358
+00:27:52,900 --> 00:27:59,220
+Vous êtes entièrement responsable de votre conformité au RGPD
+
+359
+00:27:59,220 --> 00:28:01,800
+Comme si vous étiez Air France ou Google
+
+360
+00:28:01,800 --> 00:28:02,980
+De la même manière
+
+361
+00:28:02,980 --> 00:28:07,460
+Alors, on va maintenant, si vous le voulez bien
+
+362
+00:28:07,460 --> 00:28:14,200
+Approfondir le principe de lisséité et transparence
+
+363
+00:28:14,200 --> 00:28:16,540
+Parce que c'est un des principes les plus importants
+
+364
+00:28:16,540 --> 00:28:19,220
+Alors, ce n'est pas le seul qu'on va approfondir
+
+365
+00:28:19,220 --> 00:28:22,240
+Mais on va se pencher dessus un petit peu plus maintenant
+
+366
+00:28:22,240 --> 00:28:39,180
+On va voir un petit peu ce que ça signifie de manière concrète. Comme je vous l'ai dit, le but de cette formation, ce n'est pas de vous expliquer ce que c'est de manière théorique, mais c'est de vous expliquer comment cela s'articule de manière concrète dans votre activité quotidienne.
+
+367
+00:28:39,180 --> 00:28:48,299
+Alors, premièrement, l'ICIT et transparence.
+
+368
+00:28:48,299 --> 00:29:02,259
+Alors, l'ICIT, le traitement doit reposer sur une base légale valide, c'est-à-dire que ce traitement doit être en tout point légal, légitime, autorisé par la loi.
+
+369
+00:29:02,259 --> 00:29:12,940
+Pour que vous puissiez, nous puissions, collecter, utiliser, conserver, transmettre des données personnelles ou même une donnée personnelle, on doit avoir une base juridique licite.
+
+370
+00:29:13,759 --> 00:29:28,339
+Il existe six bases légales possibles offertes par le RGPD, mais dans notre métier précisément, il y en a quatre particulièrement pertinentes que nous allons voir tout de suite.
+
+371
+00:29:28,339 --> 00:29:37,899
+Premièrement, l'exécution d'un contrat. Qu'est-ce que ça veut dire, exécution d'un contrat ?
+
+372
+00:29:37,899 --> 00:29:52,099
+Ça veut dire qu'une collecte d'informations, traitements, enregistrements, est licite lorsqu'il s'agit de préparer, rédiger et conclure un contrat.
+
+373
+00:29:52,099 --> 00:29:58,980
+C'est un des cas prévus par le RGPD qui nous autorise à collecter, enregistrer, traiter des données.
+
+374
+00:29:59,519 --> 00:30:05,199
+Donc, on collecte les informations d'un vendeur, son nom, son prénom, son adresse, dans le cadre d'un mandat de vente.
+
+375
+00:30:05,659 --> 00:30:09,480
+On va mettre en place avec lui une relation contractuelle.
+
+376
+00:30:09,939 --> 00:30:15,139
+On prend les informations d'un acquéreur dans le cadre de la préparation d'un compromis.
+
+377
+00:30:15,279 --> 00:30:17,719
+Alors, avec le notaire, bien entendu, parce qu'on va transférer ça au notaire.
+
+378
+00:30:18,119 --> 00:30:20,359
+D'un compromis, d'un avant-contrat, de manière générale.
+
+379
+00:30:20,359 --> 00:30:33,359
+L'exécution d'un contrat, la construction d'une relation contractuelle est un exemple de l'ICIT, c'est-à-dire c'est une base légale qui nous permet la collecte et le traitement des données.
+
+380
+00:30:34,079 --> 00:30:46,240
+Bien entendu, deuxième principe, principe qui construit cette l'ICIT, le consentement de la personne concernée, c'est-à-dire que la personne dont on collecte les données doit donner son consentement explicite.
+
+381
+00:30:46,240 --> 00:30:48,620
+et c'est là que je vous disais
+
+382
+00:30:48,620 --> 00:30:50,240
+il y a un instant que nous allons mettre en place
+
+383
+00:30:50,240 --> 00:30:52,579
+des notices d'information avec les petites cases
+
+384
+00:30:52,579 --> 00:30:54,759
+à cocher qui disent je suis d'accord
+
+385
+00:30:54,759 --> 00:30:56,579
+alors dans les mandats d'aujourd'hui
+
+386
+00:30:56,579 --> 00:30:58,339
+par exemple il y a déjà des mentions là-dessus
+
+387
+00:30:58,339 --> 00:31:00,220
+bien sûr, mais ces mentions
+
+388
+00:31:00,220 --> 00:31:02,160
+il faut qu'on les consolide encore
+
+389
+00:31:02,160 --> 00:31:03,440
+et qu'on les rende plus
+
+390
+00:31:03,440 --> 00:31:05,319
+visibles
+
+391
+00:31:05,319 --> 00:31:08,519
+pour que le consentement ne soit pas seulement
+
+392
+00:31:08,519 --> 00:31:10,500
+implicite mais que le consentement soit
+
+393
+00:31:10,500 --> 00:31:11,620
+explicite
+
+394
+00:31:11,620 --> 00:31:14,380
+donc il nous faut le consentement
+
+395
+00:31:14,380 --> 00:31:16,520
+de la personne concernée, que ce soit
+
+396
+00:31:16,520 --> 00:31:18,520
+simplement, d'ailleurs, vous savez, ne serait-ce que
+
+397
+00:31:18,520 --> 00:31:20,680
+pour lui envoyer une newsletter, pour le prospecter
+
+398
+00:31:20,680 --> 00:31:22,240
+commercialement, s'il n'est pas encore client,
+
+399
+00:31:22,700 --> 00:31:24,540
+qu'il n'a eu aucun contact intérieur avec nous,
+
+400
+00:31:24,600 --> 00:31:26,300
+il faut qu'il ait donné aussi son autorisation.
+
+401
+00:31:26,760 --> 00:31:27,880
+Alors ça, nous, on ne le fait pas.
+
+402
+00:31:28,540 --> 00:31:30,040
+On n'envoie pas de newsletter
+
+403
+00:31:30,040 --> 00:31:34,800
+aux clients,
+
+404
+00:31:35,540 --> 00:31:36,660
+on ne leur envoie pas
+
+405
+00:31:36,660 --> 00:31:38,160
+des prospections commerciales,
+
+406
+00:31:38,460 --> 00:31:40,540
+nous ne le faisons pas, mais si jamais
+
+407
+00:31:40,540 --> 00:31:42,300
+vous, il vous venait à l'idée de le faire,
+
+408
+00:31:42,300 --> 00:31:43,700
+il faudrait que vous ayez
+
+409
+00:31:43,700 --> 00:31:47,039
+précédemment reçu le consentement explicite de la personne,
+
+410
+00:31:47,160 --> 00:31:49,340
+c'est-à-dire qu'elle ne vous ait pas dit par oral, mais que par écrit,
+
+411
+00:31:49,779 --> 00:31:53,920
+elle vous ait dit « je suis d'accord pour recevoir des informations commerciales, etc. »
+
+412
+00:31:53,920 --> 00:32:00,920
+Le RGPD base la licéité de cette communication basée sur les informations personnelles
+
+413
+00:32:01,580 --> 00:32:03,340
+sur ce consentement explicite.
+
+414
+00:32:04,580 --> 00:32:10,220
+Ensuite, autre cas de licéité,
+
+415
+00:32:10,220 --> 00:32:25,079
+Et lorsqu'on a une obligation légale de collecte des données, et en particulier dans notre métier, c'est-à-dire dans toutes les professions juridiques et financières, la loi nous impose de collecter certaines informations concernant nos clients, qu'on le veuille ou qu'on ne le veuille pas.
+
+416
+00:32:25,079 --> 00:32:48,279
+Je vais vous donner un exemple tout bête. On reparlait tout à l'heure de la carte d'identité. Je vous avais dit qu'on en parlerait à nouveau. Normalement, selon le code monétaire et financier, TRACFIN, la lutte contre le blanchiment de capitaux, dont on a déjà parlé plusieurs fois, nous impose de vérifier l'identité de nos clients.
+
+417
+00:32:48,279 --> 00:32:50,359
+on doit
+
+418
+00:32:50,359 --> 00:32:52,220
+demander leur carte d'identité, vérifier
+
+419
+00:32:52,220 --> 00:32:54,139
+que la personne qu'ils déclarent être
+
+420
+00:32:54,139 --> 00:32:56,680
+est bien cette personne là
+
+421
+00:32:56,680 --> 00:32:58,339
+c'est une obligation
+
+422
+00:32:58,339 --> 00:33:00,339
+légale, c'est pas
+
+423
+00:33:00,339 --> 00:33:02,160
+nous qui disons tiens
+
+424
+00:33:02,160 --> 00:33:03,980
+je vais demander la carte d'identité à cet acquéreur
+
+425
+00:33:03,980 --> 00:33:06,420
+parce que j'ai envie de me protéger d'une éventuelle
+
+426
+00:33:06,420 --> 00:33:07,980
+vente en direct, ça nous
+
+427
+00:33:07,980 --> 00:33:09,319
+c'est notre souci à nous
+
+428
+00:33:09,319 --> 00:33:12,000
+mais la loi elle, elle a un autre
+
+429
+00:33:12,000 --> 00:33:14,319
+souci, lutter contre le blanchiment
+
+430
+00:33:14,319 --> 00:33:16,039
+vous savez la drogue, le terrorisme
+
+431
+00:33:16,039 --> 00:33:18,059
+etc etc, ça nous impose
+
+432
+00:33:18,059 --> 00:33:22,319
+par exemple de vérifier l'identité de nos clients, en particulier acquéreurs.
+
+433
+00:33:23,980 --> 00:33:31,079
+Dernière mention, l'intérêt légitime. L'intérêt légitime est très très important.
+
+434
+00:33:31,619 --> 00:33:35,919
+À condition de ne pas porter atteinte aux droits et libertés des personnes, par exemple
+
+435
+00:33:35,919 --> 00:33:41,519
+si on veut relancer un ancien contact qui nous avait déjà manifesté un intérêt réel,
+
+436
+00:33:41,599 --> 00:33:46,339
+c'est-à-dire quelqu'un qui nous avait déjà appelé il y a plusieurs semaines pour un
+
+437
+00:33:46,339 --> 00:33:48,559
+autre bien pour lequel il était véritablement
+
+438
+00:33:48,559 --> 00:33:50,439
+intéressé ou qui avait laissé ses coordonnées
+
+439
+00:33:50,439 --> 00:33:52,459
+volontairement, on peut invoquer
+
+440
+00:33:52,459 --> 00:33:54,259
+qu'on a un intérêt légitime
+
+441
+00:33:54,259 --> 00:33:56,279
+à ce traitement de données. Mais attention,
+
+442
+00:33:56,480 --> 00:33:58,199
+pas pour une prospection généralisée
+
+443
+00:33:58,199 --> 00:34:00,339
+et aveugle vers des gens dont nous ne savons
+
+444
+00:34:00,339 --> 00:34:02,519
+pas qui ils sont uniquement parce qu'on a réussi à récupérer
+
+445
+00:34:02,519 --> 00:34:04,579
+leurs données quelque part. Absolument
+
+446
+00:34:04,579 --> 00:34:04,799
+pas.
+
+447
+00:34:06,919 --> 00:34:07,079
+Alors,
+
+448
+00:34:08,599 --> 00:34:09,880
+ensuite,
+
+449
+00:34:11,159 --> 00:34:14,739
+voyons maintenant la transparence.
+
+450
+00:34:14,739 --> 00:34:25,779
+La transparence qui va avec la licéité, c'est le principe selon lequel en toute transparence, le client doit être clairement informé de ce que nous faisons et de ce que nous ferons.
+
+451
+00:34:26,239 --> 00:34:38,599
+Dès lors qu'on connecte des données personnelles, on a l'obligation d'en informer la personne concernée de manière claire, c'est-à-dire non fouillie, non difficilement compréhensible,
+
+452
+00:34:38,599 --> 00:34:42,559
+comme le fait un certain réseau qui est composé de trois lettres.
+
+453
+00:34:43,579 --> 00:34:49,019
+Accessible, c'est-à-dire que le client ne doit pas avoir à chercher partout
+
+454
+00:34:49,019 --> 00:34:53,199
+de lancer une enquête de police pour trouver ces informations.
+
+455
+00:34:53,960 --> 00:34:55,920
+Rédigé en langage compréhensible,
+
+456
+00:34:56,179 --> 00:35:03,259
+non pas une espèce de dialecte juridique volontairement mal rédigé
+
+457
+00:35:03,259 --> 00:35:04,639
+pour que les gens ne sachent pas ce qu'il passe.
+
+458
+00:35:05,000 --> 00:35:08,219
+Et ça doit être fourni au moment de la collecte.
+
+459
+00:35:08,599 --> 00:35:14,779
+pas après. Cette obligation, je vous le rappelle, vaut même si vous travaillez seul, en tant
+
+460
+00:35:14,779 --> 00:35:19,119
+que simple artisan cordonnier, sans site internet, sans traitement automatisé, le simple fait
+
+461
+00:35:19,119 --> 00:35:24,400
+de remplir une fiche avec des informations, même sur du papier, un mandat, une fiche
+
+462
+00:35:24,400 --> 00:35:29,579
+de visite ou n'importe quoi, nous oblige à fournir une information sur le traitement
+
+463
+00:35:29,579 --> 00:35:34,860
+des données. Elle doit figurer dans un encart RGPD sur tous nos supports, les mandats, les
+
+464
+00:35:34,860 --> 00:35:36,840
+bons de visite, les formulaires de contact, les emails
+
+465
+00:35:36,840 --> 00:35:38,620
+de prospection, les sites web, etc.
+
+466
+00:35:39,240 --> 00:35:40,740
+Ce qui n'est pas encore le cas partout
+
+467
+00:35:40,740 --> 00:35:42,800
+chez nous, c'est ce que nous sommes en train de faire et de mettre
+
+468
+00:35:42,800 --> 00:35:45,180
+en œuvre. Cette notice doit mentionner
+
+469
+00:35:45,180 --> 00:35:46,840
+l'identité du responsable
+
+470
+00:35:46,840 --> 00:35:49,340
+du traitement, les finalités
+
+471
+00:35:49,340 --> 00:35:50,980
+du traitement, exécution
+
+472
+00:35:50,980 --> 00:35:52,559
+de contrat, suivi commercial,
+
+473
+00:35:52,880 --> 00:35:54,579
+la base juridique, contrat,
+
+474
+00:35:54,780 --> 00:35:56,900
+consentement, l'obligation légale dont on vient de parler,
+
+475
+00:35:57,640 --> 00:35:59,140
+les destinataires éventuels,
+
+476
+00:35:59,599 --> 00:36:00,980
+un notaire, un confrère,
+
+477
+00:36:01,099 --> 00:36:02,000
+un partenaire commercial,
+
+478
+00:36:03,000 --> 00:36:04,660
+la durée de conservation des données,
+
+479
+00:36:04,860 --> 00:36:11,980
+on en reparlera tout à l'heure, les droits de la personne concernée, l'accès, rectification, opposition, suppression, on en parlait,
+
+480
+00:36:12,559 --> 00:36:16,680
+et les coordonnées du référent RGPD ou DPO, on en reparlera tout à l'heure.
+
+481
+00:36:17,900 --> 00:36:22,000
+Cette transparence, c'est une obligation absolument formelle.
+
+482
+00:36:22,599 --> 00:36:27,079
+La violation de cette obligation est sanctionnée même s'il n'y a pas de plainte du client.
+
+483
+00:36:27,079 --> 00:36:38,679
+Il suffit qu'un contrôle de la DGCCRF par exemple s'en aperçoive pour entraîner une sanction même si personne ne s'est plaint, même si personne n'est venu dire qu'il avait été lésé.
+
+484
+00:36:39,960 --> 00:36:48,579
+On doit donc veiller à ne jamais collecter ces données sans expliquer à quoi elles serviront ni la base juridique valide sur lesquelles elles reposent.
+
+485
+00:36:48,579 --> 00:37:15,159
+Alors, maintenant, on va revoir dans un slide suivant les bases juridiques du traitement, c'est-à-dire qu'on va revenir sur certaines de ces notions et on va les examiner dans le détail du point de vue de la base juridique, qui vous permettra de savoir véritablement sur quoi repose toute demande d'information.
+
+486
+00:37:16,159 --> 00:37:24,159
+Alors, n'oubliez pas que tout traitement de données, collecte traitement de données, doit reposer sur une base légale clairement identifiée.
+
+487
+00:37:24,940 --> 00:37:26,679
+Il n'y a pas d'à-peu-près, il n'y a pas de flou.
+
+488
+00:37:27,039 --> 00:37:32,379
+Il ne peut pas y avoir de traitement par défaut, automatique, qui est fait comme ça parce qu'on a toujours fait comme ça.
+
+489
+00:37:32,480 --> 00:37:35,619
+Non, il faut avoir une véritable base juridique précise.
+
+490
+00:37:36,460 --> 00:37:42,159
+Voici les quatre bases juridiques majeures, celles que nous venons de voir, mais que nous allons détailler précisément.
+
+491
+00:37:42,159 --> 00:37:44,039
+précisément. Premièrement,
+
+492
+00:37:44,259 --> 00:37:45,420
+le consentement du client.
+
+493
+00:37:46,059 --> 00:37:48,179
+Le consentement du client, il est requis
+
+494
+00:37:48,179 --> 00:37:49,699
+dès lors que le traitement
+
+495
+00:37:49,699 --> 00:37:51,980
+n'est pas nécessaire à l'exécution
+
+496
+00:37:51,980 --> 00:37:54,059
+du contrat. C'est-à-dire
+
+497
+00:37:54,059 --> 00:37:55,480
+qu'on veut
+
+498
+00:37:55,480 --> 00:37:57,679
+nous collecter des données,
+
+499
+00:37:58,699 --> 00:38:00,079
+mais les données que nous
+
+500
+00:38:00,079 --> 00:38:02,059
+collectons, ça n'est pas parce qu'on est en train de faire
+
+501
+00:38:02,059 --> 00:38:04,119
+un contrat, on vient d'en parler, ça n'est pas
+
+502
+00:38:04,119 --> 00:38:06,139
+imposé par la loi, traque fin,
+
+503
+00:38:06,639 --> 00:38:07,899
+ça n'est pas justifié par
+
+504
+00:38:07,899 --> 00:38:09,960
+un intérêt légitime clairement établi, comme
+
+505
+00:38:09,960 --> 00:38:11,759
+on vient de le voir. Par contre,
+
+506
+00:38:11,760 --> 00:38:27,880
+On veut faire une newsletter. On veut envoyer des relances de biens immobiliers à des contacts qui ne sont pas nos clients. On veut utiliser éventuellement les données pour une finalité non prévue initialement, c'est-à-dire transmettre à un partenaire commercial, comme les déménageurs bretons, par exemple.
+
+507
+00:38:28,240 --> 00:38:31,720
+Là, vous voyez, on n'est pas dans un cas où c'est une exécution de contrat.
+
+508
+00:38:31,980 --> 00:38:32,840
+Non, ce ne sont pas des clients.
+
+509
+00:38:33,340 --> 00:38:34,460
+Ce n'est pas imposé par la loi.
+
+510
+00:38:34,579 --> 00:38:38,960
+Ce n'est pas la loi qui nous dit que vous devez traiter ces données de cette manière-là pour telle raison,
+
+511
+00:38:39,160 --> 00:38:40,220
+la lutte contre le blanchiment.
+
+512
+00:38:40,559 --> 00:38:41,900
+Il n'y a pas d'intérêt légitime.
+
+513
+00:38:42,720 --> 00:38:48,900
+Dans ce cas, on doit impérativement avoir le consentement du client.
+
+514
+00:38:49,920 --> 00:38:54,500
+Il doit dire, je consens, je suis d'accord pour que vous collectiez mes données,
+
+515
+00:38:54,599 --> 00:38:56,280
+que vous les utilisiez de cette manière-là.
+
+516
+00:38:56,280 --> 00:38:59,660
+Ce consentement doit être premièrement libre
+
+517
+00:38:59,660 --> 00:39:03,140
+Le client est libre de dire oui ou de dire non
+
+518
+00:39:03,140 --> 00:39:06,660
+Ça implique quoi également le fait que le consentement soit libre ?
+
+519
+00:39:06,660 --> 00:39:08,480
+Ça implique que, et vous connaissez tout ça
+
+520
+00:39:08,480 --> 00:39:11,000
+Il ne peut pas y avoir une case déjà précochée
+
+521
+00:39:11,000 --> 00:39:14,400
+Je consens à ce que mes données, cette case a déjà été cochée pour vous
+
+522
+00:39:14,400 --> 00:39:15,460
+Enfin pour le client, non
+
+523
+00:39:15,460 --> 00:39:18,880
+La case doit être décochée, le client doit le voir, le lire et dire
+
+524
+00:39:18,880 --> 00:39:21,720
+Ah, je choisis de cocher cette case
+
+525
+00:39:21,720 --> 00:39:24,920
+Je choisis librement, personne ne m'a forcé ou ne l'a fait pour moi
+
+526
+00:39:24,920 --> 00:39:28,500
+Deuxièmement, ce consentement doit être spécifique
+
+527
+00:39:28,500 --> 00:39:31,800
+Spécifique à une finalité précise
+
+528
+00:39:31,800 --> 00:39:37,039
+C'est dans ce but-là que moi, le client, je donne mon accord, mon consentement
+
+529
+00:39:37,039 --> 00:39:39,159
+Pour que mes données soient collectées et utilisées
+
+530
+00:39:39,159 --> 00:39:43,159
+Troisièmement, il doit être éclairé
+
+531
+00:39:43,159 --> 00:39:45,680
+Éclairé, ça veut dire que je sais à quoi je m'engage
+
+532
+00:39:45,680 --> 00:39:49,380
+Je sais ce que j'accepte, je sais ce qui va se passer derrière
+
+533
+00:39:49,380 --> 00:39:53,240
+Et dernière chose, documenté
+
+534
+00:39:53,239 --> 00:40:01,879
+« Documenter », ça veut dire qu'on doit en garder la preuve. On doit garder le formulaire dans lequel le monsieur a coché la case qui autorise.
+
+535
+00:40:02,579 --> 00:40:11,039
+Je vais vous donner un exemple tout bête. Vous allez à un salon de l'immobilier. Il y en a un chouette qui est en préparation pour bientôt dans le Nord.
+
+536
+00:40:12,399 --> 00:40:19,899
+On obtient l'adresse e-mail d'un particulier au cours du salon de l'immobilier. On n'a pas le droit de lui envoyer des offres commerciales, de lui dire
+
+537
+00:40:19,900 --> 00:40:26,960
+« Ah, cher monsieur, vous m'avez parlé de votre recherche de maison, voici quelques belles maisons qui pourraient vous plaire. »
+
+538
+00:40:26,960 --> 00:40:31,579
+S'il ne vous a pas explicitement donné son accord, pour cela, en toute connaissance de cause,
+
+539
+00:40:31,680 --> 00:40:38,160
+vous avez gardé le formulaire dans lequel il a coché son accord, son consentement.
+
+540
+00:40:39,800 --> 00:40:44,820
+Ensuite, l'exécution du contrat.
+
+541
+00:40:45,380 --> 00:40:48,019
+L'exécution du contrat, on l'a vu juste au-dessus, on va la détailler,
+
+542
+00:40:48,019 --> 00:40:50,699
+c'est la base, en fait, nous, dans notre activité,
+
+543
+00:40:51,739 --> 00:40:53,119
+c'est la base juridique la plus courante.
+
+544
+00:40:53,739 --> 00:40:56,659
+Parce que dans 90% des cas,
+
+545
+00:40:57,380 --> 00:40:59,519
+quand on collecte des informations sur une personne,
+
+546
+00:40:59,980 --> 00:41:02,780
+c'est parce qu'on est en train de préparer un mandat, contrat,
+
+547
+00:41:03,239 --> 00:41:05,519
+ou on est en train de préparer un compromis de vente
+
+548
+00:41:05,519 --> 00:41:07,920
+et un acte de vente chez le notaire, autre contrat.
+
+549
+00:41:08,360 --> 00:41:11,860
+On est donc dans la base juridique, exécution du contrat.
+
+550
+00:41:12,480 --> 00:41:14,199
+C'est l'immense majorité de nos cas.
+
+551
+00:41:14,679 --> 00:41:17,880
+Elle justifie à elle seule tous les traitements nécessaires
+
+552
+00:41:17,880 --> 00:41:21,320
+à la conclusion ou l'exécution du contrat en question.
+
+553
+00:41:22,000 --> 00:41:25,300
+Collecte des coordonnées du vendeur, transmission d'informations à un notaire,
+
+554
+00:41:25,440 --> 00:41:29,440
+préparation d'un compromis ou d'une offre d'achat, communication avec l'acquéreur,
+
+555
+00:41:29,500 --> 00:41:32,119
+ça peut être mille et mille et mille et mille choses,
+
+556
+00:41:33,180 --> 00:41:39,840
+dans le but de conclure ce mandat de vente, dans le but de conclure cette promesse de vente.
+
+557
+00:41:41,559 --> 00:41:46,559
+Un mandat signé par un vendeur nécessite, pour rédiger ce mandat,
+
+558
+00:41:46,559 --> 00:41:48,380
+toutes les données qu'on collecte.
+
+559
+00:41:48,460 --> 00:41:50,539
+L'identité, l'adresse, la situation du bien,
+
+560
+00:41:51,019 --> 00:41:52,699
+un justificatif de propriété,
+
+561
+00:41:52,960 --> 00:41:53,960
+attestation ou
+
+562
+00:41:53,960 --> 00:41:57,199
+type de propriété,
+
+563
+00:41:58,199 --> 00:41:59,239
+une taxe foncière,
+
+564
+00:41:59,360 --> 00:42:00,739
+les diagnostics techniques, etc.
+
+565
+00:42:00,980 --> 00:42:02,380
+On en a besoin pour ce contrat.
+
+566
+00:42:04,659 --> 00:42:05,920
+Ça, c'est relativement simple,
+
+567
+00:42:06,059 --> 00:42:07,259
+parce que vous connaissez ça par cœur.
+
+568
+00:42:08,320 --> 00:42:10,119
+Le cas de l'obligation légale, maintenant.
+
+569
+00:42:10,119 --> 00:42:11,759
+Le cas de l'obligation légale,
+
+570
+00:42:12,079 --> 00:42:14,480
+troisièmement, donc on est à la troisième ligne ici,
+
+571
+00:42:14,480 --> 00:42:22,179
+On peut parfois collecter, conserver, traiter des données parce que, je vous le disais tout à l'heure, la loi nous dit de le faire.
+
+572
+00:42:22,659 --> 00:42:26,780
+Ce n'est pas nous qui choisissons. On n'a pas envie de le faire. On le fait.
+
+573
+00:42:28,400 --> 00:42:33,800
+Donc, clairement, c'est Tracfin et Bercy. Soyons clairs.
+
+574
+00:42:33,800 --> 00:42:43,960
+Après, on pourrait imaginer d'autres cas, mais c'est 99,9% c'est Tracfin.
+
+575
+00:42:43,960 --> 00:42:50,400
+Donc on doit, parce que la loi nous l'impose, conserver certains documents à des fins fiscales
+
+576
+00:42:50,400 --> 00:42:58,440
+Donc pour les impôts, on doit conserver la vérification d'identité dans le cadre de la lutte contre le blanchiment des capitaux et le financement du terrorisme
+
+577
+00:42:58,440 --> 00:43:03,840
+Donc lorsqu'on collecte une pièce d'identité ou des éléments sur la provenance des fonds par exemple dans une vente
+
+578
+00:43:03,840 --> 00:43:08,980
+On le fait en application d'une obligation légale et non pas parce qu'on en a besoin pour le contrat
+
+579
+00:43:08,980 --> 00:43:11,420
+parce qu'en fait, on pourrait dire
+
+580
+00:43:11,420 --> 00:43:13,760
+j'ai pas besoin de la carte d'identité des clients
+
+581
+00:43:13,760 --> 00:43:15,619
+j'ai pas besoin d'un justificatif
+
+582
+00:43:15,619 --> 00:43:18,099
+de la provenance des fonds
+
+583
+00:43:18,099 --> 00:43:19,840
+pour mon mandat de vente ou pour le compromis
+
+584
+00:43:19,840 --> 00:43:21,860
+je peux très bien m'en passer, j'en ai pas moi
+
+585
+00:43:21,860 --> 00:43:23,840
+besoin, oui, mais la loi
+
+586
+00:43:23,840 --> 00:43:25,440
+vous le demande, enfin la loi vous le demande
+
+587
+00:43:25,440 --> 00:43:26,860
+la loi nous l'impose
+
+588
+00:43:26,860 --> 00:43:29,559
+elle nous demande pas grand chose la loi, elle l'impose
+
+589
+00:43:29,559 --> 00:43:32,199
+dernièrement, numéro 4
+
+590
+00:43:32,199 --> 00:43:33,360
+l'intérêt légitime
+
+591
+00:43:33,360 --> 00:43:35,800
+l'intérêt légitime, je vous ai mis à côté
+
+592
+00:43:35,800 --> 00:43:37,920
+suivi de prospects connus, vous allez voir
+
+593
+00:43:37,920 --> 00:43:39,559
+que c'est important. C'est
+
+594
+00:43:39,559 --> 00:43:42,360
+la base la plus large, la plus élastique,
+
+595
+00:43:42,440 --> 00:43:43,579
+la plus souple, mais
+
+596
+00:43:43,579 --> 00:43:45,760
+attention, elle n'en est pas pour autant
+
+597
+00:43:45,760 --> 00:43:48,039
+peu encadrée par l'acnyl. C'est très strictement
+
+598
+00:43:48,039 --> 00:43:49,960
+encadré par l'acnyl. Elle nous permet
+
+599
+00:43:49,960 --> 00:43:52,159
+de traiter, conserver certaines données
+
+600
+00:43:52,159 --> 00:43:54,260
+lorsque le traitement
+
+601
+00:43:54,260 --> 00:43:56,240
+est nécessaire à la poursuite de notre activité
+
+602
+00:43:56,240 --> 00:43:56,960
+professionnelle.
+
+603
+00:43:57,860 --> 00:44:00,039
+On a besoin de cela pour
+
+604
+00:44:00,039 --> 00:44:01,940
+en gros faire tourner la boîte.
+
+605
+00:44:02,700 --> 00:44:03,860
+Lorsque ce traitement
+
+606
+00:44:03,860 --> 00:44:06,000
+ne porte pas atteinte aux droits et libertés
+
+607
+00:44:06,000 --> 00:44:07,039
+des personnes concernées.
+
+608
+00:44:07,920 --> 00:44:10,260
+Petit exemple qui va illustrer tout ça facilement.
+
+609
+00:44:10,760 --> 00:44:13,860
+On relance d'anciens contacts, d'anciens prospects.
+
+610
+00:44:13,860 --> 00:44:17,039
+Ça, ça fait partie de notre activité professionnelle de tous les jours.
+
+611
+00:44:17,460 --> 00:44:18,840
+Tous les jours, on fait des relances.
+
+612
+00:44:19,220 --> 00:44:20,539
+Tous les jours, on rappelle les gens.
+
+613
+00:44:20,700 --> 00:44:22,440
+Tous les jours, on leur envoie un petit e-mail.
+
+614
+00:44:23,180 --> 00:44:27,280
+Ils ont déjà manifesté un intérêt sérieux précédemment.
+
+615
+00:44:27,820 --> 00:44:29,360
+Ce ne sont pas des gens que je ne connais pas.
+
+616
+00:44:29,480 --> 00:44:32,680
+Ce ne sont pas des gens dont j'ai acheté les coordonnées sur le dark web.
+
+617
+00:44:33,159 --> 00:44:36,300
+Non, ce sont des gens qui m'ont déjà appelé le mois dernier ou il y a deux mois
+
+618
+00:44:36,300 --> 00:44:40,460
+pour une maison, la maison ne correspondait pas,
+
+619
+00:44:40,660 --> 00:44:42,580
+eh bien, on est toujours dans un délai raisonnable.
+
+620
+00:44:43,160 --> 00:44:44,340
+Je ne le rappelle pas deux ans après.
+
+621
+00:44:44,560 --> 00:44:46,140
+Non, je le rappelle un mois, deux mois après,
+
+622
+00:44:46,220 --> 00:44:47,700
+où il est susceptible d'être toujours en recherche.
+
+623
+00:44:47,820 --> 00:44:51,039
+Il dit, tiens, au fait, je vais peut-être rentrer quelque chose d'intéressant.
+
+624
+00:44:51,380 --> 00:44:53,420
+Est-ce que ça vous brancherait ?
+
+625
+00:44:53,420 --> 00:44:57,360
+Là, on est dans la relance d'un ancien contact, je vous disais,
+
+626
+00:44:57,360 --> 00:44:59,200
+qui a déjà manifesté un intérêt,
+
+627
+00:45:00,140 --> 00:45:01,980
+et on est dans un délai raisonnable.
+
+628
+00:45:01,980 --> 00:45:06,639
+Bien entendu, je vous disais, il ne porte pas atteinte aux droits et libertés
+
+629
+00:45:06,639 --> 00:45:08,500
+On doit sécuriser les fichiers clients
+
+630
+00:45:08,500 --> 00:45:11,900
+Conserver certaines données afin de preuve ou de suivi administratif
+
+631
+00:45:11,900 --> 00:45:12,760
+Mais pas plus
+
+632
+00:45:12,760 --> 00:45:17,699
+Attention, cet intérêt légitime dont je vous disais que c'est une base souple
+
+633
+00:45:17,699 --> 00:45:23,820
+On ne peut pas l'invoquer du tout pour faire une prospection de masse
+
+634
+00:45:23,820 --> 00:45:27,380
+Vous achetez des fichiers clients, vous faites une prospection de masse non sollicitée
+
+635
+00:45:27,380 --> 00:45:29,079
+Ce n'est pas de l'intérêt légitime
+
+636
+00:45:29,079 --> 00:45:48,759
+On ne peut pas l'utiliser non plus pour stocker des données inutilisées pendant des années, c'est-à-dire que les informations du client qui m'a appelé en 2025 pour des biens immobiliers, je ne peux pas le rappeler en 2028. Il est évident que je les ai conservées ces données pour rien pendant beaucoup trop longtemps sans aucune justification.
+
+637
+00:45:48,760 --> 00:46:05,540
+Et je ne peux pas non plus, sous le prétexte de l'intérêt légitime, transférer ces données à des partenaires commerciaux sans informations claires, préalables et libres de mon contact.
+
+638
+00:46:06,400 --> 00:46:14,820
+Donc, en somme, toute collecte et tout usage d'une donnée personnelle doit être juridiquement justifiée sur une de ces bases que nous venons de voir.
+
+639
+00:46:14,820 --> 00:46:36,300
+Et en plus de ça, nous devons être en mesure de prouver sur quelle base on a conservé ces données. C'est-à-dire que je dois être en mesure, en cas de contrôle ou de réclamation de quelqu'un, de dire oui, j'ai conservé telles informations dans le cadre d'un contrat de mandat de vente.
+
+640
+00:46:36,300 --> 00:46:43,380
+C'est cette base juridique qui a présidé à la conservation de cette information.
+
+641
+00:46:44,800 --> 00:46:49,840
+Alors maintenant, on va voir comment ça se traduit concrètement dans la gestion des durées de conservation de données.
+
+642
+00:46:50,400 --> 00:46:57,500
+Les durées de conservation, c'est extrêmement important parce que le RGPD impose qu'elles ne soient conservées que pendant une durée
+
+643
+00:46:57,500 --> 00:47:03,300
+qui n'excède pas la durée strictement nécessaire à la finalité du traitement.
+
+644
+00:47:03,300 --> 00:47:18,220
+En d'autres termes, on ne peut pas stocker des données indéfiniment ou on ne peut pas les conserver par automatisme comme ça parce que moi, par principe, je garde les informations sur mon ordinateur sans avoir une véritable justification et strictement encadrée.
+
+645
+00:47:18,219 --> 00:47:31,679
+Une fois que la finalité est atteinte, la vente est conclue, le mandat a expiré ou n'importe quoi, les données doivent être supprimées ou alors archivées dans un cadre hautement sécurisé.
+
+646
+00:47:31,679 --> 00:47:35,559
+c'est à dire qu'on n'est pas obligé de tout supprimer tout de suite
+
+647
+00:47:35,559 --> 00:47:39,119
+il y a des choses qu'on doit éventuellement supprimer
+
+648
+00:47:39,119 --> 00:47:40,839
+on verra ça tout à l'heure
+
+649
+00:47:40,839 --> 00:47:42,859
+mais si elles ne sont pas supprimées
+
+650
+00:47:42,859 --> 00:47:44,039
+ce qui est le plus simple
+
+651
+00:47:44,039 --> 00:47:45,940
+il faut les archiver, les conserver
+
+652
+00:47:45,940 --> 00:47:49,319
+dans un cadre vraiment dont on peut démontrer
+
+653
+00:47:49,319 --> 00:47:52,199
+qu'il est, alors non pas à l'épreuve de tout
+
+654
+00:47:52,199 --> 00:47:54,239
+ça n'est pas possible, le risque zéro n'existait pas
+
+655
+00:47:54,239 --> 00:47:58,000
+mais suffisamment sérieusement protégé
+
+656
+00:47:58,000 --> 00:48:02,320
+pour que n'importe qui ne puisse pas rentrer dans un système informatique
+
+657
+00:48:02,320 --> 00:48:05,920
+ou dans des locaux pour se servir dans les documents, dans les informations.
+
+658
+00:48:07,480 --> 00:48:10,920
+Alors, quels sont quelques petits exemples ?
+
+659
+00:48:10,920 --> 00:48:14,980
+Alors, excusez-moi, j'ai oublié de passer le slide ici.
+
+660
+00:48:15,820 --> 00:48:19,619
+Quels sont quelques petits exemples de durée ?
+
+661
+00:48:19,619 --> 00:48:21,760
+Eh bien, premièrement, un mandat de vente.
+
+662
+00:48:23,000 --> 00:48:25,059
+On a l'obligation, nous, de le garder 5 ans.
+
+663
+00:48:25,559 --> 00:48:26,019
+C'est la loi.
+
+664
+00:48:26,920 --> 00:48:29,000
+Alors quand je vous dis qu'on a l'obligation de le garder 5 ans,
+
+665
+00:48:29,199 --> 00:48:30,960
+ça ne veut pas dire qu'on doit le détruire au bout de 5 ans.
+
+666
+00:48:31,139 --> 00:48:33,320
+Ça veut dire qu'on doit le garder au moins 5 ans.
+
+667
+00:48:34,639 --> 00:48:37,579
+Un mandat signé, qu'il soit exclusif ou simple, etc.,
+
+668
+00:48:37,579 --> 00:48:39,539
+mandat de vente, mandat de recherche, tout ça, on s'en moque,
+
+669
+00:48:39,539 --> 00:48:43,960
+avec les documents annexes, les pièces justificatives, c'est 5 ans.
+
+670
+00:48:44,579 --> 00:48:49,800
+Que ce mandat de vente ait donné lieu à une transaction, une vente aboutie ou non,
+
+671
+00:48:49,900 --> 00:48:50,480
+ça ne change rien.
+
+672
+00:48:50,480 --> 00:49:10,340
+On signe un mandat de vente, on doit conserver l'original au siège pendant 5 ans minimum. Au bout de 5 ans, on a le droit de le détruire. On n'est pas obligé. Soit on le détruit, soit on le stocke dans des conditions ultra sécurisées.
+
+673
+00:49:10,340 --> 00:49:24,300
+Donc, typiquement, dans le cadre de cette mise en conformité RGPD, on a procédé à une purge gigantesque des anciens mandats.
+
+674
+00:49:25,240 --> 00:49:31,620
+Les anciens mandats de plus de cinq ans, on les a fait détruire par une société de destruction.
+
+675
+00:49:31,620 --> 00:49:38,539
+Il y a des sociétés de destruction qui sont elles-mêmes parfaitement compatibles avec le RGPD.
+
+676
+00:49:38,539 --> 00:49:43,099
+On a fait détruire tous les anciens mandats de plus de 5 ans
+
+677
+00:49:43,099 --> 00:49:44,219
+On a fait ça cette année
+
+678
+00:49:44,219 --> 00:49:47,139
+Ça a fait un gros gros gros ménage
+
+679
+00:49:47,139 --> 00:49:53,420
+Autre exemple, des données relatives à un acquéreur
+
+680
+00:49:53,420 --> 00:49:55,940
+Des fiches de renseignement, des bons de visite, etc
+
+681
+00:49:55,940 --> 00:49:57,239
+Pareil, 5 ans
+
+682
+00:49:57,239 --> 00:49:58,860
+C'est 5 ans également
+
+683
+00:49:58,860 --> 00:50:03,199
+Les données de l'acquéreur, son nom, ses coordonnées, son offre, sa fiche de visite, etc
+
+684
+00:50:03,199 --> 00:50:05,159
+On les conserve jusqu'à la vente
+
+685
+00:50:05,159 --> 00:50:07,380
+Et ensuite on les archive pendant 5 ans
+
+686
+00:50:07,380 --> 00:50:12,680
+pour les garder de côté en cas de procès contentieux
+
+687
+00:50:12,680 --> 00:50:15,160
+ou je ne sais pas quoi, demande de l'administration.
+
+688
+00:50:16,059 --> 00:50:18,660
+Parfois, on a notamment l'administration fiscale
+
+689
+00:50:18,660 --> 00:50:20,740
+qui nous demande des justificatifs sur une vente.
+
+690
+00:50:21,140 --> 00:50:23,160
+On peut avoir un an, deux ans après. Pourquoi ?
+
+691
+00:50:23,160 --> 00:50:25,539
+Parce que le client, l'acquéreur ou le vendeur
+
+692
+00:50:25,539 --> 00:50:27,300
+subit un contrôle fiscal.
+
+693
+00:50:28,380 --> 00:50:30,940
+Il a un contrôle fiscal, l'administration fiscale
+
+694
+00:50:30,940 --> 00:50:33,260
+vient nous demander à nous des justificatifs.
+
+695
+00:50:34,260 --> 00:50:35,260
+Eh bien, il faut qu'on puisse en donner.
+
+696
+00:50:35,260 --> 00:50:47,880
+Au bout de 5 ans, par contre, on a le droit de dire à l'administration fiscale qu'on ne les a plus parce qu'on doit les garder 5 ans. Au bout de 5 ans, on supprime tout. Ou alors, pareil, on les conserve, mais de manière hautement sécurisée.
+
+697
+00:50:47,880 --> 00:50:50,680
+Prospect
+
+698
+00:50:50,680 --> 00:50:52,700
+Alors là le prospect c'est pas un client
+
+699
+00:50:52,700 --> 00:50:54,160
+C'est pas la même chose du tout
+
+700
+00:50:54,160 --> 00:50:59,320
+Là c'est 3 ans après le dernier contact actif
+
+701
+00:50:59,320 --> 00:51:01,099
+Donc il y a une personne qui vous appelle
+
+702
+00:51:01,099 --> 00:51:03,280
+Bonjour je suis intéressé pour ceci, pour cela
+
+703
+00:51:03,280 --> 00:51:04,360
+C'est un prospect
+
+704
+00:51:04,360 --> 00:51:05,780
+Il achète pas
+
+705
+00:51:05,780 --> 00:51:07,200
+Ou il ne vend pas
+
+706
+00:51:07,200 --> 00:51:08,860
+Ce soit un vendeur ou un acquéreur c'est pareil
+
+707
+00:51:08,860 --> 00:51:11,400
+Il achète pas, il vend pas, c'est un simple prospect
+
+708
+00:51:11,400 --> 00:51:13,519
+Et bien toutes les informations qu'on a collectées
+
+709
+00:51:13,519 --> 00:51:15,920
+On a le droit de les garder pendant 3 ans
+
+710
+00:51:15,920 --> 00:51:17,780
+Après le dernier contact actif
+
+711
+00:51:17,780 --> 00:51:23,980
+c'est-à-dire le dernier appel téléphonique, le dernier email, le dernier clic de cette personne sur une interface sur notre site,
+
+712
+00:51:24,080 --> 00:51:29,260
+le dernier rendez-vous, le dernier contact actif de lui, de nous.
+
+713
+00:51:30,340 --> 00:51:38,560
+Après, on laisse couler trois ans et puis c'est pareil, on peut tout supprimer ou bien les stocker de manière ultra sécurisée.
+
+714
+00:51:39,080 --> 00:51:42,000
+Le mieux, c'est de les supprimer, c'est évident.
+
+715
+00:51:42,000 --> 00:51:51,340
+Les pièces d'identité, attention, c'est un petit peu plus encadré, mais pas de manière claire par la loi
+
+716
+00:51:51,340 --> 00:51:55,019
+C'est-à-dire que la loi ne dit pas que les pièces d'identité, vous les gardez pendant tant de temps
+
+717
+00:51:55,019 --> 00:52:00,119
+Quand on collecte la pièce d'identité d'un acquéreur, alors pas d'un vendeur
+
+718
+00:52:00,119 --> 00:52:03,539
+Parce que quand on collecte la pièce d'identité d'un vendeur, il y a plein d'agences immobilières qui font ça
+
+719
+00:52:03,539 --> 00:52:06,400
+Chez Safty, par exemple, vous avez l'obligation, quand vous prenez un mandat
+
+720
+00:52:06,400 --> 00:52:10,719
+Vous avez l'obligation de prendre la pièce d'identité des vendeurs et des acquéreurs
+
+721
+00:52:10,719 --> 00:52:27,719
+C'est dans la procédure de SAFTI. Ça, c'est annexé au mandat. Tout ce qui est annexé au mandat, c'est 5 ans comme la durée du mandat. La pièce d'identité que vous prenez, par exemple, pour l'obligation TRACFIN pour un acquéreur, on ne peut la conserver que pendant la durée nécessaire à cette obligation légale.
+
+722
+00:52:27,719 --> 00:52:29,019
+légales, mais
+
+723
+00:52:29,019 --> 00:52:31,219
+pour de simples prospects,
+
+724
+00:52:32,059 --> 00:52:33,599
+on n'a pas le droit de la conserver
+
+725
+00:52:33,599 --> 00:52:35,500
+nous, à titre préventif, en nous disant
+
+726
+00:52:35,500 --> 00:52:37,559
+« Tiens, peut-être que je pourrais en avoir
+
+727
+00:52:37,559 --> 00:52:38,939
+besoin un jour. » Non.
+
+728
+00:52:39,500 --> 00:52:41,839
+Elles doivent être supprimées ou archivées
+
+729
+00:52:41,839 --> 00:52:43,219
+dans un espace sécurisé
+
+730
+00:52:43,219 --> 00:52:45,799
+et chiffré avec accès restreint.
+
+731
+00:52:46,259 --> 00:52:47,439
+Quand je vous dis avec accès restreint,
+
+732
+00:52:47,519 --> 00:52:49,759
+c'est comme pour le reste. C'est-à-dire qu'il faut qu'on soit en mesure de prouver
+
+733
+00:52:49,759 --> 00:52:51,739
+de dire qui a accès à cette information,
+
+734
+00:52:51,959 --> 00:52:53,579
+telle personne, telle personne, telle personne
+
+735
+00:52:53,579 --> 00:52:55,199
+et personne d'autre.
+
+736
+00:52:56,279 --> 00:52:57,039
+Et personne d'autre.
+
+737
+00:52:57,719 --> 00:53:05,679
+Ensuite, les e-mails échanges commerciaux, 3 à 5 ans selon leur contenu.
+
+738
+00:53:06,059 --> 00:53:11,539
+Alors, e-mails échanges commerciaux avec un client, un prospect, il peut y avoir des données personnelles.
+
+739
+00:53:11,919 --> 00:53:16,339
+Des données sur le projet, sur un financement, sur les situations financières,
+
+740
+00:53:16,419 --> 00:53:18,779
+la personne vous dit ce qu'elle fait comme job ou je ne sais pas quoi.
+
+741
+00:53:20,079 --> 00:53:21,739
+En particulier quand on fait de l'allocation.
+
+742
+00:53:22,019 --> 00:53:25,599
+Nous, on n'en fait pas, mais quand vous faites de l'allocation, vous demandez plein d'informations.
+
+743
+00:53:25,599 --> 00:53:28,659
+Est-ce que vous êtes en CDI ? Depuis quand ? Dans quelle société ? Avec quel salaire ?
+
+744
+00:53:28,659 --> 00:53:32,319
+Pour une transaction aboutie, c'est les 5 ans.
+
+745
+00:53:32,460 --> 00:53:36,319
+Pour une prospection, 3 ans, là encore, après le dernier contact actif.
+
+746
+00:53:36,900 --> 00:53:42,219
+Les messageries, c'est-à-dire les boîtes mail, doivent être régulièrement nettoyées ou archivées de manière conforme.
+
+747
+00:53:42,539 --> 00:53:43,900
+C'est exactement la même chose.
+
+748
+00:53:44,019 --> 00:53:51,599
+Ça veut dire que dans votre boîte mail, vous devriez supprimer tous les messages de plus de 5 ans pour les ventes
+
+749
+00:53:51,599 --> 00:53:58,139
+et de plus de trois ans pour les prospections après un dernier contact actif.
+
+750
+00:53:59,259 --> 00:54:06,440
+Donc, de manière pratique, nous devons identifier la durée de conservation pour chaque type de données,
+
+751
+00:54:06,799 --> 00:54:12,779
+mandat, prospect, mail, pièce justificative, prévoir un mécanisme d'alerte ou de purge automatique dans les outils.
+
+752
+00:54:13,500 --> 00:54:16,839
+Ça, c'est ce qu'on fait typiquement dans un logiciel métier de type Eglantine.
+
+753
+00:54:16,840 --> 00:54:42,079
+Et surtout, à la fin de la durée 3 ans, 5 ans, on doit penser soi-même à archiver de manière ultra sécurisée ou supprimer. Là encore, c'est ce que je vous disais, vous ne conservez rien. Mettez tout dans Eglantine et Eglantine va gérer ça pour vous. Absolument pour vous.
+
+754
+00:54:42,079 --> 00:55:04,380
+Alors, maintenant, on va se pencher sur les obligations concrètes en tant que mandataire immobilier, parce que même en tant que travailleur indépendant, je vous le disais, en tant qu'agent commercial, en tant qu'artisan, on est personnellement responsable des traitements des données qu'on effectue.
+
+755
+00:55:04,380 --> 00:55:07,539
+donc gardez bien ça en tête
+
+756
+00:55:07,539 --> 00:55:09,160
+je vous le répète depuis tout à l'heure
+
+757
+00:55:09,160 --> 00:55:10,000
+c'est très important
+
+758
+00:55:10,000 --> 00:55:12,180
+vous ne pouvez pas dire
+
+759
+00:55:12,180 --> 00:55:14,720
+moi je suis un entrepreneur indépendant
+
+760
+00:55:14,720 --> 00:55:15,960
+je ne suis pas concerné
+
+761
+00:55:15,960 --> 00:55:18,700
+vous êtes concerné exactement comme si vous étiez Coca-Cola
+
+762
+00:55:18,700 --> 00:55:19,460
+ou Air France
+
+763
+00:55:19,460 --> 00:55:22,220
+pareil, c'est la raison pour laquelle je vous dis
+
+764
+00:55:22,220 --> 00:55:24,300
+mettez-vous à l'abri de ça, laissez tout dans Eglantine
+
+765
+00:55:24,300 --> 00:55:25,619
+et Eglantine va gérer pour vous
+
+766
+00:55:25,619 --> 00:55:27,720
+puisque nous, nous sommes en train de faire ce travail
+
+767
+00:55:27,720 --> 00:55:29,700
+de mise en conformité totale
+
+768
+00:55:29,700 --> 00:55:31,099
+alors
+
+769
+00:55:31,099 --> 00:55:44,179
+Alors, premièrement, ce qu'on appelle, là encore, c'est le RGPD qui utilise ce vocable-là, le socle minimum de conformité est composé de quatre obligations principales.
+
+770
+00:55:44,279 --> 00:55:50,819
+Que vous soyez un indépendant ou que vous soyez une multinationale, ces obligations s'imposent à nous.
+
+771
+00:55:51,139 --> 00:55:58,339
+Alors, premièrement, intégrer une information RGPD dans tous les documents contractuels et commerciaux, ce que nous sommes en train de faire,
+
+772
+00:55:58,340 --> 00:56:10,579
+C'est la raison pour laquelle, enfin une des raisons pour lesquelles on est en train de refaire les bons de visite, les offres, les machins, etc. Cette obligation n'est absolument pas négociable, on n'a pas le choix, c'est pas une question de on en a envie, on n'en a pas envie.
+
+773
+00:56:10,579 --> 00:56:14,579
+tout formulaire de collecte de données personnelles, papiers ou numériques.
+
+774
+00:56:15,279 --> 00:56:17,319
+Ce n'est pas que pour le numérique, je vous l'ai dit tout à l'heure.
+
+775
+00:56:18,340 --> 00:56:22,920
+Si vous avez des dossiers, des fichiers papiers comme grand-papa, c'est pareil.
+
+776
+00:56:23,779 --> 00:56:27,719
+On doit mettre dessus une notice d'information conforme RGPD.
+
+777
+00:56:28,699 --> 00:56:33,239
+Mandat de vente, bon de visite, fiches acquéreurs, e-mail de prospection personnalisée, site internet.
+
+778
+00:56:34,179 --> 00:56:39,039
+Tous ces supports doivent indiquer clairement l'identité du responsable du traitement,
+
+779
+00:56:39,039 --> 00:56:46,320
+la finalité de la collecte, la base légale du traitement, la durée de conservation, les droits des personnes concernées
+
+780
+00:56:46,320 --> 00:56:52,279
+et le point de contact RGPD, la personne à contacter au sein de la structure.
+
+781
+00:56:53,239 --> 00:56:58,960
+Par exemple, si on fait signer un mandat de vente, ce mandat doit contenir un encart « Données personnelles »
+
+782
+00:56:58,960 --> 00:57:02,039
+indiquant que les données sont utilisées uniquement pour les besoins du mandat,
+
+783
+00:57:02,699 --> 00:57:06,880
+conservées tant de temps ou archivées au bout de cette durée
+
+784
+00:57:06,880 --> 00:57:11,180
+et librement accessible pour rectification ou suppression.
+
+785
+00:57:13,400 --> 00:57:16,680
+Deuxièmement, tenir un registre des traitements à jour.
+
+786
+00:57:16,780 --> 00:57:17,380
+Ça, c'est très lourd.
+
+787
+00:57:18,260 --> 00:57:19,680
+C'est très, très, très lourd.
+
+788
+00:57:20,559 --> 00:57:22,019
+Une des raisons pour lesquelles je vous dis
+
+789
+00:57:22,019 --> 00:57:23,880
+ne le faites pas vous-même, vous n'en sortirez jamais.
+
+790
+00:57:24,160 --> 00:57:25,559
+C'est vraiment très, très, très lourd.
+
+791
+00:57:26,200 --> 00:57:27,760
+En tant que professionnel indépendant,
+
+792
+00:57:28,000 --> 00:57:29,240
+comme en tant que multinational,
+
+793
+00:57:29,240 --> 00:57:32,400
+on est tenu de tenir un registre des traitements,
+
+794
+00:57:32,740 --> 00:57:34,160
+c'est l'article 30 du RGPD,
+
+795
+00:57:34,159 --> 00:57:37,859
+qui permet de documenter quel type de données nous traitons.
+
+796
+00:57:38,299 --> 00:57:42,440
+Identité, coordonnées, financement, salaire, projet immobilier, je ne sais pas quoi.
+
+797
+00:57:43,379 --> 00:57:47,859
+Quelle est la finalité ? Pourquoi nous les collectons et nous les traitons ? Dans quel but ?
+
+798
+00:57:48,539 --> 00:57:51,639
+Sur quelle base juridique ? On les a listés au-dessus.
+
+799
+00:57:52,579 --> 00:57:56,759
+Combien de temps ? Et quelles sont les mesures de sécurité mises en place ?
+
+800
+00:57:56,759 --> 00:58:00,199
+Et ça, ça doit être tenu à jour en temps réel.
+
+801
+00:58:00,199 --> 00:58:09,879
+Ce registre n'est pas destiné au public, il est destiné à la CNIL, à la DGCCRF et aux éventuels tribunaux en cas de litige
+
+802
+00:58:09,879 --> 00:58:14,119
+C'est une des preuves documentaires de notre conformité
+
+803
+00:58:14,119 --> 00:58:19,960
+Troisièmement, sécuriser les accès et les documents
+
+804
+00:58:19,960 --> 00:58:25,159
+Alors, garantir la sécurisation effective, réelle, concrète des données
+
+805
+00:58:25,920 --> 00:58:31,219
+Ça, on sait que l'acnil est super rigide, casse-pieds à ce sujet.
+
+806
+00:58:31,359 --> 00:58:35,500
+La sécurisation technique et organisationnelle, ils appellent ça des données personnelles.
+
+807
+00:58:35,940 --> 00:58:41,799
+On doit protéger les terminaux, donc les ordinateurs, les téléphones, les tablettes,
+
+808
+00:58:42,099 --> 00:58:44,559
+par des mots de passe costauds, des mots de passe forts.
+
+809
+00:58:44,559 --> 00:58:52,420
+Pas le mot de passe titi, tata, toto, mot de passe, bisous, soleil, la date de naissance de votre petit dernier.
+
+810
+00:58:52,420 --> 00:59:14,019
+Non, il faut avoir un mot de passe costaud. Il faut avoir un déverrouillage de vos téléphones par empreinte digitale. Tout doit être protégé. Chiffrez les documents sensibles. Les justificatifs de propriété, les pièces d'identité, etc. doivent être placés sur des serveurs chiffrés, ce qui est le cas à la lucarne de l'immobilier.
+
+811
+00:59:14,739 --> 00:59:17,519
+Évitez tout stockage dans des outils non sécurisés
+
+812
+00:59:17,519 --> 00:59:25,059
+comme votre cloud personnel, iCloud ou votre OneDrive
+
+813
+00:59:25,059 --> 00:59:28,179
+ou je ne sais pas quoi, qui ne seraient pas suffisamment sécurisés.
+
+814
+00:59:28,599 --> 00:59:30,800
+Par exemple, nous, vous savez que nous utilisons
+
+815
+00:59:30,800 --> 00:59:33,500
+deux modes de stockage différents.
+
+816
+00:59:34,039 --> 00:59:35,920
+Premièrement, notre base de données sécurisée.
+
+817
+00:59:36,039 --> 00:59:37,679
+Deuxièmement, nous utilisons Dropbox.
+
+818
+00:59:37,679 --> 00:59:41,259
+Parce que Dropbox, pour tous les documents,
+
+819
+00:59:41,260 --> 00:59:49,020
+Dropbox est un espace parfaitement conforme au RGPD et ultra sécurisé
+
+820
+00:59:49,020 --> 01:00:00,020
+Et nous devons pouvoir prouver que nous restreignons l'accès aux documents uniquement aux personnes qui en ont strictement besoin
+
+821
+01:00:00,020 --> 01:00:04,520
+Les personnes extérieures à notre activité ne peuvent pas consulter les dossiers de nos clients
+
+822
+01:00:04,519 --> 01:00:07,420
+notre famille, nos assistants
+
+823
+01:00:07,420 --> 01:00:09,320
+imaginons moi
+
+824
+01:00:09,320 --> 01:00:12,039
+si j'avais des enfants
+
+825
+01:00:12,039 --> 01:00:13,500
+mes 5 enfants je dois pouvoir prouver
+
+826
+01:00:13,500 --> 01:00:15,199
+qu'ils ne peuvent pas accéder à mon ordinateur
+
+827
+01:00:15,199 --> 01:00:16,619
+et qu'ils ne peuvent pas accéder
+
+828
+01:00:16,619 --> 01:00:19,599
+à mes dossiers
+
+829
+01:00:19,599 --> 01:00:21,599
+et aux dossiers de la lucarne
+
+830
+01:00:21,599 --> 01:00:22,239
+bien sûr
+
+831
+01:00:22,239 --> 01:00:25,380
+donc il faut pouvoir prouver que
+
+832
+01:00:25,380 --> 01:00:28,159
+ces documents on en restreint l'accès
+
+833
+01:00:28,159 --> 01:00:29,860
+je vais vous donner un exemple tout bête
+
+834
+01:00:29,860 --> 01:00:30,739
+que vous connaissez tous
+
+835
+01:00:30,739 --> 01:00:33,280
+dans votre contrat à chacun d'entre vous
+
+836
+01:00:33,280 --> 01:00:48,080
+Donc, il est écrit spécifiquement que le mot de passe à Eglantine et le mot de passe à la boîte mail, enfin les identifiants et mots de passe Eglantine et la boîte mail professionnelle vous sont strictement personnels, strictement personnels.
+
+837
+01:00:48,079 --> 01:00:51,059
+Vous n'avez pas le droit par contrat
+
+838
+01:00:51,059 --> 01:00:52,440
+Avec la lucarde
+
+839
+01:00:52,440 --> 01:00:54,679
+Mais vous voyez que vous n'en avez pas le droit
+
+840
+01:00:54,679 --> 01:00:55,739
+Par la loi non plus
+
+841
+01:00:55,739 --> 01:00:59,199
+De donner vos identifiants
+
+842
+01:00:59,199 --> 01:01:01,400
+Vos codes d'accès à quelqu'un d'autre
+
+843
+01:01:01,400 --> 01:01:02,639
+A un autre agent
+
+844
+01:01:02,639 --> 01:01:06,019
+A quelqu'un qui est à la maison
+
+845
+01:01:06,019 --> 01:01:07,199
+Parce qu'il vous faut une information
+
+846
+01:01:07,199 --> 01:01:09,000
+Vous n'avez pas le numéro de téléphone de je ne sais pas qui
+
+847
+01:01:09,000 --> 01:01:09,940
+Vous dites à votre femme
+
+848
+01:01:09,940 --> 01:01:11,880
+Tiens, est-ce que tu peux te connecter sur mon ordinateur
+
+849
+01:01:11,880 --> 01:01:12,880
+Mon mot de passe c'est
+
+850
+01:01:12,880 --> 01:01:16,340
+Titi Toto, va, clique à tel endroit, tel endroit
+
+851
+01:01:16,340 --> 01:01:17,619
+Donne-moi le numéro de téléphone de quelqu'un
+
+852
+01:01:17,619 --> 01:01:32,639
+Ça, c'est strictement interdit, à la fois par votre contrat, nous on l'a mis dans votre contrat parce qu'il faut qu'on puisse prouver qu'on a protégé ça, et cela vous est également interdit de par la loi.
+
+853
+01:01:33,519 --> 01:01:41,000
+Alors vous me direz, oh mais c'est pas grave si je donne mes identifiants Eglantine à un autre membre de la lucarne pour qu'il me rende service.
+
+854
+01:01:41,420 --> 01:01:49,779
+C'est aussi un membre de la lucarne, oui, mais c'est un membre de la lucarne qui a accès lui à ses clients et aux données personnelles de ses clients.
+
+855
+01:01:50,139 --> 01:01:53,759
+Il n'a pas à avoir accès aux données personnelles de vos clients.
+
+856
+01:01:54,279 --> 01:02:00,500
+S'il n'est pas lui-même impliqué dans cette vente, il n'a pas à connaître les détails du client.
+
+857
+01:02:00,500 --> 01:02:13,360
+Alors vous direz, si vous faites la vente tous les deux en partage, là on peut dire, ah bah oui, il est concerné, il est nécessaire qu'il ait accès à ces informations-là. Oui, mais à celles-là, pas aux autres. Pas aux informations des autres clients.
+
+858
+01:02:13,360 --> 01:02:17,440
+Donc, exemple tout bête pour vous
+
+859
+01:02:17,440 --> 01:02:19,200
+Vous n'avez absolument pas le droit
+
+860
+01:02:19,200 --> 01:02:21,860
+De demander à votre femme, à votre fils
+
+861
+01:02:21,860 --> 01:02:24,019
+Ou même à un collègue de la lucarne
+
+862
+01:02:24,019 --> 01:02:31,500
+De se connecter à Eglantine ou à votre boîte mail
+
+863
+01:02:31,500 --> 01:02:33,700
+Dernière chose
+
+864
+01:02:33,700 --> 01:02:37,599
+On doit mettre en place des systèmes de sauvegarde régulière
+
+865
+01:02:37,599 --> 01:02:39,140
+Sur des supports sécurisés
+
+866
+01:02:39,140 --> 01:02:42,680
+Eglantine est sauvegardée par exemple chaque nuit
+
+867
+01:02:43,659 --> 01:02:46,819
+Chaque nuit, il y a une sauvegarde totale des glantines.
+
+868
+01:02:47,659 --> 01:02:54,299
+Pareil pour vos boîtes mail, mais ça c'est fait par la société Zoho, qui elle-même est en conformité avec le RGPD.
+
+869
+01:02:55,759 --> 01:03:00,079
+Attention, important, en cas de perte, de vol, de piratage de données,
+
+870
+01:03:00,179 --> 01:03:04,899
+alors vous perdez vos téléphones portables, on vous vole votre ordinateur, vous vous faites pirater je ne sais pas quoi,
+
+871
+01:03:05,619 --> 01:03:09,699
+vous êtes tenu de notifier l'incident à la CNIL dans les 72 heures.
+
+872
+01:03:09,699 --> 01:03:27,399
+Et si le risque est élevé, de le dire à toutes les personnes concernées. Alors là encore, vous vous rendez compte, si vous perdez votre téléphone alors que dedans vous avez des bases de données de vos clients, vous devez en informer la CNIL, etc. C'est très très très lourd.
+
+873
+01:03:27,400 --> 01:03:33,260
+Alors, dernière chose, dernière ligne qui est ici
+
+874
+01:03:33,260 --> 01:03:35,840
+Respecter les droits d'accès, rectification, suppression
+
+875
+01:03:35,840 --> 01:03:37,260
+Je vous le disais tout à l'heure, ça vous connaissez
+
+876
+01:03:37,260 --> 01:03:38,920
+Parce qu'on voit ça depuis très très longtemps
+
+877
+01:03:38,920 --> 01:03:40,880
+Depuis 1978 précisément
+
+878
+01:03:40,880 --> 01:03:43,700
+Et la loi informatique des libertés de 1978
+
+879
+01:03:43,700 --> 01:03:51,840
+Le RGPD consacre plusieurs parties aux clients, prospects, contacts
+
+880
+01:03:51,840 --> 01:03:56,720
+Afin de garantir que premièrement, ils aient un droit d'accès à leurs données
+
+881
+01:03:56,719 --> 01:04:17,859
+C'est-à-dire, n'importe quelle personne dont on a collecté, traité les données, a le droit, sans avoir, c'est important ça, ils n'ont pas à invoquer une raison légitime ou pas. Non. Ils nous le demandent et c'est tout. On n'a pas à leur dire, bah oui, mais pourquoi est-ce que la demande est bien légitime ? Non. Ce sont mes informations, je fais ma demande, vous devez vous exécuter.
+
+882
+01:04:18,440 --> 01:04:19,440
+Premièrement, droit d'accès.
+
+883
+01:04:19,680 --> 01:04:27,720
+Droit d'accès, ça veut dire, je veux savoir quelles sont les informations que vous avez gardées, conservées sur moi.
+
+884
+01:04:28,960 --> 01:04:33,240
+Est-ce que vous avez mon nom ? Est-ce que vous avez mon prénom ? Est-ce que vous avez ma date de naissance ? Est-ce que vous avez tout ça ?
+
+885
+01:04:33,240 --> 01:04:38,220
+Deuxièmement, si je constate une erreur dans les informations que vous conservez sur moi,
+
+886
+01:04:39,519 --> 01:04:42,500
+je dois pouvoir vous demander de les corriger.
+
+887
+01:04:42,500 --> 01:04:50,599
+Je ne m'appelle pas Berthier avec un H, T-H-I, mais Berthier sans H, T-I-E-R.
+
+888
+01:04:51,280 --> 01:04:52,360
+Et vous devez la corriger.
+
+889
+01:04:54,159 --> 01:04:56,420
+Troisièmement, droit d'opposition.
+
+890
+01:04:57,380 --> 01:04:59,800
+Ça, ça a été rajouté, ça ne date pas de la CNIL.
+
+891
+01:05:00,559 --> 01:05:06,599
+C'est le seul qui a été rajouté aux trois initiaux de la CNIL.
+
+892
+01:05:07,239 --> 01:05:11,159
+Le droit d'opposition, c'est je m'oppose à l'utilisation des données à des fins de prospection.
+
+893
+01:05:12,139 --> 01:05:13,960
+Oui, mais vous aviez dit oui au début.
+
+894
+01:05:14,219 --> 01:05:15,139
+Oui, mais maintenant, je dis non.
+
+895
+01:05:16,899 --> 01:05:17,940
+Et c'est maintenant qui compte.
+
+896
+01:05:18,719 --> 01:05:20,019
+Donc, même si j'avais dit oui avant,
+
+897
+01:05:20,839 --> 01:05:22,599
+j'ai le droit de vous dire stop,
+
+898
+01:05:22,739 --> 01:05:25,579
+vous arrêtez d'exploiter mes données à des fins de prospection.
+
+899
+01:05:26,639 --> 01:05:29,259
+Dernière chose, droit à l'effacement.
+
+900
+01:05:30,859 --> 01:05:33,779
+Droit à l'effacement, on parle parfois de droit à l'oubli.
+
+901
+01:05:34,019 --> 01:05:35,299
+Ce n'est pas exactement la même chose,
+
+902
+01:05:35,359 --> 01:05:37,699
+le droit à l'oubli et le droit à l'effacement du RGPD.
+
+903
+01:05:37,699 --> 01:06:07,679
+« J'ai le droit de demander la suppression de mes données lorsque leur conservation n'est plus justifiée. Par exemple, j'ai confié un mandat de vente il y a 6 ans, donc il y a plus de 5 ans. L'agence immobilière me dit « Oui, oui, on a toujours ces informations-là, mais rassurez-vous, au-delà de 5 ans, elles sont ultra sécurisées, etc. Je demande leur destruction, leur suppression immédiate et à ce que vous n'en conserviez aucune copie. »
+
+904
+01:06:07,699 --> 01:06:13,339
+et on a un mois maximum pour répondre, avec la preuve de ce qu'on a fait.
+
+905
+01:06:14,319 --> 01:06:18,079
+Ça nous arrive de temps en temps, ça nous vient généralement d'un site portail,
+
+906
+01:06:18,179 --> 01:06:23,960
+c'est-à-dire qu'on reçoit de la part de ceux logés, parus vendus, le bon coin, je ne sais pas quoi,
+
+907
+01:06:24,779 --> 01:06:32,460
+une demande nous disant, telle personne nous a signifié son souhait
+
+908
+01:06:32,460 --> 01:06:35,559
+de procéder à l'effacement de toutes leurs données.
+
+909
+01:06:35,559 --> 01:06:38,779
+donc comme on vous les a peut-être transmises
+
+910
+01:06:38,779 --> 01:06:41,820
+et que vous en avez peut-être fait quelque chose
+
+911
+01:06:41,820 --> 01:06:44,880
+nous vous transmettons nous-mêmes cette demande de suppression
+
+912
+01:06:44,880 --> 01:06:46,799
+ça arrive de temps, il n'y en a pas beaucoup
+
+913
+01:06:46,799 --> 01:06:50,019
+il y en a une par-ci, une par-là, peut-être une fois tous les deux mois
+
+914
+01:06:50,019 --> 01:06:50,759
+quelque chose comme ça
+
+915
+01:06:50,759 --> 01:06:53,860
+et à ce moment-là nous devons répondre dans le mois
+
+916
+01:06:53,860 --> 01:06:55,940
+nous on le fait tout de suite, généralement on n'attend pas un mois
+
+917
+01:06:55,940 --> 01:07:04,539
+et on répond que tout a été supprimé de nos registres
+
+918
+01:07:04,539 --> 01:07:11,300
+Alors, je vous le répète, on ne doit pas lui demander de bonnes raisons
+
+919
+01:07:11,300 --> 01:07:15,920
+Si un ancien contact nous demande de supprimer des informations car il ne veut plus recevoir d'offres ou je ne sais pas quoi
+
+920
+01:07:15,920 --> 01:07:19,840
+On doit le faire, on doit le faire dans le mois
+
+921
+01:07:19,840 --> 01:07:25,079
+Et on doit le lui confirmer en disant voilà on a fait ça, on a fait ça, on a fait ça
+
+922
+01:07:25,079 --> 01:07:28,699
+On n'a rien conservé, ou on a corrigé, ou on a fait ceci, on a fait cela
+
+923
+01:07:28,699 --> 01:07:32,099
+Ces quatre obligations sont vraiment le strict minimum
+
+924
+01:07:32,099 --> 01:07:36,239
+ne pas les respecter nous expose à des sanctions très très très très lourdes de la CNIL,
+
+925
+01:07:36,900 --> 01:07:39,000
+y compris, je vous le disais, si on est un simple indépendant.
+
+926
+01:07:39,739 --> 01:07:42,920
+Alors maintenant, on va voir un point absolument crucial,
+
+927
+01:07:43,339 --> 01:07:47,219
+crucial parce que ceux d'entre vous qui étaient déjà à la Lucarne pendant le Covid
+
+928
+01:07:47,219 --> 01:07:52,839
+se souviennent qu'on a fait l'objet d'un nombre d'attaques informatiques absolument fous.
+
+929
+01:07:53,000 --> 01:07:57,039
+Alors, pas seulement nous, pendant le Covid, il y a eu des attaques informatiques
+
+930
+01:07:57,039 --> 01:07:59,299
+absolument partout dans le monde entier.
+
+931
+01:07:59,300 --> 01:08:26,079
+Tout le monde s'est fait attaquer. Google s'est fait attaquer. SeLoger s'est fait attaquer. Leboncoin s'est fait attaquer. TF1 s'est fait attaquer. Je ne sais pas. Tout le monde, il y a eu des attaques informatiques partout. Et nous avons dû, vous vous en souvenez à cette époque-là, grandement, grandement, grandement muscler notre sécurité informatique. On l'a toujours pris au sérieux, ça. Ce n'était pas un gruyère et une passoire avant. Mais il a fallu vraiment qu'on prenne des précautions bien, bien, bien supérieures.
+
+932
+01:08:26,079 --> 01:08:32,140
+Alors, sécurisation, gestion des accès, c'est absolument fondamental
+
+933
+01:08:32,140 --> 01:08:35,920
+parce que c'est la première cause de non-conformité constatée par la CNIL
+
+934
+01:08:35,920 --> 01:08:37,760
+lorsqu'elle procède à des contrôles
+
+935
+01:08:37,760 --> 01:08:42,720
+Pas seulement dans les métiers de l'immobilier, mais dont dans les métiers de l'immobilier
+
+936
+01:08:42,720 --> 01:08:47,119
+parce que l'immobilier, vous le savez, c'est quand même encore beaucoup une profession
+
+937
+01:08:47,119 --> 01:08:49,519
+qui est pratiquée un peu à l'ancienne
+
+938
+01:08:49,519 --> 01:08:53,880
+Les sociétés d'immobilier, ce sont des petites agences
+
+939
+01:08:53,880 --> 01:08:55,779
+par-ci, par-là, à droite, à gauche
+
+940
+01:08:55,779 --> 01:08:57,779
+qui n'ont pas un accès à l'information
+
+941
+01:08:57,779 --> 01:08:59,980
+juridique, administrative, technique très importante
+
+942
+01:08:59,980 --> 01:09:01,079
+donc voilà
+
+943
+01:09:01,079 --> 01:09:04,600
+on met nos informations sur un ordinateur
+
+944
+01:09:04,600 --> 01:09:06,100
+et on se dit bon c'est pas nous qui allons nous faire
+
+945
+01:09:06,100 --> 01:09:07,539
+attaquer par des pirates quand même
+
+946
+01:09:07,539 --> 01:09:08,480
+erreur
+
+947
+01:09:08,480 --> 01:09:12,239
+donc l'absence de sécurisation des fichiers clients
+
+948
+01:09:12,239 --> 01:09:13,300
+ou des dossiers numériques
+
+949
+01:09:13,300 --> 01:09:15,880
+c'est la première cause de non-conformité constatée
+
+950
+01:09:15,880 --> 01:09:16,960
+par la CNIL
+
+951
+01:09:16,960 --> 01:09:18,300
+alors qu'est-ce qu'on doit faire
+
+952
+01:09:18,300 --> 01:09:22,220
+premièrement l'accès réservé aux personnes autorisées
+
+953
+01:09:22,220 --> 01:09:28,020
+Première ligne ici, nous devons restreindre l'accès aux seules personnes habilitées et concernées.
+
+954
+01:09:28,500 --> 01:09:32,000
+Donc on doit mettre en place un contrôle strict des accès de données qu'on traite.
+
+955
+01:09:32,900 --> 01:09:37,960
+Si on travaille seul, et bien on est seul, je suis un indépendant, imaginons une entreprise indépendante,
+
+956
+01:09:38,119 --> 01:09:41,140
+je suis seul habilité à consulter mes dossiers clients.
+
+957
+01:09:41,740 --> 01:09:48,579
+Au sein d'un réseau comme le nôtre, on doit vérifier que seuls les collaborateurs autorisés et concernés accèdent aux dossiers.
+
+958
+01:09:49,500 --> 01:09:54,340
+Par exemple, au siège, une secrétaire qui s'occupe de la comptabilité,
+
+959
+01:09:55,019 --> 01:10:02,840
+elle n'a pas besoin d'avoir accès aux informations concernant les vendeurs, concernant les acquéreurs.
+
+960
+01:10:03,260 --> 01:10:04,220
+Ça ne la concerne pas.
+
+961
+01:10:04,840 --> 01:10:09,640
+Donc, on doit pouvoir prouver que cette secrétaire comptable du troisième étage à gauche,
+
+962
+01:10:09,899 --> 01:10:13,880
+là, ce qui n'est pas le cas chez nous, mais on n'a pas de troisième étage à gauche et une secrétaire comptable dedans,
+
+963
+01:10:13,880 --> 01:10:22,039
+bien sûr, mais imaginons, elle n'a pas accès aux informations auxquelles elle ne doit pas avoir accès, tout simplement.
+
+964
+01:10:23,619 --> 01:10:33,720
+On doit pouvoir dire également, tel négociateur est en charge de tel mandat, c'est son mandat lui, il n'y a que lui qui a accès aux informations du mandat.
+
+965
+01:10:34,060 --> 01:10:38,880
+Un autre négociateur qui se trouve ailleurs en France, il n'a pas accès aux informations du mandat, absolument pas.
+
+966
+01:10:38,880 --> 01:10:43,779
+On ne doit jamais transmettre les informations à des tiers non autorisés
+
+967
+01:10:43,779 --> 01:10:46,539
+Bien sûr, un autre mandataire du réseau, n'importe qui
+
+968
+01:10:46,539 --> 01:10:52,159
+Et on ne doit jamais lui laisser l'accès
+
+969
+01:10:52,159 --> 01:10:55,619
+Même involontaire, en ne sécurisant pas
+
+970
+01:10:55,619 --> 01:10:59,500
+Ou en laissant traîner nos codes, nos mots de passe, nos identifiants
+
+971
+01:10:59,500 --> 01:11:03,539
+Exemple tout bête
+
+972
+01:11:03,539 --> 01:11:05,840
+Un compromis de vente ou une pièce d'identité
+
+973
+01:11:05,840 --> 01:11:07,680
+Elle ne doit pas passer entre les mains de deux mandataires
+
+974
+01:11:07,680 --> 01:11:08,720
+S'ils ne sont pas concernés
+
+975
+01:11:08,720 --> 01:11:10,159
+c'est évident
+
+976
+01:11:10,159 --> 01:11:12,900
+on ne peut pas dire tiens je t'envoie mon compromis de vente
+
+977
+01:11:12,900 --> 01:11:13,940
+que j'ai signé ce matin
+
+978
+01:11:13,940 --> 01:11:15,199
+il y a une clause bizarre
+
+979
+01:11:15,199 --> 01:11:17,480
+tu vas me dire ce que tu en penses
+
+980
+01:11:17,480 --> 01:11:18,140
+moi je suis nouveau
+
+981
+01:11:18,140 --> 01:11:20,619
+je démarre à peine dans le métier
+
+982
+01:11:20,619 --> 01:11:21,800
+est-ce que c'est normal cette clause
+
+983
+01:11:21,800 --> 01:11:22,680
+je t'envoie le compromis
+
+984
+01:11:22,680 --> 01:11:24,720
+non vous n'avez pas le droit de donner le compromis
+
+985
+01:11:24,720 --> 01:11:26,860
+à un autre mandataire
+
+986
+01:11:26,860 --> 01:11:29,240
+parce que lui il n'a pas à avoir cette information
+
+987
+01:11:29,240 --> 01:11:31,539
+deuxième chose
+
+988
+01:11:31,539 --> 01:11:34,380
+excusez-moi j'ai fait tomber quelque chose
+
+989
+01:11:34,380 --> 01:11:37,020
+des mots de passe complexes et renouvelés
+
+990
+01:11:37,020 --> 01:11:41,440
+les mots de passe doivent être robustes
+
+991
+01:11:41,440 --> 01:11:44,900
+les mots de passe doivent être robustes
+
+992
+01:11:44,900 --> 01:11:46,200
+ils doivent être complexes
+
+993
+01:11:46,200 --> 01:11:48,600
+c'est la raison pour laquelle il y a quelques années
+
+994
+01:11:48,600 --> 01:11:53,140
+on savait qu'on était l'objet de nombreuses attaques
+
+995
+01:11:53,140 --> 01:11:56,300
+que tout le monde n'a pas forcément un mot de passe bien costaud
+
+996
+01:11:56,300 --> 01:11:59,500
+donc on a, vous vous en souvenez, changé tous les mots de passe
+
+997
+01:11:59,500 --> 01:12:00,860
+de tout le monde
+
+998
+01:12:00,860 --> 01:12:03,260
+par des trucs hyper sécurisés
+
+999
+01:12:03,260 --> 01:12:07,400
+et nous vous recommandons bien sûr
+
+1000
+01:12:07,400 --> 01:12:09,420
+de les changer régulièrement.
+
+1001
+01:12:09,600 --> 01:12:11,699
+Vous avez accès au changement de votre mot de passe
+
+1002
+01:12:11,699 --> 01:12:13,539
+que ce soit sur
+
+1003
+01:12:13,539 --> 01:12:15,579
+Eglantine, que ce soit sur la boîte mail
+
+1004
+01:12:15,579 --> 01:12:17,340
+Zoho, vous pouvez le changer
+
+1005
+01:12:17,340 --> 01:12:19,420
+et dans les deux cas, lorsque vous le changez
+
+1006
+01:12:19,420 --> 01:12:21,380
+le système vous impose de mettre un mot de passe
+
+1007
+01:12:21,380 --> 01:12:23,600
+sécurisé. Alors qu'est-ce que c'est un mot de passe
+
+1008
+01:12:23,600 --> 01:12:25,940
+sécurisé ? C'est un mot de passe complexe
+
+1009
+01:12:25,940 --> 01:12:27,539
+avec des lettres
+
+1010
+01:12:28,100 --> 01:12:29,619
+des chiffres et des caractères
+
+1011
+01:12:29,619 --> 01:12:30,119
+spéciaux.
+
+1012
+01:12:30,119 --> 01:12:34,720
+Deuxièmement, vos mots de passe doivent être différents selon les outils
+
+1013
+01:12:34,720 --> 01:12:38,359
+Ne gardez pas le même mot de passe sur Eglantine et sur votre boîte mail
+
+1014
+01:12:38,359 --> 01:12:42,699
+Ne gardez pas le même mot de passe sur votre boîte mail professionnelle et votre boîte mail personnelle
+
+1015
+01:12:42,699 --> 01:12:45,579
+Ne gardez pas le même mot de passe sur votre interface bancaire
+
+1016
+01:12:45,579 --> 01:12:47,819
+Selon les outils, ayez un mot de passe différent
+
+1017
+01:12:47,819 --> 01:12:51,960
+Ne réutilisez pas votre même mot de passe pour plusieurs services
+
+1018
+01:12:51,960 --> 01:12:57,539
+Deuxièmement, renouvelez votre mot de passe tous les 3 à 6 mois
+
+1019
+01:12:57,539 --> 01:13:00,300
+c'est une très bonne pratique
+
+1020
+01:13:00,300 --> 01:13:02,359
+tous les 3 à 6 mois vous le
+
+1021
+01:13:02,359 --> 01:13:04,460
+changez, c'est pénible
+
+1022
+01:13:04,460 --> 01:13:06,939
+c'est vrai, mais c'est une très très bonne pratique
+
+1023
+01:13:06,939 --> 01:13:08,560
+dernière chose
+
+1024
+01:13:08,560 --> 01:13:10,880
+ne jamais partager vos mots de passe
+
+1025
+01:13:10,880 --> 01:13:12,140
+même temporairement
+
+1026
+01:13:12,140 --> 01:13:14,220
+même si là vous avez une bonne raison
+
+1027
+01:13:14,220 --> 01:13:16,640
+même si là vous trouvez que c'est une bonne idée
+
+1028
+01:13:16,640 --> 01:13:17,739
+ça vous donnerait un coup de main
+
+1029
+01:13:17,739 --> 01:13:20,659
+ne partagez jamais vos mots de passe
+
+1030
+01:13:20,659 --> 01:13:22,180
+même si vous dites
+
+1031
+01:13:22,180 --> 01:13:23,439
+je vais le changer juste après
+
+1032
+01:13:23,439 --> 01:13:26,579
+bien entendu il est recommandé
+
+1033
+01:13:26,579 --> 01:13:28,559
+d'utiliser une solution de gestion de mots de passe,
+
+1034
+01:13:28,659 --> 01:13:30,279
+vous savez ce qu'on appelle les coffres-forts numériques,
+
+1035
+01:13:30,579 --> 01:13:32,619
+parce que c'est ce qui vous permet d'utiliser
+
+1036
+01:13:32,619 --> 01:13:34,500
+des mots de passe vraiment costauds.
+
+1037
+01:13:34,559 --> 01:13:36,600
+Parce que si vous n'utilisez pas un gestionnaire informatique
+
+1038
+01:13:36,600 --> 01:13:38,739
+de mots de passe, que vous avez dans vos navigateurs,
+
+1039
+01:13:38,800 --> 01:13:39,859
+que vous avez absolument partout,
+
+1040
+01:13:41,199 --> 01:13:42,680
+vous utilisez des mots de passe simples.
+
+1041
+01:13:43,079 --> 01:13:44,640
+Parce qu'on ne peut pas se souvenir de mots de passe
+
+1042
+01:13:44,640 --> 01:13:46,640
+hyper compliqués. Il faut une solution
+
+1043
+01:13:46,640 --> 01:13:48,100
+de gestion de mots de passe compliqués,
+
+1044
+01:13:48,819 --> 01:13:50,479
+de mots de passe professionnels,
+
+1045
+01:13:50,600 --> 01:13:52,420
+pour pouvoir utiliser des mots de passe compliqués.
+
+1046
+01:13:54,239 --> 01:13:54,920
+Ça également,
+
+1047
+01:13:55,059 --> 01:13:56,300
+c'est une non-conformité RGPD.
+
+1048
+01:13:56,300 --> 01:14:07,100
+Si un mandataire, par exemple, laisse ses dossiers clients ouverts sur un ordinateur partagé avec les membres de sa famille, les mots de passe déjà connectés, il y a un manquement de l'obligation de sécurité, exposition au risque de fuite des données.
+
+1049
+01:14:07,860 --> 01:14:14,119
+Et bien entendu, ça, c'est une irrégularité qui coûte cher en termes d'amende et de choses comme ça.
+
+1050
+01:14:16,600 --> 01:14:22,360
+Alors, ensuite, on va voir la suite.
+
+1051
+01:14:26,300 --> 01:14:36,960
+Alors, vous devez sauvegarder vos données, et nous aussi, sur des supports sécurisés chiffrés.
+
+1052
+01:14:37,640 --> 01:14:41,020
+C'est le cas d'Eglantine, c'est le cas de Dropbox.
+
+1053
+01:14:41,600 --> 01:14:48,380
+Vous ne devez surtout pas laisser libre accès sur un disque dur, une clé USB.
+
+1054
+01:14:49,140 --> 01:14:52,420
+Ça, c'est extrêmement, extrêmement dangereux.
+
+1055
+01:14:52,420 --> 01:14:58,760
+Également, vous devez interdire, proscrire le partage d'informations
+
+1056
+01:14:58,760 --> 01:15:00,980
+Via des messageries non sécurisées
+
+1057
+01:15:00,980 --> 01:15:03,779
+Alors vous pourriez dire, WhatsApp c'est sécurisé
+
+1058
+01:15:03,779 --> 01:15:05,579
+C'est à moitié sécurisé
+
+1059
+01:15:05,579 --> 01:15:07,359
+Par exemple, si vous envoyez ça par SMS
+
+1060
+01:15:07,359 --> 01:15:09,840
+C'est pas du tout sécurisé
+
+1061
+01:15:09,840 --> 01:15:11,220
+Absolument pas
+
+1062
+01:15:11,220 --> 01:15:14,619
+Et WhatsApp, c'est, je vous le dis, pas hyper sécurisé
+
+1063
+01:15:14,619 --> 01:15:18,220
+Mais c'est déjà mieux sécurisé que les SMS qui eux ne le sont pas du tout
+
+1064
+01:15:18,220 --> 01:15:20,340
+Évitez les adresses personnelles
+
+1065
+01:15:20,340 --> 01:15:21,940
+Les Gmail, les Hotmail, etc.
+
+1066
+01:15:22,420 --> 01:15:28,260
+Qui ne vous offre aucune garantie de protection à des fins professionnelles ?
+
+1067
+01:15:28,260 --> 01:15:34,840
+Absolument pas, à la différence de Zoho, qui est une boîte mail professionnelle.
+
+1068
+01:15:40,300 --> 01:15:42,840
+Préférez l'utilisation d'une adresse professionnelle dédiée.
+
+1069
+01:15:43,800 --> 01:15:50,520
+Si vous utilisez un logiciel de messagerie, utilisez un logiciel de messagerie sécurisé, comme par exemple Outlook Pro.
+
+1070
+01:15:50,520 --> 01:15:53,320
+nous vous recommandons d'utiliser
+
+1071
+01:15:53,320 --> 01:15:54,780
+par exemple pour la messagerie
+
+1072
+01:15:54,780 --> 01:15:57,160
+l'interface en ligne et l'application
+
+1073
+01:15:57,160 --> 01:15:59,020
+officielle Zoho qui sont
+
+1074
+01:15:59,020 --> 01:16:00,900
+ultra sécurisées
+
+1075
+01:16:00,900 --> 01:16:03,520
+même parfois on se dit un peu trop sécurisées
+
+1076
+01:16:03,520 --> 01:16:05,180
+c'est limite trop rigide
+
+1077
+01:16:05,180 --> 01:16:11,680
+envoyer un email non sécurisé avec une pièce d'identité
+
+1078
+01:16:11,680 --> 01:16:13,300
+au notaire quand il n'y a pas de mot de passe
+
+1079
+01:16:13,300 --> 01:16:15,360
+par exemple, ça c'est une violation de données
+
+1080
+01:16:15,360 --> 01:16:16,340
+sanctionnée par la CNIL
+
+1081
+01:16:16,340 --> 01:16:19,320
+typiquement ça c'est le truc
+
+1082
+01:16:19,320 --> 01:16:19,880
+qu'il ne faut pas
+
+1083
+01:16:19,880 --> 01:16:33,579
+Alors, en résumé, si vous êtes responsable de l'intégrité et de la confidentialité des données que vous manipulez, ça concerne aussi bien les papiers qui doivent être eux-mêmes ultra-enfermés et sécurisés que les données numériques.
+
+1084
+01:16:33,579 --> 01:16:50,180
+On va aborder maintenant le respect des droits des personnes elles-mêmes, dont on a parlé juste au-dessus. Accès-suppression, on va voir comment ça s'articule dans votre travail quotidien concret.
+
+1085
+01:16:50,180 --> 01:16:51,760
+Il faut que je change de slide.
+
+1086
+01:16:52,940 --> 01:16:54,360
+Voilà, droit d'accès et suppression.
+
+1087
+01:16:54,880 --> 01:16:58,360
+C'est un des aspects les plus fondamentaux du RGPD, je vous ai dit qu'il date de la CNIL.
+
+1088
+01:16:59,280 --> 01:17:06,920
+Le droit d'accès, de rectification, d'effacement est quelque chose d'absolument central.
+
+1089
+01:17:07,940 --> 01:17:13,340
+Toute personne a le droit de savoir si vous avez des données sur elle ou pas.
+
+1090
+01:17:14,180 --> 01:17:15,079
+Ça veut dire quoi ?
+
+1091
+01:17:15,079 --> 01:17:17,800
+Ça veut dire, pour aller un petit peu plus loin que ce qu'on a vu tout à l'heure,
+
+1092
+01:17:17,800 --> 01:17:19,960
+parce qu'il s'agit là d'approfondir un petit peu plus.
+
+1093
+01:17:21,000 --> 01:17:28,039
+Ça veut dire que, imaginons même que quelqu'un ne soit pas votre client,
+
+1094
+01:17:28,600 --> 01:17:32,200
+que vous n'ayez jamais collecté des données la concernant,
+
+1095
+01:17:32,700 --> 01:17:38,180
+cette personne a quand même le droit de vous demander si vous avez des données la concernant.
+
+1096
+01:17:39,200 --> 01:17:43,600
+Imaginons que quelqu'un, un prospect par exemple, se demande si vous avez déjà,
+
+1097
+01:17:44,360 --> 01:17:48,300
+si elle vous a envoyé un email pour vous interroger sur un bien.
+
+1098
+01:17:48,680 --> 01:17:52,380
+Ce n'est pas le cas, parce qu'il a envoyé des e-mails à plein d'agents immobiliers.
+
+1099
+01:17:52,539 --> 01:17:54,600
+Il ne sait plus qui, il ne sait plus quand, il ne sait plus où.
+
+1100
+01:17:55,360 --> 01:17:58,900
+Il vous envoie un e-mail en vous demandant « Est-ce que vous avez des informations sur moi ? »
+
+1101
+01:17:58,900 --> 01:18:02,500
+Ce n'est pas parce que vous n'avez aucune information sur lui que vous n'avez pas à lui répondre.
+
+1102
+01:18:02,500 --> 01:18:07,420
+« Oh, lui, il m'embête, lui, ce n'est pas un client, je n'ai rien sur lui, pas mon problème, je ne perds pas de temps avec lui. »
+
+1103
+01:18:07,420 --> 01:18:15,500
+Non, vous devez lui répondre « Bonjour, monsieur, je n'ai jamais eu contact avec vous, je n'ai aucune information vous concernant. »
+
+1104
+01:18:15,500 --> 01:18:18,619
+Et bien entendu, si vous avez des informations là concernant, vous devez lui dire
+
+1105
+01:18:18,619 --> 01:18:23,539
+« Oui, j'ai votre nom, votre prénom, votre date de naissance ou que sais-je encore. »
+
+1106
+01:18:23,539 --> 01:18:24,979
+Elle a le droit d'en obtenir la copie.
+
+1107
+01:18:26,140 --> 01:18:28,539
+Elle a le droit de vous demander d'où viennent ces données.
+
+1108
+01:18:29,020 --> 01:18:31,500
+Ça vient d'où ? Pourquoi vous avez mon nom, mon prénom ?
+
+1109
+01:18:31,500 --> 01:18:34,119
+« Eh bien, monsieur, je vous ai eu au téléphone, vous me les avez données
+
+1110
+01:18:34,119 --> 01:18:37,699
+et je vous ai proposé de vous rappeler si jamais j'avais quelque chose. »
+
+1111
+01:18:37,699 --> 01:18:38,140
+Ah, d'accord.
+
+1112
+01:18:39,239 --> 01:18:42,880
+Ensuite, elle a le droit de vous demander ce que vous voulez en faire.
+
+1113
+01:18:43,840 --> 01:18:48,880
+Est-ce que c'est pour de la prospection ? Est-ce que c'est pour transmettre à des tiers ? Est-ce que c'est pour faire un contrat ? Pourquoi ?
+
+1114
+01:18:49,699 --> 01:18:52,600
+Et si elles ont été transmises, à qui ?
+
+1115
+01:18:52,600 --> 01:18:59,039
+Un notaire, un confrère, un prestataire, un partenaire commercial, ou que sais-je encore ?
+
+1116
+01:18:59,039 --> 01:19:02,880
+Un acquéreur qui vous contacterait trois mois après une visite, ou même après un contact,
+
+1117
+01:19:03,400 --> 01:19:11,140
+pour savoir ce que vous avez conservé ou pas, vous devez lui répondre de manière, je vous le disais tout à l'heure, claire, complète, gratuite, intelligible,
+
+1118
+01:19:11,140 --> 01:19:14,039
+et dans un délai d'un mois.
+
+1119
+01:19:15,780 --> 01:19:17,180
+Ensuite, le droit de rectification.
+
+1120
+01:19:18,380 --> 01:19:23,560
+Pareil, toute personne a le droit d'obtenir la correction des éventuelles erreurs.
+
+1121
+01:19:23,560 --> 01:19:28,940
+L'actualisation des données qui ne sont plus d'actualité.
+
+1122
+01:19:29,460 --> 01:19:31,539
+Elles sont obsolètes, j'ai changé d'adresse.
+
+1123
+01:19:31,900 --> 01:19:34,400
+Et éventuellement, ajouter des informations incomplètes.
+
+1124
+01:19:35,840 --> 01:19:40,060
+Imaginons une vendeuse dont l'adresse a changé et vous demande de modifier sa fiche.
+
+1125
+01:19:41,140 --> 01:19:43,900
+une vendeuse d'un bien qui vous a donné un mandat,
+
+1126
+01:19:44,680 --> 01:19:47,380
+vous devez effectuer cette modification tout de suite
+
+1127
+01:19:47,380 --> 01:19:49,539
+et lui dire c'est bon, je l'ai fait,
+
+1128
+01:19:50,160 --> 01:19:53,640
+et vous devez informer les éventuels notaires
+
+1129
+01:19:53,640 --> 01:19:55,619
+ou qui sais-je encore à qui vous les auriez donnés.
+
+1130
+01:19:56,100 --> 01:19:57,980
+Vous devez également les en informer.
+
+1131
+01:19:59,100 --> 01:20:01,320
+Ensuite, le droit à l'effacement qu'on appelle,
+
+1132
+01:20:01,320 --> 01:20:02,800
+je l'ai mis entre parenthèses, le droit à l'oubli,
+
+1133
+01:20:03,140 --> 01:20:05,039
+même si le droit à l'oubli, ce n'est pas vraiment la même chose.
+
+1134
+01:20:05,320 --> 01:20:08,260
+Le droit à l'oubli, c'est une notion qui date d'avant le RGPD
+
+1135
+01:20:08,260 --> 01:20:12,280
+et qui, on en a un petit peu parlé à une époque sur Internet,
+
+1136
+01:20:12,280 --> 01:20:17,100
+c'est en gros le droit de faire supprimer une photo de vous
+
+1137
+01:20:17,100 --> 01:20:21,440
+quand vous étiez étudiant, en petite tenue sur la plage,
+
+1138
+01:20:21,900 --> 01:20:24,340
+il y a 20 ans et qui est toujours sur Facebook
+
+1139
+01:20:24,340 --> 01:20:25,960
+et qui pourrait vous porter préjudice.
+
+1140
+01:20:26,400 --> 01:20:27,680
+C'est plutôt ça le droit à l'oubli.
+
+1141
+01:20:27,900 --> 01:20:29,800
+Ce n'est pas le RGPD à titre professionnel.
+
+1142
+01:20:30,300 --> 01:20:32,520
+On confond souvent ces deux notions.
+
+1143
+01:20:33,199 --> 01:20:36,180
+C'est plutôt le droit à l'effacement ou le droit à la suppression
+
+1144
+01:20:36,180 --> 01:20:37,220
+qu'on doit utiliser.
+
+1145
+01:20:37,220 --> 01:20:59,860
+Ce droit permet à toute personne de demander la suppression des données lorsqu'elles ne sont plus nécessaires, lorsqu'elle retire son consentement qu'elle avait précédemment donné, lorsqu'elle s'oppose au traitement et qu'aucun motif légitime ou légal ne le justifie, et également lorsque le traitement est illicite ou que les informations ont été collectées sans base légale.
+
+1146
+01:20:59,859 --> 01:21:24,359
+À ce moment-là, on a l'obligation de les supprimer, là encore dans un délai d'un mois. Ce délai d'un mois, c'est le délai maximum. Le RGPD nous impose de répondre dans un délai maximal d'un mois à compter de la réception de la demande, qu'elle soit par recommandé, qu'elle soit par email, qu'elle soit par n'importe quel moyen.
+
+1147
+01:21:24,939 --> 01:21:29,359
+Ce délai peut être prolongé de deux mois supplémentaires lorsque la demande est particulièrement complexe.
+
+1148
+01:21:31,159 --> 01:21:36,759
+Nous, ce n'est pas notre cas, mais il peut y avoir des cas, je n'ai pas d'exemple particulier en tête,
+
+1149
+01:21:37,839 --> 01:21:43,000
+où c'est complexe, il faut faire intervenir des techniciens sur une autre base de données, machin, je ne sais pas quoi.
+
+1150
+01:21:43,479 --> 01:21:48,599
+Donc, on peut dans ce cas-là dire, attendez, j'ai besoin de deux mois supplémentaires, jusqu'à deux mois supplémentaires maximum,
+
+1151
+01:21:49,159 --> 01:21:52,739
+mais à condition de répondre dans le délai d'un mois initial.
+
+1152
+01:21:53,479 --> 01:21:56,239
+C'est-à-dire, dans le mois initial, je réponds à la personne,
+
+1153
+01:21:56,659 --> 01:22:00,260
+il va falloir faire intervenir un prestataire, je ne sais pas, ça va prendre un petit peu de temps,
+
+1154
+01:22:00,359 --> 01:22:03,380
+mais je vous réponds tout de suite, je vous tiens au courant, j'accuse réception de votre demande,
+
+1155
+01:22:03,699 --> 01:22:07,639
+et je vous dis que votre demande va bel et bien aboutir à un succès.
+
+1156
+01:22:07,859 --> 01:22:10,760
+Soyez tranquille, mais j'ai besoin d'un petit peu de temps supplémentaire.
+
+1157
+01:22:11,380 --> 01:22:14,039
+Si vous ne répondez pas, ou si la réponse est complètement à côté,
+
+1158
+01:22:14,119 --> 01:22:15,880
+ou vous faites une fausse réponse pour noyer le poisson,
+
+1159
+01:22:16,119 --> 01:22:19,199
+la personne peut saisir la CNIL, engager une action en justice,
+
+1160
+01:22:19,639 --> 01:22:21,960
+et puis obtenir des dommages intérêts, on va en parler tout à l'heure.
+
+1161
+01:22:21,960 --> 01:22:34,960
+Bien sûr, toutes les demandes doivent être tracées. Vous devez rapporter la preuve que vous avez reçu telle demande à tel moment, vous avez répondu à tel moment de telle manière. Vous devez garder une traçabilité sur les demandes et les réponses.
+
+1162
+01:22:36,619 --> 01:22:50,439
+C'est une des premières choses ailleurs que l'ACNIL vérifie lors d'un contrôle. On avait eu un contrôle de l'ACNIL il y a longtemps, longtemps, longtemps, longtemps, longtemps, longtemps. Ce n'est pas particulièrement rigolo, mais ce n'est rien par rapport à la DGCCRF, croyez-moi.
+
+1163
+01:22:50,439 --> 01:22:57,199
+on va parler désormais des sanctions encourues en cas de non-conformité.
+
+1164
+01:22:58,199 --> 01:23:00,239
+Les sanctions, alors vous voyez, la première elle fait peur,
+
+1165
+01:23:00,359 --> 01:23:05,319
+où 4% du CA mondial, ça c'est supposé faire peur aux grandes multinationales.
+
+1166
+01:23:05,919 --> 01:23:08,199
+Donc, le RGPD, ce n'est pas une simple recommandation,
+
+1167
+01:23:08,299 --> 01:23:11,539
+je vous le disais, c'est une réglementation contraignante qui s'impose à nous,
+
+1168
+01:23:12,000 --> 01:23:14,839
+assortie de sanctions, si jamais on ne respecte pas les règles,
+
+1169
+01:23:15,239 --> 01:23:19,639
+administratives, financières et juridiques, en cas de tout type de manquement.
+
+1170
+01:23:20,439 --> 01:23:27,599
+L'ACNIL, c'est elle qui est chargée de veiller au respect des règles du RGPD en France.
+
+1171
+01:23:27,759 --> 01:23:31,779
+Mais pas seulement. La DGCCRF met également son nez dedans.
+
+1172
+01:23:32,319 --> 01:23:39,039
+Vous pourriez dire qu'elle ne devrait pas, puisque l'ACNIL a été spécifiquement chargée du contrôle du respect des règles RGPD.
+
+1173
+01:23:39,259 --> 01:23:43,579
+Mais la DGCCRF contrôle tout, tout le temps, partout. On le sait.
+
+1174
+01:23:44,179 --> 01:23:49,519
+Donc l'ACNIL, qui normalement est l'organe de contrôle, a des pouvoirs très étendus de contrôle et de sanction.
+
+1175
+01:23:50,260 --> 01:23:51,820
+Également à l'égard des indépendants.
+
+1176
+01:23:52,800 --> 01:23:56,600
+Les sanctions financières en cas de non-respect peuvent atteindre,
+
+1177
+01:23:56,920 --> 01:23:58,640
+alors vous allez voir que ça c'est un petit peu lourd,
+
+1178
+01:23:59,280 --> 01:24:00,880
+jusqu'à 20 millions d'euros
+
+1179
+01:24:00,880 --> 01:24:07,920
+ou jusqu'à 4% du chiffre d'affaires annuel mondial.
+
+1180
+01:24:08,920 --> 01:24:11,460
+Alors ça c'est pour les grandes entreprises. Pourquoi ?
+
+1181
+01:24:11,460 --> 01:24:14,760
+Parce que vous avez souvent vu des cas où une entreprise,
+
+1182
+01:24:14,860 --> 01:24:17,120
+une très grande entreprise, une multinationale,
+
+1183
+01:24:17,680 --> 01:24:19,240
+ne respecte pas certaines règles
+
+1184
+01:24:19,239 --> 01:24:23,479
+et se prend une amende qui, en fait, n'est pas un problème du tout
+
+1185
+01:24:23,479 --> 01:24:26,340
+parce que cette amende est infiniment supérieure
+
+1186
+01:24:26,340 --> 01:24:29,099
+au chiffre d'affaires qui a été récupéré
+
+1187
+01:24:29,099 --> 01:24:31,639
+grâce à cette infraction.
+
+1188
+01:24:32,239 --> 01:24:34,039
+En commettant cette infraction,
+
+1189
+01:24:34,260 --> 01:24:36,000
+en ne respectant pas telle règle,
+
+1190
+01:24:36,279 --> 01:24:38,199
+ça leur a rapporté beaucoup plus
+
+1191
+01:24:38,199 --> 01:24:39,800
+que ce que l'amende leur coûte.
+
+1192
+01:24:39,899 --> 01:24:41,239
+Donc, ils disent, bon, c'est pas grave.
+
+1193
+01:24:42,199 --> 01:24:43,159
+On peut recommencer,
+
+1194
+01:24:44,059 --> 01:24:46,300
+puisque ça nous coûte un petit peu de temps en temps,
+
+1195
+01:24:46,300 --> 01:24:50,039
+mais ça nous rapporte énormément de ne pas respecter les règles.
+
+1196
+01:24:50,480 --> 01:24:53,159
+C'est la raison pour laquelle a été imaginée cette règle
+
+1197
+01:24:53,159 --> 01:24:57,260
+de jusqu'à 4% du chiffre d'affaires mondial de la société.
+
+1198
+01:24:57,500 --> 01:24:59,460
+Donc imaginez une boîte comme Google,
+
+1199
+01:24:59,980 --> 01:25:01,779
+on ne prend pas seulement le chiffre d'affaires de la France
+
+1200
+01:25:01,779 --> 01:25:02,840
+lorsqu'ils sont contrôlés en France.
+
+1201
+01:25:03,460 --> 01:25:05,460
+C'est le chiffre d'affaires mondial.
+
+1202
+01:25:06,020 --> 01:25:07,619
+C'est supposé être très dissuasif.
+
+1203
+01:25:08,520 --> 01:25:12,300
+Alors bien entendu, pour une TPE, un état indépendant,
+
+1204
+01:25:12,400 --> 01:25:13,860
+un artisan, un auto-entrepreneur,
+
+1205
+01:25:13,859 --> 01:25:16,579
+les amendes sont proportionnelles
+
+1206
+01:25:16,579 --> 01:25:18,239
+au chiffre d'affaires de la personne
+
+1207
+01:25:18,239 --> 01:25:19,319
+c'est évident, mais par contre
+
+1208
+01:25:19,319 --> 01:25:22,019
+que ça atteigne 5, 6, 7 000 euros
+
+1209
+01:25:22,019 --> 01:25:24,239
+7 500 euros d'amende, ça par contre
+
+1210
+01:25:24,239 --> 01:25:25,899
+c'est courant
+
+1211
+01:25:25,899 --> 01:25:27,380
+inutile de vous dire qu'un
+
+1212
+01:25:27,380 --> 01:25:30,119
+même la lucarne, nous on se prend 7 500 euros d'amende
+
+1213
+01:25:30,119 --> 01:25:31,979
+on rigole pas, ça nous amuse pas du tout
+
+1214
+01:25:31,979 --> 01:25:34,159
+c'est pas grave par rapport
+
+1215
+01:25:34,159 --> 01:25:35,139
+au chiffre d'affaires de la lucarne
+
+1216
+01:25:35,139 --> 01:25:38,099
+on préférerait les garder les 7 500 euros
+
+1217
+01:25:38,099 --> 01:25:39,599
+mais pour un artisan
+
+1218
+01:25:39,599 --> 01:25:41,420
+pour un petit agriculteur
+
+1219
+01:25:41,420 --> 01:25:46,420
+pour un indépendant se prendre 7500 euros d'amende
+
+1220
+01:25:46,420 --> 01:25:47,659
+ou même 10 000 euros d'amende,
+
+1221
+01:25:48,399 --> 01:25:49,640
+là, c'est une condamnation à mort.
+
+1222
+01:25:49,760 --> 01:25:50,420
+Vous l'imaginez bien.
+
+1223
+01:25:51,800 --> 01:25:53,460
+Que peut faire la CNIL ?
+
+1224
+01:25:53,460 --> 01:25:57,699
+Elle peut effectuer des contrôles sur place ou à distance.
+
+1225
+01:25:58,800 --> 01:26:00,060
+C'est-à-dire qu'elle peut venir chez vous.
+
+1226
+01:26:00,140 --> 01:26:02,300
+Bonjour, on vérifie tout, on contrôle tout.
+
+1227
+01:26:03,180 --> 01:26:04,880
+Ou à distance, ça peut être des contrôles
+
+1228
+01:26:04,880 --> 01:26:06,760
+où elle vous demande des justificatifs, etc.
+
+1229
+01:26:06,940 --> 01:26:07,699
+Il y a différentes manières.
+
+1230
+01:26:08,300 --> 01:26:09,220
+Avec ou sans préavis.
+
+1231
+01:26:09,659 --> 01:26:10,539
+Elle peut débarquer comme ça.
+
+1232
+01:26:10,539 --> 01:26:12,659
+coucou, bonjour les amis. Nous, il y a quelques
+
+1233
+01:26:12,659 --> 01:26:14,000
+années, quand on a été contrôlé, c'était
+
+1234
+01:26:14,000 --> 01:26:16,500
+avec préavis. Et ça avait été fait
+
+1235
+01:26:16,500 --> 01:26:17,300
+à distance.
+
+1236
+01:26:18,800 --> 01:26:20,279
+Elle peut vous adresser des mises en demeure.
+
+1237
+01:26:20,720 --> 01:26:22,439
+On a constaté tel problème, tel problème.
+
+1238
+01:26:22,600 --> 01:26:24,460
+Nous vous mettons en demeure de les corriger.
+
+1239
+01:26:26,319 --> 01:26:26,859
+Ce sont
+
+1240
+01:26:26,859 --> 01:26:28,359
+des injonctions de mise en conformité.
+
+1241
+01:26:28,519 --> 01:26:30,479
+La DGCCRF fait tout le temps ça. A chaque fois
+
+1242
+01:26:30,479 --> 01:26:32,460
+qu'on sort de la DGCCRF, on a trois pages
+
+1243
+01:26:32,460 --> 01:26:33,019
+d'injonctions.
+
+1244
+01:26:34,519 --> 01:26:36,460
+Elle peut ordonner la suspension ou
+
+1245
+01:26:36,460 --> 01:26:38,720
+l'effacement d'un fichier. Là, vous avez un fichier.
+
+1246
+01:26:38,859 --> 01:26:40,359
+Il ne nous plaît pas. Il n'est pas conforme.
+
+1247
+01:26:40,539 --> 01:26:42,319
+Vous le supprimez, pas de question à poser.
+
+1248
+01:26:43,300 --> 01:26:47,600
+Prononcez des sanctions, des amendes, et publiez la décision.
+
+1249
+01:26:47,720 --> 01:26:54,819
+Alors ça, c'est moins rigolo, parce que publier la décision, il s'agit de dire de manière publique, tel professionnel, il ne respecte pas les règles, c'est un vilain.
+
+1250
+01:26:55,880 --> 01:26:58,340
+C'est un préjudice d'image, préjudice réputationnel.
+
+1251
+01:26:59,420 --> 01:27:06,439
+Alors, l'immense majorité des contrôles sont déclenchés dans le cas d'un signalement d'un client ou d'un prospect.
+
+1252
+01:27:06,439 --> 01:27:08,539
+on appelle ça une dénonciation
+
+1253
+01:27:08,539 --> 01:27:10,599
+en d'autres termes, signalement, dénonciation
+
+1254
+01:27:10,599 --> 01:27:11,479
+ça veut dire la même chose
+
+1255
+01:27:11,479 --> 01:27:14,019
+à la suite d'une plainte
+
+1256
+01:27:14,019 --> 01:27:16,739
+où dans certains secteurs
+
+1257
+01:27:16,739 --> 01:27:18,359
+jugés à risque, typiquement
+
+1258
+01:27:18,359 --> 01:27:20,379
+l'immobilier est un secteur jugé à risque
+
+1259
+01:27:20,379 --> 01:27:22,359
+par la CNIL, des contrôles
+
+1260
+01:27:22,359 --> 01:27:24,379
+dont la CNIL décide
+
+1261
+01:27:24,379 --> 01:27:25,839
+même s'il n'y a eu aucune plainte
+
+1262
+01:27:25,839 --> 01:27:27,039
+ou aucun
+
+1263
+01:27:27,039 --> 01:27:30,659
+litige
+
+1264
+01:27:30,659 --> 01:27:33,659
+je vais vous donner un exemple tout bête
+
+1265
+01:27:33,659 --> 01:27:36,339
+en 2022, une agence immobilière à Lille
+
+1266
+01:27:36,340 --> 01:27:42,020
+a été condamnée pour ne pas avoir de registre de suivi RGPD.
+
+1267
+01:27:44,020 --> 01:27:45,659
+Absence totale de registre des traités.
+
+1268
+01:27:45,739 --> 01:27:46,340
+Elle n'en avait pas.
+
+1269
+01:27:46,720 --> 01:27:49,380
+Pourquoi ? Parce que ce n'est pas à la portée d'une agence immobilière.
+
+1270
+01:27:49,380 --> 01:27:59,920
+Soyons clairs, cette législation RGPD n'est pas faite pour une TPE comme une agence immobilière.
+
+1271
+01:28:00,020 --> 01:28:00,640
+C'est délirant.
+
+1272
+01:28:01,440 --> 01:28:02,980
+Donc bien sûr qu'ils n'en avaient tout simplement pas.
+
+1273
+01:28:02,979 --> 01:28:05,799
+et je vous garantis que 99% des agences immobilières,
+
+1274
+01:28:05,959 --> 01:28:07,059
+pas les réseaux comme nous,
+
+1275
+01:28:07,619 --> 01:28:08,899
+parce qu'on est quand même mieux outillés,
+
+1276
+01:28:09,000 --> 01:28:09,679
+on est mieux armés.
+
+1277
+01:28:09,939 --> 01:28:11,500
+Regardez la preuve, on se met en conformité.
+
+1278
+01:28:11,919 --> 01:28:13,959
+Allez voir n'importe quelle agence autour de chez vous,
+
+1279
+01:28:14,579 --> 01:28:18,879
+elle n'est pas en règle avec le RGPD.
+
+1280
+01:28:19,659 --> 01:28:21,179
+Donc, ils ont été condamnés.
+
+1281
+01:28:21,319 --> 01:28:23,239
+Alors, je n'ai pas trouvé à combien.
+
+1282
+01:28:24,299 --> 01:28:25,039
+Je ne sais pas.
+
+1283
+01:28:26,000 --> 01:28:26,699
+J'ai cherché.
+
+1284
+01:28:26,799 --> 01:28:27,599
+Je n'ai pas trouvé à combien.
+
+1285
+01:28:28,419 --> 01:28:29,799
+Ils ont été condamnés précisément
+
+1286
+01:28:29,799 --> 01:28:31,899
+pour avoir conservé des copies de pièces d'identité
+
+1287
+01:28:31,899 --> 01:28:46,639
+Au-delà de la durée légale, aucun processus n'était mis en place pour répondre aux demandes de suppression et il y avait une absence totale de registre des traitements. Il y a eu une sanction publique, injonction de mise en conformité et une amende dont je n'ai pas réussi à trouver le montant.
+
+1288
+01:28:46,640 --> 01:28:54,140
+Également en 2021, une plateforme immobilière en ligne qui mettait en relation des vendeurs et des mandataires
+
+1289
+01:28:54,140 --> 01:28:59,880
+C'est une société en fait tout simplement de piges immobilières
+
+1290
+01:28:59,880 --> 01:29:02,880
+Prospection commerciale sans consentement clair
+
+1291
+01:29:02,880 --> 01:29:08,440
+Formulaire pré-coché, les fameux formulaires que la personne doit cocher pour donner son consentement
+
+1292
+01:29:08,440 --> 01:29:10,480
+Durée de conservation excessive
+
+1293
+01:29:10,480 --> 01:29:14,060
+Sécurisation des données insatisfaisantes
+
+1294
+01:29:14,060 --> 01:29:19,500
+Montant de la sanction, 75 000 euros.
+
+1295
+01:29:20,880 --> 01:29:23,620
+75 000 euros.
+
+1296
+01:29:24,560 --> 01:29:25,700
+C'est lourd, hein ?
+
+1297
+01:29:25,700 --> 01:29:27,580
+C'est très, très, très lourd.
+
+1298
+01:29:31,840 --> 01:29:33,780
+Un mandataire indépendant également,
+
+1299
+01:29:34,280 --> 01:29:37,039
+c'est en 2023, absence de registre,
+
+1300
+01:29:37,840 --> 01:29:41,120
+il n'avait pas répondu à une demande de suppression dans les délais,
+
+1301
+01:29:41,119 --> 01:29:59,859
+Il partageait tous ses documents avec des outils non chiffrés comme WeTransfer, injonction de suppression immédiate, avertissement officiel, inscription en fichier des contrôles CNIL, mais il n'a pas eu d'amende. Je ne sais pas dans quel réseau il travaillait, ce monsieur, ou cette dame, je ne sais pas du tout.
+
+1302
+01:30:00,619 --> 01:30:05,500
+Donc, vous le voyez, le respect du RGPD, c'est une condition de pérennité de votre activité,
+
+1303
+01:30:05,599 --> 01:30:15,179
+parce que quand une société se prend 75 000 euros d'amende, c'est un arrêt de mort pour une PME.
+
+1304
+01:30:17,979 --> 01:30:22,819
+Donc, le RGPD n'existe pas des investissements lourds en argent,
+
+1305
+01:30:22,819 --> 01:30:27,099
+mais il nécessite des investissements lourds en travail
+
+1306
+01:30:27,099 --> 01:30:29,899
+en rigueur constante
+
+1307
+01:30:29,899 --> 01:30:32,460
+parce qu'il faut le tenir à jour tout le temps
+
+1308
+01:30:32,460 --> 01:30:36,139
+en permanence et suivre la gestion des données
+
+1309
+01:30:36,139 --> 01:30:38,199
+c'est la raison pour laquelle
+
+1310
+01:30:38,199 --> 01:30:42,579
+je vous dis, je le répète et je le répéterai encore
+
+1311
+01:30:42,579 --> 01:30:45,079
+ne conservez rien
+
+1312
+01:30:45,079 --> 01:30:47,939
+vous même, rien rien rien
+
+1313
+01:30:47,939 --> 01:30:51,199
+mettez tout dans Eglantine
+
+1314
+01:30:51,199 --> 01:30:53,439
+et dans la boîte mail Zoho,
+
+1315
+01:30:54,319 --> 01:30:55,840
+tenez votre boîte mail Zoho à jour,
+
+1316
+01:30:55,979 --> 01:30:57,779
+supprimez tout ce qui a plus de 5 ans
+
+1317
+01:30:57,779 --> 01:31:01,159
+pour les clients sur lesquels vous avez eu une vente
+
+1318
+01:31:01,159 --> 01:31:03,099
+et tout ce qui a plus de 3 ans
+
+1319
+01:31:03,099 --> 01:31:05,039
+pour les simples prospects
+
+1320
+01:31:05,039 --> 01:31:06,699
+et je vous dirai même les simples prospects.
+
+1321
+01:31:07,519 --> 01:31:08,179
+Soyons clairs,
+
+1322
+01:31:08,460 --> 01:31:10,099
+quelqu'un qui n'est jamais venu visiter,
+
+1323
+01:31:10,800 --> 01:31:11,939
+vous supprimez au bout de 6 mois.
+
+1324
+01:31:13,220 --> 01:31:14,380
+Quelqu'un qui est venu visiter,
+
+1325
+01:31:14,659 --> 01:31:16,079
+vous pouvez garder un petit peu plus longtemps.
+
+1326
+01:31:17,159 --> 01:31:18,960
+Quelqu'un qui vous a simplement demandé
+
+1327
+01:31:18,960 --> 01:31:23,000
+« Bonjour, est-ce que c'est loin de la gare ? Est-ce que c'est ceci ? Est-ce que c'est cela ? »
+
+1328
+01:31:23,000 --> 01:31:25,279
+et qui n'est jamais venu visiter, ça ne sert à rien.
+
+1329
+01:31:25,619 --> 01:31:29,220
+Au bout de six mois, vous supprimez ça et puis ça fait de la place, bien sûr.
+
+1330
+01:31:30,960 --> 01:31:36,659
+Alors, quelles sont les bonnes pratiques à mettre en place ?
+
+1331
+01:31:36,659 --> 01:31:38,699
+Eh bien, maintenant qu'on a vu les risques,
+
+1332
+01:31:39,439 --> 01:31:46,359
+il faut voir comment mettre en œuvre des mesures simples, efficaces, suffisamment solides
+
+1333
+01:31:46,359 --> 01:31:49,599
+pour assurer la conformité RGPD dans le cadre de notre activité.
+
+1334
+01:31:50,239 --> 01:31:52,559
+Ce n'est pas de la théorie, là, c'est vraiment du concret.
+
+1335
+01:31:52,859 --> 01:31:58,439
+Ce sont vraiment les attentes précises de l'ACNIL qui sont adaptées à notre métier, à nous.
+
+1336
+01:31:58,899 --> 01:32:01,599
+Alors, là encore, ce n'est pas à vous de le faire.
+
+1337
+01:32:02,519 --> 01:32:05,019
+C'est nous qui le faisons, mais il faut que vous soyez au courant de tout ça
+
+1338
+01:32:05,019 --> 01:32:08,699
+pour que vous puissiez savoir l'expliquer à vos clients, que vous sachiez comment ça fonctionne.
+
+1339
+01:32:09,139 --> 01:32:12,199
+Mais ce n'est surtout pas à vous de le faire.
+
+1340
+01:32:13,019 --> 01:32:15,739
+Premièrement, ça c'est une des choses que nous sommes en train de faire,
+
+1341
+01:32:15,739 --> 01:32:18,199
+afficher une notice RGPD
+
+1342
+01:32:18,199 --> 01:32:19,779
+claire sur tous nos supports,
+
+1343
+01:32:20,420 --> 01:32:22,179
+sur tous nos documents qui comportent
+
+1344
+01:32:22,179 --> 01:32:23,979
+une collecte de données personnelles, on doit
+
+1345
+01:32:23,979 --> 01:32:26,139
+insérer une mention d'information obligatoire
+
+1346
+01:32:26,139 --> 01:32:28,460
+conforme
+
+1347
+01:32:28,460 --> 01:32:29,979
+à l'article 13 du RGPD,
+
+1348
+01:32:30,859 --> 01:32:32,019
+que ce soit les mandats de vente,
+
+1349
+01:32:32,119 --> 01:32:34,399
+les fiches de renseignement acquéreurs, les bons de visite,
+
+1350
+01:32:34,939 --> 01:32:36,500
+les formulaires numériques ou papiers,
+
+1351
+01:32:36,739 --> 01:32:38,139
+site internet, page réseau,
+
+1352
+01:32:38,199 --> 01:32:40,159
+n'importe quoi, et cette notice doit être, je vous l'avais
+
+1353
+01:32:40,159 --> 01:32:41,800
+dit tout à l'heure, visible,
+
+1354
+01:32:42,439 --> 01:32:44,439
+concise, complète,
+
+1355
+01:32:44,439 --> 01:32:47,079
+intelligibles, accessibles.
+
+1356
+01:32:49,719 --> 01:32:51,839
+Elle doit comporter
+
+1357
+01:32:51,839 --> 01:32:53,219
+la finalité du traitement,
+
+1358
+01:32:53,839 --> 01:32:55,199
+la base juridique,
+
+1359
+01:32:55,579 --> 01:32:56,739
+la durée de conservation,
+
+1360
+01:32:57,179 --> 01:32:58,799
+le droit des personnes concernées
+
+1361
+01:32:58,799 --> 01:33:01,539
+et qui contacter pour exercer
+
+1362
+01:33:01,539 --> 01:33:03,319
+les droits de suppression,
+
+1363
+01:33:03,500 --> 01:33:04,559
+rectification, etc.
+
+1364
+01:33:06,000 --> 01:33:06,719
+Deuxièmement,
+
+1365
+01:33:07,679 --> 01:33:09,000
+former et sensibiliser
+
+1366
+01:33:09,000 --> 01:33:10,699
+les collaborateurs et partenaires
+
+1367
+01:33:10,699 --> 01:33:12,379
+de notre activité.
+
+1368
+01:33:13,699 --> 01:33:13,939
+Alors,
+
+1369
+01:33:14,439 --> 01:33:19,639
+Dans notre cas, nous, il s'agit de vous sensibiliser, vous former, vous les négociateurs.
+
+1370
+01:33:20,219 --> 01:33:25,659
+Dans votre cas, vous, ou dans le cas de n'importe qui d'autre, il faut sensibiliser les collaborateurs ponctuels,
+
+1371
+01:33:26,139 --> 01:33:30,659
+des assistants, des freelancers qui viendraient travailler pour vous ou pour nous,
+
+1372
+01:33:31,139 --> 01:33:36,479
+des prestataires extérieurs, un photographe, un service d'emailing, une plateforme d'estimation, ou que sais-je encore.
+
+1373
+01:33:37,239 --> 01:33:41,139
+Tous doivent être sensibilisés à la confidentialité et à la sécurisation des données.
+
+1374
+01:33:41,960 --> 01:33:48,039
+Par exemple, un assistant administratif doit savoir qu'il n'a pas le droit de transmettre un mandat de vente à un tiers non autorisé.
+
+1375
+01:33:48,619 --> 01:33:55,820
+Il n'a pas le droit non plus de conserver des copies des pièces sans instructions, finalité claire et autorisation pour cela.
+
+1376
+01:33:56,200 --> 01:34:01,579
+Il doit être, cet assistant administratif, sensibilisé et formé à cela pour qu'il ne fasse pas de bêtises,
+
+1377
+01:34:02,039 --> 01:34:08,780
+pour qu'il n'y ait pas un zozo qui l'appelle, qui dit « Bonjour, c'est l'agence La Forêt, il me faut une copie de votre mandat de vente avec Mme Berthollet.
+
+1378
+01:34:09,539 --> 01:34:10,759
+Allez, envoyez-moi ça tout de suite.
+
+1379
+01:34:11,039 --> 01:34:12,719
+Ah bon, je vous l'envoie alors.
+
+1380
+01:34:13,159 --> 01:34:14,559
+Non, absolument pas.
+
+1381
+01:34:17,420 --> 01:34:17,939
+Pardon.
+
+1382
+01:34:18,800 --> 01:34:22,719
+Bien entendu, il faut, troisième point ici,
+
+1383
+01:34:23,039 --> 01:34:26,039
+mettre à jour régulièrement les documents types.
+
+1384
+01:34:26,840 --> 01:34:31,359
+Tous les supports doivent évoluer en fonction des évolutions réglementaires et législatives.
+
+1385
+01:34:31,899 --> 01:34:33,819
+Ça, on est généralement plutôt bon pour ça.
+
+1386
+01:34:33,819 --> 01:34:37,819
+Des recommandations de la CNIL et de nos propres pratiques internes.
+
+1387
+01:34:39,199 --> 01:34:50,439
+On doit vérifier au moins une fois par an que tous nos modèles de mandat sont à jour, que nos mentions légales respectent les dernières exigences, que tous nos documents papiers ou numériques sont cohérents entre eux.
+
+1388
+01:34:50,719 --> 01:34:57,979
+Là, c'est typiquement ce qu'on est en train de faire en ce moment, notamment sur les documents papiers ou numériques pour lesquels on est en train de procéder à une refonte totale.
+
+1389
+01:34:58,659 --> 01:35:02,019
+Bien sûr, il faut conserver une version horodatée de tous les documents.
+
+1390
+01:35:02,219 --> 01:35:02,739
+Ça, on le fait.
+
+1391
+01:35:03,099 --> 01:35:07,859
+On sait que tel document type, on l'a fait à telle époque, à telle date,
+
+1392
+01:35:07,939 --> 01:35:13,919
+ce qui nous permet de dire à telle date, il était conforme aux réglementations de la date en question.
+
+1393
+01:35:13,919 --> 01:35:17,319
+Ça, c'est un document qui date de août 2022.
+
+1394
+01:35:17,559 --> 01:35:22,479
+Il était conforme aux réglementations en vigueur en août 2022.
+
+1395
+01:35:23,479 --> 01:35:26,579
+Il faut également réaliser un audit interne annuel.
+
+1396
+01:35:26,579 --> 01:35:48,140
+Alors, un audit interne annuel pour un professionnel de notre taille, ce n'est pas possible. On ne peut pas faire ça tous les ans, mais il faudrait dans l'idéal. On doit lister les traitements de données qu'on réalise, vérifier les durées de conservation, vérifier la sécurité des outils, tester les capacités à répondre à une demande de droit d'accès.
+
+1397
+01:35:48,140 --> 01:36:01,119
+Ça veut dire concrètement qu'on fait une fausse demande. On envoie de la boîte Jean-Pierre Marcelin à gmail.com. Bonjour, merci de vérifier, etc. Et vous voyez si vos services répondent en temps et en heure, de la bonne manière, donnent la bonne réponse.
+
+1398
+01:36:01,979 --> 01:36:08,079
+Cet audit peut être simple, bien sûr, mais il doit être structuré, daté et absolument conservé en cas de contrôle
+
+1399
+01:36:08,079 --> 01:36:11,519
+pour qu'on puisse nous dire, voilà, quel est votre dernier audit RGPD ?
+
+1400
+01:36:11,519 --> 01:36:14,380
+Il a eu lieu en août 2024, par exemple.
+
+1401
+01:36:15,099 --> 01:36:17,559
+Et là, on est en octobre 2025.
+
+1402
+01:36:18,420 --> 01:36:20,619
+On n'a pas encore fait cette année, mais on va le faire, c'est promis.
+
+1403
+01:36:22,599 --> 01:36:25,420
+Il faut pouvoir démontrer à la CNIL qu'on est dans une démarche proactive.
+
+1404
+01:36:25,960 --> 01:36:27,279
+On n'est pas passif face à tout ça.
+
+1405
+01:36:27,559 --> 01:36:30,260
+On est proactif, on prend le taureau par les cornes.
+
+1406
+01:36:30,260 --> 01:36:32,520
+on n'attend pas que les choses se fassent toutes seules dans leur coin
+
+1407
+01:36:32,520 --> 01:36:35,140
+et ça en cas de contrôle
+
+1408
+01:36:35,140 --> 01:36:37,500
+ça vaut cher
+
+1409
+01:36:37,500 --> 01:36:40,260
+d'arriver à les convaincre
+
+1410
+01:36:40,260 --> 01:36:42,039
+qu'on n'est pas passif dans notre coin
+
+1411
+01:36:42,039 --> 01:36:43,140
+on est proactif
+
+1412
+01:36:43,140 --> 01:36:45,640
+dans ces démarches de contrôle et de conformité
+
+1413
+01:36:45,640 --> 01:36:47,360
+ça leur permet de se dire
+
+1414
+01:36:47,360 --> 01:36:48,560
+bon ben voilà c'est des bons élèves
+
+1415
+01:36:48,560 --> 01:36:50,039
+ils font les choses comme il faut
+
+1416
+01:36:50,039 --> 01:36:52,079
+c'est pour ça d'ailleurs que là
+
+1417
+01:36:52,079 --> 01:36:55,100
+on est nous en pleine démarche
+
+1418
+01:36:55,100 --> 01:36:56,239
+en plein chantier pour
+
+1419
+01:36:56,239 --> 01:36:58,380
+nous mettre en régularité
+
+1420
+01:36:58,380 --> 01:37:00,720
+en conformité totale,
+
+1421
+01:37:01,680 --> 01:37:02,659
+on ne le fait pas à la suite
+
+1422
+01:37:02,659 --> 01:37:05,119
+d'un, comment dire,
+
+1423
+01:37:05,239 --> 01:37:08,400
+d'une injonction,
+
+1424
+01:37:08,880 --> 01:37:10,619
+d'une dénonciation, ou de quoi que ce soit.
+
+1425
+01:37:11,159 --> 01:37:12,720
+C'est nous, volontairement, qui nous
+
+1426
+01:37:12,720 --> 01:37:14,579
+disons, bon voilà, là il faut qu'on finisse ça
+
+1427
+01:37:14,579 --> 01:37:16,300
+une bonne fois pour toutes,
+
+1428
+01:37:17,119 --> 01:37:18,140
+et
+
+1429
+01:37:18,140 --> 01:37:20,579
+nous avons d'ailleurs informé la CNIL
+
+1430
+01:37:20,579 --> 01:37:22,619
+de ça, pour avoir deux-trois
+
+1431
+01:37:22,619 --> 01:37:24,420
+recommandations de leur part,
+
+1432
+01:37:24,500 --> 01:37:26,560
+c'est ce qu'on appelle un rescrit, ça c'est quelque chose que vous devez
+
+1433
+01:37:26,560 --> 01:37:28,440
+toujours faire quand vous avez
+
+1434
+01:37:28,440 --> 01:37:30,360
+des soucis, un projet particulier
+
+1435
+01:37:30,360 --> 01:37:32,340
+avec le fisc, avec l'urbanisme, etc.
+
+1436
+01:37:33,020 --> 01:37:34,620
+Et nous, on l'a fait avec la CNIL.
+
+1437
+01:37:34,960 --> 01:37:36,680
+C'est-à-dire que vous contactez l'organisme
+
+1438
+01:37:36,680 --> 01:37:38,539
+de contrôle compétent pour la
+
+1439
+01:37:38,539 --> 01:37:40,320
+matière pour laquelle
+
+1440
+01:37:40,320 --> 01:37:42,860
+vous souhaitez vous mettre en conformité
+
+1441
+01:37:42,860 --> 01:37:44,960
+et vous leur dites, est-ce que vous avez des recommandations ?
+
+1442
+01:37:44,960 --> 01:37:47,360
+Est-ce que je peux faire ça comme ci ? Est-ce que je peux faire ça comme ça ?
+
+1443
+01:37:47,360 --> 01:37:49,039
+Parce qu'après, la réponse qu'ils vous donnent,
+
+1444
+01:37:49,140 --> 01:37:50,800
+c'est ce qu'on appelle un rescrit. Ça se fait beaucoup
+
+1445
+01:37:50,800 --> 01:37:52,340
+avec le fisc. On appelle ça un rescrit fiscal.
+
+1446
+01:37:52,840 --> 01:37:54,500
+Ça vous permet, en cas de contrôle ultérieur,
+
+1447
+01:37:54,500 --> 01:37:55,859
+s'il y a quelque chose qui ne va pas, de dire
+
+1448
+01:37:55,859 --> 01:37:59,020
+« Ah, mais attendez, quand moi je me suis mis en conformité,
+
+1449
+01:37:59,140 --> 01:38:01,739
+j'ai interrogé le fisc, j'ai interrogé la CNIL,
+
+1450
+01:38:01,840 --> 01:38:03,279
+j'ai interrogé la DGCCRF,
+
+1451
+01:38:03,640 --> 01:38:05,220
+et ils m'ont dit que je devais m'y prendre comme ça.
+
+1452
+01:38:05,600 --> 01:38:07,239
+Donc maintenant, si ça n'est pas conforme,
+
+1453
+01:38:07,680 --> 01:38:09,680
+ce n'est pas moi qui suis en faute. »
+
+1454
+01:38:09,680 --> 01:38:10,699
+Et c'est ce que nous avons fait.
+
+1455
+01:38:10,819 --> 01:38:12,439
+Là, nous avons contacté la CNIL
+
+1456
+01:38:12,439 --> 01:38:14,760
+pour avoir des recommandations et pour leur dire
+
+1457
+01:38:14,760 --> 01:38:16,880
+« Voilà, on n'est pas totalement conformes,
+
+1458
+01:38:17,180 --> 01:38:20,520
+mais là, on se lance dans un chantier de mise en conformité totale. »
+
+1459
+01:38:20,520 --> 01:38:22,800
+Et ils nous ont, très sympa, fait des recommandations.
+
+1460
+01:38:23,800 --> 01:38:27,440
+On s'est demandé d'ailleurs si ce n'était pas une intelligence artificielle qui nous avait répondu au démarrage.
+
+1461
+01:38:27,900 --> 01:38:32,360
+Mais on le fait de manière volontaire sans avoir, pour une fois, pris un contrôle dans le pif.
+
+1462
+01:38:32,860 --> 01:38:34,880
+Ça, c'est la spécialité de la DGCCRF.
+
+1463
+01:38:36,420 --> 01:38:39,320
+Bien entendu, en mettant en œuvre des bonnes pratiques de ce type-là,
+
+1464
+01:38:39,579 --> 01:38:44,739
+on se place dans une dynamique responsable, professionnelle, susceptible, on le verra par la suite,
+
+1465
+01:38:45,119 --> 01:38:49,880
+d'améliorer notre réputation auprès des clients et de leur démontrer qu'on traite leurs données personnelles
+
+1466
+01:38:49,880 --> 01:38:51,800
+personnelles, de manière sérieuse
+
+1467
+01:38:51,800 --> 01:38:53,039
+et rigoureuse.
+
+1468
+01:38:54,340 --> 01:38:54,659
+Donc,
+
+1469
+01:38:55,840 --> 01:38:57,520
+peut-être
+
+1470
+01:38:57,520 --> 01:38:59,900
+que ça prendra un petit peu plus de force à la vie.
+
+1471
+01:38:59,980 --> 01:39:01,500
+Je vais être clair avec vous, j'y crois pas trop.
+
+1472
+01:39:02,739 --> 01:39:03,900
+Personnellement. Autant pour le
+
+1473
+01:39:03,900 --> 01:39:05,900
+DPO, j'y croyais, mais là, ça, j'y crois pas trop.
+
+1474
+01:39:06,079 --> 01:39:07,859
+Bon, on verra ce qui
+
+1475
+01:39:07,859 --> 01:39:09,359
+en sera par la suite.
+
+1476
+01:39:09,960 --> 01:39:11,880
+Voyons maintenant le délégué
+
+1477
+01:39:11,880 --> 01:39:13,800
+à la protection des données, DPO.
+
+1478
+01:39:14,420 --> 01:39:15,699
+Alors, ça, c'est
+
+1479
+01:39:15,699 --> 01:39:17,500
+quelque chose qui
+
+1480
+01:39:17,500 --> 01:39:23,659
+qu'on ne trouve pas dans une TPE comme une agence immobilière de quartier.
+
+1481
+01:39:24,039 --> 01:39:24,619
+Ce n'est pas possible.
+
+1482
+01:39:24,760 --> 01:39:28,859
+C'est-à-dire d'avoir une personne spécifiquement dédiée à ça.
+
+1483
+01:39:29,039 --> 01:39:29,800
+Et chez nous non plus.
+
+1484
+01:39:30,279 --> 01:39:32,640
+On n'a pas une personne qui ne fait que ça.
+
+1485
+01:39:33,039 --> 01:39:35,840
+Vous trouvez un délégué à la protection des données,
+
+1486
+01:39:35,840 --> 01:39:39,899
+qu'on appelle très prétentieusement Data Protection Officer
+
+1487
+01:39:39,899 --> 01:39:42,840
+dans les sociétés vaniteuses.
+
+1488
+01:39:44,199 --> 01:39:46,239
+C'est dans les très grosses entreprises que vous avez ça.
+
+1489
+01:39:46,239 --> 01:39:48,639
+très très très très grosses entreprises
+
+1490
+01:39:48,639 --> 01:39:50,800
+chez nous, on n'a pas ça
+
+1491
+01:39:50,800 --> 01:39:52,179
+en fait
+
+1492
+01:39:52,179 --> 01:39:54,199
+en avoir un, ça dépend
+
+1493
+01:39:54,199 --> 01:39:57,000
+premièrement de la taille et de l'ampleur de votre entreprise
+
+1494
+01:39:57,000 --> 01:39:57,939
+également de sa nature
+
+1495
+01:39:57,939 --> 01:40:00,920
+un DPO est obligatoire dans les cas suivants
+
+1496
+01:40:00,920 --> 01:40:02,619
+ça c'est l'article 37 du RGPD
+
+1497
+01:40:02,619 --> 01:40:05,340
+lorsqu'on effectue un traitement à très grande échelle
+
+1498
+01:40:05,340 --> 01:40:06,739
+de données à caractère personnel
+
+1499
+01:40:06,739 --> 01:40:08,420
+par exemple vous êtes une banque
+
+1500
+01:40:08,420 --> 01:40:10,779
+par exemple vous êtes un opérateur téléphonique
+
+1501
+01:40:10,779 --> 01:40:12,819
+vous avez des millions de RIB
+
+1502
+01:40:12,819 --> 01:40:15,260
+de relevés d'identité bancaire
+
+1503
+01:40:15,260 --> 01:40:28,539
+Vous avez des millions de clients avec leur adresse, leur date de naissance, leur emploi, la société dans laquelle ils travaillent, etc.
+
+1504
+01:40:29,600 --> 01:40:34,340
+Bien entendu, vous avez des dizaines de milliers de contacts, des millions de contacts par mois.
+
+1505
+01:40:35,500 --> 01:40:39,739
+Vous êtes considéré comme traitant des données à grande échelle.
+
+1506
+01:40:40,679 --> 01:40:45,779
+Deuxièmement, vous êtes une société qui effectue un suivi régulier et systématique des personnes,
+
+1507
+01:40:46,340 --> 01:40:50,079
+notamment pour faire du profilage, du ciblage automatisé.
+
+1508
+01:40:50,319 --> 01:40:55,319
+Par exemple, un outil de prospection basé sur des algorithmes d'analyse comportementale.
+
+1509
+01:40:56,420 --> 01:40:58,880
+Alors ça, nous, bien entendu, on ne le fait pas du tout,
+
+1510
+01:40:58,979 --> 01:41:00,899
+mais il y a énormément de sociétés qui font ça,
+
+1511
+01:41:00,899 --> 01:41:05,559
+notamment les sociétés qui font du suivi en ligne du comportement des gens,
+
+1512
+01:41:05,819 --> 01:41:08,039
+comme Facebook, mais comme d'autres également,
+
+1513
+01:41:08,039 --> 01:41:10,819
+comme Criteo, qui est une société française qui fait beaucoup ça.
+
+1514
+01:41:12,739 --> 01:41:19,119
+Ou alors, on traite des données sensibles, origines ethniques, données relatives à la santé,
+
+1515
+01:41:19,800 --> 01:41:24,760
+convictions religieuses, données relatives à la situation financière et sociale des gens.
+
+1516
+01:41:26,460 --> 01:41:28,680
+Ça ne nous concerne pas non plus, nous.
+
+1517
+01:41:29,279 --> 01:41:33,539
+Donc vous comprenez qu'avoir un DPO, non seulement on est une petite société,
+
+1518
+01:41:33,539 --> 01:41:37,539
+mais on ne fait pas tout ça, nous. On n'a pas besoin d'avoir un DPO.
+
+1519
+01:41:38,039 --> 01:41:38,739
+Et vous non plus.
+
+1520
+01:41:39,539 --> 01:41:42,479
+Par contre, on serait une plus grosse société, une plus grosse entreprise.
+
+1521
+01:41:43,060 --> 01:41:43,840
+Ça s'envisagerait.
+
+1522
+01:41:44,720 --> 01:41:47,659
+Alors, il peut ne pas être obligatoire, mais recommandé
+
+1523
+01:41:47,659 --> 01:41:50,960
+quand on travaille au sein d'un grand réseau, comme AXA, par exemple.
+
+1524
+01:41:50,960 --> 01:41:53,000
+Vous voyez, c'est un très grand réseau, très structuré.
+
+1525
+01:41:53,399 --> 01:41:56,159
+Si on utilise des outils mutualisés pour la prospection,
+
+1526
+01:41:56,500 --> 01:41:59,420
+la gestion des leads, la signature électronique.
+
+1527
+01:42:00,279 --> 01:42:01,319
+Ce qui n'est pas le cas.
+
+1528
+01:42:01,600 --> 01:42:07,500
+Vous pouvez dire, oui, on a des outils de prospection comme TactiKimo.
+
+1529
+01:42:07,500 --> 01:42:25,260
+On a un outil de gestion de la signature électronique, oui, mais ça passe par Aiglantine qui, elle, est sécurisée et ils ne sont pas mutualisés dans la mesure où vous n'utilisez pas les mêmes identifiants avec les mêmes contacts et les mêmes informations dedans. Chacun de vous, vous avez votre propre tactique IMO.
+
+1530
+01:42:26,239 --> 01:42:32,960
+Si vous avez également des prestataires extérieurs et que vous sous-traitez les fonctions pour le logiciel, le CRM, des photographes, etc.
+
+1531
+01:42:33,760 --> 01:42:36,780
+Dans ce cas-là, on peut désigner un DPO mutualisé pour tout le monde.
+
+1532
+01:42:36,900 --> 01:42:38,980
+Ça peut être utile, pas obligatoire.
+
+1533
+01:42:39,699 --> 01:42:44,300
+Ou on peut désigner un référent RGPD interne également, qui centralise la gestion de la conformité,
+
+1534
+01:42:45,199 --> 01:42:51,440
+suit les demandes de modification, suppression, etc., mise à jour, pour le registre.
+
+1535
+01:42:51,439 --> 01:43:11,460
+Alors, même si ce n'est pas obligatoire, le référent RGPD DPO volontaire permet de structurer la démarche, d'anticiper les contrôles et les demandes de l'ACNIL, ça c'est super super super important, centraliser les demandes d'accès ou d'effacement et de bien mieux gérer la sécurité des fichiers et des outils.
+
+1536
+01:43:11,460 --> 01:43:24,300
+Par exemple, si on est affilié à un réseau national, généralement il y a un DPO déclaré auprès de l'ACNIL, il peut vous fournir directement des modèles de mention légale, des registres pré-remplis, des procédures en cas de violation des données, etc.
+
+1537
+01:43:25,100 --> 01:43:38,779
+Mais à la lucarne, ça n'est pas le cas puisque nous gérons tout cela nous-mêmes en interne et nous vous recommandons de ne surtout pas mettre le doigt dans la gestion, le traitement et la conservation de données personnelles passées par EGLANTIM.
+
+1538
+01:43:39,719 --> 01:43:47,179
+Donc, l'obligation d'un DPO ne nous concerne pas, ne vous concerne pas, bien sûr.
+
+1539
+01:43:47,359 --> 01:43:54,939
+C'est recommandé d'identifier un référent RGPD quand les choses prennent de l'ampleur et qu'elles sont de plus en plus complexes.
+
+1540
+01:43:55,479 --> 01:43:59,279
+Mais pour l'instant, ça n'est pas une chose dont vous devez vous inquiéter.
+
+1541
+01:43:59,279 --> 01:44:07,179
+Alors, en conclusion, puisqu'on arrive à la fin de cette visioconférence
+
+1542
+01:44:07,179 --> 01:44:10,259
+On n'est pas tout à fait à deux heures, mais presque
+
+1543
+01:44:10,259 --> 01:44:17,539
+En conclusion, le RGPD c'est avant tout un cadre protecteur pour vos clients
+
+1544
+01:44:17,539 --> 01:44:23,000
+Pour vous aussi, ça vous met à l'abri des revendications et des litiges
+
+1545
+01:44:23,000 --> 01:44:26,920
+Mais c'est surtout la protection des clients et de leurs données personnelles à eux
+
+1546
+01:44:26,920 --> 01:44:49,980
+Que ce soit les vendeurs ou les acquéreurs, les données personnelles sont relativement sensibles. Dans d'autres cas, elles ne sont pas ultra sensibles. Ce ne sont pas des données de santé, religieuses, etc. Mais elles sont quand même relativement sensibles. Nom, prénom, adresse, etc. Taxe foncière, tout ça sont des informations qui ne sont pas supposées se retrouver sur la place publique.
+
+1547
+01:44:50,659 --> 01:44:53,979
+Mais pour vous-même également, en tant que professionnel, mettez-vous à l'abri,
+
+1548
+01:44:54,059 --> 01:44:57,139
+mettons-nous à l'abri des litiges, des plaintes, des abus,
+
+1549
+01:44:57,739 --> 01:45:01,739
+surtout notamment des plaintes de mauvaise foi de beaucoup de nos clients, on connaît ça par cœur.
+
+1550
+01:45:02,479 --> 01:45:07,000
+Donc, respectons cette réglementation, ça valorise notre sérieux, oui.
+
+1551
+01:45:07,539 --> 01:45:11,179
+Ça renforce la qualité de notre relation commerciale avec nos clients, peut-être.
+
+1552
+01:45:11,799 --> 01:45:14,899
+Ça évite les risques juridiques et financiers, très clairement.
+
+1553
+01:45:14,899 --> 01:45:21,899
+C'est exactement ça la raison principale pour laquelle on doit considérer cette question très très très sérieusement.
+
+1554
+01:45:25,039 --> 01:45:28,500
+Les bons réflexes en matière de RGPD, vous devez les mettre en avant.
+
+1555
+01:45:28,719 --> 01:45:41,879
+Alors quand on sera parfaitement en règle avec tout ça, vous le ferez, vous le pourrez, nous nous le ferons en tout cas, nous communiquerons ouvertement sur le fait que nous sommes conformes au RGPD.
+
+1556
+01:45:41,880 --> 01:45:52,319
+Parce que ne nous y trompons pas, 99% des PME et TPE françaises ne sont pas du tout conformes au RGPD. Absolument pas conformes.
+
+1557
+01:45:52,319 --> 01:46:20,500
+J'en discutais avec un avocat il y a quelques temps, il y a plus d'un an, un an et demi, exactement du RGPD, et qui me disait, un avocat qui travaille, non pas qui travaille, qui est membre de ce qu'on appelle la conférence des barreaux, c'est-à-dire en gros c'est l'équivalent de l'ordre des notaires mais pour les avocats,
+
+1558
+01:46:20,500 --> 01:46:31,420
+Et qui m'expliquait qu'aucun cabinet d'avocats en France n'est en règle avec le RGPD. Aucun, même les plus gros.
+
+1559
+01:46:31,420 --> 01:47:01,399
+Il me disait « Je te garantis que même les très gros cabinets, les très très très gros cabinets, les très gros cabinets sont un peu moins dans l'irrégularité, mais ils ne sont pas d'équerre avec le RGPD. Et tous les autres cabinets normaux, les petits cabinets à droite à gauche, 0% n'est conforme avec le RGPD. »
+
+1560
+01:47:01,399 --> 01:47:06,779
+plus attention que les autres les notaires le sont beaucoup plus mais parce que c'est géré
+
+1561
+01:47:06,779 --> 01:47:12,559
+par la chambre des notaires aussi beaucoup chaque notaire est responsable du traitement de ces
+
+1562
+01:47:12,559 --> 01:47:18,500
+données personnelles soyons clairs les notaires sont beaucoup plus conforme au rgp dès que les
+
+1563
+01:47:18,500 --> 01:47:26,779
+avocats les avocats c'est zéro mais la majorité des notaires ne l'est pas la majorité des notaires
+
+1564
+01:47:26,779 --> 01:47:28,639
+en France, n'est pas
+
+1565
+01:47:28,639 --> 01:47:30,800
+en règle avec le RGPD.
+
+1566
+01:47:32,019 --> 01:47:32,779
+Là encore, on pourrait se dire
+
+1567
+01:47:32,779 --> 01:47:34,699
+les notaires, quand même. Non,
+
+1568
+01:47:34,819 --> 01:47:36,519
+ils font attention, un peu attention,
+
+1569
+01:47:36,899 --> 01:47:39,159
+un peu gaffe, ils sont un peu conformes,
+
+1570
+01:47:39,460 --> 01:47:40,800
+mais ils ne le sont pas complètement.
+
+1571
+01:47:41,179 --> 01:47:42,420
+Très peu le sont.
+
+1572
+01:47:42,719 --> 01:47:43,880
+Très, très, très peu. Et c'est
+
+1573
+01:47:43,880 --> 01:47:47,219
+grâce à l'assistance, à la centralisation
+
+1574
+01:47:47,219 --> 01:47:48,800
+et à l'aide de la Chambre
+
+1575
+01:47:48,800 --> 01:47:50,439
+des notaires, bien entendu.
+
+1576
+01:47:51,639 --> 01:47:51,840
+Alors,
+
+1577
+01:47:52,699 --> 01:47:54,779
+la démarche
+
+1578
+01:47:54,779 --> 01:47:56,219
+pour être
+
+1579
+01:47:56,220 --> 01:47:58,320
+conforme au RGPD
+
+1580
+01:47:58,320 --> 01:48:00,740
+elle est complexe, elle n'est pas simple du tout
+
+1581
+01:48:00,740 --> 01:48:02,340
+elle n'est pas à votre portée
+
+1582
+01:48:02,340 --> 01:48:04,039
+elle n'est pas à la portée d'une TPE
+
+1583
+01:48:04,039 --> 01:48:05,900
+il faut comprendre les obligations
+
+1584
+01:48:05,900 --> 01:48:08,440
+les documenter dans des registres avec des mentions
+
+1585
+01:48:08,440 --> 01:48:10,619
+d'informations, sécuriser les outils
+
+1586
+01:48:10,619 --> 01:48:12,720
+répondre correctement et en temps
+
+1587
+01:48:12,720 --> 01:48:14,619
+voulu aux demandes des personnes
+
+1588
+01:48:14,619 --> 01:48:16,300
+même si la CNIL
+
+1589
+01:48:16,300 --> 01:48:18,600
+a des informations, des guides, des modèles
+
+1590
+01:48:18,600 --> 01:48:20,980
+sur son site, dans les faits
+
+1591
+01:48:20,980 --> 01:48:23,079
+ça n'est absolument pas à votre portée
+
+1592
+01:48:23,079 --> 01:48:24,680
+et à la portée d'un agent immobilier
+
+1593
+01:48:24,680 --> 01:48:25,820
+traditionnelles. Donc,
+
+1594
+01:48:27,000 --> 01:48:28,380
+si vous avez la moindre question,
+
+1595
+01:48:28,920 --> 01:48:30,880
+demandez à l'animation, bien entendu.
+
+1596
+01:48:31,579 --> 01:48:32,640
+Mais le conseil
+
+1597
+01:48:32,640 --> 01:48:34,680
+que je vous donne, c'est
+
+1598
+01:48:34,680 --> 01:48:36,220
+de ne rien conserver
+
+1599
+01:48:36,220 --> 01:48:38,619
+en termes de
+
+1600
+01:48:38,619 --> 01:48:40,920
+données personnelles concernant
+
+1601
+01:48:40,920 --> 01:48:42,600
+vos clients. Ne conservez pas les
+
+1602
+01:48:42,600 --> 01:48:44,619
+pièces d'identité, mettez-les dans Eglantine.
+
+1603
+01:48:45,340 --> 01:48:46,680
+Ne conservez pas les
+
+1604
+01:48:46,680 --> 01:48:48,600
+taxes foncières, elles ont leur place
+
+1605
+01:48:48,600 --> 01:48:50,560
+dans Eglantine. Ne conservez
+
+1606
+01:48:50,560 --> 01:48:52,000
+aucune donnée personnelle
+
+1607
+01:48:52,000 --> 01:48:54,640
+vous-même sur votre
+
+1608
+01:48:54,640 --> 01:48:57,020
+ordinateur. Mettez
+
+1609
+01:48:57,020 --> 01:48:58,840
+tout dans Eglantine.
+
+1610
+01:49:00,420 --> 01:49:01,060
+Comme ça,
+
+1611
+01:49:01,619 --> 01:49:03,039
+vous n'avez pas à vous poser de questions
+
+1612
+01:49:03,039 --> 01:49:04,420
+concernant le RGPD.
+
+1613
+01:49:06,640 --> 01:49:07,119
+Cette
+
+1614
+01:49:07,119 --> 01:49:08,740
+visioconférence est terminée.
+
+1615
+01:49:08,840 --> 01:49:10,880
+On termine avec 10 minutes
+
+1616
+01:49:10,880 --> 01:49:12,920
+d'avance. On a été plutôt
+
+1617
+01:49:12,920 --> 01:49:15,100
+dans les temps. J'ai pas mal calibré le truc.
+
+1618
+01:49:15,820 --> 01:49:17,160
+Je vous remercie à tous et à toutes
+
+1619
+01:49:17,160 --> 01:49:18,300
+d'avoir suivi cette
+
+1620
+01:49:18,300 --> 01:49:20,860
+visioconférence qui s'est tenue
+
+1621
+01:49:20,860 --> 01:49:22,760
+exceptionnellement
+
+1622
+01:49:22,760 --> 01:49:27,180
+à travers YouTube aujourd'hui
+
+1623
+01:49:27,180 --> 01:49:29,180
+pour des raisons d'agenda tout simplement
+
+1624
+01:49:29,180 --> 01:49:31,119
+parce que je suis en déplacement
+
+1625
+01:49:31,119 --> 01:49:32,619
+dans le nord de la France aujourd'hui
+
+1626
+01:49:32,619 --> 01:49:34,900
+donc j'ai enregistré cette visioconférence
+
+1627
+01:49:34,900 --> 01:49:35,880
+la veille, le 4
+
+1628
+01:49:35,880 --> 01:49:39,480
+donc elle se termine maintenant
+
+1629
+01:49:39,480 --> 01:49:40,860
+merci de l'avoir suivi
+
+1630
+01:49:40,860 --> 01:49:42,539
+bien entendu si vous avez la moindre question
+
+1631
+01:49:42,539 --> 01:49:43,380
+la moindre interrogation
+
+1632
+01:49:43,380 --> 01:49:46,340
+vous demandez animation.com
+
+1633
+01:49:46,340 --> 01:49:49,820
+on vous répondra avec beaucoup de plaisir
+
+1634
+01:49:49,820 --> 01:49:52,420
+merci à tous, merci à toutes
+
+1635
+01:49:52,420 --> 01:49:54,079
+et à très très très bientôt.
+

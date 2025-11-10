@@ -1,0 +1,186 @@
+{
+  "video_file": "Visio Alur 2025 - Urbanisme - 4 novembre 2025",
+  "video_url": "https://www.youtube.com/watch?v=cAKFNSS0tNg",
+  "title": "Urbanisme 2025 : Préparez-vous !",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-building-under-construction-with-a-crane-in-the-background-PV6p4Lbt8rA",
+          "attribution": {
+            "photographer": "Martti Salmi",
+            "profile_url": "https://unsplash.com/@marttisalmi",
+            "photo_url": "https://unsplash.com/photos/a-building-under-construction-with-a-crane-in-the-background-PV6p4Lbt8rA",
+            "unsplash_id": "PV6p4Lbt8rA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/white-concrete-building-during-daytime-AZyiK_pLAKg",
+          "attribution": {
+            "photographer": "Jongdae Park",
+            "profile_url": "https://unsplash.com/@jess_lowly_pic",
+            "photo_url": "https://unsplash.com/photos/white-concrete-building-during-daytime-AZyiK_pLAKg",
+            "unsplash_id": "AZyiK_pLAKg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/modern-high-rise-building-with-balconies-and-greenery-z72tjb_3tss",
+          "attribution": {
+            "photographer": "Aalo Lens",
+            "profile_url": "https://unsplash.com/@aalolens",
+            "photo_url": "https://unsplash.com/photos/modern-high-rise-building-with-balconies-and-greenery-z72tjb_3tss",
+            "unsplash_id": "z72tjb_3tss"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-in-a-black-suit-is-pointing-at-something-qM0qaVSAaCk",
+          "attribution": {
+            "photographer": "Klim Musalimov",
+            "profile_url": "https://unsplash.com/@klim11",
+            "photo_url": "https://unsplash.com/photos/a-person-in-a-black-suit-is-pointing-at-something-qM0qaVSAaCk",
+            "unsplash_id": "qM0qaVSAaCk"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/couple-holding-hands-while-wearing-ring-and-bangle-JagFOWXgQ40",
+          "attribution": {
+            "photographer": "Angelika Agibalova",
+            "profile_url": "https://unsplash.com/@crazyapricot",
+            "photo_url": "https://unsplash.com/photos/couple-holding-hands-while-wearing-ring-and-bangle-JagFOWXgQ40",
+            "unsplash_id": "JagFOWXgQ40"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-PYgHbupKBcc",
+          "attribution": {
+            "photographer": "Ali Imkan",
+            "profile_url": "https://unsplash.com/@imkan",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-PYgHbupKBcc",
+            "unsplash_id": "PYgHbupKBcc"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-blue-concrete-house-p_9p0byGlpE",
+          "attribution": {
+            "photographer": "Parsoa Khorsand",
+            "profile_url": "https://unsplash.com/@parsoakhorsand",
+            "photo_url": "https://unsplash.com/photos/white-and-blue-concrete-house-p_9p0byGlpE",
+            "unsplash_id": "p_9p0byGlpE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/modern-apartment-buildings-against-a-blue-sky-YUD5bTxAm9k",
+          "attribution": {
+            "photographer": "Mihai Neagu",
+            "profile_url": "https://unsplash.com/@mihaufy",
+            "photo_url": "https://unsplash.com/photos/modern-apartment-buildings-against-a-blue-sky-YUD5bTxAm9k",
+            "unsplash_id": "YUD5bTxAm9k"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/modern-building-facade-against-a-clear-blue-sky-9LOl878KKJw",
+          "attribution": {
+            "photographer": "Oleg Laptev",
+            "profile_url": "https://unsplash.com/@snowshade",
+            "photo_url": "https://unsplash.com/photos/modern-building-facade-against-a-clear-blue-sky-9LOl878KKJw",
+            "unsplash_id": "9LOl878KKJw"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/persons-hand-XcN-m2vvcDs",
+          "attribution": {
+            "photographer": "Ricardo Moura",
+            "profile_url": "https://unsplash.com/@ricardomoura",
+            "photo_url": "https://unsplash.com/photos/persons-hand-XcN-m2vvcDs",
+            "unsplash_id": "XcN-m2vvcDs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-cigarette-stick-eXX2tMFs1sQ",
+          "attribution": {
+            "photographer": "Erik Mclean",
+            "profile_url": "https://unsplash.com/@introspectivedsgn",
+            "photo_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-cigarette-stick-eXX2tMFs1sQ",
+            "unsplash_id": "eXX2tMFs1sQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-are-shaking-hands-Pfs5Xf0kiG8",
+          "attribution": {
+            "photographer": "dlxmedia.hu",
+            "profile_url": "https://unsplash.com/@dlxmedia",
+            "photo_url": "https://unsplash.com/photos/two-people-are-shaking-hands-Pfs5Xf0kiG8",
+            "unsplash_id": "Pfs5Xf0kiG8"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

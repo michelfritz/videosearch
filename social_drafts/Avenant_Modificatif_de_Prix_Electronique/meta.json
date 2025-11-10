@@ -1,0 +1,166 @@
+{
+  "video_file": "Avenant Modificatif de Prix Electronique",
+  "video_url": "https://www.youtube.com/watch?v=yx8IPqHpPGI",
+  "title": "Avenant Modificatif De Prix Electronique",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-holding-white-heart-shaped-paper-kVFm9KGrusc",
+          "attribution": {
+            "photographer": "Branimir Balogović",
+            "profile_url": "https://unsplash.com/@brandaohh",
+            "photo_url": "https://unsplash.com/photos/person-holding-white-heart-shaped-paper-kVFm9KGrusc",
+            "unsplash_id": "kVFm9KGrusc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-holding-a-watch-ZSTlT2PKEns",
+          "attribution": {
+            "photographer": "Ethan Padoa",
+            "profile_url": "https://unsplash.com/@shorts22",
+            "photo_url": "https://unsplash.com/photos/a-person-holding-a-watch-ZSTlT2PKEns",
+            "unsplash_id": "ZSTlT2PKEns"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/grayscale-photo-of-person-holding-babys-hand-s3xlC5_Ws78",
+          "attribution": {
+            "photographer": "Priscilla Trujillo",
+            "profile_url": "https://unsplash.com/@trusilly",
+            "photo_url": "https://unsplash.com/photos/grayscale-photo-of-person-holding-babys-hand-s3xlC5_Ws78",
+            "unsplash_id": "s3xlC5_Ws78"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-desk-5ywnGzKV-zk",
+          "attribution": {
+            "photographer": "Anish Mehta",
+            "profile_url": "https://unsplash.com/@findanish",
+            "photo_url": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-desk-5ywnGzKV-zk",
+            "unsplash_id": "5ywnGzKV-zk"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-table-UV2-rFyRZLI",
+          "attribution": {
+            "photographer": "laura adai",
+            "profile_url": "https://unsplash.com/@lauraadaiphoto",
+            "photo_url": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-table-UV2-rFyRZLI",
+            "unsplash_id": "UV2-rFyRZLI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/laptop-fruit-and-passport-beside-a-pool-sC818vbmU8s",
+          "attribution": {
+            "photographer": "My Spain Visa",
+            "profile_url": "https://unsplash.com/@myspainvisa",
+            "photo_url": "https://unsplash.com/photos/laptop-fruit-and-passport-beside-a-pool-sC818vbmU8s",
+            "unsplash_id": "sC818vbmU8s"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-NzIV4vOBA7s",
+          "attribution": {
+            "photographer": "Rock Staar",
+            "profile_url": "https://unsplash.com/@rockstaar_",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-over-a-wooden-table-NzIV4vOBA7s",
+            "unsplash_id": "NzIV4vOBA7s"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-YQgCkDUst2o",
+          "attribution": {
+            "photographer": "Lucas T Photography",
+            "profile_url": "https://unsplash.com/@lucastphotography",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-YQgCkDUst2o",
+            "unsplash_id": "YQgCkDUst2o"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-person-handshaking-vWchRczcQwM",
+          "attribution": {
+            "photographer": "Cytonn Photography",
+            "profile_url": "https://unsplash.com/@cytonn_photography",
+            "photo_url": "https://unsplash.com/photos/two-person-handshaking-vWchRczcQwM",
+            "unsplash_id": "vWchRczcQwM"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-table-uv-DCUqJADE",
+          "attribution": {
+            "photographer": "Sortter",
+            "profile_url": "https://unsplash.com/@sortter",
+            "photo_url": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-table-uv-DCUqJADE",
+            "unsplash_id": "uv-DCUqJADE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/three-people-in-a-meeting-at-a-table-discussing-schedule-on-their-microsoft-laptop-FUGfBZDQOwI",
+          "attribution": {
+            "photographer": "Windows",
+            "profile_url": "https://unsplash.com/@windows",
+            "photo_url": "https://unsplash.com/photos/three-people-in-a-meeting-at-a-table-discussing-schedule-on-their-microsoft-laptop-FUGfBZDQOwI",
+            "unsplash_id": "FUGfBZDQOwI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-using-a-laptop-on-a-wooden-table-eU0_WaYSaOA",
+          "attribution": {
+            "photographer": "Sortter",
+            "profile_url": "https://unsplash.com/@sortter",
+            "photo_url": "https://unsplash.com/photos/a-person-using-a-laptop-on-a-wooden-table-eU0_WaYSaOA",
+            "unsplash_id": "eU0_WaYSaOA"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

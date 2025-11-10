@@ -1,0 +1,166 @@
+{
+  "video_file": "Loi Alur 2024 - Tracfin - 28 novembre 2024",
+  "video_url": "https://www.youtube.com/watch?v=-kxuSErYAn8",
+  "title": "Loi Alur 2024 Tracfin 28 Novembre 2024",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-pKXEaGHFRmY",
+          "attribution": {
+            "photographer": "Peter Le",
+            "profile_url": "https://unsplash.com/@peter_le",
+            "photo_url": "https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-pKXEaGHFRmY",
+            "unsplash_id": "pKXEaGHFRmY"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/architectural-photography-of-gray-and-yellow-building-YsEOuVd7afg",
+          "attribution": {
+            "photographer": "Simone Hutsch",
+            "profile_url": "https://unsplash.com/@heysupersimi",
+            "photo_url": "https://unsplash.com/photos/architectural-photography-of-gray-and-yellow-building-YsEOuVd7afg",
+            "unsplash_id": "YsEOuVd7afg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-tall-buildings-next-to-each-other-under-a-cloudy-blue-sky-HdkSYIYpkrA",
+          "attribution": {
+            "photographer": "Frederic Chappat",
+            "profile_url": "https://unsplash.com/@redboot",
+            "photo_url": "https://unsplash.com/photos/two-tall-buildings-next-to-each-other-under-a-cloudy-blue-sky-HdkSYIYpkrA",
+            "unsplash_id": "HdkSYIYpkrA"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/macbook-pro-beside-white-ceramic-bowl-with-bread-GF6vc-NMWRQ",
+          "attribution": {
+            "photographer": "Arno Senoner",
+            "profile_url": "https://unsplash.com/@arnosenoner",
+            "photo_url": "https://unsplash.com/photos/macbook-pro-beside-white-ceramic-bowl-with-bread-GF6vc-NMWRQ",
+            "unsplash_id": "GF6vc-NMWRQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/macbook-pro-beside-white-ceramic-bowl-with-bread-GF6vc-NMWRQ",
+          "attribution": {
+            "photographer": "Arno Senoner",
+            "profile_url": "https://unsplash.com/@arnosenoner",
+            "photo_url": "https://unsplash.com/photos/macbook-pro-beside-white-ceramic-bowl-with-bread-GF6vc-NMWRQ",
+            "unsplash_id": "GF6vc-NMWRQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk-erEgE0DfVoI",
+          "attribution": {
+            "photographer": "The Quiet Marketer",
+            "profile_url": "https://unsplash.com/@thequietmarketer",
+            "photo_url": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk-erEgE0DfVoI",
+            "unsplash_id": "erEgE0DfVoI"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/9tmKEDz03uw",
+          "attribution": {
+            "photographer": "Amsterdam City Archives",
+            "profile_url": "https://unsplash.com/@amsterdamcityarchives",
+            "photo_url": "https://unsplash.com/photos/9tmKEDz03uw",
+            "unsplash_id": "9tmKEDz03uw"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-FSSOBzqECIc",
+          "attribution": {
+            "photographer": "Auro Realty",
+            "profile_url": "https://unsplash.com/@aurorealty",
+            "photo_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-FSSOBzqECIc",
+            "unsplash_id": "FSSOBzqECIc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-T2JK2h4rTdc",
+          "attribution": {
+            "photographer": "Ricardo Gomez Angel",
+            "profile_url": "https://unsplash.com/@rgaleriacom",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-T2JK2h4rTdc",
+            "unsplash_id": "T2JK2h4rTdc"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/three-persons-facing-on-desk-near-projection-screen-Ce8AdKASBOE",
+          "attribution": {
+            "photographer": "marianne stok",
+            "profile_url": "https://unsplash.com/@stok",
+            "photo_url": "https://unsplash.com/photos/three-persons-facing-on-desk-near-projection-screen-Ce8AdKASBOE",
+            "unsplash_id": "Ce8AdKASBOE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/three-persons-facing-on-desk-near-projection-screen-Ce8AdKASBOE",
+          "attribution": {
+            "photographer": "marianne stok",
+            "profile_url": "https://unsplash.com/@stok",
+            "photo_url": "https://unsplash.com/photos/three-persons-facing-on-desk-near-projection-screen-Ce8AdKASBOE",
+            "unsplash_id": "Ce8AdKASBOE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-typing-on-a-laptop-on-a-table-w-XSkcoZN2o",
+          "attribution": {
+            "photographer": "Sortter",
+            "profile_url": "https://unsplash.com/@sortter",
+            "photo_url": "https://unsplash.com/photos/a-person-typing-on-a-laptop-on-a-table-w-XSkcoZN2o",
+            "unsplash_id": "w-XSkcoZN2o"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

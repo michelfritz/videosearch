@@ -5,3 +5,13 @@ Dropbox (Personal)/**
 venv*/
 __pycache__/
 *.pyc
+# secrets
+.env
+token.json
+
+# caches/données locales fréquentes
+*.pkl
+*.db
+__pycache__/
+.streamlit/
+

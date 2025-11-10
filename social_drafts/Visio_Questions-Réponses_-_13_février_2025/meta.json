@@ -1,0 +1,186 @@
+{
+  "video_file": "Visio Questions-Réponses - 13 février 2025",
+  "video_url": "https://youtu.be/OzKDyjLujb8",
+  "title": "Augmentation des frais de notaire !",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/grayscale-photo-of-person-holding-babys-hand-s3xlC5_Ws78",
+          "attribution": {
+            "photographer": "Priscilla Trujillo",
+            "profile_url": "https://unsplash.com/@trusilly",
+            "photo_url": "https://unsplash.com/photos/grayscale-photo-of-person-holding-babys-hand-s3xlC5_Ws78",
+            "unsplash_id": "s3xlC5_Ws78"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA",
+          "attribution": {
+            "photographer": "Austin Kehmeier",
+            "profile_url": "https://unsplash.com/@a_kehmeier",
+            "photo_url": "https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA",
+            "unsplash_id": "lyiKExA4zQA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/people-holding-hands-vM4-o55wE3E",
+          "attribution": {
+            "photographer": "Oliver Cole",
+            "profile_url": "https://unsplash.com/@oliver_photographer",
+            "photo_url": "https://unsplash.com/photos/people-holding-hands-vM4-o55wE3E",
+            "unsplash_id": "vM4-o55wE3E"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-two-story-building-QSXDXnYE8WQ",
+          "attribution": {
+            "photographer": "Naksha Banwao",
+            "profile_url": "https://unsplash.com/@nakshabanwao",
+            "photo_url": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-two-story-building-QSXDXnYE8WQ",
+            "unsplash_id": "QSXDXnYE8WQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-brown-high-rise-building-ug8Ox9QCYoE",
+          "attribution": {
+            "photographer": "Danist Soh",
+            "profile_url": "https://unsplash.com/@danist07",
+            "photo_url": "https://unsplash.com/photos/white-and-brown-high-rise-building-ug8Ox9QCYoE",
+            "unsplash_id": "ug8Ox9QCYoE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-sitting-next-to-a-street-light-Axj0AnVOIuE",
+          "attribution": {
+            "photographer": "Dastan Eraliev",
+            "profile_url": "https://unsplash.com/@eralievd",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-sitting-next-to-a-street-light-Axj0AnVOIuE",
+            "unsplash_id": "Axj0AnVOIuE"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/two-men-facing-each-other-while-shake-hands-and-smiling-NbtIDoFKGO8",
+          "attribution": {
+            "photographer": "Sebastian Herrmann",
+            "profile_url": "https://unsplash.com/@officestock",
+            "photo_url": "https://unsplash.com/photos/two-men-facing-each-other-while-shake-hands-and-smiling-NbtIDoFKGO8",
+            "unsplash_id": "NbtIDoFKGO8"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-XjJvy2G638M",
+          "attribution": {
+            "photographer": "Zachary Delorenzo",
+            "profile_url": "https://unsplash.com/@zdelo",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-XjJvy2G638M",
+            "unsplash_id": "XjJvy2G638M"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-babys-hand-uJvkBbQJ2jc",
+          "attribution": {
+            "photographer": "Viktor Mogilat",
+            "profile_url": "https://unsplash.com/@mogilat",
+            "photo_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-babys-hand-uJvkBbQJ2jc",
+            "unsplash_id": "uJvkBbQJ2jc"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-building-81gqUQnDLxk",
+          "attribution": {
+            "photographer": "WILLIAN REIS",
+            "profile_url": "https://unsplash.com/@wriopomba",
+            "photo_url": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-building-81gqUQnDLxk",
+            "unsplash_id": "81gqUQnDLxk"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/modern-apartment-buildings-against-a-blue-sky-mrgxjDabqGE",
+          "attribution": {
+            "photographer": "Bildstockru Master",
+            "profile_url": "https://unsplash.com/@bildstockru",
+            "photo_url": "https://unsplash.com/photos/modern-apartment-buildings-against-a-blue-sky-mrgxjDabqGE",
+            "unsplash_id": "mrgxjDabqGE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-T6bN5HJf6bI",
+          "attribution": {
+            "photographer": "Auro Realty",
+            "profile_url": "https://unsplash.com/@aurorealty",
+            "photo_url": "https://unsplash.com/photos/an-aerial-view-of-a-large-building-under-construction-T6bN5HJf6bI",
+            "unsplash_id": "T6bN5HJf6bI"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

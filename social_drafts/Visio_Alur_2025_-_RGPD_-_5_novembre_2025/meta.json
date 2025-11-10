@@ -1,0 +1,186 @@
+{
+  "video_file": "Visio Alur 2025 - RGPD - 5 novembre 2025",
+  "video_url": "https://www.youtube.com/watch?v=ur95odjelOA",
+  "title": "Préparez-vous au RGPD 2025 !",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-the-hand-of-another-person-I93zwBiXCx8",
+          "attribution": {
+            "photographer": "Angel Renville",
+            "profile_url": "https://unsplash.com/@angelrenville19",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-the-hand-of-another-person-I93zwBiXCx8",
+            "unsplash_id": "I93zwBiXCx8"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-wearing-a-suit-and-tie-O6rU5z1FTec",
+          "attribution": {
+            "photographer": "Filipp Romanovski",
+            "profile_url": "https://unsplash.com/@filipp_roman_photography",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-wearing-a-suit-and-tie-O6rU5z1FTec",
+            "unsplash_id": "O6rU5z1FTec"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/person-in-white-long-sleeve-shirt-8FDD8CDV-jw",
+          "attribution": {
+            "photographer": "Sean Nyatsine",
+            "profile_url": "https://unsplash.com/@seannyyyee",
+            "photo_url": "https://unsplash.com/photos/person-in-white-long-sleeve-shirt-8FDD8CDV-jw",
+            "unsplash_id": "8FDD8CDV-jw"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/construction-of-a-tall-building-with-a-crane-G0mpxq3G-50",
+          "attribution": {
+            "photographer": "Lahiru Welahetti",
+            "profile_url": "https://unsplash.com/@lahirur96",
+            "photo_url": "https://unsplash.com/photos/construction-of-a-tall-building-with-a-crane-G0mpxq3G-50",
+            "unsplash_id": "G0mpxq3G-50"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/modern-yellow-building-against-a-blue-sky-8W2_c8XSggE",
+          "attribution": {
+            "photographer": "Bildstockru Master",
+            "profile_url": "https://unsplash.com/@bildstockru",
+            "photo_url": "https://unsplash.com/photos/modern-yellow-building-against-a-blue-sky-8W2_c8XSggE",
+            "unsplash_id": "8W2_c8XSggE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-brown-high-rise-building-ug8Ox9QCYoE",
+          "attribution": {
+            "photographer": "Danist Soh",
+            "profile_url": "https://unsplash.com/@danist07",
+            "photo_url": "https://unsplash.com/photos/white-and-brown-high-rise-building-ug8Ox9QCYoE",
+            "unsplash_id": "ug8Ox9QCYoE"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-vXTBjSDa77E",
+          "attribution": {
+            "photographer": "Võ Mạnh Đức",
+            "profile_url": "https://unsplash.com/@baikathichchupanh",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-vXTBjSDa77E",
+            "unsplash_id": "vXTBjSDa77E"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-YQgCkDUst2o",
+          "attribution": {
+            "photographer": "Lucas T Photography",
+            "profile_url": "https://unsplash.com/@lucastphotography",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-YQgCkDUst2o",
+            "unsplash_id": "YQgCkDUst2o"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-a-persons-hand-ZYrbtOGXEos",
+          "attribution": {
+            "photographer": "Gerald Berliner",
+            "profile_url": "https://unsplash.com/@geraberl",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-holding-a-persons-hand-ZYrbtOGXEos",
+            "unsplash_id": "ZYrbtOGXEos"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-crane-that-is-on-top-of-a-building-7B5UEn4alLU",
+          "attribution": {
+            "photographer": "DANIEL HAY",
+            "profile_url": "https://unsplash.com/@hayglobal",
+            "photo_url": "https://unsplash.com/photos/a-crane-that-is-on-top-of-a-building-7B5UEn4alLU",
+            "unsplash_id": "7B5UEn4alLU"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-ov0Wx9gUV-w",
+          "attribution": {
+            "photographer": "Grant Ritchie",
+            "profile_url": "https://unsplash.com/@grantritchie",
+            "photo_url": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-ov0Wx9gUV-w",
+            "unsplash_id": "ov0Wx9gUV-w"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/brown-concrete-building-under-blue-and-white-sky-at-daytime-PF0xVZyi2iE",
+          "attribution": {
+            "photographer": "Mohad3 Ns",
+            "profile_url": "https://unsplash.com/@mohad3_ns",
+            "photo_url": "https://unsplash.com/photos/brown-concrete-building-under-blue-and-white-sky-at-daytime-PF0xVZyi2iE",
+            "unsplash_id": "PF0xVZyi2iE"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

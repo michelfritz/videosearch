@@ -1,0 +1,166 @@
+{
+  "video_file": "Loi Alur 2024 - Non Discrimination - 19 décembre 2024",
+  "video_url": "https://www.youtube.com/watch?v=lTaNycVFcFQ",
+  "title": "Loi Alur 2024 Non Discrimination 19 Décembre 2024",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-room-with-a-mirror-and-a-couch-dvLez45YY1E",
+          "attribution": {
+            "photographer": "Michael Alake",
+            "profile_url": "https://unsplash.com/@mikeberyl",
+            "photo_url": "https://unsplash.com/photos/a-room-with-a-mirror-and-a-couch-dvLez45YY1E",
+            "unsplash_id": "dvLez45YY1E"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-pink-round-table-beside-white-wall-Hggo81-zgxE",
+          "attribution": {
+            "photographer": "Andrea Davis",
+            "profile_url": "https://unsplash.com/@andreaedavis",
+            "photo_url": "https://unsplash.com/photos/white-and-pink-round-table-beside-white-wall-Hggo81-zgxE",
+            "unsplash_id": "Hggo81-zgxE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-sitting-at-a-table-p68x2X8X57g",
+          "attribution": {
+            "photographer": "Anh Minh Truong",
+            "profile_url": "https://unsplash.com/@wallpaperenthusiast",
+            "photo_url": "https://unsplash.com/photos/a-person-sitting-at-a-table-p68x2X8X57g",
+            "unsplash_id": "p68x2X8X57g"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-black-fountain-pen-ready-to-write-lPAZ2mSA7zI",
+          "attribution": {
+            "photographer": "Tony Chen",
+            "profile_url": "https://unsplash.com/@tony1218",
+            "photo_url": "https://unsplash.com/photos/a-black-fountain-pen-ready-to-write-lPAZ2mSA7zI",
+            "unsplash_id": "lPAZ2mSA7zI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-woman-writing-on-a-piece-of-paper-5KZt_ZnNTcI",
+          "attribution": {
+            "photographer": "kaffie.co",
+            "profile_url": "https://unsplash.com/@kaffie",
+            "photo_url": "https://unsplash.com/photos/a-woman-writing-on-a-piece-of-paper-5KZt_ZnNTcI",
+            "unsplash_id": "5KZt_ZnNTcI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-cozy-restaurant-table-with-a-lamp-is-shown-SmiyvvecnhA",
+          "attribution": {
+            "photographer": "tommao wang",
+            "profile_url": "https://unsplash.com/@tommaomaoer",
+            "photo_url": "https://unsplash.com/photos/a-cozy-restaurant-table-with-a-lamp-is-shown-SmiyvvecnhA",
+            "unsplash_id": "SmiyvvecnhA"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-dining-room-with-a-table-and-chairs-NCBt_DWPx7w",
+          "attribution": {
+            "photographer": "Lisa Anna",
+            "profile_url": "https://unsplash.com/@lisaanna195",
+            "photo_url": "https://unsplash.com/photos/a-dining-room-with-a-table-and-chairs-NCBt_DWPx7w",
+            "unsplash_id": "NCBt_DWPx7w"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/an-empty-modern-office-with-a-desk-and-window-K9DZz7B8sCU",
+          "attribution": {
+            "photographer": "Deliberate Directions",
+            "profile_url": "https://unsplash.com/@deliberatedirections",
+            "photo_url": "https://unsplash.com/photos/an-empty-modern-office-with-a-desk-and-window-K9DZz7B8sCU",
+            "unsplash_id": "K9DZz7B8sCU"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-dining-room-table-naN87t3mmoM",
+          "attribution": {
+            "photographer": "Alex Tyson",
+            "profile_url": "https://unsplash.com/@alextyson195",
+            "photo_url": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-dining-room-table-naN87t3mmoM",
+            "unsplash_id": "naN87t3mmoM"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/stack-of-books-on-table-snNHKZ-mGfE",
+          "attribution": {
+            "photographer": "Wesley Tingey",
+            "profile_url": "https://unsplash.com/@wesleyphotography",
+            "photo_url": "https://unsplash.com/photos/stack-of-books-on-table-snNHKZ-mGfE",
+            "unsplash_id": "snNHKZ-mGfE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-text-on-a-white-surface-vLBjkT-TsO8",
+          "attribution": {
+            "photographer": "Brett Jordan",
+            "profile_url": "https://unsplash.com/@brett_jordan",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-text-on-a-white-surface-vLBjkT-TsO8",
+            "unsplash_id": "vLBjkT-TsO8"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-writing-on-a-notebook-with-a-laptop-in-the-background-0KT9gxj_BdM",
+          "attribution": {
+            "photographer": "Светлана Химочка",
+            "profile_url": "https://unsplash.com/@oraswet",
+            "photo_url": "https://unsplash.com/photos/a-person-writing-on-a-notebook-with-a-laptop-in-the-background-0KT9gxj_BdM",
+            "unsplash_id": "0KT9gxj_BdM"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

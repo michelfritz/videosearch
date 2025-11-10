@@ -1,0 +1,171 @@
+{
+  "video_file": "Récupérer de la Place dans la Boîte Mail en Urgence",
+  "video_url": "https://www.youtube.com/watch?v=UXqtVi-_l1k",
+  "title": "Débarrassez-vous de l'encombrement !",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-man-is-adjusting-his-cufflink-gKPXsVnfCsw",
+          "attribution": {
+            "photographer": "Pablo Lancaster Jones",
+            "profile_url": "https://unsplash.com/@fotolancaster",
+            "photo_url": "https://unsplash.com/photos/a-man-is-adjusting-his-cufflink-gKPXsVnfCsw",
+            "unsplash_id": "gKPXsVnfCsw"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-holding-a-watch-ZSTlT2PKEns",
+          "attribution": {
+            "photographer": "Ethan Padoa",
+            "profile_url": "https://unsplash.com/@shorts22",
+            "photo_url": "https://unsplash.com/photos/a-person-holding-a-watch-ZSTlT2PKEns",
+            "unsplash_id": "ZSTlT2PKEns"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-in-a-black-suit-is-pointing-at-something-qM0qaVSAaCk",
+          "attribution": {
+            "photographer": "Klim Musalimov",
+            "profile_url": "https://unsplash.com/@klim11",
+            "photo_url": "https://unsplash.com/photos/a-person-in-a-black-suit-is-pointing-at-something-qM0qaVSAaCk",
+            "unsplash_id": "qM0qaVSAaCk"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/modern-white-high-rise-buildings-against-a-clear-sky-r475UhDdLMQ",
+          "attribution": {
+            "photographer": "Haberdoedas",
+            "profile_url": "https://unsplash.com/@haberdoedas",
+            "photo_url": "https://unsplash.com/photos/modern-white-high-rise-buildings-against-a-clear-sky-r475UhDdLMQ",
+            "unsplash_id": "r475UhDdLMQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-two-story-building-QSXDXnYE8WQ",
+          "attribution": {
+            "photographer": "Naksha Banwao",
+            "profile_url": "https://unsplash.com/@nakshabanwao",
+            "photo_url": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-two-story-building-QSXDXnYE8WQ",
+            "unsplash_id": "QSXDXnYE8WQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/modern-white-high-rise-buildings-against-a-clear-sky-r475UhDdLMQ",
+          "attribution": {
+            "photographer": "Haberdoedas",
+            "profile_url": "https://unsplash.com/@haberdoedas",
+            "photo_url": "https://unsplash.com/photos/modern-white-high-rise-buildings-against-a-clear-sky-r475UhDdLMQ",
+            "unsplash_id": "r475UhDdLMQ"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-gold-round-analog-watch-xw4pDqavzAs",
+          "attribution": {
+            "photographer": "Alexis Fauvet",
+            "profile_url": "https://unsplash.com/@childeye",
+            "photo_url": "https://unsplash.com/photos/person-wearing-gold-round-analog-watch-xw4pDqavzAs",
+            "unsplash_id": "xw4pDqavzAs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/human-hands-close-up-photography-chyT9XPAdcg",
+          "attribution": {
+            "photographer": "Van Tay Media",
+            "profile_url": "https://unsplash.com/@vantaymedia",
+            "photo_url": "https://unsplash.com/photos/human-hands-close-up-photography-chyT9XPAdcg",
+            "unsplash_id": "chyT9XPAdcg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-person-handshaking-vWchRczcQwM",
+          "attribution": {
+            "photographer": "Cytonn Photography",
+            "profile_url": "https://unsplash.com/@cytonn_photography",
+            "photo_url": "https://unsplash.com/photos/two-person-handshaking-vWchRczcQwM",
+            "unsplash_id": "vWchRczcQwM"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-crane-that-is-on-top-of-a-building-7B5UEn4alLU",
+          "attribution": {
+            "photographer": "DANIEL HAY",
+            "profile_url": "https://unsplash.com/@hayglobal",
+            "photo_url": "https://unsplash.com/photos/a-crane-that-is-on-top-of-a-building-7B5UEn4alLU",
+            "unsplash_id": "7B5UEn4alLU"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/brown-concrete-building-under-blue-and-white-sky-at-daytime-PF0xVZyi2iE",
+          "attribution": {
+            "photographer": "Mohad3 Ns",
+            "profile_url": "https://unsplash.com/@mohad3_ns",
+            "photo_url": "https://unsplash.com/photos/brown-concrete-building-under-blue-and-white-sky-at-daytime-PF0xVZyi2iE",
+            "unsplash_id": "PF0xVZyi2iE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/white-and-blue-concrete-house-p_9p0byGlpE",
+          "attribution": {
+            "photographer": "Parsoa Khorsand",
+            "profile_url": "https://unsplash.com/@parsoakhorsand",
+            "photo_url": "https://unsplash.com/photos/white-and-blue-concrete-house-p_9p0byGlpE",
+            "unsplash_id": "p_9p0byGlpE"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

@@ -1,0 +1,1004 @@
+1
+00:00:00,000 --> 00:00:06,120
+Comment établir et envoyer un avenant modificatif de prix par voie électronique ?
+
+2
+00:00:06,120 --> 00:00:16,000
+C'est extrêmement simple. Vous allez voir que la procédure est incroyablement simplifiée par rapport aux avenants que nous effectuons aujourd'hui manuellement.
+
+3
+00:00:17,039 --> 00:00:22,440
+Alors, cet avenant électronique, il va vous apporter énormément de bénéfices.
+
+4
+00:00:22,440 --> 00:00:29,140
+trois principaux. Premièrement, la simplicité. Deuxièmement, la rapidité. Troisièmement,
+
+5
+00:00:29,260 --> 00:00:34,539
+la fiabilité. Premièrement, la simplicité. Comme vous allez voir, en quelques clics de
+
+6
+00:00:34,539 --> 00:00:42,780
+souris, votre avenant sera généré, envoyé, signé, validé. Très grande simplicité.
+
+7
+00:00:43,820 --> 00:00:50,500
+Deuxièmement, rapidité. Cela vous permettra d'effectuer une baisse de prix en quelques
+
+8
+00:00:50,500 --> 00:00:57,359
+minutes. Troisièmement, fiabilité, cela vous permettra de faire vos avenants sans
+
+9
+00:00:57,359 --> 00:01:03,799
+aucune erreur invalidante. Fini les ratures, fini les avenants qui n'arrivent jamais
+
+10
+00:01:03,799 --> 00:01:08,079
+sous leur forme originale, le client ne vous le renvoie pas, il vous envoie un scan, il
+
+11
+00:01:08,079 --> 00:01:12,500
+vous envoie un autre document que vous devez ensuite nous transférer par la poste sous
+
+12
+00:01:12,500 --> 00:01:17,299
+sa forme originale, tout ça c'est fini. Vous allez voir qu'en quelques minutes, vous
+
+13
+00:01:17,299 --> 00:01:19,299
+pouvez valider votre baisse de prix, soit en
+
+14
+00:01:19,299 --> 00:01:20,840
+étant chez le client face à lui,
+
+15
+00:01:21,319 --> 00:01:23,239
+soit en étant chez vous avec un client qui
+
+16
+00:01:23,239 --> 00:01:25,299
+se trouve distant, de loin, même
+
+17
+00:01:25,299 --> 00:01:27,120
+à des milliers de kilomètres, et qui pourra
+
+18
+00:01:27,120 --> 00:01:29,239
+valider votre baisse de prix en quelques
+
+19
+00:01:29,239 --> 00:01:30,879
+minutes. C'est vraiment
+
+20
+00:01:30,879 --> 00:01:33,120
+que les avantages, et surtout
+
+21
+00:01:33,120 --> 00:01:35,019
+c'est très
+
+22
+00:01:35,019 --> 00:01:36,439
+très très facile.
+
+23
+00:01:37,039 --> 00:01:38,620
+Comment je fais ? C'est très simple.
+
+24
+00:01:39,379 --> 00:01:40,679
+Je vais en page 2, clique,
+
+25
+00:01:41,459 --> 00:01:43,259
+et je clique sur « Modif de
+
+26
+00:01:43,259 --> 00:01:45,259
+prix ». Ça, vous connaissez, c'est comme ça
+
+27
+00:01:45,259 --> 00:01:47,179
+que ça se passe aujourd'hui. Ça ne change pas.
+
+28
+00:01:47,299 --> 00:01:55,700
+Ce qui va changer par contre, c'est que quand j'aurai validé ma modification de prix, ce que nous allons faire tout seul, tout sera quasiment terminé.
+
+29
+00:01:56,019 --> 00:02:03,819
+Regardez, je baisse mon prix par exemple de 350 000 net vendeurs, imaginons que je baisse à 330 000 net vendeurs.
+
+30
+00:02:04,439 --> 00:02:12,479
+Comme d'habitude, Eglantine va chercher ma tarification personnelle dans ma grille personnelle et ensuite calcule le FAI.
+
+31
+00:02:12,479 --> 00:02:19,599
+Donc, vous voyez, mes 330 000 euros net vendeur plus les 8 000 euros de ma grille personnelle donnent 338 000 euros FAI.
+
+32
+00:02:19,879 --> 00:02:21,359
+Ça, c'est très simple. Ce n'est pas compliqué.
+
+33
+00:02:22,159 --> 00:02:26,339
+Je valide. Jusqu'à présent, tout s'est passé de la même manière. C'est maintenant que ça change.
+
+34
+00:02:26,780 --> 00:02:30,079
+Alors, quand je dis maintenant, c'est à partir du 1er novembre 2025.
+
+35
+00:02:30,659 --> 00:02:38,359
+1er novembre 2025, ce système sera mis en place chez tous les conseillers dans toutes les églantines.
+
+36
+00:02:38,360 --> 00:02:47,360
+La raison pour laquelle nous vous mettons cette petite vidéo maintenant, c'est pour que vous puissiez regarder comment ça fonctionne et vous y habituer et surtout ne pas être surpris au 1er novembre 2025.
+
+37
+00:02:47,620 --> 00:02:58,580
+Mais vous y aurez tous droit, jusqu'à présent c'est un système qui n'était utilisé que par les agents testeurs, vous y aurez tous droit à partir du 1er novembre 2025 sans exception.
+
+38
+00:02:59,560 --> 00:03:01,440
+Alors, qu'est-ce qui change à partir de maintenant ?
+
+39
+00:03:01,440 --> 00:03:07,980
+Vous avez un petit message de confirmation ici que je vais vous montrer en plus gros, là je zoome, qui vous dit trois choses.
+
+40
+00:03:08,360 --> 00:03:15,280
+Premièrement, l'avenant a bien été fabriqué, généré et envoyé pour signature électronique au client et à vous-même.
+
+41
+00:03:16,720 --> 00:03:25,020
+Deuxièmement, une fois que tout le monde l'aura signé, y compris vous, tout sera validé tout seul, tout sera mis dans Eglantine, vous n'aurez rien à faire.
+
+42
+00:03:25,580 --> 00:03:33,860
+Troisièmement, vous pouvez suivre la progression de tout ce processus de signature directement depuis votre Eglantine sans avoir besoin de demander à l'animation
+
+43
+00:03:33,860 --> 00:03:36,300
+Est-ce que quelqu'un a signé ? Est-ce que personne n'a signé ?
+
+44
+00:03:36,300 --> 00:03:38,520
+Surtout lorsque vous avez plusieurs signataires.
+
+45
+00:03:39,060 --> 00:03:42,520
+Alors, comment cela fonctionne-t-il ?
+
+46
+00:03:42,520 --> 00:03:43,800
+C'est extrêmement simple.
+
+47
+00:03:43,920 --> 00:03:48,340
+Maintenant que mon envoi a été fait, parce que là, j'ai cliqué, ça y est, c'est fait, c'est envoyé.
+
+48
+00:03:48,700 --> 00:03:52,880
+Pas besoin d'imprimer, pas besoin d'aller chez le client lui faire signer.
+
+49
+00:03:53,200 --> 00:03:55,080
+Non, ça lui a directement été envoyé.
+
+50
+00:03:55,240 --> 00:04:00,640
+Alors, je peux faire ça de chez moi, je peux faire ça de chez le client sur mon téléphone, sur ma tablette.
+
+51
+00:04:00,640 --> 00:04:02,900
+Bien entendu, et là, le client va le faire sous mes yeux.
+
+52
+00:04:03,860 --> 00:04:09,060
+Ensuite, une fois que j'ai fait ça, imaginons que je sois le client.
+
+53
+00:04:09,440 --> 00:04:11,080
+Je suis M. Philippe Dumas.
+
+54
+00:04:11,200 --> 00:04:16,720
+Là, on n'a mis qu'un seul client pour plus de commodité, mais on peut faire ça jusqu'à 8 clients.
+
+55
+00:04:16,900 --> 00:04:18,060
+Je vais vous montrer ça dans un instant.
+
+56
+00:04:18,639 --> 00:04:22,939
+Je suis le client, donc je vais sur ma boîte mail, ma boîte mail philippe.dumas.
+
+57
+00:04:23,639 --> 00:04:28,300
+La voici, cette boîte mail, puisqu'il s'agit bien entendu d'un mandat et d'un client de test, c'est évident.
+
+58
+00:04:28,300 --> 00:04:34,699
+Donc, voici la boîte mail et voyez que ce monsieur a reçu automatiquement un petit message.
+
+59
+00:04:34,819 --> 00:04:36,199
+Merci de signer ce document.
+
+60
+00:04:37,000 --> 00:04:42,340
+Ce petit message, soit il le reçoit directement dans sa boîte de réception, comme ici,
+
+61
+00:04:42,980 --> 00:04:46,280
+soit, et ça arrive également souvent, il arrive dans les spams.
+
+62
+00:04:46,600 --> 00:04:48,660
+Donc, dites bien à votre client d'aller vérifier dans les spams.
+
+63
+00:04:49,019 --> 00:04:51,519
+Alors, ça s'appelle soit spam, soit courrier indésirable.
+
+64
+00:04:52,259 --> 00:04:57,240
+Donc, qu'il aille regarder dans les spams, soit, et ça c'est très courant,
+
+65
+00:04:57,240 --> 00:05:01,100
+en particulier chez Gmail, et on a beaucoup de clients qui utilisent Gmail,
+
+66
+00:05:01,240 --> 00:05:04,960
+c'est un des prestataires d'emails les plus répandus, les plus connus dans le monde,
+
+67
+00:05:05,540 --> 00:05:09,519
+ça peut se trouver dans le dossier qui est ici, qui s'appelle « Tous les messages ».
+
+68
+00:05:09,519 --> 00:05:15,639
+Et les emails de signature électronique arrivent très souvent dans « Tous les messages ».
+
+69
+00:05:15,639 --> 00:05:19,780
+Alors si le client ne le trouve pas, pas du tout, il ne sait pas où il est, il cherche,
+
+70
+00:05:20,300 --> 00:05:26,460
+et bien ce n'est pas compliqué, il suffit de cliquer dans « Tous les messages » ou dans « Spam »
+
+71
+00:05:26,459 --> 00:05:28,959
+et le client le trouvera immédiatement.
+
+72
+00:05:29,479 --> 00:05:31,439
+Alors moi, je l'ai ici dans ma boîte de réception.
+
+73
+00:05:32,079 --> 00:05:33,819
+Je suis le client, je clique dessus.
+
+74
+00:05:34,419 --> 00:05:36,419
+J'agrandis un petit peu ici, vous allez voir.
+
+75
+00:05:37,899 --> 00:05:41,060
+Et puis, le message me dit simplement de signer ce document
+
+76
+00:05:41,060 --> 00:05:44,959
+en cliquant sur le bouton ici, Review, Documents.
+
+77
+00:05:45,379 --> 00:05:46,560
+C'est tout simple, c'est tout bête.
+
+78
+00:05:47,019 --> 00:05:48,339
+Pas de question particulière là-dessus.
+
+79
+00:05:49,019 --> 00:05:50,659
+Je clique dessus si je suis le client.
+
+80
+00:05:52,240 --> 00:05:54,319
+Et ça m'emmène sur l'avenant.
+
+81
+00:05:54,319 --> 00:05:56,699
+Voici l'avenant qui a été généré par Eglantine
+
+82
+00:05:56,699 --> 00:05:57,740
+Tout simplement
+
+83
+00:05:57,740 --> 00:06:00,519
+Je ne peux pas me tromper, je ne peux pas faire 50 choses
+
+84
+00:06:00,519 --> 00:06:01,560
+C'est qu'une seule chose à faire
+
+85
+00:06:01,560 --> 00:06:04,579
+Allez cliquer dans mon petit encadré qui est là
+
+86
+00:06:04,579 --> 00:06:06,139
+Et voyez ce petit encadré
+
+87
+00:06:06,139 --> 00:06:08,219
+C'est l'encadré qui va recueillir ma signature
+
+88
+00:06:08,219 --> 00:06:11,219
+Je clique ici, je choisis mon mode de signature
+
+89
+00:06:11,219 --> 00:06:12,980
+Je fais mon gribouillis
+
+90
+00:06:12,980 --> 00:06:14,519
+Imaginons que ce soit ma signature
+
+91
+00:06:14,519 --> 00:06:16,060
+Sauvegarder, insérer
+
+92
+00:06:16,060 --> 00:06:17,079
+Et c'est tout
+
+93
+00:06:17,079 --> 00:06:18,980
+Et voyez ici, il y aurait de la place
+
+94
+00:06:18,980 --> 00:06:22,120
+Le document a été prévu pour recevoir jusqu'à 8 signatures
+
+95
+00:06:22,120 --> 00:06:24,219
+Jusqu'à 8 clients
+
+96
+00:06:24,899 --> 00:06:28,879
+8 clients, ça représente plus de 99% de vos mandats.
+
+97
+00:06:29,019 --> 00:06:35,500
+Maintenant, il existe, on en a régulièrement, un par-ci, un par-là, des mandats et donc des avenants.
+
+98
+00:06:36,240 --> 00:06:43,159
+Avec plus de 8 vendeurs, 9, 10, 15, 20, le record, le maximum que nous ayons eu, c'est 29.
+
+99
+00:06:43,300 --> 00:06:47,579
+C'était il y a plusieurs années, parce qu'au-delà de 8 clients, soyons clairs, c'est rare.
+
+100
+00:06:47,699 --> 00:06:49,879
+Mais parfois, il y a des successions un peu compliquées.
+
+101
+00:06:50,459 --> 00:06:52,719
+Donc, on peut aller jusqu'à 8 de manière automatique.
+
+102
+00:06:52,720 --> 00:06:54,780
+Imaginons que vous en ayez plus que 8
+
+103
+00:06:54,780 --> 00:06:56,760
+Là par contre, vous demandez à l'animation
+
+104
+00:06:56,760 --> 00:06:57,980
+Et puis ils vont s'en occuper eux-mêmes
+
+105
+00:06:57,980 --> 00:07:00,500
+Ils vont s'en occuper tout simplement manuellement
+
+106
+00:07:00,500 --> 00:07:02,680
+Vous
+
+107
+00:07:02,680 --> 00:07:05,600
+Dites donc au client de faire cette opération
+
+108
+00:07:05,600 --> 00:07:06,780
+Il signe
+
+109
+00:07:06,780 --> 00:07:09,240
+Une fois qu'il a fait sa petite signature comme je viens de vous le montrer
+
+110
+00:07:09,240 --> 00:07:10,980
+Il clique sur le bouton là-haut
+
+111
+00:07:10,980 --> 00:07:11,960
+Terminer
+
+112
+00:07:11,960 --> 00:07:14,180
+Ça va lui demander une confirmation
+
+113
+00:07:14,180 --> 00:07:16,700
+Donc je clique la case
+
+114
+00:07:16,700 --> 00:07:18,380
+Et je clique sur signer
+
+115
+00:07:18,380 --> 00:07:21,140
+Je confirme, vous voyez, merci de confirmer
+
+116
+00:07:21,139 --> 00:07:24,139
+Je confirme que tout est OK pour moi et que j'accepte cette signature.
+
+117
+00:07:24,419 --> 00:07:26,099
+Hop, pouf, c'est fait.
+
+118
+00:07:27,579 --> 00:07:29,139
+Merci d'avoir signé votre document.
+
+119
+00:07:30,219 --> 00:07:30,659
+C'est bouclé.
+
+120
+00:07:31,579 --> 00:07:34,279
+Le client a fait sa signature.
+
+121
+00:07:35,079 --> 00:07:39,180
+Imaginons qu'il y ait eu 2, 3, 4, 5, 6, 7, 8 clients.
+
+122
+00:07:40,339 --> 00:07:43,019
+Ils recevraient alors tous le même email.
+
+123
+00:07:43,459 --> 00:07:45,759
+Le même email qui leur demande de faire la même signature.
+
+124
+00:07:46,459 --> 00:07:49,919
+Vous n'avez pas d'autre action à mener que de dire à tout le monde
+
+125
+00:07:49,920 --> 00:07:52,379
+Ça y est, c'est envoyé, regardez sur votre boîte mail
+
+126
+00:07:52,379 --> 00:07:54,379
+Alors, soit vous leur envoyez un petit texto
+
+127
+00:07:54,379 --> 00:07:55,620
+Vous leur passez un petit coup de fil
+
+128
+00:07:55,620 --> 00:07:57,800
+Soit tout simplement, vous avez les clients en face de vous
+
+129
+00:07:57,800 --> 00:07:58,800
+Parce que vous êtes chez eux
+
+130
+00:07:58,800 --> 00:08:01,740
+Chacun se connecte sur son boîte mail
+
+131
+00:08:01,740 --> 00:08:03,480
+Alors, petite astuce
+
+132
+00:08:03,480 --> 00:08:05,280
+De nombreuses personnes nous disent
+
+133
+00:08:05,280 --> 00:08:07,040
+Qu'ils trouvent ça plus intuitif
+
+134
+00:08:07,040 --> 00:08:10,180
+Sur téléphone que sur ordinateur
+
+135
+00:08:10,180 --> 00:08:11,259
+Alors là, je viens de vous le montrer
+
+136
+00:08:11,259 --> 00:08:13,600
+Moi je l'ai fait sur un ordinateur et vous avez vu que c'est pas bien compliqué
+
+137
+00:08:13,600 --> 00:08:15,520
+Par contre, sur téléphone
+
+138
+00:08:15,520 --> 00:08:18,120
+Beaucoup de personnes, en particulier les personnes âgées
+
+139
+00:08:18,120 --> 00:08:19,840
+Trouvent ça plus intuitif
+
+140
+00:08:19,920 --> 00:08:26,220
+Bon, écoutez, qu'il le fasse sur téléphone ou sur tablette, ça ne pose aucun problème, ça fonctionne tout aussi bien.
+
+141
+00:08:27,120 --> 00:08:38,960
+Maintenant que le client a signé son email d'avenant, eh bien écoutez, il ne reste plus qu'à le signer nous-mêmes.
+
+142
+00:08:39,360 --> 00:08:48,580
+Parce que quand les clients ont signé, vous êtes vous-même le destinataire final qui va valider.
+
+143
+00:08:48,580 --> 00:09:08,780
+Ça vous permet de clôturer, d'être le dernier qui va clôturer le dossier et valider la baisse de prix. Valider la baisse de prix parce que regardez, ici, lorsque j'ai rafraîchi ma page, vous voyez qu'est apparu un nouveau petit tankard signature document avec mon avenant.
+
+144
+00:09:08,779 --> 00:09:25,459
+Ça, c'est l'avenant que j'ai envoyé au client. Si je clique dessus, je peux suivre même sa signature. Je vois que Philippe Dumas, son email a été envoyé, il l'a consulté à 21h27, il a signé à 21h29.
+
+145
+00:09:25,460 --> 00:09:31,360
+Ça vous permet, imaginons qu'il y ait vos huit clients, de suivre les signatures de chacun.
+
+146
+00:09:32,200 --> 00:09:35,519
+Vous pouvez voir que Philippe a reçu, il a signé.
+
+147
+00:09:35,620 --> 00:09:42,060
+Par contre, son épouse Marie, elle, imaginons qu'il y ait un deuxième signataire, son épouse Marie, elle, elle ne l'a pas encore signé.
+
+148
+00:09:42,200 --> 00:09:46,600
+Vous pouvez suivre ici directement dans Eglantine en temps quasi réel.
+
+149
+00:09:46,680 --> 00:09:53,259
+Il y a juste quelques petites minutes de décalage entre le moment où le client signe l'avenant et le moment où ça s'affiche ici.
+
+150
+00:09:53,259 --> 00:09:55,279
+de manière effective, il y a un petit décalage
+
+151
+00:09:55,279 --> 00:09:57,100
+de 2-3 minutes, quelque chose comme ça,
+
+152
+00:09:57,200 --> 00:09:59,200
+à peine. Ça vous permet donc de le
+
+153
+00:09:59,200 --> 00:10:01,259
+suivre. Et vous voyez
+
+154
+00:10:01,259 --> 00:10:03,419
+en dessous que, pour l'instant,
+
+155
+00:10:03,500 --> 00:10:05,399
+ça n'est pas clôturé. Votre demande
+
+156
+00:10:05,399 --> 00:10:07,720
+de modification,
+
+157
+00:10:07,980 --> 00:10:09,480
+elle est en attente.
+
+158
+00:10:09,840 --> 00:10:10,899
+Et vous allez voir ce qui va se passer.
+
+159
+00:10:11,740 --> 00:10:13,340
+Je vais maintenant, je suis le conseiller,
+
+160
+00:10:13,659 --> 00:10:14,439
+dans mon email.
+
+161
+00:10:15,439 --> 00:10:17,179
+Hop, mon email à la lucarne.
+
+162
+00:10:17,679 --> 00:10:19,379
+Et là, je trouve, moi également,
+
+163
+00:10:19,700 --> 00:10:20,439
+ici, vous voyez,
+
+164
+00:10:21,220 --> 00:10:22,919
+merci de signer ce document.
+
+165
+00:10:23,259 --> 00:10:25,559
+j'ai le même email que mon client tout à l'heure,
+
+166
+00:10:25,960 --> 00:10:28,860
+je clique sur le même bouton « Review document »,
+
+167
+00:10:28,860 --> 00:10:31,279
+et c'est à mon tour de signer.
+
+168
+00:10:32,299 --> 00:10:35,419
+Voici le document qui, à gauche, a été signé par le client.
+
+169
+00:10:35,919 --> 00:10:37,319
+S'il y en avait plusieurs, deux, trois, quatre,
+
+170
+00:10:37,360 --> 00:10:38,639
+j'aurais toutes les signatures ici,
+
+171
+00:10:38,740 --> 00:10:43,399
+car je suis le dernier, moi, à intervenir pour verrouiller la procédure.
+
+172
+00:10:43,879 --> 00:10:46,039
+C'est moi qui la clôture, moi le négociateur.
+
+173
+00:10:46,439 --> 00:10:47,799
+Pas besoin de faire intervenir l'animation.
+
+174
+00:10:48,319 --> 00:10:50,639
+Je clique dessus, je fais ma signature,
+
+175
+00:10:50,639 --> 00:10:57,600
+encore un petit machin sauvegarder terminée bien entendu je dois moi également dire que
+
+176
+00:10:57,600 --> 00:11:05,699
+je suis d'accord pour confirmer pouf c'est fini quand je vous dis que c'est fini qu'est ce que
+
+177
+00:11:05,699 --> 00:11:11,960
+ça veut dire et bien que je n'ai plus rien à faire et personne n'a plus rien à faire pas
+
+178
+00:11:11,960 --> 00:11:17,860
+d'avenant à imprimer à renvoyer à l'animation ni par email ni par courrier pas besoin d'en
+
+179
+00:11:17,860 --> 00:11:23,700
+récupérer l'original chez le client tout a été fait par signature électronique tout a été fait
+
+180
+00:11:23,700 --> 00:11:30,100
+par signature électronique je n'ai donc plus rien à faire qu'est ce qui va se passer et bien avec
+
+181
+00:11:30,100 --> 00:11:35,200
+quelques petites minutes de décalage je voulais dit ça prend deux trois quatre minutes maximum
+
+182
+00:11:35,200 --> 00:11:43,680
+lorsque je vais retourner sur ma fiche de mandat la validation du prix va se faire automatiquement
+
+183
+00:11:43,679 --> 00:12:00,379
+Là, vous voyez qu'elle est toujours en attente. C'est normal et on est toujours à 350 000. Au bout de quelques minutes, à peine, là, vous voyez, j'ai reçu ici dans mes emails l'email qui me confirme que tout a été fait. Je peux d'ailleurs récupérer le document ici.
+
+184
+00:12:00,899 --> 00:12:07,820
+Si je le voulais, vous voyez, je pourrais récupérer une copie du document signé par le client et signé par moi-même.
+
+185
+00:12:07,919 --> 00:12:10,000
+Enfin, par le ou les clients ou par moi-même.
+
+186
+00:12:10,399 --> 00:12:11,879
+Mais ça n'est pas nécessaire.
+
+187
+00:12:12,159 --> 00:12:19,679
+Vous n'avez pas besoin de le faire puisque dans Eglantine, le document va s'injecter tout seul.
+
+188
+00:12:19,679 --> 00:12:21,559
+Ah, ça y est, c'est fait.
+
+189
+00:12:21,740 --> 00:12:24,000
+Vous avez vu, on a attendu quoi ? Une minute ?
+
+190
+00:12:24,000 --> 00:12:26,179
+Regardez en haut, le prix a été modifié.
+
+191
+00:12:26,639 --> 00:12:29,379
+330 000 euros, 8 338 000 euros.
+
+192
+00:12:29,379 --> 00:12:50,360
+Et je trouve ici, au-delà du suivi des signatures qui est désormais complet, je trouve mon avenant électronique qui s'est injecté tout seul. C'est le document qui fait foi, c'est le document électronique. Regardez, j'ai à la fois le document avec les signatures, j'ai à la fois le certificat de signature électronique conforme à la loi.
+
+193
+00:12:50,360 --> 00:12:52,800
+Tout est fait
+
+194
+00:12:52,800 --> 00:12:54,399
+Tout est bouclé
+
+195
+00:12:54,399 --> 00:12:57,120
+Je n'ai plus rien à faire
+
+196
+00:12:57,120 --> 00:12:59,960
+En quelques minutes
+
+197
+00:12:59,960 --> 00:13:03,279
+J'ai fabriqué mon avenant
+
+198
+00:13:03,279 --> 00:13:06,060
+Envoyé mon avenant pour signature électronique
+
+199
+00:13:06,060 --> 00:13:08,919
+Reçu l'avenant directement dans Eglantine
+
+200
+00:13:08,919 --> 00:13:09,720
+Et modifié le prix
+
+201
+00:13:09,720 --> 00:13:12,000
+Et ce que mon client
+
+202
+00:13:12,000 --> 00:13:13,180
+Monsieur Philippe Dumois
+
+203
+00:13:13,180 --> 00:13:14,720
+Se trouve en face de moi
+
+204
+00:13:14,720 --> 00:13:15,960
+Directement
+
+205
+00:13:15,960 --> 00:13:17,560
+Ou qu'il se trouve à l'autre bout du monde
+
+206
+00:13:17,560 --> 00:13:18,960
+Imaginons que ce monsieur habite
+
+207
+00:13:18,960 --> 00:13:20,480
+je ne sais pas, je vous dis une bêtise, au Québec,
+
+208
+00:13:21,240 --> 00:13:22,980
+il a pu le signer en quelques minutes
+
+209
+00:13:22,980 --> 00:13:25,220
+et nous avons bouclé tout ça.
+
+210
+00:13:26,259 --> 00:13:26,940
+Donc, vous le voyez,
+
+211
+00:13:27,500 --> 00:13:29,060
+gain de temps, de facilité,
+
+212
+00:13:29,259 --> 00:13:30,360
+de fiabilité.
+
+213
+00:13:31,379 --> 00:13:32,280
+Je n'ai plus rien à faire.
+
+214
+00:13:33,780 --> 00:13:35,280
+Ce système, vous l'aurez
+
+215
+00:13:35,280 --> 00:13:36,879
+tous dans vos églantines
+
+216
+00:13:36,879 --> 00:13:39,460
+à partir du 1er novembre
+
+217
+00:13:39,460 --> 00:13:41,240
+2025. Donc, dans
+
+218
+00:13:41,240 --> 00:13:43,180
+quelques jours à peine, une petite dizaine
+
+219
+00:13:43,180 --> 00:13:45,180
+de jours. Bien entendu,
+
+220
+00:13:46,019 --> 00:13:47,120
+lorsque l'avenant
+
+221
+00:13:47,120 --> 00:13:50,480
+électronique n'est pas possible
+
+222
+00:13:50,480 --> 00:13:52,340
+parce que le client c'est une vieille dame
+
+223
+00:13:52,340 --> 00:13:53,779
+qui est à l'EHPAD, elle n'a pas d'email
+
+224
+00:13:53,779 --> 00:13:56,240
+ce sera toujours possible, il vous suffira
+
+225
+00:13:56,240 --> 00:13:57,860
+de demander à l'animation un petit coup de main
+
+226
+00:13:57,860 --> 00:14:00,139
+et ils vous prépareront ça, ça ne pose
+
+227
+00:14:00,139 --> 00:14:02,279
+aucun problème, mais pour
+
+228
+00:14:02,279 --> 00:14:04,159
+l'immense majorité de vos mandats
+
+229
+00:14:04,159 --> 00:14:06,259
+et donc de vos avenants, vous êtes
+
+230
+00:14:06,259 --> 00:14:08,480
+désormais à partir du 1er novembre
+
+231
+00:14:08,480 --> 00:14:10,179
+entièrement autonome
+
+232
+00:14:10,179 --> 00:14:12,639
+vous n'avez besoin ni de l'animation
+
+233
+00:14:12,639 --> 00:14:14,720
+ni d'une imprimante, ni de quoi que ce soit
+
+234
+00:14:14,720 --> 00:14:16,159
+pour
+
+235
+00:14:16,159 --> 00:14:18,120
+faire vos avenants électroniques
+
+236
+00:14:18,120 --> 00:14:20,339
+en quelques minutes, voire quelques secondes.
+
+237
+00:14:21,439 --> 00:14:22,000
+Bien entendu,
+
+238
+00:14:22,719 --> 00:14:24,659
+une difficulté, une question,
+
+239
+00:14:24,939 --> 00:14:26,360
+une interrogation, besoin d'un
+
+240
+00:14:26,360 --> 00:14:28,100
+éclaircissement, vous demandez à
+
+241
+00:14:28,100 --> 00:14:30,600
+animation.com
+
+242
+00:14:30,600 --> 00:14:32,559
+Ils vous viendront en aide.
+
+243
+00:14:32,559 --> 00:14:34,579
+C'est une évidence.
+
+244
+00:14:34,980 --> 00:14:36,659
+Donc, j'espère que vous êtes
+
+245
+00:14:36,659 --> 00:14:38,579
+tous excités de pouvoir
+
+246
+00:14:38,579 --> 00:14:40,539
+utiliser ce système qui va vous
+
+247
+00:14:40,539 --> 00:14:42,439
+faire gagner énormément de temps et
+
+248
+00:14:42,439 --> 00:14:44,539
+surtout de facilité, de
+
+249
+00:14:44,539 --> 00:14:46,599
+simplicité. On reste à votre
+
+250
+00:14:46,599 --> 00:14:48,659
+disposition pour la suite. Merci à tous
+
+251
+00:14:48,659 --> 00:14:50,439
+et à très bientôt pour un autre tuto.
+

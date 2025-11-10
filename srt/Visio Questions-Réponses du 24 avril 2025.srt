@@ -1,0 +1,4432 @@
+1
+00:00:00,000 --> 00:00:30,000
+Bonsoir, bienvenue à tous. C'est une vidéo qui sera très courte aujourd'hui. Elle va se terminer à 19h parce que nous avons une réunion de copropriété pour, vous savez, faire avancer les problèmes de travaux de structure au siège. Et on a une réunion, une énième réunion de copropriété à 19h. Donc à 19h, vraiment, il faudra que je coupe pour aller à la visio, l'autre visio de réunion de la copropriété. Donc, aujourd'hui, on a pas mal de choses à voir. Alors, bien entendu, vous avez les questions-réponses. Vous pouvez poser.
+
+2
+00:00:30,000 --> 00:00:30,839
+qui sont présents
+
+3
+00:00:30,839 --> 00:00:34,039
+non alors
+
+4
+00:00:34,039 --> 00:00:35,420
+Eric dit je suis tout seul
+
+5
+00:00:35,420 --> 00:00:37,980
+et personne d'autre, non vous n'êtes pas tout seul
+
+6
+00:00:37,980 --> 00:00:41,840
+effectivement
+
+7
+00:00:41,840 --> 00:00:43,679
+ce sont les meilleurs
+
+8
+00:00:43,679 --> 00:00:46,179
+je pense que sur Eglantine la date n'a pas été changée
+
+9
+00:00:46,179 --> 00:00:47,600
+ça n'a pas été changé ça
+
+10
+00:00:47,600 --> 00:00:49,159
+j'ai vu avec Mathieu tout à l'heure
+
+11
+00:00:49,159 --> 00:00:50,840
+il m'a dit j'ai plus accès au FTP
+
+12
+00:00:50,840 --> 00:00:52,159
+je sais pas quoi machin truc
+
+13
+00:00:52,159 --> 00:00:53,719
+normalement
+
+14
+00:00:53,719 --> 00:00:57,079
+si la date n'est pas à jour sur Eglantine
+
+15
+00:00:57,079 --> 00:00:58,760
+regardez là
+
+16
+00:00:59,759 --> 00:01:05,439
+Ici, toutes les visio-questions-réponses, jusqu'à fin juin, utilisent le même lien de connexion unique.
+
+17
+00:01:06,259 --> 00:01:09,959
+Alors, vous le savez, ça j'en ai parlé plein de fois.
+
+18
+00:01:11,019 --> 00:01:13,620
+Avec le nouveau système de visio-conférence que nous utilisons aujourd'hui,
+
+19
+00:01:13,840 --> 00:01:19,659
+maintenant il y a un seul lien de connexion unique, et c'est le même jusqu'à fin juin.
+
+20
+00:01:21,939 --> 00:01:25,439
+Je vais voir si on peut le prolonger jusqu'à la fin de l'année.
+
+21
+00:01:25,680 --> 00:01:28,239
+Je ne comprends pas, je crois qu'on va être obligé de refaire un autre.
+
+22
+00:01:28,239 --> 00:01:30,519
+pour les visios, parce que vous savez qu'il y a une coupure
+
+23
+00:01:30,519 --> 00:01:32,519
+pendant l'été, je crois qu'on va être obligé
+
+24
+00:01:32,519 --> 00:01:34,539
+d'en refaire un autre pour les visios de début
+
+25
+00:01:34,539 --> 00:01:36,159
+septembre à fin décembre
+
+26
+00:01:36,159 --> 00:01:38,859
+les visios question-réponse
+
+27
+00:01:38,859 --> 00:01:39,979
+pas les autres visios
+
+28
+00:01:39,979 --> 00:01:42,959
+mais c'est le même lien
+
+29
+00:01:42,959 --> 00:01:44,379
+unique de connexion
+
+30
+00:01:44,379 --> 00:01:46,780
+mais ça les amis je vous l'avais déjà expliqué plein de fois
+
+31
+00:01:46,780 --> 00:01:48,000
+au cours des différentes visios
+
+32
+00:01:48,000 --> 00:01:50,859
+mais je crois que vous n'y écoutez pas toujours
+
+33
+00:01:50,859 --> 00:01:51,979
+tout ce que je vous dis
+
+34
+00:01:51,979 --> 00:01:54,539
+puis-je vous blâmer, sinon
+
+35
+00:01:54,539 --> 00:01:56,179
+je ne le peux certainement pas
+
+36
+00:01:56,180 --> 00:02:05,980
+Alors, aujourd'hui, on a un certain nombre de choses à voir. Je vous propose de commencer sans plus attendre. On n'avait pas le même masque et la date était encore 10 avril.
+
+37
+00:02:06,140 --> 00:02:15,819
+Alors, hier, la date n'était pas bonne. C'est probablement que ça a été modifié récemment. Ou alors, le cache de votre navigateur.
+
+38
+00:02:15,819 --> 00:02:19,359
+Vous savez que votre navigateur, à chaque fois que vous vous rendez sur une page web,
+
+39
+00:02:22,159 --> 00:02:24,979
+lors de la visite précédente de la même page,
+
+40
+00:02:25,060 --> 00:02:29,840
+votre navigateur a enregistré cette page pour pouvoir vous la réafficher plus vite.
+
+41
+00:02:30,699 --> 00:02:35,240
+Et quand vous revenez sur la même page, votre navigateur ne la re-télécharge pas.
+
+42
+00:02:35,240 --> 00:02:38,099
+Il va prendre ce qu'il avait enregistré de la dernière fois.
+
+43
+00:02:38,099 --> 00:02:46,139
+Si vous voyez ce genre de choses, il faut régulièrement purger le cache du navigateur
+
+44
+00:02:46,139 --> 00:02:48,799
+Comment je purge le cache de mon navigateur ?
+
+45
+00:02:48,799 --> 00:02:49,400
+Il y a deux manières
+
+46
+00:02:49,400 --> 00:02:54,340
+La manière la plus simple, regardez, je vais aller sur mon navigateur
+
+47
+00:02:54,340 --> 00:02:56,259
+Je ne dis pas que c'était ça, j'en sais rien
+
+48
+00:02:56,259 --> 00:02:57,799
+Je dis que ça peut être ça
+
+49
+00:02:57,799 --> 00:03:04,439
+La manière la plus simple est de faire sur les ordinateurs PC Windows
+
+50
+00:03:04,439 --> 00:03:07,400
+Pour les Mac, je ne sais pas, mais les PC Windows
+
+51
+00:03:07,400 --> 00:03:26,259
+Vous appuyez sur deux touches simultanément, je vais vous écrire ici la touche CTRL, que l'on appelle aussi la touche CTRL, et en même temps la touche F5, et en haut de votre clavier, F5, c'est ce qu'on appelle les touches de fonctionner, F ça veut dire fonctionner.
+
+52
+00:03:26,739 --> 00:03:32,079
+Contrôle F5, ça force le rechargement de la page avec les dernières informations.
+
+53
+00:03:32,399 --> 00:03:37,280
+Sinon, regardez ce que je fais, vous allez voir, ma page va clignoter très rapidement.
+
+54
+00:03:37,799 --> 00:03:40,439
+Hop là, vous avez vu ? Pouf !
+
+55
+00:03:40,439 --> 00:03:42,979
+Je le refais, pouf !
+
+56
+00:03:42,979 --> 00:03:45,439
+Vous avez vu ? Pouf ! C'est rechargé, compte ou vitesse.
+
+57
+00:03:45,899 --> 00:03:48,899
+Sinon, vous avez une autre solution, vous allez dans les paramètres, ici.
+
+58
+00:03:49,899 --> 00:03:51,560
+Vous tapez ici, cache.
+
+59
+00:03:51,560 --> 00:03:58,840
+et vous allez ici supprimer les cookies et le cache.
+
+60
+00:03:59,939 --> 00:04:02,020
+Supprimez éventuellement l'historique de navigation.
+
+61
+00:04:02,900 --> 00:04:03,800
+Vous le savez, vous le pouvez.
+
+62
+00:04:04,379 --> 00:04:06,379
+Attention, quand vous faites les cookies,
+
+63
+00:04:06,500 --> 00:04:07,780
+si vous supprimez les cookies,
+
+64
+00:04:08,000 --> 00:04:09,420
+ça vous déconnecte des sites web
+
+65
+00:04:09,420 --> 00:04:11,520
+sur lesquels vous étiez préalablement enregistré.
+
+66
+00:04:11,920 --> 00:04:14,439
+Si vous ne voulez pas vous déconnecter des sites web
+
+67
+00:04:14,439 --> 00:04:16,560
+sur lesquels vous êtes préalablement enregistré,
+
+68
+00:04:17,300 --> 00:04:19,180
+décochez cette case, sinon cochez-la.
+
+69
+00:04:19,180 --> 00:04:25,160
+Alors, sachez que c'est également une technique de piratage, d'aller simuler un compte-list de connexion.
+
+70
+00:04:25,459 --> 00:04:29,040
+Donc, de temps en temps, faire une déconnexion, ce n'est pas une mauvaise idée.
+
+71
+00:04:29,240 --> 00:04:30,560
+Alors après, il faudra vous reconnecter.
+
+72
+00:04:31,040 --> 00:04:34,060
+Ça ne supprime pas le mot de passe que vous avez enregistré dans votre navigateur.
+
+73
+00:04:34,240 --> 00:04:35,439
+Ça vous déconnecte simplement.
+
+74
+00:04:35,720 --> 00:04:36,840
+Ça ne le supprime pas.
+
+75
+00:04:37,420 --> 00:04:41,840
+Bon, éventuellement, vous enlevez ça et vous supprimez juste les images et fichiers en cache.
+
+76
+00:04:42,439 --> 00:04:43,759
+Là, vous faites supprimer les données.
+
+77
+00:04:44,399 --> 00:04:44,980
+Pouf !
+
+78
+00:04:44,980 --> 00:04:48,660
+Et quand vous revenez ensuite sur la page sur laquelle vous étiez précédemment,
+
+79
+00:04:49,520 --> 00:04:53,200
+inévitablement, ça la recharge avec les dernières informations.
+
+80
+00:04:53,700 --> 00:04:58,620
+Donc, si je me reconnecte à Eglantine, ça va recharger les dernières informations.
+
+81
+00:04:59,620 --> 00:05:03,000
+Bon, est-ce que c'était ça ? Est-ce que ça a été modifié très récemment ?
+
+82
+00:05:03,000 --> 00:05:04,240
+C'est possible, je ne sais pas.
+
+83
+00:05:04,520 --> 00:05:09,960
+En tout cas, c'est le même lien de connexion jusqu'à fin juin.
+
+84
+00:05:10,180 --> 00:05:13,180
+Vous n'avez pas besoin de redemander un nouveau lien ou n'importe quoi.
+
+85
+00:05:13,180 --> 00:05:19,680
+Alors, je vais prendre mes petites notes pour voir toutes les choses qu'on a à voir.
+
+86
+00:05:20,439 --> 00:05:28,879
+La première chose, alors vous allez dire que je rabote, vous allez dire que je suis gâteux, et je vais vous répondre, oui, c'est vrai, c'est une réalité.
+
+87
+00:05:29,540 --> 00:05:36,560
+Ça fait plein de fois que je vous en parle au cours des vidéos du jeudi, mais visiblement le message ne passe pas beaucoup, les scans.
+
+88
+00:05:36,560 --> 00:06:00,279
+Tous les jours, nous recevons des messages à l'administration auxquels nous devons répondre quel est le numéro de mandat, quel est le numéro de mandat, parce que vous ne pensez pas nous mettre le numéro de mandat. Même si dans chacun des emails qu'on vous envoyait écrit « Attention, n'oubliez pas de nous mettre le numéro de mandat », tous les jours, on reçoit des tas de mails auxquels on ne peut pas répondre et on répond « Quel est le numéro de mandat ? »
+
+89
+00:06:00,279 --> 00:06:23,739
+Et parfois, il y avait des agents, c'était le cas hier, un agent qui nous a répondu, vous avez bien vu, il y a écrit Robert, je vous ai dit que c'était le dossier Robert. Je vous jure que je n'exagère pas. Hier, un agent nous a dit, vous avez bien vu, je vous ai dit que c'était le dossier Robert. Est-ce qu'on peut imaginer tous les bateaux qui ont le dossier Robert ? Donc, il nous faut les numéros de mandat.
+
+90
+00:06:23,740 --> 00:06:42,280
+De même, ça fait plein de fois que je vous le dis, et il y a plein de gens chez qui ça ne passe pas, on ne peut pas exploiter, on ne peut plus, comme on le faisait il y a très longtemps, parce qu'on passait un temps dingue là-dessus, on ne peut plus exploiter les documents que vous nous envoyez photographiés ou mal scannés.
+
+91
+00:06:42,279 --> 00:06:57,459
+Ce n'est pas possible. On ne peut pas. Nous, ce sont des documents qu'on exploite à titre professionnel, je vous le rappelle, on ne joue pas à la lunette. C'est une vraie société et on a une profession quand même juridique et économique qui est ultra-contrôlée.
+
+92
+00:06:57,459 --> 00:07:14,979
+A ce titre, nous devons nous donner la peine de faire bien notre travail. Et nous envoyer ça pour une taxe foncière, ça n'est pas bien faire notre travail.
+
+93
+00:07:14,980 --> 00:07:17,080
+les exemples que je vais vous montrer
+
+94
+00:07:17,080 --> 00:07:19,120
+ce sont des exemples que nous avons reçu à l'animation
+
+95
+00:07:19,120 --> 00:07:20,660
+dans la semaine qui vient de s'écouler
+
+96
+00:07:20,660 --> 00:07:23,100
+c'est même pas des vieux rangatons que je suis allé chercher
+
+97
+00:07:23,100 --> 00:07:24,560
+je sais pas où, non
+
+98
+00:07:24,560 --> 00:07:27,300
+ce sont des documents que nous avons reçu
+
+99
+00:07:27,300 --> 00:07:29,080
+dans la semaine qui vient de s'écouler
+
+100
+00:07:29,080 --> 00:07:31,240
+voilà, alors nous on a ça comme taxoncière
+
+101
+00:07:31,240 --> 00:07:32,240
+alors faut qu'on zoome
+
+102
+00:07:32,240 --> 00:07:34,600
+c'est dégueulasse, on peut pas en faire mieux
+
+103
+00:07:34,600 --> 00:07:37,420
+ça, ça n'est pas acceptable
+
+104
+00:07:37,420 --> 00:07:39,840
+ça non plus
+
+105
+00:07:39,840 --> 00:07:41,980
+ça n'est pas acceptable
+
+106
+00:07:41,980 --> 00:07:44,740
+ça non plus, ça n'est pas acceptable
+
+107
+00:07:44,740 --> 00:08:03,240
+Vous allez me dire, c'est lisible, faites un effort. Mais regardez, il y a des tâches de kebab là-haut. Est-ce que vous vous rendez compte que nous, on est supposé mener, monter des dossiers qu'on doit tenir à la disposition de la DGCCRF et de TRACFIN avec des tâches de cambouis ?
+
+108
+00:08:03,240 --> 00:08:06,840
+Ce n'est pas acceptable, ça. On ne peut pas travailler avec ça.
+
+109
+00:08:07,500 --> 00:08:15,259
+Et ça, alors parfois vous nous envoyez des PDF qui sont aussi dégueulasses, et voici.
+
+110
+00:08:17,480 --> 00:08:20,220
+Non, on ne peut pas faire de reconnaissance de caractère là-dedans.
+
+111
+00:08:20,800 --> 00:08:23,079
+On ne peut pas rechercher un mot-clé.
+
+112
+00:08:25,120 --> 00:08:27,079
+Ça, ça n'est pas non plus acceptable.
+
+113
+00:08:27,300 --> 00:08:30,560
+Alors on peut dire, oh ça va, on peut se débrouiller pour lire quand même.
+
+114
+00:08:30,560 --> 00:08:38,720
+Ce n'est pas seulement la question d'être lisible, c'est la question d'être professionnellement exploitable.
+
+115
+00:08:41,000 --> 00:08:44,000
+Je vous assure, on est une vraie société.
+
+116
+00:08:44,820 --> 00:08:53,159
+On n'est pas des lycéens qui font un dossier pour leur cours de maths.
+
+117
+00:08:53,759 --> 00:08:57,299
+Non, on est supposé être des vrais professionnels.
+
+118
+00:08:57,959 --> 00:09:02,379
+Donc, ça non plus, on ne peut pas gérer des dossiers comme ça.
+
+119
+00:09:03,519 --> 00:09:04,679
+On ne peut pas gérer ça.
+
+120
+00:09:05,199 --> 00:09:05,879
+Ce n'est pas possible.
+
+121
+00:09:06,679 --> 00:09:10,419
+Qu'est-ce que nous vous demandons de nous fournir ?
+
+122
+00:09:10,419 --> 00:09:10,740
+Ça.
+
+123
+00:09:11,839 --> 00:09:12,240
+Voilà.
+
+124
+00:09:13,919 --> 00:09:14,799
+Ça, c'est parfait.
+
+125
+00:09:15,639 --> 00:09:16,740
+Ça, c'est nickel.
+
+126
+00:09:17,319 --> 00:09:18,139
+C'est irréprochable.
+
+127
+00:09:18,939 --> 00:09:20,919
+Alors, vous me direz, ça, c'est le document électronique.
+
+128
+00:09:20,919 --> 00:09:22,259
+Ça n'a pas été scanné.
+
+129
+00:09:22,339 --> 00:09:23,819
+C'est le document électronique source.
+
+130
+00:09:24,659 --> 00:09:25,839
+Donc, c'est normal que ce soit parfait.
+
+131
+00:09:25,840 --> 00:09:45,000
+Oui, c'est normal que ce soit parfait. Mais c'est exactement ce dont nous avons besoin. Voici également des diagnostics. Les dossiers électroniques, le PDF source, c'est parfait. C'est ça dont on a besoin. Avec ça, on peut travailler. Avec ça, on peut envisager d'aller au tribunal dans le cadre d'un procès.
+
+132
+00:09:45,000 --> 00:09:52,279
+Avec ça, inutile de vous dire que mis dans les pièces du dossier, on aura l'air bien con.
+
+133
+00:09:55,379 --> 00:09:56,440
+Regardez ce document.
+
+134
+00:09:57,200 --> 00:10:00,779
+Ce document, lui par contre, il a été scanné.
+
+135
+00:10:02,159 --> 00:10:08,120
+Ce n'est pas le document d'origine, source, le PDF établi par le notaire, non ?
+
+136
+00:10:08,120 --> 00:10:10,559
+Ça, c'est un document qui a été scanné.
+
+137
+00:10:11,000 --> 00:10:13,620
+Et pourtant, il est parfait.
+
+138
+00:10:13,620 --> 00:10:37,440
+On pourrait dire là, regardez, il y a un petit défaut sur le côté. Non, ça, ce serait chipoté. Ce document est parfait. Et pourtant, il a été scanné. Donc, ce n'est pas la question de, est-ce que c'est scanné, ce n'est pas scanné, c'est le PDF source, ce n'est pas le PDF source. Ce sont des documents comme ça dont nous avons besoin. Parce qu'avec ça, on sait qu'on a un dossier irréprochable.
+
+139
+00:10:37,440 --> 00:10:54,740
+Ça, c'est parfait. C'est impeccable. Une dernière taxe foncière, elle a été scannée, cette taxe foncière. Vous voyez, ce n'est pas la taxe foncière, excusez-moi, ce n'est pas ce document indexé, le PDF source provenant des impôts.
+
+140
+00:10:54,740 --> 00:11:15,000
+Néanmoins, ce document, il a été scanné, soit par le client, soit par le conseiller. Je ne sais pas, mais en tout cas, il est parfait. Oh, il n'est pas en couleur, on s'en fout. On s'en moque. Oh, il est un petit peu de travers, un tout petit peu, ça se voit à peine. Ce document, il est parfaitement exploitable à titre professionnel.
+
+141
+00:11:15,000 --> 00:11:36,419
+Donc, je vous le redis, s'il vous plaît, ne nous envoyez pas des photos, comme ça. Ne nous envoyez pas non plus des scans en PDF de cette qualité. On ne peut rien en faire. Ce n'est pas possible.
+
+142
+00:11:37,000 --> 00:11:38,879
+Donc, s'il vous plaît, vraiment, c'est important.
+
+143
+00:11:39,199 --> 00:11:41,379
+Je vous le répète jour après jour, après jour, après jour,
+
+144
+00:11:41,459 --> 00:11:44,599
+c'est vraiment, vraiment, vraiment important.
+
+145
+00:11:44,879 --> 00:11:46,399
+OK ?
+
+146
+00:11:46,399 --> 00:11:48,500
+Alors, vous êtes un peu plus nombreux que tout à l'heure.
+
+147
+00:11:48,579 --> 00:11:49,159
+Non, pas tellement.
+
+148
+00:11:49,379 --> 00:11:51,219
+Un tout petit peu plus nombreux que tout à l'heure,
+
+149
+00:11:51,639 --> 00:11:54,459
+sachant qu'il y a Cathy qui est connectée en double.
+
+150
+00:11:55,579 --> 00:11:57,179
+Ah non, Laurent est connecté en simple.
+
+151
+00:11:57,179 --> 00:11:58,779
+Tout à l'heure, Laurent était connecté en double.
+
+152
+00:11:58,979 --> 00:12:00,819
+Donc, ça faisait déjà des gens en trop.
+
+153
+00:12:01,879 --> 00:12:03,939
+Bon, vous êtes un tout petit peu plus nombreux.
+
+154
+00:12:04,339 --> 00:12:05,959
+Alors, ensuite, deuxième chose,
+
+155
+00:12:05,960 --> 00:12:25,060
+Le dossier commercial. Le dossier commercial, je vous en ai parlé il y a quelques jours, là, il y a quelques temps, ça arrive d'un instant à l'autre. Le tout nouveau dossier commercial dont voici un exemple. Là, on touche vraiment au bout. Voici un exemple de dossier commercial que j'ai généré tout à l'heure pour Christelle.
+
+156
+00:12:25,059 --> 00:12:44,059
+Là, c'est le tout nouveau dossier commercial. Le nouveau dossier commercial, vous savez, il a un QR code pour permettre au client d'accéder directement à la page Internet avec toutes les mentions légales. Il a un deuxième QR code qui permet d'accéder à Géorisque automatiquement.
+
+157
+00:12:44,059 --> 00:12:58,119
+Il va automatiquement chercher une petite présentation de la commune ou du village sur Wikipédia. Il met une petite description, toute jolie, au cœur du prestigieux vignoble du Médoc, etc.
+
+158
+00:12:58,979 --> 00:13:12,399
+Les écoles, les commerces, boulangerie, pâtisserie du Médoc à 0,5 km, la table de l'océan 0,6 km, le Lidl, la pharmacie, le tabac presse, c'est-à-dire les commerces environnants.
+
+159
+00:13:14,059 --> 00:13:39,739
+Et ensuite, les photos pubs, puis une toute nouvelle présentation des simulations de prêts basées sur des taux et des apports, et une toute nouvelle estimation, à jour des nouvelles augmentations de frais de notaire de 2025, des frais de notaire.
+
+160
+00:13:39,740 --> 00:13:42,899
+tout nouveau, tout joli, bien calculé
+
+161
+00:13:42,899 --> 00:13:44,220
+à jour des dernières données
+
+162
+00:13:44,220 --> 00:13:45,799
+le tout nouveau
+
+163
+00:13:45,799 --> 00:13:48,019
+dossier commercial
+
+164
+00:13:48,019 --> 00:13:50,259
+bien entendu tout gros, c'est une évidence
+
+165
+00:13:50,259 --> 00:13:52,960
+vos coordonnées
+
+166
+00:13:52,960 --> 00:13:54,360
+personnelles
+
+167
+00:13:54,360 --> 00:13:57,120
+si vous estimez que votre photo ne ressort pas très très bien
+
+168
+00:13:57,120 --> 00:13:58,700
+n'hésitez pas à nous en fournir une autre
+
+169
+00:13:58,700 --> 00:14:01,200
+on peut la changer extrêmement facilement
+
+170
+00:14:01,200 --> 00:14:02,960
+alors vous constatez une chose
+
+171
+00:14:02,960 --> 00:14:04,519
+alors ça, ça va arriver d'ici quelques jours
+
+172
+00:14:04,519 --> 00:14:07,180
+vraiment c'est dans le four
+
+173
+00:14:07,180 --> 00:14:08,840
+c'est en train de cuire, ça va sortir d'ici
+
+174
+00:14:08,840 --> 00:14:12,800
+très très peu de temps. Une chose est importante, vous constatez que sur ce dossier
+
+175
+00:14:12,800 --> 00:14:16,200
+commercial, il y a
+
+176
+00:14:16,200 --> 00:14:20,600
+la page 2 qui comporte les informations de localisation
+
+177
+00:14:20,600 --> 00:14:24,399
+précises. Il y a la parcelle cadastrale précise,
+
+178
+00:14:25,040 --> 00:14:28,639
+il y a la localisation précise du bien, vous voyez ça pointe
+
+179
+00:14:28,639 --> 00:14:32,480
+exactement sur la page Google Maps du bien.
+
+180
+00:14:33,800 --> 00:14:35,920
+Il n'y a que sur cette page, si vous avez regardé
+
+181
+00:14:35,919 --> 00:14:38,539
+les géorisques avec le QR code,
+
+182
+00:14:38,679 --> 00:14:39,879
+ça vous donne l'adresse précise.
+
+183
+00:14:40,879 --> 00:14:42,759
+C'est la seule page sur laquelle il y a des informations
+
+184
+00:14:42,759 --> 00:14:44,719
+confidentielles. Aucune des autres.
+
+185
+00:14:45,339 --> 00:14:46,740
+Pourquoi on a fait ça comme ça ?
+
+186
+00:14:46,740 --> 00:14:48,699
+Pour vous permettre de, très
+
+187
+00:14:48,699 --> 00:14:51,059
+simplement, enlever
+
+188
+00:14:51,059 --> 00:14:52,679
+la localisation
+
+189
+00:14:52,679 --> 00:14:54,839
+au cas où vous envoyez ce dossier commercial
+
+190
+00:14:54,839 --> 00:14:56,240
+par e-mail
+
+191
+00:14:56,240 --> 00:14:58,479
+à des clients à qui vous n'avez pas encore
+
+192
+00:14:58,479 --> 00:14:59,519
+fait signer vos visites.
+
+193
+00:15:00,379 --> 00:15:02,240
+Parce que ce dossier commercial, vous pouvez très bien
+
+194
+00:15:02,240 --> 00:15:04,299
+le donner au client au cours de la visite,
+
+195
+00:15:04,299 --> 00:15:14,459
+Vous pouvez lui envoyer par e-mail après la visite, comme vous pouvez lui envoyer par e-mail avant la visite, à un moment où vous n'avez pas encore fait signer de bande visite.
+
+196
+00:15:15,000 --> 00:15:18,639
+Ou quelqu'un, vous pouvez vous dire, je ne vais pas lui donner l'adresse. C'est évident.
+
+197
+00:15:19,120 --> 00:15:27,059
+Comment ça se fait ? Eh bien, regardez, c'est tout simple. Lorsque vous allez sur la fiche de votre dossier commercial, comment cela fonctionne-t-il ?
+
+198
+00:15:27,059 --> 00:15:33,439
+Alors, on va prendre un numéro de mandat. Est-ce que quelqu'un a un joli numéro de mandat à me donner pour faire un test ?
+
+199
+00:15:33,440 --> 00:15:35,060
+Vous allez voir que ça va prendre...
+
+200
+00:15:35,060 --> 00:15:36,540
+Non, ça va prendre quelques temps.
+
+201
+00:15:36,980 --> 00:15:38,800
+Alors, est-ce que vous avez un numéro de mandat ?
+
+202
+00:15:38,800 --> 00:15:41,340
+L'un d'entre vous, le premier qui me donne son numéro de mandat,
+
+203
+00:15:41,460 --> 00:15:42,320
+ah ben voilà, c'est Catherine.
+
+204
+00:15:42,980 --> 00:15:45,060
+C'est Catherine, 83 990.
+
+205
+00:15:45,500 --> 00:15:49,480
+Donc, vous avez pour l'instant, lorsque vous allez sur les ventines,
+
+206
+00:15:49,680 --> 00:15:54,040
+83 990, vous avez le dossier, le bouton du dossier commercial normal.
+
+207
+00:15:54,040 --> 00:15:57,840
+C'est ici, vous voyez, et qui vous permet d'élever le PDF.
+
+208
+00:15:57,980 --> 00:16:00,420
+Ça, c'est le dossier commercial tel que vous le connaissez aujourd'hui.
+
+209
+00:16:00,419 --> 00:16:20,799
+D'ici quelques jours, ce dossier commercial vous fera pointer vers une autre adresse, qui sera celle-ci. Et ça vous dit que, vous voyez, votre dossier commercial est en cours de création. Vous recevrez un email pour vous avertir de sa disponibilité dans quelques minutes.
+
+210
+00:16:21,759 --> 00:16:27,819
+Le dossier commercial, il n'est pas automatique dans Eglantine.
+
+211
+00:16:28,019 --> 00:16:30,339
+Il faut d'abord qu'il soit généré. Pourquoi ?
+
+212
+00:16:30,339 --> 00:16:32,799
+Parce que comme je vous l'ai montré avec le dossier commercial de Christelle,
+
+213
+00:16:32,799 --> 00:16:39,979
+il doit aller chercher un certain nombre d'informations.
+
+214
+00:16:40,199 --> 00:16:42,099
+Il doit générer un premier QR code,
+
+215
+00:16:43,120 --> 00:16:47,799
+il doit générer un deuxième QR code qui pointe vers...
+
+216
+00:16:47,799 --> 00:16:58,019
+Il doit aller chercher les informations sur Google Maps, les rapatrier, les exercer.
+
+217
+00:16:58,539 --> 00:17:07,279
+Il doit également aller chercher des informations sur Wikipédia, récupérer les photos, récupérer le texte,
+
+218
+00:17:07,279 --> 00:17:12,700
+aller chercher les boulangeries, les pâtisseries, les pharmacies, les écoles, les collèges, les lycées, etc.
+
+219
+00:17:12,700 --> 00:17:24,940
+Il doit aller chercher toutes ces informations-là et il doit aller fabriquer une simulation du prêt et une simulation des frais de notaire.
+
+220
+00:17:25,120 --> 00:17:26,799
+Tout ça, ce sont des requêtes informatiques.
+
+221
+00:17:27,660 --> 00:17:31,559
+Elles ne peuvent pas être faites comme ça, de manière instantanée.
+
+222
+00:17:32,180 --> 00:17:35,720
+Il faut qu'un serveur aille faire toutes ces requêtes.
+
+223
+00:17:36,240 --> 00:17:41,840
+Ça prend quelques secondes ou quelques minutes selon que le serveur soit très occupé à ce moment-là ou peu occupé.
+
+224
+00:17:41,839 --> 00:17:57,059
+Ce que je suis en train de vous dire, c'est que si vous allez faire ça à 3h du matin, ça ira beaucoup plus vite, parce que peu de conseillers de la lucarne utilisent les glantines à 3h du matin, alors que si vous allez le faire à 13h ou 17h, tout le monde est au boulot, tout le monde est en train de bosser, ça prendra un petit peu plus de temps.
+
+225
+00:17:57,059 --> 00:18:00,819
+Quand je vous dis un petit peu plus de temps, ce n'est pas une heure, ça va prendre trois minutes, quelque chose comme ça.
+
+226
+00:18:01,519 --> 00:18:11,980
+Au bout de trois minutes, vous recevrez un petit message d'erreur qu'on est en train de corriger.
+
+227
+00:18:12,339 --> 00:18:17,440
+Ce n'est pas un problème, ne vous en faites pas, il va disparaître ce petit message d'erreur.
+
+228
+00:18:19,319 --> 00:18:24,299
+Vous recevrez un email pour vous dire que c'est bon, vous pouvez aller en page 2 sur Eglantine, votre dossier commercial est disponible.
+
+229
+00:18:24,299 --> 00:18:32,139
+Et ça va vous mener, et là je vais vous en mener sur le résultat que vous récupéreriez avec, par exemple, Christelle.
+
+230
+00:18:34,419 --> 00:18:45,659
+Une fois qu'il est généré, que vous retournez sur la page, ça vous dit dossier commercial du 24 avril 2025 à 17h17, parce que je l'ai généré tout à l'heure, au moment où Christelle nous a fait une demande, d'ailleurs, sur son dossier commercial.
+
+231
+00:18:46,139 --> 00:18:51,779
+Et vous pourrez l'afficher comme ça. Vous cliquez sur le bouton, et ça vous l'affiche dans un nouvel onglet.
+
+232
+00:18:52,980 --> 00:18:53,659
+Le voici.
+
+233
+00:18:54,299 --> 00:19:01,700
+Alors, j'écoute les pages. Sur la deuxième page se trouvent des informations confidentielles.
+
+234
+00:19:03,019 --> 00:19:08,019
+Comment fais-je pour ne pas donner ces informations confidentielles à mon client ?
+
+235
+00:19:08,019 --> 00:19:18,500
+C'est très simple. Si je veux enregistrer mon dossier commercial, je fais bouton droit de la souris, imprimer.
+
+236
+00:19:20,359 --> 00:19:23,819
+Imprimer, pas enregistrer son. C'est important de passer par...
+
+237
+00:19:23,819 --> 00:19:31,099
+Alors, bien entendu, la manipulation que je suis en train de vous montrer fonctionne sur Chrome, fonctionne sur Safari, sur la plupart des navigateurs,
+
+238
+00:19:31,099 --> 00:19:38,679
+mais si vous utilisez un navigateur qui ne fonctionne pas de la même manière, un navigateur un peu confidentiel, ça pourrait fonctionner différemment.
+
+239
+00:19:38,960 --> 00:19:44,879
+Normalement, la manipulation que je suis en train de vous montrer doit fonctionner sur à peu près tous les navigateurs.
+
+240
+00:19:45,419 --> 00:19:51,099
+Si vous vous rendez compte que vous avez une difficulté, bien entendu, vous savez, nous, nous recommandons l'utilisation de Chrome,
+
+241
+00:19:51,099 --> 00:19:55,359
+qui est le navigateur, selon nous, le plus compatible avec nos outils.
+
+242
+00:19:55,599 --> 00:19:58,980
+Donc, bouton droit de la souris, imprimer.
+
+243
+00:19:59,419 --> 00:20:00,839
+Vous voyez, imprimer.
+
+244
+00:20:02,619 --> 00:20:08,379
+Soit, alors, vous voyez qu'il s'affiche intégralement.
+
+245
+00:20:09,319 --> 00:20:12,019
+Soit je veux imprimer la totalité,
+
+246
+00:20:13,500 --> 00:20:17,740
+soit je veux imprimer le dossier commercial sans la page 2.
+
+247
+00:20:17,740 --> 00:20:20,019
+la première chose que je dois vérifier
+
+248
+00:20:20,019 --> 00:20:22,200
+c'est que ici, mon imprimante
+
+249
+00:20:22,200 --> 00:20:24,160
+est bien enregistrée
+
+250
+00:20:24,160 --> 00:20:25,720
+au format PDF, vous voyez
+
+251
+00:20:25,720 --> 00:20:27,539
+qu'il n'y ait pas ici le nom, par exemple
+
+252
+00:20:27,539 --> 00:20:30,099
+ici j'ai une imprimante HP 32D
+
+253
+00:20:30,099 --> 00:20:31,900
+130, c'est une imprimante
+
+254
+00:20:31,900 --> 00:20:34,120
+que j'ai, pour imprimer
+
+255
+00:20:34,120 --> 00:20:34,740
+des papiers
+
+256
+00:20:34,740 --> 00:20:37,819
+et là, je peux l'imprimer
+
+257
+00:20:37,819 --> 00:20:38,420
+en
+
+258
+00:20:38,420 --> 00:20:41,359
+feuille, ou là je crois que j'ai lancé
+
+259
+00:20:41,359 --> 00:20:43,720
+non c'est bon, je ne l'ai pas lancé, je peux l'imprimer
+
+260
+00:20:43,720 --> 00:20:45,140
+en feuille normale, bien sûr
+
+261
+00:20:45,140 --> 00:20:47,720
+mais, ce que nous essayons de faire nous, c'est de faire
+
+262
+00:20:47,720 --> 00:20:49,799
+un PDF. Donc, ici, je dois faire attention
+
+263
+00:20:49,799 --> 00:20:51,839
+à ce que j'ai bien enregistré
+
+264
+00:20:51,839 --> 00:20:52,759
+au format PDF.
+
+265
+00:20:54,039 --> 00:20:54,900
+Je clique ça.
+
+266
+00:20:55,779 --> 00:20:57,960
+Ça va me permettre de faire ce qu'on appelle
+
+267
+00:20:57,960 --> 00:20:59,019
+une impression virtuelle.
+
+268
+00:20:59,640 --> 00:21:01,200
+Je vais l'imprimer sur mon ordinateur
+
+269
+00:21:01,200 --> 00:21:03,200
+en PDF, en impression virtuelle.
+
+270
+00:21:03,960 --> 00:21:04,779
+Et ici, il y a écrit
+
+271
+00:21:04,779 --> 00:21:06,539
+page complète.
+
+272
+00:21:07,380 --> 00:21:09,759
+C'est ça qui est intéressant. Je ne veux pas
+
+273
+00:21:09,759 --> 00:21:11,700
+le document complet. Si je fais
+
+274
+00:21:11,700 --> 00:21:13,360
+page complète enregistrée, j'aurai
+
+275
+00:21:13,360 --> 00:21:15,620
+tout mon document. Très bien.
+
+276
+00:21:16,279 --> 00:21:17,019
+C'est ce que j'ai choisi.
+
+277
+00:21:17,019 --> 00:21:27,639
+Mais si je veux enlever la page 2, je ne vais pas prendre page complète, je vais dire personnaliser. Alors on vous fera une petite vidéo tuto là-dessus bien sûr.
+
+278
+00:21:27,640 --> 00:21:29,400
+et ici
+
+279
+00:21:29,400 --> 00:21:31,340
+je vais mettre
+
+280
+00:21:31,340 --> 00:21:32,700
+personnalisé
+
+281
+00:21:32,700 --> 00:21:37,720
+alors 1,7
+
+282
+00:21:37,720 --> 00:21:39,440
+ça me met la totalité des pages
+
+283
+00:21:39,440 --> 00:21:41,200
+ce n'est pas ce que je veux
+
+284
+00:21:41,200 --> 00:21:43,600
+et je vais mettre
+
+285
+00:21:43,600 --> 00:21:46,720
+1
+
+286
+00:21:46,720 --> 00:21:48,060
+j'annule
+
+287
+00:21:48,060 --> 00:21:50,300
+3
+
+288
+00:21:50,300 --> 00:21:52,420
+j'annule
+
+289
+00:21:52,420 --> 00:21:54,000
+4, j'annule
+
+290
+00:21:54,000 --> 00:21:56,680
+5, j'annule
+
+291
+00:21:56,680 --> 00:21:59,480
+6,007.
+
+292
+00:22:01,420 --> 00:22:01,820
+Remarquez,
+
+293
+00:22:02,860 --> 00:22:03,600
+je n'ai pas mis la 2.
+
+294
+00:22:04,340 --> 00:22:08,160
+1,3,4, etc.
+
+295
+00:22:09,220 --> 00:22:10,600
+Et vous voyez, ça m'a enlevé la page 2.
+
+296
+00:22:11,700 --> 00:22:13,480
+Parce que je n'ai pas mis la deuxième page.
+
+297
+00:22:13,920 --> 00:22:14,440
+Tout simplement.
+
+298
+00:22:14,920 --> 00:22:18,620
+Je dis ici les pages que je souhaite imprimer.
+
+299
+00:22:18,620 --> 00:22:23,620
+Je pourrais dire 1,4,5,6.
+
+300
+00:22:23,619 --> 00:22:26,039
+6 et ça ne m'imprimerait que la 1
+
+301
+00:22:26,039 --> 00:22:27,459
+la 4, la 5 et la 6
+
+302
+00:22:27,459 --> 00:22:30,039
+parce que je ne veux pas mettre les frais de notaire
+
+303
+00:22:30,039 --> 00:22:32,079
+je ne sais pas pourquoi, je ne veux pas mettre la 3
+
+304
+00:22:32,079 --> 00:22:34,359
+c'est ici que je décide
+
+305
+00:22:34,359 --> 00:22:36,419
+grâce à ce bouton personnalisé
+
+306
+00:22:36,419 --> 00:22:38,000
+les pages
+
+307
+00:22:38,000 --> 00:22:39,399
+que je vais mettre dans mon PDF
+
+308
+00:22:39,399 --> 00:22:42,359
+c'est chez tous les ordinateurs de tout le monde
+
+309
+00:22:42,359 --> 00:22:44,079
+c'est pas oui mais on n'a pas
+
+310
+00:22:44,079 --> 00:22:46,059
+l'ordinateur qu'il faut, vous utilisez
+
+311
+00:22:46,059 --> 00:22:47,719
+Chrome, ça fonctionnera sur tout le monde
+
+312
+00:22:47,719 --> 00:22:49,679
+donc moi en fait je vais mettre 1
+
+313
+00:22:49,679 --> 00:22:51,899
+virgule 3, virgule 4
+
+314
+00:22:51,900 --> 00:22:55,100
+il circule 5, il circule 6, il circule 7,
+
+315
+00:22:55,800 --> 00:22:58,120
+boum, je n'ai pas la page 2,
+
+316
+00:22:58,540 --> 00:23:00,060
+je n'ai pas les informations confidentielles,
+
+317
+00:23:00,080 --> 00:23:01,840
+et je fais enregistrer.
+
+318
+00:23:02,840 --> 00:23:07,180
+Ça va m'enregistrer ça dans mon ordinateur,
+
+319
+00:23:08,300 --> 00:23:11,200
+et regardez, ici, je vais dans mes téléchargements,
+
+320
+00:23:12,160 --> 00:23:15,320
+et voici dossier underscore 8402.
+
+321
+00:23:16,900 --> 00:23:19,300
+Le voici, avec la page 1,
+
+322
+00:23:19,560 --> 00:23:21,519
+je vais zoomer un peu, la page 1,
+
+323
+00:23:21,900 --> 00:23:31,560
+La page 3, eh oui, il n'y a pas la page 2, qui comporte des informations confidentielles que j'ai donc exclues de mon impression virtuelle.
+
+324
+00:23:32,040 --> 00:23:36,060
+La page 4, la page 5, la page 6, enfin j'ai toutes mes pages jusqu'à mes frais de notaire.
+
+325
+00:23:38,320 --> 00:23:45,740
+Donc, c'est tout simple en fait, il me suffit lorsque j'enregistre mon PDF de ne pas inclure la page 2,
+
+326
+00:23:45,740 --> 00:23:48,700
+page qui contient des informations
+
+327
+00:23:48,700 --> 00:23:50,940
+confidentielles lorsque je souhaite
+
+328
+00:23:50,940 --> 00:23:53,019
+envoyer ce dossier commercial avant
+
+329
+00:23:53,019 --> 00:23:54,900
+la visite, avant
+
+330
+00:23:54,900 --> 00:23:55,940
+d'avoir fait
+
+331
+00:23:55,940 --> 00:23:58,839
+la signature de mon bon de visite.
+
+332
+00:23:59,319 --> 00:24:00,140
+Ok ?
+
+333
+00:24:00,140 --> 00:24:02,740
+C'est tout simple.
+
+334
+00:24:02,799 --> 00:24:04,019
+Alors bien entendu, comme je vous le disais,
+
+335
+00:24:04,740 --> 00:24:05,940
+on va vous faire un tuto là-dessus.
+
+336
+00:24:06,359 --> 00:24:07,819
+On va vous faire un petit tuto là-dessus,
+
+337
+00:24:08,359 --> 00:24:10,559
+une petite vidéo très rapide qu'on va intégrer
+
+338
+00:24:10,559 --> 00:24:12,120
+directement à Eglantine.
+
+339
+00:24:12,799 --> 00:24:14,940
+Pas de questions là-dessus ? Non ?
+
+340
+00:24:15,740 --> 00:24:22,259
+Pierre dit qu'on peut aussi taper 1-2,4-7, mais là, ça va mettre la 2.
+
+341
+00:24:23,559 --> 00:24:27,779
+Si je mets 1-2,4-7, ça va exclure la 3.
+
+342
+00:24:28,440 --> 00:24:31,000
+Ça va faire de 1 à 2 et de 4 à 7.
+
+343
+00:24:31,500 --> 00:24:33,279
+Pierre a raison, on peut également faire ça comme ça.
+
+344
+00:24:36,259 --> 00:24:38,180
+Pas de questions là-dessus ? Tout est OK ?
+
+345
+00:24:38,180 --> 00:24:39,240
+C'est tout simple, à part vous me direz.
+
+346
+00:24:39,299 --> 00:24:42,259
+Et ça, ça arrive très, très, très, très, très rapidement.
+
+347
+00:24:42,259 --> 00:24:45,799
+ça va être un petit peu
+
+348
+00:24:45,799 --> 00:24:47,960
+chez les bêta-testeurs et ensuite pour tout le monde
+
+349
+00:24:47,960 --> 00:24:49,819
+autre chose
+
+350
+00:24:49,819 --> 00:24:51,980
+importante parce que là ça a commencé
+
+351
+00:24:51,980 --> 00:24:53,379
+à devenir vraiment pénible
+
+352
+00:24:53,379 --> 00:24:56,259
+vraiment vraiment vraiment pénible
+
+353
+00:24:56,259 --> 00:24:58,079
+vous étiez
+
+354
+00:24:58,079 --> 00:25:00,259
+très nombreux à avoir des problèmes
+
+355
+00:25:00,259 --> 00:25:01,359
+avec le Figaro
+
+356
+00:25:01,359 --> 00:25:03,259
+c'est enfin résolu
+
+357
+00:25:03,259 --> 00:25:05,859
+vous le voyez, toutes les photos s'affichent
+
+358
+00:25:05,859 --> 00:25:07,879
+désormais bien avec
+
+359
+00:25:07,879 --> 00:25:09,619
+le Figaro
+
+360
+00:25:09,619 --> 00:25:11,759
+il a quand même fallu, regardez
+
+361
+00:25:11,759 --> 00:25:37,160
+Je ne vous mens pas, il a fallu avec les gens du Figaro, regardez ma boîte mail, il a fallu quand même 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 échanges d'email avec le Figaro où Michel, Thierry et moi sommes tous les trois intervenus pour enfin régler ce problème de photos.
+
+362
+00:25:37,160 --> 00:25:41,480
+Parce qu'au début, vous vous souvenez, les photos, elles s'affichaient, puis elles disparaissaient, puis elles revenaient,
+
+363
+00:25:41,560 --> 00:25:42,820
+et puis là, il n'y en avait quasiment plus du tout.
+
+364
+00:25:43,600 --> 00:25:52,080
+Ça a été extrêmement compliqué, mais on a enfin résolu ça grâce à M. Fabrice Villon, du support technique du Figaro.
+
+365
+00:25:52,320 --> 00:25:55,660
+Donc, les photos sur le Figaro, c'est réglé.
+
+366
+00:25:55,820 --> 00:26:04,160
+Alors, s'il vous plaît, restez vigilants, vérifiez qu'elles ne redisparaissent pas comme ça, par une espèce de magie.
+
+367
+00:26:04,160 --> 00:26:05,160
+D'accord ?
+
+368
+00:26:05,160 --> 00:26:09,060
+Il n'y a également pas de questions particulières.
+
+369
+00:26:10,620 --> 00:26:12,200
+Je me suis trompé, j'ai exclu la 3.
+
+370
+00:26:12,440 --> 00:26:14,000
+Ce n'est pas grave, il suffit de recommencer.
+
+371
+00:26:15,140 --> 00:26:18,320
+Si vous imprimez mal votre PDF, vous le supprimez, vous le recommencez.
+
+372
+00:26:18,500 --> 00:26:19,060
+C'est tout simple.
+
+373
+00:26:20,440 --> 00:26:25,360
+Ce qui est bien sur ce logis aussi, nous avons enfin les logos et les noms dans leur nouvelle présentation.
+
+374
+00:26:25,540 --> 00:26:27,640
+Oui, oui, oui, oui, oui, oui, oui, ça c'est joli.
+
+375
+00:26:28,600 --> 00:26:33,320
+C'est vrai, vous avez raison, ce n'est pas ça qui change entièrement la donne.
+
+376
+00:26:33,319 --> 00:26:36,139
+de votre productivité mais c'est quand même plus joli
+
+377
+00:26:36,139 --> 00:26:38,599
+c'est un peu plus pro, Laurent a tout à fait raison
+
+378
+00:26:38,599 --> 00:26:41,859
+dernière chose dont on va parler
+
+379
+00:26:41,859 --> 00:26:43,960
+pour la dernière demi-heure, alors sauf si vous avez des questions
+
+380
+00:26:43,960 --> 00:26:45,559
+parce que
+
+381
+00:26:45,559 --> 00:26:47,519
+on nous a posé
+
+382
+00:26:47,519 --> 00:26:49,839
+je crois, la question est revenue trois fois
+
+383
+00:26:49,839 --> 00:26:51,879
+dans les dernières semaines, donc je me suis dit que j'allais
+
+384
+00:26:51,879 --> 00:26:54,059
+vous en parler, je sais qu'on en avait déjà parlé
+
+385
+00:26:54,059 --> 00:26:55,859
+il y a longtemps à la demande
+
+386
+00:26:55,859 --> 00:26:57,980
+de Marjorie, on va en reparler
+
+387
+00:26:57,980 --> 00:26:59,559
+ce soir si vous le voulez bien
+
+388
+00:26:59,559 --> 00:27:14,599
+Alors, la raison pour laquelle je pense que ça nous est revenu ces 3-4 dernières semaines, c'est parce que nombre d'entre vous sont en train de faire ce qu'on appelle leur 2035, c'est-à-dire la déclaration de chiffre d'affaires, qu'on appelle communément également le bilan.
+
+389
+00:27:14,599 --> 00:27:25,519
+On dit je fais mon bilan. Parce que juridiquement et comptablement, pas très très exact, vous faites votre déclaration de chiffre d'affaires 2035 lorsque vous n'êtes pas à la micro-entreprise.
+
+390
+00:27:25,819 --> 00:27:34,139
+Parce que si vous êtes à la micro-entreprise, vous ne tenez pas de comptabilité pour l'instant. Parce qu'on en reparlera bientôt, vous le savez, les règles vont changer,
+
+391
+00:27:34,140 --> 00:27:37,020
+même pour les micro-entrepreneurs avec l'obligation pour les agents
+
+392
+00:27:37,020 --> 00:27:44,759
+d'utiliser un logiciel de facturation certifiée par l'État.
+
+393
+00:27:45,340 --> 00:27:47,840
+C'est complètement imbécile pour des micro-entrepreneurs.
+
+394
+00:27:48,880 --> 00:27:51,600
+Quelqu'un qui est au régime réel, je peux l'entendre,
+
+395
+00:27:51,700 --> 00:27:54,840
+un micro-entrepreneur, c'est ridicule, c'est une stupidité sans nom,
+
+396
+00:27:55,400 --> 00:28:00,080
+et c'est encore un des coups de génie de nos fonctionnaires.
+
+397
+00:28:00,180 --> 00:28:01,900
+Il faut bien qu'ils soient payés à quelque chose, les petits lepins.
+
+398
+00:28:01,900 --> 00:28:11,820
+Alors, on va donc parler des dépenses optimisables au régime réel.
+
+399
+00:28:11,820 --> 00:28:18,660
+Alors, qu'est-ce que le régime réel ? Peut-être que nombre d'entre vous ne sont pas tout à fait familier avec ça.
+
+400
+00:28:18,660 --> 00:28:39,660
+Alors, le régime réel. Il existe, lorsque l'on est indépendant, deux manières principales de payer ses impôts et ses cotisations sociales, c'est-à-dire il y a deux régimes fiscaux et sociaux distincts.
+
+401
+00:28:39,660 --> 00:29:03,500
+Le premier régime fiscal et social qui est le plus répandu chez les agents commerciaux et immobiliers, c'est le régime de la micro-entreprise, que vous m'entendez très souvent appeler l'auto-entreprise.
+
+402
+00:29:03,500 --> 00:29:13,759
+parce qu'au-delà d'être relativement légitime et traditionnaliste en tout, j'ai du mal à changer mes habitudes.
+
+403
+00:29:14,039 --> 00:29:18,059
+Quand j'appelle les choses d'une certaine manière, je les appelle de cette manière-là jusqu'à la fin des temps.
+
+404
+00:29:18,880 --> 00:29:25,240
+Il y a une flopée de rues et de places dans Paris que j'appelle par des noms que personne ne connaît,
+
+405
+00:29:25,299 --> 00:29:29,859
+parce que ça fait 20 ans, 30 ans que ça a changé, mais moi, la place Perère, c'est la place Perère.
+
+406
+00:29:29,859 --> 00:29:53,539
+Ce ne sera jamais la place du maréchal Jean. C'est pareil pour l'auto-entreprise. À chaque fois que vous m'entendez dire auto-entreprise, c'est la micro-entreprise. C'est la même chose. Ce ne sont pas deux régimes distincts, différents. L'auto-entreprise est devenue, au cours d'une des nombreuses réformes que nous avons chaque année, l'auto-entreprise est devenue la micro-entreprise.
+
+407
+00:29:53,539 --> 00:30:15,460
+La micro-entreprise, c'est un régime fiscal et social simplifié, dans lequel on est la plupart du temps assoumis à la TVA, dans lequel on paye un montant forfaitaire de 22% plus 2,2% pour l'impôt sur le revenu sur son chiffre d'affaires.
+
+408
+00:30:15,460 --> 00:30:20,160
+on fait sa déclaration tous les mois ou tous les trimestres sur un site internet,
+
+409
+00:30:20,500 --> 00:30:25,340
+l'auto-entrepreneur.fr, c'est aussi simplifié que possible,
+
+410
+00:30:25,620 --> 00:30:28,019
+même si depuis la création de l'auto-entreprise,
+
+411
+00:30:28,700 --> 00:30:31,240
+elle était sous la présidence de Nicolas Sarkozy,
+
+412
+00:30:32,500 --> 00:30:36,259
+qui avait vraiment créé un régime hyper simplifié,
+
+413
+00:30:36,600 --> 00:30:37,779
+pour pousser tout le monde à dire,
+
+414
+00:30:38,160 --> 00:30:40,500
+« Ouais, je vais monter ma boîte, même si c'est une toute petite boîte,
+
+415
+00:30:41,140 --> 00:30:43,120
+je vais créer ma boîte, c'est hyper simple,
+
+416
+00:30:43,120 --> 00:30:45,440
+je n'aurai pas de complications particulières. »
+
+417
+00:30:45,440 --> 00:30:55,620
+Avec le temps, les choses se sont pas mal complexifiées, on a mis un petit peu de TVA, on a changé, on a mis des paliers, on a mis des plafonds, on a mis des machins, on a mis des tolérances, etc.
+
+418
+00:30:57,299 --> 00:31:01,620
+La micro-entreprise d'aujourd'hui est quand même bien plus complexe que l'auto-entreprise du départ.
+
+419
+00:31:01,620 --> 00:31:08,660
+La plupart des négociateurs en immobilier sont à la micro-entreprise, au moins pour leur démarrage.
+
+420
+00:31:09,660 --> 00:31:13,920
+Très rare sont les négociateurs qui commencent tout de suite au régime réel.
+
+421
+00:31:14,779 --> 00:31:21,519
+Mais, normalement, le régime par défaut d'un indépendant, à l'origine, c'est le régime réel.
+
+422
+00:31:21,820 --> 00:31:25,480
+Le régime qui est ici, que nous allons non pas étudier aujourd'hui,
+
+423
+00:31:25,560 --> 00:31:28,519
+parce qu'il ne s'agit pas de dire qu'est-ce que la micro-entreprise, qu'est-ce que le régime réel.
+
+424
+00:31:28,519 --> 00:31:36,019
+Ce que nous allons voir aujourd'hui, c'est quelles sont les dépenses que nous pouvons passer dans notre 2035,
+
+425
+00:31:36,019 --> 00:31:49,019
+C'est en ce moment, dans notre bilan, comment ça fonctionne, qu'est-ce qui est justifié, qu'est-ce qui n'est pas justifié et quel est donc l'intérêt d'être au régime réel.
+
+426
+00:31:49,119 --> 00:31:56,599
+Parce qu'en fait, ce que l'on ne voit pas, c'est que le régime de la micro-entreprise, s'il apporte une grande simplification, de moins en moins simple avec les années qui passent,
+
+427
+00:31:56,599 --> 00:32:16,579
+S'il apporte une grande simplification et moins d'arrachage de cheveux, c'est un régime qui assez rapidement, quand on travaille et qu'on fait des ventes, est limitatif. C'est un régime dont on se dit avec les temps, finalement, ce n'est pas trop mon avantage.
+
+428
+00:32:16,579 --> 00:32:18,980
+C'était pratique pour démarrer parce que c'était simple.
+
+429
+00:32:19,119 --> 00:32:21,980
+Moi, il fallait d'abord que je me concentre sur la rentrée de mandat, sur tout ça.
+
+430
+00:32:22,539 --> 00:32:28,019
+Bon, maintenant que je commence à gagner un peu de sous, la micro-entreprise, est-ce que c'est une bonne idée ou pas ?
+
+431
+00:32:28,019 --> 00:32:31,439
+Et assez rapidement, ça devient plus trop une bonne idée.
+
+432
+00:32:31,720 --> 00:32:35,259
+Parce qu'on s'aperçoit que plus on travaille, plus on gagne de l'argent.
+
+433
+00:32:35,939 --> 00:32:37,519
+Plus on travaille, plus on gagne de l'argent.
+
+434
+00:32:37,679 --> 00:32:40,220
+Plus on dépense de l'argent pour gagner cet argent.
+
+435
+00:32:41,019 --> 00:32:42,199
+Je vais vous donner un exemple tout bête.
+
+436
+00:32:42,960 --> 00:32:45,980
+Plus vous faites de ventes, ça veut dire que vous avez fait plus de visites.
+
+437
+00:32:45,980 --> 00:32:49,140
+Pour faire plus de visites, vous avez dépensé plus de carburant dans la voiture.
+
+438
+00:32:49,400 --> 00:32:50,559
+Vous voyez, c'est aussi simple que ça.
+
+439
+00:32:51,420 --> 00:33:01,120
+Donc plus on travaille, plus on fait de ventes, plus on doit dépenser, investir dans cette activité professionnelle pour faire plus de ventes.
+
+440
+00:33:01,480 --> 00:33:05,440
+Or, le régime de la micro-entreprise me fait dépenser tout ça de ma poche.
+
+441
+00:33:06,440 --> 00:33:09,079
+Je ne récupère absolument rien dessus.
+
+442
+00:33:09,079 --> 00:33:32,359
+C'est la raison pour laquelle, au bout d'un certain temps, on se dit, le régime réel, est-ce qu'il ne serait pas plus avantageux pour moi ? Oui, il est plus complexe, c'est vrai. Oui, il me fait payer des cotisations sociales plus élevées, c'est vrai, mais il me permet quand même d'optimiser mes impôts grâce aux déductions fiscales et sociales.
+
+443
+00:33:32,359 --> 00:33:35,519
+Concrètement, qu'est-ce que ça veut dire ?
+
+444
+00:33:35,519 --> 00:33:40,139
+Lorsque l'on est au régime réel, on fait l'opération suivante
+
+445
+00:33:40,139 --> 00:33:45,179
+On prend le CA hors-taxe
+
+446
+00:33:45,179 --> 00:33:48,719
+CAHT, ça veut dire le chiffre d'affaires hors-taxe
+
+447
+00:33:48,719 --> 00:33:54,359
+Le chiffre d'affaires hors-taxe, c'est l'addition de tous vos encaissements
+
+448
+00:33:54,359 --> 00:33:58,639
+C'est l'addition de tous vos encaissements
+
+449
+00:33:58,639 --> 00:34:02,019
+Alors, l'année, on calcule sur une année
+
+450
+00:34:02,019 --> 00:34:12,860
+C'est l'addition de tous vos encaissements de l'année, c'est-à-dire à chaque fois que vous avez gagné des honoraires qui vous ont été versés, que ce soit en 1, 2, 3, 4, 10, 20 ventes, on s'en fout, on additionne tout.
+
+451
+00:34:13,960 --> 00:34:17,440
+Ça vous donne un chiffre d'affaires hors-taxe. Il faut enlever la TVA.
+
+452
+00:34:17,440 --> 00:34:32,840
+Que vous ayez reçu la TVA de la part de l'advocat parce que vous êtes soumis à la TVA, assujetti à la TVA du cadre, ou que vous ayez reçu vos honoraires hors taxe parce que vous n'êtes pas assujetti à la TVA,
+
+453
+00:34:32,840 --> 00:34:56,800
+C'est le cas lorsque vous êtes dans une certaine catégorie d'une micro-entreprise. Dans tous les cas, quand on parle de comptabilité et de fiscalité, tous les montants sont à envisager hors taxe. Car la TVA, c'est une taxe qui passe entre les mains et sur les comptes bancaires de tout le monde, mais qui est invariablement finie à Bercy dans les caisses de l'État.
+
+454
+00:34:57,519 --> 00:35:04,340
+Donc, on prend le TA, c'est le chiffre d'affaires, c'est l'addition de tous vos encaissements de l'année, hors taxe.
+
+455
+00:35:04,920 --> 00:35:06,420
+Il est déjà hors taxe, on le laisse comme ça.
+
+456
+00:35:06,600 --> 00:35:09,100
+Si il est TTC, on enlève la TVA.
+
+457
+00:35:09,580 --> 00:35:11,140
+Comment enlever la TVA ?
+
+458
+00:35:11,139 --> 00:35:22,319
+devient la TVA égale le CA, non, je vais vous mettre le TTC, c'est-à-dire le montant TTC, divisé par 1,2.
+
+459
+00:35:23,359 --> 00:35:31,279
+1,2. Non, ça c'est l'hortaxe, excusez-moi, pas la TVA, je vous ai dit une bêtise, c'est l'hortaxe, je vous fais des excuses.
+
+460
+00:35:31,739 --> 00:35:38,279
+Le hortaxe, c'est-à-dire, c'est le TTC divisé par, là, tout le monde a dû ouvrir son ordinateur, il n'y en a pas qui s'y racontent,
+
+461
+00:35:38,280 --> 00:35:40,240
+c'est le hors-taxe
+
+462
+00:35:40,240 --> 00:35:42,019
+c'est le TTC
+
+463
+00:35:42,019 --> 00:35:43,480
+divisé par 1.2
+
+464
+00:35:43,480 --> 00:35:45,380
+vous ne posez pas de question sur ce 1.2
+
+465
+00:35:45,380 --> 00:35:47,220
+parce que nous l'intégralité de nos activités
+
+466
+00:35:47,220 --> 00:35:48,600
+elles sont à 20% de TVA
+
+467
+00:35:48,600 --> 00:35:51,080
+on n'a pas à se casser les pieds avec des 5,5
+
+468
+00:35:51,080 --> 00:35:52,440
+avec des machins, avec des chiffres de poids
+
+469
+00:35:52,440 --> 00:35:54,500
+nous c'est 1.2 parce que c'est
+
+470
+00:35:54,500 --> 00:35:57,320
+20% de TVA
+
+471
+00:35:57,320 --> 00:35:59,000
+et ça vous donne le montant hors-taxe
+
+472
+00:35:59,000 --> 00:36:00,420
+si vous aviez le TTC
+
+473
+00:36:00,420 --> 00:36:02,300
+vous enlevez la TVA comme ça
+
+474
+00:36:02,300 --> 00:36:03,500
+d'accord ?
+
+475
+00:36:03,500 --> 00:36:06,880
+donc le CA hors-taxe
+
+476
+00:36:06,880 --> 00:36:09,960
+l'addition de tous vos encaissements de l'année
+
+477
+00:36:09,960 --> 00:36:12,760
+moins
+
+478
+00:36:12,760 --> 00:36:15,500
+toutes les dépenses
+
+479
+00:36:15,500 --> 00:36:20,079
+hors taxe de l'année.
+
+480
+00:36:21,700 --> 00:36:23,780
+Les dépenses hors taxe de l'année,
+
+481
+00:36:23,860 --> 00:36:25,840
+maintenant je vais le mettre entre parenthèses pour faire connaître
+
+482
+00:36:25,840 --> 00:36:28,599
+on appelle ça
+
+483
+00:36:28,599 --> 00:36:31,200
+vos charges.
+
+484
+00:36:34,559 --> 00:36:35,460
+Vos charges,
+
+485
+00:36:35,460 --> 00:36:37,260
+ce sont les dépenses hors taxes
+
+486
+00:36:37,260 --> 00:36:39,199
+vous appelez ça parfois des charges d'exploitation
+
+487
+00:36:39,199 --> 00:36:40,420
+c'est un terme
+
+488
+00:36:40,420 --> 00:36:42,860
+un petit peu différent
+
+489
+00:36:42,860 --> 00:36:43,740
+mais on va dire que c'est pareil
+
+490
+00:36:43,740 --> 00:36:46,000
+c'est tellement peu différent que dans notre cas
+
+491
+00:36:46,000 --> 00:36:48,199
+ça n'a aucune espèce d'importance
+
+492
+00:36:48,199 --> 00:36:50,720
+les charges, on va appeler aussi charges d'exploitation
+
+493
+00:36:50,720 --> 00:36:53,119
+ce sont toutes les charges qui ont été nécessaires
+
+494
+00:36:53,119 --> 00:36:54,559
+pour exploiter cette entreprise
+
+495
+00:36:54,559 --> 00:36:56,480
+ce sont toutes les dépenses
+
+496
+00:36:56,480 --> 00:36:57,940
+qu'il a fallu faire
+
+497
+00:36:57,940 --> 00:37:00,440
+pour encaisser
+
+498
+00:37:00,440 --> 00:37:01,579
+ce CA
+
+499
+00:37:01,579 --> 00:37:04,480
+pour pouvoir faire ma vente
+
+500
+00:37:04,480 --> 00:37:11,639
+et encaisser 10 000 euros, il a fallu que je mette de l'essence dans ma voiture pour aller faire mes visites.
+
+501
+00:37:13,139 --> 00:37:19,000
+Pas d'essence, pas de déplacement en voiture, pas de visite, pas de vente, pas de chiffre d'affaires.
+
+502
+00:37:19,000 --> 00:37:25,219
+Vous comprenez que nous sommes en train de parler de dépenses qui sont nécessaires à l'activité professionnelle,
+
+503
+00:37:25,400 --> 00:37:31,000
+nécessaires à l'exploitation de l'entreprise, nécessaires à la production de ce chiffre d'affaires hors taxe.
+
+504
+00:37:31,000 --> 00:37:41,960
+ok le cia moins les charges dans les charges ce sont les dépenses il ya également les cotisations
+
+505
+00:37:41,960 --> 00:37:48,099
+sociales alors les experts vous diront attention aux cotisations sociales ce ne sont pas des
+
+506
+00:37:48,099 --> 00:37:52,940
+charges parce que on rentre pas là dedans là encore c'est trop compliqué mais nous on va
+
+507
+00:37:52,940 --> 00:37:57,780
+s'intéresser aux dépenses véritablement aux charges d'exploitation ok mais normalement
+
+508
+00:37:57,780 --> 00:38:20,800
+Vous enlevez également vos cotisations sociales. On ne revient pas dessus parce que ce n'est pas le thème d'aujourd'hui. Et ça, ça vous donne votre résultat. Votre résultat est ce que vous obtenez lorsque vous prenez votre chiffre d'affaires hors taxes et que vous soustrayez vos dépenses.
+
+509
+00:38:20,800 --> 00:38:22,620
+On vous donne un résultat.
+
+510
+00:38:23,560 --> 00:38:34,780
+1. C'est non seulement ce qui vous revient dans la poche, c'est votre revenu, mais également c'est là-dessus que vous avez payé vos impôts sur le revenu, puisque c'est votre revenu personnel.
+
+511
+00:38:36,260 --> 00:38:36,880
+Le résultat.
+
+512
+00:38:36,880 --> 00:38:59,579
+Le résultat, en fait, vous voyez que le fait d'avoir mis les charges d'exploitation en soustraction du CA hors taxe, ça vous donne un résultat faible, mais un résultat duquel on ne déduira pas derrière vos dépenses professionnelles.
+
+513
+00:38:59,579 --> 00:39:13,440
+En gros, le micro-entrepreneur, il paye toutes les charges d'exploitation de sa poche, avec ses sous à lui, avec son revenu à lui, qui normalement lui revient dans la poche pour aller à Disneyland, pour aller aux vacances et pour aller chez Auchan, il paye toute sa poche.
+
+514
+00:39:13,440 --> 00:39:21,880
+Donc, quand vous êtes au régime réel, non, vous déduisez ça de votre chiffre d'affaires hors-taxe avant le résultat.
+
+515
+00:39:22,579 --> 00:39:31,059
+Ça veut dire que vos cotisations sociales, qui en fait vont être calculées là-dessus, c'est-à-dire avec les charges déjà enlevées,
+
+516
+00:39:31,780 --> 00:39:39,860
+et vos impôts sur le revenu qui seront calculés sur le chiffre d'affaires moins les charges moins les cotisations sociales,
+
+517
+00:39:39,860 --> 00:39:42,160
+et là ce sera vraiment votre résultat net dans la poche,
+
+518
+00:39:43,039 --> 00:39:45,460
+vos impôts sur le revenu seront calculés sur une assiette,
+
+519
+00:39:45,559 --> 00:39:48,519
+sur une base infiniment plus faible
+
+520
+00:39:48,519 --> 00:39:51,860
+que le micro-entrepreneur qui paye toute sa poche.
+
+521
+00:39:53,039 --> 00:39:55,660
+On va rentrer dans le détail, ça va devenir un petit peu plus clair.
+
+522
+00:39:56,140 --> 00:39:58,940
+On va rentrer dans le détail en essayant de faire la liste,
+
+523
+00:39:58,940 --> 00:40:01,240
+et là je vais vous demander de ne pas hésiter à participer,
+
+524
+00:40:01,680 --> 00:40:04,039
+parce que vous pouvez avoir des bonnes idées auxquelles moi je n'ai pas...
+
+525
+00:40:04,039 --> 00:40:06,780
+Parce que la liste des charges d'exploitation,
+
+526
+00:40:06,920 --> 00:40:09,519
+on peut dire, voilà, nous dans notre métier, on sait qu'il y a à peu près ça.
+
+527
+00:40:09,860 --> 00:40:12,860
+mais potentiellement ça n'a aucune limite
+
+528
+00:40:12,860 --> 00:40:14,480
+à chaque fois que quelqu'un vient
+
+529
+00:40:14,480 --> 00:40:16,579
+avec une nouvelle idée
+
+530
+00:40:16,579 --> 00:40:19,140
+qui pourrait booster son chiffre d'affaires
+
+531
+00:40:19,140 --> 00:40:20,400
+à laquelle on n'avait pas pensé avant
+
+532
+00:40:20,400 --> 00:40:22,220
+vous voyez que la liste va s'allonger
+
+533
+00:40:22,220 --> 00:40:23,820
+et je vais vous donner un exemple tout bête
+
+534
+00:40:23,820 --> 00:40:24,960
+qu'on étudiera tout à l'heure
+
+535
+00:40:24,960 --> 00:40:27,059
+celui qui paye des pubs Facebook
+
+536
+00:40:27,059 --> 00:40:31,200
+pour ses annonces immobilières
+
+537
+00:40:31,200 --> 00:40:33,340
+les pubs Facebook qui payent
+
+538
+00:40:33,340 --> 00:40:34,559
+ce sont des charges d'exploitation
+
+539
+00:40:34,559 --> 00:40:37,500
+vous auriez parlé de ça il y a 15 ans
+
+540
+00:40:37,500 --> 00:40:39,059
+à un agent commercial
+
+541
+00:40:39,059 --> 00:40:40,699
+quand Facebook n'existait pas,
+
+542
+00:40:42,000 --> 00:40:43,019
+ils auraient dit, ouais, elle est plus Facebook.
+
+543
+00:40:43,139 --> 00:40:44,199
+C'est quoi ? Ça n'existe pas.
+
+544
+00:40:44,779 --> 00:40:46,259
+Avec le temps, est arrivé Facebook.
+
+545
+00:40:46,460 --> 00:40:48,639
+Facebook a pris une place dans la publicité en ligne
+
+546
+00:40:48,639 --> 00:40:51,299
+et aujourd'hui, nombre d'entre vous payent des plus de Facebook
+
+547
+00:40:51,299 --> 00:40:53,739
+pour leur activité professionnelle.
+
+548
+00:40:53,860 --> 00:40:56,119
+Aujourd'hui, Facebook, c'est une, je ne vais pas dire nouvelle,
+
+549
+00:40:56,279 --> 00:40:59,699
+mais une charge d'exploitation récente qui n'existait pas auparavant.
+
+550
+00:40:59,699 --> 00:41:03,559
+C'est pour ça que cette liste, on va voir la liste des dépenses type
+
+551
+00:41:03,559 --> 00:41:06,940
+dans notre métier, mais potentiellement, elle n'a pas de limite.
+
+552
+00:41:06,940 --> 00:41:09,679
+On peut trouver des nouvelles choses chaque jour, chaque année.
+
+553
+00:41:10,679 --> 00:41:15,920
+C'est ça que nous allons voir aujourd'hui, les différents types de charges.
+
+554
+00:41:16,200 --> 00:41:21,740
+Et assez rapidement, je vais vous dire comment on fait un petit calcul très simple.
+
+555
+00:41:22,460 --> 00:41:30,940
+Alors, la première catégorie de charges est la plus évidente parce qu'elle vous semble la plus chère.
+
+556
+00:41:31,539 --> 00:41:33,559
+Ce sont les frais de déplacement.
+
+557
+00:41:33,559 --> 00:41:53,279
+J'ai préparé mes petites notes à côté. Vous savez, comme je fais à chaque fois, j'ai une petite merdouille de police de caractère. C'était ça. Et puis, je vais me mettre en… Voilà. On va dire que c'est ça.
+
+558
+00:41:53,280 --> 00:41:56,580
+Premièrement, les frais de déplacement et de véhicule.
+
+559
+00:41:57,540 --> 00:41:58,220
+Pourquoi ?
+
+560
+00:41:58,220 --> 00:41:59,460
+Alors, il y a déplacement et véhicule.
+
+561
+00:41:59,620 --> 00:42:01,220
+Les deux sont séparés.
+
+562
+00:42:01,540 --> 00:42:03,720
+C'est pas par hasard.
+
+563
+00:42:04,160 --> 00:42:05,460
+Les frais de déplacement et véhicule,
+
+564
+00:42:06,460 --> 00:42:10,780
+ce sont les frais que vous dépensez
+
+565
+00:42:10,780 --> 00:42:16,120
+pour aller à vos rendez-vous.
+
+566
+00:42:17,060 --> 00:42:18,540
+Et c'est la chose à laquelle on pense tout de suite
+
+567
+00:42:18,540 --> 00:42:20,380
+parce que les soins, ça coûte cher.
+
+568
+00:42:21,040 --> 00:42:22,200
+Ça coûte très cher.
+
+569
+00:42:23,000 --> 00:42:27,559
+Frais de déplacement et de véhicule, je pense que ça ne va pas vous surprendre,
+
+570
+00:42:27,960 --> 00:42:32,559
+si je vous dis que dedans il y a le carburant, bien entendu,
+
+571
+00:42:32,559 --> 00:42:37,559
+alors on va mettre le carburant, c'est évident.
+
+572
+00:42:38,359 --> 00:42:41,639
+Et ce qu'il y a d'autre dans les frais de déplacement et de véhicule ?
+
+573
+00:42:41,639 --> 00:42:45,199
+Il y a l'assurance, et ce qu'il y a d'autre ?
+
+574
+00:42:45,199 --> 00:42:54,239
+Stationnement, péage, vous n'avez pas d'idée ?
+
+575
+00:42:54,239 --> 00:43:05,079
+Lavage et entretien de la voiture, bien entendu, les réparations, et ainsi de suite.
+
+576
+00:43:05,939 --> 00:43:10,139
+Tout ça, ce sont des coûts que le micro-entrepreneur paye de sa poche,
+
+577
+00:43:10,139 --> 00:43:16,559
+que celui qui est au régime réel, lui, va déduire de son chiffre d'affaires
+
+578
+00:43:16,559 --> 00:43:19,119
+avant d'appliquer ses cotisations sociales.
+
+579
+00:43:19,279 --> 00:43:22,559
+Je vous dis que les cotisations sociales, en fait, ce n'est pas vraiment ce qu'on peut appeler des charges.
+
+580
+00:43:23,279 --> 00:43:29,679
+Et avant de récupérer son résultat final, qu'on appelle le résultat, d'ailleurs, net.
+
+581
+00:43:31,059 --> 00:43:33,359
+Et le résultat net, c'est une fois qu'on a enlevé les cotisations sociales.
+
+582
+00:43:34,440 --> 00:43:39,000
+Donc, frais de déplacement exécutifs, on a déjà tout ça.
+
+583
+00:43:39,000 --> 00:43:57,019
+Alors on a déjà tout ça, on pourrait avoir d'autres choses, on pourrait imaginer également la personnalisation de la voiture. Si Véro par exemple avait fait ça il n'y a pas longtemps, je ne sais pas si Mathieu vous avez sous la main une photo de la voiture de Véro dit qu'elle a un joli petit cabriolet, qu'elle a le goté, la lucarne, etc.
+
+584
+00:43:57,019 --> 00:43:58,860
+Tout ça, ça va dedans.
+
+585
+00:44:00,780 --> 00:44:04,219
+Ça, ce sont, on va dire, les frais de déplacement et de véhicule,
+
+586
+00:44:04,340 --> 00:44:07,739
+parce que vous voyez que dedans, il y a réparation du véhicule
+
+587
+00:44:07,739 --> 00:44:15,880
+et potentiellement, il y a l'achat ou la location de la voiture.
+
+588
+00:44:16,639 --> 00:44:22,900
+Parce que vous pouvez acheter ou louer une voiture pour cette activité professionnelle.
+
+589
+00:44:22,900 --> 00:44:43,220
+Et tout ça, ça vient en déduction de votre chiffre d'affaires. Alors ça, achat-location, c'est dans l'hypothèse où vous achetez ou louez une voiture spécialement pour l'activité. Vous avez une voiture pour ça.
+
+590
+00:44:43,219 --> 00:44:45,219
+à côté
+
+591
+00:44:45,219 --> 00:44:47,299
+vous avez une autre voiture
+
+592
+00:44:47,299 --> 00:44:48,500
+pour le foyer et pour la maison
+
+593
+00:44:48,500 --> 00:44:51,079
+typiquement c'est le cas de Laurent
+
+594
+00:44:51,079 --> 00:44:52,319
+qui est avec nous ici
+
+595
+00:44:52,319 --> 00:44:55,059
+Laurent Didi
+
+596
+00:44:55,059 --> 00:44:57,139
+vous savez qu'il y a beaucoup de Laurent
+
+597
+00:44:57,139 --> 00:44:57,659
+dans le réseau
+
+598
+00:44:57,659 --> 00:45:01,339
+Laurent typiquement il a une voiture familiale
+
+599
+00:45:01,339 --> 00:45:03,659
+une grande voiture pour aller en vacances
+
+600
+00:45:03,659 --> 00:45:04,619
+les enfants etc
+
+601
+00:45:04,619 --> 00:45:07,859
+et pour l'activité professionnelle
+
+602
+00:45:07,859 --> 00:45:09,679
+il a une petite voiture citadine
+
+603
+00:45:09,679 --> 00:45:12,079
+une petite voiture
+
+604
+00:45:12,079 --> 00:45:14,779
+qui se confie dans les embouteillages, parce que Laurent est en région parisienne,
+
+605
+00:45:14,860 --> 00:45:17,779
+donc vous savez qu'en région parisienne, il vaut mieux avoir une petite voiture.
+
+606
+00:45:18,960 --> 00:45:21,279
+Donc Laurent a une voiture familiale,
+
+607
+00:45:22,179 --> 00:45:23,840
+qu'il paye avec son revenu à lui,
+
+608
+00:45:23,920 --> 00:45:26,940
+enfin avec le revenu de son foyer, de son ménage,
+
+609
+00:45:27,619 --> 00:45:29,079
+et il a une petite voiture,
+
+610
+00:45:31,259 --> 00:45:32,699
+comment ça s'appelle, citadine,
+
+611
+00:45:33,400 --> 00:45:35,699
+beaucoup plus facile à manœuvrer,
+
+612
+00:45:36,900 --> 00:45:39,159
+avec laquelle il va faire tous ses rendez-vous,
+
+613
+00:45:39,159 --> 00:45:41,920
+faire ses visites, etc. Cette voiture est dédiée
+
+614
+00:45:41,920 --> 00:45:44,519
+exclusivement à l'activité professionnelle
+
+615
+00:45:44,519 --> 00:45:46,039
+et Laurent l'a acheté
+
+616
+00:45:46,039 --> 00:45:48,139
+ou la loue, d'ailleurs Laurent si vous pouvez
+
+617
+00:45:48,139 --> 00:45:50,180
+me dire si vous l'achetez
+
+618
+00:45:50,180 --> 00:45:51,860
+ou si vous la louez, alors là tout de suite
+
+619
+00:45:51,860 --> 00:45:53,900
+il y a Eric qui envoie un premier scud
+
+620
+00:45:53,900 --> 00:45:54,280
+à Laurent
+
+621
+00:45:54,280 --> 00:45:58,039
+alors Eric envoie un premier
+
+622
+00:45:58,039 --> 00:45:59,940
+scud à Laurent pour une fois que je l'ai passé
+
+623
+00:45:59,940 --> 00:46:01,880
+parce qu'à chaque fois qu'on parle de voiture avec
+
+624
+00:46:01,880 --> 00:46:03,940
+Laurent, je lui rebalance ça dans le pif
+
+625
+00:46:03,940 --> 00:46:05,800
+là je me suis dit bon ben je vais être
+
+626
+00:46:05,800 --> 00:46:07,720
+sympa, je vais pas en parler
+
+627
+00:46:07,720 --> 00:46:10,159
+je vais pas encore lui remettre
+
+628
+00:46:10,159 --> 00:46:12,339
+une patate à cause de ces amendes
+
+629
+00:46:12,339 --> 00:46:14,219
+d'excès de vitesse. Et là, il y a Eric
+
+630
+00:46:14,219 --> 00:46:15,699
+à Lyon qui se dit
+
+631
+00:46:15,699 --> 00:46:17,960
+« Hop, hop, hop, hop, hop, hop, Laurent, on ne va pas le laisser
+
+632
+00:46:17,960 --> 00:46:20,199
+s'échapper comme ça. » Et Eric
+
+633
+00:46:20,199 --> 00:46:22,019
+nous dit « Euh, Laurent, les amendes
+
+634
+00:46:22,019 --> 00:46:37,019
+Alors, Laurent, est-ce que vous pouvez me dire si vous louez ou avez acheté cette voiture ?
+
+635
+00:46:37,019 --> 00:46:38,860
+Je ne sais pas, dans votre cas.
+
+636
+00:46:40,539 --> 00:46:47,860
+Et Marjorie qui envoie un deuxième scud, parce qu'il n'y a pas de raison que je reste toute seule dans mon coin,
+
+637
+00:46:47,860 --> 00:46:50,660
+qui dit d'abord il n'a pas une petite citadine
+
+638
+00:46:50,660 --> 00:46:51,740
+il a une Audi quand même
+
+639
+00:46:51,740 --> 00:46:53,800
+oui mais c'est vrai que c'est une petite Audi
+
+640
+00:46:53,800 --> 00:46:56,079
+il y a des Audi gigantesques, d'énormes voitures Audi
+
+641
+00:46:56,079 --> 00:46:57,960
+très luxueuses, là c'est une
+
+642
+00:46:57,960 --> 00:47:00,120
+Audi de petite taille
+
+643
+00:47:00,120 --> 00:47:02,260
+citadine, alors du coup Laurent
+
+644
+00:47:02,260 --> 00:47:04,160
+il se fait tout petit, je ne sais pas s'il n'écoute pas
+
+645
+00:47:04,160 --> 00:47:06,180
+mais il ne nous dit pas si effectivement
+
+646
+00:47:06,180 --> 00:47:07,740
+il la loue ou s'il la
+
+647
+00:47:07,740 --> 00:47:10,500
+achète
+
+648
+00:47:10,500 --> 00:47:11,559
+il loue, voilà, merci
+
+649
+00:47:11,559 --> 00:47:13,019
+c'est Marjorie qui répond pour lui
+
+650
+00:47:13,019 --> 00:47:15,920
+tout ça pour compenser la grosse
+
+651
+00:47:15,920 --> 00:47:38,720
+Non, c'est pas moi qui l'ai dit. Donc, il la loue. Vous pouvez l'acheter ou la louer selon la manière dont vous organisez votre finance, votre comptabilité, votre fiscalité. L'un ou l'autre sont tout à fait disponibles avec des règles d'amortissement dans lesquelles on ne rentrera pas. Amortissement sur 30 000 euros ou 9 900 euros selon machin, etc. On ne va pas rentrer là-dedans si vous le voulez bien, parce que là, ça va devenir très compliqué. On va paumer tout le monde.
+
+652
+00:47:38,719 --> 00:47:41,179
+Donc, frais de déplacement et de véhicule.
+
+653
+00:47:41,579 --> 00:47:46,939
+Il arrive des cas également, et je crois que l'un d'entre vous en a parlé assez...
+
+654
+00:47:46,939 --> 00:47:49,179
+Alors, est-ce qu'on récupère la TVA sur l'achat de la voiture ?
+
+655
+00:47:49,179 --> 00:47:52,359
+Non, on récupère ça uniquement lorsque c'est un véhicule utilitaire.
+
+656
+00:47:52,559 --> 00:47:53,319
+C'est pareil pour le diesel.
+
+657
+00:47:53,679 --> 00:47:58,779
+Pour le carburant, on récupère la TVA sur le diesel que lorsque la voiture est un utilitaire.
+
+658
+00:47:58,939 --> 00:48:01,079
+Vous savez, c'est ce qu'on appelle un véhicule commercial,
+
+659
+00:48:01,619 --> 00:48:03,699
+c'est-à-dire dont on a enlevé les sièges arrière, etc.
+
+660
+00:48:03,859 --> 00:48:07,279
+C'est un véhicule exclusivement commercial utilitaire.
+
+661
+00:48:07,280 --> 00:48:12,060
+À ce moment-là, vous aurez la possibilité de récupérer la TVA dans certaines conditions d'achat ou de location.
+
+662
+00:48:12,500 --> 00:48:26,720
+Par principe, si vous achetez une voiture normale, vous ne récupérez pas la TVA et vous paierez même une taxe supplémentaire qui s'appelle la TVS, la taxe sur les voitures de société, que vous avez pu connaître auparavant sur le nom TVTS.
+
+663
+00:48:26,719 --> 00:48:35,500
+Nombre d'entre vous, dont disais-je, utilisent leur voiture personnelle.
+
+664
+00:48:35,779 --> 00:48:38,819
+Ça va être le plus compliqué, vous allez voir que le reste, ça va être une liste beaucoup plus simple.
+
+665
+00:48:39,239 --> 00:48:42,719
+Nombre d'entre vous utilisent une voiture personnelle, c'est-à-dire leur voiture à eux.
+
+666
+00:48:42,799 --> 00:48:46,119
+Ils ne vont pas acheter ou louer une voiture spécifiquement pour l'activité.
+
+667
+00:48:46,279 --> 00:48:52,139
+Pourquoi Laurent fait ça ? Parce que Laurent, ça fait longtemps qu'il travaille et qu'il a atteint son rythme de croisière.
+
+668
+00:48:52,139 --> 00:48:58,239
+C'est normal, quand on est dans ses 2, 3, 4 premières années d'activité, généralement on utilise sa propre voiture.
+
+669
+00:48:58,379 --> 00:49:00,559
+On ne va pas investir dans un véhicule comme ça aussi vite.
+
+670
+00:49:01,480 --> 00:49:14,759
+Lorsqu'on utilise son véhicule personnel, il y a des règles qui permettent soit de calculer, compter la proportion d'utilisation de la voiture en pourcentage.
+
+671
+00:49:14,760 --> 00:49:42,700
+J'utilise la voiture à titre professionnel sur 30% du temps. Je vais donc déduire 30% de toutes ces dépenses. Ou bien, on peut utiliser un forfait kilométrique. Normalement, ce qu'il faudrait faire, ce serait, à chaque fois que vous allez faire une visite, noter le kilométrage de la voiture pour pouvoir dire à la fin de l'année, voilà, j'ai fait 22 000 km cette année. Sur ces 22 000 km, j'en ai eu 15 762 pour mes visites, mes mandats, etc.
+
+672
+00:49:42,699 --> 00:49:45,799
+Et je suis allé en formation, et ça, on va y revenir dans un instant.
+
+673
+00:49:46,299 --> 00:49:50,079
+Et là, vous faites une simple règle de trois, une simple déduction.
+
+674
+00:49:50,639 --> 00:49:53,279
+Alors bien entendu, ça je ne vous l'ai pas dit, mais c'est une évidence.
+
+675
+00:49:54,739 --> 00:49:58,919
+Toutes vos dépenses hors taxes de l'année doivent être justifiées par la conservation de la facture.
+
+676
+00:50:00,799 --> 00:50:03,899
+Lorsque vous payez par carte bleue, conservez également la facturette.
+
+677
+00:50:04,079 --> 00:50:05,659
+Ça n'est pas obligatoire par la loi.
+
+678
+00:50:06,139 --> 00:50:08,460
+La loi vous impose de conserver la facture.
+
+679
+00:50:08,460 --> 00:50:11,119
+mais je vous conseille vivement en cas de contrôle fiscal
+
+680
+00:50:11,119 --> 00:50:12,900
+d'avoir la facture sur laquelle vous aurez
+
+681
+00:50:12,900 --> 00:50:14,980
+agrassé l'outil 4 cartes bleues
+
+682
+00:50:14,980 --> 00:50:16,740
+c'est un conseil que je vous donne
+
+683
+00:50:16,740 --> 00:50:18,480
+vous n'êtes pas obligé
+
+684
+00:50:18,480 --> 00:50:20,119
+de le suivre
+
+685
+00:50:20,119 --> 00:50:22,559
+mais je vous le recommande
+
+686
+00:50:22,559 --> 00:50:24,220
+Laurent nous dit qu'il n'est plus
+
+687
+00:50:24,220 --> 00:50:26,300
+en LOA
+
+688
+00:50:26,300 --> 00:50:28,860
+et Marjo dit qu'il rachète à la fin
+
+689
+00:50:28,860 --> 00:50:30,659
+d'un euro symbolique, oui c'est en fin de LOA
+
+690
+00:50:30,659 --> 00:50:32,539
+on appelle ça parfois en queue de LOA
+
+691
+00:50:32,539 --> 00:50:34,840
+en fin de LOA, ah il a une fiat maintenant
+
+692
+00:50:34,840 --> 00:50:36,699
+Laurent a une fiat, ah bah dis donc
+
+693
+00:50:36,699 --> 00:50:37,699
+on voit que c'est la crise
+
+694
+00:50:37,699 --> 00:50:39,159
+et la prise
+
+695
+00:50:39,159 --> 00:50:42,559
+je passe la Porsche
+
+696
+00:50:42,559 --> 00:50:43,859
+en frais kilométriques
+
+697
+00:50:43,859 --> 00:50:45,839
+mais je tourne avec une Fiat Cabriolet maintenant
+
+698
+00:50:45,839 --> 00:50:47,619
+ah une petite Fiat 500 Cabriolet
+
+699
+00:50:47,619 --> 00:50:49,599
+alors la petite Fiat 500 électrique
+
+700
+00:50:49,599 --> 00:50:51,319
+c'est la voiture idéale
+
+701
+00:50:51,319 --> 00:50:52,899
+idéale pour la ville
+
+702
+00:50:52,899 --> 00:50:55,960
+alors par contre elle a tellement peu de coffres que vous ne pouvez pas aller loin
+
+703
+00:50:55,960 --> 00:50:57,299
+alors
+
+704
+00:50:57,299 --> 00:50:59,480
+vous savez que j'ai un truc pour les voitures électriques
+
+705
+00:50:59,480 --> 00:51:01,939
+je préfère une Fiat 500 électrique à une Porsche
+
+706
+00:51:01,939 --> 00:51:02,599
+thermique
+
+707
+00:51:02,599 --> 00:51:05,980
+c'est mon truc, un petit machin avec les électriques
+
+708
+00:51:05,980 --> 00:51:07,460
+c'est ma manie à moi
+
+709
+00:51:08,179 --> 00:51:13,179
+Alors, voilà ce qu'il en est pour les frais de déplacement et de véhicules.
+
+710
+00:51:14,260 --> 00:51:21,559
+Deuxième chose, alors si vous voulez, on peut faire, vous le demanderez plus tard,
+
+711
+00:51:22,119 --> 00:51:26,280
+très précisément comment fonctionne la déduction au barème kilométrique forfaitaire,
+
+712
+00:51:26,280 --> 00:51:29,240
+comment fonctionne la déduction des frais réels proportionnels, etc.
+
+713
+00:51:29,599 --> 00:51:31,880
+Si vous voulez, on pourra faire ça, parce que ce n'est pas compliqué,
+
+714
+00:51:32,039 --> 00:51:33,920
+c'est juste une gymnastique à comprendre.
+
+715
+00:51:33,920 --> 00:51:43,059
+Ça, on pourra très bien le faire. Si vous le souhaitez, vous nous le faites savoir.
+
+716
+00:51:44,820 --> 00:51:50,099
+Deuxièmement, le plus... Alors, attendez, excusez-moi, juste avant, j'avais oublié.
+
+717
+00:51:50,720 --> 00:51:58,519
+Il y a les autres moyens de transport. On va aller très vite là-dessus, parce qu'on parle de la voiture,
+
+718
+00:51:58,519 --> 00:52:12,800
+Mais parfois, vous prenez le train à titre professionnel pour aller à un séminaire. Vous prenez le train ou vous prenez les transports en commun lorsque vous êtes dans une grande ville. Vous prenez le métro, vous prenez le bus, le tramway, le je-sais-pas-quoi.
+
+719
+00:52:12,800 --> 00:52:15,200
+tous les transports en commun
+
+720
+00:52:15,200 --> 00:52:17,400
+effectués
+
+721
+00:52:17,400 --> 00:52:18,840
+à titre professionnel
+
+722
+00:52:18,840 --> 00:52:21,519
+donnent également lieu à des élections
+
+723
+00:52:21,519 --> 00:52:23,460
+ça peut être les frais de VTC
+
+724
+00:52:23,460 --> 00:52:24,160
+également
+
+725
+00:52:24,160 --> 00:52:27,700
+ça peut être le train, ça peut être les abonnements
+
+726
+00:52:27,700 --> 00:52:29,380
+de transports en commun, les cartes orange
+
+727
+00:52:29,380 --> 00:52:31,019
+métro, bus, les passes navigues, etc
+
+728
+00:52:31,019 --> 00:52:33,519
+ça peut être
+
+729
+00:52:33,519 --> 00:52:35,260
+l'allocation ponctuelle d'un véhicule
+
+730
+00:52:35,260 --> 00:52:37,580
+parce que vous avez besoin de faire un déplacement particulier
+
+731
+00:52:37,580 --> 00:52:39,440
+à l'autre bout de la France pour un mandat particulier
+
+732
+00:52:39,440 --> 00:52:41,720
+ça arrive, regardez j'avais Maryse au téléphone
+
+733
+00:52:41,719 --> 00:52:43,199
+il y a quelques jours, est-ce que Maryse est avec nous ?
+
+734
+00:52:43,199 --> 00:52:45,059
+Elle est généralement très fidèle.
+
+735
+00:52:45,139 --> 00:52:46,259
+Ah ben non, Maryse n'est pas là aujourd'hui.
+
+736
+00:52:48,699 --> 00:52:50,099
+Maryse est allée il y a quelques jours
+
+737
+00:52:50,099 --> 00:52:51,599
+pour un mandat à Bocquer.
+
+738
+00:52:52,139 --> 00:52:53,719
+Sachant que Maryse, elle est en région parisienne,
+
+739
+00:52:53,799 --> 00:52:54,579
+elle est en première couronne,
+
+740
+00:52:54,659 --> 00:52:56,319
+elle est juste à côté de Paris.
+
+741
+00:52:56,539 --> 00:52:57,859
+Donc hop, pour aller à Bocquer,
+
+742
+00:52:57,959 --> 00:52:58,879
+peut-être qu'elle a loué une voiture,
+
+743
+00:52:59,000 --> 00:52:59,859
+peut-être qu'elle a pris le TGV.
+
+744
+00:53:00,239 --> 00:53:01,259
+Bocquer, c'est dans le sud de la France,
+
+745
+00:53:01,359 --> 00:53:02,179
+c'est pas loin de chez Marjorie.
+
+746
+00:53:03,199 --> 00:53:07,399
+Donc, typiquement, ça, ça passe également dedans.
+
+747
+00:53:07,400 --> 00:53:25,059
+Alors ensuite, la source de dépense la plus évidente pour vous tous, alors là on va passer à deux, ce sont les frais de matériel informatique et de bureautique.
+
+748
+00:53:25,059 --> 00:53:29,259
+C'est-à-dire, vous allez penser tout de suite,
+
+749
+00:53:30,099 --> 00:53:33,400
+non, c'est pas comme ça, comment j'avais fait tout à l'heure ?
+
+750
+00:53:33,400 --> 00:53:35,779
+Non, j'avais pas fait.
+
+751
+00:53:36,500 --> 00:53:39,239
+Comment j'avais fait, moi ? J'avais fait ça.
+
+752
+00:53:41,099 --> 00:53:42,380
+Oui, j'avais fait ça, d'accord.
+
+753
+00:53:42,920 --> 00:53:46,340
+Matériel informatique et bureautique, la première chose à laquelle vous pensez,
+
+754
+00:53:46,460 --> 00:53:48,679
+c'est le papier d'impression.
+
+755
+00:53:49,679 --> 00:53:51,519
+Ben oui, les ramettes de papier.
+
+756
+00:53:52,779 --> 00:53:54,659
+Ah, j'ai oublié un S, excusez-moi.
+
+757
+00:53:55,059 --> 00:54:00,360
+mais le papier d'impression, mais également les cartouches d'impression.
+
+758
+00:54:01,779 --> 00:54:04,920
+Qui dit papier d'impression, qui dit cartouche d'impression, dit imprimante.
+
+759
+00:54:06,639 --> 00:54:08,239
+Qui dit imprimante, dit scanner.
+
+760
+00:54:09,360 --> 00:54:11,840
+Qui dit scanner et imprimante, dit ordinateur.
+
+761
+00:54:13,019 --> 00:54:17,920
+Qui dit ordinateur, qui dit connexion, internet.
+
+762
+00:54:19,139 --> 00:54:21,579
+Vous voyez toutes ces dépenses dont on a besoin.
+
+763
+00:54:21,579 --> 00:54:45,119
+Tout ça, le papier, les cartouches, l'imprimante, le scanner, l'ordinateur, je sais que certains d'entre vous disent scanner avec un U, mais pas moi, la connexion internet, la tablette, le téléphone, le téléphone avec l'abonnement, bien entendu, téléphone, smartphone, bien sûr,
+
+764
+00:54:45,119 --> 00:55:05,339
+Des disques durs externes, des clés USB, des onduleurs, des machins, des claviers, des souris, des adaptateurs dont vous avez besoin, des câbles de recharge, des chargeurs de téléphone portable, des webcams, des logiciels spécifiques, tout ce dont vous avez besoin en bureautique, matériel informatique.
+
+765
+00:55:05,340 --> 00:55:32,340
+Un bureau, une chaise de bureau, des classeurs pour mettre vos factures, etc. Tout ce matériel informatique et bureautique, ça passe bien évidemment, naturellement, dans vos frais professionnels.
+
+766
+00:55:32,340 --> 00:55:51,519
+Bien entendu, dans ce matériel informatique et bureautique, il y a également tous les abonnements de télécommunications. J'ai mis ici l'abonnement et la connexion Internet. Il y a les box, il y a les forfaits mobiles avec appel, mais également avec de la data. Il y a tout ce dont vous pouvez avoir besoin.
+
+767
+00:55:51,519 --> 00:56:01,559
+Il y a l'abonnement Planet Force que vous payez, les 42 euros par mois que vous payez.
+
+768
+00:56:01,800 --> 00:56:04,259
+L'abonnement Planet Force, ça va dedans également.
+
+769
+00:56:04,940 --> 00:56:06,159
+Très, très, très important.
+
+770
+00:56:07,159 --> 00:56:14,860
+Alors, on pourrait rajouter également agrafeuses, stylos, fournitures diverses,
+
+771
+00:56:14,980 --> 00:56:18,039
+les éventuels frais postaux, mais nous, on en a très peu dans notre métier.
+
+772
+00:56:18,500 --> 00:56:20,139
+On a très, très, très, très peu de frais postaux.
+
+773
+00:56:20,139 --> 00:56:22,359
+mais vous pouvez imaginer qu'il y en ait
+
+774
+00:56:22,359 --> 00:56:24,400
+alors vous allez me dire, si on en voit quand même les mandats
+
+775
+00:56:24,400 --> 00:56:26,239
+et les avenants, les mandats et les avenants
+
+776
+00:56:26,239 --> 00:56:28,059
+de moins en moins parce que comme je vous l'ai dit
+
+777
+00:56:28,059 --> 00:56:30,179
+lors de la dernière vidéoconférence et je vous en remercie
+
+778
+00:56:30,179 --> 00:56:31,019
+et vous en félicite
+
+779
+00:56:31,019 --> 00:56:34,239
+vous êtes tous en train de passer
+
+780
+00:56:34,239 --> 00:56:35,420
+mais vraiment
+
+781
+00:56:35,420 --> 00:56:40,519
+c'est surprenant parce que je pensais que ça allait durer plus longtemps
+
+782
+00:56:40,519 --> 00:56:42,239
+vous êtes tous en train de passer
+
+783
+00:56:42,239 --> 00:56:44,900
+aux mandats électroniques et aux avenants électroniques
+
+784
+00:56:44,900 --> 00:56:46,599
+parce que vous comprenez les avantages
+
+785
+00:56:46,599 --> 00:56:47,299
+que ça vous apporte
+
+786
+00:56:47,299 --> 00:56:49,859
+je pensais qu'il y allait avoir plus de réfractaires
+
+787
+00:56:49,860 --> 00:56:52,360
+s'il avait dit Macron, les Gaulois réfractaires
+
+788
+00:56:52,360 --> 00:56:53,579
+ou les Gaulois grognons, je ne sais plus
+
+789
+00:56:53,579 --> 00:56:56,480
+je pensais qu'il allait y avoir plus de réfractaires
+
+790
+00:56:56,480 --> 00:56:58,300
+alors il y en a un certain nombre d'entre vous qui continuent
+
+791
+00:56:58,300 --> 00:57:00,480
+à dire, oh oh oh, électronique, cellule
+
+792
+00:57:00,480 --> 00:57:01,760
+c'est un paquet
+
+793
+00:57:01,760 --> 00:57:04,440
+mais en fait vous êtes en train de tous prendre le pli
+
+794
+00:57:04,440 --> 00:57:06,400
+parce que c'est vrai que ça vous apporte énormément
+
+795
+00:57:06,400 --> 00:57:07,320
+d'avantages, donc
+
+796
+00:57:07,320 --> 00:57:10,200
+les frais postaux, il y en a un paquet
+
+797
+00:57:10,200 --> 00:57:12,360
+d'entre vous qui diront, ben moi j'ai pas fait un mandat
+
+798
+00:57:12,360 --> 00:57:14,220
+papier depuis un an et demi, donc
+
+799
+00:57:14,220 --> 00:57:16,400
+j'ai pas envoyé une enveloppe
+
+800
+00:57:16,400 --> 00:57:18,340
+et un timbre depuis un an et demi à la
+
+801
+00:57:18,340 --> 00:57:39,860
+Et ça, c'est une réalité. Alors, ensuite, troisième catégorie que je vous propose, les locaux professionnels ou le bureau à domicile. L'immense majorité d'entre vous a un bureau à domicile. L'immense majorité. Mais pas tous. Mais pas tous.
+
+802
+00:57:40,840 --> 00:57:46,099
+Alors, le bureau à domicile, comme le local professionnel, ce sont des dépenses.
+
+803
+00:57:46,539 --> 00:57:50,599
+Des dépenses qui doivent entrer dans votre 2035 et dans votre bilan.
+
+804
+00:57:50,740 --> 00:57:53,460
+Alors vous allez me dire, ben non, le bureau à domicile, ce n'est pas une dépense, c'est à la maison.
+
+805
+00:57:54,360 --> 00:58:01,539
+Mais si, à la maison, vous payez un loyer, ou vous payez la maison à la banque,
+
+806
+00:58:01,579 --> 00:58:06,680
+là, j'ai oublié comment ça s'appelle, mais également, à la maison, il y a du chauffage,
+
+807
+00:58:06,920 --> 00:58:08,940
+il y a de l'eau pour faire pipi, pour se laver les mains,
+
+808
+00:58:08,940 --> 00:58:13,200
+Il y a de la taxe ancienne, il y a de la taxe professionnelle, etc.
+
+809
+00:58:14,679 --> 00:58:33,800
+Donc, hop, hop, hop, hop, hop, taxe ancienne, alors, pas la taxe professionnelle, c'est la taxe d'habitation avant, mais elle n'existe plus, c'était une bêtise, parce que la taxe d'habitation n'existe plus en résidence principale.
+
+810
+00:58:33,800 --> 00:58:46,460
+Donc on va l'oublier tout de suite. Et la taxe professionnelle n'existe plus non plus. Maintenant, c'est la CFE qui remplace la taxe professionnelle quand on nous a fait croire qu'elle allait disparaître. Si vous l'oubliez, c'est moi qui suis gâteux.
+
+811
+00:58:46,460 --> 00:59:14,059
+Par contre, l'assurance, l'EDF, l'eau, je vous ai dit au-dessus, et on l'a déjà mis, bureau et chaise, bien entendu, ça va avec, éventuellement si vous avez dû faire quelques aménagements, si vous avez dû mettre une cloison, si vous avez dû rajouter un radiateur, que sais-je, l'aménagement du bureau,
+
+812
+00:59:16,460 --> 00:59:35,360
+Donc, tout ce qui rentre dans les dépenses de la maison, et pour lesquelles cette cote-part de la maison qui est dédiée à l'activité professionnelle, ce bureau, on va dire qu'il représente, je dis une bêtise, 20% de la maison, c'est un chiffre idiot, c'est pour que ce soit ça,
+
+813
+00:59:35,360 --> 00:59:37,099
+et bien 20% de taxes financières
+
+814
+00:59:37,099 --> 00:59:38,920
+20% d'assurance, 20% d'EDF
+
+815
+00:59:38,920 --> 00:59:40,820
+20% de l'eau, 20% d'aménagement du bureau
+
+816
+00:59:40,820 --> 00:59:42,660
+etc, non l'aménagement du bureau c'est intérêt
+
+817
+00:59:42,660 --> 00:59:45,000
+20% des dépenses
+
+818
+00:59:45,000 --> 00:59:47,039
+de la maison qui sont dédiées à ça
+
+819
+00:59:47,039 --> 00:59:48,320
+c'est normal
+
+820
+00:59:48,320 --> 00:59:50,180
+je ne sais pas pourquoi
+
+821
+00:59:50,180 --> 00:59:53,000
+j'ai mis la clé professionnelle ou je ne sais pas pourquoi
+
+822
+00:59:53,000 --> 00:59:53,740
+j'ai effacé ça
+
+823
+00:59:53,740 --> 00:59:56,840
+ça pourrait être une mauvaise manipulation
+
+824
+00:59:56,840 --> 00:59:57,519
+de ma part
+
+825
+00:59:57,519 --> 01:00:00,360
+donc tout ça c'est quand vous êtes en bureau à la maison
+
+826
+01:00:00,360 --> 01:00:03,099
+même si on se dit c'est à la maison ça ne me coûte rien
+
+827
+01:00:03,099 --> 01:00:05,400
+qui vous coûtent des choses
+
+828
+01:00:05,400 --> 01:00:07,139
+que vous pouvez réintégrer
+
+829
+01:00:07,139 --> 01:00:09,179
+dans leur juste proportion dans votre bilan.
+
+830
+01:00:09,539 --> 01:00:11,059
+Alors bien entendu, si vous utilisez un local
+
+831
+01:00:11,059 --> 01:00:12,920
+professionnel, que vous louez un bureau par exemple
+
+832
+01:00:12,920 --> 01:00:15,039
+dans un petit centre d'affaires et que vous êtes un certain nombre
+
+833
+01:00:15,039 --> 01:00:17,039
+à le faire, vous avez un bureau
+
+834
+01:00:17,039 --> 01:00:18,839
+parce qu'à la maison, vous ne voulez pas bosser à la maison,
+
+835
+01:00:19,039 --> 01:00:21,019
+il y a des enfants qui rentrent de l'école, qui font
+
+836
+01:00:21,019 --> 01:00:21,739
+du bruit, etc.
+
+837
+01:00:23,480 --> 01:00:25,039
+Vous m'entendez bien ou pas ?
+
+838
+01:00:25,860 --> 01:00:26,839
+Parce que là j'ai eu un
+
+839
+01:00:26,839 --> 01:00:28,579
+appel
+
+840
+01:00:28,579 --> 01:00:37,340
+oui, allo, vous m'entendez bien ou pas ?
+
+841
+01:00:37,340 --> 01:00:37,799
+allo
+
+842
+01:00:37,799 --> 01:00:42,440
+je ne sais pas si vous m'entendez
+
+843
+01:00:42,440 --> 01:00:47,639
+oui, vous m'entendez bien, parfait, super, merci
+
+844
+01:00:47,639 --> 01:00:49,400
+parce que j'ai un double appel en même temps
+
+845
+01:00:49,400 --> 01:00:52,239
+et c'était Michel, bien sûr
+
+846
+01:00:52,239 --> 01:00:54,099
+c'était vraiment Michel, je vous jure
+
+847
+01:00:54,099 --> 01:00:56,219
+oui, à ma réunion 19h09
+
+848
+01:00:56,219 --> 01:01:14,239
+Il faut que j'aille très très vite. Je vais arriver un petit peu en retard, ce n'est pas grave. Donc, l'aménagement du bureau, vous disais-je, ou tout simplement la location du local professionnel parce que vous avez décidé de vous loger dans un local professionnel.
+
+849
+01:01:14,879 --> 01:01:20,619
+Certains d'entre vous, c'est le cas notamment de l'équipe Nord, c'est le cas peut-être bientôt de l'équipe d'Orléans qui se pose la question,
+
+850
+01:01:21,119 --> 01:01:24,879
+certains d'entre vous également prennent un local à Sibos en équipe.
+
+851
+01:01:25,799 --> 01:01:33,500
+Là encore, bien entendu, l'allocation du local, la box internet, la machine à café, le machin, tout ça, ça rentre absolument dedans.
+
+852
+01:01:33,979 --> 01:01:38,219
+Attention, je vous le rappelle rapidement, si vous avez un bureau à la maison, vous n'avez pas le droit d'y recevoir de clients
+
+853
+01:01:38,219 --> 01:01:43,319
+et vous n'avez pas le droit de donner cette adresse ni aux clients, ni aux diagnostiqueurs, ni aux notaires, ni à qui que ce soit.
+
+854
+01:01:43,320 --> 01:02:00,519
+Votre adresse professionnelle, c'est au siège de la Ducane à Nanterre. Très très très important. D'accord ? Ensuite, important, très important aujourd'hui, publicité et communication.
+
+855
+01:02:00,519 --> 01:02:02,219
+parce que
+
+856
+01:02:02,219 --> 01:02:06,619
+j'arrive plus à faire ce que je faisais tout à l'heure
+
+857
+01:02:06,619 --> 01:02:08,280
+voilà
+
+858
+01:02:08,280 --> 01:02:10,539
+publicité et communication parce que
+
+859
+01:02:10,539 --> 01:02:12,599
+aujourd'hui vous ne pouvez pas
+
+860
+01:02:12,599 --> 01:02:14,759
+vous contenter de vos simples
+
+861
+01:02:14,759 --> 01:02:16,699
+annonces pour vous faire de la publicité
+
+862
+01:02:16,699 --> 01:02:18,340
+vous devez
+
+863
+01:02:18,340 --> 01:02:19,539
+faire
+
+864
+01:02:19,539 --> 01:02:23,000
+moi c'est une recommandation
+
+865
+01:02:23,000 --> 01:02:23,539
+que je vous donne
+
+866
+01:02:23,539 --> 01:02:26,300
+vous devez envisager des flyers
+
+867
+01:02:26,300 --> 01:02:28,519
+vous devez envisager
+
+868
+01:02:28,519 --> 01:02:29,739
+des cartes de visite
+
+869
+01:02:29,739 --> 01:02:57,599
+Vous devez envisager de la publicité presse locale. Vous devez envisager de sponsoriser des événements locaux. Vous devez envisager de la publicité digitale, Instagram, Google, Facebook, LinkedIn, etc.
+
+870
+01:02:57,599 --> 01:03:16,779
+Vous devez envisager toutes sortes de choses qui vont vous booster. Je vais vous donner un exemple tout bête de personnes. Les voici. C'est vos concurrents qui sont très actifs là-dessus. Regardez.
+
+871
+01:03:16,780 --> 01:03:19,400
+alors ça
+
+872
+01:03:19,400 --> 01:03:20,960
+c'était l'exemple que j'avais pris
+
+873
+01:03:20,960 --> 01:03:23,080
+pour ceux d'entre vous qui prennent un petit bureau
+
+874
+01:03:23,080 --> 01:03:25,300
+local, lorsqu'ils sont en équipe
+
+875
+01:03:25,300 --> 01:03:26,380
+il y a des
+
+876
+01:03:26,380 --> 01:03:29,240
+mais on pourrait montrer également la vitrine de nos amis
+
+877
+01:03:29,240 --> 01:03:31,080
+de Saint-Paul
+
+878
+01:03:31,080 --> 01:03:33,480
+dont j'ai des photos
+
+879
+01:03:33,480 --> 01:03:35,200
+également, mais ça je l'ai mis parce que
+
+880
+01:03:35,200 --> 01:03:36,620
+surtout ce que je voulais vous montrer c'était ça
+
+881
+01:03:36,620 --> 01:03:43,380
+regardez cette jeune femme, Audrey Adam
+
+882
+01:03:43,380 --> 01:03:57,800
+Cette jeune femme, Audrey Haddon, elle est entre Chartres et Orléans. Cette jeune femme, elle est ici aussi.
+
+883
+01:03:57,800 --> 01:04:01,200
+cette jeune femme
+
+884
+01:04:01,200 --> 01:04:03,400
+elle est ici aussi
+
+885
+01:04:03,400 --> 01:04:04,720
+on voit qu'avant elle était chez IAD
+
+886
+01:04:04,720 --> 01:04:07,500
+elle en a eu marre de payer chez IAD pour rien
+
+887
+01:04:07,500 --> 01:04:09,039
+elle est partie chez BSK
+
+888
+01:04:09,039 --> 01:04:10,400
+vous voyez
+
+889
+01:04:10,400 --> 01:04:13,300
+on a également ces deux personnes
+
+890
+01:04:13,300 --> 01:04:14,300
+qui sont au même endroit
+
+891
+01:04:14,300 --> 01:04:17,400
+entre Chartres et Orléans du côté de Sercote
+
+892
+01:04:17,400 --> 01:04:17,680
+etc
+
+893
+01:04:17,680 --> 01:04:20,800
+propriété privée
+
+894
+01:04:20,800 --> 01:04:22,660
+ce qui est assez rigolo d'ailleurs c'est que
+
+895
+01:04:22,660 --> 01:04:24,000
+et ça c'est un flyer IAD
+
+896
+01:04:24,000 --> 01:04:27,300
+et ce qui est assez rigolo c'est que
+
+897
+01:04:27,300 --> 01:04:47,680
+Et ces deux personnes-là et cette jeune femme, ils se font une guerre. Parce que c'est une longue route. Et en fait, tous les 50 mètres, il y a un panneau pour Audrey Adam. Et 50 mètres plus loin, il y a un panneau pour eux. 50 mètres plus loin, il y a un autre panneau d'Audrey Adam. Et 50 mètres plus loin, il y a un autre panneau à eux. Ils se font une guerre des panneaux.
+
+898
+01:04:47,679 --> 01:05:06,039
+En tout cas, tout ça, c'est de la publicité locale qui vous sera extrêmement utile dans la reprise de mandat. Parce que ça vous permettra d'agir chez les gens en disant, si vous me connaissez, vous m'avez vu, vous avez vu mon affiche qui est à tel endroit. C'est de la publicité locale de très bonne qualité.
+
+899
+01:05:06,039 --> 01:05:14,079
+Pour ces frais, bien entendu, ce n'est pas la priorité quand on lance son activité, mais au bout de quelques années, c'est utile.
+
+900
+01:05:14,079 --> 01:05:44,059
+Tous ces frais rentrent entièrement dans vos frais professionnels parce que c'est de l'activité
+
+901
+01:05:44,059 --> 01:05:52,500
+professionnel. Ensuite, les frais de représentation et de réception. C'est important parce que
+
+902
+01:05:52,500 --> 01:05:57,039
+vous invitez régulièrement un client à prendre un café, vous invitez régulièrement
+
+903
+01:05:57,039 --> 01:06:02,279
+un client à déjeuner, vous invitez un notaire à déjeuner, vous organisez un cocktail,
+
+904
+01:06:02,279 --> 01:06:07,440
+une réception comme l'ont fait les copains de Saint-Paul-sur-Ternoise l'année dernière
+
+905
+01:06:07,440 --> 01:06:11,779
+qui a organisé une grande réception avec tous les notaires, les anciens clients, les
+
+906
+01:06:11,780 --> 01:06:13,920
+diagnostiqueurs, les assureurs, les courtiers,
+
+907
+01:06:14,720 --> 01:06:16,100
+pour leur réseau
+
+908
+01:06:16,100 --> 01:06:18,300
+professionnel local, ils ont organisé
+
+909
+01:06:18,300 --> 01:06:19,920
+un super
+
+910
+01:06:19,920 --> 01:06:21,560
+cocktail.
+
+911
+01:06:23,500 --> 01:06:24,019
+Donc,
+
+912
+01:06:26,060 --> 01:06:27,840
+cocktail, restaurant,
+
+913
+01:06:32,720 --> 01:06:33,040
+café,
+
+914
+01:06:33,200 --> 01:06:33,920
+avec un client,
+
+915
+01:06:34,180 --> 01:06:36,220
+on va, tenez, monsieur, c'est l'hiver,
+
+916
+01:06:36,340 --> 01:06:37,720
+il fait froid, vous voulez faire une offre,
+
+917
+01:06:38,000 --> 01:06:39,960
+on va au café à côté, on va se réchauffer,
+
+918
+01:06:40,080 --> 01:06:41,280
+on va prendre un café, un chocolat,
+
+919
+01:06:41,780 --> 01:06:43,140
+Et on va discuter de cette offre.
+
+920
+01:06:43,300 --> 01:06:46,320
+Vous ne laissez pas votre client repartir comme ça.
+
+921
+01:06:46,640 --> 01:06:52,019
+Alors, bien entendu, les repas professionnels avec les prescripteurs,
+
+922
+01:06:52,180 --> 01:06:56,460
+ce qu'on appelle les apporteurs d'affaires, les clients, les différents partenaires, etc.
+
+923
+01:06:57,460 --> 01:06:59,620
+Tout ça, vous le savez, c'est limité.
+
+924
+01:07:00,100 --> 01:07:07,120
+Les cadeaux d'affaires, les repas d'affaires, tout ça, il y a ce que l'on appelle des plafonds.
+
+925
+01:07:07,119 --> 01:07:22,179
+Par exemple un repas à 200 euros, vous avez intérêt à vachement savoir le justifier. Les cadeaux d'affaires également, ils sont limités. Tout ça, limité dans la récupération de TVA, je crois que c'est 75 euros, quelque chose comme ça, 70 euros.
+
+926
+01:07:22,179 --> 01:07:35,359
+C'est dans les 70-75 euros. Si quelqu'un a un chiffre précis, n'hésitez pas à me le dire. Là encore, si vous voulez qu'on rentre dans ces détails-là, on le peut tout à fait. Donc, tout ça, ça rentre dedans. C'est une certitude.
+
+927
+01:07:35,360 --> 01:08:00,440
+Ensuite, et on va en terminer assez rapidement, toutes les assurances et cotisations, et ça, ça n'est absolument pas neutre. Vous vous souvenez qu'il y a quelque temps, on avait fait faire des vidéos par alliance sur la loi Madeleine, c'est-à-dire la protection grossesse, invalidité, retraite, etc.
+
+928
+01:08:00,440 --> 01:08:05,220
+C'est la protection que la loi Madeleine vous permet d'intégrer dedans.
+
+929
+01:08:05,380 --> 01:08:07,280
+Donc déjà avant, vous avez toutes vos assurances.
+
+930
+01:08:08,320 --> 01:08:11,460
+Assurance RCP, protection juridique, etc.
+
+931
+01:08:12,220 --> 01:08:15,880
+Assurance de la voiture, à titre professionnel, bien entendu.
+
+932
+01:08:16,340 --> 01:08:21,420
+Assurance des locaux professionnels ou une partie de l'assurance lorsque vous avez un bureau à la maison.
+
+933
+01:08:22,340 --> 01:08:25,159
+Toute, ce qu'on appelle la loi Madeleine,
+
+934
+01:08:26,480 --> 01:08:30,480
+toutes les préventions, cotisations sociales,
+
+935
+01:08:30,600 --> 01:08:34,980
+loi Madeleine, retraite, invalidité, grossesse, maladie, etc.,
+
+936
+01:08:34,980 --> 01:08:37,720
+ce qui vous permet de mieux vous protéger des accidents de la vie,
+
+937
+01:08:38,220 --> 01:08:40,060
+tout ça, à pince de dent.
+
+938
+01:08:40,800 --> 01:08:43,800
+Toutes les cotisations à des organismes professionnels.
+
+939
+01:08:45,199 --> 01:08:49,579
+Alors, même si la loi récente, on peut le dire,
+
+940
+01:08:49,579 --> 01:09:01,239
+pour tuer, liquider les centres de gestion, entre guillemets, en leur enlevant toutes leurs substances,
+
+941
+01:09:01,699 --> 01:09:07,119
+tous les organismes professionnels auxquels vous adhérez, organismes, associations, etc., professionnels,
+
+942
+01:09:07,640 --> 01:09:11,380
+vous les rentrez dedans. Les groupements professionnels, éventuellement, par exemple,
+
+943
+01:09:11,899 --> 01:09:16,359
+si vous êtes dans un club d'entrepreneurs, si vous êtes... Alors, vous ne le pouvez pas, mais il y a des syndicats.
+
+944
+01:09:16,359 --> 01:09:18,920
+la CNACI, vous pourriez être à la CNACI
+
+945
+01:09:18,920 --> 01:09:20,399
+mais vous ne pouvez pas être à l'INIS et à l'AFPAIN
+
+946
+01:09:20,399 --> 01:09:22,399
+c'est pour les agents immobiliers
+
+947
+01:09:22,399 --> 01:09:25,099
+j'essaie d'accélérer un petit peu pour qu'on s'immisce
+
+948
+01:09:25,099 --> 01:09:25,739
+et également
+
+949
+01:09:25,739 --> 01:09:28,880
+tous les honoraires
+
+950
+01:09:28,880 --> 01:09:32,799
+frais conseils de prestations externes
+
+951
+01:09:32,799 --> 01:09:37,659
+avocat
+
+952
+01:09:37,659 --> 01:09:40,239
+comptable
+
+953
+01:09:40,239 --> 01:09:43,239
+huissier
+
+954
+01:09:43,239 --> 01:09:44,939
+j'ai pas mis de S à comptable
+
+955
+01:09:44,939 --> 01:09:46,179
+alors j'en ai mis un avocat, je sais pas pourquoi
+
+956
+01:09:46,800 --> 01:09:49,980
+huissier, imaginons que vous avez besoin d'un huissier de justice pour je ne sais pas quoi,
+
+957
+01:09:50,700 --> 01:09:58,060
+webmaster, vous pourriez dire, je vais faire faire mon site web par un webmaster,
+
+958
+01:09:58,060 --> 01:10:05,740
+vous pourriez prendre un community manager, vous l'imaginez,
+
+959
+01:10:06,220 --> 01:10:11,780
+un conseiller en stratégie, fiscalité, organisation d'entreprise, ou que sais-je.
+
+960
+01:10:11,779 --> 01:10:34,739
+Et dernière chose, et on en termine là si vous voulez bien, ce sont tous les frais bancaires et financiers lorsque, hop, voilà, vous devez faire des emprunts, emprunter pour acheter une voiture, pour je ne sais pas quoi.
+
+961
+01:10:34,739 --> 01:10:54,239
+Il y a des frais, il y a des intérêts. Il y a des frais bancaires purs que peuvent être les frais de virement. Parfois, lorsque vous faites des virements, vous ne faites pas trop dans notre profession, pas suffisamment, mais des frais de virement à l'étranger hors Union européenne.
+
+962
+01:10:54,239 --> 01:11:24,159
+parce qu'on peut imaginer par exemple, ça s'appelle un cabinet de community manager qui se trouve aux Etats-Unis par exemple, ou au Canada, c'est hors Union Européenne, vous pouvez avoir des frais de virement bancaire, tout simplement, alors des commissions d'encaissement, des frais tenus de compte, si vous avez une convention bancaire, vous avez les conventions de jazz, les conventions pro, les conventions machin, vous n'en avez pas besoin, mais si vous les prenez, ce sont des frais qui passent intégralement de temps.
+
+963
+01:11:24,239 --> 01:11:27,159
+voilà ce qu'il en est
+
+964
+01:11:27,159 --> 01:11:29,719
+alors peut-être que vous avez des idées supplémentaires
+
+965
+01:11:29,719 --> 01:11:30,460
+auxquelles je n'ai pas pensé
+
+966
+01:11:30,460 --> 01:11:31,880
+bien entendu
+
+967
+01:11:31,880 --> 01:11:34,619
+n'hésitez pas à m'en faire passe
+
+968
+01:11:34,619 --> 01:11:36,599
+mais voici à peu près
+
+969
+01:11:36,599 --> 01:11:40,199
+une liste je pense relativement exhaustive
+
+970
+01:11:40,199 --> 01:11:44,619
+j'ai mis les cadeaux d'entreprise ou pas ?
+
+971
+01:11:44,619 --> 01:11:46,359
+non j'ai pas mis ici les cadeaux d'entreprise
+
+972
+01:11:46,359 --> 01:11:48,119
+les cadeaux d'affaires
+
+973
+01:11:48,119 --> 01:11:53,639
+les cadeaux d'affaires
+
+974
+01:11:53,640 --> 01:11:56,140
+c'est à la fin de l'année
+
+975
+01:11:56,140 --> 01:11:57,579
+une bouteille de champagne
+
+976
+01:11:57,579 --> 01:11:59,079
+une bouteille de vin
+
+977
+01:11:59,079 --> 01:12:01,020
+des stylos avec écrit dessus
+
+978
+01:12:01,020 --> 01:12:02,820
+j'ai fait ça l'autre jour
+
+979
+01:12:02,820 --> 01:12:04,079
+des stylos sur lesquels est écrit
+
+980
+01:12:04,079 --> 01:12:07,240
+Alain Ducarne, un calendrier
+
+981
+01:12:07,240 --> 01:12:09,660
+plein de cadeaux d'affaires
+
+982
+01:12:09,660 --> 01:12:11,260
+sont possibles et sont
+
+983
+01:12:11,260 --> 01:12:12,460
+normaux
+
+984
+01:12:12,460 --> 01:12:14,900
+c'est logique de faire des cadeaux d'affaires à ses clients
+
+985
+01:12:14,900 --> 01:12:16,800
+ou notaires, généralement les notaires c'est eux
+
+986
+01:12:16,800 --> 01:12:18,820
+qui vous offrent une bouteille de vin
+
+987
+01:12:18,820 --> 01:12:19,700
+en théorie
+
+988
+01:12:19,700 --> 01:12:23,260
+regardez je vais vous donner un exemple tout bête
+
+989
+01:12:23,260 --> 01:12:25,440
+Marjorie quand on s'est vu
+
+990
+01:12:25,440 --> 01:12:27,140
+il y a un an ou deux
+
+991
+01:12:27,140 --> 01:12:29,180
+quand on s'est vu avec Marjorie
+
+992
+01:12:29,180 --> 01:12:31,619
+elle m'a offert hyper gentiment une bouteille de vin
+
+993
+01:12:31,619 --> 01:12:33,940
+c'était du Pouilly-Fuissé
+
+994
+01:12:33,940 --> 01:12:35,039
+je me souviens très très bien
+
+995
+01:12:35,039 --> 01:12:36,220
+et il était délicieux
+
+996
+01:12:36,220 --> 01:12:38,619
+et ça c'est typiquement un cadeau d'affaires
+
+997
+01:12:38,619 --> 01:12:41,119
+parce que Marjorie m'a offert ce cadeau
+
+998
+01:12:41,119 --> 01:12:43,020
+et c'est là que je vais conclure
+
+999
+01:12:43,020 --> 01:12:45,480
+Marjorie m'a offert ce cadeau
+
+1000
+01:12:45,480 --> 01:12:47,360
+non pas parce qu'on est cousins
+
+1001
+01:12:47,360 --> 01:12:49,340
+ou amants secrets comme certains le disent
+
+1002
+01:12:49,340 --> 01:12:51,060
+dans le réseau
+
+1003
+01:12:51,060 --> 01:12:53,220
+comme certains mauvais hommes le racontent dans le réseau
+
+1004
+01:12:53,220 --> 01:12:58,020
+mais uniquement parce que nous avons de bonnes relations et de bonnes relations d'affaires.
+
+1005
+01:12:58,260 --> 01:13:02,820
+C'est normal. Donc cette bouteille de vin, Marjorie a gardé la facture,
+
+1006
+01:13:02,920 --> 01:13:06,860
+enfin j'imagine qu'elle l'a fait, elle a gardé la facture et elle l'a passée dans sa comptabilité
+
+1007
+01:13:06,860 --> 01:13:08,480
+pour qu'elle ne le paye pas de sa poche.
+
+1008
+01:13:08,900 --> 01:13:12,199
+Tout ça, ça permet de réduire grandement le coût.
+
+1009
+01:13:13,000 --> 01:13:18,000
+À partir du moment où toutes ces dépenses, vous arrivez à justifier qu'elles ont été effectuées
+
+1010
+01:13:18,000 --> 01:13:21,079
+dans l'intérêt exclusif de l'entreprise.
+
+1011
+01:13:21,079 --> 01:13:38,319
+C'est-à-dire que vous passez les frais de voiture pour les frais à hauteur de leur utilisation professionnelle. Vous faites des cartes de visite, vous faites des flyers pour votre activité professionnelle. Vous achetez un nouvel ordinateur pour l'activité professionnelle.
+
+1012
+01:13:38,319 --> 01:13:55,599
+Tout ça, ça passe dans votre comptabilité et ça vous permet de faire une petite opération. On ne va pas rentrer dans le détail de ça parce que c'est relativement détaillé.
+
+1013
+01:13:55,600 --> 01:14:10,079
+Mais imaginons que vous dépensiez 1 000 euros TTC. Vous dépensez 1 000 euros TTC, je vous dis une bêtise, pour acheter un ordinateur à titre professionnel.
+
+1014
+01:14:11,180 --> 01:14:24,200
+Quand vous êtes à l'auto-entreprise, vous payez les 1 000 euros. Enfin, payez les 1 000 euros. Ça sort de votre poche. Ces 1 000 euros, vous auriez pu les utiliser pour aller à Disneyland ou pour partir en vacances au Balear. Là, vous les payez de votre poche.
+
+1015
+01:14:24,920 --> 01:14:29,420
+Lorsque vous êtes au régime réel, et là je vais faire un calcul ultra simplifié, bien sûr,
+
+1016
+01:14:30,239 --> 01:14:31,319
+on fait la chose suivante.
+
+1017
+01:14:31,599 --> 01:14:38,139
+1000 divisé par 1.2, ça va nous donner, on va faire cette opération ensemble,
+
+1018
+01:14:38,399 --> 01:14:40,639
+ça va nous donner exactement le montant hors-taxe.
+
+1019
+01:14:40,739 --> 01:14:43,359
+Donc regardez, je prends ma calculatrice, elle est où, elle est cachée là.
+
+1020
+01:14:43,460 --> 01:14:52,319
+Je fais 1000 divisé par 1.2, ça me donne donc 833,33 hors-taxe.
+
+1021
+01:14:52,319 --> 01:14:53,799
+égal
+
+1022
+01:14:53,799 --> 01:15:00,880
+833,33
+
+1023
+01:15:00,880 --> 01:15:03,779
+833,33
+
+1024
+01:15:03,779 --> 01:15:05,920
+vous vous rendez compte que c'est déjà moins lourd que 1000 euros
+
+1025
+01:15:05,920 --> 01:15:07,559
+parce que la TVA je la récupère
+
+1026
+01:15:07,559 --> 01:15:09,579
+l'état me rembourse
+
+1027
+01:15:09,579 --> 01:15:11,840
+les 1,2
+
+1028
+01:15:11,840 --> 01:15:13,859
+qui correspondent à 20%
+
+1029
+01:15:13,859 --> 01:15:16,099
+20% dure taxe
+
+1030
+01:15:16,099 --> 01:15:18,139
+l'état me les rembourse
+
+1031
+01:15:18,139 --> 01:15:19,059
+ok
+
+1032
+01:15:19,059 --> 01:15:20,259
+première chose
+
+1033
+01:15:20,260 --> 01:15:46,260
+Donc, 166 euros que l'État me rend. Ensuite, je vais les diviser, on va dire de manière hyper simple, parce que je ne vais pas enlever les cotisations sociales, parce que là, on rentrera dans un truc trop haut. Je ne vais pas faire le calcul de mes cotisations sociales représentant ceci.
+
+1034
+01:15:46,260 --> 01:16:05,119
+Ce qu'on va faire, c'est qu'on va partir. Qu'est-ce que vous voulez qu'on prenne comme... Est-ce que 45% à vous... Ah non, mais Michel, alors Marjorie, vous allez avoir une fessée par Michel. Michel, il attendra. On finit, les amis. Je m'en fous, il est à Nantes. Il est loin.
+
+1035
+01:16:05,119 --> 01:16:12,119
+Qu'est-ce qu'on prend comme pourcentage ? 45% ça vous va ou pas ?
+
+1036
+01:16:13,059 --> 01:16:17,119
+Si on prend 45% en moyenne, vous êtes d'accord ou vous n'êtes pas d'accord ?
+
+1037
+01:16:18,000 --> 01:16:21,140
+Moi je vais prendre 45% si vous ne me répondez pas dans les deux secondes.
+
+1038
+01:16:21,399 --> 01:16:23,199
+Pof, on prend 45%.
+
+1039
+01:16:23,199 --> 01:16:26,920
+Donc, on enlève la TVA, ensuite on récupère.
+
+1040
+01:16:27,119 --> 01:16:30,039
+Comme on est en BNC bénéfices non commerciaux,
+
+1041
+01:16:30,039 --> 01:16:42,880
+on va compter un taux moyen de cotisation sociale, excusez-moi, on va partir sur 45%, comme ça, ça fait une petite saupoudrée d'IRPT au passage,
+
+1042
+01:16:42,880 --> 01:16:50,480
+Tout simplement, on fait multiplier par 45%.
+
+1043
+01:16:50,480 --> 01:16:52,300
+C'est comme si on faisait 1,45.
+
+1044
+01:16:54,000 --> 01:17:02,319
+Donc, on est ici à 833,33 fois 45%.
+
+1045
+01:17:02,319 --> 01:17:05,159
+0,45, ça me donne 374.
+
+1046
+01:17:05,159 --> 01:17:23,439
+Donc on enlève, ça fait 833, moins, c'était 374, moins 374,99, on va mettre 375, si vous voulez bien, moins 375.
+
+1047
+01:17:23,439 --> 01:17:32,819
+Donc si je prends 833, moins 375, 458.
+
+1048
+01:17:35,159 --> 01:17:46,840
+Alors tout cela c'est extrêmement schématique, mais dites-vous que l'ordinateur que j'aurais payé 1000 euros si j'étais auto-entrepreneur, en le passant au régime réel, en fait il me coûte 458 euros.
+
+1049
+01:17:47,239 --> 01:18:04,159
+Entre la TVA qui m'a été rendue par l'État et les cotisations sociales que je ne vais pas payer, l'impôt sur le revenu que je ne vais pas payer grâce à ça, l'ordinateur m'a finalement coûté 458 euros.
+
+1050
+01:18:05,159 --> 01:18:19,939
+On va dire aller dans les 500 euros. Ça divise quasiment par deux. Donc, vous comprenez bien pourquoi on se dit au bout de quelques temps, bah merde, tout ça, je le paye de ma poche à l'auto-entreprise. L'auto-entreprise, c'est en fait un régime trop limité.
+
+1051
+01:18:20,819 --> 01:18:27,779
+Alors, bien entendu, dans tout ça, moi je ne vais certainement pas vous encourager à ça, bien sûr,
+
+1052
+01:18:28,279 --> 01:18:32,419
+mais dans tout ça, ce sont des dépenses exclusivement professionnelles,
+
+1053
+01:18:32,519 --> 01:18:36,579
+mais il est évident que parfois quand on va au resto, ce n'est pas que professionnel.
+
+1054
+01:18:36,979 --> 01:18:41,019
+L'ordinateur et la connexion Internet, on peut les utiliser aussi à titre personnel.
+
+1055
+01:18:41,019 --> 01:18:46,399
+Vous vous rendez compte que nombre de personnes optimisent leurs dépenses intelligemment, ici,
+
+1056
+01:18:46,399 --> 01:18:49,599
+notamment grâce à la loi
+
+1057
+01:18:49,599 --> 01:18:51,639
+Madeleine, optimise
+
+1058
+01:18:51,639 --> 01:18:53,639
+leurs dépenses intelligemment pour que ça
+
+1059
+01:18:53,639 --> 01:18:55,679
+corresponde à la fois des cotisations
+
+1060
+01:18:55,679 --> 01:18:57,899
+professionnelles mais que ça aide
+
+1061
+01:18:57,899 --> 01:18:59,939
+un petit peu sur les finances personnelles
+
+1062
+01:18:59,939 --> 01:19:01,799
+au passage, c'est une certitude
+
+1063
+01:19:01,799 --> 01:19:03,939
+alors bien entendu je ne vous encourage absolument
+
+1064
+01:19:03,939 --> 01:19:05,779
+pas à frauder le fisc ou le FOS
+
+1065
+01:19:05,779 --> 01:19:07,000
+certainement pas et je vous dis
+
+1066
+01:19:07,000 --> 01:19:09,519
+conservez toutes vos factures
+
+1067
+01:19:09,519 --> 01:19:11,019
+et soyez en mesure
+
+1068
+01:19:11,019 --> 01:19:12,699
+en cas de contrôle fiscal
+
+1069
+01:19:12,699 --> 01:19:14,339
+d'expliquer
+
+1070
+01:19:14,340 --> 01:19:17,579
+l'utilité de chaque facture.
+
+1071
+01:19:19,400 --> 01:19:20,239
+Sachez dire,
+
+1072
+01:19:20,760 --> 01:19:23,300
+tel resto, c'était avec tel client.
+
+1073
+01:19:25,260 --> 01:19:25,480
+Vraiment.
+
+1074
+01:19:26,140 --> 01:19:27,720
+Sachez dire, tel cadeau d'affaires,
+
+1075
+01:19:27,880 --> 01:19:28,819
+c'était pour tel client.
+
+1076
+01:19:29,720 --> 01:19:30,360
+Très important.
+
+1077
+01:19:31,300 --> 01:19:33,420
+Parce que, c'est exactement ça le principe
+
+1078
+01:19:33,420 --> 01:19:35,500
+d'un contrôle fiscal. C'est qu'on vient vérifier
+
+1079
+01:19:35,500 --> 01:19:37,340
+si tout ça a été dépensé
+
+1080
+01:19:37,340 --> 01:19:38,659
+à bon escient pour l'entreprise.
+
+1081
+01:19:40,960 --> 01:19:43,340
+Ou est-ce que là, en fait, en restaurant,
+
+1082
+01:19:43,340 --> 01:19:44,800
+vous n'êtes pas parti
+
+1083
+01:19:44,800 --> 01:19:46,060
+vous faire un petit restaurant
+
+1084
+01:19:46,060 --> 01:19:48,779
+pendant vos vacances d'août
+
+1085
+01:19:48,779 --> 01:19:50,140
+est-ce que
+
+1086
+01:19:50,140 --> 01:19:52,920
+l'ordinateur qui a été acheté là
+
+1087
+01:19:52,920 --> 01:19:54,440
+comme par hasard le 22 décembre
+
+1088
+01:19:54,440 --> 01:19:56,539
+n'est pas un cadeau d'anniversaire pour le gamin
+
+1089
+01:19:56,539 --> 01:19:59,420
+pareil pour la tablette
+
+1090
+01:19:59,420 --> 01:20:01,100
+d'ailleurs tous ces ordinateurs
+
+1091
+01:20:01,100 --> 01:20:03,480
+tablettes etc ne les achetez jamais au moment de Noël
+
+1092
+01:20:03,480 --> 01:20:04,900
+parce que bien entendu
+
+1093
+01:20:04,900 --> 01:20:07,000
+l'inspecteur du fils va dire vous vous foutez de ma gueule
+
+1094
+01:20:07,000 --> 01:20:08,760
+attendez janvier pour les acheter
+
+1095
+01:20:08,760 --> 01:20:09,819
+c'est évident
+
+1096
+01:20:09,819 --> 01:20:12,720
+bon pas de question, il faut que je file
+
+1097
+01:20:12,720 --> 01:20:15,199
+Je suis hyper en retard. J'ai 28 minutes de retard.
+
+1098
+01:20:15,539 --> 01:20:17,020
+Oui, là, j'exagère un petit peu.
+
+1099
+01:20:17,640 --> 01:20:20,720
+C'est bon, c'est OK pour tout le monde ou pas ?
+
+1100
+01:20:20,720 --> 01:20:22,740
+Oui ?
+
+1101
+01:20:22,740 --> 01:20:25,480
+Bon, écoutez les amis, dans ce cas-là, je vous souhaite une excellente soirée.
+
+1102
+01:20:25,920 --> 01:20:28,300
+Je vous dis à très, très, très, très, très bientôt.
+
+1103
+01:20:30,119 --> 01:20:31,940
+Très bonne soirée à tous, très bonne soirée à toutes.
+
+1104
+01:20:32,780 --> 01:20:34,680
+Et puis surtout, je vous en supplie de repartir.
+
+1105
+01:20:35,340 --> 01:20:36,420
+Boostez la rentrée de mandat.
+
+1106
+01:20:38,140 --> 01:20:41,180
+Boostez la rentrée de mandat, mandat électronique.
+
+1107
+01:20:41,180 --> 01:20:45,480
+Mais surtout, booster la rentrée de mandat, c'est vital pour chacun d'entre vous.
+
+1108
+01:20:46,440 --> 01:20:49,860
+Merci beaucoup, je vais me prendre ma fessée. Allez, bonne soirée. Au revoir.
+

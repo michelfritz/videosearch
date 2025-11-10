@@ -1,0 +1,166 @@
+{
+  "video_file": "Loi Alur 2024 - Déontologie - 12 décembre 2024",
+  "video_url": "https://www.youtube.com/watch?v=xrYrnt_2cRE",
+  "title": "Loi Alur 2024 Déontologie 12 Décembre 2024",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-zlaldRKYqBY",
+          "attribution": {
+            "photographer": "Kate Bezzubets",
+            "profile_url": "https://unsplash.com/@k8_bzz",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-zlaldRKYqBY",
+            "unsplash_id": "zlaldRKYqBY"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-person-holding-a-watch-OG1TLwr36Dg",
+          "attribution": {
+            "photographer": "Mircea Solomiea",
+            "profile_url": "https://unsplash.com/@mirceadrian",
+            "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-person-holding-a-watch-OG1TLwr36Dg",
+            "unsplash_id": "OG1TLwr36Dg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/holding-hands-Yv_cOo72F8I",
+          "attribution": {
+            "photographer": "Jon Tyson",
+            "profile_url": "https://unsplash.com/@jontyson",
+            "photo_url": "https://unsplash.com/photos/holding-hands-Yv_cOo72F8I",
+            "unsplash_id": "Yv_cOo72F8I"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-person-sitting-at-a-table-writing-on-a-piece-of-paper-SlYfvVh9tY8",
+          "attribution": {
+            "photographer": "Madeline Liu",
+            "profile_url": "https://unsplash.com/@madeline_sd",
+            "photo_url": "https://unsplash.com/photos/a-person-sitting-at-a-table-writing-on-a-piece-of-paper-SlYfvVh9tY8",
+            "unsplash_id": "SlYfvVh9tY8"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-stack-of-papers-G-_VKTwCAIs",
+          "attribution": {
+            "photographer": "Izumi",
+            "profile_url": "https://unsplash.com/@itsaizumi",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-stack-of-papers-G-_VKTwCAIs",
+            "unsplash_id": "G-_VKTwCAIs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/an-open-book-sitting-on-top-of-a-table-HSlDZ7suCQQ",
+          "attribution": {
+            "photographer": "Sofya Kholodkova",
+            "profile_url": "https://unsplash.com/@nordzonne",
+            "photo_url": "https://unsplash.com/photos/an-open-book-sitting-on-top-of-a-table-HSlDZ7suCQQ",
+            "unsplash_id": "HSlDZ7suCQQ"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-babys-hand-uJvkBbQJ2jc",
+          "attribution": {
+            "photographer": "Viktor Mogilat",
+            "profile_url": "https://unsplash.com/@mogilat",
+            "photo_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-babys-hand-uJvkBbQJ2jc",
+            "unsplash_id": "uJvkBbQJ2jc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-XjJvy2G638M",
+          "attribution": {
+            "photographer": "Zachary Delorenzo",
+            "profile_url": "https://unsplash.com/@zdelo",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-XjJvy2G638M",
+            "unsplash_id": "XjJvy2G638M"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/man-and-woman-holding-hands-idDvA4jPBO8",
+          "attribution": {
+            "photographer": "Constantin Wenning",
+            "profile_url": "https://unsplash.com/@conniwenningsimages",
+            "photo_url": "https://unsplash.com/photos/man-and-woman-holding-hands-idDvA4jPBO8",
+            "unsplash_id": "idDvA4jPBO8"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/book-page-ESWjcS-xl_4",
+          "attribution": {
+            "photographer": "Monis Yousafzai",
+            "profile_url": "https://unsplash.com/@monis_yousafzai",
+            "photo_url": "https://unsplash.com/photos/book-page-ESWjcS-xl_4",
+            "unsplash_id": "ESWjcS-xl_4"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/white-ruler-on-paper-jWFXGclQr1M",
+          "attribution": {
+            "photographer": "Benjamin Smith",
+            "profile_url": "https://unsplash.com/@ifbdesign",
+            "photo_url": "https://unsplash.com/photos/white-ruler-on-paper-jWFXGclQr1M",
+            "unsplash_id": "jWFXGclQr1M"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/text-RJ5G3AF3Xsk",
+          "attribution": {
+            "photographer": "Brett Jordan",
+            "profile_url": "https://unsplash.com/@brett_jordan",
+            "photo_url": "https://unsplash.com/photos/text-RJ5G3AF3Xsk",
+            "unsplash_id": "RJ5G3AF3Xsk"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

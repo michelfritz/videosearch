@@ -1,0 +1,166 @@
+{
+  "video_file": "Visio Questions-Réponses du 27 mars 2025",
+  "video_url": "https://www.youtube.com/watch?v=xba05GvuBfE",
+  "title": "Questions Réponses Du 27 Mars 2025",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/person-holding-babys-hand-JNwba6cv4e0",
+          "attribution": {
+            "photographer": "A. C.",
+            "profile_url": "https://unsplash.com/@3tnik",
+            "photo_url": "https://unsplash.com/photos/person-holding-babys-hand-JNwba6cv4e0",
+            "unsplash_id": "JNwba6cv4e0"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-persons-hands-with-a-ring-on-their-wrist-kAOL6GOJDPE",
+          "attribution": {
+            "photographer": "Clay Banks",
+            "profile_url": "https://unsplash.com/@claybanks",
+            "photo_url": "https://unsplash.com/photos/a-persons-hands-with-a-ring-on-their-wrist-kAOL6GOJDPE",
+            "unsplash_id": "kAOL6GOJDPE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-pair-of-hands-holding-a-ring-ne1q7WxVcm0",
+          "attribution": {
+            "photographer": "Natalia Sobolivska",
+            "profile_url": "https://unsplash.com/@sobolivska",
+            "photo_url": "https://unsplash.com/photos/a-pair-of-hands-holding-a-ring-ne1q7WxVcm0",
+            "unsplash_id": "ne1q7WxVcm0"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/green-and-white-concrete-high-rise-building-at-daytime-kyZYJEBdPK0",
+          "attribution": {
+            "photographer": "Simone Hutsch",
+            "profile_url": "https://unsplash.com/@heysupersimi",
+            "photo_url": "https://unsplash.com/photos/green-and-white-concrete-high-rise-building-at-daytime-kyZYJEBdPK0",
+            "unsplash_id": "kyZYJEBdPK0"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/green-and-white-concrete-high-rise-building-at-daytime-kyZYJEBdPK0",
+          "attribution": {
+            "photographer": "Simone Hutsch",
+            "profile_url": "https://unsplash.com/@heysupersimi",
+            "photo_url": "https://unsplash.com/photos/green-and-white-concrete-high-rise-building-at-daytime-kyZYJEBdPK0",
+            "unsplash_id": "kyZYJEBdPK0"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/two-tall-buildings-next-to-each-other-under-a-cloudy-blue-sky-HdkSYIYpkrA",
+          "attribution": {
+            "photographer": "Frederic Chappat",
+            "profile_url": "https://unsplash.com/@redboot",
+            "photo_url": "https://unsplash.com/photos/two-tall-buildings-next-to-each-other-under-a-cloudy-blue-sky-HdkSYIYpkrA",
+            "unsplash_id": "HdkSYIYpkrA"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-XjJvy2G638M",
+          "attribution": {
+            "photographer": "Zachary Delorenzo",
+            "profile_url": "https://unsplash.com/@zdelo",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-XjJvy2G638M",
+            "unsplash_id": "XjJvy2G638M"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/persons-hand-XcN-m2vvcDs",
+          "attribution": {
+            "photographer": "Ricardo Moura",
+            "profile_url": "https://unsplash.com/@ricardomoura",
+            "photo_url": "https://unsplash.com/photos/persons-hand-XcN-m2vvcDs",
+            "unsplash_id": "XcN-m2vvcDs"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+          "attribution": {
+            "photographer": "550Park Luxury Wedding Films",
+            "profile_url": "https://unsplash.com/@550park",
+            "photo_url": "https://unsplash.com/photos/a-couple-of-people-that-are-holding-hands-Hvoz70ivd4Y",
+            "unsplash_id": "Hvoz70ivd4Y"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/looking-up-at-a-tall-brick-building-with-windows-X04iaRQ8RRA",
+          "attribution": {
+            "photographer": "Peaky Frames",
+            "profile_url": "https://unsplash.com/@rashedpaykary",
+            "photo_url": "https://unsplash.com/photos/looking-up-at-a-tall-brick-building-with-windows-X04iaRQ8RRA",
+            "unsplash_id": "X04iaRQ8RRA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-T2JK2h4rTdc",
+          "attribution": {
+            "photographer": "Ricardo Gomez Angel",
+            "profile_url": "https://unsplash.com/@rgaleriacom",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-T2JK2h4rTdc",
+            "unsplash_id": "T2JK2h4rTdc"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/modern-apartment-buildings-at-night-with-city-lights-fEqbgj9_h4w",
+          "attribution": {
+            "photographer": "Aalo Lens",
+            "profile_url": "https://unsplash.com/@aalolens",
+            "photo_url": "https://unsplash.com/photos/modern-apartment-buildings-at-night-with-city-lights-fEqbgj9_h4w",
+            "unsplash_id": "fEqbgj9_h4w"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

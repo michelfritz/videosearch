@@ -1,0 +1,166 @@
+{
+  "video_file": "Loi Alur 2024 - Recherche Cadastrale - 10 décembre 2024",
+  "video_url": "https://www.youtube.com/watch?v=3AjtULMfM28",
+  "title": "Loi Alur 2024 Recherche Cadastrale 10 Décembre 2024",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-man-wearing-a-suit-and-a-wedding-ring-hpcKDq3BtEg",
+          "attribution": {
+            "photographer": "Matteo Vistocco",
+            "profile_url": "https://unsplash.com/@mrsunflower94",
+            "photo_url": "https://unsplash.com/photos/a-man-wearing-a-suit-and-a-wedding-ring-hpcKDq3BtEg",
+            "unsplash_id": "hpcKDq3BtEg"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-a-person-wearing-a-suit-and-tie-O6rU5z1FTec",
+          "attribution": {
+            "photographer": "Filipp Romanovski",
+            "profile_url": "https://unsplash.com/@filipp_roman_photography",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-wearing-a-suit-and-tie-O6rU5z1FTec",
+            "unsplash_id": "O6rU5z1FTec"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-man-putting-a-ring-on-another-mans-finger-A9Y8Rz5Vors",
+          "attribution": {
+            "photographer": "Dwayne joe",
+            "profile_url": "https://unsplash.com/@spliff_dj_joe",
+            "photo_url": "https://unsplash.com/photos/a-man-putting-a-ring-on-another-mans-finger-A9Y8Rz5Vors",
+            "unsplash_id": "A9Y8Rz5Vors"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-city-street-N0SZUT6axbo",
+          "attribution": {
+            "photographer": "mihaela zait",
+            "profile_url": "https://unsplash.com/@mihaellaphotography",
+            "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-city-street-N0SZUT6axbo",
+            "unsplash_id": "N0SZUT6axbo"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/macbook-pro-beside-white-ceramic-bowl-with-bread-GF6vc-NMWRQ",
+          "attribution": {
+            "photographer": "Arno Senoner",
+            "profile_url": "https://unsplash.com/@arnosenoner",
+            "photo_url": "https://unsplash.com/photos/macbook-pro-beside-white-ceramic-bowl-with-bread-GF6vc-NMWRQ",
+            "unsplash_id": "GF6vc-NMWRQ"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-large-building-ES9GNyVuUqE",
+          "attribution": {
+            "photographer": "Lise Bourguginon",
+            "profile_url": "https://unsplash.com/@lisou2203",
+            "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-large-building-ES9GNyVuUqE",
+            "unsplash_id": "ES9GNyVuUqE"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/two-person-handshaking-vWchRczcQwM",
+          "attribution": {
+            "photographer": "Cytonn Photography",
+            "profile_url": "https://unsplash.com/@cytonn_photography",
+            "photo_url": "https://unsplash.com/photos/two-person-handshaking-vWchRczcQwM",
+            "unsplash_id": "vWchRczcQwM"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/two-business-partners-shaking-hands-in-agreement-gdCwuKCuJWY",
+          "attribution": {
+            "photographer": "Ambre Estève",
+            "profile_url": "https://unsplash.com/@ambresteve",
+            "photo_url": "https://unsplash.com/photos/two-business-partners-shaking-hands-in-agreement-gdCwuKCuJWY",
+            "unsplash_id": "gdCwuKCuJWY"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-cigarette-stick-eXX2tMFs1sQ",
+          "attribution": {
+            "photographer": "Erik Mclean",
+            "profile_url": "https://unsplash.com/@introspectivedsgn",
+            "photo_url": "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-holding-cigarette-stick-eXX2tMFs1sQ",
+            "unsplash_id": "eXX2tMFs1sQ"
+          }
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-with-a-green-awning-next-to-a-street-TdiVonjPwR4",
+          "attribution": {
+            "photographer": "Jimmy Woo",
+            "profile_url": "https://unsplash.com/@woomantsing",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-with-a-green-awning-next-to-a-street-TdiVonjPwR4",
+            "unsplash_id": "TdiVonjPwR4"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-large-building-with-many-windows-and-balconies-HkxsELEBA0A",
+          "attribution": {
+            "photographer": "Snap Wander",
+            "profile_url": "https://unsplash.com/@passimage",
+            "photo_url": "https://unsplash.com/photos/a-large-building-with-many-windows-and-balconies-HkxsELEBA0A",
+            "unsplash_id": "HkxsELEBA0A"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-tall-building-with-a-green-awning-next-to-a-street-TdiVonjPwR4",
+          "attribution": {
+            "photographer": "Jimmy Woo",
+            "profile_url": "https://unsplash.com/@woomantsing",
+            "photo_url": "https://unsplash.com/photos/a-tall-building-with-a-green-awning-next-to-a-street-TdiVonjPwR4",
+            "unsplash_id": "TdiVonjPwR4"
+          }
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}

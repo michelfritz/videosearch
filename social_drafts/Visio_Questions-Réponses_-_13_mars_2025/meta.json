@@ -1,0 +1,186 @@
+{
+  "video_file": "Visio Questions-Réponses - 13 mars 2025",
+  "video_url": "https://youtu.be/R2NE2SjpZ5c",
+  "title": "Questions Réponses 13 Mars 2025",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/grayscale-photo-of-man-and-woman-holding-hands-CkDPHkkpBeI",
+          "attribution": {
+            "photographer": "Valeria Machado",
+            "profile_url": "https://unsplash.com/@veemachado9",
+            "photo_url": "https://unsplash.com/photos/grayscale-photo-of-man-and-woman-holding-hands-CkDPHkkpBeI",
+            "unsplash_id": "CkDPHkkpBeI"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA",
+          "attribution": {
+            "photographer": "Austin Kehmeier",
+            "profile_url": "https://unsplash.com/@a_kehmeier",
+            "photo_url": "https://unsplash.com/photos/view-of-two-persons-hands-lyiKExA4zQA",
+            "unsplash_id": "lyiKExA4zQA"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-PYgHbupKBcc",
+          "attribution": {
+            "photographer": "Ali Imkan",
+            "profile_url": "https://unsplash.com/@imkan",
+            "photo_url": "https://unsplash.com/photos/a-close-up-of-two-people-holding-hands-PYgHbupKBcc",
+            "unsplash_id": "PYgHbupKBcc"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-white-house-with-a-red-roof-and-two-windows-ZnI4oAoN2Kw",
+          "attribution": {
+            "photographer": "Charly Campos",
+            "profile_url": "https://unsplash.com/@cfieldsm",
+            "photo_url": "https://unsplash.com/photos/a-white-house-with-a-red-roof-and-two-windows-ZnI4oAoN2Kw",
+            "unsplash_id": "ZnI4oAoN2Kw"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-building-with-a-clock-on-the-side-of-it-cjmkJfsx1OE",
+          "attribution": {
+            "photographer": "Max Bürgi",
+            "profile_url": "https://unsplash.com/@maxbuergi",
+            "photo_url": "https://unsplash.com/photos/a-building-with-a-clock-on-the-side-of-it-cjmkJfsx1OE",
+            "unsplash_id": "cjmkJfsx1OE"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/IG_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-white-and-red-house-with-a-red-door-1Ej9hrZdhl4",
+          "attribution": {
+            "photographer": "Danielle-Claude Bélanger",
+            "profile_url": "https://unsplash.com/@dcbelanger",
+            "photo_url": "https://unsplash.com/photos/a-white-and-red-house-with-a-red-door-1Ej9hrZdhl4",
+            "unsplash_id": "1Ej9hrZdhl4"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/IG_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u1.jpg",
+          "image_url": "https://unsplash.com/photos/two-men-facing-each-other-while-shake-hands-and-smiling-NbtIDoFKGO8",
+          "attribution": {
+            "photographer": "Sebastian Herrmann",
+            "profile_url": "https://unsplash.com/@officestock",
+            "photo_url": "https://unsplash.com/photos/two-men-facing-each-other-while-shake-hands-and-smiling-NbtIDoFKGO8",
+            "unsplash_id": "NbtIDoFKGO8"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u2.jpg",
+          "image_url": "https://unsplash.com/photos/two-people-shaking-hands-in-front-of-a-computer-monitor-CTlq8OuK8-U",
+          "attribution": {
+            "photographer": "David Trinks",
+            "profile_url": "https://unsplash.com/@dtrinksrph",
+            "photo_url": "https://unsplash.com/photos/two-people-shaking-hands-in-front-of-a-computer-monitor-CTlq8OuK8-U",
+            "unsplash_id": "CTlq8OuK8-U"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_A_u3.jpg",
+          "image_url": "https://unsplash.com/photos/person-wearing-silver-ring-holding-white-paper-F371xdVbybs",
+          "attribution": {
+            "photographer": "Heather Blough",
+            "profile_url": "https://unsplash.com/@hblough09",
+            "photo_url": "https://unsplash.com/photos/person-wearing-silver-ring-holding-white-paper-F371xdVbybs",
+            "unsplash_id": "F371xdVbybs"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_A_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": [
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u1.jpg",
+          "image_url": "https://unsplash.com/photos/a-house-with-a-truck-parked-in-front-of-it-UONgkbMR54o",
+          "attribution": {
+            "photographer": "Roger Starnes Sr",
+            "profile_url": "https://unsplash.com/@rstar50",
+            "photo_url": "https://unsplash.com/photos/a-house-with-a-truck-parked-in-front-of-it-UONgkbMR54o",
+            "unsplash_id": "UONgkbMR54o"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u2.jpg",
+          "image_url": "https://unsplash.com/photos/a-yellow-building-with-a-black-roof-and-a-green-door-qN_d8Qha_-E",
+          "attribution": {
+            "photographer": "Min(Felix) Xu",
+            "profile_url": "https://unsplash.com/@framethestreets",
+            "photo_url": "https://unsplash.com/photos/a-yellow-building-with-a-black-roof-and-a-green-door-qN_d8Qha_-E",
+            "unsplash_id": "qN_d8Qha_-E"
+          }
+        },
+        {
+          "source": "unsplash",
+          "image_local": "images/FB_B_u3.jpg",
+          "image_url": "https://unsplash.com/photos/a-house-with-a-blue-sky-fk0rN-w0THg",
+          "attribution": {
+            "photographer": "broeasied",
+            "profile_url": "https://unsplash.com/@broeasied",
+            "photo_url": "https://unsplash.com/photos/a-house-with-a-blue-sky-fk0rN-w0THg",
+            "unsplash_id": "fk0rN-w0THg"
+          }
+        },
+        {
+          "source": "openai",
+          "image_local": "images/FB_B_ai.jpg",
+          "image_url": ""
+        }
+      ],
+      "selected": 0
+    }
+  },
+  "provider": "hybrid"
+}
