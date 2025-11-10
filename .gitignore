@@ -4,3 +4,7 @@ videos/
 token.json
 client_secret.json
 
+
+__pycache__/
+*.bak
+Dropbox (Personal)/
