@@ -470,6 +470,31 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     top_indices = indices[order] if len(indices) else np.array([], dtype=int)
     return top_indices, similarities[top_indices] if len(top_indices) else np.array([])
 
+def build_context(docs):
+    """Builds a robust context string from docs, even if metadata is not a dict."""
+    parts = []
+    for d in (docs or []):
+        meta = getattr(d, "metadata", {}) or {}
+        url = None
+        if isinstance(meta, dict):
+            url = meta.get("url") or meta.get("source")
+        else:
+            # metadata might be a string or something else
+            try:
+                url = str(meta).strip()
+            except Exception:
+                url = None
+        if not url:
+            url = "URL inconnue"
+        page = ""
+        try:
+            page = str(getattr(d, "page_content", "") or "")
+        except Exception:
+            page = ""
+        parts.append(f"[Source: {url}]\n{page}")
+    return "\n\n".join(parts)
+
+
 # =========================
 #   DONNÉES LÉGÈRES (toujours chargées)
 # =========================
@@ -758,11 +783,7 @@ elif menu == "🧠 Moteur intelligent":
                                 docs.append(Doc(page_content=to_str(r.get("text","")), metadata={"url": url_str}))
                             if DEBUG_MODE: st.write("DEBUG: docs construits →", len(docs))
 
-                context = "\n\n".join(
-                    f"[Source: {to_str(getattr(d, 'metadata', {}) or {}).get('url','URL inconnue')}]\n"
-                    f"{to_str(getattr(d,'page_content',''))}"
-                    for d in (docs or [])
-                )
+                context = build_context(docs)
                 if DEBUG_MODE: st.write("DEBUG: longueur contexte →", len(context))
 
                 if not context.strip():
