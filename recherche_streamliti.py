@@ -18,7 +18,7 @@ from langchain_openai import ChatOpenAI
 #   MODES & CONSTANTES
 # =========================
 FORCE_NUMPY = True   # on force la voie numpy (désactive FAISS pour éviter erreurs locales)
-DEBUG_MODE  = True   # traces visibles dans l'UI
+DEBUG_MODE  = False   # traces visibles dans l'UI
 
 # =========================
 #   CHEMINS ROBUSTES
@@ -343,6 +343,11 @@ def fix_newsletter_html(html_src: str, base_folder: str = NEWSLETTER_DIR) -> str
       .nl-wrap h2 { font-size: clamp(20px, 3vw, 28px) !important; font-weight:700 !important; }
       .nl-wrap h3 { font-size: clamp(18px, 2.6vw, 24px) !important; font-weight:600 !important; }
       .nl-wrap p  { margin: .45rem 0; line-height: 1.6; font-size: clamp(15px, 2.2vw, 18px); }
+      /* Hide leftover hero/overlay/badge containers */
+      .nl-wrap [class*="hero" i], .nl-wrap [id*="hero" i],
+      .nl-wrap [class*="overlay" i], .nl-wrap [id*="overlay" i],
+      .nl-wrap [class*="badge" i], .nl-wrap [id*="badge" i] { display:none !important; }
+
     </style>
     """
     title_html = f"<h1 class='nl-title'>{html.escape(title_txt)}</h1>" if title_txt else ""
