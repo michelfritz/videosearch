@@ -1,115 +1,67 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Visio Alur 2025 - RGPD - 5 novembre 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">RGPD : Tout ce qu'il faut savoir pour être conforme ! 📊</div></div>
+  <div class="hero"><img src="images/Visio Alur 2025 - RGPD - 5 novembre 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">🌟 Formation RGPD : Tout ce qu'il faut savoir !</div></div>
   <div class="inner">
     
-    <div class="badges">
-    <span>#RGPD</span>
-    <span>#Conformité</span>
-    <span>#ProtectionDesDonnées</span>
-    <span>#Immobilier</span>
-    <span>#Formation</span>
-</div>
-
-<div class="callout">
-    <strong>Idée forte :</strong> Ne conservez aucune donnée personnelle sur vos clients. Utilisez Eglantine pour gérer toutes les informations ! 
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Le RGPD est une réglementation européenne qui s'applique à toutes les entreprises de l'UE, y compris le secteur immobilier. Voici les points clés :</p>
-<ul>
-    <li>Respectez la licéité, loyauté et transparence dans la collecte de données.</li>
-    <li>Adoptez des pratiques de minimisation des données : collectez uniquement ce qui est nécessaire.</li>
-    <li>Informez vos clients sur l'utilisation de leurs données.</li>
-    <li>Assurez la sécurité des informations pour éviter les fuites.</li>
-</ul>
+    <h2>🧠 À retenir</h2>
+<p>Le RGPD est une réglementation européenne qui protège les données personnelles. Chaque professionnel de l'immobilier doit être conforme pour éviter des sanctions.</p>
 
 <h2>⚡ Moments forts</h2>
-<p>Lors de la formation, nous avons abordé :</p>
 <ul>
-    <li>Les principes fondamentaux du RGPD.</li>
-    <li>Les obligations spécifiques des agents immobiliers.</li>
-    <li>Les sanctions en cas de non-conformité.</li>
+  <li>La conformité au RGPD est obligatoire pour toutes les entreprises, grandes ou petites.</li>
+  <li>Des sanctions financières peuvent atteindre jusqu'à 20 millions d'euros ou 4% du chiffre d'affaires mondial.</li>
+  <li>La mise en conformité est un chantier en cours à la Lucarne de l'immobilier.</li>
 </ul>
+
+<div class="badges">
+  <span>📊 Conformité</span>
+  <span>🛡️ Sécurité</span>
+  <span>📅 Durée de conservation</span>
+  <span>📜 Transparence</span>
+  <span>💼 Responsabilité</span>
+</div>
 
 <h2>📚 Ressources utiles</h2>
-<p>Pour approfondir vos connaissances :</p>
-<ul>
-    <li><a href="https://www.cnil.fr">Site de la CNIL</a></li>
-    <li><a href="https://www.gouvernement.fr/rgpd">Ressources gouvernementales sur le RGPD</a></li>
-    <li><a href="mailto:animation@votreentreprise.com">Contactez l'équipe pour des questions spécifiques</a></li>
-</ul>
+<p>Pour en savoir plus sur le RGPD, consultez le site de la CNIL ou participez à nos prochaines formations.</p>
 
 <h2>📅 À venir</h2>
-<p>Ne manquez pas nos prochaines sessions de formation sur :</p>
 <ul>
-    <li>La gestion des données clients en pratique.</li>
-    <li>Les bonnes pratiques de sécurité informatique.</li>
+  <li>Formation sur les bonnes pratiques de gestion des données le mois prochain.</li>
+  <li>Webinaire sur les enjeux de la sécurité des données en immobilier.</li>
 </ul>
 
 <h2>Bravo 👏</h2>
-<p>Un grand merci à tous pour votre participation active ! Vous êtes sur la bonne voie pour garantir la protection des données de vos clients.</p>
+<p>Félicitations à tous pour votre engagement dans la mise en conformité et votre volonté d'améliorer la gestion des données personnelles !</p>
 
 <h2>Chiffres clés</h2>
 <ul>
-    <li>4% : Montant maximum des amendes en cas de non-conformité.</li>
-    <li>5 ans : Durée minimale de conservation des mandats de vente.</li>
-    <li>3 ans : Durée de conservation pour les prospects après le dernier contact.</li>
+  <li>75 000 € : Montant d'une amende récente pour non-conformité au RGPD.</li>
+  <li>5 ans : Durée de conservation d'un mandat de vente.</li>
+  <li>3 ans : Durée de conservation des données d'un prospect après le dernier contact actif.</li>
 </ul>
 
-<p>Pour toute question ou pour revoir cette formation, <a href="https://www.votreentreprise.com/replay">voir le replay ici !</a></p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:27:08 +0100
-    </div>
+<div class="callout">
+  <strong>🔑 Rappel important :</strong> Ne conservez aucune donnée personnelle sur votre ordinateur. Utilisez Eglantine pour gérer toutes vos informations clients en toute sécurité.
+</div>
+
+<p>Pour plus d'informations, <a href="lien_vers_le_replay">voir le replay</a> de la visioconférence !</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 10:55:27 +0100</div>
   </div>
 </div>

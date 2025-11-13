@@ -1,110 +1,75 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Avenant Modificatif de Prix Electronique.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">🚀 Simplifiez vos avenants modifiés par voie électronique !</div></div>
+  <div class="hero"><img src="images/Avenant Modificatif de Prix Electronique.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Découvrez l'Avenant Électronique : Simplifiez vos Transactions ! 🚀</div></div>
   <div class="inner">
     
     <div class="badges">
-    <span>#AvenantElectronique</span>
-    <span>#Simplicité</span>
-    <span>#Rapidité</span>
-    <span>#Fiabilité</span>
-    <span>#Eglantine</span>
-</div>
-
-<div class="callout">
-    <strong>À partir du 1er novembre 2025, utilisez l'avenant électronique pour gagner en temps et en efficacité !</strong>
+    <span>🆕 Nouveau</span>
+    <span>📅 À partir du 1er novembre 2025</span>
+    <span>⚡ Rapidité</span>
+    <span>✅ Fiabilité</span>
 </div>
 
 <h2>🧠 À retenir</h2>
-<p>La procédure d'envoi d'un avenant modificatif de prix par voie électronique est désormais simplifiée :</p>
+<p>À partir du <strong>1er novembre 2025</strong>, un nouvel avenant électronique sera mis en place pour tous les conseillers. Voici les principaux avantages :</p>
 <ul>
-    <li>Génération rapide en quelques clics.</li>
-    <li>Envoi et signature immédiats.</li>
-    <li>Suivi des signatures en temps réel.</li>
+    <li><strong>Simplicité :</strong> Générez, envoyez, signez et validez en quelques clics !</li>
+    <li><strong>Rapidité :</strong> Réalisez une baisse de prix en quelques minutes.</li>
+    <li><strong>Fiabilité :</strong> Évitez les erreurs invalidantes et les documents perdus.</li>
 </ul>
 
 <h2>⚡ Moments forts</h2>
-<p>Voici les principaux avantages de l'avenant électronique :</p>
+<p>Voici comment fonctionne le processus :</p>
 <ul>
-    <li><strong>Simplicité :</strong> Créez et envoyez votre avenant en quelques clics.</li>
-    <li><strong>Rapidité :</strong> Finalisez une baisse de prix en quelques minutes.</li>
-    <li><strong>Fiabilité :</strong> Éliminez les erreurs et les documents manquants.</li>
+    <li>Accédez à votre page, cliquez sur « Modif de prix ».</li>
+    <li>Validez votre modification, le système s’occupe du reste.</li>
+    <li>Recevez un message de confirmation de l’envoi pour signature.</li>
+    <li>Suivez la progression de la signature directement depuis Eglantine.</li>
 </ul>
 
 <h2>📚 Ressources utiles</h2>
-<p>Ne manquez pas de consulter les supports suivants :</p>
+<p>Rappelez à vos clients de vérifier leur boîte mail, notamment les spams, pour ne pas manquer l'email de signature. Voici quelques astuces :</p>
 <ul>
-    <li>Vidéo explicative sur l'utilisation de l'avenant électronique.</li>
-    <li>Guide pratique sur Eglantine et ses fonctionnalités.</li>
-    <li>FAQ sur les questions fréquentes liées à l'avenant électronique.</li>
+    <li>Vérifiez dans « Tous les messages » pour les utilisateurs de Gmail.</li>
+    <li>Utilisez un téléphone ou une tablette pour une expérience plus intuitive.</li>
 </ul>
 
 <h2>📅 À venir</h2>
-<p>Préparez-vous à utiliser ce système dès le 1er novembre 2025 !</p>
+<p>Préparez-vous pour la mise en œuvre de ce système dans <strong>moins de 10 jours</strong> !</p>
+
+<div class="callout">
+    <p><strong>Anticipez le changement :</strong> Familiarisez-vous avec le processus pour éviter toute surprise le 1er novembre !</p>
+</div>
 
 <h2>Bravo 👏</h2>
-<p>Félicitations à l'équipe pour sa réactivité et son engagement à simplifier nos processus !</p>
+<p>Un grand merci à tous pour votre engagement et votre adaptabilité face à ces nouvelles technologies !</p>
 
 <h2>Chiffres clés</h2>
-<p>À partir du 1er novembre 2025, tous les conseillers auront accès à cette fonctionnalité :</p>
 <ul>
-    <li>Plus de 99% des mandats concernés.</li>
-    <li>Possibilité de gérer jusqu'à 8 signatures simultanément.</li>
+    <li><strong>8 signatures :</strong> Capacité à recueillir jusqu'à 8 signatures électroniques.</li>
+    <li><strong>99% :</strong> Plus de 99% des mandats concernés par ce système.</li>
 </ul>
 
-<p>Pour toute question ou besoin d'assistance, n'hésitez pas à <a href="mailto:animation.com">contacter l'animation</a>. Nous sommes là pour vous aider !</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:12:00 +0100
-    </div>
+<p>Pour toute question ou besoin d'éclaircissement, n'hésitez pas à contacter l'équipe d'animation. Ensemble, nous allons gagner en efficacité !</p>
+
+<p><a href="#">Voir le replay</a></p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 10:37:26 +0100</div>
   </div>
 </div>

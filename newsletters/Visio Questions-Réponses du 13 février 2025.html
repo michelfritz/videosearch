@@ -1,117 +1,69 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Visio Questions-Réponses du 13 février 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Les Terrains à l'Honneur : Ce Qu'il Faut Savoir ! 🏡</div></div>
+  <div class="hero"><img src="images/Visio Questions-Réponses du 13 février 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Édition Spéciale : Focus sur les Terrains 🏡</div></div>
   <div class="inner">
     
-    <div class="badges">
-    <span>#Terrains</span>
-    <span>#FraisDeNotaire</span>
-    <span>#ChasseursImmobiliers</span>
-    <span>#Urbanisme</span>
-    <span>#RessourcesUtiles</span>
-</div>
-
-
-
-<div class="callout">
-    <p><strong>Conseil du jour :</strong> Avant de commercialiser un terrain, vérifiez toujours son statut juridique et les servitudes associées !</p>
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Lors de la vente de terrains, il est crucial de :</p>
+    <h2>🧠 À retenir</h2>
+<p>Ce soir, nous avons exploré les spécificités liées à la commercialisation des terrains. Voici les points clés à retenir :</p>
 <ul>
-    <li>Vérifier le PLU (Plan Local d'Urbanisme).</li>
-    <li>Obtenir un certificat d'urbanisme.</li>
-    <li>Consulter le cadastre pour les limites de parcelles.</li>
-    <li>Demander l'état des risques et pollutions.</li>
+    <li>Vérifiez toujours le <strong>PLU</strong> pour connaître la zone de votre terrain (U, AU, A, N).</li>
+    <li>Demandez un <strong>certificat d'urbanisme</strong> pour confirmer la constructibilité.</li>
+    <li>Examinez les <strong>servitudes</strong> et les droits de préemption.</li>
+    <li>Assurez-vous que le terrain est <strong>viabilisé</strong> avant la mise en vente.</li>
 </ul>
 
 <h2>⚡ Moments forts</h2>
-<p>Récemment, nous avons abordé :</p>
-<ul>
-    <li>L'augmentation des frais de notaire : +0,5% dans certains départements.</li>
-    <li>Les enjeux des chasseurs immobiliers et leur impact sur le marché.</li>
-    <li>Les différentes catégories de terrains : constructibles vs non constructibles.</li>
-</ul>
+<p>Nous avons discuté des récentes augmentations des frais de notaire, qui impactent le marché immobilier, ainsi que des défis rencontrés par les agents immobiliers face aux chasseurs immobiliers. </p>
 
 <h2>📚 Ressources utiles</h2>
-<p>Pour approfondir vos connaissances :</p>
+<p>Pour approfondir vos connaissances, consultez les ressources suivantes :</p>
 <ul>
-    <li><a href="https://www.cadastre.gouv.fr">Cadastre.gouv.fr</a> - Pour consulter les parcelles cadastrales.</li>
-    <li><a href="https://www.georisques.gouv.fr">GeoRisques</a> - Pour l'état des risques et pollutions.</li>
-    <li>Contactez votre notaire pour des questions sur les servitudes.</li>
+    <li><a href="https://www.cadastre.gouv.fr">Cadastre.gouv.fr</a> - Vérifiez les limites de parcelles.</li>
+    <li><a href="https://www.geoportail.gouv.fr">Géoportail</a> - Accédez aux informations géographiques et environnementales.</li>
+    <li><a href="https://www.service-public.fr">Service-public.fr</a> - Informations sur les certificats d'urbanisme.</li>
 </ul>
 
 <h2>📅 À venir</h2>
-<p>Ne manquez pas nos prochaines visioconférences sur :</p>
-<ul>
-    <li>Les tendances du marché immobilier.</li>
-    <li>Les nouvelles réglementations en urbanisme.</li>
-</ul>
+<p>Restez à l'écoute pour notre prochaine visioconférence où nous aborderons les stratégies de marketing pour les terrains !</p>
 
 <h2>Bravo 👏</h2>
-<p>Félicitations à l'équipe pour la gestion des nouveaux mandats et l'augmentation des visites virtuelles !</p>
+<p>Félicitations à <strong>Julien</strong> pour son interview réussie sur WeMove ! N'hésitez pas à consulter le replay pour découvrir ses conseils.</p>
 
 <h2>Chiffres clés</h2>
-<p>Pour cette semaine :</p>
 <ul>
-    <li>+25% de visites virtuelles par rapport à la semaine dernière.</li>
-    <li>3 nouveaux départements appliquant l'augmentation des frais de notaire.</li>
+    <li><strong>0,5%</strong> : Augmentation des frais de notaire dans certains départements.</li>
+    <li><strong>500€</strong> : Coût supplémentaire par tranche de 100 000€ de prix de vente.</li>
+    <li><strong>35 000€</strong> : Montant des dommages pour défaut d'information sur la viabilisation.</li>
 </ul>
 
-<p>Pour toute question ou pour approfondir vos connaissances, n’hésitez pas à <a href="mailto:support@votreentreprise.com">contacter le support formation</a>.</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:32:15 +0100
-    </div>
+<div class="badges">
+    <span>🔍 Informations</span>
+    <span>📈 Statistiques</span>
+    <span>📝 Conseils</span>
+</div>
+
+<div class="callout">
+    <p><strong>Astuce :</strong> Toujours vérifier les documents juridiques avant de finaliser une vente de terrain !</p>
+</div>
+
+<p>Pour plus d'informations, <a href="https://www.lalucarne.com/replay">voir le replay</a> de la visioconférence.</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 11:00:45 +0100</div>
   </div>
 </div>

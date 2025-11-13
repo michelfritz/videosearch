@@ -1,0 +1,38 @@
+{
+  "video_file": "Séminaire 2025 - 23 Octobre Après Midi",
+  "video_url": "https://www.youtube.com/watch?v=W2_t4yekBP0",
+  "title": "Séminaire 2025 23 Octobre Après Midi",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "youtube",
+          "image_local": "images/IG_A_youtube.jpg",
+          "image_url": "https://i.ytimg.com/vi/W2_t4yekBP0/maxresdefault.jpg"
+        }
+      ]
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "youtube",
+          "image_local": "images/FB_A_youtube.jpg",
+          "image_url": "https://i.ytimg.com/vi/W2_t4yekBP0/maxresdefault.jpg"
+        }
+      ]
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "provider": "hybrid"
+}

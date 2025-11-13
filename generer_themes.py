@@ -1,20 +1,21 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import os
 import csv
 import openai
 import pandas as pd
 from pathlib import Path
+from incremental_utils import compute_fingerprint, should_skip, mark_done
 
 # --- Paramètres ---
-DOSSIER_RESUME = r"C:\Transcript\Dropbox (Personal)\resume"
-FICHIER_SORTIE = "themes.csv"
+DOSSIER_RESUME = os.getenv("DOSSIER_RESUME", r"C:\Transcript\Dropbox (Personal)\resume")
+FICHIER_SORTIE = os.getenv("FICHIER_SORTIE", "themes.csv")
 
-# Incrémentalité
-# - FORCE_REBUILD=1   : régénère tous les thèmes (remplace les lignes existantes)
-# - UPDATE_EXISTING=1 : ne traite que les fichiers déjà présents et les remplace
 FORCE_REBUILD   = os.getenv("FORCE_REBUILD", "0") == "1"
 UPDATE_EXISTING = os.getenv("UPDATE_EXISTING", "0") == "1"
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
+SCRIPT_NAME = "themes"
 
 BAD_SEPARATORS = ["|", ";", ",", " / ", "/", "\\", "  "]
 
@@ -38,18 +39,15 @@ def dedupe_preserve_order(items):
 def extraire_themes(texte_resume):
     prompt = (
         "Voici le résumé d'une vidéo. Extrait entre 3 et 5 thèmes principaux très courts (2 à 4 mots max), "
-        "sous forme de mots clés synthétiques, très concis, sans phrase complète. "
-        "Ces thèmes doivent être pertinents pour l'immobilier ou le business (ignore le hors-sujet). "
+        "mots clés synthétiques, pertinents pour l'immobilier ou le business. "
         "Réponds sous forme de liste numérotée, sans autre texte.\n\n"
         f"Texte :\n{texte_resume}\n"
     )
-
     resp = openai.chat.completions.create(
         model="gpt-4-turbo",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.3,
     )
-
     texte_brut = (resp.choices[0].message.content or "")
     themes = []
     for ligne in texte_brut.splitlines():
@@ -73,56 +71,48 @@ def _load_existing_csv(path: str) -> pd.DataFrame:
         df = pd.read_csv(p, dtype=str, encoding="utf-8")
     except Exception:
         df = pd.DataFrame(columns=["fichier", "themes"])
-    for col in ("fichier","themes"):
-        if col not in df.columns:
-            df[col] = ""
+    for c in ("fichier","themes"):
+        if c not in df.columns:
+            df[c] = ""
+    return df
+
+def _upsert_row(df: pd.DataFrame, fichier: str, themes_join: str) -> pd.DataFrame:
+    mask = df["fichier"].astype(str) == str(fichier)
+    if mask.any():
+        df.loc[mask, "themes"] = themes_join
+    else:
+        df = pd.concat([df, pd.DataFrame([{"fichier": fichier, "themes": themes_join}])], ignore_index=True)
     return df
 
 def main():
     existing = _load_existing_csv(FICHIER_SORTIE)
-    processed = set(existing["fichier"].astype(str)) if len(existing) else set()
+    resumes = list(Path(DOSSIER_RESUME).glob("*.txt"))
+    print(f"[INFO] Résumés trouvés: {len(resumes)}")
 
-    resultats = []
-    fichiers = list(Path(DOSSIER_RESUME).glob("*.txt"))
-    print(f"[INFO] Résumés trouvés: {len(fichiers)}")
-
-    for fichier_txt in fichiers:
-        nom_fichier = fichier_txt.stem
-
-        if not (FORCE_REBUILD or UPDATE_EXISTING):
-            if nom_fichier in processed:
-                print(f"↪️ Déjà présent dans {FICHIER_SORTIE}: {nom_fichier} — saut.")
-                continue
-
+    for fichier_txt in resumes:
+        stem = fichier_txt.stem
         texte = fichier_txt.read_text(encoding="utf-8", errors="ignore").strip()
         if not texte:
-            print(f"⚠️ Résumé vide pour {nom_fichier}, saut.")
+            print(f"[SKIP] Résumé vide -> {stem}")
             continue
 
-        texte = texte[:5000]
-        print(f"✨ Extraction des thèmes pour : {nom_fichier}")
+        fp = compute_fingerprint(stem, texte)
+
+        if should_skip(SCRIPT_NAME, stem, fp):
+            print(f"[SKIP] Déjà traité (sentinelle ok) -> {stem}")
+            continue
+
+        print(f"[RUN] Extraction de thèmes -> {stem}")
         themes = extraire_themes(texte)
-        themes_join = "|".join(themes)
-        resultats.append({"fichier": nom_fichier, "themes": themes_join})
+        join = "|".join(themes)
 
-    if not resultats:
-        print("⚠️ Aucune nouveauté à écrire.")
-        return
+        df = _upsert_row(existing, stem, join)
+        df.drop_duplicates(subset=["fichier"], keep="last", inplace=True)
+        df.to_csv(FICHIER_SORTIE, index=False, encoding="utf-8", sep=",", quoting=csv.QUOTE_MINIMAL)
 
-    df_new = pd.DataFrame(resultats, columns=["fichier", "themes"])
+        mark_done(SCRIPT_NAME, stem, str(fichier_txt), fp, FICHIER_SORTIE)
 
-    if FORCE_REBUILD or UPDATE_EXISTING:
-        mask_keep = ~existing["fichier"].isin(df_new["fichier"])
-        df_final = pd.concat([existing[mask_keep], df_new], ignore_index=True)
-    else:
-        mask_new = ~df_new["fichier"].isin(processed)
-        df_final = pd.concat([existing, df_new[mask_new]], ignore_index=True)
-
-    df_final.drop_duplicates(subset=["fichier"], keep="last", inplace=True)
-    df_final.to_csv(FICHIER_SORTIE, index=False, encoding="utf-8", sep=",", quoting=csv.QUOTE_MINIMAL)
-    nb_tags = sum(len((r or "").split("|")) for r in df_final["themes"])
-    print(f"📁 Thèmes sauvegardés dans {FICHIER_SORTIE} ✅")
-    print(f"→ {len(df_final)} fichiers au total, {nb_tags} tags cumulés.")
+    print(f"[OK] Thèmes à jour -> {FICHIER_SORTIE}")
 
 if __name__ == "__main__":
     main()

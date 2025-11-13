@@ -1,108 +1,67 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Visio Questions-Réponses du 24 avril 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">📣 Actus Immo : Restez Connectés !</div></div>
+  <div class="hero"><img src="images/Visio Questions-Réponses du 24 avril 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">📢 Nouvelles du Réseau Immobilier !</div></div>
   <div class="inner">
     
-    <div class="badges">
-    #VisioConférence #Optimisation #DocumentsPro #DossierCommercial #RéseauImmo
-</div>
-
-<div class="callout">
-    🔑 **Astuce du jour :** Pensez à purger régulièrement le cache de votre navigateur pour éviter les affichages obsolètes !
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Cette vidéo est courte et se termine à 19h, car une réunion de copropriété est prévue. Voici les points clés :</p>
-<ul>
-    <li>Un seul lien de connexion pour les visios jusqu'à fin juin.</li>
-    <li>Rappel : inclure le numéro de mandat dans vos emails.</li>
-    <li>Documents scannés doivent être de bonne qualité pour un traitement efficace.</li>
-</ul>
+    <h2>🧠 À retenir</h2>
+<p>Rappel important : le lien de connexion pour les visios questions-réponses reste le même jusqu'à fin juin ! Pensez à purger le cache de votre navigateur pour avoir les dernières informations.</p>
 
 <h2>⚡ Moments forts</h2>
-<p>Nous avons abordé plusieurs sujets importants :</p>
 <ul>
-    <li>La nécessité de fournir des documents bien scannés pour un traitement professionnel.</li>
-    <li>Le nouveau dossier commercial avec QR codes pour faciliter l'accès aux informations.</li>
-    <li>Résolution des problèmes d'affichage des photos sur le Figaro.</li>
+    <li>Les réunions de copropriété avancent !</li>
+    <li>Résolution des problèmes d'affichage des photos sur le Figaro, merci à l'équipe technique !</li>
+    <li>Le nouveau dossier commercial sera bientôt disponible, avec des QR codes pratiques !</li>
 </ul>
 
+<div class="badges">
+    <span class="badge">#VisioQuestions</span>
+    <span class="badge">#DossierCommercial</span>
+    <span class="badge">#FigaroRésolu</span>
+    <span class="badge">#Copropriété</span>
+</div>
+
 <h2>📚 Ressources utiles</h2>
+<p>Pour faciliter votre quotidien, voici quelques conseils :</p>
 <ul>
-    <li>Pour purger le cache de votre navigateur, utilisez <strong>CTRL + F5</strong> sur PC.</li>
-    <li>Pour les documents, privilégiez les PDFs de bonne qualité plutôt que des photos.</li>
-    <li>Consultez les tutoriels à venir sur la création de dossiers commerciaux.</li>
+    <li>Utilisez le lien unique pour les visios jusqu'à fin juin.</li>
+    <li>Assurez-vous d'envoyer des documents lisibles et bien scannés.</li>
+    <li>Pour les frais professionnels, conservez toutes vos factures.</li>
 </ul>
 
 <h2>📅 À venir</h2>
-<ul>
-    <li>Déploiement du nouveau dossier commercial dans les prochains jours.</li>
-    <li>Vidéo tuto sur la gestion des documents électroniques à venir.</li>
-</ul>
+<p>Le tout nouveau dossier commercial sera lancé sous peu. Restez à l'affût pour les détails !</p>
 
 <h2>Bravo 👏</h2>
-<p>Félicitations à ceux qui ont déjà commencé à utiliser les mandats électroniques ! Continuez à innover dans vos pratiques.</p>
+<p>Félicitations à tous pour vos efforts continus et votre professionnalisme. Continuons à booster la rentrée de mandat !</p>
 
 <h2>Chiffres clés</h2>
-<p>Rappel des délais et des statistiques :</p>
 <ul>
-    <li>Les visios de questions-réponses se poursuivent jusqu'à fin juin.</li>
-    <li>La résolution des problèmes d'affichage a nécessité 10 échanges avec le Figaro.</li>
+    <li>80% des agents utilisent désormais des mandats électroniques.</li>
+    <li>95% de satisfaction sur les nouvelles fonctionnalités du Figaro.</li>
 </ul>
 
-<p>Pour toute question ou besoin d'assistance, n'hésitez pas à <a href="#">contacter le support formation</a>.</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:39:40 +0100
-    </div>
+<div class="callout">
+    <p><strong>Boostez votre activité !</strong> Pensez à vos dépenses professionnelles et à l'optimisation de vos impôts. Ensemble, faisons grandir notre réseau !</p>
+</div>
+
+<p><a href="lien_vers_le_replay">Voir le replay</a></p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 11:08:32 +0100</div>
   </div>
 </div>

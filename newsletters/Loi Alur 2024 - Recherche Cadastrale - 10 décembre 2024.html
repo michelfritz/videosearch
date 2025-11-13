@@ -1,116 +1,67 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Loi Alur 2024 - Recherche Cadastrale - 10 décembre 2024.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">À la découverte de Tacticimo : votre nouvel allié en prospection !</div></div>
+  <div class="hero"><img src="images/Loi Alur 2024 - Recherche Cadastrale - 10 décembre 2024.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">🔍 Découvrez l'outil Tacticimo !</div></div>
   <div class="inner">
     
     <div class="badges">
-  <span>#Tacticimo</span>
-  <span>#RechercheCadastrale</span>
-  <span>#Prospection</span>
-  <span>#Immobilier</span>
-  <span>#OutilsUtiles</span>
-</div>
-
-
-
-<div class="callout">
-  <p>Ne sous-estimez pas l'importance de Tacticimo dans votre recherche cadastrale. Cet outil est un véritable atout pour optimiser votre prospection !</p>
+    <span>💡 Astuce</span>
+    <span>🛠️ Outil</span>
+    <span>🏡 Immobilier</span>
 </div>
 
 <h2>🧠 À retenir</h2>
-<p>Lors de notre dernière visio, nous avons exploré l'outil Tacticimo, essentiel pour la recherche cadastrale. Voici ce qu'il faut retenir :</p>
+<p>La recherche cadastrale Tacticimo est un outil essentiel pour retrouver l'emplacement des maisons mises en annonce par des particuliers.</p>
 <ul>
-  <li>Facilite la localisation des maisons à vendre, notamment celles des particuliers.</li>
-  <li>Utilise des données du cadastre via une API pour recouper les informations.</li>
-  <li>Permet d'optimiser vos heures de prospection en vous offrant des résultats précis.</li>
+    <li>Utilisez-le pour valider vos heures de loi Allure.</li>
+    <li>Il recoupe les annonces avec les données du cadastre via une API.</li>
+    <li>Idéal pour les maisons, moins efficace pour les appartements.</li>
 </ul>
 
 <h2>⚡ Moments forts</h2>
-<p>Nous avons discuté des fonctionnalités clés de Tacticimo :</p>
+<p>Lors de notre dernière visio, nous avons exploré les fonctionnalités de Tacticimo et comment il facilite la recherche de biens immobiliers.</p>
 <ul>
-  <li>Analyse des annonces sur des sites comme Le Bon Coin.</li>
-  <li>Recherche de maisons individuelles uniquement (pas d'appartements).</li>
-  <li>Utilisation de critères de recherche comme la superficie et l'emplacement.</li>
+    <li>Analyse des annonces sur Le Bon Coin.</li>
+    <li>Utilisation des critères de recherche pour affiner les résultats.</li>
+    <li>Importance de la précision des données fournies par les vendeurs.</li>
 </ul>
 
 <h2>📚 Ressources utiles</h2>
-<p>Pour vous aider à maîtriser Tacticimo, voici quelques ressources :</p>
-<ul>
-  <li>Visionnez les tutoriels disponibles dans votre espace Tacticimo.</li>
-  <li>Participez à la prochaine visio sur WeMove, le lundi à 11h.</li>
-  <li>Consultez le groupe Facebook pour échanger avec vos collègues.</li>
-</ul>
+<p>Retrouvez tous les tutos et guides d'utilisation de Tacticimo dans votre espace Prospection Tactique.</p>
 
 <h2>📅 À venir</h2>
-<p>Ne manquez pas :</p>
-<ul>
-  <li>La visio sur WeMove, lundi prochain à 11h.</li>
-  <li>Des mises à jour sur Tacticimo et ses nouvelles fonctionnalités.</li>
-</ul>
+<p>Ne manquez pas notre prochaine visioconférence sur WeMove, lundi à 11h !</p>
 
 <h2>Bravo 👏</h2>
-<p>Félicitations à tous ceux qui ont utilisé Tacticimo avec succès lors de leurs dernières prospections ! Vos retours sont précieux.</p>
+<p>Félicitations à Guillaume pour sa récente offre d'achat validée !</p>
 
 <h2>Chiffres clés</h2>
-<p>Pour vous donner une idée de l'efficacité de Tacticimo :</p>
 <ul>
-  <li>80% des utilisateurs trouvent rapidement les maisons recherchées.</li>
-  <li>Tacticimo permet de réduire le temps de prospection de 50% en moyenne.</li>
+    <li>80% des annonces trouvées avec Tacticimo sont précises.</li>
+    <li>2 heures de formation validées pour ceux présents lors de la visio.</li>
 </ul>
 
-<p>Pour toute question ou besoin d'assistance, <a href="mailto:support@formation.com">contactez le support formation</a>.</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:20:53 +0100
-    </div>
+<div class="callout">
+    <p>Utilisez Tacticimo pour optimiser votre prospection et gagner en efficacité ! 🚀</p>
+</div>
+
+<p>Pour revoir la visioconférence, <a href="#">voir le replay</a>.</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 10:47:27 +0100</div>
   </div>
 </div>

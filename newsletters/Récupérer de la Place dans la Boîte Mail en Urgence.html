@@ -1,106 +1,74 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Récupérer de la Place dans la Boîte Mail en Urgence.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Libérez de l'espace dans votre boîte mail en un clin d'œil !</div></div>
+  <div class="hero"><img src="images/Récupérer de la Place dans la Boîte Mail en Urgence.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Libérez de l'espace dans votre boîte mail ! 🚀</div></div>
   <div class="inner">
     
     <div class="badges">
-    <span>#BoîteMail</span>
-    <span>#Astuce</span>
-    <span>#Efficacité</span>
-    <span>#Productivité</span>
-    <span>#Urgent</span>
-</div>
-
-<div class="callout">
-    <strong>Astuce du jour :</strong> Supprimez rapidement les e-mails anciens avec pièces jointes pour libérer de l'espace sans aide technique !
+    <span>Astuce</span>
+    <span>Urgent</span>
+    <span>Productivité</span>
 </div>
 
 <h2>🧠 À retenir</h2>
-<p>Pour gagner de l'espace dans votre boîte mail :</p>
+<p>Pour récupérer rapidement de l'espace dans votre boîte mail :</p>
 <ul>
     <li>Connectez-vous à votre boîte mail.</li>
-    <li>Accédez au dossier "Éléments envoyés".</li>
-    <li>Filtrez par e-mails contenant des pièces jointes.</li>
-    <li>Sélectionnez et supprimez les anciens e-mails.</li>
+    <li>Accédez au dossier <strong>Éléments envoyés</strong>.</li>
+    <li>Filtrez par <strong>e-mails avec pièces jointes</strong>.</li>
+    <li>Sélectionnez les e-mails anciens avec des fichiers lourds.</li>
+    <li>Supprimez ceux qui ne sont plus nécessaires.</li>
 </ul>
 
+<div class="callout">
+    <strong>Astuce rapide :</strong> Supprimez les e-mails envoyés il y a plus de 2 ans pour gagner de l'espace immédiatement !
+</div>
+
 <h2>⚡ Moments forts</h2>
-<p>Les e-mails envoyés contiennent souvent des photos volumineuses. Voici comment gérer cela :</p>
+<p>Cette méthode vous permet de :</p>
 <ul>
-    <li>Les photos peuvent peser entre 3 et 10 Mo.</li>
-    <li>Éliminez les e-mails de clients inactifs depuis plusieurs années.</li>
-    <li>Conservez ceux qui pourraient encore être utiles.</li>
+    <li>Débloquer votre boîte mail saturée.</li>
+    <li>Gagner beaucoup d'espace en quelques minutes.</li>
 </ul>
 
 <h2>📚 Ressources utiles</h2>
-<p>Pour des conseils supplémentaires, n'hésitez pas à contacter l'équipe d'animation :</p>
+<p>Pour aller plus loin, n'hésitez pas à :</p>
 <ul>
-    <li>Email : <a href="mailto:animation.alalucarn.com">animation.alalucarn.com</a></li>
-    <li>Demandez un rappel pour plus d'informations.</li>
+    <li>Consulter l'équipe d'animation pour d'autres astuces.</li>
+    <li>Demander une sauvegarde cryptée de votre boîte mail.</li>
 </ul>
 
-<h2>📅 À venir</h2>
-<p>Nous préparerons un tuto sur la sauvegarde complète de votre boîte mail. Restez à l'écoute !</p>
-
 <h2>Bravo 👏</h2>
-<p>Merci à tous pour votre engagement dans l'optimisation de votre travail quotidien !</p>
+<p>Merci à tous pour votre engagement et votre réactivité face à ces conseils pratiques !</p>
+
+<h2>📅 À venir</h2>
+<p>Restez à l'écoute pour le prochain tuto sur la sauvegarde complète de votre boîte mail.</p>
 
 <h2>Chiffres clés</h2>
-<p>En moyenne, un e-mail avec pièces jointes peut contenir jusqu'à 10 Mo de données. Pensez à faire le tri régulièrement !</p>
+<ul>
+    <li>Jusqu'à 10 Mo par photo envoyée !</li>
+    <li>Des années d'e-mails accumulés peuvent prendre beaucoup d'espace.</li>
+</ul>
 
-<p><a href="mailto:animation.alalucarn.com">Contactez l'équipe d'animation pour toute question ou assistance !</a></p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:24:00 +0100
-    </div>
+<p>Pour toute question ou assistance, contactez-nous à <a href="mailto:animation.alalucarn.com">animation.alalucarn.com</a>.</p>
+
+<p><a href="#">Voir le replay</a></p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 10:50:43 +0100</div>
   </div>
 </div>

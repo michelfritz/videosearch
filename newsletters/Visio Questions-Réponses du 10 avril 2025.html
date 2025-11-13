@@ -1,113 +1,81 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Visio Questions-Réponses du 10 avril 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Les Clés du Prêt Immobilier 🔑</div></div>
+  <div class="hero"><img src="images/Visio Questions-Réponses du 10 avril 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Les Prêts Bancaires : Tout ce qu'il Faut Savoir ! 💰</div></div>
   <div class="inner">
     
-    <div class="badges">
-  <span>#PrêtImmobilier</span>
-  <span>#ConseilsPratiques</span>
-  <span>#Formation</span>
-  <span>#RéseauImmobilier</span>
-</div>
-
-<div class="callout">
-  <p><strong>Astuce du jour :</strong> Vérifiez toujours la solvabilité de vos clients dès la première visite pour éviter les mauvaises surprises lors de la négociation !</p>
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Ce soir, nous avons abordé les prêts bancaires et comment optimiser la relation entre courtiers, banques et clients. Voici les points essentiels :</p>
+    <h2>🧠 À retenir</h2>
+<p>Ce soir, nous avons abordé les prêts bancaires et comment optimiser la relation entre les courtiers, les banques et vos clients. Voici les points essentiels :</p>
 <ul>
-  <li>70% des biens immobiliers sont financés par un prêt.</li>
-  <li>La condition suspensive est cruciale dans le compromis de vente.</li>
-  <li>Ne jamais donner d'avis sur la solvabilité de vos clients.</li>
+    <li>70% des biens immobiliers sont financés par des prêts.</li>
+    <li>La solvabilité de l'acquéreur doit être évaluée dès la visite.</li>
+    <li>Les conditions suspensives sont essentielles pour sécuriser les transactions.</li>
 </ul>
 
 <h2>⚡ Moments forts</h2>
-<p>Lors de notre réunion, plusieurs agents ont partagé leurs expériences sur :</p>
+<p>Nous avons eu des échanges enrichissants sur :</p>
 <ul>
-  <li>Les difficultés rencontrées avec les délais de déconnexion sur les plateformes.</li>
-  <li>Les nouvelles législations concernant les prêts immobiliers.</li>
-  <li>Les meilleures pratiques pour collaborer avec les courtiers.</li>
+    <li>Les taux d'intérêt actuels et leur impact sur les prêts.</li>
+    <li>Les obligations légales des agents immobiliers concernant le courtage.</li>
+    <li>Les meilleures pratiques pour aborder la question du financement avec les clients.</li>
 </ul>
 
 <h2>📚 Ressources utiles</h2>
-<p>Pour approfondir vos connaissances :</p>
+<p>Pour approfondir vos connaissances, voici quelques ressources :</p>
 <ul>
-  <li><a href="#">Guide sur les prêts immobiliers</a></li>
-  <li><a href="#">Webinaire sur la négociation des offres</a></li>
-  <li><a href="#">FAQ sur les conditions suspensives</a></li>
+    <li><a href="https://www.service-public.fr/particuliers/vosdroits/F19138">Service Public - Prêts immobiliers</a></li>
+    <li><a href="https://www.legifrance.gouv.fr/">Légifrance - Code monétaire et financier</a></li>
+    <li><a href="https://www.banque-france.fr/">Banque de France - Taux d'intérêt</a></li>
 </ul>
 
 <h2>📅 À venir</h2>
-<p>Ne manquez pas nos prochains événements :</p>
+<p>Ne manquez pas notre prochaine session où nous aborderons :</p>
 <ul>
-  <li>Formation sur la gestion des prêts : <strong>15 novembre</strong></li>
-  <li>Atelier pratique sur les maquettes interactives : <strong>22 novembre</strong></li>
+    <li>Les nouvelles tendances du marché immobilier.</li>
+    <li>Les outils digitaux pour faciliter les transactions.</li>
+    <li>Les stratégies de négociation avec les acheteurs.</li>
 </ul>
 
 <h2>Bravo 👏</h2>
-<p>Félicitations à <strong>Sabrina</strong> pour son excellent travail sur le Matterport de la maison de Jean-Marc ! Un bel exemple de professionnalisme et d'innovation.</p>
+<p>Un grand bravo à tous pour votre participation active et vos questions pertinentes ! Continuez à partager vos expériences et astuces.</p>
 
 <h2>Chiffres clés</h2>
+<p>Voici quelques chiffres à garder en tête :</p>
 <ul>
-  <li>70% : Part des biens immobiliers financés par un prêt.</li>
-  <li>45 jours : Délai habituel pour obtenir un prêt.</li>
-  <li>3 : Nombre minimum de demandes de prêt à faire pour sécuriser une offre.</li>
+    <li>70% des achats immobiliers sont financés par un prêt.</li>
+    <li>En moyenne, le délai d'obtention d'un prêt est de 30 à 60 jours.</li>
+    <li>Les taux d'intérêt actuels varient autour de 4%.</li>
 </ul>
 
-<p>Pour toute question ou besoin d'assistance, n'hésitez pas à <a href="#">contacter le support formation</a>.</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:30:34 +0100
-    </div>
+<div class="badges">
+    <span>🏡 Prêts Immobiliers</span>
+    <span>📈 Taux d'Intérêt</span>
+    <span>📋 Conditions Suspensives</span>
+    <span>💼 Courtage</span>
+    <span>📝 Solvabilité</span>
+</div>
+
+<div class="callout">
+    <p><strong>Astuce :</strong> Vérifiez toujours la solvabilité de vos clients dès la première visite pour éviter des surprises lors de la négociation !</p>
+</div>
+
+<p>Pour aller plus loin, <a href="https://www.example.com/replay">voir le replay</a> de notre session d'aujourd'hui !</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 10:58:56 +0100</div>
   </div>
 </div>

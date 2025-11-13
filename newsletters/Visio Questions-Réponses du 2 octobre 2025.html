@@ -1,108 +1,68 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Visio Questions-Réponses du 2 octobre 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">🔔 Préparez-vous pour nos événements à venir !</div></div>
+  <div class="hero"><img src="images/Visio Questions-Réponses du 2 octobre 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">🎉 Infos Clés et Nouvelles du Réseau Immobilier !</div></div>
   <div class="inner">
     
-    <div class="badges">
-  <span>#Événements</span>
-  <span>#Organisation</span>
-  <span>#Ressources</span>
-  <span>#WeMove</span>
-  <span>#VisitesVirtuelles</span>
-</div>
-
-
-
-<div class="callout">
-  <p><strong>Idée forte :</strong> Assurez-vous de répondre aux appels de Mathieu et moi pour organiser votre participation. Nous avons besoin de vos informations !</p>
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Les événements approchent à grands pas ! Voici les points essentiels :</p>
+    <h2>🧠 À retenir</h2>
+<p>Préparez-vous pour nos prochaines rencontres ! Voici quelques points essentiels :</p>
 <ul>
-  <li>Confirmez votre présence pour le dîner du 21 et du 25.</li>
-  <li>Répondez à Mathieu ou à moi pour vos horaires d'arrivée et de départ.</li>
-  <li>Des logements Airbnb sont réservés pour ceux qui viennent de loin.</li>
+    <li>Confirmez votre présence pour le dîner du 21 et du 25.</li>
+    <li>Les logements Airbnb sont réservés pour ceux qui arrivent la veille.</li>
+    <li>Les informations sur les montants des apporteurs d'affaires WeMove sont à transmettre.</li>
 </ul>
 
 <h2>⚡ Moments forts</h2>
-<p>Mathieu et moi avons contacté la majorité d'entre vous. Si vous n'avez pas encore été joint, attendez-vous à un appel aujourd'hui.</p>
+<p>Nous avons eu des échanges enrichissants avec plusieurs d'entre vous. Merci pour votre réactivité !</p>
+<p>Mathieu et moi avons contacté la majorité d'entre vous pour organiser nos événements à venir. Si vous n'avez pas encore été joint, attendez-vous à un appel aujourd'hui !</p>
 
 <h2>📚 Ressources utiles</h2>
-<p>Pour faciliter votre séjour :</p>
-<ul>
-  <li>Des maisons Airbnb sont réservées pour vous loger la veille.</li>
-  <li>Nous avons exploré plusieurs restaurants pour le dîner du 24.</li>
-</ul>
+<div class="callout">
+    <p>Pour toute question sur les logements ou le séminaire, n'hésitez pas à contacter l'animation !</p>
+</div>
 
 <h2>📅 À venir</h2>
-<p>Rendez-vous le 21 et le 25 pour nos événements ! Assurez-vous d'être au courant des détails logistiques.</p>
+<p>Nous avons réservé des Airbnb pour faciliter votre séjour :</p>
+<ul>
+    <li>Deux maisons avec plusieurs chambres.</li>
+    <li>Repas à organiser pour ceux qui arrivent la veille.</li>
+</ul>
 
 <h2>Bravo 👏</h2>
-<p>Un grand merci à Isabelle pour avoir prospecté des restaurants pour le dîner !</p>
+<p>Félicitations à tous pour votre engagement et votre professionnalisme ! Continuez à partager vos réussites et vos bonnes pratiques.</p>
 
 <h2>Chiffres clés</h2>
-<p>Nous avons réservé deux maisons Airbnb, pouvant accueillir plusieurs personnes. N'oubliez pas de nous dire si vous avez besoin d'aide pour vous loger !</p>
+<p>Rappel des statistiques sur WeMove :</p>
+<ul>
+    <li>Utilisation de WeMove : essentiel pour maximiser vos mandats.</li>
+    <li>Partagez vos montants d'apporteurs d'affaires pour une meilleure visibilité.</li>
+</ul>
 
-<h2>WeMove et vos honoraires</h2>
-<p>Merci de nous envoyer les informations sur les montants que vous attribuez à vos apporteurs d'affaires WeMove. C'est essentiel pour notre suivi !</p>
+<div class="badges">
+    <span>🏠 Logement</span>
+    <span>📞 Contact</span>
+    <span>📊 Statistiques</span>
+    <span>🎓 Formation</span>
+    <span>💼 Professionnalisme</span>
+</div>
 
-<h2>Visites virtuelles</h2>
-<p>Hugues a partagé un article intéressant sur l'importance des visites virtuelles. Pensez à les utiliser pour sécuriser vos honoraires !</p>
-
-<p>Pour toute question, n'hésitez pas à <a href="mailto:support@votreentreprise.com">contacter le support formation</a>.</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:37:57 +0100
-    </div>
+<p>Pour plus de détails, n'hésitez pas à <a href="#">voir le replay</a> de notre dernière visioconférence !</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 11:07:03 +0100</div>
   </div>
 </div>

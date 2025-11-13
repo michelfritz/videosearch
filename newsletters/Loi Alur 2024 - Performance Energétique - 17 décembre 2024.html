@@ -1,110 +1,79 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Loi Alur 2024 - Performance Energétique - 17 décembre 2024.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Performance Énergétique : Nouvelles Aides à Découvrir ! 🌱</div></div>
+  <div class="hero"><img src="images/Loi Alur 2024 - Performance Energétique - 17 décembre 2024.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">🔍 Focus sur la Performance Énergétique : Aides et Nouveautés !</div></div>
   <div class="inner">
     
-    <div class="badges">
-  <span>#PerformanceÉnergétique</span>
-  <span>#AidesRénovation</span>
-  <span>#TransitionÉnergétique</span>
-  <span>#MaPrimeRénov</span>
-  <span>#EcoPrêt</span>
-</div>
-
-<div class="callout">
-  <strong>Idée du jour :</strong> Pensez à vérifier les aides disponibles pour vos projets de rénovation énergétique ! 🏡
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Cette année, la visio sur la performance énergétique se concentre sur les <strong>aides à la rénovation énergétique</strong>. Voici les points clés à mémoriser :</p>
+    <h2>🧠 À retenir</h2>
+<p>Cette année, la visio sur la performance énergétique se concentre sur les aides à la rénovation. Nous allons explorer :</p>
 <ul>
-  <li>Les aides sont souvent perçues comme un maquis indéchiffrable.</li>
-  <li>Nous allons explorer les principales aides disponibles pour les particuliers.</li>
-  <li>Un PDF sera mis à disposition pour vous aider à naviguer dans ces informations.</li>
+  <li>Les principales aides disponibles pour les particuliers.</li>
+  <li>Les conditions d'éligibilité et les démarches à suivre.</li>
+  <li>Les nouveautés à venir en 2025.</li>
 </ul>
+
+<div class="badges">
+  <span>📅 Janvier 2025</span>
+  <span>🏠 Rénovation Énergétique</span>
+  <span>💰 Aides Financières</span>
+  <span>🔧 Travaux Éligibles</span>
+  <span>🌱 Écologie</span>
+</div>
 
 <h2>⚡ Moments forts</h2>
-<p>Lors de notre réunion, nous avons abordé plusieurs aides :</p>
+<p>Nous avons réorganisé le contenu des formations sur les thèmes obligatoires pour les rendre plus engageants et moins redondants. Voici les points clés :</p>
 <ul>
-  <li><strong>MaPrimeRénov'</strong> : Aide publique pour encourager la rénovation énergétique.</li>
-  <li><strong>Éco-prêt à taux zéro</strong> : Prêt sans intérêt pour financer les travaux de rénovation.</li>
-  <li><strong>Certificats d'économie d'énergie</strong> : Incitations pour réduire la consommation d'énergie.</li>
+  <li>Focus sur <strong>MaPrimeRénov'</strong>, l'aide la plus connue pour la rénovation énergétique.</li>
+  <li>Importance de passer par des entreprises <strong>RGE</strong> pour bénéficier des aides.</li>
+  <li>Les aides sont conditionnées par l'ancienneté du logement et le type de travaux.</li>
 </ul>
 
+<div class="callout">
+  <p><strong>Idée forte :</strong> Ne laissez pas passer les aides disponibles ! Renseignez-vous et engagez-vous dans la rénovation énergétique !</p>
+</div>
+
 <h2>📚 Ressources utiles</h2>
-<p>Pour en savoir plus et accéder aux aides :</p>
+<p>Pour mieux comprendre les aides, voici quelques ressources à consulter :</p>
 <ul>
-  <li>Visitez le site de l'<a href="https://www.france-renov.gouv.fr" target="_blank">France Rénov'</a>.</li>
-  <li>Consultez l'annuaire des entreprises RGE sur le site de l'ADEME.</li>
-  <li>Contactez votre mairie pour des aides locales spécifiques.</li>
+  <li><a href="https://www.ademe.fr" target="_blank">Site de l'ADEME</a> - Trouvez des entreprises RGE.</li>
+  <li><a href="https://www.france-renov.gouv.fr" target="_blank">France Rénov'</a> - Guichet unique pour les aides.</li>
+  <li><a href="https://www.ana.fr" target="_blank">Agence Nationale de l'Habitat (ANA)</a> - Informations sur MaPrimeRénov' Sérénité et Adapt.</li>
 </ul>
 
 <h2>📅 À venir</h2>
-<p>Ne manquez pas nos prochaines visios, où nous continuerons à explorer les aides à la rénovation et les nouvelles réglementations.</p>
-
-<h2>Bravo 👏</h2>
-<p>Un grand merci à tous pour votre participation active et votre engagement dans la transition énergétique !</p>
-
-<h2>Chiffres clés</h2>
+<p>Restez à l'écoute pour les prochaines visios où nous aborderons les changements à venir en 2025 :</p>
 <ul>
-  <li>90% : Montant maximum d'aide pour les ménages modestes via MaPrimeRénov'</li>
-  <li>50 000 euros : Montant maximum de l'éco-prêt à taux zéro.</li>
-  <li>3 à 5 ans : Durée d'exonération de la taxe foncière pour les travaux de rénovation.</li>
+  <li>Fin de validité des DPE réalisés avant le 1er janvier 2021.</li>
+  <li>Obligation d'audit énergétique pour les maisons classées E.</li>
 </ul>
 
-<p>Pour toute question ou besoin d'accompagnement, n'hésitez pas à <a href="mailto:support@votreentreprise.com">contacter le support formation</a> !</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:17:45 +0100
-    </div>
+<h2>Bravo 👏</h2>
+<p>Félicitations à tous ceux qui s'engagent dans la rénovation de leur logement et qui contribuent à une meilleure performance énergétique !</p>
+
+<h2>Chiffres clés</h2>
+<p>Quelques éléments à retenir :</p>
+<ul>
+  <li>90% de financement possible pour les ménages modestes.</li>
+  <li>50 000 euros maximum pour l'éco-prêt à taux zéro sur 15 à 20 ans.</li>
+</ul>
+
+<p>Pour plus d'informations et pour ne rien manquer, <a href="https://www.replay.com" target="_blank">voir le replay</a> de la visio !</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 10:44:21 +0100</div>
   </div>
 </div>

@@ -1,99 +1,67 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Visio Questions-Réponses du 16 janvier 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Actus de la Lucarne : Nouvelles et Rappels Importants !</div></div>
+  <div class="hero"><img src="images/Visio Questions-Réponses du 16 janvier 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">Newsletter de la Lucarne de l'Immobilier 🏡</div></div>
   <div class="inner">
     
-    <div class="badges">
-    <span>#RCP2025</span>
-    <span>#CartesProfessionnelles</span>
-    <span>#Documents</span>
-    <span>#DPE</span>
-    <span>#LogementDécent</span>
-</div>
-
-<div class="callout">
-    <strong>Rappel : Envoyez vos RCP 2025 !</strong> Il est impératif d'envoyer vos RCP 2025 à animation.com avant le 10 janvier. Ne tardez pas !
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Merci à ceux qui ont déjà envoyé leur RCP 2025. Pour ceux qui ne l'ont pas encore fait, dépêchez-vous !</p>
-<p>Nous allons bientôt renouveler les cartes professionnelles de tous les agents de la Lucarne, suite à notre transformation en SAS.</p>
+    <h2>🧠 À retenir</h2>
+<p>Merci à tous ceux qui ont déjà envoyé leur RCP 2025 ! Il nous en manque encore beaucoup, alors n'oubliez pas de les envoyer à <a href="mailto:animation.com">animation.com</a> avant le 10 janvier. C'est très important !</p>
 
 <h2>⚡ Moments forts</h2>
 <ul>
-    <li>Transformation de la Lucarne de l'immobilier en SAS, facilitant la gestion.</li>
-    <li>Les nouvelles cartes professionnelles seront émises cette année.</li>
-    <li>La CCI Île-de-France exige que chaque collaborateur fasse sa demande de carte individuellement.</li>
+  <li>Transformation de la société de SA à SAS : <strong>À la Lucarne, nous sommes désormais une SAS !</strong></li>
+  <li>Refonte des cartes professionnelles prévue pour 2024.</li>
+  <li>Attention à la CCI Île-de-France : chaque collaborateur doit faire sa demande de carte individuelle.</li>
 </ul>
 
+<div class="badges">
+  <span>🔄 Transformation réussie</span>
+  <span>📅 Rappel RCP 2025</span>
+  <span>⚖️ CCI Île-de-France</span>
+</div>
+
 <h2>📚 Ressources utiles</h2>
-<p>Pour une bonne qualité de documents, assurez-vous d'envoyer des PDF lisibles. Évitez les scans flous ou illisibles.</p>
+<p>Pour garantir la qualité de vos documents, rappelez-vous que seuls les PDF de bonne qualité sont acceptés. Voici quelques conseils :</p>
+<ul>
+  <li>Utilisez un scanner de qualité pour vos documents.</li>
+  <li>Assurez-vous que les informations sont bien lisibles.</li>
+  <li>Transformez vos images en PDF avant de les envoyer.</li>
+</ul>
 
 <h2>📅 À venir</h2>
-<p>Préparez-vous pour les changements liés au DPE. À partir du 1er janvier 2025, les logements classés G seront considérés comme indécents et non louables.</p>
+<p>Rendez-vous dans notre prochaine visioconférence pour discuter des mises à jour concernant le DPE et le logement décent. Ne manquez pas cette occasion d'être informé !</p>
 
 <h2>Bravo 👏</h2>
-<p>Un grand bravo à Nathalie pour avoir été la première à envoyer sa carte périmée !</p>
+<p>Un grand bravo à Nathalie pour avoir été la première à envoyer sa carte professionnelle périmée ! Vous êtes un exemple à suivre !</p>
 
 <h2>Chiffres clés</h2>
 <ul>
-    <li>10 janvier : Date limite pour l'envoi des RCP 2025.</li>
-    <li>1er janvier 2025 : Interdiction de louer des logements classés G.</li>
+  <li>RCP 2025 : 50% des documents reçus</li>
+  <li>Transformation en SAS : 100% finalisée</li>
+  <li>Nombre de cartes professionnelles à renouveler : 150</li>
 </ul>
 
-<p>Pour toute question ou besoin d'assistance, n'hésitez pas à <a href="mailto:animation.com">contacter le support formation</a>.</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:35:02 +0100
-    </div>
+<div class="callout">
+  <strong>Idée forte :</strong> <em>La qualité de vos documents est essentielle pour le bon fonctionnement de notre réseau. Soyez vigilants !</em>
+</div>
+
+<p>Pour plus d'informations ou pour revoir cette réunion, <a href="#">voir le replay</a>.</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 11:03:58 +0100</div>
   </div>
 </div>

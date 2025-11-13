@@ -1,98 +1,62 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Visio Questions-Réponses du 16 octobre 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">🌟 Les Nouvelles de la Visio du Jeudi Matin !</div></div>
+  <div class="hero"><img src="images/Visio Questions-Réponses du 16 octobre 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">🎉 Bienvenue à la Newsletter de la Lucarne !</div></div>
   <div class="inner">
     
-    <div class="badges">
-    #VisioImmobilier #Rappels #DPE2026 #CertificatUrbanisme #BravoOlivier
-</div>
-
-<div class="callout">
-    <strong>Rappel important :</strong> Pensez à demander la taxe foncière 2025 lors de la prise de nouveaux mandats ! 📑
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Voici les points clés à garder en tête :</p>
+    <h2>🧠 À retenir</h2>
+<p>Voici quelques rappels importants à l'approche de la fin d'année :</p>
 <ul>
-    <li>Demandez la <strong>taxe foncière 2025</strong> pour tous nouveaux mandats.</li>
-    <li>Renouvelez votre <strong>assurance RCP</strong> avant le 10 janvier.</li>
-    <li>Suivez vos <strong>attestations de formation</strong> loi Allure.</li>
+    <li><strong>Taxes foncières 2025 :</strong> Demandez impérativement la taxe foncière de 2025 lors de la prise de nouveaux mandats.</li>
+    <li><strong>Assurances RCP :</strong> Pensez à renouveler votre attestation d'assurance RCP pour 2026 avant le 10 janvier.</li>
+    <li><strong>Formation loi Alur :</strong> Assurez-vous de suivre vos 14 heures de formation par an et d'envoyer vos attestations.</li>
 </ul>
+
+<div class="badges">
+    <span>🔍 Taxes Foncières</span>
+    <span>📜 Assurances RCP</span>
+    <span>📚 Formation Alur</span>
+</div>
 
 <h2>⚡ Moments forts</h2>
-<p>Nous avons accueilli Olivier, qui a assisté à sa première visio ! 🎉</p>
-<p>Le passage aux visios du jeudi matin a suscité des retours variés. N'hésitez pas à partager vos préférences !</p>
+<p>Un grand merci à tous pour votre participation à la visioconférence de ce matin ! Un accueil chaleureux à nos nouveaux arrivants, Olivier et Virginie ! 👋</p>
 
 <h2>📚 Ressources utiles</h2>
-<p>Pour plus d'informations :</p>
-<ul>
-    <li>Consultez le site de l'ADEME pour les DPE.</li>
-    <li>Pour les questions sur les certificats d'urbanisme, contactez votre mairie.</li>
-    <li>Pour toute demande d'assistance, écrivez à <a href="mailto:animation@alalucam.com">animation@alalucam.com</a>.</li>
-</ul>
+<p>N'oubliez pas de consulter Eglantine pour récupérer les liens des visioconférences et autres ressources.</p>
 
 <h2>📅 À venir</h2>
-<p>Rendez-vous au séminaire au Puy du Fou le 22 octobre ! 🏰</p>
+<p>Rendez-vous le <strong>22 novembre</strong> au Puy du Fou pour notre séminaire ! Ne manquez pas les détails dans votre boîte mail ! ✉️</p>
 
 <h2>Bravo 👏</h2>
-<p>Félicitations à Olivier pour sa première participation et à tous ceux qui continuent de s'investir dans leur formation !</p>
+<p>Félicitations à Pierre pour avoir déjà envoyé sa taxe foncière 2025 ! Soyons tous aussi réactifs !</p>
 
 <h2>Chiffres clés</h2>
-<p>Actuellement, nous avons noté une participation de seulement <strong>22 personnes</strong> à cette visio. N'oubliez pas de vous inscrire pour les prochaines !</p>
+<ul>
+    <li><strong>22 :</strong> Nombre de participants à la visioconférence d'aujourd'hui.</li>
+    <li><strong>1 :</strong> Nouvelle information sur le DPE à partir de janvier 2026.</li>
+</ul>
 
-<p>Pour toute question ou besoin d'assistance, <a href="mailto:animation@alalucam.com">contactez le support formation</a>.</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:36:30 +0100
-    </div>
+<div class="callout">
+    <p><strong>Important :</strong> Les DPE seront modifiés en janvier 2026. Préparez-vous à ces changements !</p>
+</div>
+
+<p>Pour plus d'informations et pour voir le replay de la visioconférence, <a href="#">cliquez ici</a>.</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 11:05:28 +0100</div>
   </div>
 </div>

@@ -1,0 +1,38 @@
+{
+  "video_file": "Séminaire 2025 - 23 Octobre Matin",
+  "video_url": "https://www.youtube.com/watch?v=Zn5wFJ-XtRQ",
+  "title": "Séminaire 2025 23 Octobre Matin",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": [
+        {
+          "source": "youtube",
+          "image_local": "images/IG_A_youtube.jpg",
+          "image_url": "https://i.ytimg.com/vi/Zn5wFJ-XtRQ/maxresdefault.jpg"
+        }
+      ]
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": [
+        {
+          "source": "youtube",
+          "image_local": "images/FB_A_youtube.jpg",
+          "image_url": "https://i.ytimg.com/vi/Zn5wFJ-XtRQ/maxresdefault.jpg"
+        }
+      ]
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "provider": "hybrid"
+}

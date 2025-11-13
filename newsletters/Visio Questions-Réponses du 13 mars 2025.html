@@ -1,100 +1,69 @@
 
 <style>
-:root {
-  --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af;
-  --primary:#60a5fa; --accent:#34d399; --warn:#f59e0b;
-}
+:root { --bg:#0b1220; --surface:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#9ca3af; --primary:#60a5fa; --accent:#34d399; }
 *{box-sizing:border-box}
-body {
-  margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a);
-  color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-}
-.container {
-  max-width: 900px; margin: 0 auto; background: rgba(17,24,39,.7);
-  backdrop-filter: blur(6px); border:1px solid rgba(255,255,255,.06);
-  border-radius: 16px; overflow:hidden; box-shadow: 0 20px 40px rgba(0,0,0,.35);
-}
-.hero { 
-  position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden;
-}
-@media (max-width:680px){ .hero{ height:220px; } }
-.hero img { width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
-.hero .overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
-.hero .title {
-  position:absolute; left:24px; bottom:20px; right:24px;
-  font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15;
-  color: #fff; text-shadow: 0 8px 20px rgba(0,0,0,.45);
-}
-.inner { padding: 28px; }
-h1 { font-size: 26px; margin: 0 0 8px; color: var(--primary); }
-h2 { font-size: 21px; margin: 26px 0 10px; color: #93c5fd;}
-p { line-height:1.7; color: var(--txt); margin: 12px 0; }
-ul { list-style: disc; padding-left: 1.25rem; margin: 12px 0; }
-ul li { margin: 8px 0; }
-.badges { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;}
-.badge { background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe;
-  padding:6px 10px; border-radius:999px; font-size:13px; }
-.callout {
-  border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px;
-  margin:16px 0; color:#d1fae5;
-}
-.cta {
-  display:inline-block; margin:16px 0 6px; background: linear-gradient(90deg,#38bdf8,#60a5fa);
-  color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none;
-  box-shadow: 0 8px 20px rgba(56,189,248,.35);
-}
-.footer { margin-top: 24px; color: var(--muted); font-size: 12px; text-align:center; }
-code, pre { background: #0b1020; color: #e5e7eb; padding:3px 6px; border-radius:6px; }
-@media (max-width:680px){ .inner{ padding:18px; } }
+body{ margin:0; padding:24px; background:linear-gradient(160deg, var(--bg), #0b1020 60%, #0b0f1a); color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;}
+.container{ max-width: 900px; margin:0 auto; background:rgba(17,24,39,.7); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+.hero{ position:relative; width:100%; height:320px; background:#0b1326; overflow:hidden; } @media (max-width:680px){ .hero{ height:220px; } }
+.hero img{ width:100%; height:100%; object-fit:cover; object-position:center 25%; display:block; }
+.hero .overlay{ position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.2), rgba(0,0,0,.65) 65%); }
+.hero .title{ position:absolute; left:24px; bottom:20px; right:24px; font-size: clamp(22px, 4vw, 36px); font-weight:800; line-height:1.15; color:#fff; }
+.inner{ padding:28px; } h1{ font-size:26px; margin:0 0 8px; color:var(--primary);} h2{ font-size:21px; margin:26px 0 10px; color:#93c5fd;} p{ line-height:1.7; margin:12px 0;}
+ul{ list-style:disc; padding-left:1.25rem; margin:12px 0;} ul li{ margin:8px 0;}
+.badges{ display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 20px;} .badge{ background:rgba(96,165,250,.18); border:1px solid rgba(96,165,250,.35); color:#dbeafe; padding:6px 10px; border-radius:999px; font-size:13px; }
+.callout{ border-left:4px solid var(--accent); background:rgba(52,211,153,.08); padding:14px 16px; border-radius:8px; margin:16px 0; color:#d1fae5; }
+.cta{ display:inline-block; margin:16px 0 6px; background:linear-gradient(90deg,#38bdf8,#60a5fa); color:#0b1220; padding:10px 14px; font-weight:700; border-radius:10px; text-decoration:none; }
+.footer{ margin-top:24px; color:#9ca3af; font-size:12px; text-align:center; }
 </style>
 
-<!-- image-source: OpenAI gpt-image-1 (1536x1024) -->
 <div class="container">
-  <div class="hero"><img src="images/Visio Questions-Réponses du 13 mars 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">📣 Nouvelles du Réseau Immobilier : Outils, Annonces et Opportunités !</div></div>
+  <div class="hero"><img src="images/Visio Questions-Réponses du 13 mars 2025.png" alt="Hero" data-source="OpenAI gpt-image-1 (1536x1024)"><div class="overlay"></div><div class="title">📢 Les Nouvelles du Réseau Immobilier</div></div>
   <div class="inner">
     
-    <div class="badges">
-    <span>#Outils</span>
-    <span>#Annonces</span>
-    <span>#Opportunités</span>
-    <span>#Visio</span>
-    <span>#Bravo</span>
-</div>
-
-<div class="callout">
-    <p><strong>Astuce du jour :</strong> Rentrez le maximum de mandats ! Plus vous aurez de mandats, plus vous créerez d'opportunités. 💪</p>
-</div>
-
-<h2>🧠 À retenir</h2>
-<p>Un nouvel outil d'édition automatique d'attestation de mandat sera disponible dès vendredi soir. Cet outil fonctionnera uniquement sur les mandats électroniques, permettant de simplifier vos démarches.</p>
+    <h2>🧠 À retenir</h2>
+<p>Cette semaine, plusieurs annonces importantes pour améliorer notre efficacité et célébrer nos succès !</p>
 
 <h2>⚡ Moments forts</h2>
 <ul>
-    <li>Félicitations à Guy pour sa première vente d'un terrain en Bretagne ! 🎉</li>
-    <li>Rappel : le succès commercial est intimement lié au nombre de mandats. Ne laissez pas passer d'opportunités !</li>
+    <li>Félicitations à Guy pour sa première vente en Bretagne ! 🎉</li>
+    <li>Mise en place d'un nouvel outil : l'édition automatique d'attestation de mandat, disponible dès vendredi soir ! 🛠️</li>
 </ul>
 
 <h2>📚 Ressources utiles</h2>
-<p>Retrouvez le nouvel outil d'attestation de mandat dans votre églantine à partir de vendredi. N'oubliez pas de l'utiliser pour gagner du temps dans vos démarches !</p>
-
-<h2>📅 À venir</h2>
+<p>Un nouvel outil sera bientôt disponible dans votre églantine :</p>
 <ul>
-    <li>Formation sur les viagers : plusieurs sessions prévues courant avril-mai.</li>
-    <li>Inscrivez-vous aux prochaines visios du jeudi pour ne rien manquer !</li>
+    <li>Édition automatique d'attestation de mandat uniquement pour les mandats électroniques.</li>
+    <li>Accès direct aux DPE via le numéro de mandat.</li>
 </ul>
 
+<div class="callout">
+    <p><strong>Proactivité : Plus vous rentrerez de mandats, plus vous aurez de chances de succès !</strong></p>
+</div>
+
+<h2>📅 À venir</h2>
+<p>Formation sur les viagers à venir ! Restez à l'écoute pour les dates et les détails ! 📅</p>
+
 <h2>Bravo 👏</h2>
-<p>Un grand bravo à Cathy pour son initiative d'offrir des visites virtuelles à des commerçants locaux. C'est un excellent moyen de développer votre réseau et d'attirer de nouveaux mandats !</p>
+<p>Un grand bravo à Cathy pour son initiative de créer des visites virtuelles pour des commerçants locaux !</p>
 
 <h2>Chiffres clés</h2>
 <ul>
     <li>Environ 800 000 ventes immobilières en France chaque année.</li>
-    <li>Seulement 5 000 ventes en viager par an, soit environ 0,5% des ventes totales.</li>
+    <li>Seulement 5 000 ventes en viager par an, soit 0,5% des ventes totales.</li>
 </ul>
 
-<p>Pour toute question ou pour approfondir vos connaissances, n'hésitez pas à <a href="mailto:support@immobilier.com">contacter le support formation</a>.</p>
-    <div class="footer">
-      Newsletter générée automatiquement – A La Lucarne • Sat, 08 Nov 2025 14:33:33 +0100
-    </div>
+<div class="badges">
+    <span>Nouvel Outil</span>
+    <span>Félicitations</span>
+    <span>Formation Viager</span>
+</div>
+
+<div class="badges">
+    <span>Proactivité</span>
+    <span>Ressources Utiles</span>
+</div>
+
+<p>Pour plus d'informations, <a href="lien_vers_le_replay">voir le replay</a> de notre dernière visio !</p>
+    <div class="footer">Newsletter générée automatiquement – A La Lucarne • Thu, 13 Nov 2025 11:02:22 +0100</div>
   </div>
 </div>
