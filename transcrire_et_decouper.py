@@ -360,13 +360,20 @@ def build_my_uploads_index(youtube) -> Dict[str, str]:
             break
     return index
 
-def _normalize_text(s: str) -> str:
-    s = (s or "").lower()
+def normalize_key(s: str) -> str:
+    import unicodedata, re, os
+    if s is None:
+        return ""
+    s = str(s).strip().lower()
     s = unicodedata.normalize("NFKD", s)
     s = "".join(ch for ch in s if not unicodedata.combining(ch))
-    s = re.sub(r"[^a-z0-9]+", " ", s)
-    s = " ".join(s.split())
-    return s
+    s = s.replace("\u00A0", " ")
+    s = re.sub(r"[\u2000-\u200B\u202F\u205F\u3000]", " ", s)
+    s = re.sub(r"[\-‐‑‒–—−]+", "-", s)
+    s = re.sub(r"[^a-z0-9\-\._ ]+", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    base = os.path.splitext(s)[0]
+    return base or s
 
 def _combined_score(target_norm: str, title_norm: str) -> float:
     ta = set(target_norm.split())
