@@ -1,0 +1,26 @@
+{
+  "video_file": "Visio Questions-Réponses du 27 novembre 2025",
+  "video_url": "https://www.youtube.com/watch?v=KyneQFTz3Nw",
+  "title": "À La Lucarne",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "provider": "hybrid"
+}

@@ -375,6 +375,11 @@ def normalize_key(s: str) -> str:
     base = os.path.splitext(s)[0]
     return base or s
 
+def _normalize_text(s: str) -> str:
+    """Normalisation texte pour le matching flou titre/nom de fichier."""
+    # On réutilise normalize_key pour avoir exactement la même logique :
+    return normalize_key(s)
+
 def _combined_score(target_norm: str, title_norm: str) -> float:
     ta = set(target_norm.split())
     tb = set(title_norm.split())
