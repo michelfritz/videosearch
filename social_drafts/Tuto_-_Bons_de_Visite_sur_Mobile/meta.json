@@ -1,0 +1,26 @@
+{
+  "video_file": "Tuto - Bons de Visite sur Mobile",
+  "video_url": "https://www.youtube.com/watch?v=mN7tX7xDt_M",
+  "title": "Tuto Bons De Visite Sur Mobile",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "provider": "hybrid"
+}

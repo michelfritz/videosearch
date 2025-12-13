@@ -1,0 +1,1872 @@
+1
+00:00:00,000 --> 00:00:03,940
+Bonjour à vous les bêta-testeurs.
+
+2
+00:00:04,400 --> 00:00:08,779
+Je vous présente aujourd'hui un nouvel outil que vous avez dans vos églantines.
+
+3
+00:00:08,900 --> 00:00:12,700
+Alors bien entendu, vous seuls les bêta-testeurs en disposez dans vos églantines.
+
+4
+00:00:12,800 --> 00:00:19,080
+Si vous en parlez à des camarades qui ne sont pas bêta-testeurs, ils ne le trouveront pas dans leur interface à eux.
+
+5
+00:00:19,740 --> 00:00:25,339
+Alors c'est un outil de gestion des bons de visite, de gestion de bons de visite sur mobile.
+
+6
+00:00:25,339 --> 00:00:39,880
+C'est ça la particularité, c'est que nous sommes en train d'avancer sur la conversion et le développement de nos outils sur mobile, alors pour les téléphones, mais ce que je vous recommande, ça on en a souvent parlé, c'est d'utiliser une tablette.
+
+7
+00:00:39,880 --> 00:00:44,480
+Aujourd'hui, on ne peut pas trop faire l'impasse sur ce genre d'outils.
+
+8
+00:00:44,820 --> 00:00:49,980
+On ne peut pas se contenter d'un simple téléphone mobile chez nos clients
+
+9
+00:00:49,980 --> 00:00:53,780
+pour leur montrer une maquette interactive, pour faire un mandat, pour faire quoi que ce soit.
+
+10
+00:00:54,120 --> 00:00:57,700
+Une tablette est beaucoup plus confortable qu'un mobile.
+
+11
+00:00:58,140 --> 00:01:01,040
+Maintenant, les outils que je vais vous montrer aujourd'hui sont optimisés
+
+12
+00:01:01,040 --> 00:01:03,540
+pour les téléphones mobiles et pour les tablettes.
+
+13
+00:01:03,740 --> 00:01:07,719
+Je vous recommande l'usage d'une tablette, mais vous pouvez très bien l'utiliser sur mobile.
+
+14
+00:01:08,540 --> 00:01:09,719
+De quoi s'agit-il ?
+
+15
+00:01:09,879 --> 00:01:18,479
+C'est un outil de gestion des bons de visite en face à face avec vos acquéreurs lors de vos visites sur un téléphone mobile.
+
+16
+00:01:19,039 --> 00:01:20,679
+Comment ça fonctionne ?
+
+17
+00:01:20,679 --> 00:01:26,899
+C'est assez simple. Vous allez voir, d'ailleurs, cette visioconférence, ce petit tuto ne sera pas très très long.
+
+18
+00:01:27,640 --> 00:01:34,500
+Ici, voici un mandat que j'ai saisi pour l'occasion, un mandat de test dans l'interface de Pierre Béliard.
+
+19
+00:01:34,500 --> 00:01:38,840
+C'est un mandat tout à fait normal. C'est une maison à Versailles avec un vendeur.
+
+20
+00:01:38,840 --> 00:01:43,219
+J'aurais pu en mettre 2 ou 3 ou 4 ou 10, j'en ai mis qu'un seul, ce n'est pas la peine de compliquer les choses.
+
+21
+00:01:43,280 --> 00:01:46,480
+J'ai mis quelques photos pub pour faire comme si c'était un vrai mandat.
+
+22
+00:01:46,600 --> 00:01:52,079
+Vous voyez bien entendu que les prix ne correspondent pas, rien ne correspond, c'est un mandat de thèse, c'est un faux mandat.
+
+23
+00:01:53,900 --> 00:02:00,780
+Imaginons que j'ai au téléphone un client, un acquéreur qui souhaite visiter, je vais donc faire une visite avec lui.
+
+24
+00:02:01,800 --> 00:02:08,000
+Je prépare mon bon de visite, je vais en page 2 et je clique ici sur faire visite.
+
+25
+00:02:08,000 --> 00:02:20,740
+Parce que j'ai eu le client au téléphone, ma visite aura lieu demain, je vais donc préparer mon bon de visite aujourd'hui, ou demain, ou cet après-midi, en tout cas, je prépare mon bon de visite pour pouvoir le faire signer à mon client lorsque je le rencontrerai.
+
+26
+00:02:21,439 --> 00:02:24,539
+Je clique sur le bouton « Faire visite » que vous connaissez tous, auquel vous êtes habitués.
+
+27
+00:02:25,099 --> 00:02:30,840
+Tout de suite, Eglantine me demande s'il s'agit d'un particulier, ou des particuliers, ou d'une société.
+
+28
+00:02:30,840 --> 00:02:37,020
+Régulièrement, on a des clients qui achètent en SCI, en SARL, en SAS ou n'importe quoi
+
+29
+00:02:37,020 --> 00:02:40,879
+Il faut d'ailleurs demander aux clients en amont
+
+30
+00:02:40,879 --> 00:02:47,020
+Monsieur, est-ce que vous achèterez en personne physique, en votre nom propre ?
+
+31
+00:02:47,020 --> 00:02:53,319
+Si oui, achèterez-vous seul, avec votre épouse, avec votre compagne, avec votre frère, votre soeur, un ami ou que sais-je encore
+
+32
+00:02:53,319 --> 00:02:58,939
+Il faut que vous demandiez à votre acquéreur s'il achète seul ou avec d'autres personnes
+
+33
+00:02:58,939 --> 00:03:04,479
+et s'il achète seul en personne physique, en son nom propre ou en tant que société.
+
+34
+00:03:05,359 --> 00:03:10,840
+C'est vrai que généralement, au stade de la visite, on ne pense pas à poser cette question, mais il le faudrait.
+
+35
+00:03:11,319 --> 00:03:14,319
+Si jamais c'est le cas, vous cliquez sur une société.
+
+36
+00:03:15,180 --> 00:03:18,139
+Ensuite, Eglantine vous demandera le nombre d'associés de la société
+
+37
+00:03:18,139 --> 00:03:23,759
+que vous pouvez trouver assez facilement sur les différents sites du greffe du tribunal de commerce.
+
+38
+00:03:23,759 --> 00:03:26,500
+Avant, il n'y avait que des sites payants.
+
+39
+00:03:26,500 --> 00:03:31,639
+Aujourd'hui, il y a un certain nombre de sites gratuits comme data.inpi.fr, comme papers.fr.
+
+40
+00:03:31,740 --> 00:03:35,860
+Il y a plein de sites qui vous permettent d'accéder aux informations du greffe gratuitement.
+
+41
+00:03:36,500 --> 00:03:38,360
+Alors qu'avant, il fallait toujours payer, c'était casse-pieds.
+
+42
+00:03:38,979 --> 00:03:42,639
+On va partir sur le principe que ce sont un ou des particuliers.
+
+43
+00:03:43,060 --> 00:03:45,699
+On aurait très bien pu saisir une société, ça ne changerait rien.
+
+44
+00:03:47,139 --> 00:03:52,379
+On me demande combien d'acquéreurs vont visiter ce bien, car j'ai posé la question à mon acquéreur.
+
+45
+00:03:52,439 --> 00:03:54,500
+Viendrez-vous seul, viendrez-vous accompagné ?
+
+46
+00:03:54,500 --> 00:03:57,699
+Alors, on dit ici combien d'acquéreurs vont visiter ce bien,
+
+47
+00:03:57,780 --> 00:04:01,099
+parce que généralement, les gens qui viennent visiter sont de futurs acquéreurs.
+
+48
+00:04:01,099 --> 00:04:05,219
+Mais on peut très bien imaginer que ce monsieur vienne avec quelqu'un
+
+49
+00:04:05,219 --> 00:04:09,479
+qui ne souhaite pas du tout acquérir, mais qui vienne juste visiter avec lui
+
+50
+00:04:09,479 --> 00:04:11,420
+pour lui donner son avis, parce que son avis compte.
+
+51
+00:04:11,920 --> 00:04:14,219
+Eh bien, on doit mettre cette personne sur le bon de visite également,
+
+52
+00:04:14,500 --> 00:04:18,160
+parce que de vous à moi, on ne sait pas trop si c'est juste un visiteur
+
+53
+00:04:18,160 --> 00:04:21,459
+qui vient donner son avis ou si c'est quelqu'un qui se fait passer pour un visiteur
+
+54
+00:04:21,459 --> 00:04:24,560
+alors qu'il souhaite acheter sans signer de bon de visite.
+
+55
+00:04:24,759 --> 00:04:27,120
+Toute personne qui vient visiter physiquement le bien,
+
+56
+00:04:28,139 --> 00:04:33,359
+nous lui faisons signer le bon de visite avec son identité.
+
+57
+00:04:33,479 --> 00:04:36,879
+Donc, on va dire ici qu'on en a deux, voilà, et je valide.
+
+58
+00:04:38,459 --> 00:04:42,459
+Donc, Eglantine me demande les coordonnées de la personne qui viendra visiter.
+
+59
+00:04:42,759 --> 00:04:46,879
+Alors, on va mettre ici, éventuellement, hop.
+
+60
+00:04:47,219 --> 00:04:50,500
+Alors, ce sont des contacts de test également que j'utilise régulièrement.
+
+61
+00:04:50,500 --> 00:05:17,100
+Vous commencez à les connaître. Je mets un faux numéro de téléphone. 2, 3, 4, 5, 6, 7, 8. Voilà. Donc, j'ai 10 chiffres. Je mets ici son adresse e-mail. Ce sont des adresses e-mail de test. Et puis, on va dire que cette personne habite 12 Avenue de Vagram à Paris. Ce sera très bien. Et nous validons l'adresse de Sophie Couturier. Voilà.
+
+62
+00:05:18,100 --> 00:05:20,840
+Maintenant, ça me demande les coordonnées de la deuxième personne
+
+63
+00:05:20,840 --> 00:05:24,620
+parce que j'ai indiqué juste avant qu'il y aurait deux visiteurs.
+
+64
+00:05:25,240 --> 00:05:27,320
+Et puis, voici une autre adresse de test.
+
+65
+00:05:27,580 --> 00:05:28,800
+J'ai oublié le prénom, c'est Paul.
+
+66
+00:05:28,800 --> 00:05:30,379
+Voilà, donc c'est M. Auré.
+
+67
+00:05:33,340 --> 00:05:33,740
+Paul.
+
+68
+00:05:34,460 --> 00:05:38,220
+Il a un numéro de téléphone aussi, le 03 25 25 63 63.
+
+69
+00:05:38,460 --> 00:05:39,580
+Oui, ça colle parfaitement.
+
+70
+00:05:39,760 --> 00:05:44,439
+Et lui, il habite 15 rue du Prado.
+
+71
+00:05:44,700 --> 00:05:46,000
+Ça existe, 15 rue du Prado ?
+
+72
+00:05:46,000 --> 00:05:48,459
+Oui, voilà, à Saint-Philibert ou à Castelnau-le-Lay.
+
+73
+00:05:48,879 --> 00:05:52,360
+Voilà. Hop, et je valide les coordonnées de ce monsieur.
+
+74
+00:05:53,899 --> 00:05:57,920
+Voici donc mes deux acquéreurs, ou mes deux visiteurs pour le moins.
+
+75
+00:05:59,060 --> 00:06:08,220
+La visite aura lieu, imaginons, aujourd'hui, le 8, et elle aura lieu à 13h45.
+
+76
+00:06:09,639 --> 00:06:12,220
+Je valide la saisie de mon bon de visite.
+
+77
+00:06:12,500 --> 00:06:15,399
+Jusqu'à présent, rien d'extraordinaire. Vous connaissez tout ça.
+
+78
+00:06:16,000 --> 00:06:30,879
+Je le valide. Ça me sort le bon de visite que je peux donc imprimer. Comme d'habitude, c'est le bon de visite de nouvelle génération, simplifié et un petit peu plus précis qu'avant.
+
+79
+00:06:31,220 --> 00:06:40,100
+Donc ça, c'est le bon de visite que vous connaissez tous. Le principe, ça ne pose aucune difficulté. Vous pouvez l'imprimer en 1, 2, 3, 4, 10 exemplaires.
+
+80
+00:06:40,100 --> 00:06:42,100
+Ce n'est pas ça que je vais vous présenter aujourd'hui.
+
+81
+00:06:42,879 --> 00:06:44,960
+Imaginons que je n'imprime pas ce bon de visite.
+
+82
+00:06:47,040 --> 00:06:52,439
+Je rafraîchis ma page et vous voyez que mon bon de visite a été saisi ici.
+
+83
+00:06:55,700 --> 00:07:01,180
+Et ce que je vous propose maintenant, c'est de me rendre dans Eglantine en version mobile.
+
+84
+00:07:01,500 --> 00:07:06,200
+Sur cet onglet ici, je simule une version mobile d'Eglantine.
+
+85
+00:07:06,199 --> 00:07:14,339
+Ce que je vais vous montrer aujourd'hui ne s'affiche que et uniquement si vous êtes sur un téléphone portable ou sur une tablette.
+
+86
+00:07:14,439 --> 00:07:19,480
+Eglantine reconnaît que vous êtes sur un appareil mobile et vous apporte l'affichage mobile.
+
+87
+00:07:20,019 --> 00:07:27,180
+Moi, je suis sur un ordinateur, mais c'est grâce à une petite astuce de développement que l'on peut simuler l'affichage mobile.
+
+88
+00:07:27,360 --> 00:07:32,000
+Donc, je vais à la racine d'Eglantine comme si je me connectais depuis mon téléphone ou ma tablette.
+
+89
+00:07:32,000 --> 00:07:37,600
+Il y a les petites vérifications de sécurité habituelles qui nous cassent les pieds à tous en permanence.
+
+90
+00:07:38,040 --> 00:07:39,860
+Je suis bien un humain et pas un robot.
+
+91
+00:07:40,459 --> 00:07:44,319
+Et voici la version des glantines sur mobile.
+
+92
+00:07:45,360 --> 00:07:47,519
+Vous avez un nouveau bouton.
+
+93
+00:07:47,660 --> 00:07:49,500
+Vous aviez déjà version PC des glantines.
+
+94
+00:07:49,660 --> 00:07:51,480
+Vous aviez déjà réservé un numéro de mandat.
+
+95
+00:07:51,620 --> 00:07:54,959
+Et aujourd'hui, vous avez un troisième bouton, bond de visite en attente.
+
+96
+00:07:55,620 --> 00:07:56,800
+Ça, vous ne l'aviez pas précédemment.
+
+97
+00:07:56,800 --> 00:08:03,319
+Si vous n'avez aucun bon de visite en attente sur aucun de vos mandats, vous ne le voyez pas ce bouton
+
+98
+00:08:03,319 --> 00:08:07,480
+Ce bouton s'affiche à partir du moment où vous avez un bon de visite en attente
+
+99
+00:08:07,480 --> 00:08:09,020
+Qu'est-ce que ça veut dire un bon de visite en attente ?
+
+100
+00:08:09,020 --> 00:08:11,759
+Ça veut dire que vous avez saisi une visite pour le futur
+
+101
+00:08:11,759 --> 00:08:16,439
+Si vous aviez une visite saisie pour hier, avant-hier, la semaine dernière, ça ne s'afficherait pas
+
+102
+00:08:16,439 --> 00:08:18,540
+Le bon de visite est considéré comme passé
+
+103
+00:08:18,540 --> 00:08:24,120
+En attente, ça veut dire que vous avez un bon de visite pour tout à l'heure, ce soir, demain, après-demain, après-après-demain
+
+104
+00:08:24,120 --> 00:08:26,879
+Pas de bande visite en attente, pas de bouton
+
+105
+00:08:26,879 --> 00:08:28,879
+Nous venons d'en saisir un
+
+106
+00:08:28,879 --> 00:08:30,079
+Donc j'ai le bouton
+
+107
+00:08:30,079 --> 00:08:31,160
+Et je clique dessus
+
+108
+00:08:31,160 --> 00:08:36,279
+Et voici la proposition de ma visite à venir
+
+109
+00:08:36,279 --> 00:08:38,759
+Pour cet après-midi à 13h45
+
+110
+00:08:38,759 --> 00:08:42,179
+Si j'avais 2, 3, 5, 10 bandes visites
+
+111
+00:08:42,179 --> 00:08:43,980
+Pré-saisies pour les jours à venir
+
+112
+00:08:43,980 --> 00:08:45,899
+Ils seraient tous les uns en dessous des autres
+
+113
+00:08:45,899 --> 00:08:46,279
+Ici
+
+114
+00:08:46,279 --> 00:08:48,379
+Vous voyez pour le reconnaître facilement
+
+115
+00:08:48,379 --> 00:08:49,240
+Il y a le numéro de mandat
+
+116
+00:08:49,240 --> 00:08:50,299
+La ville
+
+117
+00:08:50,299 --> 00:08:51,200
+Le prix
+
+118
+00:08:51,200 --> 00:08:55,180
+et le nom et prénom, la date de la visite prévue, bien sûr,
+
+119
+00:08:55,600 --> 00:08:58,060
+et le nom et prénom des acquéreurs potentiels.
+
+120
+00:08:58,460 --> 00:09:01,500
+C'est comme ça que vous pouvez reconnaître les différents boutons
+
+121
+00:09:01,500 --> 00:09:04,740
+et ne pas vous tromper de bon de visite avec une mauvaise personne.
+
+122
+00:09:05,720 --> 00:09:08,020
+Donc, je pourrais en avoir ici 2, 3, 4, 5, 10.
+
+123
+00:09:08,020 --> 00:09:11,680
+Je n'en ai qu'un seul parce que je n'ai saisi qu'un seul bon de visite à venir.
+
+124
+00:09:13,040 --> 00:09:17,960
+Si je clique dessus, donc je sélectionne, c'est bien cette visite-là que je veux gérer.
+
+125
+00:09:18,900 --> 00:09:20,879
+Hop ! J'ai plusieurs outils.
+
+126
+00:09:21,200 --> 00:09:28,340
+On imagine que là je me trouve avec mon acquéreur que je viens de rencontrer
+
+127
+00:09:28,340 --> 00:09:30,700
+Je me suis déplacé
+
+128
+00:09:30,700 --> 00:09:34,140
+Nous ne sommes bien entendu pas devant le bien
+
+129
+00:09:34,140 --> 00:09:36,060
+On donne toujours rendez-vous ailleurs
+
+130
+00:09:36,060 --> 00:09:39,020
+Place de l'église, devant la société générale
+
+131
+00:09:39,020 --> 00:09:42,860
+Sur le parking de Leclerc ou de la supérette du coin
+
+132
+00:09:42,860 --> 00:09:46,680
+On ne donne jamais rendez-vous devant la maison
+
+133
+00:09:46,680 --> 00:09:47,660
+On ne donne pas l'adresse
+
+134
+00:09:47,660 --> 00:09:50,020
+Là je viens de rencontrer mes acquéreurs
+
+135
+00:09:50,019 --> 00:09:53,139
+donc Mme Sophie Couturier et M. Paul Auré.
+
+136
+00:09:55,799 --> 00:09:57,299
+J'ai trois possibilités.
+
+137
+00:09:58,100 --> 00:10:01,079
+Ajouter un visiteur, envoyer pour signature électronique
+
+138
+00:10:01,079 --> 00:10:03,460
+et déclarer la visite au vendeur par e-mail.
+
+139
+00:10:03,879 --> 00:10:07,019
+On va détailler ces trois outils immédiatement.
+
+140
+00:10:07,720 --> 00:10:09,519
+Alors, je peux bien entendu retourner au bon de visite
+
+141
+00:10:09,519 --> 00:10:10,699
+si je m'aperçois que je me suis trompé.
+
+142
+00:10:10,819 --> 00:10:13,399
+Ah non, ce n'est pas le bon, je retourne à mes bons de visite,
+
+143
+00:10:13,659 --> 00:10:14,860
+j'ai cliqué sur le mauvais bouton.
+
+144
+00:10:15,059 --> 00:10:17,059
+Là, nous n'en avons qu'un, je reclique dessus.
+
+145
+00:10:18,039 --> 00:10:25,619
+Ajouter un visiteur, cela me sert lorsque quelqu'un qui n'a pas été prévu en amont vient visiter.
+
+146
+00:10:26,279 --> 00:10:32,979
+Soit parce que ce visiteur-là n'était pas prévu, les gens Sophie Couturier et Paul Auret viennent visiter,
+
+147
+00:10:33,119 --> 00:10:39,919
+et puis un membre de leur famille qui était libre à ce moment-là dit « tiens, je vais venir avec vous, je vais vous donner mon avis, je m'y connais pas mal ».
+
+148
+00:10:39,919 --> 00:10:50,579
+Ou tout simplement, quelqu'un qui n'avait pas prévu de signer le bon de visite se présente tout de même en faisant croire que ça n'était pas prévu, en se disant « le bon de visite n'aura pas été prêt pour moi ».
+
+149
+00:10:50,579 --> 00:10:55,539
+Ce n'est pas un problème. Dans ce cas-là, vous pouvez très facilement ajouter un visiteur.
+
+150
+00:10:55,539 --> 00:11:05,099
+Regardez, vous cliquez sur ce bouton, hop, et nous allons ajouter un autre visiteur qui n'avait pas été prévu.
+
+151
+00:11:05,719 --> 00:11:10,539
+Imaginons que nous rajoutions Madame Madeleine, Marie.
+
+152
+00:11:10,980 --> 00:11:14,360
+C'est un peu blasphématoire, ça c'est Michel qui a créé ces...
+
+153
+00:11:14,360 --> 00:11:18,000
+Je vais lui faire changer ce Marie-Madeleine, c'est quand même pas très très respectueux.
+
+154
+00:11:18,360 --> 00:11:23,240
+Allez, on change le numéro de téléphone, 01 25 98 98 78.
+
+155
+00:11:23,240 --> 00:11:26,840
+Ensuite, on met son adresse à cette Marie-Madeleine.
+
+156
+00:11:26,919 --> 00:11:30,000
+« Chère madame, quelle est votre adresse fiscale ? »
+
+157
+00:11:30,000 --> 00:11:34,840
+Puisqu'on met ici les adresses fiscales, les adresses de résidence principale de nos visiteurs.
+
+158
+00:11:36,060 --> 00:11:38,240
+Bien entendu, je lui demande également son nom de jeune fille.
+
+159
+00:11:38,340 --> 00:11:42,080
+Vous savez que partout dans l'Églantine, on inscrit les dames sous leur nom de jeune fille,
+
+160
+00:11:42,220 --> 00:11:43,879
+qui est leur réelle identité.
+
+161
+00:11:43,879 --> 00:11:57,419
+Eh bien, on va dire que cette Marie-Madeleine habite 54 Allée des Glycines à Villemandeur et que son adresse e-mail, je la saisis directement ici.
+
+162
+00:11:58,799 --> 00:12:00,879
+Cette adresse e-mail est valide. Je valide.
+
+163
+00:12:02,519 --> 00:12:07,840
+Et ça y est, ça a ajouté mon visiteur. Le visiteur a été enregistré avec succès.
+
+164
+00:12:08,220 --> 00:12:09,820
+Donc, je retourne au bon de visite.
+
+165
+00:12:13,100 --> 00:12:14,180
+Je reclique dessus.
+
+166
+00:12:14,700 --> 00:12:16,519
+Et vous voyez Marie-Madeleine qui est ajoutée ici.
+
+167
+00:12:17,040 --> 00:12:18,800
+C'est mon troisième visiteur.
+
+168
+00:12:18,899 --> 00:12:22,840
+D'ailleurs, quand j'y songe, on va probablement également ajouter un petit bouton
+
+169
+00:12:22,840 --> 00:12:25,580
+pour supprimer une personne qui éventuellement ne serait pas venue.
+
+170
+00:12:26,180 --> 00:12:27,620
+On va ajouter ça.
+
+171
+00:12:27,740 --> 00:12:31,060
+Je vais tout de suite le noter ici.
+
+172
+00:12:31,060 --> 00:12:32,879
+Je n'y avais pas pensé précédemment.
+
+173
+00:12:36,120 --> 00:12:36,560
+Voilà.
+
+174
+00:12:36,559 --> 00:12:39,159
+s'est envoyée au bon endroit.
+
+175
+00:12:40,699 --> 00:12:42,359
+Donc, je pourrais en ajouter un autre, d'ailleurs,
+
+176
+00:12:42,500 --> 00:12:44,399
+un troisième, un quatrième, un cinquième, un dixième.
+
+177
+00:12:44,779 --> 00:12:46,000
+Ça ne poserait pas de problème.
+
+178
+00:12:46,139 --> 00:12:47,839
+On en a déjà trois, là, je pense que ça suffit.
+
+179
+00:12:48,839 --> 00:12:50,599
+Je peux envoyer pour signature électronique
+
+180
+00:12:50,599 --> 00:12:52,699
+et déclarer la visite au vendeur par e-mail.
+
+181
+00:12:52,799 --> 00:12:53,679
+Ça, ce sera pour après.
+
+182
+00:12:54,219 --> 00:12:55,899
+Envoyer pour signature électronique,
+
+183
+00:12:56,119 --> 00:12:57,099
+j'appuie sur ce bouton.
+
+184
+00:12:59,099 --> 00:12:59,879
+Pof !
+
+185
+00:12:59,879 --> 00:13:02,179
+Ça y est, bande visite envoyée pour signature électronique.
+
+186
+00:13:02,500 --> 00:13:04,159
+Ça veut dire que les trois personnes qui sont ici,
+
+187
+00:13:04,159 --> 00:13:06,579
+Sophie Couturier, Paul Auré et Marie-Madeleine,
+
+188
+00:13:07,240 --> 00:13:12,159
+tous les trois vont recevoir dans les secondes qui suivent
+
+189
+00:13:13,179 --> 00:13:16,480
+le bon de visite assigné.
+
+190
+00:13:16,799 --> 00:13:18,179
+Donc, ils sortent leur téléphone mobile
+
+191
+00:13:18,179 --> 00:13:22,519
+et ils peuvent aller sur leur e-mail.
+
+192
+00:13:22,839 --> 00:13:23,899
+Nous allons y aller tout de suite.
+
+193
+00:13:24,059 --> 00:13:26,379
+Je vais vous montrer parce que tout cela,
+
+194
+00:13:26,579 --> 00:13:30,120
+ça pointe vers un e-mail de test
+
+195
+00:13:30,939 --> 00:13:33,799
+auquel nous pouvons accéder tout de suite.
+
+196
+00:13:34,159 --> 00:13:47,799
+Je vais chercher l'email. Là, je suis sur un autre écran. Ce n'est pas un problème. On va voir ça. Voilà, le voici. Et je vais cliquer sur l'email en question.
+
+197
+00:13:48,399 --> 00:13:56,419
+Et vous voyez qu'ici, il y a beaucoup de choses dans ces emails. C'est un email de test. Vous voyez, il y a des contacts Le Bon Coin, il y a des signatures électroniques, il y a plein de choses.
+
+198
+00:13:56,419 --> 00:14:13,519
+Vous voyez ici trois signatures électroniques. Alors pourquoi trois signatures électroniques ? Parce que ces trois adresses-là, Sophie Couturier, Paul Auré et Marie-Madeleine, qui sont des adresses de test, pointent toutes les trois vers le même compte email que nous avons ici.
+
+199
+00:14:13,919 --> 00:14:20,919
+C'est tout à fait normal, mais on imagine que dans la réalité, vos trois signataires ici ont chacun leur email, bien entendu.
+
+200
+00:14:20,919 --> 00:14:41,759
+Alors, vous le savez, cet email peut facilement tomber dans les spams, ou en particulier chez Gmail, moi j'ai whitelisté ces adresses, ça peut facilement tomber également dans les notifications, donc je vous conseille à vos clients de cliquer sur tous les messages, particulièrement s'ils utilisent une adresse Gmail.
+
+201
+00:14:41,759 --> 00:14:52,059
+D'accord ? Donc, nous avons ici, hop, boîte de réception. J'ai mes trois signatures à faire.
+
+202
+00:14:52,059 --> 00:14:56,659
+Ici, on voit que ça s'adresse à Mme Marie-Madeleine
+
+203
+00:14:56,659 --> 00:14:59,639
+Je clique sur le bouton bleu
+
+204
+00:14:59,639 --> 00:15:05,299
+Je n'ai pas grand-chose comme choix pour me tromper
+
+205
+00:15:05,299 --> 00:15:06,839
+Je clique sur la petite flèche qui est ici
+
+206
+00:15:06,839 --> 00:15:09,139
+Ça m'emmène là où je dois signer
+
+207
+00:15:09,139 --> 00:15:13,479
+Et je fais une signature manuelle avec mon doigt sur mon téléphone
+
+208
+00:15:13,479 --> 00:15:16,439
+Hop, sauvegarder et insérer et terminé
+
+209
+00:15:16,439 --> 00:15:19,739
+Je suis d'accord avec les conditions d'utilisation
+
+210
+00:15:20,419 --> 00:15:22,720
+Les voici, j'ai signé pour Marie-Madeleine.
+
+211
+00:15:22,860 --> 00:15:25,700
+Maintenant, imaginons que je me transforme en M. Paul Auray.
+
+212
+00:15:26,240 --> 00:15:29,460
+Je vais faire le même travail, puisque nous avons saisi trois visiteurs,
+
+213
+00:15:29,519 --> 00:15:31,100
+donc j'aurai trois signatures à faire.
+
+214
+00:15:31,240 --> 00:15:32,960
+Donc là, signer manuellement, également.
+
+215
+00:15:33,960 --> 00:15:36,100
+Hop, sauvegarder et insérer.
+
+216
+00:15:37,159 --> 00:15:39,879
+Terminer, signer, c'est fait.
+
+217
+00:15:40,879 --> 00:15:42,080
+Et puis maintenant...
+
+218
+00:15:42,080 --> 00:15:44,799
+Ah tiens, d'ailleurs, je vais vous montrer.
+
+219
+00:15:44,799 --> 00:15:46,440
+Je n'en ai que deux qui ont signé.
+
+220
+00:15:47,039 --> 00:15:48,100
+Il y a Paul et Marie.
+
+221
+00:15:48,100 --> 00:15:51,200
+Il nous manque encore la signature de la troisième personne.
+
+222
+00:15:51,899 --> 00:15:55,019
+Ici, vous avez un petit bouton « Rafraîchir » sur votre mobile.
+
+223
+00:15:56,040 --> 00:16:00,779
+Le bouton « Rafraîchir » vous permet de rafraîchir le statut des signatures.
+
+224
+00:16:01,340 --> 00:16:07,320
+Vous voyez, je clique ici sur « Rafraîchir » et je vois que Sophie Couturier, ça lui a été envoyé.
+
+225
+00:16:08,019 --> 00:16:09,700
+Paul Auré, il l'a consulté.
+
+226
+00:16:09,960 --> 00:16:12,860
+Ça met quelques secondes à se mettre exactement à jour.
+
+227
+00:16:13,379 --> 00:16:23,820
+Donc, vous êtes avec votre client, vous rafraîchissez et vous allez voir ces éléments de signature électronique se mettre à jour au fil des minutes.
+
+228
+00:16:23,820 --> 00:16:29,080
+Alors, ça ne dure pas très longtemps. On a vu que ça mettait environ deux minutes pour mettre parfaitement à jour.
+
+229
+00:16:29,200 --> 00:16:31,899
+Hop, là, je vois que j'ai la signature de Marie-Madeleine.
+
+230
+00:16:32,300 --> 00:16:38,080
+Vous voyez ici, Marie-Madeleine signée. La petite icône ici vous l'indique et puis il y a le petit mot signé ici.
+
+231
+00:16:38,879 --> 00:16:40,860
+Si je rafraîchis, je vais voir que Paul,
+
+232
+00:16:40,920 --> 00:16:42,740
+parce que nous avons fait la signature de Paul aussi,
+
+233
+00:16:43,280 --> 00:16:45,100
+Paul aura signé dans quelques instants.
+
+234
+00:16:45,940 --> 00:16:46,860
+Ça va se mettre à jour.
+
+235
+00:16:47,180 --> 00:16:50,139
+Par contre, Sophie Couturier, elle n'a même pas encore ouvert l'email,
+
+236
+00:16:50,660 --> 00:16:52,740
+puisque vous voyez, Sophie Couturier, sur la boîte mail,
+
+237
+00:16:53,180 --> 00:16:54,620
+c'est le troisième signataire qui est ici.
+
+238
+00:16:54,780 --> 00:16:55,720
+On n'y a pas encore touché.
+
+239
+00:16:57,220 --> 00:16:58,280
+Ça ne s'affiche pas comme ça.
+
+240
+00:16:58,360 --> 00:16:59,440
+Donc, vous pouvez rafraîchir ici.
+
+241
+00:16:59,560 --> 00:17:02,080
+Hop, je vois que Paul aurait à bel et bien signé.
+
+242
+00:17:02,080 --> 00:17:04,620
+Mais en fait, comme vous êtes en face de vos clients,
+
+243
+00:17:05,000 --> 00:17:06,200
+vous voyez qu'ils ont signé.
+
+244
+00:17:06,200 --> 00:17:10,860
+Vous l'avez fait avec eux, cliquez ici, cliquez là, signez avec votre doigt, vous le voyez.
+
+245
+00:17:11,240 --> 00:17:15,180
+Mais vous en avez la confirmation ici, en rafraîchissant, vous avez vu, ça prend quelques secondes.
+
+246
+00:17:15,259 --> 00:17:17,860
+Nous avons compté que ça ne prend jamais plus de deux minutes.
+
+247
+00:17:18,720 --> 00:17:23,539
+Ici, je vais faire la signature pour notre troisième personne, Sophie Couturier.
+
+248
+00:17:24,500 --> 00:17:28,299
+Hop, je clique ici, c'est pareil, vous voyez, il y a les signatures des deux premiers.
+
+249
+00:17:29,340 --> 00:17:34,400
+Je vais signer manuellement pour Sophie, je fais un zigouigoui, sauvegarder, terminer,
+
+250
+00:17:34,400 --> 00:17:37,100
+signé. Maintenant, tout le monde
+
+251
+00:17:37,100 --> 00:17:39,080
+a signé. Tout le monde
+
+252
+00:17:39,080 --> 00:17:40,780
+a signé. Ça veut dire que
+
+253
+00:17:40,780 --> 00:17:42,820
+ici, quand je vais rafraîchir,
+
+254
+00:17:43,660 --> 00:17:44,800
+je vais pouvoir
+
+255
+00:17:44,800 --> 00:17:46,420
+retrouver
+
+256
+00:17:46,420 --> 00:17:49,000
+la signature de
+
+257
+00:17:49,000 --> 00:17:50,920
+Sophie dans une ou
+
+258
+00:17:50,920 --> 00:17:52,800
+deux minutes maximum.
+
+259
+00:17:53,300 --> 00:17:55,080
+De toute manière, vous l'avez vu signé sous vos yeux.
+
+260
+00:17:55,740 --> 00:17:57,220
+Mais deux minutes max,
+
+261
+00:17:57,560 --> 00:17:58,640
+ça va s'afficher ici.
+
+262
+00:17:59,340 --> 00:18:01,100
+Entre-temps, le temps que ça se met à jour
+
+263
+00:18:01,100 --> 00:18:03,200
+pour Sophie, vous avez
+
+264
+00:18:03,200 --> 00:18:05,240
+également un bouton ici. Le bouton
+
+265
+00:18:05,240 --> 00:18:07,180
+« Déclarer la visite au vendeur
+
+266
+00:18:07,180 --> 00:18:08,700
+par e-mail ».
+
+267
+00:18:08,700 --> 00:18:11,440
+Il s'agit
+
+268
+00:18:11,440 --> 00:18:13,460
+de dénoncer la visite qui a eu lieu
+
+269
+00:18:13,460 --> 00:18:14,940
+au vendeur. Donc,
+
+270
+00:18:15,580 --> 00:18:16,819
+lorsque vous entrez dans la maison
+
+271
+00:18:16,819 --> 00:18:18,840
+ou lorsque vous en sortez,
+
+272
+00:18:19,539 --> 00:18:21,299
+vous pouvez cliquer. Alors, vous n'êtes pas
+
+273
+00:18:21,299 --> 00:18:23,200
+obligé. Vous n'êtes absolument
+
+274
+00:18:23,200 --> 00:18:25,200
+pas obligé. Mais vous pouvez cliquer
+
+275
+00:18:25,200 --> 00:18:27,240
+ici sur ce bouton pour envoyer un petit e-mail
+
+276
+00:18:27,240 --> 00:18:29,220
+automatique au vendeur. Je vais le faire sous
+
+277
+00:18:29,220 --> 00:18:30,900
+vos yeux. Pouf !
+
+278
+00:18:30,900 --> 00:18:33,019
+Déclaration de la visite effectuée.
+
+279
+00:18:33,200 --> 00:18:38,539
+Déclaration de la visite effectuée, ça veut dire que le vendeur reçoit un e-mail pour lui dire
+
+280
+00:18:38,539 --> 00:18:44,819
+« Cher monsieur, j'ai fait visiter aujourd'hui à ces trois personnes. »
+
+281
+00:18:44,819 --> 00:18:50,620
+D'ailleurs, si je rafraîchis, est-ce que Sophie est marquée comme ayant signé ?
+
+282
+00:18:50,620 --> 00:18:56,299
+Non, toujours pas. Je ne sais pas si ça prend plus de deux minutes par rapport à tout à l'heure, mais ça va s'afficher d'ici.
+
+283
+00:18:56,400 --> 00:19:00,360
+Voilà, signé. Sophie a signé. Nous pouvons donc aller visiter.
+
+284
+00:19:00,359 --> 00:19:04,019
+Là encore, je reviens là-dessus
+
+285
+00:19:04,019 --> 00:19:04,559
+Parce que vous pourriez dire
+
+286
+00:19:04,559 --> 00:19:08,199
+C'est vrai que le temps que ça se rafraîchisse
+
+287
+00:19:08,199 --> 00:19:09,699
+Et qu'on voit les signatures de tout le monde arriver
+
+288
+00:19:09,699 --> 00:19:10,699
+Ici, il va falloir meubler
+
+289
+00:19:10,699 --> 00:19:12,159
+Alors vous pouvez meubler
+
+290
+00:19:12,159 --> 00:19:15,639
+Vous pouvez dire, on y va tranquillement, etc
+
+291
+00:19:15,639 --> 00:19:19,179
+De toute manière, les gens ont normalement signé sous vos yeux
+
+292
+00:19:19,179 --> 00:19:21,299
+Donc ça, vous avez vu qu'ils ont bel et bien signé
+
+293
+00:19:21,299 --> 00:19:23,879
+Vous en attendez la confirmation ici
+
+294
+00:19:23,879 --> 00:19:25,439
+Et ça prend deux minutes
+
+295
+00:19:25,439 --> 00:19:26,919
+Donc vous les avez vu signer
+
+296
+00:19:26,919 --> 00:19:28,939
+Vous dites, on va se diriger tranquillement vers la maison
+
+297
+00:19:28,939 --> 00:19:30,339
+Vous commencez à marcher
+
+298
+00:19:30,339 --> 00:19:32,199
+Vous rafraîchissez sur votre téléphone
+
+299
+00:19:32,199 --> 00:19:33,399
+Et vous en avez la confirmation
+
+300
+00:19:33,399 --> 00:19:34,539
+D'accord ?
+
+301
+00:19:34,539 --> 00:19:38,500
+Alors, vous pouvez aller faire visiter
+
+302
+00:19:38,500 --> 00:19:40,579
+Ça veut dire quoi ?
+
+303
+00:19:40,579 --> 00:19:41,379
+Tout ce qu'on vient de faire
+
+304
+00:19:41,379 --> 00:19:43,519
+Que tous vos bons visites sont signés
+
+305
+00:19:43,519 --> 00:19:45,419
+Regardez, si je vais dans Eglantine
+
+306
+00:19:45,419 --> 00:19:48,379
+Alors, vous pouvez le faire également
+
+307
+00:19:48,379 --> 00:19:49,079
+De votre mobile
+
+308
+00:19:49,079 --> 00:19:51,480
+Mais on va le voir sur la version normale
+
+309
+00:19:51,480 --> 00:19:53,679
+Vous rafraîchissez la page
+
+310
+00:19:53,679 --> 00:19:55,319
+Et vous voyez, alors bien entendu
+
+311
+00:19:55,319 --> 00:19:57,599
+Est-ce que je suis un humain ? Est-ce que je suis un robot ?
+
+312
+00:19:57,599 --> 00:19:59,980
+Voilà, j'ai ici mon bon visite
+
+313
+00:19:59,980 --> 00:20:03,440
+signé par les trois personnes,
+
+314
+00:20:04,240 --> 00:20:06,339
+directement injecté dans Eglantine, automatiquement,
+
+315
+00:20:07,079 --> 00:20:09,440
+avec les certificats de signature qui sont en dessous.
+
+316
+00:20:11,079 --> 00:20:13,440
+C'est fait automatiquement par Eglantine.
+
+317
+00:20:14,400 --> 00:20:15,759
+C'est le même bon de visite que tout à l'heure,
+
+318
+00:20:15,839 --> 00:20:17,720
+mais il a été signé électroniquement.
+
+319
+00:20:18,160 --> 00:20:20,559
+Plus de papier à imprimer, plus de tracasseries,
+
+320
+00:20:20,660 --> 00:20:21,920
+on les perd, on ne sait pas où ils sont.
+
+321
+00:20:22,420 --> 00:20:28,259
+Et surtout, ça a un effet psychologique sur vos acquéreurs bien plus important.
+
+322
+00:20:28,259 --> 00:20:35,319
+Parce que le bon de visite que vous leur faites signer par papier, c'est un torchon qu'on a fait sur le coin de capot d'une voiture.
+
+323
+00:20:35,779 --> 00:20:37,180
+Là, c'est une signature électronique.
+
+324
+00:20:37,279 --> 00:20:41,440
+Et on sait que les signatures électroniques sont perçues par les signataires comme inviolables.
+
+325
+00:20:42,180 --> 00:20:43,740
+Là, les gens hésitent beaucoup plus.
+
+326
+00:20:44,299 --> 00:20:46,579
+Ils voient tout ça parce qu'ils en reçoivent une copie.
+
+327
+00:20:46,920 --> 00:20:54,220
+Regardez, si je vais ici dans la boîte mail, chaque signataire a reçu une copie également.
+
+328
+00:20:54,859 --> 00:20:57,640
+Voici la copie que le signataire a reçue.
+
+329
+00:20:57,640 --> 00:21:06,800
+Donc, lui-même, il a reçu ça et ça lui permet de comprendre qu'il a signé quelque chose de sérieux.
+
+330
+00:21:07,500 --> 00:21:15,860
+Il hésitera beaucoup plus à aller chez le vendeur essayer d'acheter en direct.
+
+331
+00:21:16,360 --> 00:21:20,820
+Donc, vous avez ce bon de visite directement ici. Vous n'avez plus à vous embêter avec ça.
+
+332
+00:21:22,120 --> 00:21:26,640
+Également, vous avez ici un petit tag « visite déclarée au vendeur ».
+
+333
+00:21:27,640 --> 00:21:33,200
+Ça veut dire que vous savez ici que le vendeur, vous lui avez envoyé l'email automatique de signature.
+
+334
+00:21:33,420 --> 00:21:35,740
+D'ailleurs, on va regarder s'il est bien arrivé ici.
+
+335
+00:21:36,620 --> 00:21:38,360
+Je cherche dans ma boîte de réception.
+
+336
+00:21:39,259 --> 00:21:41,080
+Je ne le vois pas.
+
+337
+00:21:41,259 --> 00:21:45,060
+Je vais chercher dans tous les messages, peut-être dans les spams également.
+
+338
+00:21:45,960 --> 00:21:47,940
+Ça peut facilement arriver en spam.
+
+339
+00:21:48,080 --> 00:21:49,360
+Non, il n'est pas encore arrivé.
+
+340
+00:21:51,120 --> 00:21:55,480
+Mais le vendeur, ça peut prendre un petit peu plus de temps parce que c'est Eglantine qui le fait.
+
+341
+00:21:55,480 --> 00:21:57,620
+le vendeur va recevoir un email
+
+342
+00:21:57,620 --> 00:21:59,319
+qui lui indique que
+
+343
+00:21:59,319 --> 00:22:00,759
+alors j'en ai d'autres tests
+
+344
+00:22:00,759 --> 00:22:02,259
+c'est un texte tout simple
+
+345
+00:22:02,259 --> 00:22:05,259
+qui dit attendez je vais aller en chercher un autre
+
+346
+00:22:05,259 --> 00:22:06,880
+sur ma boîte Hotmail
+
+347
+00:22:06,880 --> 00:22:08,799
+que je vais vous montrer
+
+348
+00:22:08,799 --> 00:22:11,519
+pour que vous puissiez voir
+
+349
+00:22:11,519 --> 00:22:12,380
+à quoi ressemble
+
+350
+00:22:12,380 --> 00:22:15,680
+ce petit message envoyé au vendeur
+
+351
+00:22:15,680 --> 00:22:17,420
+ma boîte Hotmail
+
+352
+00:22:17,420 --> 00:22:18,220
+est là-haut
+
+353
+00:22:18,220 --> 00:22:19,900
+c'est sur un autre écran
+
+354
+00:22:19,900 --> 00:22:22,220
+vous allez le voir dans quelques instants
+
+355
+00:22:22,220 --> 00:22:24,700
+n'en soyez pas surpris
+
+356
+00:22:24,700 --> 00:22:27,360
+normalement j'ai des tests de ça
+
+357
+00:22:27,360 --> 00:22:31,140
+non j'en ai pas ici
+
+358
+00:22:31,140 --> 00:22:32,140
+ils sont peut-être en spam
+
+359
+00:22:32,140 --> 00:22:38,299
+non je ne le vois pas ici
+
+360
+00:22:38,299 --> 00:22:40,980
+je vais vous en trouver un pour éventuellement
+
+361
+00:22:40,980 --> 00:22:42,900
+plus tard mais c'est un petit email
+
+362
+00:22:42,900 --> 00:22:44,220
+tout simple qui dit
+
+363
+00:22:44,220 --> 00:22:46,960
+cher monsieur j'ai le plaisir de vous faire savoir que j'ai fait visiter
+
+364
+00:22:46,960 --> 00:22:49,200
+aujourd'hui à telle personne
+
+365
+00:22:49,200 --> 00:22:49,920
+telle personne
+
+366
+00:22:49,920 --> 00:22:52,240
+votre maison à tel endroit
+
+367
+00:22:52,240 --> 00:22:54,759
+Donc c'est un petit message
+
+368
+00:22:54,759 --> 00:22:55,420
+Vraiment d'une
+
+369
+00:22:55,420 --> 00:22:58,099
+Ah il était dans les spams
+
+370
+00:22:58,099 --> 00:23:00,000
+Bah oui il est ici regardez
+
+371
+00:23:00,000 --> 00:23:01,680
+Il était dans les spams excuse moi
+
+372
+00:23:01,680 --> 00:23:03,039
+Donc voici ma boîte Hotmail
+
+373
+00:23:03,039 --> 00:23:06,839
+Sur laquelle je fais également des tests
+
+374
+00:23:06,839 --> 00:23:07,900
+Ah mais je me suis trompé
+
+375
+00:23:07,900 --> 00:23:10,019
+C'était pas sur Gmail
+
+376
+00:23:10,019 --> 00:23:11,559
+Que le truc
+
+377
+00:23:11,559 --> 00:23:13,559
+Était envoyé c'était sur Hotmail
+
+378
+00:23:13,559 --> 00:23:15,859
+Donc il est bien arrivé vous voyez il date d'aujourd'hui
+
+379
+00:23:15,859 --> 00:23:18,140
+A le 8
+
+380
+00:23:18,140 --> 00:23:20,259
+En question
+
+381
+00:23:20,259 --> 00:23:22,140
+A 13h45 je me suis trompé de boîte mail
+
+382
+00:23:22,140 --> 00:23:23,759
+tout simplement. Donc, bonjour.
+
+383
+00:23:23,900 --> 00:23:26,040
+Je vais zoomer un petit peu. Ah non, je ne peux pas zoomer ça.
+
+384
+00:23:26,840 --> 00:23:28,340
+Ah ben, c'est...
+
+385
+00:23:28,340 --> 00:23:29,960
+Ah si, je peux zoomer. Regardez. Hop, voilà.
+
+386
+00:23:30,380 --> 00:23:32,040
+Bonjour, c'est avec plaisir que je vous annonce
+
+387
+00:23:32,040 --> 00:23:33,440
+avoir fait visiter votre maison
+
+388
+00:23:33,440 --> 00:23:36,480
+le 8 décembre 2025 à 13h45
+
+389
+00:23:36,480 --> 00:23:37,820
+à Sophie Couturier,
+
+390
+00:23:38,980 --> 00:23:39,600
+Paul Auré
+
+391
+00:23:39,600 --> 00:23:41,580
+et Marie Madeleine.
+
+392
+00:23:42,060 --> 00:23:43,740
+Ici, on va enlever les adresses d'ailleurs.
+
+393
+00:23:44,100 --> 00:23:45,860
+On va éventuellement enlever les adresses.
+
+394
+00:23:46,000 --> 00:23:48,100
+On va voir s'il est nécessaire de mettre
+
+395
+00:23:48,100 --> 00:23:50,400
+les adresses précises des gens. Ce n'est peut-être pas une bonne idée.
+
+396
+00:23:50,560 --> 00:23:52,040
+Je vais mettre ici d'ailleurs, hop,
+
+397
+00:23:52,140 --> 00:23:55,080
+enlever les adresses
+
+398
+00:23:55,080 --> 00:23:58,200
+de la dénonciation
+
+399
+00:23:58,200 --> 00:24:01,100
+de visite
+
+400
+00:24:01,100 --> 00:24:02,780
+voilà
+
+401
+00:24:02,780 --> 00:24:03,700
+donc
+
+402
+00:24:03,700 --> 00:24:06,560
+je me tiens à votre disposition pour plus d'état
+
+403
+00:24:06,560 --> 00:24:09,320
+et très cordialement Pierre Béliard avec votre numéro de téléphone
+
+404
+00:24:09,320 --> 00:24:11,180
+ça c'est un numéro de téléphone de test
+
+405
+00:24:11,180 --> 00:24:13,480
+donc n'allez pas appeler ça parce que je ne sais pas sur qui vous allez tomber
+
+406
+00:24:13,480 --> 00:24:16,420
+peut-être que vous allez vous faire un nouvel ami
+
+407
+00:24:16,420 --> 00:24:17,040
+je ne sais pas
+
+408
+00:24:17,040 --> 00:24:18,940
+donc ça c'est la petite dénonciation
+
+409
+00:24:18,940 --> 00:24:21,180
+qui vous permet de tout de suite déclarer au vendeur
+
+410
+00:24:21,180 --> 00:24:22,779
+que la visite a bien eu lieu avec ces
+
+411
+00:24:22,779 --> 00:24:25,039
+trois personnes. On va enlever
+
+412
+00:24:25,039 --> 00:24:27,220
+les moyens d'identification
+
+413
+00:24:27,220 --> 00:24:28,220
+parce que ce n'est pas une bonne idée
+
+414
+00:24:28,220 --> 00:24:31,440
+qu'ils puissent les appeler directement, bien entendu.
+
+415
+00:24:32,120 --> 00:24:33,220
+Donc, le petit message
+
+416
+00:24:33,220 --> 00:24:34,980
+était bien arrivé, je m'étais juste trompé de boîte mail.
+
+417
+00:24:35,700 --> 00:24:37,279
+Voilà ce qu'il en est pour cet outil
+
+418
+00:24:37,279 --> 00:24:38,940
+de gestion
+
+419
+00:24:38,940 --> 00:24:41,240
+des bons de visite. D'ailleurs, ici, vous voyez que si je retourne
+
+420
+00:24:41,240 --> 00:24:42,120
+sur mes bons de visite,
+
+421
+00:24:43,160 --> 00:24:45,000
+il est encore là,
+
+422
+00:24:45,580 --> 00:24:46,900
+normalement. Alors, ça,
+
+423
+00:24:47,160 --> 00:24:48,460
+je suis un humain, oui.
+
+424
+00:24:49,259 --> 00:24:50,380
+Il est encore là, c'est normal.
+
+425
+00:24:51,180 --> 00:24:57,279
+Il est encore là, même si on a fait les clics, etc.
+
+426
+00:24:57,740 --> 00:24:59,140
+Il reste jusqu'à ce soir.
+
+427
+00:25:00,019 --> 00:25:01,340
+C'est ce soir qu'il disparaîtra.
+
+428
+00:25:01,580 --> 00:25:05,840
+Pourquoi ? Parce qu'on veut vous laisser la possibilité de faire la déclaration de visite après.
+
+429
+00:25:06,320 --> 00:25:07,340
+Vous ne la faites pas forcément.
+
+430
+00:25:07,820 --> 00:25:12,980
+Peut-être que vous voulez faire la déclaration de visite après la visite, dans une heure, dans deux heures.
+
+431
+00:25:13,120 --> 00:25:18,279
+Donc, on ne fait pas disparaître le bon de visite dès qu'on a envoyé pour signature électronique le bouton
+
+432
+00:25:18,279 --> 00:25:21,740
+pour que vous puissiez retourner, faire la déclaration de visite.
+
+433
+00:25:21,839 --> 00:25:24,680
+Alors ici, elle a déjà été effectuée, donc je ne peux pas la refaire une deuxième fois.
+
+434
+00:25:24,980 --> 00:25:26,139
+D'accord ?
+
+435
+00:25:26,139 --> 00:25:28,779
+Tiens, c'est marrant, on voit qu'ici, c'est consulté pour Marie-Madeleine,
+
+436
+00:25:28,859 --> 00:25:31,920
+alors que tout à l'heure, il était, si je ne me trompe pas, il était marqué en signé.
+
+437
+00:25:32,440 --> 00:25:35,700
+Il va falloir qu'on vérifie s'il n'y a pas un petit bug ici.
+
+438
+00:25:36,000 --> 00:25:38,599
+Bon, en tout cas, ce n'est pas très très grave.
+
+439
+00:25:39,200 --> 00:25:41,519
+Et vous avez ici, ensuite, alors je rafraîchis,
+
+440
+00:25:42,660 --> 00:25:45,379
+vous avez ici votre commentaire à indiquer après.
+
+441
+00:25:45,380 --> 00:25:47,620
+le commentaire indiqué pour le vendeur
+
+442
+00:25:47,620 --> 00:25:49,540
+pour lui dire précisément ce qui s'est passé,
+
+443
+00:25:50,020 --> 00:25:50,880
+ce qui a été dit.
+
+444
+00:25:51,500 --> 00:25:53,380
+Ici, vous avez votre bande visite signée
+
+445
+00:25:53,380 --> 00:25:54,880
+au cas où vous en avez besoin.
+
+446
+00:25:55,520 --> 00:25:56,520
+OK ?
+
+447
+00:25:56,520 --> 00:26:00,020
+Donc, ça, c'est le suivi des signatures.
+
+448
+00:26:00,280 --> 00:26:01,740
+Alors là, vous avez le document administratif,
+
+449
+00:26:01,840 --> 00:26:05,080
+le bande visite à télécharger.
+
+450
+00:26:05,620 --> 00:26:06,960
+Ici, c'est signature de document.
+
+451
+00:26:07,100 --> 00:26:07,860
+Vous connaissez déjà.
+
+452
+00:26:08,060 --> 00:26:09,360
+C'est là que vous pouvez suivre
+
+453
+00:26:09,360 --> 00:26:12,800
+le processus de signature plus détaillé
+
+454
+00:26:12,800 --> 00:26:13,880
+que sur mobile.
+
+455
+00:26:13,880 --> 00:26:15,460
+éventuellement.
+
+456
+00:26:16,140 --> 00:26:17,840
+Et là, on voit bien que les trois personnes
+
+457
+00:26:17,840 --> 00:26:19,100
+ont signé.
+
+458
+00:26:20,020 --> 00:26:22,080
+Voilà tout. C'est terminé pour ce
+
+459
+00:26:22,080 --> 00:26:23,220
+petit tuto.
+
+460
+00:26:24,560 --> 00:26:26,060
+Utilisez-le, remontez-nous
+
+461
+00:26:26,060 --> 00:26:28,120
+les éventuels problèmes que vous pourriez
+
+462
+00:26:28,120 --> 00:26:28,640
+détecter.
+
+463
+00:26:29,800 --> 00:26:30,600
+Et puis, je vous
+
+464
+00:26:30,600 --> 00:26:34,320
+retrouve bientôt en visioconférence,
+
+465
+00:26:34,320 --> 00:26:35,060
+j'imagine.
+
+466
+00:26:36,200 --> 00:26:36,780
+Bonne visite,
+
+467
+00:26:36,940 --> 00:26:39,320
+bonne visite électronique,
+
+468
+00:26:39,820 --> 00:26:41,300
+et à très bientôt. Merci beaucoup.
+
