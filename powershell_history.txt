@@ -1,0 +1,75 @@
+cd..
+cd C:\Transcript`
+Get-History`
+
+cd C:\Email`
+Get-History`
+
+cd C:\Transcript`
+Get-History`
+
+(Get-PSReadLineOption).HistorySavePath`
+
+cd..
+cd Email
+(Get-PSReadLineOption).HistorySavePath`
+
+cd..
+cd Transcript
+Test-Path "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt"`
+Test-Path "$env:APPDATA\Microsoft\PowerShell\PSReadLine\ConsoleHost_history.txt"`
+
+cd Transcript
+cd..
+cd Transcript
+cd..
+cd Email
+Set-PSReadLineOption -HistorySavePath "C:\Transcript\powershell_history.txt"`
+Set-PSReadLineOption -HistorySaveStyle SaveIncrementally`
+
+cd..
+notepad $PROFILE
+cd..
+cd Transcript
+cd..
+open -rentals
+open -Email
+Open-Email
+cd..
+Open-Email
+$PROFILE`
+Test-Path $PROFILE`
+
+notepad $PROFILE`
+
+. $PROFILE`
+
+Get-Command Open-Email`
+
+Open-Email`
+
+. $PROFILE`
+
+Open-Email`
+
+Get-Command Open-Email`
+
+Open-Email`
+
+notepad $PROFILE`
+
+. $PROFILE`
+
+Open-Email`
+
+$h1 = "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt"`
+$h2 = "$env:APPDATA\Microsoft\PowerShell\PSReadLine\ConsoleHost_history.txt"`
+$h1; (Test-Path $h1)`
+$h2; (Test-Path $h2)`
+
+dir
+cd..
+notepad $PROFILE`
+
+. $PROFILE`
+

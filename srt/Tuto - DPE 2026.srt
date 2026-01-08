@@ -1,0 +1,384 @@
+1
+00:00:00,000 --> 00:00:22,719
+Bonjour à tous, voici un petit tuto très rapide vous permettant de récupérer les nouveaux DPE de 2026. Alors de quoi s'agit-il ? Comme nous l'avons expliqué lors de différentes visios fin 2025, en ce 1er janvier 2026, un nouveau mode de calcul du DPE concernant les chauffages électriques entre en vigueur.
+
+2
+00:00:22,719 --> 00:00:30,119
+Ça veut dire que les anciens DPE qui ont été calculés avant cette réforme du 1er janvier 2026
+
+3
+00:00:30,119 --> 00:00:33,280
+peuvent, mais ce n'est pas obligatoire du tout,
+
+4
+00:00:33,640 --> 00:00:38,079
+peuvent avoir une nouvelle note et une meilleure note de DPE.
+
+5
+00:00:38,379 --> 00:00:40,120
+On peut remonter généralement d'un cran.
+
+6
+00:00:41,219 --> 00:00:46,299
+Pourquoi ? Tout simplement grâce à la modification du coefficient utilisé
+
+7
+00:00:46,299 --> 00:00:50,620
+pour l'appréciation de l'électricité dans le DPE.
+
+8
+00:00:50,619 --> 00:01:01,920
+Je vous invite pour cela à aller voir les visios qui en parlent grâce à la base de connaissances disponible dans Eglantine depuis à peu près la fin de l'automne.
+
+9
+00:01:02,719 --> 00:01:06,379
+Alors, qu'est-ce que cela signifie concrètement pour vous ?
+
+10
+00:01:06,379 --> 00:01:12,719
+Eh bien, certains DPE peuvent avoir une meilleure note depuis le 1er janvier 2026.
+
+11
+00:01:13,700 --> 00:01:18,719
+Cela vous permet de mettre à jour le DPE sur votre fiche produit,
+
+12
+00:01:19,500 --> 00:01:22,299
+de sorte à afficher un meilleur DPE qu'en 2025.
+
+13
+00:01:23,480 --> 00:01:26,200
+Comment pouvez-vous vous y prendre pour cela ?
+
+14
+00:01:26,200 --> 00:01:27,299
+C'est extrêmement simple.
+
+15
+00:01:27,420 --> 00:01:30,980
+Il vous suffit d'aller chercher une attestation sur le site de l'ADEME,
+
+16
+00:01:30,980 --> 00:01:37,159
+une attestation expliquant la nouvelle note avec cette réforme.
+
+17
+00:01:37,799 --> 00:01:39,359
+C'est très simple pour le faire.
+
+18
+00:01:39,460 --> 00:01:40,900
+Vous allez dans votre fiche Eglantine.
+
+19
+00:01:41,840 --> 00:01:43,780
+Voici un exemple en page 2.
+
+20
+00:01:44,500 --> 00:01:46,320
+Et vous allez chercher votre ancien DPE.
+
+21
+00:01:46,719 --> 00:01:48,219
+Le voici ici.
+
+22
+00:01:49,520 --> 00:01:53,820
+Ici, on a tout le dossier de diagnostic, dont le DPE.
+
+23
+00:01:54,140 --> 00:01:55,620
+On descend chercher le DPE.
+
+24
+00:01:55,800 --> 00:01:57,300
+Alors, vous pourriez avoir un simple DPE.
+
+25
+00:01:58,580 --> 00:01:59,060
+Le voici.
+
+26
+00:01:59,860 --> 00:02:01,640
+La première solution la plus simple,
+
+27
+00:02:01,640 --> 00:02:08,300
+c'est de cliquer sur le numéro ADEME qui se trouve en haut à droite de la fiche du DPE.
+
+28
+00:02:08,300 --> 00:02:11,460
+On clique sur le numéro ADEME s'il est cliquable.
+
+29
+00:02:11,500 --> 00:02:15,420
+En fait, ça dépend tout simplement de la manière dont le PDF a été enregistré.
+
+30
+00:02:15,780 --> 00:02:17,400
+S'il est cliquable, comme c'est le cas ici,
+
+31
+00:02:17,500 --> 00:02:19,400
+tout simplement vous cliquez là, hop,
+
+32
+00:02:20,120 --> 00:02:24,780
+et ça vous mène sur la fiche du site de l'ADEME correspondant à ce DPE.
+
+33
+00:02:25,439 --> 00:02:30,439
+Et nous voyons que ce DPE, effectivement, bénéficie d'une amélioration de la note.
+
+34
+00:02:31,060 --> 00:02:37,180
+Avant le 1er janvier 2026, le DPE marquait la note E pour 267
+
+35
+00:02:37,180 --> 00:02:44,360
+et depuis la réforme du 1er janvier 2026, on passe à D, on remonte d'un cran avec 221.
+
+36
+00:02:45,260 --> 00:02:50,180
+Alors ce n'est pas le cas de tous les DPE, attention, je vous invite à le vérifier pour tous vos DPE,
+
+37
+00:02:50,319 --> 00:02:53,360
+mais certains seront concernés, d'autres ne le seront pas.
+
+38
+00:02:54,060 --> 00:02:57,920
+Dans le cas où votre DPE est concerné, vous remontez un tout petit peu
+
+39
+00:02:57,920 --> 00:03:01,900
+et vous cliquez ici sur télécharger mon attestation, qui est ici.
+
+40
+00:03:02,819 --> 00:03:07,960
+Hop, je clique là et voici l'attestation qui a été téléchargée sur mon ordinateur.
+
+41
+00:03:08,480 --> 00:03:18,900
+Je peux l'ouvrir et j'ai le document avec l'ancienne étiquette, la nouvelle étiquette et l'attestation fournie par le ministère chargé du logement.
+
+42
+00:03:19,759 --> 00:03:26,700
+Cette attestation, vous l'envoyez à l'animation en pièce jointe par e-mail avec le numéro de mandat, bien entendu,
+
+43
+00:03:27,360 --> 00:03:29,879
+et vous demandez à l'animation de modifier la note du TPE.
+
+44
+00:03:29,879 --> 00:03:31,699
+vous ne pouvez pas le faire vous-même, il faut passer
+
+45
+00:03:31,699 --> 00:03:33,900
+par l'animation. Dans le
+
+46
+00:03:33,900 --> 00:03:35,500
+cas où, par contre,
+
+47
+00:03:36,799 --> 00:03:38,139
+cette petite
+
+48
+00:03:38,139 --> 00:03:40,079
+fiche
+
+49
+00:03:40,079 --> 00:03:42,079
+n'est pas directement ouvrable
+
+50
+00:03:42,079 --> 00:03:43,000
+en cliquant
+
+51
+00:03:43,000 --> 00:03:45,819
+sur le
+
+52
+00:03:45,819 --> 00:03:47,819
+numéro ADEME ici, parce qu'il n'est pas
+
+53
+00:03:47,819 --> 00:03:49,859
+cliquable, dans un certain nombre de cas, il ne sera pas
+
+54
+00:03:49,859 --> 00:03:51,759
+cliquable, parce que le PDF a été enregistré
+
+55
+00:03:51,759 --> 00:03:53,939
+différemment, il suffit d'aller le chercher
+
+56
+00:03:53,939 --> 00:03:55,599
+manuellement sur le site de l'ADEME.
+
+57
+00:03:55,719 --> 00:03:57,400
+Pour cela, tout simplement, vous
+
+58
+00:03:57,400 --> 00:03:59,659
+copiez ce numéro,
+
+59
+00:03:59,659 --> 00:04:02,439
+Vous voyez, je le sélectionne et je fais copier.
+
+60
+00:04:03,319 --> 00:04:05,340
+Et ensuite, on va sur le site de l'ADEME.
+
+61
+00:04:05,419 --> 00:04:08,359
+Alors, on tape ADEME DPE dans Google.
+
+62
+00:04:10,039 --> 00:04:10,979
+On clique ici.
+
+63
+00:04:12,740 --> 00:04:17,339
+Et on fait coller pour insérer le numéro.
+
+64
+00:04:18,100 --> 00:04:18,800
+Voici ici.
+
+65
+00:04:18,939 --> 00:04:21,159
+Alors, je vérifie que je n'ai pas un espace avant.
+
+66
+00:04:21,259 --> 00:04:25,560
+Regardez, hop, j'ai un petit espace avant parce que mon copier-coller, parfois, il peut rajouter des caractères.
+
+67
+00:04:25,740 --> 00:04:26,620
+Donc là, je vérifie.
+
+68
+00:04:26,779 --> 00:04:27,939
+Effectivement, j'ai un espace en trop.
+
+69
+00:04:28,159 --> 00:04:29,019
+Je l'enlève.
+
+70
+00:04:29,660 --> 00:04:31,820
+rechercher et ça va me mener
+
+71
+00:04:31,820 --> 00:04:33,480
+sur la même fiche que nous avons vue tout à l'heure.
+
+72
+00:04:33,580 --> 00:04:35,860
+Nous avons simplement fait la recherche manuellement
+
+73
+00:04:35,860 --> 00:04:37,880
+et je peux télécharger
+
+74
+00:04:37,880 --> 00:04:39,680
+mon attestation comme je l'ai fait
+
+75
+00:04:39,680 --> 00:04:41,800
+il y a un instant, vous voyez, exactement de la même
+
+76
+00:04:41,800 --> 00:04:42,080
+manière.
+
+77
+00:04:43,680 --> 00:04:46,140
+Cette attestation, vous l'envoyez à l'animation
+
+78
+00:04:46,140 --> 00:04:47,480
+et l'animation fera
+
+79
+00:04:47,480 --> 00:04:49,760
+la modification. Alors, je vous invite
+
+80
+00:04:49,760 --> 00:04:51,640
+bien entendu à vérifier ça pour tous
+
+81
+00:04:51,640 --> 00:04:52,180
+vos DPE.
+
+82
+00:04:53,660 --> 00:04:55,680
+Certains seront concernés, d'autres
+
+83
+00:04:55,680 --> 00:04:57,600
+ne le seront pas. Si votre DPE
+
+84
+00:04:57,600 --> 00:04:59,860
+n'est pas concerné, tout simplement, vous n'avez pas d'attestation
+
+85
+00:04:59,860 --> 00:05:01,620
+à télécharger. C'est aussi simple que ça.
+
+86
+00:05:01,700 --> 00:05:03,480
+Vous restez sur le même
+
+87
+00:05:03,480 --> 00:05:05,560
+DPE et vous n'avez pas la nouvelle
+
+88
+00:05:05,560 --> 00:05:07,520
+étiquette et l'ancienne étiquette.
+
+89
+00:05:07,680 --> 00:05:08,879
+C'est aussi simple que ça.
+
+90
+00:05:10,280 --> 00:05:11,160
+Faites-le dès maintenant
+
+91
+00:05:11,160 --> 00:05:13,760
+pour pouvoir afficher de meilleurs DPE
+
+92
+00:05:13,760 --> 00:05:15,800
+pour tous les produits qui seront concernés.
+
+93
+00:05:15,980 --> 00:05:17,740
+Bien entendu, nous sommes à votre disposition
+
+94
+00:05:17,740 --> 00:05:20,540
+à l'animation, animation.zalalucarne.com
+
+95
+00:05:20,540 --> 00:05:21,720
+si vous avez la moindre
+
+96
+00:05:21,720 --> 00:05:23,680
+question. Merci beaucoup et à très bientôt.
+

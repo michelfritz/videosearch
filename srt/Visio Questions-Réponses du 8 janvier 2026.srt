@@ -1,0 +1,7912 @@
+1
+00:00:00,000 --> 00:00:11,320
+Bonjour à tous, puisque vous êtes désormais tous là, je vous souhaite une excellente année 2026, comme je vous le disais, les meilleurs voeux pour vous ainsi que pour vos proches.
+
+2
+00:00:11,580 --> 00:00:26,179
+Alors, je vous le disais il y a un instant, j'étais un petit peu inquiet de voir que Marc était le seul connecté jusqu'à quasiment 9h05, personne d'autre n'était là, et puis finalement les uns et les autres sont arrivés, hop, petit à petit se sont égrénés.
+
+3
+00:00:26,179 --> 00:00:40,100
+J'ai constaté, non, j'ai l'impression, je vais être plus prudent que ça, j'ai l'impression que vous êtes moins nombreux le jeudi matin que vous ne l'étiez le jeudi soir auparavant.
+
+4
+00:00:40,100 --> 00:00:59,320
+Donc je suis en train de récupérer les chiffres des visios du jeudi soir auparavant, les visios du jeudi matin, parce que maintenant c'est depuis la rentrée scolaire qu'on fait ça, donc ça fait 3-4 mois, pour faire des moyennes et regarder si effectivement vous êtes plus nombreux le matin ou le soir.
+
+5
+00:00:59,320 --> 00:01:20,640
+Et si je m'aperçois que vous êtes effectivement moins nombreux le matin que le soir, je demanderai à Marjorie d'avoir la gentillesse, si elle le veut bien, de remettre un vote sur le groupe Facebook de la lucarne pour sonder les gens à nouveau et pour voir si finalement, en fait, ils ne préféraient pas le soir au matin.
+
+6
+00:01:20,640 --> 00:01:28,599
+Je suis en train de collecter les chiffres, de regarder si c'est juste une impression de ma part ou si c'est une réalité.
+
+7
+00:01:29,159 --> 00:01:37,439
+C'est long de collecter les chiffres, c'est compliqué parce qu'il faut récupérer pour chaque session de visioconférence le fichier Excel des connexions,
+
+8
+00:01:38,079 --> 00:01:45,680
+prendre les chiffres du fichier Excel, les reporter dans un autre fichier Excel dans lequel je mettrai toutes les données de toutes les visios.
+
+9
+00:01:45,680 --> 00:01:48,960
+et ensuite, alors après ça se fait en trois clics de souris, on fait des moyennes.
+
+10
+00:01:49,360 --> 00:01:52,460
+Mais récupérer les infos et les mettre dans un fichier Excel centralisé,
+
+11
+00:01:52,820 --> 00:01:54,220
+ça c'est très long, c'est un travail de fourmi.
+
+12
+00:01:55,060 --> 00:01:58,280
+Et l'intelligence artificielle n'est pas en mesure de nous aider pour ça.
+
+13
+00:01:59,160 --> 00:02:01,440
+Donc c'est un travail qu'on est en train de faire,
+
+14
+00:02:01,560 --> 00:02:05,620
+et puis quand ce sera terminé, on verra s'il y a lieu de vous interroger à nouveau
+
+15
+00:02:05,620 --> 00:02:09,540
+sur le groupe Facebook et si Marjorie veut bien s'en occuper.
+
+16
+00:02:10,200 --> 00:02:12,879
+Parce que Marjorie peut très bien me dire qu'elle a autre chose à faire,
+
+17
+00:02:12,980 --> 00:02:13,980
+c'est également possible.
+
+18
+00:02:14,780 --> 00:02:16,319
+Donc, on verra ça.
+
+19
+00:02:16,659 --> 00:02:23,299
+Alors, aujourd'hui, on a pas mal de choses à voir en cette rentrée, non pas scolaire, mais en cette rentrée civile.
+
+20
+00:02:23,699 --> 00:02:27,399
+Alors, comme je vous le disais, cette année, on a énormément, énormément de projets.
+
+21
+00:02:27,819 --> 00:02:34,259
+Beaucoup de choses sont en cours de développement, des choses assez sexy, assez intéressantes.
+
+22
+00:02:34,259 --> 00:02:41,280
+Je ne vous dis pas de quoi il s'agit, mais on a clairement les mains dans le cambouis, jusqu'au coude.
+
+23
+00:02:41,280 --> 00:02:48,719
+On est en train de vous préparer plein de choses assez chouettes, assez super pour toute l'année 2026.
+
+24
+00:02:49,420 --> 00:02:56,379
+Alors, avant de démarrer vraiment la visio et les thèmes de formation qu'on va voir aujourd'hui, des petits rappels.
+
+25
+00:02:57,140 --> 00:03:04,879
+Vous le savez, nous sommes le 8 janvier. Les grilles tarifaires, c'est maintenant qu'il faut demander à les modifier, pas après.
+
+26
+00:03:04,879 --> 00:03:27,240
+Pourquoi ? Comme je vous l'ai mis dans Eglantine il y a quelques semaines, juste avant la fin de l'année, cette année nous avons volontairement modifié Eglantine pour empêcher d'ouvrir les grilles tarifaires en dehors de la période du 1er au 10 janvier.
+
+27
+00:03:27,240 --> 00:03:44,760
+Ça veut dire que désormais, quand on va dans Eglantine pour ouvrir une grille, Eglantine ne le permet que si on est entre le 1er et le 10 janvier, ou lorsqu'il s'agit d'un agent dont le compte Eglantine a été créé depuis moins d'un mois.
+
+28
+00:03:44,900 --> 00:03:55,240
+Donc lorsqu'on recrute un nouvel agent, il a un mois, lui, c'est une deuxième vérification opérée par Eglantine, pour créer sa grille tarifaire.
+
+29
+00:03:55,240 --> 00:04:02,820
+Alors, pourquoi on a mis en place cette restriction dans Eglantine ?
+
+30
+00:04:02,820 --> 00:04:08,820
+C'est pour empêcher, comme ça arrive chaque année, d'avoir des agents qui nous demandent gentiment
+
+31
+00:04:08,820 --> 00:04:17,620
+« S'il vous plaît, soyez gentil, j'en ai vraiment besoin, laissez-moi modifier ma grille tarifaire en dehors de la période prévue. »
+
+32
+00:04:17,620 --> 00:04:19,180
+Parce que ça, ça pose un vrai problème.
+
+33
+00:04:19,860 --> 00:04:22,660
+Déjà, c'est un problème organisationnel, tout simplement.
+
+34
+00:04:22,660 --> 00:04:29,100
+Ça met un petit peu le bazar dans les grilles tarifaires, mais au-delà du problème organisationnel, il y a un problème juridique important,
+
+35
+00:04:29,520 --> 00:04:31,960
+qui est un problème de conformité avec le droit de la concurrence.
+
+36
+00:04:32,439 --> 00:04:38,840
+Parce que si nous définissons un mécanisme dans lequel les grilles tarifaires sont modifiables à une certaine date dans l'année,
+
+37
+00:04:40,600 --> 00:04:48,460
+pas ailleurs, en gros, pour empêcher les agents de modifier leurs grilles tarifaires au fil de leur rentrée de mandat
+
+38
+00:04:48,460 --> 00:04:51,320
+et donc de faire des tarifications à la tête du client.
+
+39
+00:04:51,319 --> 00:04:55,319
+parce qu'on a des demandes d'agents qui nous disent
+
+40
+00:04:55,319 --> 00:04:58,339
+voilà, je n'ai pas optimisé ma grille, il faudrait que je puisse l'améliorer
+
+41
+00:04:58,339 --> 00:04:59,740
+qui sont des demandes de toute bonne foi
+
+42
+00:04:59,740 --> 00:05:02,199
+mais on a également des demandes d'agents régulièrement
+
+43
+00:05:02,199 --> 00:05:04,159
+et ils nous le disent d'ailleurs assez clairement
+
+44
+00:05:04,159 --> 00:05:07,040
+là je vais avoir une rentrée de mandat un peu compliquée
+
+45
+00:05:07,040 --> 00:05:10,019
+je veux adapter ma grille juste pour ce mandat-là
+
+46
+00:05:10,019 --> 00:05:12,680
+là vous comprenez bien qu'on est en train là typiquement
+
+47
+00:05:12,680 --> 00:05:14,959
+de commettre une infraction au droit de la concurrence
+
+48
+00:05:14,959 --> 00:05:17,219
+donc pour empêcher ça
+
+49
+00:05:17,220 --> 00:05:21,560
+pour empêcher de nous mettre dans une situation de risque juridique
+
+50
+00:05:21,560 --> 00:05:24,880
+vis-à-vis de la DGCCRF et vis-à-vis d'un litige avec un client, tout simplement,
+
+51
+00:05:25,620 --> 00:05:31,660
+nous avons bloqué la possibilité d'ouvrir les grilles
+
+52
+00:05:31,660 --> 00:05:35,580
+en dehors de cette période du 1er au 10 janvier chaque année,
+
+53
+00:05:36,120 --> 00:05:38,940
+2026, 2027, 2028, 2029, et ainsi de suite.
+
+54
+00:05:39,320 --> 00:05:42,460
+Sauf, il y a une exception qui a été prévue techniquement dans l'Ulantine,
+
+55
+00:05:42,460 --> 00:05:46,880
+lorsqu'il s'agit d'un nouvel agent dont on vient de créer
+
+56
+00:05:46,879 --> 00:05:51,759
+le compte Eglantine, à ce moment-là, il dispose de 30 jours, j'ai dit un mois, mais
+
+57
+00:05:51,759 --> 00:06:00,180
+concrètement, dans Eglantine, c'est indiqué 30 jours, pour créer, modifier sa grille
+
+58
+00:06:00,180 --> 00:06:08,920
+tarifaire. Donc, cette année, vous ne pourrez, il sera informatiquement impossible, vous
+
+59
+00:06:08,920 --> 00:06:14,000
+ne pourrez pas modifier vos grilles tarifaires après le 10 janvier. Alors, si vous faites
+
+60
+00:06:14,000 --> 00:06:15,839
+ouvrir votre grille le 10 janvier,
+
+61
+00:06:15,959 --> 00:06:17,660
+c'est bon, vous aurez les 48 heures.
+
+62
+00:06:17,800 --> 00:06:20,000
+C'est-à-dire qu'on peut ouvrir vos grilles
+
+63
+00:06:20,000 --> 00:06:21,920
+pour modification jusqu'au
+
+64
+00:06:21,920 --> 00:06:23,879
+10 janvier, inclus.
+
+65
+00:06:24,420 --> 00:06:25,839
+Après, ça ne sera plus
+
+66
+00:06:25,839 --> 00:06:27,660
+possible du tout.
+
+67
+00:06:28,759 --> 00:06:29,899
+Donc, si vous
+
+68
+00:06:29,899 --> 00:06:30,959
+souhaitez modifier vos grilles,
+
+69
+00:06:31,519 --> 00:06:33,259
+animation.lalucane.com.
+
+70
+00:06:33,360 --> 00:06:35,639
+Si vous avez déjà modifié vos grilles
+
+71
+00:06:35,639 --> 00:06:37,540
+il y a 2, 3, 4 jours et que vous voulez
+
+72
+00:06:37,540 --> 00:06:39,319
+encore les adapter, vous le pouvez.
+
+73
+00:06:39,680 --> 00:06:41,540
+Jusqu'au 10 janvier, vous pouvez
+
+74
+00:06:41,540 --> 00:06:43,660
+adapter, modifier vos grilles, même
+
+75
+00:06:43,660 --> 00:06:49,400
+si vous l'avez déjà fait, vous pouvez revenir dessus jusqu'au 10 janvier. Deuxième chose,
+
+76
+00:06:49,700 --> 00:06:55,760
+les RCP 2026, c'est-à-dire les attestations d'assurance. Beaucoup d'entre vous nous les
+
+77
+00:06:55,760 --> 00:07:02,820
+ont déjà envoyées. Pas tout le monde nous l'a envoyée. C'est très important. C'est
+
+78
+00:07:02,820 --> 00:07:07,080
+votre attestation d'assurance professionnelle, tout simplement. C'est une obligation légale.
+
+79
+00:07:07,580 --> 00:07:11,440
+Au-delà du fait que ce soit quelque chose que nous imposions dans notre réseau depuis
+
+80
+00:07:11,439 --> 00:07:13,779
+bien avant que ce soit une obligation légale.
+
+81
+00:07:14,319 --> 00:07:15,600
+C'est une obligation légale.
+
+82
+00:07:16,199 --> 00:07:20,519
+Donc, vous devez absolument penser à nous envoyer vos RCP 2026.
+
+83
+00:07:20,680 --> 00:07:26,439
+Nous allons envoyer un dernier email pour le rappeler à tout le monde.
+
+84
+00:07:26,660 --> 00:07:28,439
+Alors, cet email, tout le monde va le recevoir.
+
+85
+00:07:28,579 --> 00:07:30,699
+Donc, même si vous avez déjà envoyé votre RCP,
+
+86
+00:07:30,819 --> 00:07:32,199
+vous recevrez quand même cet email,
+
+87
+00:07:32,279 --> 00:07:33,920
+parce que c'est un email qu'on envoie à tout le réseau.
+
+88
+00:07:34,220 --> 00:07:37,920
+Un email de rappel en disant, attention, il nous manque encore beaucoup de RCP.
+
+89
+00:07:38,139 --> 00:07:39,519
+N'oubliez pas de nous les envoyer.
+
+90
+00:07:39,519 --> 00:07:58,479
+Et cette année, si à la fin du mois de janvier, on n'a pas certaines RCP, certaines attestations d'assurance, les agents qui ne nous les ont pas envoyées malgré tous nos rappels se verront couper leur mandat. C'est très important.
+
+91
+00:07:59,480 --> 00:08:03,140
+Je le mettrai également ici, dans la page d'accueil des Glantines.
+
+92
+00:08:03,319 --> 00:08:06,900
+Vous avez vu que c'est vraiment un mode de communication qui vous convient.
+
+93
+00:08:07,360 --> 00:08:09,100
+On voit que ça marche bien.
+
+94
+00:08:09,759 --> 00:08:14,600
+On a souvent reproché à la Lucarne de ne pas savoir bien communiquer,
+
+95
+00:08:14,700 --> 00:08:16,400
+communiquer efficacement avec les agents.
+
+96
+00:08:17,040 --> 00:08:19,520
+Parce que quand on envoyait un e-mail, les gens disaient
+
+97
+00:08:19,520 --> 00:08:21,379
+« Oui, mais les e-mails, on ne les lit pas. »
+
+98
+00:08:21,379 --> 00:08:23,080
+Quand on n'envoyait pas d'e-mail, les gens disaient
+
+99
+00:08:23,080 --> 00:08:25,700
+« Oui, mais il faut nous envoyer des e-mails. »
+
+100
+00:08:25,700 --> 00:08:27,680
+Il y a même un agent, je ne vais pas vous dire qui,
+
+101
+00:08:27,680 --> 00:08:32,580
+mais c'est quelqu'un que vous connaissez tous, qui, dans sa mauvaise foi absolue,
+
+102
+00:08:32,720 --> 00:08:35,620
+dans une même conversation téléphonique que j'avais avec cette personne,
+
+103
+00:08:36,060 --> 00:08:39,060
+et je dis cette personne comme ça, je ne vous dis pas si c'est un homme ou une femme,
+
+104
+00:08:40,039 --> 00:08:46,039
+un agent qui me reproche de ne pas être au courant d'une information importante.
+
+105
+00:08:46,180 --> 00:08:47,500
+C'était il y a plusieurs années.
+
+106
+00:08:48,720 --> 00:08:53,180
+Me reproche, oui, je ne suis pas au courant de ça, ce n'est pas normal, vous ne nous l'avez jamais dit.
+
+107
+00:08:53,179 --> 00:08:56,059
+il faut nous envoyer
+
+108
+00:08:56,059 --> 00:08:58,179
+des emails, vous avez dû le dire dans une de vos
+
+109
+00:08:58,179 --> 00:08:59,819
+visios pourries à laquelle je ne vais pas
+
+110
+00:08:59,819 --> 00:09:01,039
+parce que moi je n'ai pas que ça à faire
+
+111
+00:09:01,039 --> 00:09:03,519
+vos visios elles sont nulles, elles sont pourries
+
+112
+00:09:03,519 --> 00:09:05,339
+je n'ai pas le temps, je suis très occupé
+
+113
+00:09:05,339 --> 00:09:06,479
+je suis quelqu'un de très important
+
+114
+00:09:06,479 --> 00:09:08,759
+donc
+
+115
+00:09:08,759 --> 00:09:11,039
+il faut nous envoyer des emails
+
+116
+00:09:11,039 --> 00:09:14,039
+et là je dis mais attendez cher monsieur ou madame l'agent
+
+117
+00:09:14,039 --> 00:09:15,879
+nous vous avons envoyé sur cette question
+
+118
+00:09:15,879 --> 00:09:17,899
+importante deux emails
+
+119
+00:09:17,899 --> 00:09:19,459
+un email à telle date
+
+120
+00:09:19,459 --> 00:09:21,379
+et un email à
+
+121
+00:09:21,379 --> 00:09:27,759
+« Telle date, on a envoyé deux e-mails concernant cette question parce qu'elle est particulièrement importante. »
+
+122
+00:09:27,759 --> 00:09:32,100
+« Non, non, non, je ne l'ai pas eu. Non, non, non, ce n'est pas vrai. Non, non, non, pas d'e-mail. »
+
+123
+00:09:32,100 --> 00:09:36,220
+« Ok, vérifiez dans votre boîte mail maintenant. »
+
+124
+00:09:36,220 --> 00:09:40,379
+On va regarder. Et moi, je vais regarder si cet e-mail vous a bien été envoyé à vous
+
+125
+00:09:40,379 --> 00:09:42,480
+ou si vous avez été oublié dans la liste.
+
+126
+00:09:42,960 --> 00:09:47,799
+Je me connecte, je vérifie, je regarde l'e-mail, je trouve les deux e-mails envoyés à cette personne.
+
+127
+00:09:48,080 --> 00:09:50,700
+Et cette personne cherche dans sa boîte mail et là, les trouve.
+
+128
+00:09:51,379 --> 00:09:54,960
+Ah oui, donc effectivement vous avez envoyé
+
+129
+00:09:54,960 --> 00:09:57,759
+Oui mais vos emails, c'est pas comme ça qu'il faut faire
+
+130
+00:09:57,759 --> 00:10:00,460
+Attendez, il y a deux secondes vous venez de me dire qu'il fallait faire par email
+
+131
+00:10:00,460 --> 00:10:02,740
+Parce que si on faisait pas par email l'information n'arrivait pas
+
+132
+00:10:02,740 --> 00:10:04,860
+On vous en a envoyé deux, vous voyez qu'il y en a deux
+
+133
+00:10:04,860 --> 00:10:06,919
+Et maintenant vous me dites non c'est pas par email qu'il faut faire
+
+134
+00:10:06,919 --> 00:10:08,899
+Parce que les emails on les lit pas, c'est trop compliqué
+
+135
+00:10:08,899 --> 00:10:10,399
+On a pas le temps, on a autre chose à faire
+
+136
+00:10:10,399 --> 00:10:13,480
+Donc on nous a souvent reproché
+
+137
+00:10:13,480 --> 00:10:16,600
+A raison et parfois un peu à tort
+
+138
+00:10:16,600 --> 00:10:18,980
+De mal savoir communiquer avec vous
+
+139
+00:10:18,980 --> 00:10:21,279
+Concernant un certain nombre de questions importantes
+
+140
+00:10:21,879 --> 00:10:29,100
+Depuis qu'on a eu cette idée de mettre des informations importantes ici, ça a l'air de bien marcher.
+
+141
+00:10:29,759 --> 00:10:37,839
+Par exemple, le tuto DPE, je ne sais pas si vous l'avez tous lu, tous vu cette vidéo, mais on a reçu pas mal de nouveaux DPE.
+
+142
+00:10:38,179 --> 00:10:45,720
+Donc, on mettra également un message ici pour les RCP 2026, peut-être demain, peut-être après-demain, après avoir envoyé l'email.
+
+143
+00:10:45,720 --> 00:10:52,440
+et gardez bien en tête que ceux qui ne nous auront pas envoyé les RCP 2026 pour la fin du mois
+
+144
+00:10:52,440 --> 00:10:54,800
+se verront couper leur mandat.
+
+145
+00:10:55,759 --> 00:10:57,019
+Coupé, on les mettra en perdu.
+
+146
+00:10:57,399 --> 00:11:03,040
+Alors après, on pourra les réactiver quand on aura reçu la RCP.
+
+147
+00:11:04,040 --> 00:11:07,740
+Parce qu'il y a tous les ans, il y a des agents qui nous baladent et qui ne nous les envoient pas du tout.
+
+148
+00:11:07,740 --> 00:11:10,440
+Donc ce n'est pas possible, ça ne peut pas continuer.
+
+149
+00:11:10,519 --> 00:11:14,259
+Le risque juridique, là encore, est trop important.
+
+150
+00:11:14,259 --> 00:11:18,379
+Donc ça c'était les deux petits rappels
+
+151
+00:11:18,379 --> 00:11:23,240
+Alors bien sûr le tuto DPE 2026 si vous ne l'avez pas encore vu
+
+152
+00:11:23,240 --> 00:11:27,779
+Allez le voir, c'est par rapport à l'évolution du DPE en 2026
+
+153
+00:11:27,779 --> 00:11:34,259
+Certains de vos DPE, ceux qui concernent des maisons et des appartements chauffés électriquement
+
+154
+00:11:34,259 --> 00:11:38,179
+Peuvent, c'est pas du tout automatique, c'est pas du tout une obligation
+
+155
+00:11:38,179 --> 00:11:40,340
+Mais peuvent avoir une meilleure note de DPE
+
+156
+00:11:40,340 --> 00:11:42,159
+Ils peuvent même remonter d'un cran
+
+157
+00:11:42,159 --> 00:11:45,039
+donc allez regarder ce petit tuto
+
+158
+00:11:45,039 --> 00:11:46,480
+qui vous expliquera comment
+
+159
+00:11:46,480 --> 00:11:49,179
+récupérer la nouvelle attestation DPE
+
+160
+00:11:49,179 --> 00:11:50,740
+sur le site de l'ADEME, ça se fait en quelques
+
+161
+00:11:50,740 --> 00:11:51,899
+quelques clics de souris
+
+162
+00:11:51,899 --> 00:11:54,139
+ensuite vous nous l'envoyez
+
+163
+00:11:54,139 --> 00:11:56,579
+et puis nous modifions les DPE
+
+164
+00:11:56,579 --> 00:11:57,279
+concernés
+
+165
+00:11:57,279 --> 00:12:00,219
+c'est quelque chose de très simple
+
+166
+00:12:00,219 --> 00:12:02,600
+et de très très très rapide à faire
+
+167
+00:12:02,600 --> 00:12:04,719
+alors bien entendu en nous envoyant le DPE
+
+168
+00:12:04,719 --> 00:12:06,779
+n'oubliez pas de nous mettre le numéro
+
+169
+00:12:06,779 --> 00:12:07,899
+de mandat concerné
+
+170
+00:12:07,899 --> 00:12:10,860
+parce qu'on a reçu notamment, il y a un agent qui nous a envoyé
+
+171
+00:12:10,860 --> 00:12:13,019
+une dizaine de DPE à modifier sans les numéros
+
+172
+00:12:13,019 --> 00:12:14,899
+de mandat. Et il nous engueule après
+
+173
+00:12:14,899 --> 00:12:16,720
+quand on lui dit qu'on a besoin du numéro de mandat.
+
+174
+00:12:17,300 --> 00:12:17,440
+Bon.
+
+175
+00:12:18,800 --> 00:12:20,800
+Vous savez que nos agents ne sont pas
+
+176
+00:12:20,800 --> 00:12:22,720
+toujours très sympas
+
+177
+00:12:22,720 --> 00:12:24,960
+avec nous, y compris quand eux sont en faute.
+
+178
+00:12:26,419 --> 00:12:26,860
+Donc,
+
+179
+00:12:26,919 --> 00:12:28,800
+on a vu tous ces petits
+
+180
+00:12:28,800 --> 00:12:30,720
+rappels de début d'année.
+
+181
+00:12:31,019 --> 00:12:32,519
+On peut passer à la suite.
+
+182
+00:12:33,560 --> 00:12:34,899
+Parfait. Alors, la suite,
+
+183
+00:12:34,899 --> 00:12:36,159
+on a pas mal de questions.
+
+184
+00:12:37,700 --> 00:12:39,340
+Moi, je vous propose
+
+185
+00:12:39,340 --> 00:12:41,759
+On a plusieurs choses
+
+186
+00:12:41,759 --> 00:12:44,500
+On nous a interrogé sur les chasseurs d'appartements
+
+187
+00:12:44,500 --> 00:12:45,420
+Il y a Mickaël
+
+188
+00:12:45,420 --> 00:12:48,420
+Avec qui j'en ai discuté il y a quelques jours au téléphone
+
+189
+00:12:48,420 --> 00:12:51,320
+Mais un autre agent nous a posé la même question
+
+190
+00:12:51,320 --> 00:12:52,540
+A peu près concomitamment
+
+191
+00:12:52,540 --> 00:12:54,160
+C'est un curieux hasard
+
+192
+00:12:54,160 --> 00:12:55,820
+C'est une question qui vient une fois de temps en temps
+
+193
+00:12:55,820 --> 00:12:57,040
+Dont on doit parler
+
+194
+00:12:57,040 --> 00:12:58,560
+Le problème des chasseurs d'appartements
+
+195
+00:12:58,560 --> 00:13:00,740
+On a une question sur la loi Lemaire
+
+196
+00:13:00,740 --> 00:13:02,780
+Alors il ne s'agit pas de Eric Lemaire
+
+197
+00:13:02,780 --> 00:13:05,019
+Notre agent de Darbonne qui est avec nous aujourd'hui
+
+198
+00:13:05,019 --> 00:13:07,120
+Il s'agit de la loi Lemaire
+
+199
+00:13:07,120 --> 00:13:12,159
+Alors que certains ont appelé un peu abusivement la loi anti-Airbnb.
+
+200
+00:13:12,440 --> 00:13:18,259
+Ça, c'est une question d'Eric Dananchy qui nous a été posée, dont on peut parler.
+
+201
+00:13:18,419 --> 00:13:23,580
+Alors, ce que je vous propose, c'est peut-être de commencer sur le problème des chasseurs d'appartements.
+
+202
+00:13:24,440 --> 00:13:29,060
+Alors, pour un petit fichier Word, clique Word.
+
+203
+00:13:29,059 --> 00:13:33,619
+pour que
+
+204
+00:13:33,619 --> 00:13:36,079
+on puisse éventuellement écrire des choses
+
+205
+00:13:36,079 --> 00:13:37,879
+et que vous puissiez les voir
+
+206
+00:13:37,879 --> 00:13:39,979
+je ne sais pas pourquoi Word ne sort pas
+
+207
+00:13:39,979 --> 00:13:41,439
+si, voilà
+
+208
+00:13:41,439 --> 00:13:43,239
+ça c'est autre chose
+
+209
+00:13:43,239 --> 00:13:45,839
+vous venez de voir là
+
+210
+00:13:45,839 --> 00:13:48,079
+un petit document qui n'est pas du tout
+
+211
+00:13:48,079 --> 00:13:49,339
+pour vous, ça c'est pour les
+
+212
+00:13:49,339 --> 00:13:51,799
+personnes qui ont
+
+213
+00:13:51,799 --> 00:13:56,039
+qui ont fait savoir qu'elles souhaitaient
+
+214
+00:13:56,039 --> 00:13:58,319
+se porter candidate pour la création
+
+215
+00:13:58,320 --> 00:14:02,379
+d'équipe locale. Vous êtes un certain nombre, il y en a parmi vous d'ailleurs, je vois
+
+216
+00:14:02,379 --> 00:14:07,600
+Michel, je vois Guillaume, je vois un certain nombre de personnes qui se sont manifestées
+
+217
+00:14:07,600 --> 00:14:12,040
+en disant vouloir démarrer des Véroniques également, des équipes locales, et ce que
+
+218
+00:14:12,040 --> 00:14:17,660
+vous venez de voir, c'était l'ordre du jour de la première réunion que nous allons
+
+219
+00:14:17,660 --> 00:14:22,520
+faire. Je vais envoyer un email d'ici peut-être aujourd'hui, peut-être demain, à toutes
+
+220
+00:14:22,519 --> 00:14:29,199
+les personnes qui se sont portées candidats pour devenir chef d'équipe locale, la première
+
+221
+00:14:29,199 --> 00:14:32,620
+réunion que nous allons faire, parce qu'elles vont rentrer dans un programme spécifique
+
+222
+00:14:32,620 --> 00:14:39,059
+de coaching pour la création et l'animation d'équipes locales, et donc c'était l'ordre
+
+223
+00:14:39,059 --> 00:14:43,740
+du jour prévu. Alors la création d'équipes locales, vous savez, on en a parlé au Puy-du-Fou.
+
+224
+00:14:44,100 --> 00:14:51,539
+On en a parlé au Puy-du-Fou, c'est un nouveau projet de 2026, dont on avait déjà parlé
+
+225
+00:14:51,539 --> 00:14:53,759
+auparavant, mais qui a bien mûri, qui s'est bien
+
+226
+00:14:53,759 --> 00:14:55,519
+mis en place, notamment avec l'aide de Julien
+
+227
+00:14:55,519 --> 00:14:57,620
+qui a très très très activement
+
+228
+00:14:57,620 --> 00:14:59,659
+participé. Ceux d'entre
+
+229
+00:14:59,659 --> 00:15:01,799
+vous qui souhaitent donner un nouveau
+
+230
+00:15:01,799 --> 00:15:03,559
+tour à leur carrière,
+
+231
+00:15:03,740 --> 00:15:05,879
+c'est-à-dire avoir une nouvelle
+
+232
+00:15:05,879 --> 00:15:07,559
+activité, une activité supplémentaire,
+
+233
+00:15:07,659 --> 00:15:09,799
+une rémunération supplémentaire également,
+
+234
+00:15:10,219 --> 00:15:11,199
+on en a beaucoup parlé
+
+235
+00:15:11,199 --> 00:15:14,039
+au Puy-du-Fou, j'ai donné des exemples,
+
+236
+00:15:14,179 --> 00:15:15,759
+j'ai donné pas mal de choses,
+
+237
+00:15:16,719 --> 00:15:17,699
+peuvent se porter
+
+238
+00:15:17,699 --> 00:15:19,439
+candidate pour entrer dans le programme
+
+239
+00:15:19,440 --> 00:15:21,760
+de création
+
+240
+00:15:21,760 --> 00:15:23,460
+et d'animation d'équipes locales.
+
+241
+00:15:23,560 --> 00:15:25,300
+Alors attention, c'est un vrai truc avec du vrai boulot.
+
+242
+00:15:25,720 --> 00:15:27,640
+Il ne s'agit pas juste de dire
+
+243
+00:15:27,640 --> 00:15:28,980
+coucou, je suis là, donnez-moi de l'argent.
+
+244
+00:15:29,360 --> 00:15:31,660
+C'est un vrai gros travail qu'on est en train
+
+245
+00:15:31,660 --> 00:15:34,020
+de préparer. Si vous demandiez à Julien,
+
+246
+00:15:34,480 --> 00:15:35,700
+Julien vous dirait, oui, ça me
+
+247
+00:15:35,700 --> 00:15:37,980
+prend beaucoup de mon temps, beaucoup de mon énergie.
+
+248
+00:15:38,140 --> 00:15:39,820
+C'est super intéressant, c'est passionnant,
+
+249
+00:15:39,900 --> 00:15:41,660
+c'est plein de choses, mais c'est des
+
+250
+00:15:41,660 --> 00:15:43,500
+emmerdes, bien sûr, parce qu'à partir du moment où vous gérez
+
+251
+00:15:43,500 --> 00:15:45,540
+d'autres gens, vous gérez des emmerdes,
+
+252
+00:15:45,580 --> 00:15:47,420
+bien sûr. C'est du travail,
+
+253
+00:15:47,720 --> 00:15:48,600
+c'est de l'investissement,
+
+254
+00:15:49,440 --> 00:15:58,140
+Il ne faut surtout pas s'imaginer que devenir chef d'équipe, c'est dire « moi je suis chef, donc les autres vont bosser à ma place, et puis je vais ramasser les sous ».
+
+255
+00:15:58,140 --> 00:16:07,160
+Concrètement, nous ne sommes pas IAD, et nous ne comptons pas devenir IAD, donc portez-vous candidat si vous souhaitez véritablement le faire.
+
+256
+00:16:11,720 --> 00:16:15,200
+La première chose dont nous allons parler, ce sont les chasseurs d'appartements.
+
+257
+00:16:19,440 --> 00:16:22,280
+On appelle ça chasseur d'appartement
+
+258
+00:16:22,280 --> 00:16:24,220
+Ça pourrait être chasseur de maison
+
+259
+00:16:24,220 --> 00:16:26,480
+Ça pourrait être chasseur de terrain
+
+260
+00:16:26,480 --> 00:16:28,980
+Ça s'appelle faire de la recherche foncière
+
+261
+00:16:28,980 --> 00:16:29,620
+Chasseur de terrain
+
+262
+00:16:29,620 --> 00:16:31,040
+Ça c'est un vrai métier par contre
+
+263
+00:16:31,040 --> 00:16:31,820
+Ça ça existe vraiment
+
+264
+00:16:31,820 --> 00:16:35,060
+Chasseur d'appartement c'est un métier qui en fait n'existe pas vraiment
+
+265
+00:16:35,060 --> 00:16:37,960
+Qu'est-ce que c'est chasseur d'appartement ?
+
+266
+00:16:37,960 --> 00:16:38,120
+Alors
+
+267
+00:16:38,120 --> 00:16:41,520
+C'est une espèce de mode
+
+268
+00:16:41,520 --> 00:16:43,400
+Qui a pris il y a quelques années
+
+269
+00:16:43,400 --> 00:16:44,860
+C'est pas nouveau
+
+270
+00:16:44,860 --> 00:16:47,280
+Souvent on dit c'est un nouveau truc
+
+271
+00:16:47,279 --> 00:16:50,079
+Oh non, ce n'est pas nouveau, mais on connaît ça depuis très longtemps.
+
+272
+00:16:50,980 --> 00:16:54,360
+Il y a quelques années, pourquoi principalement appartements ?
+
+273
+00:16:54,360 --> 00:16:58,019
+Parce que c'est principalement urbain à l'origine, mais pas seulement.
+
+274
+00:16:58,179 --> 00:17:00,079
+Mais avant, c'était un truc de grande ville.
+
+275
+00:17:01,919 --> 00:17:06,019
+Alors, qui existe dans d'autres pays que la France, notamment aux États-Unis.
+
+276
+00:17:06,539 --> 00:17:11,759
+Aux États-Unis, la profession immobilière permet l'existence de personnes
+
+277
+00:17:11,759 --> 00:17:13,899
+qui se présenteraient comme chasseurs d'appartements.
+
+278
+00:17:13,899 --> 00:17:16,299
+Alors, chasseurs d'appartements, c'est une appellation très française,
+
+279
+00:17:16,299 --> 00:17:23,119
+mais aux Etats-Unis, enfin dans certains pays anglo-saxons, pas seulement les Etats-Unis,
+
+280
+00:17:23,980 --> 00:17:31,799
+cette profession peut exister parce que le marché immobilier est organisé différemment de la France.
+
+281
+00:17:32,119 --> 00:17:35,399
+Donc ça peut exister, mais en France ça ne peut pas exister, vous allez comprendre.
+
+282
+00:17:36,119 --> 00:17:39,480
+Chasseur d'appartements, donc, c'est un agent immobilier,
+
+283
+00:17:40,480 --> 00:17:43,579
+mais qui ne veut surtout pas être pris pour un agent immobilier
+
+284
+00:17:43,579 --> 00:17:46,960
+et qui ne veut pas accepter les contraintes de l'agent immobilier.
+
+285
+00:17:47,159 --> 00:17:51,639
+En gros, c'est quelqu'un qui veut le beurre, l'argent du beurre et le bonjour de la crémière.
+
+286
+00:17:53,339 --> 00:17:54,579
+Pour quelles raisons ?
+
+287
+00:17:55,399 --> 00:18:02,139
+Premièrement, les agents immobiliers en France, pour plein de raisons sur lesquelles nous n'allons pas revenir aujourd'hui,
+
+288
+00:18:02,419 --> 00:18:03,579
+ce n'est pas le but,
+
+289
+00:18:04,419 --> 00:18:08,379
+pour plein de raisons, les agents immobiliers en France ont une très très très mauvaise réputation.
+
+290
+00:18:08,380 --> 00:18:18,760
+Ils sont au mieux des feignants, des incompétents et des incapables, au pire des escrocs, des bandits, des repris de justice.
+
+291
+00:18:20,000 --> 00:18:27,580
+C'est l'opinion de 70 à 80% de la population française qui déteste les agents immobiliers.
+
+292
+00:18:28,980 --> 00:18:34,220
+A mon avis, à tort, mais aussi à raison.
+
+293
+00:18:35,220 --> 00:18:36,240
+On ne va pas revenir là-dessus.
+
+294
+00:18:36,240 --> 00:18:42,000
+Donc, très mauvaise image des agents immobiliers
+
+295
+00:18:42,000 --> 00:18:48,859
+Deuxièmement, le métier de négociateur immobilier, d'agent immobilier, c'est très dur
+
+296
+00:18:48,859 --> 00:18:54,380
+C'est un métier qui est très compliqué pour une raison principale
+
+297
+00:18:54,380 --> 00:18:58,440
+Alors il y en a plein, et vous le savez puisque vous pratiquez ce métier au quotidien
+
+298
+00:18:58,440 --> 00:19:10,740
+Il y a une raison principale pour laquelle le métier d'agent immobilier ou de négociateur immobilier est aussi dur, aussi compliqué et aussi ingrat, c'est la prospection.
+
+299
+00:19:10,740 --> 00:19:22,660
+Prospecter les mandats, donc trouver les mandats, aller rencontrer les propriétaires, les convaincre de la pertinence de notre proposition
+
+300
+00:19:22,660 --> 00:19:33,620
+et repartir avec un mandat en bonne et due forme avec tout ce dont on a besoin, les taxes foncières, les DPE, les audits énergétiques,
+
+301
+00:19:33,619 --> 00:19:40,359
+tous les documents et les annexes qui font que le mandat est valable ou n'est pas valable
+
+302
+00:19:40,359 --> 00:19:42,919
+et qui sont autant de complications, de difficultés.
+
+303
+00:19:44,559 --> 00:19:45,879
+Ça, c'est extrêmement compliqué.
+
+304
+00:19:46,119 --> 00:19:51,739
+La rentrée de mandat dans son ensemble, avec principalement le point dur, c'est la prospection.
+
+305
+00:19:52,599 --> 00:19:56,059
+Mais toute la rentrée de mandat dans son ensemble, c'est très difficile.
+
+306
+00:19:56,479 --> 00:19:58,179
+C'est la partie la plus dure de notre métier.
+
+307
+00:20:00,079 --> 00:20:02,619
+Et c'est la plus ingrate, c'est la plus inintéressante.
+
+308
+00:20:02,619 --> 00:20:04,119
+intéressant parce que vous pourriez dire
+
+309
+00:20:04,119 --> 00:20:05,819
+la négociation c'est pas facile également
+
+310
+00:20:05,819 --> 00:20:07,259
+oui mais la négociation c'est intéressant
+
+311
+00:20:07,259 --> 00:20:09,479
+c'est sexy
+
+312
+00:20:09,479 --> 00:20:12,519
+c'est passionnant même
+
+313
+00:20:12,519 --> 00:20:13,839
+mais
+
+314
+00:20:13,839 --> 00:20:15,259
+c'est excitant
+
+315
+00:20:15,259 --> 00:20:18,299
+la prospection, la rentrée de mandat c'est dur
+
+316
+00:20:18,299 --> 00:20:20,179
+c'est ingrat, c'est difficile
+
+317
+00:20:20,179 --> 00:20:21,719
+très peu de gens aiment ça
+
+318
+00:20:21,719 --> 00:20:24,219
+alors je ne vais pas dire que personne n'aime ça parce que j'ai déjà rencontré
+
+319
+00:20:24,219 --> 00:20:25,899
+des négociateurs qui disent oh non moi j'aime bien
+
+320
+00:20:25,899 --> 00:20:27,419
+ça se passe bien, j'ai pas de problème
+
+321
+00:20:27,419 --> 00:20:30,319
+ils existent et on en a parmi vous
+
+322
+00:20:30,319 --> 00:20:32,359
+ici je le vois, les agents qui sont là
+
+323
+00:20:32,359 --> 00:20:36,619
+mais ils sont rares. L'immense majorité des agents vous dira
+
+324
+00:20:36,619 --> 00:20:42,000
+« Moi, la prospection, je déteste ça. Moins j'en fais, mieux je me porte.
+
+325
+00:20:42,459 --> 00:20:44,619
+C'est vraiment quelque chose que je n'aime pas. »
+
+326
+00:20:44,619 --> 00:20:45,159
+Et c'est normal.
+
+327
+00:20:47,000 --> 00:20:50,919
+Ces deux raisons, la très mauvaise image des agents immobiliers,
+
+328
+00:20:51,679 --> 00:20:57,919
+deuxièmement, la très grande difficulté posée par la rentrée des mandats,
+
+329
+00:20:57,920 --> 00:21:02,060
+font que certaines personnes se disent
+
+330
+00:21:02,060 --> 00:21:05,740
+« Oui, moi j'aime bien l'immobilier, il y a de l'argent à gagner d'ailleurs.
+
+331
+00:21:05,860 --> 00:21:08,300
+Il ne faut pas oublier, chez ces chasseurs d'appartements,
+
+332
+00:21:08,380 --> 00:21:10,120
+on va y revenir dans un instant,
+
+333
+00:21:10,740 --> 00:21:13,900
+l'aspect, la cupidité de ces gens,
+
+334
+00:21:14,000 --> 00:21:16,660
+elle est très très très importante, vous le verrez dans un instant.
+
+335
+00:21:17,519 --> 00:21:19,980
+Donc, il y a des sous à gagner dans l'immobilier,
+
+336
+00:21:20,080 --> 00:21:22,240
+moi je veux gagner des sous, c'est bon les sous, miam miam.
+
+337
+00:21:23,960 --> 00:21:26,800
+Mais, premièrement, je ne veux pas être pris pour un agent immobilier
+
+338
+00:21:26,799 --> 00:21:29,859
+parce que les agents immobiliers, c'est des nuls, on ne les aime pas.
+
+339
+00:21:30,299 --> 00:21:33,339
+Et deuxièmement, je ne veux pas faire de prospection, je ne veux pas faire de rentrée de mandat.
+
+340
+00:21:34,200 --> 00:21:37,259
+Tiens, bonne idée, je vais devenir chasseur d'appartement,
+
+341
+00:21:37,519 --> 00:21:40,980
+d'autant qu'il y a déjà eu des émissions de télé, comme ça, chasseur d'appartement.
+
+342
+00:21:42,119 --> 00:21:46,039
+Oui, mais alors tout ce que vous voyez à la télé, dans les émissions sur l'immobilier,
+
+343
+00:21:46,299 --> 00:21:48,500
+n'oubliez pas que ce n'est pas de l'immobilier, ce sont des émissions.
+
+344
+00:21:49,500 --> 00:21:52,879
+Ce sont des émissions de télévision, ce n'est pas de l'immobilier.
+
+345
+00:21:52,880 --> 00:21:56,400
+Tous les agents immobiliers et les négociateurs immobiliers
+
+346
+00:21:56,400 --> 00:21:59,120
+Qui ont eu affaire à ces émissions de télé
+
+347
+00:21:59,120 --> 00:22:01,740
+Et on en a eu un certain nombre, nous, dans le réseau
+
+348
+00:22:01,740 --> 00:22:04,460
+On a eu plein d'agents qui ont été contactés
+
+349
+00:22:04,460 --> 00:22:07,400
+Qui ont collaboré avec des émissions de télévision
+
+350
+00:22:07,400 --> 00:22:10,300
+Pour faire des trucs, des émissions
+
+351
+00:22:10,300 --> 00:22:13,220
+Tous nous ont dit, mais c'est n'importe quoi
+
+352
+00:22:13,220 --> 00:22:15,120
+C'est n'importe quoi
+
+353
+00:22:15,120 --> 00:22:16,940
+Quand ils rénovent un appartement, en fait
+
+354
+00:22:16,940 --> 00:22:20,740
+Ils ne peignent que les murs qu'ils vont montrer
+
+355
+00:22:20,740 --> 00:22:21,800
+Ils ne peignent pas les autres murs
+
+356
+00:22:21,799 --> 00:22:23,919
+il pose les plaintes
+
+357
+00:22:23,919 --> 00:22:26,099
+moi je me souviens, ça c'est Laurent Moreau
+
+358
+00:22:26,099 --> 00:22:27,200
+qui m'avait expliqué ça
+
+359
+00:22:27,200 --> 00:22:30,240
+Laurent Moreau qui avait été contacté
+
+360
+00:22:30,240 --> 00:22:32,200
+il est du côté de Vincennes
+
+361
+00:22:32,200 --> 00:22:34,039
+Laurent, Vincennes, Montreuil
+
+362
+00:22:34,039 --> 00:22:36,599
+dans l'Est de Paris
+
+363
+00:22:36,599 --> 00:22:38,279
+il avait été contacté
+
+364
+00:22:38,279 --> 00:22:40,259
+il y a très très longtemps, plus de 10 ans
+
+365
+00:22:40,259 --> 00:22:42,059
+et il m'avait expliqué
+
+366
+00:22:42,059 --> 00:22:44,279
+c'est fou, les plaintes en fait
+
+367
+00:22:44,279 --> 00:22:45,740
+vous savez les plaintes en bas des murs
+
+368
+00:22:45,740 --> 00:22:48,379
+il ne les pose même pas, il ne les fixe pas
+
+369
+00:22:48,379 --> 00:22:50,240
+il les pose juste
+
+370
+00:22:50,240 --> 00:22:52,880
+en équilibre, comme ça, pour que ça se voit
+
+371
+00:22:52,880 --> 00:22:54,940
+et après, au moindre coup de vent, pouf, ça tombe
+
+372
+00:22:54,940 --> 00:22:56,839
+ils s'en foutent, ils n'ont même pas mis du scotch double face
+
+373
+00:22:56,839 --> 00:22:59,420
+non, il faut que ça ait l'air d'eux, pourquoi ?
+
+374
+00:22:59,420 --> 00:23:00,980
+parce que tout ce que vous voyez dans ces émissions
+
+375
+00:23:00,980 --> 00:23:02,740
+de télé, que ce soit avec Stéphane Plaza
+
+376
+00:23:02,740 --> 00:23:04,960
+ou avec d'autres, vous devez
+
+377
+00:23:04,960 --> 00:23:07,019
+avoir en tête que ce sont des émissions
+
+378
+00:23:07,019 --> 00:23:08,880
+de télé, c'est fait pour générer de l'audience
+
+379
+00:23:08,880 --> 00:23:10,900
+c'est fait pour vendre des publicités
+
+380
+00:23:10,900 --> 00:23:12,740
+c'est pas fait pour vendre des appartements
+
+381
+00:23:12,740 --> 00:23:14,940
+c'est une mise en scène, rien de tout
+
+382
+00:23:14,940 --> 00:23:17,019
+cela n'est vrai, ça ne se passe pas
+
+383
+00:23:17,019 --> 00:23:18,880
+comme ça dans la réalité, alors moi je n'ai jamais vu
+
+384
+00:23:18,880 --> 00:23:20,320
+ces émissions, de toute façon je n'ai pas de télé
+
+385
+00:23:20,320 --> 00:23:22,900
+je n'ai jamais vu ces émissions
+
+386
+00:23:22,900 --> 00:23:24,560
+mais tout ce qu'on m'en a rapporté, la première
+
+387
+00:23:24,560 --> 00:23:26,940
+personne qui m'a bien expliqué ça c'est Sébastien
+
+388
+00:23:26,940 --> 00:23:28,780
+Fromono que beaucoup d'entre vous connaissent
+
+389
+00:23:28,780 --> 00:23:30,460
+qui a été formateur chez nous pendant très longtemps
+
+390
+00:23:30,460 --> 00:23:32,820
+et qui m'expliquait, qui me montrait
+
+391
+00:23:32,820 --> 00:23:34,560
+comment ça se passait dans ces émissions de télé
+
+392
+00:23:34,560 --> 00:23:36,520
+que lui regardait
+
+393
+00:23:36,520 --> 00:23:38,620
+et on se disait
+
+394
+00:23:38,620 --> 00:23:40,820
+mais c'est pas possible, c'est de raconter
+
+395
+00:23:40,820 --> 00:23:43,020
+telle bêtise, de telle chose fausse aux gens
+
+396
+00:23:43,020 --> 00:23:45,020
+mais le problème c'est que les clients
+
+397
+00:23:45,020 --> 00:23:46,700
+vendeurs ou acquéreurs qui voient ça
+
+398
+00:23:46,700 --> 00:23:48,320
+eux, ils croient que c'est la réalité
+
+399
+00:23:48,319 --> 00:23:52,720
+Ah bah oui, Stéphane Plaza, c'est un vrai agent immobilier, donc ce qu'il fait, ce qu'il dit, c'est la réalité.
+
+400
+00:23:53,059 --> 00:23:55,659
+Alors qu'en fait, non, Stéphane Plaza, il fait de la télé.
+
+401
+00:23:55,980 --> 00:23:59,179
+Et puis il fait du théâtre, et puis il tabasse les femmes aussi, il fait apparemment.
+
+402
+00:23:59,819 --> 00:24:02,059
+Mais c'est une belle activité, n'est-ce pas ?
+
+403
+00:24:02,059 --> 00:24:03,819
+Monsieur très, très recommandable.
+
+404
+00:24:04,759 --> 00:24:07,419
+Donc tout ça, c'est de la télé, c'est pas la réalité.
+
+405
+00:24:07,980 --> 00:24:11,519
+Mais il y a eu une émission qui s'appelait Chasseurs d'appartements il y a un certain nombre d'années,
+
+406
+00:24:11,599 --> 00:24:15,579
+et donc ça a donné l'idée à tous les oseaux un peu opportunistes et un peu cupides
+
+407
+00:24:15,579 --> 00:24:19,859
+qui voulait gagner de l'argent, mais sans avoir à affronter les contraintes du métier d'agent immobilier.
+
+408
+00:24:19,960 --> 00:24:23,980
+C'est-à-dire, je ne vais pas être agent immobilier, je vais être chasseur d'appartements.
+
+409
+00:24:24,240 --> 00:24:25,720
+C'est beaucoup plus smart, déjà.
+
+410
+00:24:26,159 --> 00:24:27,759
+Chasseur d'appartements, s'il vous plaît, monsieur.
+
+411
+00:24:27,960 --> 00:24:31,500
+Pas agent immobilier comme grand-papa à l'époque, dans les années 50,
+
+412
+00:24:31,980 --> 00:24:36,799
+avec sa veste pied de poule et ses enveloppes de cash sous la table.
+
+413
+00:24:36,899 --> 00:24:39,299
+Non, non, non, je vais être chasseur d'appartements.
+
+414
+00:24:39,579 --> 00:24:42,579
+En quoi consiste le métier de chasseur d'appartements ?
+
+415
+00:24:42,579 --> 00:24:49,659
+Eh bien, à l'inverse du métier d'agent immobilier qui consiste à l'agent immobilier,
+
+416
+00:24:49,720 --> 00:24:53,299
+alors l'agent immobilier et les négociateurs, ils font partie de l'agent immobilier.
+
+417
+00:24:53,740 --> 00:24:56,480
+L'agent immobilier, il s'y prend de la manière suivante.
+
+418
+00:24:57,879 --> 00:25:05,139
+Premièrement, il entre ou rentre, parce que c'est vrai qu'entrer, c'est plutôt entrer, je vais le mettre, il rentre un mandat.
+
+419
+00:25:05,139 --> 00:25:07,460
+Parce qu'entre, c'est quand on entre dans une pièce.
+
+420
+00:25:07,839 --> 00:25:12,240
+Il rentre un mandat, c'est-à-dire un produit en portefeuille.
+
+421
+00:25:12,240 --> 00:25:21,200
+Il va trouver une maison et cette maison, il va la mettre en portefeuille, c'est-à-dire il va se la faire confier à la vente.
+
+422
+00:25:21,200 --> 00:25:35,779
+D'abord, il trouve le produit. Ensuite, il commercialise le produit, le mandat, par de la publicité.
+
+423
+00:25:36,940 --> 00:25:42,000
+Alors de la publicité, plein de publicités. Des flyers, des petites annonces sur Internet.
+
+424
+00:25:42,680 --> 00:25:47,700
+Il peut s'y prendre de mille manières différentes. Il fait de la publicité, c'est-à-dire il fait savoir à tout le monde
+
+425
+00:25:47,700 --> 00:25:50,880
+qu'il a ce nouveau mandat en portefeuille qui est là.
+
+426
+00:25:51,960 --> 00:25:59,180
+Troisièmement, il reçoit les appels des acquéreurs.
+
+427
+00:26:01,819 --> 00:26:03,080
+Il fait visiter.
+
+428
+00:26:05,840 --> 00:26:06,960
+Et il vend.
+
+429
+00:26:07,500 --> 00:26:08,059
+Enfin, il vend.
+
+430
+00:26:08,400 --> 00:26:09,319
+On espère qu'il vende.
+
+431
+00:26:10,600 --> 00:26:13,640
+Alors que notre ami chasseur d'appartements qui est là
+
+432
+00:26:13,640 --> 00:26:14,840
+et que je vais donc mettre en dessous,
+
+433
+00:26:14,839 --> 00:26:18,759
+Ah non, pas comme ça du tout
+
+434
+00:26:18,759 --> 00:26:24,659
+Le chasseur d'appartement, lui, il va renverser la chose
+
+435
+00:26:24,659 --> 00:26:28,699
+Le chasseur d'appartement, il s'y prend de la manière suivante
+
+436
+00:26:28,699 --> 00:26:33,259
+Il commence par recevoir
+
+437
+00:26:33,259 --> 00:26:36,399
+Donc il reçoit, je vais l'écrire de la même manière
+
+438
+00:26:36,399 --> 00:26:38,480
+L'appel
+
+439
+00:26:38,480 --> 00:26:41,919
+Les appels, j'ai écrit
+
+440
+00:26:41,919 --> 00:26:44,339
+Que je refasse quelque chose de similaire
+
+441
+00:26:44,339 --> 00:27:01,339
+des acquéreurs d'accord il rajoute une étape il étudie le recherche ensuite il
+
+442
+00:27:01,339 --> 00:27:08,179
+recherche les produits ce que nous on aurait appelé des mandats mais lui il
+
+443
+00:27:08,179 --> 00:27:14,139
+n'aura pas de mandat donc je les fasse il n'aura pas de mandat il recherche les
+
+444
+00:27:14,140 --> 00:27:17,900
+les produits correspondants à la recherche des acquéreurs,
+
+445
+00:27:18,520 --> 00:27:23,400
+il fait visiter et il vend.
+
+446
+00:27:24,580 --> 00:27:29,500
+Donc vous voyez qu'il a tout simplement renversé l'ordre
+
+447
+00:27:29,500 --> 00:27:31,740
+entre les acquéreurs et les vendeurs.
+
+448
+00:27:32,360 --> 00:27:35,180
+L'agent immobilier, lui, il passe par les vendeurs,
+
+449
+00:27:36,400 --> 00:27:38,980
+ce qui lui permet, grâce à la commercialisation,
+
+450
+00:27:39,680 --> 00:27:41,620
+de recevoir les acquéreurs.
+
+451
+00:27:41,619 --> 00:27:46,839
+Le chasseur d'appartements, lui, il passe par les acquéreurs
+
+452
+00:27:46,839 --> 00:27:52,159
+Et ensuite, alors, il zappe la commercialisation des produits qui coûtent très cher
+
+453
+00:27:52,159 --> 00:27:54,759
+Pas de publicité, pas de tout ça à payer
+
+454
+00:27:54,759 --> 00:27:57,799
+Encore la meilleure opportunité
+
+455
+00:27:57,799 --> 00:28:00,279
+Je vous parlais de cupidité, ça n'est pas pour rien
+
+456
+00:28:00,279 --> 00:28:07,879
+Et grâce à ces acquéreurs et à l'étude de leur recherche
+
+457
+00:28:07,879 --> 00:28:09,799
+Étude approfondie, bien entendu
+
+458
+00:28:09,799 --> 00:28:35,079
+Et à ce moment-là, il va rechercher les produits. Alors, bien entendu, comme ce chasseur d'appartements, soyons clairs, est un feignant qui ne veut pas faire la prospection, qu'est-ce qu'il fait ? Il se contente d'aller rechercher sur ce loger pour contacter les agences immobilières, leur dire j'ai un acquéreur, laissez-moi faire la vente.
+
+459
+00:28:35,079 --> 00:28:39,539
+C'est comme ça qu'il s'y prend
+
+460
+00:28:39,539 --> 00:28:41,019
+Il ne va pas prospecter les vendeurs
+
+461
+00:28:41,019 --> 00:28:44,639
+Non, prospecter les vendeurs, ça c'est bon pour les agents immobiliers
+
+462
+00:28:44,639 --> 00:28:48,179
+Ceux qui ne se sentent pas bons, les mauvais, les nuls, les affreux, les médiocres
+
+463
+00:28:48,179 --> 00:28:51,419
+Non, lui, il ne va pas s'abaisser à faire de la prospection
+
+464
+00:28:51,419 --> 00:28:54,299
+Puisque s'il est devenu chasseur d'appartement, c'est parce qu'il est incapable
+
+465
+00:28:54,299 --> 00:28:59,599
+Il n'a pas le courage, il n'est pas capable de se donner la peine de prospecter
+
+466
+00:28:59,599 --> 00:29:05,000
+Donc lui, il va se contenter d'appeler la forêt, ERA, la lucar de l'immobilier
+
+467
+00:29:05,000 --> 00:29:12,039
+IAD, de dire « Coucou, j'ai un acquéreur, faisons une visite. »
+
+468
+00:29:12,039 --> 00:29:16,220
+Quels sont les gros problèmes que ça pose ?
+
+469
+00:29:16,220 --> 00:29:21,640
+Le premier problème, et c'est pour ça que moi, j'en ai rencontré de ces chasseurs d'appartements,
+
+470
+00:29:22,299 --> 00:29:26,940
+des dizaines et des dizaines et des dizaines et des dizaines depuis toutes ces années.
+
+471
+00:29:29,019 --> 00:29:34,099
+Notamment, parce qu'on en a rencontré, excusez-moi, j'ai failli supprimer ça,
+
+472
+00:29:34,099 --> 00:29:36,319
+notamment parce qu'on en a rencontré beaucoup
+
+473
+00:29:36,319 --> 00:29:38,199
+dans notre processus de recrutement
+
+474
+00:29:38,199 --> 00:29:40,119
+des gens qui
+
+475
+00:29:40,119 --> 00:29:42,259
+venaient à la lucarne pour devenir
+
+476
+00:29:42,259 --> 00:29:43,839
+chasseurs d'appartements à la lucarne
+
+477
+00:29:43,839 --> 00:29:46,279
+parce qu'il leur faut une structure légale quand même
+
+478
+00:29:46,279 --> 00:29:48,079
+ils ne peuvent pas devenir chasseurs d'appartements
+
+479
+00:29:48,079 --> 00:29:50,359
+comme ça en s'inscrivant simplement au registre
+
+480
+00:29:50,359 --> 00:29:52,519
+du commerce, il leur faut une structure légale
+
+481
+00:29:52,519 --> 00:29:53,779
+il leur faut une agence immobilière
+
+482
+00:29:53,779 --> 00:29:56,799
+parce qu'à partir du moment où vous faites des ventes immobilières
+
+483
+00:29:56,799 --> 00:29:58,959
+que vous soyez dans le bon sens
+
+484
+00:29:58,959 --> 00:30:01,079
+le sens de mandat puis acquéreur
+
+485
+00:30:01,079 --> 00:30:03,039
+ou dans le mauvais sens, le sens de acquéreur
+
+486
+00:30:03,039 --> 00:30:05,279
+puis mandat, c'est une vente immobilière
+
+487
+00:30:05,279 --> 00:30:06,460
+donc c'est soumis à la loi Auger.
+
+488
+00:30:06,960 --> 00:30:09,079
+Il n'y a pas à discuter. Soumis à la loi Auger.
+
+489
+00:30:11,200 --> 00:30:13,119
+Si vous êtes soumis à la loi Auger, vous devez avoir
+
+490
+00:30:13,119 --> 00:30:15,119
+une structure d'agence immobilière avec une carte
+
+491
+00:30:15,119 --> 00:30:17,440
+de transaction, avec un registre
+
+492
+00:30:17,440 --> 00:30:19,339
+des mandats, avec toute la traçabilité.
+
+493
+00:30:19,539 --> 00:30:21,339
+Vous n'avez pas le choix. Donc on ne peut pas
+
+494
+00:30:21,339 --> 00:30:23,279
+se lancer en tant que chasseur d'appartement. Alors attention,
+
+495
+00:30:23,819 --> 00:30:25,000
+il y a 10-15 ans,
+
+496
+00:30:25,279 --> 00:30:27,299
+on en voyait beaucoup qui se lançaient comme ça
+
+497
+00:30:27,299 --> 00:30:29,359
+sans aucune structure. On disait non, non, mais moi je ne suis pas
+
+498
+00:30:29,359 --> 00:30:31,339
+agent immobilier, je suis chasseur
+
+499
+00:30:31,339 --> 00:30:33,299
+d'appartement. Alors, ils se sont fait rattraper par
+
+500
+00:30:33,299 --> 00:30:35,159
+les DGCCRF et par les tribunaux.
+
+501
+00:30:36,659 --> 00:30:37,359
+Il y a eu une
+
+502
+00:30:37,359 --> 00:30:38,980
+série de condamnations. Pas possible.
+
+503
+00:30:39,179 --> 00:30:41,259
+Non, vous faites des ventes immobilières, donc c'est la loi
+
+504
+00:30:41,259 --> 00:30:42,500
+au guet, et puis c'est tout.
+
+505
+00:30:44,379 --> 00:30:45,519
+Donc, il leur faut une structure
+
+506
+00:30:45,519 --> 00:30:47,319
+légale. On en a rencontré des dizaines, et
+
+507
+00:30:47,319 --> 00:30:49,419
+je vais être très sincère avec vous, de ma vie
+
+508
+00:30:49,419 --> 00:30:50,599
+entière, je n'ai jamais
+
+509
+00:30:50,599 --> 00:30:52,639
+rencontré, en France,
+
+510
+00:30:53,259 --> 00:30:55,339
+un chasseur d'appartement qui vive de son
+
+511
+00:30:55,339 --> 00:30:55,899
+activité.
+
+512
+00:30:57,699 --> 00:30:58,539
+Ce n'est pas possible.
+
+513
+00:30:59,679 --> 00:31:01,279
+Ce n'est pas possible. On ne peut pas vivre
+
+514
+00:31:01,279 --> 00:31:03,119
+de son activité en tant que chasseur d'appartement.
+
+515
+00:31:04,019 --> 00:31:04,779
+Pourquoi ?
+
+516
+00:31:04,779 --> 00:31:06,359
+Et bien ça, vous le comprenez tout seul,
+
+517
+00:31:06,420 --> 00:31:09,759
+parce que vous êtes les mieux placés
+
+518
+00:31:09,759 --> 00:31:12,619
+pour comprendre et expliquer que,
+
+519
+00:31:12,680 --> 00:31:15,099
+ben non, on ne peut pas d'abord avoir des acquéreurs
+
+520
+00:31:15,099 --> 00:31:16,899
+et rechercher un produit pour eux.
+
+521
+00:31:17,359 --> 00:31:18,220
+Ça ne peut pas marcher,
+
+522
+00:31:18,299 --> 00:31:21,339
+puisque les acquéreurs, ils viennent d'où ?
+
+523
+00:31:21,339 --> 00:31:23,920
+Dans l'organisation du marché immobilier français,
+
+524
+00:31:24,079 --> 00:31:25,259
+qu'on le veuille ou qu'on ne le veuille pas,
+
+525
+00:31:25,339 --> 00:31:26,420
+le marché immobilier français,
+
+526
+00:31:26,420 --> 00:31:28,759
+il est juridiquement et commercialement organisé
+
+527
+00:31:28,759 --> 00:31:29,859
+d'une certaine manière.
+
+528
+00:31:29,859 --> 00:31:32,579
+ça nous impose des contraintes
+
+529
+00:31:32,579 --> 00:31:35,039
+et une des contraintes est la suivante
+
+530
+00:31:35,039 --> 00:31:37,579
+les acquéreurs
+
+531
+00:31:37,579 --> 00:31:38,459
+viennent
+
+532
+00:31:38,459 --> 00:31:40,919
+grâce à la commercialisation
+
+533
+00:31:40,919 --> 00:31:42,519
+grâce aux publicités d'un mandat
+
+534
+00:31:42,519 --> 00:31:44,839
+c'est là qu'on a des acquéreurs
+
+535
+00:31:44,839 --> 00:31:46,579
+si on n'a pas de mandat
+
+536
+00:31:46,579 --> 00:31:48,439
+si on n'a pas de publicité, on n'a pas
+
+537
+00:31:48,439 --> 00:31:50,539
+d'acquéreur, on peut avoir
+
+538
+00:31:50,539 --> 00:31:51,919
+une ou deux personnes qui disent
+
+539
+00:31:51,919 --> 00:31:53,959
+ah t'es chasseur d'appartement, oh bah oui
+
+540
+00:31:53,959 --> 00:31:56,439
+avec ma femme on achèterait bien une belle maison
+
+541
+00:31:56,439 --> 00:31:58,559
+dans le Luberon, oui on peut avoir
+
+542
+00:31:58,559 --> 00:31:59,859
+par opportunité
+
+543
+00:31:59,859 --> 00:32:02,179
+des gens qui se déclarent acquéreurs,
+
+544
+00:32:02,279 --> 00:32:04,059
+alors est-ce qu'ils sont vraiment acquéreurs ?
+
+545
+00:32:04,059 --> 00:32:05,779
+Est-ce que ce sont des acquéreurs qualifiés ?
+
+546
+00:32:05,779 --> 00:32:07,759
+Ça, c'est une autre question. Généralement, non.
+
+547
+00:32:08,139 --> 00:32:08,879
+C'est juste, ah oui,
+
+548
+00:32:09,240 --> 00:32:11,960
+on déménagerait bien,
+
+549
+00:32:12,059 --> 00:32:13,039
+bah oui, pourquoi pas.
+
+550
+00:32:16,299 --> 00:32:17,700
+Mais ce ne sont pas des acquéreurs qualifiés.
+
+551
+00:32:17,819 --> 00:32:20,220
+Ou de temps en temps, vous trouvez un vrai acquéreur qualifié,
+
+552
+00:32:20,299 --> 00:32:22,159
+mais vous en avez un, vous en avez deux,
+
+553
+00:32:22,279 --> 00:32:23,200
+vous n'avez pas de quoi bouffer.
+
+554
+00:32:24,039 --> 00:32:25,440
+Vous n'avez pas de quoi manger.
+
+555
+00:32:26,419 --> 00:32:27,519
+Parce que cet acquéreur,
+
+556
+00:32:27,519 --> 00:32:44,660
+S'il est vraiment qualifié que c'est vraiment un acquéreur, lui, il fait aussi ses recherches de son côté. Il appelle sur ce loger, il appelle sur le bon coin, il appelle sur je ne sais pas quoi, il appelle les agences immobilières, il appelle les propriétaires en direct. Il fait sa recherche. Il ne vous dit pas, tenez, voilà, 20 000 euros, trouvez-moi la maison maintenant. Ça, ça n'existe pas.
+
+557
+00:32:44,660 --> 00:32:57,740
+Donc ça veut dire que ces chasseurs d'appartements, en fait, ils ont peut-être un ou deux ou trois demandes d'acquéreurs dans l'année et il doit leur trouver le bon produit, sachant que ces acquéreurs, ils cherchent aussi de leur côté.
+
+558
+00:32:58,480 --> 00:33:08,140
+Donc ça veut dire que mécaniquement, ils ne peuvent pas en vivre, ils ne peuvent pas faire suffisamment de ventes pour vivre de cette activité.
+
+559
+00:33:08,140 --> 00:33:26,140
+Parce qu'il n'existe pas dans notre marché immobilier en France, comme ça peut exister ailleurs, il n'existe pas dans notre marché immobilier en France une base de données des acquéreurs qu'on pourrait prospecter, à qui on pourrait dire « s'il vous plaît, confiez-moi la recherche de votre maison ».
+
+560
+00:33:26,140 --> 00:33:27,640
+Ça n'existe pas. Il n'y en a pas.
+
+561
+00:33:28,120 --> 00:33:34,520
+C'est la raison pour laquelle ces chasseurs d'appartements sont condamnés à échouer et à crever de faim
+
+562
+00:33:34,520 --> 00:33:44,900
+parce que les acquéreurs dont ils ont besoin à l'entrée de leur processus sont inexistants ou trop peu nombreux.
+
+563
+00:33:46,740 --> 00:33:52,820
+Donc, ces chasseurs d'appartements, première chose, ils sont voués à crever de faim.
+
+564
+00:33:52,819 --> 00:34:09,400
+Et si l'un d'entre vous connaît un chasseur d'appartement qui vit bien de son activité, alors là je suis vraiment preneur. Dites-le moi, dites-moi « Ah oui, je connais un tel, il est à tel endroit, lui il est chasseur d'appartement et je vous garantis qu'il vit bien ».
+
+565
+00:34:09,400 --> 00:34:18,200
+Alors moi je veux le voir ce mec, je veux le voir, je veux le rencontrer, parce que pour l'instant, je suis comme vous, je suis assez expérimenté,
+
+566
+00:34:18,780 --> 00:34:23,420
+j'en ai toujours pas vu après en avoir rencontré des dizaines et des dizaines et des dizaines et des dizaines et des dizaines.
+
+567
+00:34:24,000 --> 00:34:27,480
+Donc premièrement le chasseur d'appartements il est condamné à crever de faim.
+
+568
+00:34:28,460 --> 00:34:32,760
+Mais le gros problème c'est que comme ces gens ils crèvent de faim.
+
+569
+00:34:32,760 --> 00:34:38,420
+et ils sont perçus dans la profession immobilière
+
+570
+00:34:38,420 --> 00:34:39,980
+comme des parasites
+
+571
+00:34:39,980 --> 00:34:44,920
+parce qu'en fait, eux, ils ne veulent pas faire la démarche de prospection
+
+572
+00:34:44,920 --> 00:34:47,060
+ils ne veulent pas se donner cette peine
+
+573
+00:34:47,060 --> 00:34:48,240
+se donner ce mal
+
+574
+00:34:48,240 --> 00:34:50,780
+ils ne veulent pas faire les démarches de prospection
+
+575
+00:34:50,780 --> 00:34:56,500
+ils veulent manger la laine sur le dos
+
+576
+00:34:56,500 --> 00:34:59,080
+des agents immobiliers qui, eux, font ce travail de prospection
+
+577
+00:34:59,079 --> 00:35:03,199
+qui, eux, constituent un portefeuille cohérent.
+
+578
+00:35:03,960 --> 00:35:05,259
+Ils veulent se contenter de leur dire
+
+579
+00:35:05,259 --> 00:35:08,340
+« Coucou, moi, je viens bouffer dans votre gamelle, là.
+
+580
+00:35:08,860 --> 00:35:11,400
+Le plat que vous avez bien patiemment préparé
+
+581
+00:35:11,400 --> 00:35:13,360
+en y mettant de la peine, en y mettant du mal,
+
+582
+00:35:13,619 --> 00:35:15,199
+eh bien, moi, je viens picorer dedans. »
+
+583
+00:35:15,199 --> 00:35:17,219
+Les agents immobiliers détestent ça.
+
+584
+00:35:18,059 --> 00:35:19,279
+C'est la raison pour laquelle,
+
+585
+00:35:19,440 --> 00:35:21,460
+quand le chasseur d'appartements se pointe,
+
+586
+00:35:21,739 --> 00:35:23,659
+qui dit « Bonjour, j'ai un acquéreur, machin... »
+
+587
+00:35:23,659 --> 00:35:25,480
+Parce qu'un autre agent immobilier
+
+588
+00:35:25,480 --> 00:35:26,980
+qui vient faire un intercabinet
+
+589
+00:35:26,980 --> 00:35:28,860
+avec un premier agent immobilier,
+
+590
+00:35:29,079 --> 00:35:33,000
+Ça c'est une chose, c'est une bonne collaboration entre deux agents immobiliers.
+
+591
+00:35:33,119 --> 00:35:36,699
+Alors déjà, il y a des agents immobiliers qui ne veulent pas faire d'intercabinet et faire de collaboration.
+
+592
+00:35:36,960 --> 00:35:37,579
+Ils ne veulent pas du tout.
+
+593
+00:35:37,940 --> 00:35:40,380
+Ou alors sous des conditions extrêmement restrictives.
+
+594
+00:35:40,840 --> 00:35:42,940
+Bon, ils sont rares, mais ils existent.
+
+595
+00:35:43,279 --> 00:35:46,860
+L'immense majorité des agents immobiliers veulent bien collaborer avec un autre agent immobilier.
+
+596
+00:35:46,960 --> 00:35:49,840
+Par contre, les agents immobiliers, ils n'aiment pas collaborer avec les chasseurs d'appartement
+
+597
+00:35:49,840 --> 00:35:52,119
+parce qu'ils les prennent pour des parasites et des piques-assiettes
+
+598
+00:35:52,119 --> 00:35:55,000
+qui viennent tout simplement manger dans leur assiette.
+
+599
+00:35:56,000 --> 00:35:58,360
+Donc lorsqu'un chasseur d'appartement se pointe en disant
+
+600
+00:35:58,360 --> 00:36:07,059
+« Bonjour, j'ai un acquéreur. Les agents immobiliers, moi je n'ai pas envie de partager avec toi le feignant qui ne fait pas ton travail. Je ne veux pas partager.
+
+601
+00:36:08,059 --> 00:36:12,220
+Non, je ne veux pas diviser ma com parce que toi, tu ne veux pas faire ton boulot. »
+
+602
+00:36:12,220 --> 00:36:20,120
+Premier problème, les chasseurs d'appartements se heurtent à une réticence des vrais agents immobiliers qui ne veulent pas partager avec quelqu'un qui ne fait pas son travail.
+
+603
+00:36:20,340 --> 00:36:26,740
+Ils ne veulent pas diviser leur zone horaire par deux pour rendre service à un parasite qui, lui, ne veut pas bosser. Premièrement.
+
+604
+00:36:27,579 --> 00:36:30,059
+Deuxièmement, les chasseurs d'appartements, comme je vous ai dit,
+
+605
+00:36:30,179 --> 00:36:31,679
+déjà, ils ne se prennent pas pour des agents immobiliers.
+
+606
+00:36:31,739 --> 00:36:35,479
+« Oh, moi, je ne suis pas agent immobilier. Moi, je fais de la recherche. »
+
+607
+00:36:35,479 --> 00:36:42,699
+Et qu'ils ne vivent pas de leur activité, bien entendu, ils ne veulent pas partager les honoraires.
+
+608
+00:36:43,519 --> 00:36:46,359
+Ils ne veulent pas partager les honoraires parce que déjà qu'ils n'en vivent pas,
+
+609
+00:36:47,000 --> 00:36:48,279
+il faut qu'ils fassent des complains.
+
+610
+00:36:49,159 --> 00:36:51,079
+Donc, qu'est-ce qu'ils disent aux agents immobiliers ?
+
+611
+00:36:51,079 --> 00:36:53,319
+Ils disent « Non, non, non, mais vous n'en faites pas, on ne partagera pas.
+
+612
+00:36:53,320 --> 00:36:55,500
+parce que moi, mes honoraires à moi,
+
+613
+00:36:55,559 --> 00:36:56,880
+parce que moi, je suis chasseur d'appartement,
+
+614
+00:36:57,059 --> 00:36:58,380
+je ne suis pas un clodo comme vous,
+
+615
+00:36:59,120 --> 00:37:00,180
+mes honoraires à moi,
+
+616
+00:37:01,080 --> 00:37:05,400
+ils seront en plus de votre rémunération à vous.
+
+617
+00:37:05,880 --> 00:37:07,340
+C'est-à-dire que vous, l'agent immobilier,
+
+618
+00:37:07,420 --> 00:37:10,760
+vous conserverez vos honoraires à 100%
+
+619
+00:37:10,760 --> 00:37:17,660
+et moi, je facturerai des honoraires en plus à mon acquéreur.
+
+620
+00:37:18,340 --> 00:37:20,120
+Donc, vos honoraires, ils ne seront pas partagés.
+
+621
+00:37:20,200 --> 00:37:23,160
+Vous les conserverez, vous, monsieur l'agent immobilier, à 100%.
+
+622
+00:37:23,159 --> 00:37:26,460
+Ah, je suis rassuré, je ne vais pas partager avec un parasite.
+
+623
+00:37:26,799 --> 00:37:30,239
+Non, non, non, non, moi je fais une autre prestation.
+
+624
+00:37:32,299 --> 00:37:35,159
+Je facturerai des honoraires en plus.
+
+625
+00:37:36,559 --> 00:37:39,719
+Mais ça, je pense que vous le voyez arriver.
+
+626
+00:37:40,599 --> 00:37:44,159
+Qu'est-ce que ça pose comme énorme problème, ça ?
+
+627
+00:37:44,159 --> 00:37:48,059
+Qu'est-ce que ça pose comme énorme problème ?
+
+628
+00:37:48,059 --> 00:37:51,359
+Un problème tout simple, c'est illégal.
+
+629
+00:37:51,360 --> 00:37:56,400
+C'est absolument illégal.
+
+630
+00:37:59,019 --> 00:38:12,039
+On n'a pas le droit. Pourquoi ? Je vais vous montrer un mandat qui vient d'être fait par l'un d'entre vous.
+
+631
+00:38:12,039 --> 00:38:25,480
+tiens, allons voir Patrick. Est-ce que Patrick est avec nous aujourd'hui ? Non, on a Patrick
+
+632
+00:38:25,480 --> 00:38:35,039
+en Bretagne, mais là, ce n'est pas Patrick en Bretagne, c'est Patrick à Arconais en
+
+633
+00:38:35,039 --> 00:38:48,800
+72 à ce mandat ici il indique 330 mille euros 4% d'un horaire
+
+634
+00:38:50,599 --> 00:38:58,699
+330 euros 4% d'un horaire il n'y a pas écrit 4% d'un horaire plus
+
+635
+00:38:58,699 --> 00:39:02,579
+dix mille euros pour un zozo de pique-assiette qui se pointe comme ça il
+
+636
+00:39:02,579 --> 00:39:04,139
+il y a écrit 4%.
+
+637
+00:39:04,139 --> 00:39:07,579
+Ça veut dire que, à la sortie,
+
+638
+00:39:09,340 --> 00:39:10,840
+au moment où le mandat sera vendu,
+
+639
+00:39:11,819 --> 00:39:15,779
+il ne pourra être facturé à l'acquéreur que 4% du net vendeur.
+
+640
+00:39:16,380 --> 00:39:20,219
+Pas 4% plus je-ne-sais-pas-quoi qui n'a pas été prévu au mandat.
+
+641
+00:39:22,179 --> 00:39:25,199
+S'il y a écrit 4% au mandat, ce sera 4% à la sortie.
+
+642
+00:39:25,199 --> 00:39:29,219
+4% maximum, puisqu'aujourd'hui, depuis 2-3 ans,
+
+643
+00:39:29,219 --> 00:39:34,599
+on a récupéré quand même de la liberté de négociation à la baisse des honoraires,
+
+644
+00:39:34,959 --> 00:39:37,079
+qu'on n'avait plus du tout pendant un certain nombre d'années.
+
+645
+00:39:37,179 --> 00:39:38,339
+Mais on en a récupéré un petit peu.
+
+646
+00:39:39,099 --> 00:39:47,059
+Donc ça veut dire que mes 4% ne laissent pas la place à une deuxième série d'honoraires à facturer à l'acquéreur.
+
+647
+00:39:47,659 --> 00:39:51,719
+C'est absolument impossible et illégal.
+
+648
+00:39:51,719 --> 00:39:57,019
+Alors ça, quand on dit aux chasseurs d'appartements
+
+649
+00:39:57,019 --> 00:39:59,399
+Non, non, non, c'est très légal
+
+650
+00:39:59,399 --> 00:40:00,659
+Parce que moi, ce n'est pas pareil
+
+651
+00:40:00,659 --> 00:40:01,939
+Je ne suis pas agent immobilier
+
+652
+00:40:01,939 --> 00:40:03,459
+Pas complètement, pas exactement
+
+653
+00:40:03,459 --> 00:40:05,679
+Pas tout à fait, pas vraiment
+
+654
+00:40:05,679 --> 00:40:07,099
+Si, tu es agent immobilier
+
+655
+00:40:07,099 --> 00:40:09,039
+Juridiquement, tu es agent immobilier
+
+656
+00:40:09,039 --> 00:40:09,579
+Et c'est tout
+
+657
+00:40:09,579 --> 00:40:12,039
+Tu n'es rien d'autre
+
+658
+00:40:12,039 --> 00:40:14,699
+Tu n'as pas le droit d'être autre chose qu'agent immobilier
+
+659
+00:40:14,699 --> 00:40:16,419
+Sauf si tu es notaire ou avocat
+
+660
+00:40:16,419 --> 00:40:19,199
+Les notaires et les avocats ont la possibilité
+
+661
+00:40:19,199 --> 00:40:20,359
+Sous certaines conditions
+
+662
+00:40:20,360 --> 00:40:24,820
+de faire des transactions immobilières, sous certaines conditions, bien sûr,
+
+663
+00:40:25,900 --> 00:40:28,940
+mais en dehors des notariés et des avocats, il n'y a que les agents immobiliers
+
+664
+00:40:28,940 --> 00:40:32,300
+et leurs négociateurs, bien sûr, les collaborateurs des agents immobiliers.
+
+665
+00:40:33,740 --> 00:40:36,120
+Si vous n'êtes pas agent immobilier, cher monsieur,
+
+666
+00:40:36,500 --> 00:40:39,559
+vous n'avez pas le droit de faire de vente.
+
+667
+00:40:40,460 --> 00:40:42,940
+Donc, si vous venez faire une vente, c'est que vous êtes agent immobilier,
+
+668
+00:40:43,380 --> 00:40:45,500
+et donc vous êtes soumis à la loi au guet,
+
+669
+00:40:45,500 --> 00:40:53,099
+Et vous êtes soumis au mandat de vente initial sur lequel la transaction se fera.
+
+670
+00:40:53,619 --> 00:40:56,420
+Oui, mais moi j'ai un mandat de recherche avec mes acquéreurs.
+
+671
+00:40:56,699 --> 00:41:00,380
+Eh bien, si vous avez un mandat de recherche, c'est pareil, on prend les honoraires prévus au mandat de recherche.
+
+672
+00:41:01,019 --> 00:41:04,940
+On ne peut pas faire les honoraires du mandat de recherche plus les honoraires du mandat de vente.
+
+673
+00:41:05,320 --> 00:41:06,860
+Ça, ça s'appelle une escroquerie.
+
+674
+00:41:08,519 --> 00:41:10,460
+C'est du pénal.
+
+675
+00:41:12,340 --> 00:41:13,500
+Ça n'est pas possible.
+
+676
+00:41:15,500 --> 00:41:18,860
+d'ailleurs si le notaire
+
+677
+00:41:18,860 --> 00:41:20,760
+s'aperçoit de cette histoire
+
+678
+00:41:20,760 --> 00:41:22,019
+qu'il y a double d'honoraires
+
+679
+00:41:22,019 --> 00:41:24,019
+par rapport à ce qui est prévu au mandat
+
+680
+00:41:24,019 --> 00:41:25,880
+le notaire normalement il doit dire
+
+681
+00:41:25,880 --> 00:41:28,340
+stop là qu'est-ce que c'est que cette histoire
+
+682
+00:41:28,340 --> 00:41:29,199
+c'est un
+
+683
+00:41:29,199 --> 00:41:31,300
+pas possible
+
+684
+00:41:31,300 --> 00:41:32,900
+pas envisageable
+
+685
+00:41:32,900 --> 00:41:37,000
+alors là le chasseur d'appartement
+
+686
+00:41:37,000 --> 00:41:38,219
+dira oui mais non
+
+687
+00:41:38,219 --> 00:41:40,320
+parce que moi c'est autre chose
+
+688
+00:41:40,320 --> 00:41:42,059
+moi c'est pour faire de la décoration
+
+689
+00:41:42,059 --> 00:41:44,219
+et il y en a un qu'on a trouvé
+
+690
+00:41:44,219 --> 00:41:45,779
+il y a quelques jours
+
+691
+00:41:45,779 --> 00:41:47,719
+en en discutant avec Mickaël
+
+692
+00:41:47,719 --> 00:41:49,639
+un de ses chasseurs d'appartements
+
+693
+00:41:49,639 --> 00:41:52,500
+qui avait contacté Mickaël
+
+694
+00:41:52,500 --> 00:41:54,539
+dans les Deux-Sèvres et on en a parlé
+
+695
+00:41:54,539 --> 00:41:56,739
+et effectivement on a regardé au greffe
+
+696
+00:41:56,739 --> 00:41:58,139
+et lui il se déclare comme
+
+697
+00:41:58,139 --> 00:41:59,539
+décorateur d'intérieur
+
+698
+00:41:59,539 --> 00:42:02,719
+donc déjà en tant que décorateur d'intérieur
+
+699
+00:42:02,719 --> 00:42:05,339
+il n'a pas du tout le droit de faire des transactions immobilières
+
+700
+00:42:05,339 --> 00:42:07,379
+on est d'accord
+
+701
+00:42:07,379 --> 00:42:09,919
+et ça lui permet
+
+702
+00:42:09,919 --> 00:42:10,480
+derrière de dire
+
+703
+00:42:10,480 --> 00:42:13,239
+oui mais voyez ce que je vous ai facturé
+
+704
+00:42:13,239 --> 00:42:17,859
+« Monsieur l'acquireur, c'est une prestation de décoration d'intérieur, de machin. »
+
+705
+00:42:17,859 --> 00:42:19,519
+Non, là, c'est une recherche d'appartement, monsieur.
+
+706
+00:42:19,699 --> 00:42:21,199
+Une recherche d'appartement, c'est la loi Auguet.
+
+707
+00:42:23,000 --> 00:42:26,379
+Donc, vous le comprenez bien, lorsqu'un chasseur d'appartement
+
+708
+00:42:26,379 --> 00:42:29,819
+vient vous voir et vous dit
+
+709
+00:42:29,819 --> 00:42:34,579
+« Non, mais ne vous en faites pas, vos honoraires à vous ne seront pas entamés,
+
+710
+00:42:34,719 --> 00:42:38,799
+ne seront pas partagés, parce que moi, je suis chasseur d'appartement
+
+711
+00:42:38,799 --> 00:42:40,359
+et pas agent immobilier.
+
+712
+00:42:40,360 --> 00:43:10,340
+« Je facture donc des honoraires, une commission, il appelle ça comme il veut, en plus de vos honoraires, c'est absolument illégal. Il s'agit d'une prestation fictive pour essayer de se soustraire à la loi au gay. »
+
+713
+00:43:10,340 --> 00:43:27,380
+Alors je suis sûr que si on faisait un petit sondage rapidement dans le chat, vous seriez nombreux à dire « oui, j'ai déjà rencontré des gens comme ça, j'ai déjà vu des gens comme ça qui me proposaient ça, c'est vrai que ça m'a paru un peu bizarre ».
+
+714
+00:43:27,380 --> 00:43:30,160
+Qui parmi vous en a déjà rencontré ? N'hésitez pas à me le dire là sur le chat.
+
+715
+00:43:30,220 --> 00:43:31,539
+Oui, oui, j'en ai déjà vu, j'en ai déjà vu.
+
+716
+00:43:32,900 --> 00:43:34,260
+C'est absolument illégal.
+
+717
+00:43:35,240 --> 00:43:38,119
+Ils essayent de se faire passer pour des gens qui ne sont pas soumis à la loi Augais.
+
+718
+00:43:38,579 --> 00:43:42,119
+Or, à partir du moment où ils font une transaction immobilière, ils sont soumis à la loi Augais.
+
+719
+00:43:43,119 --> 00:43:50,440
+Et donc, à partir du moment où ils sont soumis à la loi Augais, ils doivent respecter les plafonnements d'honoraires prévus au mandat.
+
+720
+00:43:50,800 --> 00:43:54,140
+Que ce soit un mandat de vente ou un mandat de recherche.
+
+721
+00:43:54,759 --> 00:43:59,219
+D'ailleurs, les mandats de recherche, ce n'est pas pour rien que les DGCCRF les combattent tant qu'ils peuvent.
+
+722
+00:43:59,219 --> 00:44:05,119
+Ils ne sont pas illégaux, mais ils sont très mal vus par les DGCCRF parce que ce sont des outils de fraude.
+
+723
+00:44:06,079 --> 00:44:12,239
+Le mandat de recherche qui, normalement, a légalement, juridiquement, une légitimité,
+
+724
+00:44:13,279 --> 00:44:17,779
+ils sont malheureusement, dans l'immense majorité, utilisés à des fins frauduleuses.
+
+725
+00:44:17,780 --> 00:44:24,220
+C'est la raison pour laquelle ils sont aussi mal vus et aussi pourchassés par les DGCCRF.
+
+726
+00:44:26,140 --> 00:44:28,519
+Catherine dit qu'elle en a rencontré il y en a très longtemps.
+
+727
+00:44:28,780 --> 00:44:30,400
+Maryse en a déjà croisé aussi.
+
+728
+00:44:30,660 --> 00:44:33,240
+J'ai déjà été contacté par ce genre de personnes, dit Marc.
+
+729
+00:44:33,680 --> 00:44:37,220
+Recherche pas sérieuse, j'ai laissé le propriétaire décider, dit Christelle.
+
+730
+00:44:38,740 --> 00:44:45,500
+Donc, ne vous laissez pas avoir par ces gens qui vous font des belles promesses d'une transaction
+
+731
+00:44:45,500 --> 00:44:48,460
+comme ça qui se fera facilement parce qu'ils ont un super acquéreur
+
+732
+00:44:48,460 --> 00:44:49,500
+parfaitement qualifié
+
+733
+00:44:49,500 --> 00:44:52,300
+non 9 fois sur 10 l'acquéreur n'est pas du tout qualifié
+
+734
+00:44:52,300 --> 00:44:53,119
+c'est n'importe quoi
+
+735
+00:44:53,119 --> 00:44:56,719
+parce que ces gens n'ont aucune formation
+
+736
+00:44:56,719 --> 00:44:58,260
+aucune méthode
+
+737
+00:44:58,260 --> 00:44:59,420
+ce sont des cow-boys
+
+738
+00:44:59,420 --> 00:45:02,960
+qui essayent de se faire passer pour des pas agents immobiliers
+
+739
+00:45:02,960 --> 00:45:04,760
+qu'ils ont l'obligation d'être
+
+740
+00:45:04,760 --> 00:45:05,440
+cependant
+
+741
+00:45:05,440 --> 00:45:07,820
+avec une carte professionnelle
+
+742
+00:45:07,820 --> 00:45:10,719
+donc ne vous laissez pas raconter
+
+743
+00:45:10,719 --> 00:45:11,840
+ces belles histoires
+
+744
+00:45:11,840 --> 00:45:14,679
+même une demande de visite pour M6
+
+745
+00:45:14,679 --> 00:45:15,980
+Ah oui, ça c'était juste avant Christelle.
+
+746
+00:45:17,699 --> 00:45:23,039
+Ne vous laissez pas avoir par ces gens qui vous promettent monts et merveilles.
+
+747
+00:45:23,879 --> 00:45:27,179
+C'est n'importe quoi, c'est de l'arnaque, ça n'ira nulle part.
+
+748
+00:45:27,619 --> 00:45:28,299
+Passez votre chemin.
+
+749
+00:45:28,739 --> 00:45:31,559
+Vous dites à la personne, c'est pas compliqué, moi j'ai 4% d'honoraires,
+
+750
+00:45:31,659 --> 00:45:35,179
+ces 4% on les partage conformément aux règles en vigueur.
+
+751
+00:45:35,299 --> 00:45:37,539
+A partir du moment où il vous dit non, non, non, on ne partage pas,
+
+752
+00:45:37,619 --> 00:45:39,739
+moi j'ai des honoraires en plus, vous savez qu'il ne faut pas aller plus loin.
+
+753
+00:45:40,419 --> 00:45:42,879
+C'est quelqu'un qui n'est pas sérieux et qui n'est pas honnête,
+
+754
+00:45:42,880 --> 00:45:44,559
+qui enfreint la loi.
+
+755
+00:45:45,360 --> 00:45:46,840
+Alors, certains d'entre vous, ces chasseurs
+
+756
+00:45:46,840 --> 00:45:48,740
+d'appartements, d'ailleurs, enfreignent la loi en étant
+
+757
+00:45:48,740 --> 00:45:50,200
+persuadés d'en avoir le droit.
+
+758
+00:45:51,180 --> 00:45:53,039
+Ce ne sont pas tous des bandits
+
+759
+00:45:53,039 --> 00:45:54,519
+qui se disent, bon, moi, je suis un bandit,
+
+760
+00:45:54,800 --> 00:45:56,860
+j'arnaque les gens, j'escroque les gens, je le sais
+
+761
+00:45:56,860 --> 00:45:58,380
+et je l'assume. Ah non, non, non, non, non.
+
+762
+00:45:58,700 --> 00:46:00,820
+Un certain nombre d'entre eux, ils sont persuadés d'être dans
+
+763
+00:46:00,820 --> 00:46:02,480
+la légalité la plus parfaite.
+
+764
+00:46:03,059 --> 00:46:04,960
+Ah non, j'ai le droit, puisque moi, c'est pas
+
+765
+00:46:04,960 --> 00:46:07,140
+pareil, je suis décorateur d'intérieur aussi,
+
+766
+00:46:07,460 --> 00:46:08,700
+donc je fais aussi ça,
+
+767
+00:46:08,860 --> 00:46:10,960
+je fais des travaux, je fais des machins, je fais des trucs.
+
+768
+00:46:10,960 --> 00:46:20,179
+Dans 9 cas sur 10, d'ailleurs, ils déguisent ça dans une fausse prestation de travaux, de décorations d'intérieur, etc.
+
+769
+00:46:20,380 --> 00:46:22,139
+On a eu ça tellement, tellement, tellement souvent.
+
+770
+00:46:23,159 --> 00:46:29,800
+Donc, ne vous laissez pas raconter ces belles histoires par ces gens qui sont des bandits.
+
+771
+00:46:31,480 --> 00:46:33,039
+Et passez votre chemin.
+
+772
+00:46:33,039 --> 00:46:40,740
+Alors, avant, vous leur dites, on partage les honoraires, 4%, 10 000 euros, 15 000 euros, 20 000 euros.
+
+773
+00:46:40,960 --> 00:46:43,019
+s'ils disent oui oui bien sûr on partage
+
+774
+00:46:43,019 --> 00:46:44,280
+il n'y a pas de problème, là vous dites ah d'accord
+
+775
+00:46:44,280 --> 00:46:47,099
+donc là c'est une recherche qui peut être sérieuse, éventuellement on peut avancer
+
+776
+00:46:47,099 --> 00:46:48,539
+on fait attention mais on peut avancer
+
+777
+00:46:48,539 --> 00:46:51,220
+à partir du moment où cette personne vous dit non non non on partage pas
+
+778
+00:46:51,220 --> 00:46:53,500
+moi j'ai mes honoraires en plus, ils sont différents
+
+779
+00:46:53,500 --> 00:46:54,920
+ils sont séparés, non ça y est
+
+780
+00:46:54,920 --> 00:46:57,440
+bonne journée, au revoir, à jamais, ne me recontacter plus
+
+781
+00:46:57,440 --> 00:46:58,000
+c'est pas la peine
+
+782
+00:46:58,000 --> 00:47:01,000
+allez voir Orpi et IAD, ils seront très contents
+
+783
+00:47:01,000 --> 00:47:03,039
+de faire des ventes avec vous, ça ne leur posera pas de problème
+
+784
+00:47:03,039 --> 00:47:04,860
+nous, ça nous pose des problèmes
+
+785
+00:47:04,860 --> 00:47:06,360
+allez, basta
+
+786
+00:47:06,360 --> 00:47:08,860
+à jamais, et bonne année
+
+787
+00:47:08,860 --> 00:47:12,620
+Alors, est-ce que vous avez des questions là-dessus ?
+
+788
+00:47:12,620 --> 00:47:14,300
+Déjà, je vais remonter parce qu'il y a eu pas mal de commentaires
+
+789
+00:47:14,300 --> 00:47:14,860
+Avant
+
+790
+00:47:14,860 --> 00:47:20,140
+Ah oui, je vais vous montrer éventuellement les enregistrements
+
+791
+00:47:20,140 --> 00:47:21,940
+Où vous allez les chercher, bien sûr
+
+792
+00:47:21,940 --> 00:47:24,340
+Bonne année à tous, bonne et heureuse année
+
+793
+00:47:24,340 --> 00:47:26,320
+Bonne année à vous, à toute l'équipe
+
+794
+00:47:26,320 --> 00:47:27,079
+De Camille
+
+795
+00:47:27,079 --> 00:47:30,140
+De Sandrine
+
+796
+00:47:30,140 --> 00:47:32,320
+Bien entendu, meilleur vœu, Eric
+
+797
+00:47:32,320 --> 00:47:33,940
+Corinne
+
+798
+00:47:33,940 --> 00:47:36,760
+Angie, ma chienne, adorait votre écran avec les animaux
+
+799
+00:47:36,760 --> 00:47:38,420
+Ah bah oui, c'est normal que c'est des petits animaux
+
+800
+00:47:38,420 --> 00:47:40,220
+enfin des gros aussi, les animaux de la savane
+
+801
+00:47:40,220 --> 00:47:42,760
+pour une fois que je peux être présent le matin
+
+802
+00:47:42,760 --> 00:47:44,960
+nous dit Marc, parce que Marc était le plus matinal
+
+803
+00:47:44,960 --> 00:47:46,079
+belle et heureuse année
+
+804
+00:47:46,079 --> 00:47:48,940
+de la part de Corinne
+
+805
+00:47:48,940 --> 00:47:50,380
+bonne année de Hugues
+
+806
+00:47:50,380 --> 00:47:51,860
+on va se voir bientôt, Hugues
+
+807
+00:47:51,860 --> 00:47:54,900
+alors Marc dit effectivement c'est très compliqué le matin
+
+808
+00:47:54,900 --> 00:47:56,740
+Marjorie dit
+
+809
+00:47:56,740 --> 00:47:58,420
+pas de soucis pour faire le
+
+810
+00:47:58,420 --> 00:48:00,400
+le sondage
+
+811
+00:48:00,400 --> 00:48:02,380
+sur le groupe Facebook, bah écoutez
+
+812
+00:48:02,380 --> 00:48:04,380
+on verra ça, merci beaucoup
+
+813
+00:48:04,380 --> 00:48:06,380
+Pierre, alors qu'on a plusieurs
+
+814
+00:48:06,380 --> 00:48:08,300
+Pierre, Pierre Mainviel dit effectivement le matin
+
+815
+00:48:08,300 --> 00:48:09,320
+c'est plus difficile
+
+816
+00:48:09,320 --> 00:48:12,640
+Marc dit, moi je préférerais le soir
+
+817
+00:48:12,640 --> 00:48:14,700
+Michel dit, moi je suis
+
+818
+00:48:14,700 --> 00:48:16,480
+pas disponible jeudi soir car
+
+819
+00:48:16,480 --> 00:48:18,820
+je suis investi dans la vie associative
+
+820
+00:48:18,820 --> 00:48:20,680
+Julien dit
+
+821
+00:48:20,680 --> 00:48:22,640
+désolé pour le retard, compliqué d'être à l'heure
+
+822
+00:48:22,640 --> 00:48:23,080
+le matin
+
+823
+00:48:23,080 --> 00:48:26,580
+avec plaisir Marjorie
+
+824
+00:48:26,580 --> 00:48:28,580
+le fera, bonjour, oui c'est super
+
+825
+00:48:28,580 --> 00:48:30,320
+est-ce que le viager sera possible cette année ?
+
+826
+00:48:30,320 --> 00:48:32,220
+oui absolument, absolument
+
+827
+00:48:32,220 --> 00:48:34,440
+tout à fait, ça fait partie des choses qu'on met en place
+
+828
+00:48:34,440 --> 00:48:35,160
+en 2026
+
+829
+00:48:35,159 --> 00:48:37,299
+la galère
+
+830
+00:48:37,299 --> 00:48:39,059
+j'ai pas internet à cause de la neige
+
+831
+00:48:39,059 --> 00:48:41,399
+aïe, j'ai du bricoler ma connexion
+
+832
+00:48:41,399 --> 00:48:43,059
+pour vous suivre, écoutez bravo
+
+833
+00:48:43,059 --> 00:48:44,859
+à vous Véro d'être là malgré
+
+834
+00:48:44,859 --> 00:48:46,659
+les problèmes de neige, alors nous à Paris
+
+835
+00:48:46,659 --> 00:48:48,819
+là il neige plus, c'est en train de fondre
+
+836
+00:48:48,819 --> 00:48:50,839
+gentiment, il devait pleuvoir pour
+
+837
+00:48:50,839 --> 00:48:52,920
+laver la neige, il n'a pas plu mais c'est en train
+
+838
+00:48:52,920 --> 00:48:54,659
+de fondre gentiment
+
+839
+00:48:54,659 --> 00:48:57,179
+moi j'aime la prospection, les gens sont sympas voire très bavards
+
+840
+00:48:57,179 --> 00:48:58,879
+ah bah oui Véro, les gens bavards
+
+841
+00:48:58,879 --> 00:49:01,219
+elles connaissent, mais j'aime moins la neige
+
+842
+00:49:01,219 --> 00:49:02,839
+même une demande pour M6
+
+843
+00:49:02,839 --> 00:49:05,079
+donc disait Christelle et après ce sont les agents
+
+844
+00:49:05,079 --> 00:49:07,519
+qui dit « Oui, une bonne femme qui n'aimait pas prospecter
+
+845
+00:49:07,519 --> 00:49:09,360
+m'a déjà appelé me disant qu'elle avait des acquéreurs
+
+846
+00:49:09,360 --> 00:49:11,539
+pour des biens que j'avais, nous dit Hugues. »
+
+847
+00:49:11,539 --> 00:49:12,699
+Ben voilà, c'est exactement ça.
+
+848
+00:49:13,980 --> 00:49:16,019
+« J'ai reçu des appels du pôle recherche
+
+849
+00:49:16,019 --> 00:49:17,779
+d'une agence espace atypique.
+
+850
+00:49:18,059 --> 00:49:19,739
+Effectivement, la personne m'affirme que nos horaires
+
+851
+00:49:19,739 --> 00:49:21,759
+ne seront pas partagés, nous dit Corinne. »
+
+852
+00:49:21,759 --> 00:49:23,139
+Ben voilà, exactement.
+
+853
+00:49:24,380 --> 00:49:26,099
+« Je n'ai pas réalisé la visite.
+
+854
+00:49:26,179 --> 00:49:27,139
+Pas sérieux, nous dit Christelle.
+
+855
+00:49:28,400 --> 00:49:31,119
+À Auxerre, j'ai Delphine Four. »
+
+856
+00:49:31,119 --> 00:49:32,699
+Ah ça, je ne sais pas de quoi vous parlez,
+
+857
+00:49:32,779 --> 00:49:34,639
+Michel, mais on pourra éventuellement en reparler.
+
+858
+00:49:35,079 --> 00:49:55,519
+Bonne année à tous, nous dit Joachim. Très belle et heureuse année de la part de Sybille. Merci beaucoup. Merveilleuse année de Maryse. Aurons-nous une formation viagée ? Oui, absolument. Il y en aura deux. Elle sera faite plusieurs fois, mais ce sera en deux parties. Une partie juridique et une partie commerciale. Partie juridique avec moi, commerciale avec Laurent.
+
+859
+00:49:55,519 --> 00:49:58,599
+parfait le matin
+
+860
+00:49:58,599 --> 00:50:00,360
+moi je garde les petits le soir
+
+861
+00:50:00,360 --> 00:50:01,059
+nous dit Maryse
+
+862
+00:50:01,059 --> 00:50:02,840
+vous voyez Maryse elle est comme Michel
+
+863
+00:50:02,840 --> 00:50:03,920
+elle préfère le matin
+
+864
+00:50:03,920 --> 00:50:07,139
+elle est inscrite en tant que conseil
+
+865
+00:50:07,139 --> 00:50:09,320
+je comprends pour Delphine Four
+
+866
+00:50:09,320 --> 00:50:11,340
+de Michel à Auxerre
+
+867
+00:50:11,340 --> 00:50:13,759
+elle est inscrite en tant que conseil en relations publiques
+
+868
+00:50:13,759 --> 00:50:14,519
+et communication
+
+869
+00:50:14,519 --> 00:50:17,960
+c'est exactement ce que je vous expliquais
+
+870
+00:50:17,960 --> 00:50:19,800
+ils ont un autre code APE
+
+871
+00:50:19,800 --> 00:50:21,340
+pour dire moi je ne suis pas agent immobilier
+
+872
+00:50:21,340 --> 00:50:25,700
+à partir du moment où vous faites une transaction immobilière
+
+873
+00:50:25,700 --> 00:50:27,980
+de près ou de loin, vous devez vous conformer
+
+874
+00:50:27,980 --> 00:50:29,140
+à 100% à la loi Hogan
+
+875
+00:50:29,140 --> 00:50:31,120
+donc carte de transaction
+
+876
+00:50:31,120 --> 00:50:34,320
+soit de négociateur, soit d'agent immobilier
+
+877
+00:50:34,320 --> 00:50:36,140
+registre des mandats
+
+878
+00:50:36,140 --> 00:50:38,680
+immatriculation à la CCI
+
+879
+00:50:38,680 --> 00:50:42,380
+tout le toutime
+
+880
+00:50:42,380 --> 00:50:44,120
+il n'y a pas de moyen
+
+881
+00:50:44,120 --> 00:50:44,760
+d'y échapper
+
+882
+00:50:44,760 --> 00:50:46,920
+il n'y a pas de moyen d'y échapper
+
+883
+00:50:46,920 --> 00:50:50,200
+quand vous êtes notaire ou avocat
+
+884
+00:50:50,199 --> 00:51:01,759
+C'est un tout petit peu différent. Pas beaucoup. Vous devez avoir un numéro de mandat. Vous devez avoir tout ça aussi. Vous devez aussi vous conformer à la loi. Mais les conditions sont un petit peu différentes.
+
+885
+00:51:01,760 --> 00:51:04,940
+alors en tout cas
+
+886
+00:51:04,940 --> 00:51:06,980
+conseil en relations publiques et communication
+
+887
+00:51:06,980 --> 00:51:09,820
+c'est ni notaire, ni avocat, ni agent immobilier
+
+888
+00:51:09,820 --> 00:51:11,600
+j'ai eu Plaza qui voulait faire une émission
+
+889
+00:51:11,600 --> 00:51:13,300
+dont on exclut de Beaune il y a deux ans
+
+890
+00:51:13,300 --> 00:51:14,600
+le vendeur et moi on a dit non
+
+891
+00:51:14,600 --> 00:51:16,760
+vous avez bien fait parce qu'en fait
+
+892
+00:51:16,760 --> 00:51:19,560
+ils vous auraient mené en bateau pour faire n'importe quoi
+
+893
+00:51:19,560 --> 00:51:20,520
+pour faire leur cinéma
+
+894
+00:51:20,520 --> 00:51:23,340
+et puis ils auraient fait passer
+
+895
+00:51:23,340 --> 00:51:25,200
+et vous et le vendeur pour un con
+
+896
+00:51:25,200 --> 00:51:26,220
+donc
+
+897
+00:51:26,220 --> 00:51:29,340
+le matin je ne rate pas le rendez-vous
+
+898
+00:51:29,340 --> 00:51:30,740
+visio dit Christelle
+
+899
+00:51:30,739 --> 00:51:35,019
+Alors, on a vu la question des chasseurs d'appartements
+
+900
+00:51:35,019 --> 00:51:38,539
+Si vous n'avez pas d'autres questions à ce sujet
+
+901
+00:51:38,539 --> 00:51:41,819
+Maintenant, on va parler, si vous le voulez bien
+
+902
+00:51:41,819 --> 00:51:44,879
+Et ça, c'est une question qui a été posée par Eric
+
+903
+00:51:44,879 --> 00:51:47,519
+Bon, hop, j'enlève tout ça
+
+904
+00:51:47,519 --> 00:51:51,539
+Ça, c'est une question qui a été posée par Eric
+
+905
+00:51:51,539 --> 00:51:55,820
+je vais aller la chercher sur
+
+906
+00:51:55,820 --> 00:52:01,440
+l'email de la lucarne
+
+907
+00:52:21,539 --> 00:52:30,340
+Ah voilà, il est là. Je le cherchais et je ne le trouvais pas.
+
+908
+00:52:34,239 --> 00:52:37,340
+Eric nous dit la chose suivante.
+
+909
+00:52:37,340 --> 00:52:45,000
+Bonjour, pouvons-nous faire un point d'information sur la loi 2024-1039 concernant l'allocation courte durée ?
+
+910
+00:52:45,000 --> 00:52:49,539
+Voici ci-dessous une résolution vue dans un compte rendu d'AG d'immeubles des années 70.
+
+911
+00:52:49,539 --> 00:52:54,380
+Et voici les comptes rendus en question.
+
+912
+00:52:54,539 --> 00:52:59,139
+Je vais zoomer, bien entendu, pour que vous puissiez y voir un peu plus clair.
+
+913
+00:53:01,559 --> 00:53:06,699
+Voici une première résolution, et ensuite je vous montrerai la suite de la résolution.
+
+914
+00:53:07,480 --> 00:53:14,539
+Alors, quelle est cette loi 2024-1039 dont nous parle Eric ?
+
+915
+00:53:15,079 --> 00:53:16,119
+C'est la loi Lemaire.
+
+916
+00:53:16,980 --> 00:53:19,099
+La loi Lemaire, c'est écrit ici d'ailleurs,
+
+917
+00:53:19,319 --> 00:53:23,159
+la loi Lemaire instaure une nouvelle obligation de déclaration auprès du syndic
+
+918
+00:53:23,159 --> 00:53:26,599
+pour tout propriétaire souhaitant exercer une activité de location meublée, etc.
+
+919
+00:53:26,920 --> 00:53:27,400
+Blablabla.
+
+920
+00:53:32,539 --> 00:53:33,699
+Ce qui est vrai d'ailleurs.
+
+921
+00:53:34,779 --> 00:53:36,839
+La loi Lemaire, qu'est-ce que c'est ?
+
+922
+00:53:36,839 --> 00:53:45,159
+C'est une loi qui a visé à encadrer les locations
+
+923
+00:53:45,159 --> 00:53:50,619
+meublée de tourisme.
+
+924
+00:53:51,920 --> 00:53:53,299
+De tourisme.
+
+925
+00:53:53,879 --> 00:53:54,839
+Qu'est-ce que ça veut dire,
+
+926
+00:53:54,899 --> 00:53:56,339
+les locations meublées de tourisme ?
+
+927
+00:53:56,339 --> 00:53:57,259
+Et on va étudier un petit peu
+
+928
+00:53:57,259 --> 00:54:01,119
+tout ce que nous avons ici.
+
+929
+00:54:02,339 --> 00:54:04,279
+Alors, qu'est-ce que ça veut dire ?
+
+930
+00:54:04,279 --> 00:54:06,579
+Déjà, on va éplucher
+
+931
+00:54:06,579 --> 00:54:10,519
+cette appellation
+
+932
+00:54:10,519 --> 00:54:13,339
+meublée de tourisme.
+
+933
+00:54:15,159 --> 00:54:23,739
+Maintenant, on connaît tous une location meublée ou une location vide.
+
+934
+00:54:24,539 --> 00:54:29,719
+Qu'est-ce que ça veut dire une location meublée et une location vide ?
+
+935
+00:54:29,719 --> 00:54:38,480
+Une location vide, c'est un bail dans lequel on loue un appartement ou une maison sans les meubles.
+
+936
+00:54:38,480 --> 00:54:42,139
+on loue l'appartement, on loue la maison
+
+937
+00:54:42,139 --> 00:54:44,039
+mais on doit se débrouiller
+
+938
+00:54:44,039 --> 00:54:46,099
+pour apporter des lits, apporter des chaises
+
+939
+00:54:46,099 --> 00:54:48,000
+apporter des tables, on se débrouille
+
+940
+00:54:48,000 --> 00:54:50,420
+alors parfois, il peut y avoir un peu d'équipement
+
+941
+00:54:50,420 --> 00:54:52,539
+il peut y avoir un frigo, il peut y avoir les meubles de cuisine
+
+942
+00:54:52,539 --> 00:54:54,099
+qui ne sont pas vraiment des meubles
+
+943
+00:54:54,099 --> 00:54:56,320
+d'ailleurs parce qu'ils sont attachés, donc ce sont des immeubles par destination
+
+944
+00:54:56,320 --> 00:54:57,619
+il peut y avoir 2-3 choses
+
+945
+00:54:57,619 --> 00:54:59,659
+mais 99%
+
+946
+00:54:59,659 --> 00:55:02,159
+de ce qui va meubler la maison
+
+947
+00:55:02,159 --> 00:55:04,260
+ou l'appartement, vous devez vous débrouiller
+
+948
+00:55:04,260 --> 00:55:06,159
+ça c'est ce qu'on appelle un bail vide
+
+949
+00:55:06,159 --> 00:55:08,199
+ou un bail tout court
+
+950
+00:55:08,199 --> 00:55:09,719
+parce que c'est l'immense majorité des baux.
+
+951
+00:55:11,159 --> 00:55:12,239
+Ensuite, il y a le bail meublé.
+
+952
+00:55:12,919 --> 00:55:16,759
+Le bail meublé, c'est pareil, c'est une maison, c'est un appartement que vous louez,
+
+953
+00:55:17,079 --> 00:55:19,399
+mais dedans, il y a tout.
+
+954
+00:55:20,619 --> 00:55:21,539
+Tout, tout, tout.
+
+955
+00:55:22,379 --> 00:55:31,099
+Les tables, les chaises, les petites cuillères, les rideaux, les nappes, les canapés.
+
+956
+00:55:31,399 --> 00:55:32,599
+Il y a tout ce dont vous avez besoin.
+
+957
+00:55:32,960 --> 00:55:34,359
+C'est un bail meublé.
+
+958
+00:55:35,059 --> 00:55:36,439
+Vous n'avez pas besoin de vous en occuper.
+
+959
+00:55:37,000 --> 00:55:41,039
+Dans un bail meublé, normalement, il y a tout, je vous dis, jusqu'à la petite cuillère.
+
+960
+00:55:43,019 --> 00:55:45,200
+Maintenant, il y a un certain nombre d'aménagements,
+
+961
+00:55:45,300 --> 00:55:49,400
+et vous trouverez un certain nombre de baumes qui sont dits meublés,
+
+962
+00:55:49,880 --> 00:55:54,260
+dans lesquels il n'y a pas tout, mais il y a la majorité de l'ameublement.
+
+963
+00:55:54,260 --> 00:56:01,760
+Il y a les lits, il y a les tables, il y a les chaises, il y a les fauteuils, les canapés.
+
+964
+00:56:02,099 --> 00:56:05,340
+Mais après, pour le reste, on vous laisse vous débrouiller,
+
+965
+00:56:05,340 --> 00:56:10,260
+les petites cuillères, je vous dis, les écumoires, les casseroles, on vous laisse vous débrouiller.
+
+966
+00:56:10,800 --> 00:56:15,980
+Bon, on ne va pas rentrer dans ce détail-là, parce que ce n'est pas le but du tout de la vision d'aujourd'hui.
+
+967
+00:56:17,180 --> 00:56:21,440
+On ne va pas rentrer dans ce détail-là, mais normalement, un bail meublé doit y avoir absolument tout.
+
+968
+00:56:22,059 --> 00:56:23,000
+Bon, ce n'est pas le problème.
+
+969
+00:56:25,100 --> 00:56:32,700
+Mais un bail meublé, c'est un bail dans lequel on trouve un locataire qui va venir habiter.
+
+970
+00:56:32,699 --> 00:56:35,919
+et il va venir habiter dans cette maison, dans cet appartement.
+
+971
+00:56:36,480 --> 00:56:39,619
+Alors souvent, un bail meublé, c'est pour une durée plus courte.
+
+972
+00:56:39,859 --> 00:56:43,299
+J'en ai besoin pour un an, j'en ai besoin pour deux ans, j'en ai besoin pour trois ans.
+
+973
+00:56:44,139 --> 00:56:51,419
+Mais en règle générale, un bail meublé, ce n'est pas une solution à long terme.
+
+974
+00:56:52,279 --> 00:56:56,460
+Alors, ça existe, il y a des gens qui veulent louer en meublé pour 15 ans, pour 20 ans, pour 30 ans.
+
+975
+00:56:56,460 --> 00:56:59,019
+Ça les arrange, mais en règle générale, ce n'est pas le cas.
+
+976
+00:56:59,279 --> 00:57:02,039
+Le meublé, c'est une solution temporaire parce qu'on est étudiant.
+
+977
+00:57:02,699 --> 00:57:11,159
+Parce qu'il y a un monsieur qui est muté juste pendant deux ans dans une certaine ville et après il va repartir dans une autre.
+
+978
+00:57:11,980 --> 00:57:14,779
+C'est une solution à moyen terme.
+
+979
+00:57:15,960 --> 00:57:17,819
+Ça dure un an, deux ans, trois ans.
+
+980
+00:57:18,919 --> 00:57:23,879
+Ça peut durer plus, c'est tout à fait légal, mais généralement c'est une solution plus précaire.
+
+981
+00:57:24,460 --> 00:57:25,879
+D'ailleurs, ça fait partie des baux précaires.
+
+982
+00:57:25,880 --> 00:57:30,300
+Mais vous comprenez quand même que la personne qui vient habiter dans un bail meublé
+
+983
+00:57:30,300 --> 00:57:33,680
+Elle vient élire domicile dans ce bail meublé
+
+984
+00:57:33,680 --> 00:57:36,300
+Dans l'immense majorité des cas
+
+985
+00:57:36,300 --> 00:57:39,300
+Ça devient sa résidence principale
+
+986
+00:57:39,300 --> 00:57:41,480
+Ça devient son domicile
+
+987
+00:57:41,480 --> 00:57:46,559
+À la différence d'un meublé de tourisme
+
+988
+00:57:46,559 --> 00:57:51,119
+Un meublé de tourisme, c'est un logement entièrement meublé
+
+989
+00:57:51,119 --> 00:57:55,039
+Oui, un appartement, une maison, un studio, je ne sais pas quoi
+
+990
+00:57:55,039 --> 00:57:59,119
+mais destiné à des gens qui sont de passage
+
+991
+00:57:59,119 --> 00:58:02,259
+c'est une location
+
+992
+00:58:02,259 --> 00:58:05,340
+pour une semaine
+
+993
+00:58:05,340 --> 00:58:08,860
+un mois, une journée, deux jours
+
+994
+00:58:08,860 --> 00:58:11,759
+pas du tout pour un an
+
+995
+00:58:11,759 --> 00:58:14,480
+pour trois ans ou pour deux ans
+
+996
+00:58:14,480 --> 00:58:15,779
+pas du tout
+
+997
+00:58:15,779 --> 00:58:17,940
+deuxième chose
+
+998
+00:58:17,940 --> 00:58:23,239
+le locataire en plus de rester pour une très courte durée
+
+999
+00:58:23,239 --> 00:58:25,599
+ne peut pas
+
+1000
+00:58:25,599 --> 00:58:27,179
+en faire son domicile
+
+1001
+00:58:27,179 --> 00:58:29,399
+ça c'est la distinction
+
+1002
+00:58:29,399 --> 00:58:30,699
+vraiment fondamentale
+
+1003
+00:58:30,699 --> 00:58:32,559
+entre le bail civil
+
+1004
+00:58:32,559 --> 00:58:34,579
+et le bail de tourisme
+
+1005
+00:58:34,579 --> 00:58:37,019
+c'est que la personne ne va pas
+
+1006
+00:58:37,019 --> 00:58:38,639
+y élire domicile, jamais
+
+1007
+00:58:38,639 --> 00:58:40,019
+et elle n'en a d'ailleurs pas le droit
+
+1008
+00:58:40,019 --> 00:58:42,119
+elle est là uniquement de passage
+
+1009
+00:58:42,119 --> 00:58:44,839
+pour les vacances, pour une journée, pour deux jours
+
+1010
+00:58:44,839 --> 00:58:46,399
+elle vient en formation
+
+1011
+00:58:46,399 --> 00:58:48,899
+je vais en formation
+
+1012
+00:58:48,899 --> 00:58:50,359
+à Montpellier pour trois jours
+
+1013
+00:58:50,359 --> 00:58:53,159
+je prends une location
+
+1014
+00:58:53,159 --> 00:58:55,339
+de tourisme. Dans trois jours,
+
+1015
+00:58:55,420 --> 00:58:57,039
+quand j'aurai fini ma formation, je repartirai
+
+1016
+00:58:57,039 --> 00:58:59,079
+chez moi, dans ma vraie maison.
+
+1017
+00:59:00,339 --> 00:59:00,699
+Donc,
+
+1018
+00:59:01,259 --> 00:59:02,960
+deux choses pour le meublé de tourisme.
+
+1019
+00:59:03,139 --> 00:59:05,079
+Premièrement, c'est une location de très
+
+1020
+00:59:05,079 --> 00:59:05,779
+courte durée.
+
+1021
+00:59:07,379 --> 00:59:08,759
+Ce sont des gens qui sont pas sages.
+
+1022
+00:59:09,779 --> 00:59:11,039
+Deuxièmement, les gens
+
+1023
+00:59:11,039 --> 00:59:12,559
+n'y élisent pas domicile.
+
+1024
+00:59:12,799 --> 00:59:14,239
+Ce ne sera pas chez eux.
+
+1025
+00:59:16,539 --> 00:59:17,739
+Ils ont un chez eux
+
+1026
+00:59:17,739 --> 00:59:18,359
+quelque part.
+
+1027
+00:59:19,239 --> 00:59:21,079
+Pas là. Et la durée de la location,
+
+1028
+00:59:21,199 --> 00:59:23,039
+d'ailleurs, ne peut pas excéder 90 jours.
+
+1029
+00:59:23,159 --> 00:59:25,319
+jours. 90 jours
+
+1030
+00:59:25,319 --> 00:59:27,279
+consécutifs pour une même personne,
+
+1031
+00:59:27,420 --> 00:59:28,779
+pour un même occupant, à partir du
+
+1032
+00:59:28,779 --> 00:59:31,059
+91ème jour, là, il va falloir signer
+
+1033
+00:59:31,059 --> 00:59:31,639
+un vrai bail.
+
+1034
+00:59:36,719 --> 00:59:37,379
+Alors, attention,
+
+1035
+00:59:38,299 --> 00:59:41,159
+on ne parle pas des chambres d'hôtes, c'est important.
+
+1036
+00:59:41,559 --> 00:59:42,879
+On ne parle pas des chambres d'hôtes, parce que
+
+1037
+00:59:42,879 --> 00:59:44,859
+les chambres d'hôtes, c'est chez quelqu'un, et
+
+1038
+00:59:44,859 --> 00:59:46,839
+le quelqu'un est là. Je loue
+
+1039
+00:59:46,839 --> 00:59:48,799
+une chambre dans ma maison, mais moi, je suis aussi
+
+1040
+00:59:48,799 --> 00:59:51,179
+dans ma maison. Donc, ça ne concerne
+
+1041
+00:59:51,179 --> 00:59:52,719
+pas les chambres d'hôtes.
+
+1042
+00:59:53,159 --> 01:00:01,559
+Donc, le meublé de tourisme, on voit que ça n'est pas la même chose qu'un meublé traditionnel, qu'un meublé habituel.
+
+1043
+01:00:02,039 --> 01:00:11,460
+Ces meublés de tourisme qu'on appelle communément les Airbnb, parce que Airbnb, c'est la plateforme principale qui propose les meublés de tourisme dans le monde entier.
+
+1044
+01:00:11,699 --> 01:00:15,839
+Mais il y en a d'autres, concurrentes, mais je ne suis même pas capable de vous donner leur nom, je ne les connais pas.
+
+1045
+01:00:18,319 --> 01:00:20,879
+Je ne connais que Airbnb. Il y en a certainement d'autres.
+
+1046
+01:00:20,880 --> 01:00:24,880
+Vous pourriez me dire sur le chat, il y a telle, telle, telle plateforme.
+
+1047
+01:00:25,019 --> 01:00:25,640
+Moi, je ne les connais pas.
+
+1048
+01:00:25,980 --> 01:00:30,660
+Vous voyez, je ne connais que Airbnb tellement ils sont le mastodonte du secteur.
+
+1049
+01:00:31,880 --> 01:00:38,019
+Ce Airbnb, ça s'est énormément développé partout dans le monde,
+
+1050
+01:00:38,200 --> 01:00:42,599
+mais en France aussi, ça s'est énormément développé pour plein de raisons.
+
+1051
+01:00:45,619 --> 01:00:50,720
+La raison principale, c'est que c'est beaucoup plus profitable économiquement
+
+1052
+01:00:50,719 --> 01:00:52,439
+pour le vendeur.
+
+1053
+01:00:53,339 --> 01:00:55,399
+Enfin, pour le vendeur. Nous, on a l'habitude d'appeler ça le vendeur,
+
+1054
+01:00:55,459 --> 01:00:56,879
+mais c'est idiot, c'est pour le propriétaire.
+
+1055
+01:00:57,099 --> 01:00:59,299
+Le propriétaire bailleur. Je ne dois pas appeler ça le vendeur.
+
+1056
+01:00:59,559 --> 01:01:00,619
+Nous, on a toujours en tête
+
+1057
+01:01:00,619 --> 01:01:03,259
+le vendeur, le vendeur, le vendeur, parce qu'on fait de la vente.
+
+1058
+01:01:03,439 --> 01:01:05,319
+Mais c'est une mauvaise appellation, pardonnez-moi.
+
+1059
+01:01:06,059 --> 01:01:06,379
+Donc,
+
+1060
+01:01:07,239 --> 01:01:09,500
+le propriétaire
+
+1061
+01:01:09,500 --> 01:01:11,399
+bailleur gagne beaucoup plus
+
+1062
+01:01:11,399 --> 01:01:13,239
+d'argent en faisant
+
+1063
+01:01:13,239 --> 01:01:14,519
+des locations Airbnb.
+
+1064
+01:01:15,419 --> 01:01:17,659
+Premièrement. Deuxièmement,
+
+1065
+01:01:18,099 --> 01:01:19,500
+il n'est pas
+
+1066
+01:01:19,500 --> 01:01:21,340
+embêté avec un locataire qui ne lui plaît pas.
+
+1067
+01:01:21,699 --> 01:01:22,960
+Le locataire, il change tout le temps.
+
+1068
+01:01:23,260 --> 01:01:25,539
+Ça augmente le risque d'avoir quelqu'un qui se
+
+1069
+01:01:25,539 --> 01:01:27,340
+comporte mal une fois de temps en temps,
+
+1070
+01:01:27,619 --> 01:01:29,639
+mais on n'est pas bloqué avec un
+
+1071
+01:01:29,639 --> 01:01:31,460
+locataire qui ne nous plaît pas, qui nous
+
+1072
+01:01:31,460 --> 01:01:33,559
+cause des problèmes, puisque deux jours après, ce sera
+
+1073
+01:01:33,559 --> 01:01:35,079
+un autre. Mais surtout,
+
+1074
+01:01:35,420 --> 01:01:37,579
+on gagne beaucoup plus d'argent. C'est beaucoup
+
+1075
+01:01:37,579 --> 01:01:38,559
+plus profitable.
+
+1076
+01:01:39,920 --> 01:01:41,199
+Louer un appartement,
+
+1077
+01:01:41,559 --> 01:01:43,179
+surtout maintenant
+
+1078
+01:01:43,179 --> 01:01:45,460
+qu'il y a, vous connaissez, l'encadrement
+
+1079
+01:01:45,460 --> 01:01:47,699
+des loyers dans un très grand nombre de villes.
+
+1080
+01:01:47,699 --> 01:01:49,099
+L'encadrement des loyers,
+
+1081
+01:01:49,500 --> 01:01:53,539
+qui fait qu'un certain nombre d'appartements ne sont tout simplement plus rentables.
+
+1082
+01:01:54,019 --> 01:01:57,000
+Une fois que vous avez payé les charges de copropriété, que vous avez payé les travaux,
+
+1083
+01:01:57,099 --> 01:02:00,159
+que vous avez payé les impôts, vous vous apercevez que l'encadrement des loyers
+
+1084
+01:02:00,159 --> 01:02:06,699
+vous force à une perte, tout simplement.
+
+1085
+01:02:07,000 --> 01:02:09,360
+Vous êtes perdant. Vous perdez de l'argent sur votre location.
+
+1086
+01:02:10,320 --> 01:02:14,480
+Alors que Airbnb, déjà, ça vous permet d'échapper à l'encadrement des loyers.
+
+1087
+01:02:15,000 --> 01:02:16,739
+Et puis de toute façon, c'est très très très profitable.
+
+1088
+01:02:16,739 --> 01:02:18,519
+Vous gagnez beaucoup plus d'argent.
+
+1089
+01:02:18,819 --> 01:02:21,359
+Alors, ça va prendre plus de travail, oui, bien sûr, sans aucun doute,
+
+1090
+01:02:21,859 --> 01:02:23,319
+mais vous gagnez beaucoup plus d'argent.
+
+1091
+01:02:23,459 --> 01:02:28,819
+Alors, ça s'est énormément développé, en particulier dans les régions touristiques.
+
+1092
+01:02:29,179 --> 01:02:31,039
+Mais la France, elle est touristique partout.
+
+1093
+01:02:31,459 --> 01:02:33,319
+Il y a très peu de régions dans lesquelles on dit,
+
+1094
+01:02:33,359 --> 01:02:34,819
+ben non, là, il n'y a vraiment pas de tourisme.
+
+1095
+01:02:35,199 --> 01:02:38,619
+Non, la France, c'est le pays le plus touristique du monde.
+
+1096
+01:02:39,879 --> 01:02:41,359
+Il y a du tourisme partout.
+
+1097
+01:02:41,559 --> 01:02:42,939
+Vous allez au nord, il y a le Mont-Saint-Michel.
+
+1098
+01:02:43,139 --> 01:02:44,579
+Vous allez au sud, il y a la Côte d'Azur.
+
+1099
+01:02:44,579 --> 01:02:46,619
+Vous allez à l'est, il y a le bassin d'Arcachon.
+
+1100
+01:02:46,739 --> 01:02:48,179
+À l'ouest, pardon, il y a le bassin d'Arcachon.
+
+1101
+01:02:48,279 --> 01:02:49,639
+À l'est, il y a les montagnes, il y a les machins.
+
+1102
+01:02:50,939 --> 01:02:52,579
+Partout, quel que soit l'endroit où vous vous trouvez,
+
+1103
+01:02:53,919 --> 01:02:55,399
+c'est une région touristique.
+
+1104
+01:02:55,739 --> 01:02:59,079
+Donc, vous trouverez des clients à de très rares exceptions près.
+
+1105
+01:02:59,199 --> 01:03:01,959
+Vous trouverez des clients partout, partout, partout, partout.
+
+1106
+01:03:03,039 --> 01:03:04,659
+Donc, vous gagnerez beaucoup plus d'argent.
+
+1107
+01:03:04,659 --> 01:03:08,739
+Ça veut dire que ça s'est énormément, énormément développé.
+
+1108
+01:03:09,419 --> 01:03:13,299
+Ça s'est énormément développé et forcément, ça a posé des soucis.
+
+1109
+01:03:13,739 --> 01:03:16,599
+Ça pose toujours des soucis quand quelque chose se développe.
+
+1110
+01:03:16,739 --> 01:03:36,819
+Le souci principal, c'est que ça a sorti du marché locatif traditionnel un très grand nombre de logements qui ont été donc dédiés par les propriétaires bailleurs aux locations de tourisme et qui ne sont plus disponibles pour les gens qui ont besoin de se loger, d'avoir leur résidence principale.
+
+1111
+01:03:36,820 --> 01:03:44,320
+Et ça, les pouvoirs publics s'en sont aperçus
+
+1112
+01:03:44,320 --> 01:03:48,220
+Parce qu'on a, même avant Airbnb, parce qu'il y a un peu une hypocrisie là-dessus
+
+1113
+01:03:48,220 --> 01:03:53,320
+Même avant Airbnb, il y a toujours eu une pénurie de logements en France
+
+1114
+01:03:53,320 --> 01:03:57,360
+Il y a beaucoup plus de demandes que d'offres de logements depuis toujours
+
+1115
+01:03:57,360 --> 01:04:01,580
+Moi j'ai toujours connu ça, alors qu'Airbnb ça n'existe pas depuis 30 ans
+
+1116
+01:04:01,579 --> 01:04:04,880
+il y a toujours eu beaucoup plus de demandes
+
+1117
+01:04:04,880 --> 01:04:06,719
+de logements que d'offres de logements
+
+1118
+01:04:06,719 --> 01:04:07,159
+en France
+
+1119
+01:04:07,159 --> 01:04:10,420
+donc il y a un peu une hypocrisie de la part du gouvernement
+
+1120
+01:04:10,420 --> 01:04:12,699
+c'est de la faute d'Airbnb
+
+1121
+01:04:12,699 --> 01:04:14,900
+non c'est pas vrai parce que ça c'est structurel
+
+1122
+01:04:14,900 --> 01:04:15,799
+en France depuis
+
+1123
+01:04:15,799 --> 01:04:18,420
+50 ans peut-être, peut-être même plus
+
+1124
+01:04:18,420 --> 01:04:20,420
+peut-être depuis la guerre d'ailleurs
+
+1125
+01:04:20,420 --> 01:04:22,940
+je ne sais pas, il faudrait se pencher sur la question précisément
+
+1126
+01:04:22,940 --> 01:04:24,519
+mais Airbnb
+
+1127
+01:04:24,519 --> 01:04:25,799
+est venu l'aggraver
+
+1128
+01:04:25,799 --> 01:04:28,619
+ce qui a permis au gouvernement
+
+1129
+01:04:28,619 --> 01:04:30,579
+d'avoir un abouk émissaire tout désigné
+
+1130
+01:04:30,579 --> 01:04:51,159
+Mais bon, c'est vrai que ça l'a aggravé. Donc le gouvernement, à la demande des communes, beaucoup, a préparé cette loi, enfin le gouvernement et le Parlement, c'est surtout le Parlement, cette loi, la loi Lemaire, qui vise à encadrer les locations meublées de tourisme.
+
+1131
+01:04:51,159 --> 01:04:58,379
+parce qu'on voulait mettre un terme à un certain nombre de pratiques déjà frauduleuses,
+
+1132
+01:04:58,379 --> 01:05:07,079
+c'est-à-dire des gens qui détournaient la loi et à la réaffection.
+
+1133
+01:05:07,420 --> 01:05:09,519
+Parce qu'il y avait des particuliers qui louaient les logements
+
+1134
+01:05:09,519 --> 01:05:12,659
+pour une longue durée en logement de tourisme,
+
+1135
+01:05:13,059 --> 01:05:16,879
+il y avait des investisseurs professionnels qui se faisaient passer pour des particuliers,
+
+1136
+01:05:17,239 --> 01:05:19,799
+il y avait une pénurie de logements croissante,
+
+1137
+01:05:19,800 --> 01:05:27,039
+Donc, il y avait plein de problèmes, dont des problèmes carrément de fraude, au-delà de la pénurie de logements.
+
+1138
+01:05:27,960 --> 01:05:31,300
+Donc, la loi Lemaire a instauré un certain nombre de dispositions.
+
+1139
+01:05:31,420 --> 01:05:38,980
+Une disposition qui impose de déclarer son logement Airbnb à la mairie, avec un formulaire SERFA,
+
+1140
+01:05:39,700 --> 01:05:45,960
+obtenir un numéro d'enregistrement, et ensuite, ce numéro d'enregistrement, il faut le transférer, dans certains cas, au syndic,
+
+1141
+01:05:45,960 --> 01:05:47,320
+comme c'est indiqué ici d'ailleurs
+
+1142
+01:05:47,320 --> 01:05:49,760
+au syndic
+
+1143
+01:05:49,760 --> 01:05:51,780
+pour faire savoir au syndic que machin
+
+1144
+01:05:51,780 --> 01:05:52,599
+etc etc
+
+1145
+01:05:52,599 --> 01:05:55,559
+c'est pas la seule chose
+
+1146
+01:05:55,559 --> 01:05:56,159
+bien entendu
+
+1147
+01:05:56,159 --> 01:05:58,599
+mais ça a encadré
+
+1148
+01:05:58,599 --> 01:05:59,880
+globalement
+
+1149
+01:05:59,880 --> 01:06:00,360
+la
+
+1150
+01:06:00,360 --> 01:06:03,280
+comment ça s'appelle
+
+1151
+01:06:03,280 --> 01:06:08,519
+la pratique des Airbnb
+
+1152
+01:06:08,519 --> 01:06:11,139
+qui avant n'était pas du tout encadré
+
+1153
+01:06:11,139 --> 01:06:13,240
+c'était un petit peu le Far West
+
+1154
+01:06:13,240 --> 01:06:14,139
+donc
+
+1155
+01:06:14,139 --> 01:06:21,960
+Donc, cette loi Lemaire, elle est en place aujourd'hui et on doit la respecter.
+
+1156
+01:06:22,980 --> 01:06:30,900
+La question, la sous-question en fait, d'Eric, et on nous l'avait déjà posé à l'animation,
+
+1157
+01:06:31,079 --> 01:06:38,139
+c'est est-ce qu'on a le droit, comme c'est indiqué ici, d'interdire les locations de courte durée de type Airbnb ?
+
+1158
+01:06:38,139 --> 01:06:41,599
+de type Airbnb.
+
+1159
+01:06:42,319 --> 01:06:44,500
+Alors, on n'a pas la date
+
+1160
+01:06:44,500 --> 01:06:46,379
+de ce truc-là,
+
+1161
+01:06:46,460 --> 01:06:47,639
+mais on aurait dû l'avoir.
+
+1162
+01:06:48,440 --> 01:06:50,500
+En tout cas, est-ce qu'on peut interdire les Airbnb
+
+1163
+01:06:50,500 --> 01:06:52,339
+dans une copropriété ? Parce que c'est
+
+1164
+01:06:52,339 --> 01:06:54,299
+clairement ça la question
+
+1165
+01:06:54,299 --> 01:06:55,659
+qui est posée par
+
+1166
+01:06:55,659 --> 01:06:58,460
+Eric et qui nous avait déjà été
+
+1167
+01:06:58,460 --> 01:07:00,159
+posée par d'autres auparavant.
+
+1168
+01:07:00,679 --> 01:07:02,179
+Est-ce qu'on peut interdire les Airbnb
+
+1169
+01:07:02,179 --> 01:07:04,920
+dans une copropriété,
+
+1170
+01:07:05,739 --> 01:07:06,539
+dans le règlement
+
+1171
+01:07:06,539 --> 01:07:08,059
+de copropriété ?
+
+1172
+01:07:08,059 --> 01:07:12,400
+Oui, on le peut. On le peut pour différentes raisons.
+
+1173
+01:07:12,400 --> 01:07:14,799
+On le peut pour différentes raisons.
+
+1174
+01:07:15,900 --> 01:07:23,279
+Alors, la première question à se poser, c'est est-ce que, premièrement,
+
+1175
+01:07:24,559 --> 01:07:30,900
+pourquoi j'ai deux trucs, moi ? Pourquoi ça fait ça ?
+
+1176
+01:07:30,900 --> 01:07:45,900
+« L'interdiction d'un Airbnb dans une copropriété constitue-t-elle une entrave au droit de propriété ? »
+
+1177
+01:07:45,900 --> 01:07:47,519
+C'est la première question qu'on peut se poser.
+
+1178
+01:07:47,700 --> 01:07:53,200
+Parce que, quand on dit « Est-ce qu'on peut interdire un Airbnb dans un immeuble par le règlement de copropriété ? »
+
+1179
+01:07:53,200 --> 01:07:56,059
+Ben non, ce n'est pas possible, puisque ça entrave le droit de propriété.
+
+1180
+01:07:56,180 --> 01:07:57,880
+Moi, j'ai ma propriété, j'en fais ce que je veux.
+
+1181
+01:07:57,880 --> 01:08:19,359
+C'est moi qui décide si je la loue, quand je la loue, à qui je la loue. Et ce n'est pas aux autres de le décider pour moi. Est-ce que c'est une entrave au droit de propriété ? Non, ce n'est pas une entrave au droit de propriété. Pourquoi ? Parce que la liberté de louer n'est pas absolue. Je n'ai pas la liberté de faire ce que je veux de mon bien n'importe comment.
+
+1182
+01:08:19,359 --> 01:08:37,679
+Mon bien, je peux en faire ce que je veux tant que je reste dans le cadre de la loi et pour des activités illicites. On a déjà souvent discuté de la licéité des usages. Est-ce qu'on fait quelque chose de licite ou de pas licite ?
+
+1183
+01:08:37,680 --> 01:08:54,180
+Alors, la première chose, la première illicéité, c'est pas de trouble à la copropriété.
+
+1184
+01:08:56,260 --> 01:09:01,420
+J'ai le droit de faire ce que je veux de mon bien à condition de ne pas causer de trouble à la copropriété.
+
+1185
+01:09:02,100 --> 01:09:10,659
+Vous imaginez bien que j'ai un appartement dans un immeuble, au troisième étage sur six, donc bien au milieu,
+
+1186
+01:09:11,279 --> 01:09:18,779
+et dans cet appartement, je fais en permanence, je fais venir des gens, je mets la musique à fond et je fais des rêves parties.
+
+1187
+01:09:19,739 --> 01:09:22,180
+Vous allez comprendre facilement que ça m'est interdit.
+
+1188
+01:09:22,739 --> 01:09:28,060
+Je ne peux pas dire non, c'est mon droit de propriété, mon droit de jouissance libre, je fais ce que je veux chez moi.
+
+1189
+01:09:28,060 --> 01:09:38,340
+Vous n'avez rien à me dire. Non. À partir du moment où je cause des troubles à la copropriété, on a parfaitement le droit de me dire non, monsieur, vous ne faites pas ce que vous voulez.
+
+1190
+01:09:39,240 --> 01:09:49,420
+C'est pareil lorsque dans une copropriété, vous avez un appartement et puis du jour au lendemain, dans cet appartement, vous avez une activité quelconque qui fait venir des gens toute la journée.
+
+1191
+01:09:50,060 --> 01:09:55,800
+Toute la journée, il y a des dizaines de gens qui rentrent dans l'immeuble, qui montent dans les escaliers, qui viennent chez vous, qui se baladent dans l'immeuble.
+
+1192
+01:09:55,800 --> 01:09:58,640
+ça cause un trouble à la copropriété
+
+1193
+01:09:58,640 --> 01:10:01,119
+un trouble aux autres copropriétaires
+
+1194
+01:10:01,119 --> 01:10:02,920
+qui voient des gens se balader dans l'immeuble
+
+1195
+01:10:02,920 --> 01:10:05,039
+ils ne savent pas qui c'est, ils n'ont pas envie, ça ne leur plaît pas
+
+1196
+01:10:05,039 --> 01:10:07,980
+alors on ne peut pas vous interdire de recevoir des amis chez vous
+
+1197
+01:10:07,980 --> 01:10:10,220
+mais faire venir des dizaines de personnes
+
+1198
+01:10:10,220 --> 01:10:12,199
+que personne ne connaît tous les jours
+
+1199
+01:10:12,199 --> 01:10:13,340
+tout au long de la journée
+
+1200
+01:10:13,340 --> 01:10:15,860
+ça cause des troubles à la copropriété
+
+1201
+01:10:15,860 --> 01:10:18,739
+donc la première chose c'est que vous ne pouvez pas causer de troubles à la copropriété
+
+1202
+01:10:18,739 --> 01:10:21,820
+or avoir des locataires qui viennent, qui repartent
+
+1203
+01:10:21,820 --> 01:10:24,779
+avec des valises qui font rouler dans les escaliers
+
+1204
+01:10:24,779 --> 01:10:27,059
+en bois ancien
+
+1205
+01:10:27,059 --> 01:10:28,739
+qui
+
+1206
+01:10:28,739 --> 01:10:32,139
+arrive à 3h du matin
+
+1207
+01:10:32,139 --> 01:10:33,579
+qui font du bruit
+
+1208
+01:10:33,579 --> 01:10:35,599
+c'est un trouble à la copropriété
+
+1209
+01:10:35,599 --> 01:10:37,300
+donc vous comprenez qu'on ne peut pas
+
+1210
+01:10:37,300 --> 01:10:39,739
+causer de troubles anormaux de voisinage
+
+1211
+01:10:39,739 --> 01:10:41,340
+à la copropriété
+
+1212
+01:10:41,340 --> 01:10:42,920
+deuxièmement
+
+1213
+01:10:42,920 --> 01:10:44,259
+on doit respecter
+
+1214
+01:10:44,259 --> 01:10:46,059
+la destination
+
+1215
+01:10:46,059 --> 01:10:48,920
+de l'immeuble
+
+1216
+01:10:48,920 --> 01:10:51,719
+respecter la destination
+
+1217
+01:10:51,719 --> 01:10:53,259
+de l'immeuble parce que
+
+1218
+01:10:53,259 --> 01:10:54,239
+l'immeuble
+
+1219
+01:10:54,239 --> 01:10:58,000
+autorisent ou n'autorisent pas
+
+1220
+01:10:58,000 --> 01:11:02,359
+une activité commerciale.
+
+1221
+01:11:03,359 --> 01:11:06,179
+Et ça, c'est très intéressant, la destination d'immeuble.
+
+1222
+01:11:06,300 --> 01:11:07,179
+Pourquoi ?
+
+1223
+01:11:07,179 --> 01:11:10,859
+La loi ne définit pas précisément la destination d'un immeuble.
+
+1224
+01:11:12,199 --> 01:11:16,460
+Il y a un certain nombre de textes, cependant, qui l'encadrent.
+
+1225
+01:11:17,380 --> 01:11:20,699
+De toute façon, la jurisprudence s'en est emparée.
+
+1226
+01:11:20,699 --> 01:11:29,239
+Alors, la destination d'immeuble, elle dépend de la nature des locaux. Est-ce que c'est une boutique ? Est-ce que c'est une grange ? Est-ce que c'est un appartement ?
+
+1227
+01:11:29,239 --> 01:11:38,039
+Elle dépend de la manière dont l'immeuble est généralement utilisé. Est-ce que c'est un immeuble dans lequel il n'y a que des appartements où les gens habitent ?
+
+1228
+01:11:38,039 --> 01:11:45,300
+Est-ce que c'est un immeuble qui n'a que des bureaux ? Est-ce que c'est un immeuble qui n'a que des surfaces commerciales, comme un centre commercial ?
+
+1229
+01:11:45,300 --> 01:11:48,820
+Et bien entendu, de ce qui figure dans le règlement de copropriété.
+
+1230
+01:11:48,940 --> 01:11:54,360
+Dans le règlement de copropriété, chaque lot de copropriété comporte une destination.
+
+1231
+01:11:55,100 --> 01:12:00,140
+C'est un appartement, c'est un atelier, c'est un garage, ou que sais-je encore.
+
+1232
+01:12:02,480 --> 01:12:08,020
+Un immeuble peut avoir plusieurs destinations.
+
+1233
+01:12:08,220 --> 01:12:12,060
+On peut avoir un immeuble d'habitation uniquement, mixte.
+
+1234
+01:12:12,060 --> 01:12:16,900
+Il y a des habitations, il y a des professions libérales, il y a une boutique au rez-de-chaussée, il y a un certain nombre de choses.
+
+1235
+01:12:17,180 --> 01:12:23,960
+Ou à vocation commerciale ou professionnelle, tertiaire, un immeuble, que de bureau, ou je ne sais pas quoi encore.
+
+1236
+01:12:25,560 --> 01:12:30,400
+Alors, plus les règlements sont récents, mieux ils sont rédigés, plus ils sont explicites.
+
+1237
+01:12:30,520 --> 01:12:34,120
+Les plus anciens règlements de copropriété, souvent ils ont des clauses un peu anciennes,
+
+1238
+01:12:34,840 --> 01:12:38,360
+qui ne correspondent pas trop à ce qui se fait aujourd'hui,
+
+1239
+01:12:38,359 --> 01:12:43,319
+et qui comportent notamment ce qu'on appelle, vous avez tous vu ça quand vous étiez chez le notaire,
+
+1240
+01:12:43,899 --> 01:12:46,359
+vous avez vu deux notions un peu anciennes, un peu surannées,
+
+1241
+01:12:46,699 --> 01:12:49,380
+ce qu'on appelle se comporter en bon père de famille,
+
+1242
+01:12:50,139 --> 01:12:54,380
+et vous avez vu également une habitation ou un comportement bourgeois,
+
+1243
+01:12:54,599 --> 01:12:59,319
+se comporter bourgeoisement, quelque chose que vous avez vu certainement chez le notaire
+
+1244
+01:12:59,319 --> 01:13:04,119
+dans un certain nombre de compromis et de ventes.
+
+1245
+01:13:04,699 --> 01:13:07,019
+Qu'est-ce que ça veut dire l'habitation bourgeoise ?
+
+1246
+01:13:07,020 --> 01:13:12,920
+Alors, on peut le voir de deux manières, de manière stricte ou de manière un peu plus élargie, un peu plus relative.
+
+1247
+01:13:13,580 --> 01:13:21,720
+De manière stricte, lorsqu'un règlement ne prévoit que l'habitation et aucune autre activité,
+
+1248
+01:13:22,200 --> 01:13:25,880
+on est dans une habitation bourgeoise, exclusive, stricte.
+
+1249
+01:13:26,660 --> 01:13:32,700
+Pas d'activité commerciale, pas d'activité libérale, pas d'activité assimilée à du commerce,
+
+1250
+01:13:32,699 --> 01:13:38,260
+parce qu'on pourrait avoir quelque chose qui ne ressemble pas du commerce mais qui en est quand même,
+
+1251
+01:13:38,359 --> 01:13:39,579
+et on va voir ça dans un instant,
+
+1252
+01:13:40,500 --> 01:13:43,500
+la location meublée touristique en fait partie.
+
+1253
+01:13:45,019 --> 01:13:46,739
+Faire une location meublée touristique,
+
+1254
+01:13:46,880 --> 01:13:52,699
+elle entre en tension, en opposition avec cette destination purement bourgeoise.
+
+1255
+01:13:53,399 --> 01:13:56,000
+Et à ce moment-là, je vais vous expliquer dans un instant pourquoi,
+
+1256
+01:13:56,519 --> 01:14:00,819
+l'interdiction des AirBnB est tout à fait juridiquement fondée
+
+1257
+01:14:00,819 --> 01:14:06,139
+dans le règlement de copropriété, parce qu'elle vise à préserver la destination de l'immeuble.
+
+1258
+01:14:07,179 --> 01:14:10,079
+L'habitation bourgeoise simple, je vous le disais dans un instant,
+
+1259
+01:14:10,859 --> 01:14:14,939
+c'est lorsque le règlement, lui, il autorise les professions libérales.
+
+1260
+01:14:15,539 --> 01:14:19,099
+On ne dit pas tel appartement sera un cabinet d'avocats,
+
+1261
+01:14:19,099 --> 01:14:25,639
+mais on autorise qu'on est un médecin, on est un avocat, on est une profession libérale.
+
+1262
+01:14:25,640 --> 01:14:36,340
+On peut tolérer certaines activités économiques légères qui ne causent pas de troubles anormaux à la copropriété, et on ne parle pas spécifiquement des locations temporaires.
+
+1263
+01:14:36,619 --> 01:14:46,140
+C'est un immeuble d'habitation prévu pour être habité bourgeoisement, mais sans mettre trop de restrictions.
+
+1264
+01:14:46,140 --> 01:15:06,760
+À ce moment-là, interdire une location saisonnière, ça devient plus fragile, plus délicat, plus difficile lorsqu'on a un règlement de copropriété qui impose une destination d'habitation plus simple, plus relative, moins stricte que ce qu'on a vu juste avant.
+
+1265
+01:15:06,760 --> 01:15:12,400
+D'ailleurs, vous m'entendez toujours bien ou pas ?
+
+1266
+01:15:12,400 --> 01:15:13,940
+Est-ce que le son est OK ?
+
+1267
+01:15:13,940 --> 01:15:17,500
+Ou est-ce que ça vous pose des soucis ?
+
+1268
+01:15:17,500 --> 01:15:20,000
+Non ? Le son est OK ?
+
+1269
+01:15:20,000 --> 01:15:20,940
+Oui ? Parfait ?
+
+1270
+01:15:20,940 --> 01:15:22,340
+Pour tout le monde ? Parfait. Super.
+
+1271
+01:15:24,659 --> 01:15:31,940
+Donc, on va revenir sur cette notion, si vous voulez bien, d'activité commerciale.
+
+1272
+01:15:32,020 --> 01:15:33,659
+Pourquoi ? Parce que vous pourriez me dire
+
+1273
+01:15:33,659 --> 01:15:35,320
+« Mais non, mais ce n'est pas commercial. »
+
+1274
+01:15:35,320 --> 01:15:36,680
+Alors, hop, on revient ici.
+
+1275
+01:15:36,760 --> 01:15:52,260
+Airbnb est-il considéré comme une activité commerciale ?
+
+1276
+01:15:52,260 --> 01:15:53,780
+Et là, vous pourriez me dire,
+
+1277
+01:15:54,119 --> 01:15:57,100
+ben non, c'est une location, une activité commerciale,
+
+1278
+01:15:57,140 --> 01:15:58,100
+c'est quand je vends des trucs,
+
+1279
+01:15:58,699 --> 01:16:01,520
+je vends des pains au chocolat,
+
+1280
+01:16:01,520 --> 01:16:06,520
+je commercialise des produits, des services, etc.
+
+1281
+01:16:06,520 --> 01:16:21,020
+Là, ce n'est pas du tout le cas. C'est une location. Une location, c'est par essence civile. D'autant que moi, je le fais en tant que particulier. Je ne suis pas une grande société. Je n'ai pas tout ça. Ce n'est pas commercial du tout.
+
+1282
+01:16:21,020 --> 01:16:37,460
+Alors, c'est vrai que traditionnellement, une location immobilière, c'est une activité civile. Qu'il y ait des meubles ou pas de meubles dedans, c'est totalement accessoire. On s'en moque. Ça ne change rien. La location immobilière, c'est typiquement une activité civile.
+
+1283
+01:16:37,460 --> 01:16:51,960
+Ça, c'est une notion qui est ancienne. La location meublée, elle existe depuis la nuit des temps, etc. Et également, y compris en copropriété, y compris à usage d'habitation. Ça, c'est une activité civile traditionnelle classique.
+
+1284
+01:16:51,960 --> 01:17:04,279
+Mais la jurisprudence a récemment, ces dernières années, à cause ou grâce à Airbnb, fait évoluer cette notion de manière très très très nette.
+
+1285
+01:17:04,279 --> 01:17:29,719
+Et elle a vu une différence, elle a instauré une différence entre une location meublée classique, pour un étudiant qui va rester pendant un an ou deux ans le temps de faire ses études, pour quelqu'un qui est de passage dans une ville pendant six mois, un an, un an et demi, pour des raisons professionnelles.
+
+1286
+01:17:29,720 --> 01:17:42,020
+Pour quelqu'un qui est entre deux maisons, il est en train de vendre sa première maison, il fait construire sa deuxième maison, ça va durer un an, ça va durer huit mois, je ne sais pas, il a besoin de se loger.
+
+1287
+01:17:42,240 --> 01:17:50,460
+Mais quelqu'un qui va en faire son domicile et qui a une raison de venir habiter, résider ici.
+
+1288
+01:17:50,460 --> 01:17:58,119
+et distinction décisive avec l'allocation meublée touristique
+
+1289
+01:17:58,119 --> 01:18:01,520
+qui, elle, est répétée de courte durée
+
+1290
+01:18:01,520 --> 01:18:04,480
+à des gens qui sont de passage
+
+1291
+01:18:04,480 --> 01:18:08,560
+et surtout à des gens qui n'en feront pas leur domicile.
+
+1292
+01:18:10,300 --> 01:18:13,520
+À partir de ce moment-là, de plus en plus,
+
+1293
+01:18:13,859 --> 01:18:17,560
+la jurisprudence considère qu'il s'agit d'une activité commerciale.
+
+1294
+01:18:17,560 --> 01:18:21,039
+Rotation fréquente des occupants
+
+1295
+01:18:21,039 --> 01:18:24,600
+Clientèle de passage sans domiciliation
+
+1296
+01:18:24,600 --> 01:18:27,220
+Organisation de services
+
+1297
+01:18:27,220 --> 01:18:29,980
+Il faut faire le ménage, il faut remettre les clés
+
+1298
+01:18:29,980 --> 01:18:34,120
+Parfois on vous met à manger
+
+1299
+01:18:34,120 --> 01:18:39,200
+Il y a plein de services qui viennent se greffer au Airbnb
+
+1300
+01:18:39,200 --> 01:18:42,240
+Ils peuvent ne pas exister comme ils peuvent exister
+
+1301
+01:18:42,240 --> 01:18:44,500
+Et ces services peuvent être de toute nature
+
+1302
+01:18:44,500 --> 01:18:47,720
+et puis ça a un impact sur
+
+1303
+01:18:47,720 --> 01:18:49,539
+la vie collective de l'immeuble
+
+1304
+01:18:49,539 --> 01:18:51,600
+des autres copropriétaires qui vont subir
+
+1305
+01:18:51,600 --> 01:18:52,159
+des troubles
+
+1306
+01:18:52,159 --> 01:18:55,479
+et alors je vous ai souvent parlé
+
+1307
+01:18:55,479 --> 01:18:57,399
+de la jurisprudence et je vous ai souvent dit
+
+1308
+01:18:57,399 --> 01:18:59,420
+attention la jurisprudence
+
+1309
+01:18:59,420 --> 01:19:00,939
+il ne faut pas s'imaginer que
+
+1310
+01:19:00,939 --> 01:19:03,680
+quand un tribunal, quand une jurisprudence
+
+1311
+01:19:03,680 --> 01:19:05,539
+qu'est-ce que c'est une jurisprudence ? C'est une décision
+
+1312
+01:19:05,539 --> 01:19:06,039
+de justice
+
+1313
+01:19:06,039 --> 01:19:09,180
+il y a un litige, il y a un procès
+
+1314
+01:19:09,180 --> 01:19:11,680
+à l'issue du procès le tribunal
+
+1315
+01:19:11,680 --> 01:19:13,859
+prend une décision
+
+1316
+01:19:14,500 --> 01:19:15,939
+C'est ce qu'on appelle une jurisprudence.
+
+1317
+01:19:17,819 --> 01:19:22,060
+Une jurisprudence n'est pas une création de droits positifs.
+
+1318
+01:19:22,720 --> 01:19:26,539
+Une jurisprudence ne crée pas une nouvelle règle, ne crée pas une nouvelle loi.
+
+1319
+01:19:26,760 --> 01:19:30,579
+Une jurisprudence, c'est juste une décision d'un juge, un jour, dans un certain cas.
+
+1320
+01:19:32,020 --> 01:19:40,319
+Un autre juge, deux ans après, à qui on soumet le même cas, similaire,
+
+1321
+01:19:40,319 --> 01:19:46,819
+pourra décider complètement autre chose, il n'est pas obligé de respecter la décision de son comparse de deux ans auparavant,
+
+1322
+01:19:46,939 --> 01:19:49,719
+ça c'est dans les pays anglo-saxons, mais pas en France.
+
+1323
+01:19:50,219 --> 01:20:02,539
+Donc une jurisprudence, ça n'a pas grand intérêt, sauf en matière constitutionnelle ou en matière de droit administratif, de droit public ou de droit du travail.
+
+1324
+01:20:02,799 --> 01:20:06,219
+Mais en matière de droit civil, non, absolument pas.
+
+1325
+01:20:06,220 --> 01:20:23,260
+Donc, une jurisprudence, ça ne vaut pas grand-chose. Par contre, quand on voit que depuis cinq ans, il y a deux, il y a quatre, il y a six, il y a dix, il y a vingt jurisprudences qui vont toutes dans le même sens, là, on comprend que ça veut dire quelque chose.
+
+1326
+01:20:23,260 --> 01:20:34,300
+Ça veut dire que les tribunaux ont décidé de considérer cette question de cette manière-là. Et c'est le cas. C'est que là, l'évolution jurisprudentielle, elle est très nette, elle est constante, elle est continue et elle est stable.
+
+1327
+01:20:34,300 --> 01:20:37,820
+donc de plus en plus
+
+1328
+01:20:37,820 --> 01:20:40,360
+on a de très nombreux cas de jurisprudence
+
+1329
+01:20:40,360 --> 01:20:43,460
+qui considèrent que c'est une activité commerciale
+
+1330
+01:20:43,460 --> 01:20:47,180
+parce que c'est une activité destinée déjà à rapporter de l'argent
+
+1331
+01:20:47,180 --> 01:20:50,020
+à but uniquement et purement lucratif
+
+1332
+01:20:50,020 --> 01:20:53,320
+des rotations fréquentes
+
+1333
+01:20:53,320 --> 01:20:56,320
+clientèle de passage, pas de domiciliation
+
+1334
+01:20:56,320 --> 01:20:58,840
+il y a éventuellement des services supplémentaires
+
+1335
+01:20:58,840 --> 01:21:01,300
+qui constituent des marges économiques importantes
+
+1336
+01:21:01,300 --> 01:21:03,860
+et il y a un impact sur la vie collective de l'immeuble
+
+1337
+01:21:03,859 --> 01:21:10,299
+Alors, la loi Le Meur, là-dedans, comment elle vient se greffer ?
+
+1338
+01:21:10,299 --> 01:21:24,399
+Elle reconnaît de manière très claire, très explicite que la location meublée touristique de courte durée porte atteinte à la destination de l'immeuble qui ne prévoit pas d'activité commerciale.
+
+1339
+01:21:24,399 --> 01:21:35,699
+Les copropriétés doivent avoir la possibilité, le droit de s'en protéger, et cette activité peut donc être clairement autorisée ou interdite dans le règlement de copropriété.
+
+1340
+01:21:36,339 --> 01:21:49,359
+Donc, le législateur, par la loi Lemaire, a enterriné cette idée que les locations d'Airbnb... Vous m'avez mis un autre truc, là, c'est Cocooner, je ne connaissais pas du tout, c'est Julien qui me dit ça.
+
+1341
+01:21:49,359 --> 01:21:55,699
+Alors, il y a Booking, oui, il y a Booking, éventuellement, tout à fait, c'est une plateforme, vous avez raison.
+
+1342
+01:21:57,500 --> 01:22:15,199
+Donc, ces plateformes, en fait, ne sont pas une simple modalité de jouissance, mais une activité suffisamment précise, spécifique, déterminée pour justifier une interdiction collective.
+
+1343
+01:22:16,139 --> 01:22:27,699
+Donc ça permet de consacrer juridiquement ce que la jurisprudence avait de plus en plus construit comme idée.
+
+1344
+01:22:27,699 --> 01:22:36,420
+C'est ce que je vous disais, la jurisprudence au bout de 10, 15, 20 décisions similaires, ça commence à envoyer un message et puis à partir d'un certain moment le législateur se dit
+
+1345
+01:22:36,420 --> 01:22:42,579
+« bon ben voilà, on va suivre ça et on va créer une loi qui va dans ce sens-là » parce que c'est l'évolution naturelle.
+
+1346
+01:22:42,579 --> 01:23:01,059
+Donc, le règlement de copropriété peut parfaitement interdire l'élocation Airbnb. C'est absolument tout à fait clairement possible sur le fond.
+
+1347
+01:23:01,060 --> 01:23:02,920
+mais attention
+
+1348
+01:23:02,920 --> 01:23:05,200
+il y a autre chose
+
+1349
+01:23:05,200 --> 01:23:06,800
+dans ce que nous a envoyé Eric
+
+1350
+01:23:06,800 --> 01:23:08,840
+donc ça c'est une résolution
+
+1351
+01:23:08,840 --> 01:23:12,300
+un compte rendu d'AG
+
+1352
+01:23:12,300 --> 01:23:15,039
+c'est pas le règlement de copropriété
+
+1353
+01:23:15,039 --> 01:23:16,580
+c'est un compte rendu d'AG
+
+1354
+01:23:16,580 --> 01:23:18,539
+et alors là il n'y a rien qui va
+
+1355
+01:23:18,539 --> 01:23:20,660
+parce que si
+
+1356
+01:23:20,660 --> 01:23:22,940
+oui on est d'accord
+
+1357
+01:23:22,940 --> 01:23:24,720
+pour dire que
+
+1358
+01:23:24,720 --> 01:23:26,920
+la location
+
+1359
+01:23:26,920 --> 01:23:27,680
+des Airbnb
+
+1360
+01:23:27,680 --> 01:23:30,600
+peut être parfaitement interdite
+
+1361
+01:23:30,600 --> 01:23:32,620
+dans le règlement de copropriété,
+
+1362
+01:23:33,440 --> 01:23:34,780
+cette résolution qu'on a ici,
+
+1363
+01:23:34,960 --> 01:23:36,780
+elle, elle est totalement illégale.
+
+1364
+01:23:37,300 --> 01:23:39,060
+C'est un torchon.
+
+1365
+01:23:39,600 --> 01:23:41,120
+Un torchon.
+
+1366
+01:23:42,039 --> 01:23:44,039
+C'est pas le règlement de copropriété, hein.
+
+1367
+01:23:44,380 --> 01:23:47,480
+C'est une résolution d'assemblée générale.
+
+1368
+01:23:49,960 --> 01:23:52,100
+Cette résolution d'assemblée générale,
+
+1369
+01:23:52,100 --> 01:23:56,079
+elle, c'est ni fait ni à faire.
+
+1370
+01:23:56,700 --> 01:23:58,780
+Je sais pas s'il y avait un syndic professionnel là-dedans
+
+1371
+01:23:58,779 --> 01:24:02,960
+ou s'ils ont fait ça avec un syndic bénévole, mais c'est un torchon.
+
+1372
+01:24:03,099 --> 01:24:07,840
+Alors résolution numéro 15, ça veut dire que c'est quelqu'un dans l'immeuble
+
+1373
+01:24:07,840 --> 01:24:10,500
+qui avait dit je veux qu'on discute à la prochaine Assemblée Générale
+
+1374
+01:24:10,500 --> 01:24:13,539
+de l'interdiction des locations de courte durée de type Airbnb.
+
+1375
+01:24:14,439 --> 01:24:19,119
+Double majorité de l'article 26 de la loi, soit un nombre de voix égale d'eau tiers, machin, blablabla.
+
+1376
+01:24:19,880 --> 01:24:22,519
+Ça aussi c'est quelque chose qui a été modifié par la loi Lemaire
+
+1377
+01:24:22,519 --> 01:24:26,579
+qui modifie le quorum nécessaire pour le vote de certaines résolutions
+
+1378
+01:24:26,579 --> 01:24:30,239
+relatives à des changements de destination, etc.
+
+1379
+01:24:31,600 --> 01:24:35,039
+Donc, on rappelle les pages 1, 20 et 21 du RCP,
+
+1380
+01:24:35,340 --> 01:24:36,239
+immeubles d'habitation,
+
+1381
+01:24:37,239 --> 01:24:39,100
+où les professions libérales sont autorisées,
+
+1382
+01:24:39,859 --> 01:24:42,019
+la transformation des appartements en chambres meublées
+
+1383
+01:24:42,019 --> 01:24:45,279
+pour être exploitées en garni est interdite,
+
+1384
+01:24:45,439 --> 01:24:47,579
+donc ça on sait que c'est un ancien règlement de copropriété,
+
+1385
+01:24:47,579 --> 01:24:50,960
+et ça c'est confirmé puisque Eric nous dit
+
+1386
+01:24:50,960 --> 01:24:51,920
+que c'est un immeuble des années 70,
+
+1387
+01:24:52,899 --> 01:24:54,640
+les commerces sont également interdits.
+
+1388
+01:24:54,640 --> 01:24:57,560
+les locations de courte durée
+
+1389
+01:24:57,560 --> 01:24:59,940
+de type Airbnb sont donc interdites
+
+1390
+01:24:59,940 --> 01:25:01,740
+dans la copropriété
+
+1391
+01:25:01,740 --> 01:25:05,340
+ça ne colle pas parce qu'en fait
+
+1392
+01:25:05,340 --> 01:25:07,300
+ils sont en train de prendre une résolution
+
+1393
+01:25:07,300 --> 01:25:11,920
+en se basant sur des articles
+
+1394
+01:25:11,920 --> 01:25:13,100
+qui existent déjà
+
+1395
+01:25:13,100 --> 01:25:15,060
+dans le règlement de copropriété
+
+1396
+01:25:15,060 --> 01:25:17,560
+mais en mélangeant
+
+1397
+01:25:17,560 --> 01:25:19,960
+une résolution et le RCP
+
+1398
+01:25:19,960 --> 01:25:21,960
+parce que ce qui est éventuellement
+
+1399
+01:25:21,960 --> 01:25:24,260
+défini ici
+
+1400
+01:25:24,260 --> 01:25:28,420
+doit être transmis ensuite dans le règlement de copropriété.
+
+1401
+01:25:29,840 --> 01:25:41,600
+Donc, on ne peut pas mélanger un PV d'AG et le règlement de copropriété.
+
+1402
+01:25:41,800 --> 01:25:45,659
+Si on veut effectivement interdire les Airbnb, il va falloir modifier le règlement de copropriété.
+
+1403
+01:25:45,659 --> 01:25:54,100
+Or, on nous dit ici, c'est ici ou c'est sur le deuxième truc qu'ils le mettent ici,
+
+1404
+01:25:54,260 --> 01:25:56,000
+Le deuxième truc, il est là.
+
+1405
+01:25:56,100 --> 01:25:56,920
+Ah oui, voilà, c'est ici.
+
+1406
+01:25:57,380 --> 01:25:59,560
+C'est dans la deuxième image que nous a envoyé Eric.
+
+1407
+01:26:00,539 --> 01:26:03,140
+L'Assemblée approuve la modification au règlement de copropriété
+
+1408
+01:26:03,140 --> 01:26:04,600
+par l'insertion de la clause 1.
+
+1409
+01:26:04,680 --> 01:26:06,000
+L'allocation en meublé de tourisme.
+
+1410
+01:26:06,140 --> 01:26:08,699
+Donc, ils disent qu'on veut modifier le règlement de copropriété
+
+1411
+01:26:08,699 --> 01:26:09,980
+en insérant la clause suivante.
+
+1412
+01:26:10,360 --> 01:26:12,760
+L'allocation en meublé de tourisme au sens de l'article machin
+
+1413
+01:26:12,760 --> 01:26:15,039
+est interdite dans les lots à usage d'habitation
+
+1414
+01:26:15,039 --> 01:26:17,960
+autres que ceux constituant une résidence principale.
+
+1415
+01:26:18,780 --> 01:26:20,180
+Les frais de modificatif.
+
+1416
+01:26:20,400 --> 01:26:22,440
+La présente résolution devrait être validée par un notaire
+
+1417
+01:26:22,439 --> 01:26:24,439
+afin de s'assurer qu'elle respecte le règlement de copropriété.
+
+1418
+01:26:27,059 --> 01:26:31,699
+Cependant, l'Assemblée Générale ne décide pas de faire réaliser ce modificatif par un notaire
+
+1419
+01:26:31,699 --> 01:26:33,179
+et ne donne pas mandat au sein du...
+
+1420
+01:26:33,179 --> 01:26:40,079
+Si on ne le met pas au règlement de copropriété, ça n'aura donc aucune valeur.
+
+1421
+01:26:41,199 --> 01:26:46,619
+Ils veulent interdire, prendre acte de l'interdiction d'élocution de courte durée dans la copropriété.
+
+1422
+01:26:46,619 --> 01:26:48,899
+ils veulent
+
+1423
+01:26:48,899 --> 01:26:51,979
+que cette modification
+
+1424
+01:26:51,979 --> 01:26:54,260
+s'applique dès le lendemain
+
+1425
+01:26:54,260 --> 01:26:55,359
+de l'Assemblée Générale
+
+1426
+01:26:55,359 --> 01:26:58,019
+mais ils ne veulent pas le mettre dans le règlement de copropriété
+
+1427
+01:26:58,019 --> 01:26:59,399
+ah ben ça c'est impossible
+
+1428
+01:26:59,399 --> 01:27:01,579
+soit c'est dans le règlement de copropriété
+
+1429
+01:27:01,579 --> 01:27:04,079
+soit ça n'est pas dans le règlement de copropriété
+
+1430
+01:27:04,079 --> 01:27:06,000
+on ne peut pas dire, on le décide
+
+1431
+01:27:06,000 --> 01:27:08,220
+mais on ne le met pas comme on le souhaite
+
+1432
+01:27:08,220 --> 01:27:10,359
+alors après il y a plein d'autres
+
+1433
+01:27:10,359 --> 01:27:11,720
+erreurs juridiques
+
+1434
+01:27:11,720 --> 01:27:13,840
+là-dedans, donc déjà
+
+1435
+01:27:13,840 --> 01:27:15,479
+on mélange complètement les majorités
+
+1436
+01:27:15,479 --> 01:27:18,219
+parce qu'on parle de la modification du règlement de copropriété
+
+1437
+01:27:18,219 --> 01:27:19,759
+pour interdire les meublés
+
+1438
+01:27:19,759 --> 01:27:22,239
+mais on veut appliquer l'article
+
+1439
+01:27:22,239 --> 01:27:23,819
+25
+
+1440
+01:27:23,819 --> 01:27:26,259
+alors c'est l'article 25
+
+1441
+01:27:26,259 --> 01:27:27,919
+de la loi de 65
+
+1442
+01:27:27,919 --> 01:27:30,479
+on en a déjà souvent parlé quand on a parlé des copropriétés
+
+1443
+01:27:30,479 --> 01:27:32,159
+les copropriétés sont régies
+
+1444
+01:27:32,159 --> 01:27:33,759
+en France par la loi de 1965
+
+1445
+01:27:33,759 --> 01:27:36,159
+et les modifications
+
+1446
+01:27:36,699 --> 01:27:38,159
+de destination c'est l'article
+
+1447
+01:27:38,159 --> 01:27:39,319
+25 et eux
+
+1448
+01:27:39,319 --> 01:27:41,779
+l'article 26d pardon et eux ils veulent
+
+1449
+01:27:41,779 --> 01:27:44,000
+appliquer l'article 25 ce qui n'est pas possible
+
+1450
+01:27:44,000 --> 01:27:54,819
+Donc c'est déjà juridiquement absolument faux. Deuxièmement, il parle des locations de type Airbnb sont interdites, là je ne sais pas si vous voyez bien ma souris, dans la copropriété.
+
+1451
+01:27:55,119 --> 01:28:06,100
+Bon, la rédaction est totalement illégale parce qu'à ce moment, à ce stade du texte, aucune modification du RCP n'a encore été adoptée ni publiée.
+
+1452
+01:28:06,940 --> 01:28:12,360
+Donc, une interdiction ne peut exister juridiquement que si elle est dans le règlement de copropriété publié.
+
+1453
+01:28:12,960 --> 01:28:16,520
+Et une assemblée générale ne peut pas créer une interdiction juste parce qu'il constate que.
+
+1454
+01:28:17,160 --> 01:28:21,039
+Donc, déjà, la rédaction, c'est n'importe quoi.
+
+1455
+01:28:21,780 --> 01:28:22,740
+Absolument n'importe quoi.
+
+1456
+01:28:23,100 --> 01:28:25,380
+Après, il y a des choses qui sont un peu mal formulées.
+
+1457
+01:28:25,380 --> 01:28:31,460
+Quand on dit que la loi Lemaire remplace l'unanimité par la majorité de l'article 26d, c'est vrai,
+
+1458
+01:28:31,460 --> 01:28:33,619
+mais ça ne vaut que pour les copropriétés
+
+1459
+01:28:33,619 --> 01:28:35,939
+dont le règlement interdit toute activité
+
+1460
+01:28:35,939 --> 01:28:37,760
+commerciale et à aucun moment on démontre
+
+1461
+01:28:37,760 --> 01:28:39,960
+que cette condition est remplie
+
+1462
+01:28:39,960 --> 01:28:41,520
+juridiquement, donc ça c'est fragile
+
+1463
+01:28:41,520 --> 01:28:43,520
+c'est comme l'obligation de déclaration auprès du syndic
+
+1464
+01:28:43,520 --> 01:28:45,600
+c'est vrai, mais c'est mal cadré
+
+1465
+01:28:45,600 --> 01:28:47,359
+c'est fragile, donc
+
+1466
+01:28:47,359 --> 01:28:49,239
+c'est n'importe quoi
+
+1467
+01:28:49,239 --> 01:28:51,899
+cette astreinte de 100€ par jour, en cas de non-respect
+
+1468
+01:28:51,899 --> 01:28:53,779
+de cette procédure de déclaration, les propriétaires
+
+1469
+01:28:53,779 --> 01:28:55,279
+s'exposent à une astreinte administrative
+
+1470
+01:28:55,279 --> 01:28:57,699
+pouvant atteindre 100€ par jour
+
+1471
+01:28:57,699 --> 01:28:59,480
+de retard, alors ça c'est un torchon
+
+1472
+01:28:59,480 --> 01:29:01,319
+c'est n'importe quoi
+
+1473
+01:29:01,319 --> 01:29:07,059
+parce que la copropriété ne peut pas décider elle-même d'une astreinte administrative.
+
+1474
+01:29:07,739 --> 01:29:10,119
+Qui peut décider de l'astreinte administrative ?
+
+1475
+01:29:10,119 --> 01:29:15,279
+L'administration et les tribunaux, typiquement le tribunal administratif.
+
+1476
+01:29:15,920 --> 01:29:19,460
+Donc, ce n'est pas une sanction automatique qui peut être décidée par la copropriété.
+
+1477
+01:29:19,619 --> 01:29:22,179
+Elle dépend de la commune, de la réglementation locale.
+
+1478
+01:29:22,179 --> 01:29:27,259
+La copropriété ne peut pas elle-même dire « Donnez-nous 100 euros, merci, on va aller au bistrot avec ».
+
+1479
+01:29:27,260 --> 01:29:31,720
+Non, ça c'est totalement, absolument, complètement illégal.
+
+1480
+01:29:32,579 --> 01:29:38,100
+Mais le pire, vraiment le pire, c'est ce qu'on a ici sur ne pas passer chez le notaire.
+
+1481
+01:29:38,520 --> 01:29:42,100
+Ça c'est un vrai problème, l'Assemblée Générale l'approuve,
+
+1482
+01:29:42,320 --> 01:29:45,520
+mais on ne fera pas de modification chez le notaire.
+
+1483
+01:29:46,180 --> 01:29:47,320
+Ça n'a aucun sens.
+
+1484
+01:29:47,920 --> 01:29:50,920
+Il faudrait que ce soit publié au bureau des hypothèques,
+
+1485
+01:29:51,280 --> 01:29:54,900
+pour être opposable au copropriétaire, opposable au tiers.
+
+1486
+01:29:54,899 --> 01:29:59,319
+cette résolution
+
+1487
+01:29:59,319 --> 01:30:00,420
+je ne sais pas si elle a été faite
+
+1488
+01:30:00,420 --> 01:30:01,619
+je demanderais à Eric
+
+1489
+01:30:01,619 --> 01:30:05,000
+par un syndic professionnel ou par un syndic bénévole
+
+1490
+01:30:05,000 --> 01:30:07,359
+mais toutes ces résolutions c'est un torchon
+
+1491
+01:30:07,359 --> 01:30:09,259
+ça n'a aucune valeur juridique
+
+1492
+01:30:09,259 --> 01:30:10,939
+et un propriétaire
+
+1493
+01:30:10,939 --> 01:30:13,599
+qui se verrait
+
+1494
+01:30:13,599 --> 01:30:15,859
+embêté par la copropriété
+
+1495
+01:30:15,859 --> 01:30:16,699
+parce que lui
+
+1496
+01:30:16,699 --> 01:30:19,439
+fait des Airbnb dans son appartement
+
+1497
+01:30:19,439 --> 01:30:22,539
+oui
+
+1498
+01:30:22,539 --> 01:30:24,119
+comme je vous l'ai dit juste avant
+
+1499
+01:30:24,119 --> 01:30:40,619
+Il est possible, grâce à la loi Lemaire, mais déjà avec la jurisprudence, c'était pas mal consacré, d'interdire dans une copropriété d'avoir des activités de meublé de tourisme de type Airbnb. On le peut, c'est tout à fait possible.
+
+1500
+01:30:40,619 --> 01:30:43,159
+mais le propriétaire là
+
+1501
+01:30:43,159 --> 01:30:45,500
+qui se verrait embêté par la copropriété
+
+1502
+01:30:45,500 --> 01:30:46,800
+dans cette copropriété
+
+1503
+01:30:46,800 --> 01:30:49,079
+parce qu'il fait du Airbnb
+
+1504
+01:30:49,079 --> 01:30:52,000
+lui, il est sûr de gagner au tribunal
+
+1505
+01:30:52,000 --> 01:30:53,800
+parce que
+
+1506
+01:30:53,800 --> 01:30:55,579
+cette interdiction n'a pas
+
+1507
+01:30:55,579 --> 01:30:57,779
+du tout été effectuée
+
+1508
+01:30:57,779 --> 01:30:59,279
+comme il le faut
+
+1509
+01:30:59,279 --> 01:31:01,099
+dans cette copropriété
+
+1510
+01:31:01,099 --> 01:31:03,619
+tout ce qui est ici, ces résolutions
+
+1511
+01:31:03,619 --> 01:31:05,859
+ne tiendraient pas devant le tribunal
+
+1512
+01:31:05,859 --> 01:31:07,559
+administratif, ça n'aurait
+
+1513
+01:31:07,559 --> 01:31:09,260
+aucune valeur parce que c'est un
+
+1514
+01:31:09,260 --> 01:31:10,619
+Un torchon.
+
+1515
+01:31:11,680 --> 01:31:21,199
+Donc, la possibilité de l'interdire, oui, absolument, mais pas comme ça.
+
+1516
+01:31:21,500 --> 01:31:23,600
+Pas n'importe comment et certainement pas comme ça.
+
+1517
+01:31:24,020 --> 01:31:28,119
+Là, c'est un torchon, ça ne peut aller absolument nulle part.
+
+1518
+01:31:28,539 --> 01:31:31,760
+Ça n'a aucune valeur juridique.
+
+1519
+01:31:33,020 --> 01:31:37,060
+Alors, est-ce que vous avez des questions ?
+
+1520
+01:31:37,060 --> 01:31:39,539
+La liste officielle pour le meublé est très light.
+
+1521
+01:31:39,760 --> 01:31:41,039
+Oui, oui, absolument.
+
+1522
+01:31:41,380 --> 01:31:43,220
+C'est marge en réquis, tout à fait vrai.
+
+1523
+01:31:43,660 --> 01:31:46,460
+Au fait, nous, on a bien un code APE 4619B,
+
+1524
+01:31:46,700 --> 01:31:48,520
+autre intermédiaire du commerce en produits divers.
+
+1525
+01:31:48,640 --> 01:31:50,560
+Ah ben, on va parler de ça dans un instant, si vous voulez.
+
+1526
+01:31:50,740 --> 01:31:52,260
+Là, c'est une très bonne idée d'en parler.
+
+1527
+01:31:52,900 --> 01:31:56,800
+Question de Pierre, là, à La Sentinelle, côté de Valenciennes.
+
+1528
+01:31:56,960 --> 01:31:58,200
+On en parle dans un instant.
+
+1529
+01:31:59,140 --> 01:32:00,400
+Dans un petit instant.
+
+1530
+01:32:00,520 --> 01:32:03,000
+Je vais d'abord reprendre les autres questions qu'il y a à ce sujet.
+
+1531
+01:32:03,120 --> 01:32:03,900
+On en parle dans un instant.
+
+1532
+01:32:03,899 --> 01:32:05,279
+décret 2015
+
+1533
+01:32:05,279 --> 01:32:07,519
+indice 98.1
+
+1534
+01:32:07,519 --> 01:32:09,379
+critères de meubles d'un meublé
+
+1535
+01:32:09,379 --> 01:32:12,039
+bon nombre de mes locataires LMNP
+
+1536
+01:32:12,039 --> 01:32:13,739
+sont présents depuis plus de 8 ans car je les
+
+1537
+01:32:13,739 --> 01:32:15,960
+bichonne en SAV pour qu'ils restent
+
+1538
+01:32:15,960 --> 01:32:17,939
+et cela fonctionne, oui quand on a
+
+1539
+01:32:17,939 --> 01:32:19,739
+un bon locataire, il faut effectivement
+
+1540
+01:32:19,739 --> 01:32:21,879
+le bichonner, Véronique a tout à fait
+
+1541
+01:32:21,879 --> 01:32:23,759
+tout à fait tout à fait raison, alors les
+
+1542
+01:32:23,759 --> 01:32:25,500
+critères de meubles d'un meublé effectivement c'est le décret
+
+1543
+01:32:25,500 --> 01:32:27,259
+2015 98.1
+
+1544
+01:32:27,259 --> 01:32:29,879
+ça ce que je ne savais pas, que je ne connaissais pas
+
+1545
+01:32:29,879 --> 01:32:31,899
+du tout son numéro, par coeur merci à Véro
+
+1546
+01:32:31,899 --> 01:32:33,199
+au nord c'était les cons
+
+1547
+01:32:33,199 --> 01:32:40,019
+« Le son est bon. Normalement, tout service donnant lieu à rémunération est considéré comme un acte commercial, je pense. »
+
+1548
+01:32:40,019 --> 01:32:40,659
+Non, pas forcément.
+
+1549
+01:32:42,159 --> 01:32:46,439
+Un acte commercial, alors attention, commercial est l'acte de commerce.
+
+1550
+01:32:46,760 --> 01:32:48,800
+Si vous voulez, on va définir ça très rapidement.
+
+1551
+01:32:50,260 --> 01:32:53,059
+Déjà, l'acte de commerce, qu'est-ce que c'est ?
+
+1552
+01:32:53,059 --> 01:32:54,439
+Alors, c'est défini par le code de commerce.
+
+1553
+01:32:54,439 --> 01:33:01,479
+Ce sont des actes dont la quintessence même, l'exemple parfait de l'acte de commerce, c'est l'achat-revente.
+
+1554
+01:33:01,479 --> 01:33:04,799
+j'achète un produit à un certain prix
+
+1555
+01:33:04,799 --> 01:33:05,500
+donc j'achète
+
+1556
+01:33:05,500 --> 01:33:06,959
+je vous dis une bêtise
+
+1557
+01:33:06,959 --> 01:33:10,379
+un ordinateur
+
+1558
+01:33:10,379 --> 01:33:11,199
+1000 euros
+
+1559
+01:33:11,199 --> 01:33:13,759
+et je le revends
+
+1560
+01:33:13,759 --> 01:33:15,139
+1500 euros
+
+1561
+01:33:15,139 --> 01:33:16,919
+ça c'est un acte de commerce
+
+1562
+01:33:16,919 --> 01:33:19,319
+c'est l'achat d'un produit
+
+1563
+01:33:19,319 --> 01:33:24,279
+puis la revente de ce même produit
+
+1564
+01:33:24,279 --> 01:33:26,359
+en réalisant un bénéfice
+
+1565
+01:33:26,359 --> 01:33:28,719
+ça c'est la définition parfaite
+
+1566
+01:33:28,719 --> 01:33:30,259
+c'est l'archétype
+
+1567
+01:33:30,260 --> 01:33:31,699
+de l'acte de commerce.
+
+1568
+01:33:32,840 --> 01:33:34,380
+Après, il y a l'activité
+
+1569
+01:33:34,380 --> 01:33:35,900
+commerciale.
+
+1570
+01:33:36,119 --> 01:33:37,840
+Nous, à chaque fois qu'il y a un échange d'argent,
+
+1571
+01:33:37,980 --> 01:33:40,020
+ce n'est pas forcément une activité commerciale.
+
+1572
+01:33:40,140 --> 01:33:42,020
+Regardez si, et on va reprendre
+
+1573
+01:33:42,020 --> 01:33:42,900
+l'exemple de la location,
+
+1574
+01:33:43,840 --> 01:33:46,000
+si j'achète un appartement
+
+1575
+01:33:46,000 --> 01:33:47,100
+à Paris,
+
+1576
+01:33:48,400 --> 01:33:52,100
+je ne suis pas une société commerciale.
+
+1577
+01:33:52,860 --> 01:33:54,320
+Moi, Nicolas Gann,
+
+1578
+01:33:54,380 --> 01:33:55,579
+j'achète un appartement à Paris
+
+1579
+01:33:55,579 --> 01:33:57,739
+et je le loue à des locataires.
+
+1580
+01:33:58,940 --> 01:33:59,900
+Je reçois de l'argent
+
+1581
+01:33:59,899 --> 01:34:01,859
+en échange. Mais ce n'est pas du tout une activité
+
+1582
+01:34:01,859 --> 01:34:03,179
+commerciale. C'est une activité
+
+1583
+01:34:03,179 --> 01:34:04,159
+civile.
+
+1584
+01:34:07,179 --> 01:34:08,039
+Cette activité
+
+1585
+01:34:08,039 --> 01:34:10,179
+civile, elle ne sera pas soumise à la TVA,
+
+1586
+01:34:11,039 --> 01:34:11,859
+elle ne sera pas
+
+1587
+01:34:11,859 --> 01:34:14,019
+soumise à l'impôt sur les sociétés,
+
+1588
+01:34:14,399 --> 01:34:15,939
+elle sera intégrée
+
+1589
+01:34:15,939 --> 01:34:17,979
+dans mon
+
+1590
+01:34:17,979 --> 01:34:19,439
+assiette
+
+1591
+01:34:19,439 --> 01:34:21,779
+de calcul de l'impôt sur le revenu.
+
+1592
+01:34:22,079 --> 01:34:23,779
+Ce ne sera pas une activité commerciale.
+
+1593
+01:34:23,839 --> 01:34:24,879
+Donc, pas forcément.
+
+1594
+01:34:24,879 --> 01:34:27,199
+Non. En l'absence d'interdiction
+
+1595
+01:34:27,199 --> 01:34:28,779
+dans le règlement de copropriété,
+
+1596
+01:34:28,779 --> 01:34:41,960
+C'est Guillaume qui dit ça. Mais alors, je ne sais pas quel Guillaume. C'est écrit juste Guillaume. En l'absence d'interdiction dans le règlement de copropriété, le syndic peut-il faire voter une résolution afin d'interdire l'allocation de type Airbnb et la rendre applicable ?
+
+1597
+01:34:41,960 --> 01:34:52,340
+Alors, non, tant qu'ils ne l'ont pas intégré dans le règlement de copropriété.
+
+1598
+01:34:53,420 --> 01:34:54,899
+La question de Guillaume est simple.
+
+1599
+01:34:55,480 --> 01:35:02,300
+S'il n'y a pas d'interdiction dans le règlement de copropriété, est-ce qu'on peut voter une résolution pour l'interdire et la rendre applicable ?
+
+1600
+01:35:02,300 --> 01:35:16,760
+On peut la voter, oui, mais on vote cette interdiction qu'on va ensuite intégrer dans le règlement de copropriété, dans les formes, le notaire, le machin, le truc, etc.
+
+1601
+01:35:17,500 --> 01:35:27,800
+Et là, si elle est rédigée comme il faut et qu'elle est insérée, déjà votée comme il faut, rédigée comme il faut, insérée comme il faut dans le règlement de copropriété, publiée le règlement de copropriété, etc.
+
+1602
+01:35:27,800 --> 01:35:40,039
+À ce moment-là, oui, une simple résolution votée à cet effet n'est pas applicable, tant qu'elle n'est pas, comme il le faut dans le règlement de copropriété.
+
+1603
+01:35:42,220 --> 01:35:50,100
+Alors, s'il n'y a pas d'autres questions là-dessus, on va revenir sur la remarque qui a été faite par Pierre.
+
+1604
+01:35:50,100 --> 01:35:59,160
+Au fait, nous, on a bien un code APE 4619B, autre intermédiaire du commerce en produits divers.
+
+1605
+01:36:00,160 --> 01:36:05,060
+Oui, mais les choses se sont diablement compliquées ces dernières années.
+
+1606
+01:36:05,700 --> 01:36:09,140
+Et je vais vous expliquer ça, et c'est une question qui est assez intéressante.
+
+1607
+01:36:10,300 --> 01:36:11,160
+Oups, voilà.
+
+1608
+01:36:14,320 --> 01:36:16,840
+Hop, on va fermer ça, on va fermer ça.
+
+1609
+01:36:17,079 --> 01:36:18,760
+Je vais essayer de vous trouver quelques petits éléments.
+
+1610
+01:36:20,100 --> 01:36:23,900
+quelques petits éléments
+
+1611
+01:36:23,900 --> 01:36:26,539
+pour illustrer ça
+
+1612
+01:36:26,539 --> 01:36:28,520
+est-ce que je peux retrouver
+
+1613
+01:36:28,520 --> 01:36:29,120
+d'ailleurs
+
+1614
+01:36:29,120 --> 01:36:30,480
+le
+
+1615
+01:36:30,480 --> 01:36:32,920
+Mickaël
+
+1616
+01:36:32,920 --> 01:36:35,560
+Jarzé
+
+1617
+01:36:35,560 --> 01:36:37,380
+pour
+
+1618
+01:36:37,380 --> 01:36:39,520
+vous montrer exactement
+
+1619
+01:36:39,520 --> 01:36:42,480
+le code APE de la personne
+
+1620
+01:36:42,480 --> 01:36:44,260
+en question dont on a parlé avec
+
+1621
+01:36:44,260 --> 01:36:47,020
+Mickaël il y a quelques jours
+
+1622
+01:36:47,020 --> 01:37:10,260
+j'essaie de j'essaie de récupérer le le code ap e de la non je n'ai pas
+
+1623
+01:37:10,260 --> 01:37:20,020
+c'est dommage j'ai plus le code ape du jeu en train de chercher là de
+
+1624
+01:37:20,020 --> 01:37:26,739
+de ce chasseur d'appartements faux chasseurs d'appartements qui voulait
+
+1625
+01:37:26,739 --> 01:37:30,220
+faire le truc avec avec michael il ya quelques jours ce que je vous aurais
+
+1626
+01:37:30,220 --> 01:37:34,579
+montré lui c'était carrément activité de décoration d'intérieur machin je sais
+
+1627
+01:37:34,579 --> 01:37:38,980
+pas quoi alors oui vous en tant que agent commercial en immobilier
+
+1628
+01:37:38,979 --> 01:37:48,919
+vous devez avoir un certain code APE
+
+1629
+01:37:48,919 --> 01:37:51,379
+alors le code APE, qu'on appelle également le code NAF
+
+1630
+01:37:51,379 --> 01:37:53,139
+pour différentes raisons, c'est un code
+
+1631
+01:37:53,139 --> 01:37:55,239
+qui vous est attribué par l'INSEE
+
+1632
+01:37:55,239 --> 01:37:57,379
+donc l'Institut National
+
+1633
+01:37:57,379 --> 01:37:59,319
+de la Statistique et des Études Économiques
+
+1634
+01:37:59,319 --> 01:38:01,619
+l'INSEE
+
+1635
+01:38:01,619 --> 01:38:02,939
+attribue
+
+1636
+01:38:02,939 --> 01:38:04,659
+un code d'activité
+
+1637
+01:38:04,659 --> 01:38:06,539
+c'est un code
+
+1638
+01:38:06,539 --> 01:38:08,919
+qui est composé de chiffres et de lettres
+
+1639
+01:38:08,979 --> 01:38:11,779
+à tout professionnel
+
+1640
+01:38:11,779 --> 01:38:12,219
+en France.
+
+1641
+01:38:13,299 --> 01:38:15,479
+Vous êtes boulanger, vous avez un certain
+
+1642
+01:38:15,479 --> 01:38:17,579
+d'ailleurs, on va regarder, je vais vous montrer
+
+1643
+01:38:17,579 --> 01:38:18,819
+ça rapidement dans
+
+1644
+01:38:18,819 --> 01:38:19,879
+Google.
+
+1645
+01:38:22,219 --> 01:38:23,779
+Liste des codes
+
+1646
+01:38:23,779 --> 01:38:25,839
+APE.
+
+1647
+01:38:27,699 --> 01:38:28,819
+Table des codes APE.
+
+1648
+01:38:32,339 --> 01:38:33,179
+Ah, il y en a des.
+
+1649
+01:38:33,959 --> 01:38:35,059
+Il y en a des pages entières.
+
+1650
+01:38:35,719 --> 01:38:37,500
+Je ne sais pas combien il y en a, des centaines,
+
+1651
+01:38:37,500 --> 01:38:39,039
+des milliers, des milliards, j'en sais rien
+
+1652
+01:38:39,039 --> 01:38:41,859
+vous faites de la culture
+
+1653
+01:38:41,859 --> 01:38:43,460
+de céréales à l'exception du riz
+
+1654
+01:38:43,460 --> 01:38:45,539
+de légumineuses et de graines oléagineuses
+
+1655
+01:38:45,539 --> 01:38:48,060
+vous êtes 0,1, 11, Z
+
+1656
+01:38:48,060 --> 01:38:49,659
+si vous cultivez
+
+1657
+01:38:49,659 --> 01:38:52,319
+du riz, vous êtes 0,1, 12, Z
+
+1658
+01:38:52,319 --> 01:38:53,859
+si vous cultivez des légumes
+
+1659
+01:38:53,859 --> 01:38:55,739
+des melons, des racines et des tubercules
+
+1660
+01:38:55,739 --> 01:38:58,079
+vous êtes 0,1, 13, Z
+
+1661
+01:38:58,079 --> 01:38:59,720
+si vous fabriquez
+
+1662
+01:38:59,720 --> 01:39:01,479
+des vêtements en cuir, vous êtes
+
+1663
+01:39:01,479 --> 01:39:02,880
+14, 11, Z
+
+1664
+01:39:02,880 --> 01:39:06,159
+des vêtements de travail, vous êtes 14, 12, Z
+
+1665
+01:39:06,159 --> 01:39:36,139
+Et ça va, comme ça, vous fabriquez des articles métalliques, vous êtes 2599B. Et puis il y a tout. Travaux de couverture par élément, 4391B. C'est un code qui vous est donc attribué, je vous disais, par l'INSEE, pour pouvoir tout simplement ranger, classifier les professionnels dans la bonne catégorie, au bon endroit, pour faire des statistiques, avoir des données, etc.
+
+1666
+01:39:36,159 --> 01:39:38,000
+des chiffres, sur l'économie,
+
+1667
+01:39:38,399 --> 01:39:40,619
+savoir quel est le chiffre
+
+1668
+01:39:40,619 --> 01:39:42,619
+que représente
+
+1669
+01:39:43,220 --> 01:39:44,619
+économiquement la fabrication
+
+1670
+01:39:44,619 --> 01:39:46,399
+de vêtements en cuir. Ce n'est pas compliqué.
+
+1671
+01:39:46,619 --> 01:39:47,159
+On va prendre
+
+1672
+01:39:47,159 --> 01:39:50,279
+tous les gens qui ont cette
+
+1673
+01:39:50,279 --> 01:39:52,420
+classification-là, 14,
+
+1674
+01:39:52,539 --> 01:39:54,819
+11 aides, et on va regarder quel est leur chiffre
+
+1675
+01:39:54,819 --> 01:39:56,439
+d'affaires. C'est utile.
+
+1676
+01:39:56,699 --> 01:39:58,659
+Je ne dis pas que ce n'est pas utile. C'est tout à fait
+
+1677
+01:39:58,659 --> 01:40:00,519
+utile. Mais c'est un peu une usine à gaz.
+
+1678
+01:40:00,939 --> 01:40:01,779
+Un peu une usine à gaz.
+
+1679
+01:40:03,720 --> 01:40:04,920
+Et dans tout ça,
+
+1680
+01:40:04,920 --> 01:40:06,960
+où est-ce qu'on se situe
+
+1681
+01:40:06,960 --> 01:40:08,960
+parce que tout professionnel en France
+
+1682
+01:40:08,960 --> 01:40:10,279
+il a un code APE
+
+1683
+01:40:10,279 --> 01:40:12,420
+transport aérien
+
+1684
+01:40:12,420 --> 01:40:15,100
+commerce de détails d'ordinateur
+
+1685
+01:40:15,100 --> 01:40:16,940
+d'unité périphérique et de logiciel
+
+1686
+01:40:16,940 --> 01:40:19,180
+service des traiteurs, restauration collective
+
+1687
+01:40:19,180 --> 01:40:20,159
+assurance vie
+
+1688
+01:40:20,159 --> 01:40:22,560
+tout tout tout tout tout
+
+1689
+01:40:22,560 --> 01:40:25,460
+y compris
+
+1690
+01:40:25,460 --> 01:40:26,539
+vous le voyez ici
+
+1691
+01:40:26,539 --> 01:40:28,640
+les activités immobilières
+
+1692
+01:40:28,640 --> 01:40:30,899
+alors nous
+
+1693
+01:40:30,899 --> 01:40:33,159
+agent commercial en immobilier
+
+1694
+01:40:33,159 --> 01:40:38,720
+Alors, activité immobilière, allons regarder les activités immobilières, ce qui nous correspond.
+
+1695
+01:40:39,399 --> 01:40:43,599
+Alors, activité immobilière, on va zoomer un peu pour que vous puissiez bien tous voir.
+
+1696
+01:40:43,739 --> 01:40:48,159
+Est-ce que vous voyez bien correctement ou pas ?
+
+1697
+01:40:48,159 --> 01:40:52,920
+Oula, j'ai perdu mon retour. Je ne sais pas si vous voyez bien ou pas.
+
+1698
+01:40:53,720 --> 01:40:55,420
+Ah oui, si, vous voyez bien. Parfait.
+
+1699
+01:40:56,279 --> 01:40:59,939
+Donc, activité immobilière, où est-ce qu'on se situe, nous ?
+
+1700
+01:40:59,939 --> 01:41:01,639
+Alors, agent commercial dans l'immobilier, c'est où ?
+
+1701
+01:41:01,640 --> 01:41:03,619
+activité des marchands de biens immobiliers, non,
+
+1702
+01:41:04,160 --> 01:41:06,039
+location de logement, non, non, non,
+
+1703
+01:41:06,119 --> 01:41:07,900
+location de terrain et autres, non, plus,
+
+1704
+01:41:08,060 --> 01:41:10,300
+agence immobilière, non, ça c'est la lucarne,
+
+1705
+01:41:10,360 --> 01:41:11,420
+mais ce n'est pas moi l'agent commercial,
+
+1706
+01:41:11,920 --> 01:41:13,980
+administration d'immeubles et autres biens immobiliers,
+
+1707
+01:41:14,320 --> 01:41:15,160
+ça c'est les syndicats,
+
+1708
+01:41:15,700 --> 01:41:18,340
+support juridique de gestion de patrimoine immobilier,
+
+1709
+01:41:18,720 --> 01:41:19,840
+c'est tout.
+
+1710
+01:41:20,680 --> 01:41:23,680
+Après, on passe aux comptables et juridiques,
+
+1711
+01:41:24,060 --> 01:41:25,840
+ça c'est les avocats, c'est les machins.
+
+1712
+01:41:26,360 --> 01:41:30,619
+Ah ben, je suis où ?
+
+1713
+01:41:30,619 --> 01:41:46,460
+Moi, l'agent commercial en immobilier, je ne suis pas là-dedans. Mais comment ça se fait ? Pourquoi ? Eh bien, parce qu'en fait, vous n'êtes pas agent commercial en immobilier. En fait, vous êtes agent commercial. Vous êtes agent commercial.
+
+1714
+01:41:46,460 --> 01:41:50,220
+et en tant qu'agent commercial
+
+1715
+01:41:50,220 --> 01:41:52,640
+vous faites ce que vous voulez
+
+1716
+01:41:52,640 --> 01:41:54,640
+vous êtes agent commercial
+
+1717
+01:41:54,640 --> 01:41:56,359
+en pièces automobiles
+
+1718
+01:41:56,359 --> 01:41:58,739
+vous êtes agent commercial en matériel
+
+1719
+01:41:58,739 --> 01:41:59,899
+et périphérique informatique
+
+1720
+01:41:59,899 --> 01:42:02,520
+vous êtes agent commercial en immobilier
+
+1721
+01:42:02,520 --> 01:42:03,539
+ça vous est tout à fait libre
+
+1722
+01:42:03,539 --> 01:42:06,779
+et vous pouvez être agent commercial et en pièces détachées
+
+1723
+01:42:06,779 --> 01:42:08,939
+automobiles et en périphérique
+
+1724
+01:42:08,939 --> 01:42:10,579
+informatique et en immobilier
+
+1725
+01:42:10,579 --> 01:42:12,739
+en même temps, vous n'êtes ni l'un ni l'autre
+
+1726
+01:42:12,739 --> 01:42:13,319
+vous êtes les trois
+
+1727
+01:42:13,319 --> 01:42:35,119
+Parce qu'en fait, juridiquement, vous êtes agent commercial et c'est tout. Après, vous exercez votre talent où vous voulez, quand vous voulez. Vous n'êtes pas agent commercial en immobilier. Vous êtes agent commercial et puis vous faites de l'immobilier comme vous pourriez faire autre chose.
+
+1728
+01:42:35,119 --> 01:42:39,420
+Donc, vous comprenez bien que
+
+1729
+01:42:39,420 --> 01:42:41,720
+Déjà, vous n'êtes pas dans la
+
+1730
+01:42:41,720 --> 01:42:43,199
+J'ai perdu ma nomenclature, elle est là
+
+1731
+01:42:43,199 --> 01:42:45,939
+Vous n'êtes pas dans la nomenclature immobilière
+
+1732
+01:42:45,939 --> 01:42:47,260
+Vous ne l'êtes pas
+
+1733
+01:42:47,260 --> 01:42:49,880
+Alors on va chercher ici agent commercial
+
+1734
+01:42:49,880 --> 01:42:55,899
+Alors, le seul agent que j'ai là-dedans
+
+1735
+01:42:55,899 --> 01:42:57,960
+Partout, c'est activité des agents
+
+1736
+01:42:57,960 --> 01:42:59,099
+Et courtiers d'assurance
+
+1737
+01:42:59,099 --> 01:43:01,840
+Je n'ai pas agent commercial
+
+1738
+01:43:01,840 --> 01:43:03,159
+Non
+
+1739
+01:43:03,159 --> 01:43:07,519
+parce que les codes APE qui sont ici,
+
+1740
+01:43:08,019 --> 01:43:10,920
+c'est justement pour vous mettre dans une activité.
+
+1741
+01:43:12,519 --> 01:43:15,260
+Donc si vous êtes agent commercial généraliste, il n'y a pas trop.
+
+1742
+01:43:15,960 --> 01:43:19,300
+C'est la raison pour laquelle l'INSEE et la loi ont toujours décidé
+
+1743
+01:43:19,300 --> 01:43:25,300
+qu'en fait vous seriez dans le 4619B.
+
+1744
+01:43:29,439 --> 01:43:32,819
+Autre intermédiaire du commerce en produits divers.
+
+1745
+01:43:33,159 --> 01:43:54,239
+Donc, l'agent commercial, il est là. On le met là, dans les autres intermédiaires du commerce en produits divers. Parce que c'est un truc suffisamment général. C'est ce qui correspond le plus. C'est ce qui correspond le mieux, à peu près. Donc, c'est ce qui vous va le plus.
+
+1746
+01:43:54,239 --> 01:44:09,000
+Alors, IAD, pendant longtemps, je ne sais pas s'ils le font encore, IAD, pendant très longtemps, a demandé à ses négociateurs de s'inscrire en vente à domicile. Pendant très longtemps.
+
+1747
+01:44:09,000 --> 01:44:11,319
+et IAD avait créé il y a très longtemps
+
+1748
+01:44:11,319 --> 01:44:12,579
+mais ils n'en parlent plus
+
+1749
+01:44:12,579 --> 01:44:13,960
+le VDI
+
+1750
+01:44:13,960 --> 01:44:17,319
+le Vendeur Debout
+
+1751
+01:44:17,319 --> 01:44:18,699
+en Immobilier
+
+1752
+01:44:18,699 --> 01:44:20,819
+Vendeur Debout
+
+1753
+01:44:20,819 --> 01:44:21,579
+parce qu'il est debout
+
+1754
+01:44:21,579 --> 01:44:24,819
+pour dire qu'il n'était pas assis dans une agence
+
+1755
+01:44:24,819 --> 01:44:27,319
+ils avaient inventé
+
+1756
+01:44:27,319 --> 01:44:27,819
+ce truc là
+
+1757
+01:44:27,819 --> 01:44:31,000
+et ils faisaient inscrire leurs agents
+
+1758
+01:44:31,000 --> 01:44:32,000
+en vente à domicile
+
+1759
+01:44:32,000 --> 01:44:33,479
+mais ça ne colle pas juridiquement
+
+1760
+01:44:33,479 --> 01:44:36,220
+parce qu'en fait les agents immobiliers
+
+1761
+01:44:36,220 --> 01:44:37,579
+et les négociateurs immobiliers
+
+1762
+01:44:37,579 --> 01:45:01,779
+Ça, je vous l'ai déjà expliqué. Ne vendre rien. Vendre juridiquement, ça signifie posséder quelque chose que l'on va céder en échange du prix, du paiement du prix. Qui vend ? Le propriétaire. Nous, on ne vend pas. C'est le propriétaire qui vend. Nous, on l'aide à vendre. On ne vend rien du tout. La maison, on ne la possède pas.
+
+1763
+01:45:02,259 --> 01:45:04,739
+Pour vendre la maison, il faudrait qu'on en soit propriétaire.
+
+1764
+01:45:05,920 --> 01:45:08,579
+À ce moment-là, si je suis propriétaire de la maison, je peux la vendre.
+
+1765
+01:45:08,719 --> 01:45:10,939
+Parce que je vais recevoir le paiement d'un prix.
+
+1766
+01:45:11,899 --> 01:45:15,420
+Tant que je ne reçois pas le paiement d'un prix en échange de la chose que je possède,
+
+1767
+01:45:15,819 --> 01:45:16,699
+je ne vends rien.
+
+1768
+01:45:17,219 --> 01:45:18,639
+Donc la vente à domicile, ça ne colle pas.
+
+1769
+01:45:18,739 --> 01:45:21,000
+Parce que la vente à domicile, ça veut dire que je vais vendre des choses que je possède.
+
+1770
+01:45:21,000 --> 01:45:23,460
+Je vais vendre des produits d'entretien.
+
+1771
+01:45:23,559 --> 01:45:24,899
+Je vais vendre des aspirateurs.
+
+1772
+01:45:25,019 --> 01:45:25,899
+Je vais vendre de la lingerie.
+
+1773
+01:45:25,979 --> 01:45:27,059
+Ça se fait beaucoup, la lingerie.
+
+1774
+01:45:27,659 --> 01:45:30,380
+Je vais vendre des gamelles tupperware.
+
+1775
+01:45:30,380 --> 01:45:33,800
+Je les ai achetés, je les possède, donc je vais faire de la vente à domicile.
+
+1776
+01:45:33,940 --> 01:45:37,720
+Nous, en fait, on est autre intermédiaire du commerce en produits divers.
+
+1777
+01:45:38,520 --> 01:45:42,260
+Ça, c'est normalement le vrai, le bon code APE que vous avez.
+
+1778
+01:45:43,840 --> 01:45:45,520
+Depuis quelques années, on a un problème.
+
+1779
+01:45:46,720 --> 01:45:55,460
+Depuis quelques années, on a le problème de l'informatisation de votre inscription, de votre immatriculation au greffe.
+
+1780
+01:45:56,400 --> 01:45:57,380
+Pourquoi ?
+
+1781
+01:45:57,380 --> 01:46:02,800
+Parce qu'aujourd'hui, votre immatriculation au greffe, elle se fait en ligne, sur Internet.
+
+1782
+01:46:04,020 --> 01:46:05,319
+Elle se met sur Internet.
+
+1783
+01:46:06,460 --> 01:46:07,940
+Elle se fait sur Internet, pardon.
+
+1784
+01:46:08,840 --> 01:46:15,920
+Auparavant, lorsque l'immatriculation au greffe se faisait en vous déplaçant au greffe du tribunal de commerce,
+
+1785
+01:46:16,440 --> 01:46:19,159
+vous vous souvenez, ceux d'entre vous qui nous ont rejoints à ces époques-là,
+
+1786
+01:46:19,159 --> 01:46:25,980
+que je vous disais dans une visioconférence, et je vous disais de manière très virulente,
+
+1787
+01:46:25,979 --> 01:46:29,219
+Mais surtout, attention, vous dites bien 4619B.
+
+1788
+01:46:29,659 --> 01:46:35,879
+Et vous dites bien, quand vous y matriculez, que vous êtes agent commercial généraliste.
+
+1789
+01:46:36,459 --> 01:46:38,459
+Vous ne leur dites surtout pas immobilier.
+
+1790
+01:46:39,859 --> 01:46:43,919
+Parce que le greffe, si vous dites que vous êtes agent commercial en immobilier,
+
+1791
+01:46:44,539 --> 01:46:47,759
+ils vont vous mettre, eux, dans les activités immobilières.
+
+1792
+01:46:47,979 --> 01:46:49,339
+Elles sont où ? On les a perdues.
+
+1793
+01:46:50,339 --> 01:46:52,179
+Je vais chercher IMO.
+
+1794
+01:46:52,180 --> 01:46:56,659
+voilà, activité immobilière
+
+1795
+01:46:56,659 --> 01:46:57,920
+si vous dites au greffe que vous êtes
+
+1796
+01:46:57,920 --> 01:47:00,020
+parce que c'est l'INSEE qui fait ça, c'est pas le greffe
+
+1797
+01:47:00,020 --> 01:47:01,420
+le greffe il met n'importe quoi, il s'en fout
+
+1798
+01:47:01,420 --> 01:47:04,380
+que vous êtes dans l'immobilier
+
+1799
+01:47:04,380 --> 01:47:06,079
+ils vont vous mettre dans les activités immobilières
+
+1800
+01:47:06,079 --> 01:47:07,659
+ils vont chercher, ils vont dire attendez monsieur
+
+1801
+01:47:07,659 --> 01:47:09,619
+location de terrain, agence immobilière
+
+1802
+01:47:09,619 --> 01:47:11,800
+ah oui oui je travaille pour la lucarne, c'est une agence immobilière
+
+1803
+01:47:11,800 --> 01:47:13,780
+très bien, allez, agence immobilière
+
+1804
+01:47:13,780 --> 01:47:15,619
+et on va vous mettre le 6831Z
+
+1805
+01:47:15,619 --> 01:47:17,680
+ah bah non, c'était illégal
+
+1806
+01:47:17,680 --> 01:47:19,140
+parce que vous n'êtes pas agent immobilier
+
+1807
+01:47:19,140 --> 01:47:21,039
+vous, vous êtes agent commercial
+
+1808
+01:47:21,819 --> 01:47:23,560
+La Lucarne est agent immobilier.
+
+1809
+01:47:23,880 --> 01:47:26,579
+Le code APE de la Lucarne, c'est 6831Z.
+
+1810
+01:47:26,720 --> 01:47:29,180
+Le code APE de Safty, c'est 6831Z.
+
+1811
+01:47:29,260 --> 01:47:31,500
+Le code APE d'IAD, c'est 6831Z.
+
+1812
+01:47:32,560 --> 01:47:37,680
+Le code APE de l'agence La Forêt, Centurie 21, ERA, qui est à côté de chez vous, c'est 6831Z.
+
+1813
+01:47:38,140 --> 01:47:42,500
+Mais les négociateurs qui travaillent chez Centurie, chez ERA, chez IAD, chez la Lucarne,
+
+1814
+01:47:42,500 --> 01:47:47,460
+ils ne sont pas agents immobiliers, ils sont agents commerciaux, généralistes.
+
+1815
+01:47:47,460 --> 01:47:50,779
+donc je vous disais il y a quelques années
+
+1816
+01:47:50,779 --> 01:47:53,140
+attention, vous dites bien que vous êtes agent commercial
+
+1817
+01:47:53,140 --> 01:47:55,439
+généraliste, vous ne parlez pas d'immobilier
+
+1818
+01:47:55,439 --> 01:47:57,460
+sinon ils vont vous mettre dans les agences immobilières
+
+1819
+01:47:57,460 --> 01:47:59,319
+et c'est illégal parce que vous ne l'êtes pas
+
+1820
+01:47:59,319 --> 01:48:03,399
+et ça se passait plutôt bien
+
+1821
+01:48:03,399 --> 01:48:05,520
+depuis que
+
+1822
+01:48:05,520 --> 01:48:07,539
+les immatriculations des agents commerciaux
+
+1823
+01:48:07,539 --> 01:48:08,859
+se font uniquement en ligne
+
+1824
+01:48:08,859 --> 01:48:13,380
+dans l'inscription il y a un endroit où on vous dit
+
+1825
+01:48:13,380 --> 01:48:15,159
+quel sera le domaine
+
+1826
+01:48:15,159 --> 01:48:16,819
+dans lequel vous allez exercer
+
+1827
+01:48:17,460 --> 01:48:37,699
+Et là, il faudrait mettre généraliste. Mais 99% des agents disent immobilier. Et donc, l'ordinateur les met dans les agences immobilières 6831Z. Parce que l'ordinateur, il détecte le mot immobilier. Allez hop, agence immobilière.
+
+1828
+01:48:37,699 --> 01:48:39,920
+tout simplement
+
+1829
+01:48:39,920 --> 01:48:42,380
+donc depuis un certain
+
+1830
+01:48:42,380 --> 01:48:43,880
+nombre d'années, je ne sais pas, 3-4 ans
+
+1831
+01:48:43,880 --> 01:48:46,439
+vous êtes extrêmement nombreux
+
+1832
+01:48:46,439 --> 01:48:47,880
+à nous envoyer votre
+
+1833
+01:48:47,880 --> 01:48:49,840
+immatriculation
+
+1834
+01:48:49,840 --> 01:48:51,619
+avec un code APE
+
+1835
+01:48:51,619 --> 01:48:54,139
+d'agence immobilière et d'ailleurs si je vais voir
+
+1836
+01:48:54,139 --> 01:48:56,059
+des gens que nous avons
+
+1837
+01:48:56,059 --> 01:48:58,479
+récemment recrutés
+
+1838
+01:48:58,479 --> 01:49:01,920
+je vais voir Noémie par exemple
+
+1839
+01:49:01,920 --> 01:49:04,380
+je vais essayer de ne pas vous montrer son adresse
+
+1840
+01:49:04,380 --> 01:49:04,699
+etc
+
+1841
+01:49:04,699 --> 01:49:06,739
+Noémie
+
+1842
+01:49:06,739 --> 01:49:24,300
+dans son Kbis, il est écrit quoi ?
+
+1843
+01:49:24,300 --> 01:49:26,199
+Ah, il n'y a pas son code APE.
+
+1844
+01:49:26,279 --> 01:49:28,079
+Pourquoi je n'ai pas le code APE de Noemi ici ?
+
+1845
+01:49:28,079 --> 01:49:28,699
+Je devrais l'avoir.
+
+1846
+01:49:30,000 --> 01:49:31,460
+Noemi, je devrais avoir votre code APE.
+
+1847
+01:49:31,539 --> 01:49:31,939
+Je ne l'ai pas.
+
+1848
+01:49:32,840 --> 01:49:34,399
+Bon, ce n'est pas grave.
+
+1849
+01:49:34,519 --> 01:49:35,300
+On va aller voir.
+
+1850
+01:49:36,739 --> 01:49:38,679
+Je ne sais pas.
+
+1851
+01:49:42,819 --> 01:49:43,819
+On va voir Steven.
+
+1852
+01:49:48,139 --> 01:49:49,219
+Tac, tac, tac.
+
+1853
+01:49:49,880 --> 01:49:50,359
+RSAC.
+
+1854
+01:49:52,359 --> 01:49:53,319
+Agent commercial.
+
+1855
+01:49:53,579 --> 01:49:55,319
+Ah ben, on n'a pas non plus son INSEE.
+
+1856
+01:49:55,539 --> 01:49:59,359
+Ah ben, les nouveaux, il faudrait nous envoyer votre immatriculation INSEE.
+
+1857
+01:49:59,960 --> 01:50:03,279
+Parce qu'on doit recevoir normalement votre immatriculation INSEE.
+
+1858
+01:50:03,939 --> 01:50:06,539
+Que vous ne nous avez visiblement pas envoyé.
+
+1859
+01:50:06,539 --> 01:50:13,739
+Ce n'est pas gentil parce que dans l'immatriculation INSEE, vous voyez ici, on a quelqu'un.
+
+1860
+01:50:13,920 --> 01:50:15,380
+Alors, je ne vais pas vous montrer son adresse.
+
+1861
+01:50:16,260 --> 01:50:16,960
+Je ne veux pas.
+
+1862
+01:50:18,319 --> 01:50:22,060
+C'est écrit ici 4619B.
+
+1863
+01:50:23,420 --> 01:50:23,859
+4619B.
+
+1864
+01:50:23,960 --> 01:50:29,539
+Mais je n'ai pas l'INSEE de nos derniers recrutés.
+
+1865
+01:50:30,279 --> 01:50:32,579
+Donc, je ne peux pas vraiment voir.
+
+1866
+01:50:32,579 --> 01:50:43,019
+Sinon, je vous montrerai parce qu'ils ont très certainement été collés dans les agences immobilières.
+
+1867
+01:50:43,300 --> 01:50:45,600
+Je vais essayer de regarder ici si j'ai ça sur Peppers.
+
+1868
+01:50:46,539 --> 01:50:50,039
+Parce qu'il faut que je fasse attention à ne pas vous montrer l'adresse des gens quand même.
+
+1869
+01:50:50,199 --> 01:50:51,059
+Ce n'est pas bien.
+
+1870
+01:50:52,800 --> 01:50:54,619
+Ici, j'ai Noemi.
+
+1871
+01:50:57,180 --> 01:50:59,519
+Alors, il n'y a pas son adresse ici.
+
+1872
+01:50:59,880 --> 01:51:00,960
+Il n'y a pas son adresse complète.
+
+1873
+01:51:00,960 --> 01:51:13,939
+Donc, je vais juste vous montrer ça comme ça. Noémie, vous voyez, elle a été inscrite en agence immobilière 6831Z.
+
+1874
+01:51:18,420 --> 01:51:30,480
+Activité principale déclarée. Un agent commercial immobilier effectue des transactions. Ça, c'est pas vrai. Il est chargé de négocier et conclure des contrats de vente immobiliers. Non, il n'a absolument pas le droit de conclure des contrats de vente immobiliers. Il faudrait pour ça qu'il soit agent immobilier.
+
+1875
+01:51:30,960 --> 01:51:36,300
+vous voyez, domaine d'activité, activité immobilière, c'est exactement ce que je vous disais, agence immobilière,
+
+1876
+01:51:37,380 --> 01:51:41,600
+noémie et dans l'illégalité.
+
+1877
+01:51:42,480 --> 01:51:47,659
+Alors, il y a quelques années, on vous aurait dit, c'est très très grave, il faut tout de suite faire modifier ça,
+
+1878
+01:51:47,939 --> 01:51:49,939
+envoyer un courrier au GREF et à l'INSEE.
+
+1879
+01:51:50,819 --> 01:51:52,939
+Aujourd'hui, c'est de moins en moins grave, pourquoi ?
+
+1880
+01:51:53,500 --> 01:51:58,500
+Parce que l'intégralité des négociateurs immobiliers, que ce soit chez nous, chez IAD, chez CAPI, chez SAFTI, chez je ne sais pas quoi,
+
+1881
+01:51:58,500 --> 01:52:01,520
+ils sont mis dans le 6831Z
+
+1882
+01:52:01,520 --> 01:52:03,359
+par contre
+
+1883
+01:52:03,359 --> 01:52:04,659
+ce qui serait bien quand même
+
+1884
+01:52:04,659 --> 01:52:05,960
+c'est que vous envoyiez
+
+1885
+01:52:05,960 --> 01:52:09,199
+que vous fassiez
+
+1886
+01:52:09,199 --> 01:52:11,199
+une démarche pour modifier votre code
+
+1887
+01:52:11,199 --> 01:52:12,579
+d'APE vers le
+
+1888
+01:52:12,579 --> 01:52:15,060
+4619B
+
+1889
+01:52:15,060 --> 01:52:16,199
+je vais vous l'écrire ici
+
+1890
+01:52:16,199 --> 01:52:21,199
+46.19B
+
+1891
+01:52:22,020 --> 01:52:24,960
+même s'ils ne font pas la modification
+
+1892
+01:52:24,960 --> 01:52:26,699
+ça vous permettra en cas de contrôle
+
+1893
+01:52:26,699 --> 01:52:45,239
+Si la DGCRF vous dit, mais attendez, vous n'êtes pas agent immobilier, vous, vous n'avez pas de carte d'agent immobilier, pourquoi vous êtes en 6831Z ? Que vous puissiez dire, non, non, non, ils m'ont inscrit par erreur dans 6831Z. Je leur ai signalé, ils n'ont pas fait la modification, mais moi, je leur ai signalé, voici la preuve. Et ça vous mettra à l'abri.
+
+1894
+01:52:45,239 --> 01:52:47,920
+Si vous avez un doute sur la manière de vous y prendre
+
+1895
+01:52:47,920 --> 01:52:49,559
+Demandez à l'animation
+
+1896
+01:52:49,559 --> 01:52:52,679
+Ils vous guideront, ils vous aideront dans cette démarche
+
+1897
+01:52:52,679 --> 01:52:54,760
+Ok ?
+
+1898
+01:52:54,760 --> 01:52:56,819
+Mais Pierre a raison depuis le démarrage
+
+1899
+01:52:56,819 --> 01:52:58,059
+L'agent commercial
+
+1900
+01:52:58,059 --> 01:53:00,380
+En immobilier ou en je sais pas quoi
+
+1901
+01:53:00,380 --> 01:53:02,340
+Son bon code APE légal
+
+1902
+01:53:02,340 --> 01:53:03,979
+C'est le 4619B
+
+1903
+01:53:03,979 --> 01:53:05,539
+Et surtout pas
+
+1904
+01:53:05,539 --> 01:53:08,539
+Le zozo là qui voulait faire
+
+1905
+01:53:08,539 --> 01:53:10,939
+Des activités
+
+1906
+01:53:10,939 --> 01:53:12,420
+De décoration intérieure
+
+1907
+01:53:12,420 --> 01:53:14,139
+Je sais pas quoi
+
+1908
+01:53:14,140 --> 01:53:16,720
+ni n'importe quoi, mais très souvent
+
+1909
+01:53:16,720 --> 01:53:18,320
+ces chasseurs d'appartements, ils font
+
+1910
+01:53:18,320 --> 01:53:20,880
+hyper attention à se faire
+
+1911
+01:53:20,880 --> 01:53:22,700
+mettre dans une nomenclature
+
+1912
+01:53:22,700 --> 01:53:24,680
+qui n'a rien à voir avec l'immobilier
+
+1913
+01:53:24,680 --> 01:53:26,360
+pour dire, ben non,
+
+1914
+01:53:26,520 --> 01:53:28,980
+c'est pas moi, j'y suis pour rien.
+
+1915
+01:53:29,619 --> 01:53:30,960
+Il y avait quoi dans son...
+
+1916
+01:53:30,960 --> 01:53:32,360
+Il y avait studio dans son machin.
+
+1917
+01:53:32,960 --> 01:53:33,860
+Ah, il n'y a pas ça, d'accord.
+
+1918
+01:53:34,619 --> 01:53:35,880
+Donc, décoration.
+
+1919
+01:53:39,280 --> 01:53:41,039
+On n'a que ça. Je ne sais plus ce que c'était.
+
+1920
+01:53:41,160 --> 01:53:42,320
+C'était décoration d'intérieur,
+
+1921
+01:53:42,319 --> 01:53:44,840
+ou aménagement intérieur
+
+1922
+01:53:44,840 --> 01:53:45,979
+je ne sais plus
+
+1923
+01:53:45,979 --> 01:53:47,099
+mais je n'ai plus
+
+1924
+01:53:47,099 --> 01:53:49,739
+le sirède de cette personne
+
+1925
+01:53:49,739 --> 01:53:52,279
+parce que Mickaël me l'avait donné quand on était au téléphone
+
+1926
+01:53:52,279 --> 01:53:54,039
+mais là je ne
+
+1927
+01:53:54,039 --> 01:53:56,219
+je ne l'ai plus
+
+1928
+01:53:56,219 --> 01:53:57,239
+pour pouvoir vous montrer
+
+1929
+01:53:57,239 --> 01:54:00,299
+exactement comment ça se présentait
+
+1930
+01:54:00,299 --> 01:54:01,439
+mais tous ces chasseurs appartements
+
+1931
+01:54:01,439 --> 01:54:04,239
+ils ont effectivement des codes
+
+1932
+01:54:04,239 --> 01:54:06,239
+APE pas immobiliers
+
+1933
+01:54:06,239 --> 01:54:07,559
+pour pouvoir essayer de dire
+
+1934
+01:54:07,559 --> 01:54:08,859
+non mais je ne suis pas agent immobilier
+
+1935
+01:54:08,859 --> 01:54:11,239
+si tu n'es pas agent immobilier tu n'auras pas un centime mon pote
+
+1936
+01:54:11,239 --> 01:54:12,079
+c'est aussi simple que ça
+
+1937
+01:54:12,079 --> 01:54:14,680
+est-ce qu'il y a d'autres questions
+
+1938
+01:54:14,680 --> 01:54:15,680
+ou est-ce qu'on a tout vu
+
+1939
+01:54:15,680 --> 01:54:16,760
+parce que c'est l'heure
+
+1940
+01:54:16,760 --> 01:54:19,819
+et on n'a pas le temps de démarrer un nouveau truc
+
+1941
+01:54:19,819 --> 01:54:21,659
+merci pour l'explication
+
+1942
+01:54:21,659 --> 01:54:22,760
+je ne comprenais pas pourquoi Olivier
+
+1943
+01:54:22,760 --> 01:54:27,319
+qui est un nouvel arrivant
+
+1944
+01:54:27,319 --> 01:54:29,019
+était enregistré en agence immobilière
+
+1945
+01:54:29,019 --> 01:54:30,119
+c'est exactement pour ça
+
+1946
+01:54:30,119 --> 01:54:33,019
+le code APE ne figure plus sur les nouveaux cabisses
+
+1947
+01:54:33,019 --> 01:54:33,800
+me dit Marc
+
+1948
+01:54:33,800 --> 01:54:35,220
+c'est pour ça que je ne le trouvais pas
+
+1949
+01:54:35,220 --> 01:54:36,479
+avant ça y était
+
+1950
+01:54:36,479 --> 01:54:39,100
+mais apparemment ça n'y est plus
+
+1951
+01:54:39,100 --> 01:54:41,100
+c'est Marc qui me l'apprend
+
+1952
+01:54:41,100 --> 01:54:42,840
+écoutez, merci beaucoup mon cher Marc
+
+1953
+01:54:42,840 --> 01:54:45,320
+Steven me confirme
+
+1954
+01:54:45,320 --> 01:54:46,840
+qu'il est bien en 6831Z
+
+1955
+01:54:46,840 --> 01:54:48,579
+bien sûr, absolument
+
+1956
+01:54:48,579 --> 01:54:50,840
+bon
+
+1957
+01:54:50,840 --> 01:54:52,140
+on a tout vu les amis
+
+1958
+01:54:52,140 --> 01:54:55,160
+pour info, en mettant à jour ma prépa de grille d'honoraires
+
+1959
+01:54:55,160 --> 01:54:56,620
+j'ai trouvé des concurrents saftis
+
+1960
+01:54:56,620 --> 01:54:59,340
+avec un APE de médecin ou autres industries
+
+1961
+01:54:59,340 --> 01:55:00,700
+mais pas du tout immo ou commerce
+
+1962
+01:55:00,700 --> 01:55:02,280
+ça craint, ah bah oui ça craint méchamment
+
+1963
+01:55:02,280 --> 01:55:05,060
+avoir un agent commercial
+
+1964
+01:55:05,060 --> 01:55:07,200
+dans l'immobilier qui est inscrit en tant que médecin
+
+1965
+01:55:07,200 --> 01:55:08,920
+ça craint méchamment, oui
+
+1966
+01:55:08,920 --> 01:55:11,220
+alors là ça craint beaucoup
+
+1967
+01:55:11,220 --> 01:55:14,000
+bon merci beaucoup à tous
+
+1968
+01:55:14,000 --> 01:55:15,480
+bonne journée, bonne journée Sabrina
+
+1969
+01:55:15,480 --> 01:55:18,180
+on a terminé avec 2 minutes d'avance
+
+1970
+01:55:18,180 --> 01:55:19,800
+on a commencé pile à l'heure
+
+1971
+01:55:19,800 --> 01:55:21,119
+on termine avec 2 minutes d'avance
+
+1972
+01:55:21,119 --> 01:55:22,300
+pas mal hein
+
+1973
+01:55:22,300 --> 01:55:24,980
+merci à tous, bien entendu encore une fois
+
+1974
+01:55:24,980 --> 01:55:27,960
+bonne année à toutes et à tous
+
+1975
+01:55:27,960 --> 01:55:29,899
+bonne journée c'est évident
+
+1976
+01:55:29,899 --> 01:55:32,039
+et à très très bientôt
+
+1977
+01:55:32,039 --> 01:55:33,220
+merci beaucoup
+
+1978
+01:55:38,920 --> 01:56:08,899
+Sous-titrage FR ?
+
