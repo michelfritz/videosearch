@@ -18,7 +18,7 @@ from langchain_openai import ChatOpenAI
 # =========================
 #   MODES & CONSTANTES
 # =========================
-FORCE_NUMPY = True   # si True: n'utilise PAS faiss (ni compact, ni LangChain)
+FORCE_NUMPY = False   # si True: n'utilise PAS faiss (ni compact, ni LangChain)
 DEBUG_MODE  = False  # traces UI
 
 # =========================
@@ -579,6 +579,8 @@ menu = st.sidebar.radio("Navigation", options, index=options.index(default), key
 # =========================
 if menu == "🔍 Recherche":
     df = charger_df_seul()
+    vecteurs = None
+if not compact_disponible():
     vecteurs = charger_vecteurs()
 
     col1, col2 = st.columns([3, 1])
