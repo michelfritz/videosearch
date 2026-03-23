@@ -1,3 +1,4 @@
+
 from openai import OpenAI
 import os
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
@@ -9,8 +10,6 @@ import pickle
 import openai
 import chardet
 import re, html, urllib.parse, mimetypes, base64
-
-# FAISS (LangChain fallback)
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
@@ -18,8 +17,8 @@ from langchain_openai import ChatOpenAI
 # =========================
 #   MODES & CONSTANTES
 # =========================
-FORCE_NUMPY = True   # si True: n'utilise PAS faiss (ni compact, ni LangChain)
-DEBUG_MODE  = False  # traces UI
+FORCE_NUMPY = True   # on force la voie numpy (désactive FAISS pour éviter erreurs locales)
+DEBUG_MODE  = False   # traces visibles dans l'UI
 
 # =========================
 #   CHEMINS ROBUSTES
@@ -27,13 +26,7 @@ DEBUG_MODE  = False  # traces UI
 BASE_DIR = os.path.dirname(os.path.abspath(__file__)) if "__file__" in globals() else os.getcwd()
 DATA_DIR = BASE_DIR
 NEWSLETTER_DIR = os.path.join(BASE_DIR, "newsletters")
-FAISS_DIR = os.path.join(BASE_DIR, "faiss_transcripts")   # ancien index LangChain (fallback)
-
-# Index compact (PCA + OPQ + IVFPQ)
-FAISS_COMPACT_DIR = os.path.join(BASE_DIR, "faiss_compact")
-PCA_PATH   = os.path.join(FAISS_COMPACT_DIR, "pca.tf")
-OPQ_PATH   = os.path.join(FAISS_COMPACT_DIR, "opq.tf")
-INDEX_PATH = os.path.join(FAISS_COMPACT_DIR, "index_ivfpq.faiss")
+FAISS_DIR = os.path.join(BASE_DIR, "faiss_transcripts")
 
 # =========================
 #   OPENAI KEY
@@ -456,34 +449,6 @@ def charger_vecteurs():
     return arr
 
 # =========================
-#   INDEX COMPACT (PCA + OPQ + IVFPQ)
-# =========================
-@st.cache_resource
-def charger_index_compact():
-    """Charge pca.tf, opq.tf, index_ivfpq.faiss si présents (+ faiss installé)."""
-    if FORCE_NUMPY:
-        return None
-    try:
-        import faiss  # noqa: F401
-    except Exception:
-        return None
-    if not (os.path.exists(PCA_PATH) and os.path.exists(OPQ_PATH) and os.path.exists(INDEX_PATH)):
-        return None
-    try:
-        import faiss
-        pca = faiss.read_VectorTransform(PCA_PATH)
-        opq = faiss.read_VectorTransform(OPQ_PATH)
-        index = faiss.read_index(INDEX_PATH)
-        index.nprobe = 8
-        return (pca, opq, index)
-    except Exception as e:
-        st.warning(f"Index compact indisponible : {e}")
-        return None
-
-def compact_disponible() -> bool:
-    return charger_index_compact() is not None
-
-# =========================
 #   EMBEDDINGS & SEARCH
 # =========================
 def embed_openai(query):
@@ -494,22 +459,8 @@ def embed_openai(query):
     return np.array(
         client.embeddings.create(
             input=query, model="text-embedding-3-small", encoding_format="float"
-        ).data[0].embedding, dtype="float32"
+        ).data[0].embedding
     )
-
-def rechercher_compact_vq(vq: np.ndarray, top_k=5):
-    """Recherche via index compact. Retourne (indices, scores 0..1, plus c'est haut mieux c'est)."""
-    triple = charger_index_compact()
-    if not triple:
-        return np.array([], dtype=int), np.array([])
-    pca, opq, index = triple
-    v = vq[None, :]
-    v_pca = pca.apply_py(v)
-    v_opq = opq.apply_py(v_pca)
-    D, I = index.search(v_opq, top_k)  # D: distances L2 (plus petit = mieux)
-    # Convertir en score [0,1] (1/(1+d)) pour affichage homogène
-    scores = 1.0 / (1.0 + D[0].astype("float32"))
-    return I[0], scores
 
 def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     if vecteurs is None or len(vecteurs) == 0:
@@ -533,6 +484,7 @@ def build_context(docs):
         if isinstance(meta, dict):
             url = meta.get("url") or meta.get("source")
         else:
+            # metadata might be a string or something else
             try:
                 url = str(meta).strip()
             except Exception:
@@ -594,7 +546,7 @@ if menu == "🔍 Recherche":
             st.session_state.reset_search = True
             do_rerun()
 
-    seuil = st.slider("🌟 Exigence des résultats (mode numpy)", 0.1, 0.9, 0.3, 0.05)
+    seuil = st.slider("🌟 Exigence des résultats", 0.1, 0.9, 0.3, 0.05)
 
     with st.expander("✨ Thèmes", expanded=False):
         cols = st.columns(4)
@@ -613,29 +565,22 @@ if menu == "🔍 Recherche":
         try:
             with st.spinner("🔍 Recherche en cours..."):
                 try:
-                    vq = embed_openai(query)
+                    vecteur_query = embed_openai(query)
                 except Exception as e_embed:
                     st.error(f"Échec embedding OpenAI : {e_embed}")
-                    vq = None
+                    vecteur_query = None
 
-                indices, scores = np.array([], dtype=int), np.array([])
-                used_mode = None
-
-                if vq is not None:
-                    # 1) Mode compact si dispo et non forcé numpy
-                    if compact_disponible():
-                        indices, scores = rechercher_compact_vq(vq, top_k=5)
-                        used_mode = "compact (PCA+OPQ+IVFPQ)"
-                    # 2) Fallback numpy
-                    if indices.size == 0 and vecteurs is not None and vecteurs.size > 0:
-                        if vecteurs.shape[1] != len(vq):
-                            st.error(f"Dimension vecteurs ({vecteurs.shape[1]}) ≠ embedding ({len(vq)})")
+                if vecteur_query is not None:
+                    if vecteurs is not None and vecteurs.size > 0:
+                        if vecteurs.shape[1] != len(vecteur_query):
+                            st.error(f"Dimension vecteurs ({vecteurs.shape[1]}) ≠ embedding ({len(vecteur_query)})")
+                            indices, scores = np.array([], dtype=int), np.array([])
                         else:
-                            indices, scores = rechercher_similaires(vq, vecteurs, seuil=seuil)
-                            used_mode = "numpy (dot-product)"
+                            indices, scores = rechercher_similaires(vecteur_query, vecteurs, seuil=seuil)
+                    else:
+                        indices, scores = np.array([], dtype=int), np.array([])
                 else:
                     indices, scores = np.array([], dtype=int), np.array([])
-
         except Exception as e:
             st.error(f"Erreur recherche : {e}")
             indices, scores = np.array([], dtype=int), np.array([])
@@ -643,8 +588,6 @@ if menu == "🔍 Recherche":
         if len(indices) == 0:
             st.warning("Aucun résultat trouvé ou moteur IA indisponible.")
         else:
-            if used_mode:
-                st.caption(f"Mode de recherche utilisé : **{used_mode}**")
             st.markdown("### 🌟 Résultats pertinents :")
             for idx, score in zip(indices, scores):
                 bloc = df.iloc[int(idx)]
@@ -800,28 +743,7 @@ elif menu == "🧠 Moteur intelligent":
             with st.spinner("Recherche intelligente en cours..."):
                 docs = None
 
-                # 1) Priorité: index compact si dispo
-                if compact_disponible():
-                    try:
-                        vq = embed_openai(user_question)
-                        idxs, _ = rechercher_compact_vq(vq, top_k=5)
-
-                        class Doc:
-                            def __init__(self, page_content, metadata):
-                                self.page_content = page_content
-                                self.metadata = metadata
-
-                        docs = []
-                        for i in idxs:
-                            r = df.iloc[int(i)]
-                            url_str = to_str(r.get("url", "")) or url_by_file.get(to_str(r.get("fichier","")), "")
-                            docs.append(Doc(page_content=to_str(r.get("text","")), metadata={"url": url_str}))
-                        if DEBUG_MODE: st.write("DEBUG: docs (compact) →", len(docs))
-                    except Exception as e_comp:
-                        st.warning(f"⚠️ Index compact indisponible: {e_comp}")
-
-                # 2) Fallback: FAISS LangChain si FORCE_NUMPY=False
-                if (docs is None) and (not FORCE_NUMPY):
+                if not FORCE_NUMPY:
                     try:
                         if DEBUG_MODE: st.write("DEBUG: tentative FAISS.load_local(...)")
                         vectordb = FAISS.load_local(
@@ -835,7 +757,6 @@ elif menu == "🧠 Moteur intelligent":
                     except Exception as e_faiss:
                         st.warning(f"⚠️ FAISS indisponible: {e_faiss}\n→ bascule sur numpy")
 
-                # 3) Fallback: numpy
                 if docs is None:
                     if DEBUG_MODE: st.write("DEBUG: Fallback numpy → embed_openai()")
                     try:
@@ -853,6 +774,7 @@ elif menu == "🧠 Moteur intelligent":
                             docs = []
                         else:
                             idxs, _ = rechercher_similaires(vq, vecteurs, top_k=5, seuil=0.25)
+                            if DEBUG_MODE: st.write("DEBUG: indices trouvés →", list(map(int, idxs)))
 
                             class Doc:
                                 def __init__(self, page_content, metadata):
