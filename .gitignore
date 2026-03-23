@@ -15,3 +15,7 @@ token.json
 __pycache__/
 .streamlit/
 
+
+vecteurs.pkl
+
+vecteurs.pkl

@@ -1,0 +1,9656 @@
+1
+00:00:00,000 --> 00:00:03,560
+Bonjour à tous, y compris aux nouveaux arrivants.
+
+2
+00:00:04,179 --> 00:00:10,560
+Je vous disais aujourd'hui une visioconférence très importante au cours de laquelle on va étudier votre grille tarifaire.
+
+3
+00:00:10,720 --> 00:00:12,480
+Alors votre grille tarifaire, ça veut dire plein de choses.
+
+4
+00:00:13,380 --> 00:00:19,760
+Ça veut dire comment ça fonctionne du point de vue de la loi et comment ça fonctionne à la lucarne de l'immobilier,
+
+5
+00:00:19,760 --> 00:00:29,420
+comment on fait cette grille ici, comment on met les valeurs qui sont ici que vous avez sous les yeux et qu'est-ce qu'on met comme valeur.
+
+6
+00:00:30,000 --> 00:00:38,060
+Et il est possible d'ailleurs que cette visioconférence se passe en deux parties si on s'éternise un petit peu trop parce qu'on a vraiment beaucoup de choses à voir aujourd'hui.
+
+7
+00:00:38,159 --> 00:00:40,460
+Vous allez voir, c'est très dense, c'est très, très, très dense.
+
+8
+00:00:40,659 --> 00:00:41,640
+Donc, accrochez-vous.
+
+9
+00:00:42,299 --> 00:00:45,100
+Alors, bien entendu, cette visioconférence, elle est enregistrée, comme toujours.
+
+10
+00:00:45,259 --> 00:00:57,500
+Toutes les visioconférences sont toujours enregistrées, donc vous pourrez récupérer l'enregistrement par la suite si c'est allé trop vite, si vous avez raté quelque chose, si tout n'a pas été parfaitement clair.
+
+11
+00:00:57,500 --> 00:01:00,500
+ça ne pose aucun problème
+
+12
+00:01:00,500 --> 00:01:02,100
+on pourra
+
+13
+00:01:02,100 --> 00:01:03,880
+vous la donner après
+
+14
+00:01:03,880 --> 00:01:06,400
+alors, première chose
+
+15
+00:01:06,400 --> 00:01:08,099
+que vous constatez, alors là je suis
+
+16
+00:01:08,099 --> 00:01:10,120
+dans une églantine, comme vous avez
+
+17
+00:01:10,120 --> 00:01:11,819
+tous, alors c'est une églantine de test
+
+18
+00:01:11,819 --> 00:01:14,219
+bien sûr, mais c'est la même églantine
+
+19
+00:01:14,219 --> 00:01:16,019
+que vous avez tous, que nous avons sous les yeux
+
+20
+00:01:16,019 --> 00:01:18,019
+dans cette églantine
+
+21
+00:01:18,019 --> 00:01:20,359
+comme vous pouvez le constater, il y a en bas à gauche
+
+22
+00:01:20,359 --> 00:01:22,340
+du menu, quand vous vous connectez
+
+23
+00:01:22,340 --> 00:01:24,019
+un lien qui s'appelle
+
+24
+00:01:24,019 --> 00:01:25,819
+grille de tarifs, qui est là
+
+25
+00:01:25,819 --> 00:01:27,459
+grilles de tarifs. Quand vous cliquez dessus,
+
+26
+00:01:29,439 --> 00:01:29,959
+vous voyez
+
+27
+00:01:29,959 --> 00:01:31,599
+une double grille,
+
+28
+00:01:31,919 --> 00:01:33,839
+une grille qu'on appelle essentielle
+
+29
+00:01:33,839 --> 00:01:36,219
+et une grille qu'on appelle premium.
+
+30
+00:01:36,899 --> 00:01:38,059
+Une double grille
+
+31
+00:01:38,059 --> 00:01:39,579
+avec des valeurs dedans.
+
+32
+00:01:40,379 --> 00:01:41,500
+Les valeurs qui sont dedans,
+
+33
+00:01:42,159 --> 00:01:44,319
+vous allez pouvoir les personnaliser.
+
+34
+00:01:44,579 --> 00:01:46,039
+Vous allez pouvoir... Alors, je vais zoomer un petit peu
+
+35
+00:01:46,039 --> 00:01:47,539
+pour que vous y voyez plus clair, peut-être,
+
+36
+00:01:47,639 --> 00:01:49,579
+parce que là, c'est un petit peu plus gros.
+
+37
+00:01:50,639 --> 00:01:52,239
+Les valeurs que vous avez sous les yeux,
+
+38
+00:01:53,039 --> 00:01:54,259
+ce sont
+
+39
+00:01:54,260 --> 00:01:56,600
+des valeurs
+
+40
+00:01:56,600 --> 00:01:57,180
+par défaut
+
+41
+00:01:57,180 --> 00:01:59,580
+non personnalisées.
+
+42
+00:02:00,000 --> 00:02:02,540
+Quand vous arrivez à la lucarne, que vous n'avez pas personnalisé
+
+43
+00:02:02,540 --> 00:02:04,380
+vos grilles, parce qu'en fait vous en avez
+
+44
+00:02:04,380 --> 00:02:06,040
+deux, je vais vous expliquer dans un instant
+
+45
+00:02:06,040 --> 00:02:08,400
+pourquoi, dans quel but. Lorsque vous n'avez
+
+46
+00:02:08,400 --> 00:02:10,480
+pas personnalisé vos grilles, vous êtes sur
+
+47
+00:02:10,480 --> 00:02:11,780
+la grille par défaut
+
+48
+00:02:11,780 --> 00:02:14,240
+que vous avez sous les yeux. Cette grille
+
+49
+00:02:14,240 --> 00:02:16,360
+par défaut, elle pourrait très bien
+
+50
+00:02:16,360 --> 00:02:18,259
+vous convenir et vous pourriez dire, très bien, moi je vais
+
+51
+00:02:18,259 --> 00:02:20,140
+appliquer cette grille, elle me convient parfaitement.
+
+52
+00:02:20,680 --> 00:02:22,540
+Mais elle est considérée comme
+
+53
+00:02:22,540 --> 00:02:23,800
+relativement généreuse.
+
+54
+00:02:24,259 --> 00:02:38,699
+Elle est relativement généreuse, elle est relativement élevée, vous voyez, 9,5%, ça va jusqu'à 6% au-delà de 1,5 million et jusqu'à 7% dans la grille premium jusqu'à, là encore, enfin, à partir, pardon, d'un million 500 000, non pas jusqu'à, mais à partir d'un million 500 000.
+
+55
+00:02:39,459 --> 00:02:40,680
+C'est particulièrement généreux.
+
+56
+00:02:41,439 --> 00:02:47,780
+Vous pourriez dire, moi, dans mon secteur, ce n'est peut-être pas pertinent d'être aussi gourmand.
+
+57
+00:02:48,280 --> 00:02:50,719
+Et c'est ce que nous allons voir aujourd'hui en partie.
+
+58
+00:02:51,039 --> 00:02:53,879
+Donc, vous avez ces valeurs qui sont inscrites par défaut.
+
+59
+00:02:54,259 --> 00:02:58,179
+Et vous allez avoir la possibilité de les modifier, ces valeurs.
+
+60
+00:02:58,599 --> 00:03:07,039
+De les modifier pour mettre des valeurs, des pourcentages ou des sommes d'argent, on va le voir, qui correspondent plus à votre secteur.
+
+61
+00:03:07,679 --> 00:03:13,399
+Pourquoi ? Parce que l'immobilier français est extrêmement homogène.
+
+62
+00:03:14,019 --> 00:03:21,439
+C'est-à-dire que quel que soit l'endroit où vous vous rendez en France, l'immobilier fonctionne de la même manière un petit peu partout.
+
+63
+00:03:21,439 --> 00:03:25,560
+Ce n'est pas le cas dans tous les pays du monde, en particulier les très grands pays comme les Etats-Unis.
+
+64
+00:03:25,979 --> 00:03:31,699
+Les Etats-Unis qui sont même composés de différents états qui sont un petit peu comme différents pays à l'intérieur.
+
+65
+00:03:31,919 --> 00:03:36,759
+Et là, vous allez de la Californie au Colorado, ça n'a rien à voir.
+
+66
+00:03:36,859 --> 00:03:41,860
+L'immobilier fonctionne radicalement différemment, le marché est absolument différent.
+
+67
+00:03:42,199 --> 00:03:50,379
+En France, non. Le marché est le même partout, sauf qu'il y a une exception, c'est Paris intra-muros.
+
+68
+00:03:51,039 --> 00:03:54,979
+Paris intra-muros, c'est un fonctionnement un petit peu différent du reste de la France.
+
+69
+00:03:54,979 --> 00:04:01,639
+Mais à partir du moment où vous sortez de Paris, vous êtes absolument partout dans la même situation.
+
+70
+00:04:01,939 --> 00:04:04,319
+Qu'est-ce que j'appelle la même situation ?
+
+71
+00:04:04,319 --> 00:04:12,519
+C'est que les produits se vendent de la même manière et se vendent avec les mêmes actions.
+
+72
+00:04:13,240 --> 00:04:19,139
+Qu'on soit à Saint-Raphaël sur la côte d'Azur, là où il fait très très beau et où les prix sont très très chers.
+
+73
+00:04:19,139 --> 00:04:23,819
+ou qu'on soit en Creuse, je ne sais pas si vous connaissez la Creuse,
+
+74
+00:04:23,899 --> 00:04:26,699
+Allison connaît très probablement la Creuse puisqu'elle est à côté,
+
+75
+00:04:26,699 --> 00:04:30,879
+mais la Creuse qui est un département très rural et relativement pauvre
+
+76
+00:04:30,879 --> 00:04:32,659
+où là les prix ne sont pas du tout les mêmes,
+
+77
+00:04:33,639 --> 00:04:36,319
+en dehors des prix, le marché fonctionne de la même manière.
+
+78
+00:04:37,019 --> 00:04:39,560
+Le marché fonctionne selon les mêmes ressorts,
+
+79
+00:04:39,719 --> 00:04:42,259
+selon les mêmes leviers à actionner.
+
+80
+00:04:42,419 --> 00:04:46,959
+Le marché est exactement le même en Creuse, à Aubusson,
+
+81
+00:04:46,959 --> 00:04:52,680
+qu'il ne se trouve à Saint-Raphaël, sur la côte d'Azur, où tout est très cher.
+
+82
+00:04:53,779 --> 00:04:56,159
+Le fonctionnement du marché est exactement le même.
+
+83
+00:04:57,299 --> 00:05:01,259
+Par contre, là où les choses ne sont pas homogènes, en France, c'est sur les prix.
+
+84
+00:05:02,199 --> 00:05:05,859
+Bien entendu, une très belle et très grande maison dans la Creuse,
+
+85
+00:05:06,319 --> 00:05:07,379
+elle ne vaut pas cher du tout,
+
+86
+00:05:08,219 --> 00:05:11,719
+comparée à la même grande et belle maison à Saint-Raphaël,
+
+87
+00:05:11,779 --> 00:05:13,859
+où elle vaudra plusieurs millions d'euros.
+
+88
+00:05:13,860 --> 00:05:32,860
+Il est normal en France, selon la région, d'avoir un produit exactement identique, exactement similaire, mais en superficie, en prestation, en ensoleillement, mais qui vaut beaucoup plus cher, qui vaut 2, 3, 4 fois le prix selon l'endroit où on se trouve.
+
+89
+00:05:32,860 --> 00:05:38,680
+parfois pas une très grande distance je montrais l'exemple il y a il ya il ya quelques temps d'ailleurs
+
+90
+00:05:38,680 --> 00:05:44,379
+je vais vous le remontrer au cas où vous vous n'étiez pas là à la visioconférence c'était une
+
+91
+00:05:44,379 --> 00:05:50,040
+visioconférence d'un jeudi que je que je faisais alors on va zoomer un petit peu sur la région
+
+92
+00:05:50,040 --> 00:05:55,840
+parisienne de jeudi que je faisais il ya quelques semaines les fameuses visioconférences du jeudi
+
+93
+00:05:55,839 --> 00:06:03,879
+vous êtes tous invités regardez si on prend l'exemple ici de excusez moi il faut j'arrive
+
+94
+00:06:03,879 --> 00:06:09,459
+à zoomer au bon endroit hop c'est juste ici si je prends l'exemple de deux villes voyez
+
+95
+00:06:09,459 --> 00:06:20,939
+deux villes ici j'ai la ville de maison lafitte est ici et juste de l'autre côté du pont de la
+
+96
+00:06:20,939 --> 00:06:30,480
+Seine j'ai la ville de Sartrouville et donc là la ville de Sartrouville et bien on est séparé ici
+
+97
+00:06:30,480 --> 00:06:35,579
+de je sais pas le pont est ce qu'il fait 200 mètres même pas quelque chose comme ça on est
+
+98
+00:06:35,579 --> 00:06:41,399
+séparé ici juste par le pont et par la Seine et vous avez ici le parc de Maisons Lafitte qui est
+
+99
+00:06:41,399 --> 00:06:47,259
+un des endroits les plus chers de France avec vous le voyez des très belles maisons avec des
+
+100
+00:06:47,259 --> 00:06:51,219
+des grands et beaux jardins, c'est un endroit extrêmement cher.
+
+101
+00:06:51,480 --> 00:06:53,819
+Une belle maison ici vaut plusieurs millions d'euros,
+
+102
+00:06:54,740 --> 00:06:56,779
+alors que juste de l'autre côté du pont,
+
+103
+00:06:57,459 --> 00:06:59,199
+on voit déjà que ce ne sont pas du tout les mêmes produits,
+
+104
+00:06:59,339 --> 00:07:01,360
+ce ne sont pas les mêmes maisons, ce ne sont pas les mêmes jardins,
+
+105
+00:07:01,539 --> 00:07:04,079
+et les prix sont radicalement différents.
+
+106
+00:07:04,639 --> 00:07:07,800
+Alors, pas du simple au triple, il ne faut pas exagérer, pas ici,
+
+107
+00:07:08,420 --> 00:07:12,139
+mais on a une différence de prix gigantesque entre ces deux villes
+
+108
+00:07:12,139 --> 00:07:15,019
+qui sont distantes d'à peine quelques centaines de mètres,
+
+109
+00:07:15,019 --> 00:07:16,860
+il y a juste un fleuve entre les deux.
+
+110
+00:07:17,259 --> 00:07:22,539
+Et c'est pareil, si on monte un petit peu, qu'on va ici à Lafraide-sur-Seine, Herblay-sur-Seine,
+
+111
+00:07:22,620 --> 00:07:24,219
+vous voyez, on est juste à côté de Maison-la-Fitte.
+
+112
+00:07:24,719 --> 00:07:31,139
+Cormeil en Parisie, toutes ces villes sont bien meilleurs marchés que Maison-la-Fitte.
+
+113
+00:07:31,539 --> 00:07:35,980
+Et Maison-la-Fitte, c'est très très cher, de même que les autres villes qui sont alentours,
+
+114
+00:07:36,099 --> 00:07:38,060
+comme Saint-Germain-en-Laye, Marly-le-Roi, etc.
+
+115
+00:07:38,360 --> 00:07:42,120
+Donc vous voyez, à quelques centaines de mètres, on peut avoir des différences de prix très importantes.
+
+116
+00:07:42,120 --> 00:07:55,860
+Les différences de prix, ça implique nécessairement une clientèle plus fortunée et donc une différence de prix dans les honoraires des agents immobiliers également.
+
+117
+00:07:56,620 --> 00:08:03,620
+Les agents immobiliers ont des honoraires qui sont relativement adaptés à leur clientèle.
+
+118
+00:08:03,620 --> 00:08:05,740
+quand je suis agent immobilier
+
+119
+00:08:05,740 --> 00:08:08,899
+dans une ville très très très très riche
+
+120
+00:08:08,899 --> 00:08:10,019
+forcément mes clients
+
+121
+00:08:10,019 --> 00:08:11,840
+ont plus de moyens pour me payer
+
+122
+00:08:11,840 --> 00:08:13,019
+des honoraires plus élevés
+
+123
+00:08:13,019 --> 00:08:14,959
+quand je suis agent immobilier
+
+124
+00:08:14,959 --> 00:08:16,040
+parce que je déménage
+
+125
+00:08:16,040 --> 00:08:18,920
+de Maison Lafitte
+
+126
+00:08:18,920 --> 00:08:20,000
+que je vous montrais à un instant
+
+127
+00:08:20,000 --> 00:08:21,740
+où j'avais des honoraires très élevés
+
+128
+00:08:21,740 --> 00:08:24,439
+je déménage à Aubusson dans la Creuse
+
+129
+00:08:24,439 --> 00:08:26,680
+forcément les clients n'ont plus les mêmes moyens
+
+130
+00:08:26,680 --> 00:08:28,980
+donc il va falloir que j'adapte
+
+131
+00:08:28,980 --> 00:08:31,579
+mes honoraires à mon nouveau secteur
+
+132
+00:08:31,579 --> 00:08:32,899
+et au nouveau prix
+
+133
+00:08:32,899 --> 00:08:34,740
+des produits que je vais travailler.
+
+134
+00:08:34,959 --> 00:08:39,059
+Donc, que je sois au Buisson, à Maison Lafitte, à Sartreville ou à Saint-Raphaël,
+
+135
+00:08:39,199 --> 00:08:43,139
+le marché est le même, il est très homogène, il fonctionne de la même manière.
+
+136
+00:08:43,779 --> 00:08:47,079
+La très grosse différence d'un endroit à l'autre, ce sont les prix
+
+137
+00:08:47,079 --> 00:08:49,620
+et donc les tarifs des agents immobiliers.
+
+138
+00:08:50,039 --> 00:08:54,720
+Il va donc falloir que vous adaptiez vos honoraires à votre secteur, à vous.
+
+139
+00:08:55,179 --> 00:08:57,360
+Et ça, c'est quelque chose que nous allons étudier aujourd'hui.
+
+140
+00:08:57,360 --> 00:09:07,740
+premièrement comment trouver les bonnes valeurs à mettre dans ma grille et ensuite vous montrerai
+
+141
+00:09:07,740 --> 00:09:12,740
+comment on les insert mais ça c'est très facile il suffit de modifier ce qui est ici de mettre
+
+142
+00:09:12,740 --> 00:09:19,159
+les bonnes valeurs ça c'est relativement simple alors juste avant vous constatez que il y a de
+
+143
+00:09:19,159 --> 00:09:26,299
+grilles la grille essentielle qui est là et la grille premium qui est là premium et à côté
+
+144
+00:09:26,299 --> 00:09:32,360
+essentiel la grille premium et essentiel vous voyez qu'elles ont une différence la grille
+
+145
+00:09:32,360 --> 00:09:41,059
+premium est supérieure à la grille essentiel alors pas beaucoup voyez ici on passe de 9,5% à 10% pas
+
+146
+00:09:41,059 --> 00:09:46,419
+énorme parce que c'est une grille par défaut vous allez avoir vous dans votre grille des
+
+147
+00:09:46,419 --> 00:09:50,000
+des différences plus importantes entre la grille essentielle et la grille premium.
+
+148
+00:09:50,959 --> 00:09:55,120
+Quelle est la différence entre essentielle et premium ?
+
+149
+00:09:55,120 --> 00:09:57,360
+C'est votre mandat qui est différent.
+
+150
+00:09:58,000 --> 00:10:01,799
+Vous voyez, lorsque vous saisissez un mandat, ici, saisis mandat électronique,
+
+151
+00:10:03,639 --> 00:10:08,399
+on vous demande, lorsque vous saisissez les tarifs qui sont ici en haut à droite,
+
+152
+00:10:09,000 --> 00:10:13,659
+on vous demande est-ce que c'est une tarification premium ou essentielle.
+
+153
+00:10:13,659 --> 00:10:25,600
+Ce sont en fait deux niveaux de prestations. Un niveau de prestation premium, donc plus élevé, que l'essentiel, qui est un niveau de prestation plus bas, plus faible.
+
+154
+00:10:26,919 --> 00:10:38,919
+La tarification premium et la tarification essentielle ont été imaginées, ont été inventées dans le but de vous permettre de vous adapter à votre concurrence.
+
+155
+00:10:38,919 --> 00:10:48,959
+Pourquoi ? Parce que vous le savez, à la lucarne de l'immobilier, c'est un professionnel qui apporte un certain nombre de services à ses clients,
+
+156
+00:10:49,679 --> 00:10:56,719
+des services qui n'existent pas ailleurs, des services que les autres agents immobiliers n'utilisent pas, ou alors très rarement.
+
+157
+00:10:57,199 --> 00:11:00,659
+Les agents immobiliers utilisent très rarement ce genre de prestations.
+
+158
+00:11:00,659 --> 00:11:07,779
+Alors, je vais vous montrer de quoi je parle. On va aller se prendre tout de suite dans les mandats de cet agent de test,
+
+159
+00:11:07,779 --> 00:11:09,980
+parce que là vous voyez que c'est une églantine d'un agent de test
+
+160
+00:11:09,980 --> 00:11:11,679
+on va chercher dans les mandats
+
+161
+00:11:11,679 --> 00:11:13,959
+donc, ah oui pour ceux qui ne sont pas encore
+
+162
+00:11:13,959 --> 00:11:15,879
+très habitués, et c'est normal
+
+163
+00:11:15,879 --> 00:11:17,579
+je vais ici sur le lien
+
+164
+00:11:17,579 --> 00:11:19,899
+mandat, et quand je clique dessus
+
+165
+00:11:19,899 --> 00:11:22,100
+je tombe sur mes mandats, là je n'en ai aucun
+
+166
+00:11:22,100 --> 00:11:24,100
+en cours, en cours ça veut dire
+
+167
+00:11:24,100 --> 00:11:25,079
+en cours de diffusion
+
+168
+00:11:25,079 --> 00:11:27,799
+en cours de travail, je n'en ai
+
+169
+00:11:27,799 --> 00:11:29,360
+aucun
+
+170
+00:11:29,360 --> 00:11:33,959
+parce que c'est un truc de test
+
+171
+00:11:33,959 --> 00:11:36,100
+maintenant j'ai des mandats en attente
+
+172
+00:11:36,100 --> 00:11:37,960
+les mandats en attente
+
+173
+00:11:37,960 --> 00:11:39,700
+ce sont vos mandats
+
+174
+00:11:39,700 --> 00:11:41,680
+que vous gardez de côté
+
+175
+00:11:41,680 --> 00:11:43,820
+je dois être déconnecté
+
+176
+00:11:43,820 --> 00:11:45,080
+je vais me déconnecter, me reconnecter
+
+177
+00:11:45,080 --> 00:11:46,899
+c'est assez normal
+
+178
+00:11:46,899 --> 00:11:48,159
+je vais refaire la
+
+179
+00:11:48,159 --> 00:11:50,040
+je vais refaire la
+
+180
+00:11:50,040 --> 00:11:52,720
+excusez-moi
+
+181
+00:11:52,720 --> 00:11:53,560
+la connexion
+
+182
+00:11:53,560 --> 00:11:54,740
+tout simplement
+
+183
+00:11:54,740 --> 00:11:56,860
+excusez-moi
+
+184
+00:11:56,860 --> 00:12:00,779
+voilà
+
+185
+00:12:00,779 --> 00:12:03,899
+j'étais connecté sur l'églantine de Violine
+
+186
+00:12:03,899 --> 00:12:05,899
+Violine qui est avec nous
+
+187
+00:12:06,100 --> 00:12:08,200
+bonjour à vous, et qui nous rejoignent.
+
+188
+00:12:08,279 --> 00:12:09,659
+Alors, je ne sais pas si vous êtes encore en métropole
+
+189
+00:12:09,659 --> 00:12:11,800
+ou si vous êtes retournés à la réunion
+
+190
+00:12:11,800 --> 00:12:13,519
+violine,
+
+191
+00:12:13,659 --> 00:12:14,960
+dites-le-moi sur le chat.
+
+192
+00:12:16,340 --> 00:12:17,620
+Et là, je reviens sur
+
+193
+00:12:17,620 --> 00:12:19,759
+l'églantine de test, parce que j'étais sur l'églantine
+
+194
+00:12:19,759 --> 00:12:21,659
+de violine pour vous montrer une grille
+
+195
+00:12:21,659 --> 00:12:23,720
+absolument vierge. J'étais obligé de faire ça
+
+196
+00:12:23,720 --> 00:12:25,800
+parce que la grille que je vais vous montrer sur cet
+
+197
+00:12:25,800 --> 00:12:27,540
+agent de test qui est ici, elle n'est pas
+
+198
+00:12:27,540 --> 00:12:29,940
+complètement vierge, elle a déjà été un petit peu
+
+199
+00:12:29,940 --> 00:12:31,019
+modifiée.
+
+200
+00:12:31,740 --> 00:12:33,779
+Ce n'est pas grave. Donc, on va chercher les mandats
+
+201
+00:12:33,779 --> 00:12:35,720
+ici, c'est pour ça que je n'avais pas de mandat. Donc, les mandats
+
+202
+00:12:35,720 --> 00:12:37,759
+en attente, ce sont les mandats que vous avez
+
+203
+00:12:37,759 --> 00:12:39,019
+de côté, les mandats en attente.
+
+204
+00:12:39,600 --> 00:12:41,639
+Vous les avez de côté le
+
+205
+00:12:41,639 --> 00:12:43,379
+temps de les mettre en commercialisation
+
+206
+00:12:43,379 --> 00:12:45,500
+plus tard, parce qu'il y a un certain nombre de cas
+
+207
+00:12:45,500 --> 00:12:47,440
+dans lesquels vous avez un mandat
+
+208
+00:12:47,440 --> 00:12:49,879
+qu'il n'est pas pertinent de diffuser
+
+209
+00:12:49,879 --> 00:12:50,840
+maintenant.
+
+210
+00:12:51,580 --> 00:12:52,600
+Plus tard, peut-être,
+
+211
+00:12:53,259 --> 00:12:55,879
+parce que le vendeur
+
+212
+00:12:55,879 --> 00:12:57,639
+est encore en exclusivité avec un autre
+
+213
+00:12:57,639 --> 00:12:59,660
+professionnel, il faut attendre que l'exclusivité
+
+214
+00:12:59,660 --> 00:13:01,320
+se termine, ou quelque chose comme ça.
+
+215
+00:13:02,100 --> 00:13:02,420
+Donc,
+
+216
+00:13:03,620 --> 00:13:04,420
+nous avons
+
+217
+00:13:04,419 --> 00:13:06,479
+ici toutes sortes de mandats, qui sont des
+
+218
+00:13:06,479 --> 00:13:08,339
+mandats de test. Je vais
+
+219
+00:13:08,339 --> 00:13:10,360
+ici lancer page 5, je crois.
+
+220
+00:13:10,799 --> 00:13:12,379
+Voilà. Voici
+
+221
+00:13:12,379 --> 00:13:14,379
+un exemple de
+
+222
+00:13:14,379 --> 00:13:16,259
+prestation premium.
+
+223
+00:13:17,120 --> 00:13:18,679
+De prestation premium.
+
+224
+00:13:19,599 --> 00:13:20,479
+C'est ce qu'on appelle la maquette
+
+225
+00:13:20,479 --> 00:13:22,559
+interactive. La maquette
+
+226
+00:13:22,559 --> 00:13:24,699
+interactive, je vais vous la présenter assez
+
+227
+00:13:24,699 --> 00:13:26,299
+rapidement. On ne va pas passer
+
+228
+00:13:26,299 --> 00:13:27,979
+beaucoup de temps dessus.
+
+229
+00:13:28,980 --> 00:13:30,579
+Donc là, vous voyez, c'est une grande
+
+230
+00:13:30,579 --> 00:13:32,319
+et belle maison à Salon de Provence.
+
+231
+00:13:32,320 --> 00:13:36,320
+dans le sud, bien entendu, en Provence, c'est évident,
+
+232
+00:13:37,160 --> 00:13:40,740
+qui a été rentrée par notre agent Marjorie,
+
+233
+00:13:41,080 --> 00:13:42,040
+qui est à Salon de Provence.
+
+234
+00:13:42,180 --> 00:13:43,760
+Vous voyez, une maquette interactive,
+
+235
+00:13:43,960 --> 00:13:46,040
+pour ceux d'entre vous qui ne sont pas encore habitués,
+
+236
+00:13:46,240 --> 00:13:50,420
+c'est une reconstitution, une maquette exacte
+
+237
+00:13:50,420 --> 00:13:53,000
+d'une maison ou d'un appartement que vous avez en portefeuille.
+
+238
+00:13:53,160 --> 00:13:55,640
+Vous avez ici un plan, vous voyez,
+
+239
+00:13:55,740 --> 00:13:59,020
+qui vous permet d'aller vous promener partout dans la maison.
+
+240
+00:13:59,020 --> 00:14:00,820
+Ici, on va dans la cuisine d'été.
+
+241
+00:14:02,320 --> 00:14:12,580
+et ça permet de faire une reconstitution intégrale de la maison
+
+242
+00:14:12,580 --> 00:14:15,340
+et cela a plusieurs buts, plusieurs objectifs
+
+243
+00:14:15,340 --> 00:14:18,620
+le premier objectif déjà
+
+244
+00:14:18,620 --> 00:14:21,980
+c'est d'apporter au vendeur, au propriétaire
+
+245
+00:14:21,980 --> 00:14:26,560
+une prestation dont il peut visiblement s'apercevoir
+
+246
+00:14:26,560 --> 00:14:29,440
+je dis visiblement parce que c'est quelque chose qui se voit
+
+247
+00:14:29,440 --> 00:14:30,800
+qu'on a sous les yeux
+
+248
+00:14:30,800 --> 00:14:32,040
+un petit chat
+
+249
+00:14:32,039 --> 00:14:33,879
+c'est quelque chose
+
+250
+00:14:33,879 --> 00:14:36,539
+dont le vendeur peut visiblement
+
+251
+00:14:36,539 --> 00:14:37,980
+s'apercevoir de la qualité
+
+252
+00:14:37,980 --> 00:14:40,139
+parce qu'il est assez courant
+
+253
+00:14:40,139 --> 00:14:41,240
+d'entendre dire
+
+254
+00:14:41,240 --> 00:14:43,519
+les agents immobiliers ne font pas grand chose
+
+255
+00:14:43,519 --> 00:14:45,819
+ils ne se foulent pas
+
+256
+00:14:45,819 --> 00:14:48,459
+ils ne se donnent pas
+
+257
+00:14:48,459 --> 00:14:49,620
+beaucoup de mal pour vendre les maisons
+
+258
+00:14:49,620 --> 00:14:52,179
+ils rentrent les mandats et puis après ils attendent
+
+259
+00:14:52,179 --> 00:14:52,819
+que ça se passe
+
+260
+00:14:52,819 --> 00:14:56,039
+un des objectifs de cette maquette interactive c'est de dire
+
+261
+00:14:56,039 --> 00:14:58,139
+vous voyez bien parce que c'est
+
+262
+00:14:58,139 --> 00:14:59,579
+visible ce qu'on a sous les yeux
+
+263
+00:14:59,579 --> 00:15:00,980
+c'est extrêmement visible
+
+264
+00:15:01,600 --> 00:15:11,259
+Vous voyez que je mets en œuvre des prestations complexes, compliquées, intéressantes, utiles, coûteuses.
+
+265
+00:15:11,940 --> 00:15:16,120
+Pourquoi je dis coûteuses ? Parce qu'en fait, ça, vous ne vous êtes peut-être jamais renseigné,
+
+266
+00:15:16,120 --> 00:15:21,860
+mais si vous allez voir une société de prestations de services qui fait ce genre de prestations,
+
+267
+00:15:22,519 --> 00:15:25,220
+ça coûte très cher, ça coûte plusieurs centaines d'euros.
+
+268
+00:15:26,420 --> 00:15:28,320
+Donc, c'est un investissement qu'on fait.
+
+269
+00:15:28,320 --> 00:15:30,140
+le vendeur ne sait pas
+
+270
+00:15:30,140 --> 00:15:31,460
+et il n'a pas besoin de le savoir
+
+271
+00:15:31,460 --> 00:15:34,379
+que ça c'est une prestation gratuite
+
+272
+00:15:34,379 --> 00:15:35,300
+dans la mesure où
+
+273
+00:15:35,300 --> 00:15:38,100
+comme c'est nous, la lucar de l'immobilier
+
+274
+00:15:38,100 --> 00:15:40,040
+qui faisons
+
+275
+00:15:40,040 --> 00:15:41,680
+ce travail
+
+276
+00:15:41,680 --> 00:15:43,620
+et qui fabriquons cette maquette interactive
+
+277
+00:15:43,620 --> 00:15:45,720
+et bien nos agents ne le payent pas
+
+278
+00:15:45,720 --> 00:15:47,840
+mais ça, le vendeur
+
+279
+00:15:47,840 --> 00:15:48,520
+il n'a pas le savoir
+
+280
+00:15:48,520 --> 00:15:51,220
+lui tout ce qu'on peut lui dire c'est regardez, on ne se moque pas de vous
+
+281
+00:15:51,220 --> 00:15:52,900
+on a fait une vraie reconstitution de votre maison
+
+282
+00:15:52,900 --> 00:15:54,540
+qui permet de la voir, regardez
+
+283
+00:15:54,540 --> 00:15:57,520
+quel agent immobilier peut permettre à ses acquéreurs
+
+284
+00:15:57,519 --> 00:15:59,879
+d'aller voir comment est faite la douche,
+
+285
+00:16:00,100 --> 00:16:02,799
+quel est le pommeau de douche de chez lui.
+
+286
+00:16:03,159 --> 00:16:05,360
+Parce que quand un agent immobilier présente une maison,
+
+287
+00:16:05,559 --> 00:16:07,740
+il présente la maison avec quelques photos,
+
+288
+00:16:08,120 --> 00:16:09,000
+plus ou moins de photos.
+
+289
+00:16:09,620 --> 00:16:11,299
+Est-ce qu'il prend nécessairement une photo
+
+290
+00:16:11,299 --> 00:16:14,759
+de l'intérieur de la douche qui est là,
+
+291
+00:16:14,860 --> 00:16:16,720
+qui permet de voir le lavabo,
+
+292
+00:16:16,899 --> 00:16:19,679
+qui permet de voir le type de robinetterie,
+
+293
+00:16:19,799 --> 00:16:22,259
+qui permet de voir le type de cuvette de WC,
+
+294
+00:16:22,759 --> 00:16:25,600
+qui permet de voir jusqu'au bouton
+
+295
+00:16:25,600 --> 00:16:27,500
+de la chasse d'eau qui est ici ?
+
+296
+00:16:27,519 --> 00:16:28,399
+Non, pas du tout.
+
+297
+00:16:29,259 --> 00:16:32,139
+Ça, c'est une prestation assez bluffante pour le vendeur
+
+298
+00:16:32,139 --> 00:16:35,319
+parce qu'elle permet de lui dire « Regardez, monsieur, c'est visible.
+
+299
+00:16:36,059 --> 00:16:41,480
+Vous voyez de vos propres yeux comment je m'investis à vos côtés
+
+300
+00:16:41,480 --> 00:16:44,559
+pour la commercialisation de votre maison. »
+
+301
+00:16:44,559 --> 00:16:48,899
+Donc, avant tout, c'est d'abord une prestation qui est, pour le vendeur,
+
+302
+00:16:49,620 --> 00:16:55,500
+visiblement au-dessus des prestations de vos concurrents.
+
+303
+00:16:55,500 --> 00:17:01,639
+La deuxième chose, cet outil de maquette interactive vous permet de faire visiter les maisons en tout anonymat,
+
+304
+00:17:01,720 --> 00:17:07,240
+parce que vous voyez, à aucun endroit on ne trouve l'adresse du bien, à aucun endroit on ne sait où ça se trouve.
+
+305
+00:17:08,000 --> 00:17:17,779
+Cela permet, en tout anonymat, sans dénoncer la localisation du bien, de le faire visiter de manière très précise,
+
+306
+00:17:17,779 --> 00:17:22,180
+de le faire visiter de manière très utile
+
+307
+00:17:22,180 --> 00:17:23,899
+aux acquéreurs,
+
+308
+00:17:24,200 --> 00:17:26,779
+soit qui n'ont pas le temps de se déplacer pour visiter,
+
+309
+00:17:27,859 --> 00:17:29,740
+soit aux acquéreurs qui se trouvent loin,
+
+310
+00:17:30,019 --> 00:17:31,980
+à 100, 150, 200 kilomètres,
+
+311
+00:17:32,039 --> 00:17:34,240
+ou peut-être même 2000 kilomètres.
+
+312
+00:17:34,379 --> 00:17:36,899
+Imaginons que vous ayez un client à Pékin
+
+313
+00:17:36,899 --> 00:17:38,839
+ou à Montréal, au Québec,
+
+314
+00:17:39,359 --> 00:17:40,660
+il peut visiter la maison
+
+315
+00:17:40,660 --> 00:17:42,700
+comme s'il y était,
+
+316
+00:17:43,359 --> 00:17:45,579
+de sorte, en fait, à ne se déplacer
+
+317
+00:17:45,579 --> 00:17:48,059
+que pour finaliser la transaction.
+
+318
+00:17:48,839 --> 00:17:51,240
+Donc, c'est vraiment un outil d'aide à la vente
+
+319
+00:17:51,240 --> 00:17:53,819
+extrêmement pointu, extrêmement pertinent
+
+320
+00:17:53,819 --> 00:17:55,779
+et qui marche très bien.
+
+321
+00:17:56,599 --> 00:18:02,279
+Ça, vous voyez, c'est un exemple de prestation premium.
+
+322
+00:18:02,460 --> 00:18:04,240
+Alors, je vous montre ça sur cette maison,
+
+323
+00:18:04,339 --> 00:18:08,059
+mais je pourrais vous montrer ça sur d'autres types de produits.
+
+324
+00:18:08,059 --> 00:18:11,519
+Alors, maison, mais également appartement,
+
+325
+00:18:12,460 --> 00:18:15,539
+également des granges, des terrains, n'importe quoi.
+
+326
+00:18:15,579 --> 00:18:21,879
+voici une autre maison, alors là nous allons nous promener dans le Pas-de-Calais, c'est
+
+327
+00:18:21,879 --> 00:18:26,579
+une maison également que je présente souvent parce que je l'ai ici, donc voyez, allons
+
+328
+00:18:26,579 --> 00:18:30,679
+nous promener dans la chambre qui est là, je vais mettre en plein écran pour que vous
+
+329
+00:18:30,679 --> 00:18:37,379
+y voyez plus clair, et hop, nous voici dans la chambre, et je la visite comme si je m'y
+
+330
+00:18:37,379 --> 00:18:43,699
+trouvais moi-même, je peux voir la taille du lit par rapport à la taille de la chambre,
+
+331
+00:18:43,700 --> 00:18:49,319
+je peux voir le type d'interrupteur, vous voyez, c'est très très très précis.
+
+332
+00:18:50,279 --> 00:18:54,220
+Tout ce dont vous avez besoin pour fabriquer ça,
+
+333
+00:18:54,960 --> 00:18:57,660
+c'est d'une petite lentille que vous mettez sur votre smartphone,
+
+334
+00:18:58,100 --> 00:19:00,700
+que nous vous fournirons, que nous vous donnerons.
+
+335
+00:19:01,819 --> 00:19:04,180
+Donc, vous n'avez même pas besoin d'investir là-dedans,
+
+336
+00:19:04,840 --> 00:19:07,360
+vous faites les photos avec votre smartphone, il y a une formation pour ça,
+
+337
+00:19:07,400 --> 00:19:11,000
+on vous explique comment on fait, et puis c'est nous qui nous occupons de tout le reste,
+
+338
+00:19:11,000 --> 00:19:30,319
+C'est nous qui nous occupons de fabriquer cette maquette interactive qui nous permet de visiter la salle de bain, de voir qu'il y a une prise électrique avec un interrupteur ici, de voir qu'il y a une double vasque, de voir la qualité de la robinetterie, de voir le type de la douche à l'italienne.
+
+339
+00:19:31,240 --> 00:19:39,000
+C'est extrêmement précis. C'est une aide très précieuse pour les acquéreurs et pour les vendeurs aussi, qui leur permet de mieux vendre.
+
+340
+00:19:39,000 --> 00:19:41,059
+vendre. Voici le type de prestations
+
+341
+00:19:41,059 --> 00:19:43,099
+premium. Alors, on reviendra sur les prestations
+
+342
+00:19:43,099 --> 00:19:44,720
+premium à un autre moment.
+
+343
+00:19:44,920 --> 00:19:46,660
+Ce n'est pas le but de la visioconférence d'aujourd'hui.
+
+344
+00:19:46,759 --> 00:19:48,859
+Je vous présente juste ça rapidement pour vous
+
+345
+00:19:48,859 --> 00:19:50,460
+montrer un petit peu quel est le principe
+
+346
+00:19:50,460 --> 00:19:52,619
+d'avoir une double
+
+347
+00:19:52,619 --> 00:19:55,019
+tarification. Pourquoi ?
+
+348
+00:19:55,019 --> 00:19:55,660
+Parce que
+
+349
+00:19:55,660 --> 00:19:58,660
+je retourne... Hop, non, je n'ai pas cliqué
+
+350
+00:19:58,660 --> 00:19:59,079
+où il fallait.
+
+351
+00:20:00,920 --> 00:20:01,900
+C'est gris de tarif.
+
+352
+00:20:02,680 --> 00:20:04,000
+Je retourne sur mes deux gris.
+
+353
+00:20:04,740 --> 00:20:06,619
+La grille premium, en fait, c'est la grille
+
+354
+00:20:06,619 --> 00:20:07,779
+que nous devons viser
+
+355
+00:20:07,779 --> 00:20:10,200
+parce que les mandats premium
+
+356
+00:20:10,200 --> 00:20:12,059
+ils ont toutes sortes de prestations
+
+357
+00:20:12,059 --> 00:20:13,339
+qui permettent de mieux les vendre
+
+358
+00:20:13,339 --> 00:20:15,319
+ils sont mieux diffusés sur les sites portail
+
+359
+00:20:15,319 --> 00:20:17,220
+c'est à dire qu'ils sont diffusés dans
+
+360
+00:20:17,220 --> 00:20:19,399
+plus de sites portail
+
+361
+00:20:19,399 --> 00:20:22,299
+ah, Violine nous confirme qu'elle est toujours en métropole
+
+362
+00:20:22,299 --> 00:20:23,859
+et elle est au Ménuire en vacances
+
+363
+00:20:23,859 --> 00:20:25,639
+à la montagne, ah vous avez de la chance
+
+364
+00:20:25,639 --> 00:20:27,980
+les Ménuire il paraît, moi je n'y suis jamais allé
+
+365
+00:20:27,980 --> 00:20:29,379
+mais il paraît que c'est très très très chouette
+
+366
+00:20:29,379 --> 00:20:32,000
+écoutez, bonnes vacances, j'espère que vous avez
+
+367
+00:20:32,000 --> 00:20:33,119
+que vous avez de la neige
+
+368
+00:20:33,119 --> 00:20:36,119
+parce que là partout en France
+
+369
+00:20:36,119 --> 00:20:38,119
+en métropole il commence à faire beau
+
+370
+00:20:38,119 --> 00:20:40,159
+on commence à avoir du soleil donc je ne sais pas
+
+371
+00:20:40,159 --> 00:20:42,199
+s'il y a encore beaucoup de neige. Donc je vous
+
+372
+00:20:42,199 --> 00:20:44,079
+disais la prestation premium en fait
+
+373
+00:20:44,079 --> 00:20:45,639
+c'est la prestation par défaut
+
+374
+00:20:45,639 --> 00:20:48,219
+que nous avons pour les
+
+375
+00:20:48,219 --> 00:20:50,039
+mandats. Ce sont des mandats
+
+376
+00:20:50,039 --> 00:20:52,019
+mieux diffusés sur les sites portails
+
+377
+00:20:52,019 --> 00:20:54,559
+ce sont des mandats qui bénéficient
+
+378
+00:20:54,559 --> 00:20:56,179
+d'un certain nombre d'outils
+
+379
+00:20:56,179 --> 00:20:58,179
+à très forte valeur ajoutée
+
+380
+00:20:58,179 --> 00:21:00,000
+qui facilitent la vente
+
+381
+00:21:00,000 --> 00:21:02,139
+et qui permettent de mieux vendre à un
+
+382
+00:21:02,139 --> 00:21:03,739
+meilleur prix pour le vendeur
+
+383
+00:21:03,740 --> 00:21:08,400
+C'est une grille qui vous apporte, vous le voyez, une meilleure rémunération.
+
+384
+00:21:09,920 --> 00:21:12,680
+La grille essentielle, qu'est-ce que c'est ?
+
+385
+00:21:12,680 --> 00:21:14,620
+À quoi ça sert la grille essentielle ?
+
+386
+00:21:14,620 --> 00:21:17,880
+Eh bien, la grille essentielle, elle doit vous permettre de vous adapter
+
+387
+00:21:17,880 --> 00:21:24,079
+lorsque vous avez un vendeur que vous n'arrivez pas à convaincre
+
+388
+00:21:24,079 --> 00:21:27,380
+de la pertinence de votre prestation premium.
+
+389
+00:21:27,980 --> 00:21:33,319
+Votre prestation premium, c'est votre « Oui, il a neigé hier soir et je suis ravi d'être à la lucarne. »
+
+390
+00:21:33,319 --> 00:21:42,099
+Ah, je vous jure que ce n'est pas moi qui le rajoute, ça c'est vraiment, regardez, je vous le prouve, c'est vraiment Violine qui dit ça, voyez, hop, je suis ravi d'être à la lucarne.
+
+391
+00:21:42,099 --> 00:21:45,179
+Écoutez, c'est très gentil d'avoir un gentil compliment comme ça, c'est très chouette.
+
+392
+00:21:45,720 --> 00:21:50,740
+Et puis, il a neigé hier soir, donc écoutez, c'est super, je vous souhaite vraiment de beaucoup vous amuser.
+
+393
+00:21:51,079 --> 00:22:00,099
+Alors, je vous disais, la grille essentielle, c'est lorsque vous avez un vendeur qui n'est pas convaincu de la pertinence de ses outils.
+
+394
+00:22:00,099 --> 00:22:04,799
+Pourquoi ? Parce qu'il y a des gens qui sont très têtus parmi nos clients.
+
+395
+00:22:05,240 --> 00:22:07,000
+Il y a des gens qui sont très têtus, qui ne veulent pas entendre.
+
+396
+00:22:07,059 --> 00:22:11,000
+Et tout ce qu'ils ont à la bouche, c'est « Oui, les autres agences immobilières sont moins chères.
+
+397
+00:22:11,079 --> 00:22:12,759
+Les autres agences immobilières sont moins chères.
+
+398
+00:22:13,099 --> 00:22:16,219
+J'ai déjà confié mon mandat à IAD, par exemple.
+
+399
+00:22:16,339 --> 00:22:21,299
+Et eux, ils prennent moins cher que vaut, je dis une bêtise, que vaut 8% qui sont là.
+
+400
+00:22:21,919 --> 00:22:24,899
+Ils ne prennent pas 8%, ils prennent 4%.
+
+401
+00:22:24,899 --> 00:22:27,939
+Alors, 8%, ici, c'est très cher.
+
+402
+00:22:27,939 --> 00:22:29,659
+On est d'accord, je vous ai dit, c'est une grille.
+
+403
+00:22:30,099 --> 00:22:33,379
+Par défaut, elle est très chère, elle est trop chère.
+
+404
+00:22:33,480 --> 00:22:35,599
+Vous allez l'adapter à votre secteur.
+
+405
+00:22:35,699 --> 00:22:39,579
+Sauf si vous êtes dans un secteur très cher, vous-même, très bourgeois, très riche.
+
+406
+00:22:40,459 --> 00:22:44,059
+En règle générale, on n'est pas à 8% dans ce genre de tranche.
+
+407
+00:22:44,219 --> 00:22:50,179
+Alors, vous avez un vendeur qui n'a qu'une chose à la bouche,
+
+408
+00:22:50,319 --> 00:22:52,879
+c'est vos concurrents, ils sont moins chers.
+
+409
+00:22:54,919 --> 00:22:58,059
+Et là, vous avez deux choix, vous avez deux possibilités.
+
+410
+00:22:58,059 --> 00:23:00,839
+lorsque vous êtes très expérimenté
+
+411
+00:23:00,839 --> 00:23:05,079
+vous pouvez vous permettre de dire au vendeur
+
+412
+00:23:05,079 --> 00:23:07,319
+écoutez, débrouillez-vous
+
+413
+00:23:07,319 --> 00:23:08,679
+avec votre mandat, c'est pas grave
+
+414
+00:23:08,679 --> 00:23:10,000
+vous ne lui dites pas comme ça
+
+415
+00:23:10,000 --> 00:23:12,500
+c'est pas très commercial, c'est pas très diplomate
+
+416
+00:23:12,500 --> 00:23:14,200
+mais on dit au vendeur
+
+417
+00:23:14,200 --> 00:23:17,179
+écoutez, je comprends, vous ne voulez pas entendre
+
+418
+00:23:17,179 --> 00:23:18,980
+la pertinence
+
+419
+00:23:18,980 --> 00:23:20,599
+de mes arguments et de mes outils
+
+420
+00:23:20,599 --> 00:23:23,119
+écoutez, je vous souhaite bonne chance
+
+421
+00:23:23,119 --> 00:23:25,480
+dans la commercialisation avec mes concurrents
+
+422
+00:23:25,480 --> 00:23:26,019
+pas de problème
+
+423
+00:23:26,019 --> 00:23:27,859
+débrouillez-vous avec eux
+
+424
+00:23:28,700 --> 00:23:32,720
+Ou alors, soit parce que vous êtes moins expérimenté
+
+425
+00:23:32,720 --> 00:23:35,899
+et que vous êtes moins assis dans votre profession.
+
+426
+00:23:36,960 --> 00:23:40,639
+Soit tout simplement parce que c'est un beau mandat que vous ne voulez pas rater.
+
+427
+00:23:40,839 --> 00:23:44,659
+Parce que ça, c'est un beau mandat qui est au bon endroit, qui est au bon prix.
+
+428
+00:23:44,940 --> 00:23:46,940
+Et vous savez que vous avez des acquéreurs pour ce mandat.
+
+429
+00:23:47,039 --> 00:23:49,240
+Vous savez que vous avez vraiment des chances de le vendre rapidement.
+
+430
+00:23:49,240 --> 00:23:52,059
+Donc, vous ne voulez pas le rater. Vous ne voulez pas passer à côté.
+
+431
+00:23:53,019 --> 00:23:57,819
+Vous ne voulez pas passer à côté, mais le vendeur, il ne veut pas entendre votre prestation avec ce tarif-là.
+
+432
+00:23:58,779 --> 00:24:00,019
+Il ne veut pas en entendre parler.
+
+433
+00:24:00,519 --> 00:24:01,599
+Il estime que c'est trop cher.
+
+434
+00:24:01,740 --> 00:24:07,599
+Alors, la première chose à lui expliquer, c'est que déjà, les mandats chez Alucard de l'immobilier, ils sont à la charge de l'acquéreur.
+
+435
+00:24:08,019 --> 00:24:10,279
+Et ça, c'est un argument extrêmement important.
+
+436
+00:24:11,500 --> 00:24:17,500
+Avoir les honoraires qui seront payés par les acquéreurs et pas par le vendeur, c'est un argument très important pour dire,
+
+437
+00:24:18,059 --> 00:24:25,819
+« Monsieur le vendeur, focalisons-nous sur votre prix à vous, le prix de votre maison, qu'on appelle le prix net vendeur.
+
+438
+00:24:26,259 --> 00:24:28,819
+Les honoraires, je verrai ça avec les acquéreurs.
+
+439
+00:24:29,539 --> 00:24:32,079
+Que mes honoraires soient 8, 5 ou 12 %,
+
+440
+00:24:32,079 --> 00:24:34,919
+c'est les acquéreurs qui payent de toute manière, ce n'est pas vous.
+
+441
+00:24:35,339 --> 00:24:38,220
+Vous, vous gardez le contrôle sur votre prix net vendeur.
+
+442
+00:24:39,720 --> 00:24:42,859
+Imaginons que j'ai une offre exactement à votre prix net vendeur.
+
+443
+00:24:43,079 --> 00:24:44,279
+Vous êtes content, tout va bien.
+
+444
+00:24:44,799 --> 00:24:48,839
+Si j'ai une offre plus faible, c'est vous qui gardez le contrôle pour dire oui ou non.
+
+445
+00:24:49,200 --> 00:24:52,379
+Moi, quelle que soit l'offre, je vous la présenterai loyalement
+
+446
+00:24:52,380 --> 00:24:56,340
+et vous déciderez si vous voulez la considérer,
+
+447
+00:24:56,540 --> 00:24:59,060
+si vous voulez la négocier ou si vous voulez la rejeter.
+
+448
+00:24:59,700 --> 00:25:02,280
+Vous avez entièrement le contrôle sur votre prix.
+
+449
+00:25:03,060 --> 00:25:06,940
+Les honoraires, je verrai avec les acquéreurs.
+
+450
+00:25:07,080 --> 00:25:14,020
+Je verrai ça avec les acquéreurs parce que c'est eux qui paieront mes honoraires.
+
+451
+00:25:14,260 --> 00:25:15,920
+Donc, ne nous focalisons pas là-dessus.
+
+452
+00:25:16,040 --> 00:25:18,440
+C'est vrai que c'est un argument assez important.
+
+453
+00:25:18,640 --> 00:25:20,300
+C'est un argument assez massue.
+
+454
+00:25:20,299 --> 00:25:24,519
+Mais parfois, vous avez quand même un vendeur qui est têtu,
+
+455
+00:25:24,619 --> 00:25:28,259
+qui ne veut pas en entendre parler et qui vous dit
+
+456
+00:25:28,259 --> 00:25:31,960
+« Non, non, non, les autres agences prennent moins cher. »
+
+457
+00:25:31,960 --> 00:25:35,059
+Et là, il faut leur dire « Oui, mais les autres agences ne font pas ce que je fais. »
+
+458
+00:25:35,059 --> 00:25:35,839
+Parce que ça, c'est vrai.
+
+459
+00:25:36,399 --> 00:25:38,019
+Regardez, si nous allons sur ce logé.
+
+460
+00:25:38,539 --> 00:25:41,819
+Alors, je vais sur ce logé parce que je trouve que le site est bien fait
+
+461
+00:25:41,819 --> 00:25:43,019
+et qu'il est pratique à utiliser.
+
+462
+00:25:43,539 --> 00:25:46,779
+Mais on pourrait aller sur le bon coin, on pourrait aller nulle part ailleurs.
+
+463
+00:25:46,960 --> 00:25:49,000
+C'est vrai que pour la plupart de mes démonstrations, vous verrez,
+
+464
+00:25:49,000 --> 00:25:51,859
+plus facilement sur ce logé que sur le bon coin
+
+465
+00:25:51,859 --> 00:25:53,740
+parce que je préfère le site. Mais c'est
+
+466
+00:25:53,740 --> 00:25:55,839
+exactement la même chose. Alors nous allons
+
+467
+00:25:55,839 --> 00:25:57,759
+à Aubusson. Nous allons
+
+468
+00:25:57,759 --> 00:25:59,720
+à Aubusson, dans
+
+469
+00:25:59,720 --> 00:26:01,680
+la Creuse, donc, je vous disais tout à l'heure.
+
+470
+00:26:02,660 --> 00:26:03,339
+Et regardez, alors,
+
+471
+00:26:04,200 --> 00:26:05,799
+ce que je vous disais, les prix, ce n'est pas les mêmes qu'à
+
+472
+00:26:05,799 --> 00:26:07,779
+Saint-Raphaël. Regardez cette belle maison
+
+473
+00:26:07,779 --> 00:26:08,779
+avec une tourelle.
+
+474
+00:26:09,720 --> 00:26:11,839
+C'est une maison de 1610.
+
+475
+00:26:12,339 --> 00:26:12,740
+Imaginez.
+
+476
+00:26:14,339 --> 00:26:14,700
+1610.
+
+477
+00:26:15,559 --> 00:26:17,700
+Une maison superbement
+
+478
+00:26:17,700 --> 00:26:19,400
+restauré nous dit l'agent immobilier
+
+479
+00:26:19,400 --> 00:26:21,059
+et pourtant elle ne coûte que
+
+480
+00:26:21,059 --> 00:26:23,660
+99 000 euros. Vous imaginez
+
+481
+00:26:23,660 --> 00:26:25,539
+un petit peu ? Eh bien, voyez
+
+482
+00:26:25,539 --> 00:26:27,500
+cette maison magnifique
+
+483
+00:26:27,500 --> 00:26:29,019
+et superbement restaurée.
+
+484
+00:26:29,559 --> 00:26:30,519
+Elle est chouette cette cheminée.
+
+485
+00:26:32,480 --> 00:26:33,140
+Eh bien,
+
+486
+00:26:34,440 --> 00:26:35,559
+bon, là l'agent immobilier
+
+487
+00:26:35,559 --> 00:26:37,500
+on peut dire qu'il a particulièrement exagéré
+
+488
+00:26:37,500 --> 00:26:38,440
+dans la mesure où
+
+489
+00:26:38,440 --> 00:26:40,299
+vous le voyez,
+
+490
+00:26:41,019 --> 00:26:43,400
+on ne présente pas des photos
+
+491
+00:26:43,400 --> 00:26:45,380
+avec du bazar comme ça dedans.
+
+492
+00:26:45,900 --> 00:26:47,660
+Ce n'est pas très sérieux. Ce sont des photos
+
+493
+00:26:47,660 --> 00:26:48,560
+de très mauvaise qualité.
+
+494
+00:26:49,580 --> 00:26:50,519
+Mais c'est un bon exemple.
+
+495
+00:26:51,060 --> 00:26:53,019
+Et vous voyez les photos.
+
+496
+00:26:54,620 --> 00:26:54,900
+Alors,
+
+497
+00:26:55,640 --> 00:26:57,160
+il est peut-être un peu gonflé de dire
+
+498
+00:26:57,160 --> 00:26:58,759
+qu'elle a été superbement restaurée,
+
+499
+00:26:58,860 --> 00:27:00,400
+mais bon, c'est mon avis.
+
+500
+00:27:01,000 --> 00:27:02,320
+Bon, ça, c'est une cave.
+
+501
+00:27:02,420 --> 00:27:03,880
+Toutes les photos ne fonctionnent pas, d'ailleurs.
+
+502
+00:27:04,000 --> 00:27:04,560
+Ah si, voilà.
+
+503
+00:27:06,440 --> 00:27:08,160
+Qu'est-ce qu'il a fait, l'agent immobilier ?
+
+504
+00:27:09,759 --> 00:27:10,640
+Il s'est contenté
+
+505
+00:27:10,640 --> 00:27:11,820
+de présenter quelques photos.
+
+506
+00:27:12,900 --> 00:27:13,740
+Il en a mis 15.
+
+507
+00:27:14,200 --> 00:27:15,900
+Ce sont en plus des photos de mauvaise qualité.
+
+508
+00:27:16,779 --> 00:27:16,900
+Bon.
+
+509
+00:27:17,660 --> 00:27:19,480
+Voilà ce qu'il a fait
+
+510
+00:27:19,480 --> 00:27:21,380
+Il a présenté les photos
+
+511
+00:27:21,380 --> 00:27:23,800
+Comment puis-je voir le pommeau de douche
+
+512
+00:27:23,800 --> 00:27:25,340
+Dont je parlais tout à l'heure
+
+513
+00:27:25,340 --> 00:27:26,240
+Je ne peux pas
+
+514
+00:27:26,240 --> 00:27:29,320
+Elle est vraiment belle cette cheminée
+
+515
+00:27:29,320 --> 00:27:30,800
+Elle est vraiment chouette
+
+516
+00:27:30,800 --> 00:27:35,500
+Est-ce que je peux voir le pommeau de douche
+
+517
+00:27:35,500 --> 00:27:36,460
+Non je ne peux pas
+
+518
+00:27:36,460 --> 00:27:38,460
+Est-ce que je peux voir le type de robinetterie
+
+519
+00:27:38,460 --> 00:27:39,660
+Non je ne peux pas
+
+520
+00:27:39,660 --> 00:27:42,960
+Je ne vois en fait que ce que l'agent immobilier
+
+521
+00:27:42,960 --> 00:27:44,040
+A bien voulu me montrer
+
+522
+00:27:44,040 --> 00:27:46,960
+Est-ce qu'il veut bien tout me montrer
+
+523
+00:27:46,960 --> 00:27:49,720
+ou est-ce qu'il y a des choses qui me cachent, je ne sais pas.
+
+524
+00:27:49,920 --> 00:27:50,900
+Allons voir une autre maison.
+
+525
+00:27:51,420 --> 00:27:55,680
+Allons voir d'ailleurs une maison peut-être un petit peu plus chère ici,
+
+526
+00:27:55,799 --> 00:27:56,640
+103 000 euros.
+
+527
+00:28:00,420 --> 00:28:03,759
+Optimum, Marie-Pierre Mallard, là encore, de simples photos.
+
+528
+00:28:05,460 --> 00:28:08,319
+Pourquoi est-ce que je trouve de simples photos chez Optimum
+
+529
+00:28:08,319 --> 00:28:11,860
+et chez, je ne sais plus, là je n'ai pas vu, 3G, immobilier, je ne sais pas quoi.
+
+530
+00:28:11,859 --> 00:28:14,759
+non pas parce que ces gens
+
+531
+00:28:14,759 --> 00:28:17,379
+sont des imbéciles et qu'ils ne connaissent pas leur métier
+
+532
+00:28:17,379 --> 00:28:19,379
+pas du tout, absolument pas
+
+533
+00:28:19,379 --> 00:28:21,979
+c'est parce que c'est comme ça qu'on fait dans l'immobilier
+
+534
+00:28:21,979 --> 00:28:23,500
+c'est comme ça qu'on a toujours fait
+
+535
+00:28:23,500 --> 00:28:25,379
+c'est comme ça qu'on a toujours fait
+
+536
+00:28:25,379 --> 00:28:26,919
+c'est comme ça qu'on continue à faire
+
+537
+00:28:26,919 --> 00:28:28,659
+et si je vais voir n'importe quelle autre annonce
+
+538
+00:28:28,659 --> 00:28:30,699
+allons voir un produit plus cher
+
+539
+00:28:30,699 --> 00:28:33,079
+regardez je vais trier par prix décroissant
+
+540
+00:28:33,079 --> 00:28:34,679
+on va aller voir des trucs plus chers
+
+541
+00:28:34,679 --> 00:28:37,679
+voilà ici j'ai une maison
+
+542
+00:28:37,679 --> 00:28:39,139
+ah non c'est un
+
+543
+00:28:39,139 --> 00:28:40,979
+appartement, excusez-moi
+
+544
+00:28:40,980 --> 00:28:44,480
+Un appartement à 294 000 euros, ce qui est très cher pour le secteur.
+
+545
+00:28:46,160 --> 00:28:49,079
+Et bien là encore, j'ai de simples photos.
+
+546
+00:28:49,740 --> 00:28:52,539
+Alors qu'on est sur un produit beaucoup plus cher, surtout pour le secteur.
+
+547
+00:28:53,880 --> 00:28:57,220
+Parce que c'est comme ça que les agents immobiliers ont toujours fait et qu'ils continuent à faire.
+
+548
+00:28:57,839 --> 00:28:59,380
+Ce n'est pas parce qu'ils sont imbéciles.
+
+549
+00:28:59,660 --> 00:29:02,880
+Mais une visite virtuelle, ce que nous, nous appelons une maquette interactive,
+
+550
+00:29:03,420 --> 00:29:05,980
+déjà, ce n'est pas trop dans leur culture, dans leur manière de faire,
+
+551
+00:29:06,039 --> 00:29:07,400
+mais surtout, ça coûte cher.
+
+552
+00:29:08,200 --> 00:29:09,579
+Ça coûte cher à faire.
+
+553
+00:29:09,579 --> 00:29:11,980
+chez Alucard de l'immobilier
+
+554
+00:29:11,980 --> 00:29:14,019
+c'est gratuit, mais si vous êtes dans cette agence
+
+555
+00:29:14,019 --> 00:29:15,259
+immobilière qui s'appelle
+
+556
+00:29:15,259 --> 00:29:17,139
+je ne sais pas quoi
+
+557
+00:29:17,139 --> 00:29:20,240
+je n'ai pas son nom, il doit être caché quelque part
+
+558
+00:29:20,240 --> 00:29:21,299
+l'agence
+
+559
+00:29:21,299 --> 00:29:23,740
+machin
+
+560
+00:29:23,740 --> 00:29:25,599
+l'EGET immobilier
+
+561
+00:29:25,599 --> 00:29:27,579
+si je suis l'EGET immobilier
+
+562
+00:29:27,579 --> 00:29:29,899
+je n'ai pas une cellule technique dédiée
+
+563
+00:29:29,899 --> 00:29:31,899
+à l'Alucard de l'immobilier qui va s'en occuper
+
+564
+00:29:31,899 --> 00:29:34,179
+il faut que j'aille voir une société spécialisée
+
+565
+00:29:34,179 --> 00:29:36,179
+et que je le paye de ma poche
+
+566
+00:29:36,779 --> 00:29:38,619
+sur
+
+567
+00:29:38,619 --> 00:29:41,719
+une maison que je ne suis pas sûr de vendre.
+
+568
+00:29:42,459 --> 00:29:44,359
+Si ça se trouve, la maison, je ne vais pas la vendre.
+
+569
+00:29:44,500 --> 00:29:45,799
+C'est un concurrent qui va la vendre.
+
+570
+00:29:45,879 --> 00:29:48,139
+Donc, bien entendu, je ne vais pas aller m'embêter à faire ça.
+
+571
+00:29:50,919 --> 00:29:53,219
+Donc, la prestation d'une agence immobilière, c'est ça.
+
+572
+00:29:53,819 --> 00:29:55,739
+C'est quelques photos avec une diffusion
+
+573
+00:29:55,739 --> 00:29:57,959
+plus ou moins bien ficelée.
+
+574
+00:29:58,339 --> 00:30:02,059
+Parce que la diffusion, ça aussi, ça coûte très, très, très, très cher.
+
+575
+00:30:02,959 --> 00:30:05,759
+Donc, je suis agent immobilier, ma prestation, c'est ça.
+
+576
+00:30:05,759 --> 00:30:10,819
+C'est pour ça que quand le vendeur vous dit
+
+577
+00:30:10,819 --> 00:30:15,960
+« Pourquoi vos concurrents légers immobiliers sont moins chers que vous ? »
+
+578
+00:30:15,960 --> 00:30:18,039
+Il faut dire « Pourquoi mes concurrents légers immobiliers
+
+579
+00:30:18,039 --> 00:30:19,920
+ne font pas les mêmes prestations que moi ?
+
+580
+00:30:19,920 --> 00:30:21,299
+Ils ne font pas la maquette interactive,
+
+581
+00:30:21,500 --> 00:30:22,960
+ils ne font pas le home staging virtuel,
+
+582
+00:30:23,359 --> 00:30:25,339
+ils ne font pas les vues de drone,
+
+583
+00:30:25,460 --> 00:30:26,119
+ils ne font pas tout ça,
+
+584
+00:30:26,200 --> 00:30:27,460
+ils ne font pas toutes ces prestations
+
+585
+00:30:27,460 --> 00:30:30,299
+qui font qu'avec moi, la maison va mieux se vendre,
+
+586
+00:30:30,500 --> 00:30:34,660
+plus vite et dans de meilleures conditions et à un meilleur prix. »
+
+587
+00:30:34,660 --> 00:30:57,800
+Normalement, quand vous dites ça au vendeur, lui, il doit commencer à comprendre que c'est plutôt pertinent de s'y prendre comme à la lucarne de l'immobilier le fait et c'est plutôt les autres agents immobiliers qui devraient prendre exemple sur à la lucarne de l'immobilier plutôt que de dire à la lucarne de l'immobilier de prendre exemple sur les tarifs de ses concurrents, bien sûr.
+
+588
+00:30:57,799 --> 00:31:15,259
+Donc, normalement, vous arrivez à convaincre le vendeur. Mais parfois, vous tombez sur un vendeur qui est vraiment impossible à convaincre. Il est indécrottable. Il ne veut pas l'entendre. Mais ce mandat, vous ne voulez pas le rater.
+
+589
+00:31:16,220 --> 00:31:18,119
+Dans ce cas-là, vous avez la possibilité de dire
+
+590
+00:31:18,119 --> 00:31:20,200
+« Ok, alors vous pouvez dire, comme je vous disais,
+
+591
+00:31:20,740 --> 00:31:22,059
+je ne prends pas, je m'en vais, tant pis,
+
+592
+00:31:22,140 --> 00:31:24,359
+je prends un autre mandat sur lequel je me rémunérerai mieux
+
+593
+00:31:24,359 --> 00:31:27,160
+et qui sera plus intéressant à travailler. »
+
+594
+00:31:27,160 --> 00:31:29,200
+Ou vous pouvez dire « Ce mandat, je ne veux pas le rater,
+
+595
+00:31:29,539 --> 00:31:33,359
+donc je vais faire la même prestation que mes concurrents,
+
+596
+00:31:33,359 --> 00:31:35,660
+une diffusion moins intéressante,
+
+597
+00:31:35,900 --> 00:31:37,519
+mais je vais quand même diffuser un peu le produit.
+
+598
+00:31:38,539 --> 00:31:40,279
+Et puis, je vais faire des photos normales,
+
+599
+00:31:40,319 --> 00:31:41,059
+comme mon concurrent.
+
+600
+00:31:41,559 --> 00:31:43,119
+Je vais faire exactement la même chose
+
+601
+00:31:43,119 --> 00:31:45,019
+que ce qu'on vient de voir chez
+
+602
+00:31:45,019 --> 00:31:46,199
+ce loger.
+
+603
+00:31:47,019 --> 00:31:49,119
+Exactement pareil qu'ici, je vais faire
+
+604
+00:31:49,119 --> 00:31:50,500
+une annonce, comme ça,
+
+605
+00:31:51,059 --> 00:31:52,819
+avec quelques photos.
+
+606
+00:31:54,259 --> 00:31:55,139
+Plus ou moins bien
+
+607
+00:31:55,139 --> 00:31:56,819
+prises. Bien sûr, on ne va pas
+
+608
+00:31:56,819 --> 00:31:58,699
+saboter les photos, on va essayer de prendre des jolies photos.
+
+609
+00:31:59,659 --> 00:32:00,839
+Et puis, on va diffuser ça.
+
+610
+00:32:01,179 --> 00:32:03,279
+Pas très très bien, mais on va le diffuser
+
+611
+00:32:03,279 --> 00:32:03,659
+quand même.
+
+612
+00:32:05,879 --> 00:32:07,379
+Et c'est là que vous appliquez
+
+613
+00:32:07,379 --> 00:32:08,919
+votre grille essentielle,
+
+614
+00:32:08,919 --> 00:32:11,159
+c'est-à-dire la grille qui correspond plus
+
+615
+00:32:11,160 --> 00:32:13,779
+à ce que font vos concurrents
+
+616
+00:32:13,779 --> 00:32:15,279
+qui vous permettent de dire aux vendeurs
+
+617
+00:32:15,279 --> 00:32:16,720
+« Bon, d'accord. »
+
+618
+00:32:16,720 --> 00:32:19,720
+On va suivre la tarification des concurrents.
+
+619
+00:32:19,779 --> 00:32:20,240
+Par contre,
+
+620
+00:32:21,040 --> 00:32:23,360
+on va appliquer la même prestation que les concurrents.
+
+621
+00:32:23,680 --> 00:32:24,740
+Donc, une diffusion
+
+622
+00:32:24,740 --> 00:32:27,360
+qui n'est pas dingo, on diffuse quand même.
+
+623
+00:32:27,580 --> 00:32:28,360
+Mais ce n'est pas de la folie.
+
+624
+00:32:29,340 --> 00:32:31,279
+Et puis, une prestation qui n'est pas dingo.
+
+625
+00:32:31,480 --> 00:32:33,080
+On va mettre quelques photos quand même.
+
+626
+00:32:33,080 --> 00:32:34,340
+Mais ce ne sera pas la folie.
+
+627
+00:32:34,920 --> 00:32:36,860
+Ce sera la même chose que mes concurrents.
+
+628
+00:32:36,940 --> 00:32:38,380
+Vous me dites de prendre
+
+629
+00:32:38,380 --> 00:32:41,080
+les mêmes honoraires que mes concurrents.
+
+630
+00:32:41,160 --> 00:32:44,880
+« Je vais donc faire la même prestation que mes concurrents. »
+
+631
+00:32:44,880 --> 00:32:48,519
+La super belle prestation avec des outils hyper différenciateurs
+
+632
+00:32:48,519 --> 00:32:51,080
+qui vous permettent de mieux vendre plus vite et à un meilleur prix,
+
+633
+00:32:52,360 --> 00:32:53,720
+eh bien tant pis, ce ne sera pas pour vous.
+
+634
+00:32:54,540 --> 00:32:56,400
+Ce sera pour un autre, ce n'est pas grave.
+
+635
+00:32:57,340 --> 00:32:58,700
+Donc vous le comprenez ?
+
+636
+00:32:58,700 --> 00:32:59,160
+Deux grilles.
+
+637
+00:32:59,460 --> 00:33:03,779
+Premium, c'est la grille avec les super services et une meilleure rémunération pour vous.
+
+638
+00:33:05,040 --> 00:33:08,320
+Lorsque le vendeur ne veut vraiment pas, mais que vous voulez quand même prendre le mandat,
+
+639
+00:33:08,319 --> 00:33:11,619
+il y a la grille essentielle qui vous permet de prendre le mandat
+
+640
+00:33:11,619 --> 00:33:15,559
+avec la même prestation que vos concurrents, prestation de base,
+
+641
+00:33:16,279 --> 00:33:19,779
+avec la même rémunération que vos concurrents, rémunération de base.
+
+642
+00:33:20,519 --> 00:33:21,639
+C'est tout simplement ça.
+
+643
+00:33:23,159 --> 00:33:26,919
+Alors, comment je fais moi dans mon secteur pour savoir
+
+644
+00:33:26,919 --> 00:33:31,679
+si ici je dois mettre 9%, 8%, 3% ou 2% ?
+
+645
+00:33:31,679 --> 00:33:34,599
+Eh bien pour ça, il va falloir aller regarder avec beaucoup de précision
+
+646
+00:33:34,599 --> 00:33:36,039
+ce que font vos concurrents.
+
+647
+00:33:36,039 --> 00:33:45,180
+Et c'est là qu'on va rentrer dans le vif du sujet parce que maintenant, accrochez-vous, ça va devenir beaucoup plus dense, ce qu'on va voir.
+
+648
+00:33:45,779 --> 00:33:59,740
+Parce que je vais vous montrer quelle est la méthode pour aller chez vos concurrents, regarder quelle grille de tarifs il faut appliquer ici.
+
+649
+00:33:59,740 --> 00:34:03,680
+pour cela
+
+650
+00:34:03,680 --> 00:34:05,920
+je vais utiliser
+
+651
+00:34:05,920 --> 00:34:07,660
+un fichier
+
+652
+00:34:07,660 --> 00:34:10,460
+que je vais vous montrer
+
+653
+00:34:10,460 --> 00:34:16,119
+un fichier Excel
+
+654
+00:34:16,119 --> 00:34:18,380
+que nous avons créé
+
+655
+00:34:18,380 --> 00:34:20,659
+alors moi j'utilise Excel
+
+656
+00:34:20,659 --> 00:34:22,440
+mais vous pouvez utiliser n'importe quel
+
+657
+00:34:22,440 --> 00:34:23,420
+autre tableur
+
+658
+00:34:23,420 --> 00:34:26,400
+vous le savez il existe
+
+659
+00:34:26,400 --> 00:34:28,380
+toutes sortes de tableurs gratuits
+
+660
+00:34:28,380 --> 00:34:34,280
+Si vous n'avez pas le logiciel Excel sur votre ordinateur, n'hésitez pas à demander à l'animation.
+
+661
+00:34:34,500 --> 00:34:38,860
+On vous conseillera toutes sortes de logiciels gratuits qui fonctionnent très bien.
+
+662
+00:34:38,980 --> 00:34:45,820
+Il y a des logiciels payants comme Microsoft Excel, mais il y a des logiciels gratuits qui fonctionnent très très bien.
+
+663
+00:34:47,280 --> 00:34:50,140
+Si vous n'en avez pas, vous nous demandez et on vous les conseillera.
+
+664
+00:34:50,500 --> 00:34:55,099
+On vous dira, allez à tel endroit, allez à tel endroit, allez à tel endroit, téléchargez celui-ci, celui-ci, celui-là.
+
+665
+00:34:55,900 --> 00:34:58,059
+Donc, voici un fichier Excel.
+
+666
+00:34:58,380 --> 00:35:01,740
+que nous avons créé à la Lucarne.
+
+667
+00:35:02,320 --> 00:35:06,960
+Ce fichier Excel, c'est le fichier sur lequel nous allons travailler
+
+668
+00:35:06,960 --> 00:35:11,440
+pour définir vos grilles d'honoraires.
+
+669
+00:35:12,220 --> 00:35:15,579
+Vous voyez qu'il y a quatre onglets qui sont là.
+
+670
+00:35:16,460 --> 00:35:17,019
+Quatre onglets.
+
+671
+00:35:17,740 --> 00:35:22,059
+On ne verra pas l'intégralité de ce fichier aujourd'hui.
+
+672
+00:35:22,820 --> 00:35:25,539
+Parce qu'aujourd'hui, je ne vais pas vous garder jusqu'à minuit quand même.
+
+673
+00:35:26,279 --> 00:35:29,300
+Mais on va en voir une première partie.
+
+674
+00:35:29,960 --> 00:35:33,980
+Alors, le travail que vous allez faire avec ce fichier, que je vous recommande de faire,
+
+675
+00:35:35,099 --> 00:35:39,639
+c'est un travail qui va vous paraître très long et très pénible au début.
+
+676
+00:35:39,880 --> 00:35:41,860
+Et c'est vrai, il sera long et pénible.
+
+677
+00:35:42,340 --> 00:35:45,579
+Mais on le fait une seule fois pour toute sa vie.
+
+678
+00:35:46,840 --> 00:35:51,659
+Vous le faites une fois quand vous arrivez dans l'immobilier et dans votre secteur.
+
+679
+00:35:51,659 --> 00:35:56,119
+Vous n'avez pas besoin de le refaire après
+
+680
+00:35:56,119 --> 00:35:57,839
+Une fois que c'est fait, c'est fait
+
+681
+00:35:57,839 --> 00:36:02,519
+Donc effectivement au début c'est casse-pied, c'est long, c'est pénible
+
+682
+00:36:02,519 --> 00:36:04,359
+Mais une fois que c'est fait, c'est fait
+
+683
+00:36:04,359 --> 00:36:08,159
+Et ce fichier il vous sera utile toute votre vie
+
+684
+00:36:08,159 --> 00:36:11,239
+On se casse les pieds à le faire une bonne fois au début
+
+685
+00:36:11,239 --> 00:36:14,519
+Mais c'est pas pour l'utiliser une fois au début
+
+686
+00:36:14,519 --> 00:36:17,359
+Vous allez l'utiliser toute votre vie
+
+687
+00:36:17,359 --> 00:36:19,440
+A chaque fois que vous irez rentrer des mandats
+
+688
+00:36:19,440 --> 00:36:21,340
+ce fichier, il vous sera
+
+689
+00:36:21,340 --> 00:36:22,260
+utile.
+
+690
+00:36:23,960 --> 00:36:25,460
+Donc, comment
+
+691
+00:36:25,460 --> 00:36:27,300
+fonctionne-t-il ?
+
+692
+00:36:27,300 --> 00:36:29,840
+Quatre onglets. Premièrement, la liste des concurrents
+
+693
+00:36:29,840 --> 00:36:30,840
+qu'on va établir ensemble.
+
+694
+00:36:31,559 --> 00:36:33,400
+Deuxièmement, les moyennes
+
+695
+00:36:33,400 --> 00:36:34,679
+des grilles concurrentes.
+
+696
+00:36:36,079 --> 00:36:37,400
+Troisièmement, les services
+
+697
+00:36:37,400 --> 00:36:39,539
+apportés par vos concurrents. Quatrièmement,
+
+698
+00:36:39,920 --> 00:36:41,639
+et ça, ce sera une toute autre
+
+699
+00:36:41,639 --> 00:36:42,619
+vision conférence,
+
+700
+00:36:43,260 --> 00:36:45,740
+la liste des biens spectaculaires.
+
+701
+00:36:46,920 --> 00:36:47,320
+Cette
+
+702
+00:36:47,320 --> 00:36:49,420
+gris, enfin ce fichier
+
+703
+00:36:49,420 --> 00:36:51,640
+je vais vous l'envoyer
+
+704
+00:36:51,640 --> 00:36:53,200
+je vais juste changer la date ici
+
+705
+00:36:53,200 --> 00:36:55,240
+pour que vous
+
+706
+00:36:55,240 --> 00:36:57,220
+retombiez sur vos pieds par rapport à la date
+
+707
+00:36:57,220 --> 00:36:59,019
+12 mars
+
+708
+00:36:59,019 --> 00:37:01,559
+2026
+
+709
+00:37:01,559 --> 00:37:03,340
+voilà comme ça je vais vous l'envoyer
+
+710
+00:37:03,340 --> 00:37:05,820
+parce que je vais vous envoyer le lien de téléchargement
+
+711
+00:37:05,820 --> 00:37:07,019
+de ce fichier là
+
+712
+00:37:07,019 --> 00:37:09,640
+dans le chat
+
+713
+00:37:09,640 --> 00:37:11,680
+de la visioconférence
+
+714
+00:37:11,680 --> 00:37:13,680
+mais également vous pouvez le demander
+
+715
+00:37:13,680 --> 00:37:14,940
+à l'animation
+
+716
+00:37:14,940 --> 00:37:17,100
+qui vous l'enverra, n'hésitez
+
+717
+00:37:17,099 --> 00:37:19,420
+absolument pas. Donc hop, je mets ici
+
+718
+00:37:19,420 --> 00:37:21,519
+le lien, vous devriez tous le recevoir.
+
+719
+00:37:22,079 --> 00:37:23,639
+N'hésitez pas à le demander à l'animation
+
+720
+00:37:23,639 --> 00:37:25,360
+si vous n'arrivez pas
+
+721
+00:37:25,360 --> 00:37:27,559
+à le récupérer. Et l'animation
+
+722
+00:37:27,559 --> 00:37:29,400
+également se tient à vos dispositions pour vous conseiller
+
+723
+00:37:29,400 --> 00:37:31,519
+des logiciels très performants
+
+724
+00:37:31,519 --> 00:37:33,699
+et gratuits pour exploiter
+
+725
+00:37:33,699 --> 00:37:35,440
+ce fichier, si vous ne l'avez pas déjà
+
+726
+00:37:35,440 --> 00:37:37,159
+sur votre ordinateur.
+
+727
+00:37:38,199 --> 00:37:39,539
+Donc, je retourne
+
+728
+00:37:39,539 --> 00:37:41,659
+sur ce fichier, que je rouvre
+
+729
+00:37:41,659 --> 00:37:43,219
+maintenant que j'ai modifié la date.
+
+730
+00:37:43,219 --> 00:37:49,859
+Premièrement, le premier onglet, la liste des concurrents
+
+731
+00:37:49,859 --> 00:37:55,959
+C'est là que nous allons faire la liste de vos concurrents réels
+
+732
+00:37:55,959 --> 00:37:58,459
+De vos concurrents sérieux
+
+733
+00:37:58,459 --> 00:38:00,079
+Pourquoi je vous dis ça ?
+
+734
+00:38:00,079 --> 00:38:02,779
+Parce que quel que soit le secteur dans lequel vous travaillez en France
+
+735
+00:38:02,779 --> 00:38:06,279
+Que vous soyez à Paris, que vous soyez à Montluçon, que vous soyez à La Réunion
+
+736
+00:38:06,279 --> 00:38:09,319
+Que vous soyez à Saint-Paul-sur-Terre-Noise, que vous soyez n'importe où
+
+737
+00:38:09,320 --> 00:38:13,220
+Vous me direz, mais il y a énormément d'agences immobilières autour de chez moi
+
+738
+00:38:13,220 --> 00:38:14,220
+Il y en a plein
+
+739
+00:38:14,220 --> 00:38:16,680
+Et là encore, bien souvent, on entend les gens dire
+
+740
+00:38:16,680 --> 00:38:18,960
+Oh, chez moi, il y a beaucoup d'agences immobilières
+
+741
+00:38:18,960 --> 00:38:24,980
+Comme je vous l'ai dit, le marché immobilier français est extrêmement homogène partout en France
+
+742
+00:38:24,980 --> 00:38:29,080
+Il n'y a pas un seul secteur dans lequel il n'y a pas beaucoup d'agences immobilières
+
+743
+00:38:29,080 --> 00:38:35,220
+Tous les secteurs de France, toutes les villes, tous les villages ont beaucoup de professionnels de l'immobilier
+
+744
+00:38:35,220 --> 00:38:36,680
+Énormément même
+
+745
+00:38:36,679 --> 00:38:43,419
+Surtout depuis l'avènement d'IAD qui a des dizaines de milliers de négociateurs
+
+746
+00:38:43,419 --> 00:38:48,059
+IAD c'est les légions romaines, ils sont très très très très très nombreux
+
+747
+00:38:48,059 --> 00:38:52,859
+Alors vous me direz, ils changent tout le temps, il y en a toujours qui arrivent et qui repartent
+
+748
+00:38:52,859 --> 00:38:56,339
+Ça c'est vrai, il y a un très fort roulement, un très fort turnover
+
+749
+00:38:56,339 --> 00:39:00,399
+Mais ils sont très très très très très très nombreux, ils sont très très forts pour recruter des gens
+
+750
+00:39:00,399 --> 00:39:03,419
+Ils ne restent pas, mais ils sont très forts pour recruter
+
+751
+00:39:04,400 --> 00:39:07,280
+Donc, il y a énormément de concurrents dans votre secteur.
+
+752
+00:39:08,000 --> 00:39:13,460
+Par contre, des concurrents qui comptent, il y en a beaucoup moins.
+
+753
+00:39:14,300 --> 00:39:22,440
+Dans votre secteur, à chacun d'entre vous, il y a des agents immobiliers partout et il y a des agents commerciaux partout.
+
+754
+00:39:23,380 --> 00:39:27,900
+Mais ils n'ont pas du tout tous le même niveau d'activité.
+
+755
+00:39:28,960 --> 00:39:32,820
+Il y a des agents immobiliers extrêmement actifs qu'on voit partout, tout le temps.
+
+756
+00:39:33,420 --> 00:39:35,039
+Ce n'est pas compliqué, vous vous baladez dans la rue,
+
+757
+00:39:35,099 --> 00:39:37,460
+vous voyez leurs panneaux à vendre, vendu, à vendre, vendu.
+
+758
+00:39:39,260 --> 00:39:42,320
+Il y a des agents immobiliers qui travaillent bien.
+
+759
+00:39:42,700 --> 00:39:45,680
+On les voit régulièrement, mais pas tout le temps, pas partout.
+
+760
+00:39:46,639 --> 00:39:48,460
+Et puis, il y en a qui ne travaillent pas beaucoup du tout.
+
+761
+00:39:48,579 --> 00:39:51,639
+Donc, ils existent, ils sont là, mais ils ont une maison par-ci,
+
+762
+00:39:51,780 --> 00:39:52,639
+une maison par-là.
+
+763
+00:39:53,579 --> 00:39:54,539
+En fait, ils ne comptent pas beaucoup.
+
+764
+00:39:55,720 --> 00:39:57,800
+Qu'est-ce que je veux dire par des gens qui comptent ?
+
+765
+00:39:57,800 --> 00:40:00,340
+Ce sont des gens qui sont très actifs, qui ont beaucoup de mandats,
+
+766
+00:40:00,639 --> 00:40:01,300
+qui travaillent beaucoup.
+
+767
+00:40:01,300 --> 00:40:06,920
+et donc en concurrence avec lesquelles vous vous trouverez souvent.
+
+768
+00:40:08,200 --> 00:40:11,220
+Et vous verrez que sur les 30 possibles qui sont là,
+
+769
+00:40:11,380 --> 00:40:14,560
+alors on peut aller plus loin, on peut faire 50, on peut faire 100, on peut faire 200,
+
+770
+00:40:15,560 --> 00:40:20,160
+en vrai, il n'y en a que 10, une dizaine,
+
+771
+00:40:21,300 --> 00:40:23,940
+que vous voyez vraiment régulièrement
+
+772
+00:40:23,940 --> 00:40:28,320
+et il y en aura 3 que vous verrez tout le temps partout.
+
+773
+00:40:28,320 --> 00:40:30,620
+alors, à la louche
+
+774
+00:40:30,620 --> 00:40:32,519
+bien sûr, peut-être que vous direz
+
+775
+00:40:32,519 --> 00:40:34,080
+chez moi il n'y en a pas 10 mais il y en a 12
+
+776
+00:40:34,080 --> 00:40:36,920
+ou un autre dira chez moi il y en a 8
+
+777
+00:40:36,920 --> 00:40:38,360
+que je vois vraiment régulièrement
+
+778
+00:40:38,360 --> 00:40:40,720
+là après ça dépend de chacun d'entre vous
+
+779
+00:40:40,720 --> 00:40:42,720
+mais environ, sur vos
+
+780
+00:40:42,720 --> 00:40:44,720
+30, 40, 50 concurrents
+
+781
+00:40:45,440 --> 00:40:46,740
+d'ailleurs on ne va pas aller jusqu'à 30
+
+782
+00:40:46,740 --> 00:40:48,539
+j'ai mis jusqu'à 30 ici, j'aurais pu aller
+
+783
+00:40:48,539 --> 00:40:49,820
+jusqu'à 50 ou jusqu'à 100
+
+784
+00:40:49,820 --> 00:40:52,360
+mais vous verrez qu'on ne va pas aller jusqu'à 30
+
+785
+00:40:52,360 --> 00:40:54,260
+il y en aura, vous verrez
+
+786
+00:40:54,260 --> 00:40:56,559
+une dizaine on va dire, environ
+
+787
+00:40:56,559 --> 00:40:58,220
+que vous rencontrez
+
+788
+00:40:58,219 --> 00:41:00,619
+régulièrement, à différentes
+
+789
+00:41:00,619 --> 00:41:02,559
+fréquences, et il y en aura
+
+790
+00:41:02,559 --> 00:41:04,659
+trois, quatre, que vous rencontrerez
+
+791
+00:41:04,659 --> 00:41:06,799
+vraiment très souvent, tout le temps.
+
+792
+00:41:07,339 --> 00:41:08,500
+Quand vous allez chez un vendeur
+
+793
+00:41:08,500 --> 00:41:10,599
+pour rentrer le mandat, le vendeur vous dira
+
+794
+00:41:10,599 --> 00:41:12,739
+« J'ai rencontré lui déjà.
+
+795
+00:41:13,119 --> 00:41:15,239
+J'ai donné un mandat à lui déjà. »
+
+796
+00:41:15,239 --> 00:41:16,079
+Et ce sera toujours les mêmes.
+
+797
+00:41:16,419 --> 00:41:18,980
+Ou « Je vais le rencontrer bientôt. »
+
+798
+00:41:18,980 --> 00:41:20,379
+Ce sera toujours, toujours, toujours les mêmes.
+
+799
+00:41:20,459 --> 00:41:21,959
+Ce sont les plus actifs de votre secteur.
+
+800
+00:41:22,980 --> 00:41:24,759
+Comment je fais pour connaître les plus actifs
+
+801
+00:41:24,759 --> 00:41:26,659
+de mon secteur ? Ce n'est pas compliqué.
+
+802
+00:41:26,659 --> 00:41:32,599
+il suffit d'aller sur les sites d'annonce alors là encore excusez moi j'avais j'ai fermé se loger
+
+803
+00:41:32,599 --> 00:41:37,279
+ah oui j'ai fermé se loger là encore moi je vais sur se loger parce que je préfère le site se loger
+
+804
+00:41:37,279 --> 00:41:44,759
+moi il me plaît plus mais on peut faire exactement le même travail sur leboncoin si vous préférez le
+
+805
+00:41:44,759 --> 00:41:50,420
+bon coin ou sur le figaro sur n'importe quel site les deux sites principaux c'est se loger et le
+
+806
+00:41:50,420 --> 00:41:59,840
+bon coin soyons clairs aujourd'hui à notre époque le bon coin est très très supérieur à se loger
+
+807
+00:41:59,840 --> 00:42:05,980
+en termes de présence partout en france se loger si vous n'êtes pas en région parisienne ou dans
+
+808
+00:42:05,980 --> 00:42:11,619
+une grande ville boy compte pas beaucoup ils comptent pas des masses de moins en moins avant
+
+809
+00:42:11,619 --> 00:42:16,980
+se loger c'était le patron incontestable partout en france mais le bon coin est arrivé il ya je
+
+810
+00:42:16,980 --> 00:42:20,400
+sais pas une quinzaine d'années puis ils ont grignoté départ de marché ils sont remontés
+
+811
+00:42:20,400 --> 00:42:28,760
+remonté remonté remonté remonté et puis maintenant ils écrasent se loger à plate couture se loger
+
+812
+00:42:28,760 --> 00:42:33,480
+vaut plus rien par rapport à le bon point alors vous me direz parce que là pourquoi vous faites
+
+813
+00:42:33,480 --> 00:42:36,860
+la démonstration sur ce logis pas sur le bon point tout simplement parce que le site est
+
+814
+00:42:36,860 --> 00:42:42,500
+mieux fait voilà techniquement il est plus agréable à utiliser il est plus agréable mais
+
+815
+00:42:42,500 --> 00:42:45,519
+Mais on pourrait faire le même travail sur le bon coin.
+
+816
+00:42:46,340 --> 00:42:47,960
+Je trouve que le site est un peu moins agréable.
+
+817
+00:42:48,300 --> 00:42:50,219
+C'est uniquement une question de préférence personnelle.
+
+818
+00:42:50,340 --> 00:42:51,980
+Si vous, vous voulez faire ce travail sur le bon coin,
+
+819
+00:42:52,639 --> 00:42:56,000
+vous allez voir, vous pouvez faire exactement la même chose sur le bon coin.
+
+820
+00:42:56,579 --> 00:42:58,059
+Donc, on va choisir un secteur.
+
+821
+00:42:58,159 --> 00:43:00,659
+Et imaginons que j'aille dans le secteur de Châteauroux.
+
+822
+00:43:03,239 --> 00:43:06,219
+Châteauroux, dans le département 36, c'est l'Indre.
+
+823
+00:43:06,980 --> 00:43:09,480
+Alors, on va à Châteauroux, on peut aller nulle part, n'importe où ailleurs.
+
+824
+00:43:09,840 --> 00:43:10,880
+Ce n'est pas le problème, ça.
+
+825
+00:43:10,880 --> 00:43:13,000
+Ce n'est absolument pas le problème.
+
+826
+00:43:13,680 --> 00:43:20,960
+On va à Châteauroux et puis on va faire tout simplement une recherche de maison.
+
+827
+00:43:21,240 --> 00:43:23,099
+On prend n'importe quelle maison.
+
+828
+00:43:23,240 --> 00:43:27,800
+Regardez, je n'ai pas dit une maison de tel prix, de telle surface, etc.
+
+829
+00:43:28,000 --> 00:43:32,460
+Je peux faire ça en cliquant sur les filtres qui sont ici.
+
+830
+00:43:33,200 --> 00:43:38,720
+Les filtres qui me permettent de dire de l'ancien du neuf, de tel budget à tel budget,
+
+831
+00:43:38,719 --> 00:43:41,819
+de tel nombre de pièces à tel nombre de pièces,
+
+832
+00:43:42,000 --> 00:43:42,699
+je ne le fais pas.
+
+833
+00:43:43,239 --> 00:43:44,399
+Vous savez pourquoi je ne le fais pas ?
+
+834
+00:43:44,399 --> 00:43:45,399
+Parce qu'à partir du moment où je fais ça,
+
+835
+00:43:45,500 --> 00:43:47,359
+ça m'enlève tous les biens qui ne correspondent pas.
+
+836
+00:43:47,919 --> 00:43:50,879
+N'oubliez pas que 97% des gens
+
+837
+00:43:50,879 --> 00:43:52,379
+font leurs recherches comme ça,
+
+838
+00:43:52,839 --> 00:43:54,279
+c'est-à-dire qu'ils arrivent sur ce loger,
+
+839
+00:43:55,739 --> 00:43:57,359
+vous voyez, ils arrivent sur ce loger
+
+840
+00:43:57,359 --> 00:44:01,719
+et ils mettent juste la ville, Châteauroux.
+
+841
+00:44:03,559 --> 00:44:04,439
+Parce que vous voyez,
+
+842
+00:44:04,659 --> 00:44:07,299
+ce loger ne propose d'emblée rien d'autre.
+
+843
+00:44:07,300 --> 00:44:09,460
+se loger ne me propose pas
+
+844
+00:44:09,460 --> 00:44:12,120
+quelle surface, il le faisait avant
+
+845
+00:44:12,120 --> 00:44:13,840
+il y a longtemps, quelle surface
+
+846
+00:44:13,840 --> 00:44:15,080
+quel prix
+
+847
+00:44:15,080 --> 00:44:18,360
+à quel endroit précisément, quel quartier
+
+848
+00:44:18,360 --> 00:44:19,480
+quel ceci, quel cela, non
+
+849
+00:44:19,480 --> 00:44:22,280
+aujourd'hui se loger et puis le bon coin
+
+850
+00:44:22,280 --> 00:44:24,000
+et tous les autres me demandent uniquement
+
+851
+00:44:24,000 --> 00:44:26,480
+où, à quel endroit
+
+852
+00:44:26,480 --> 00:44:28,740
+parce qu'en fait ça les arrange pas
+
+853
+00:44:28,740 --> 00:44:30,420
+que je sois trop précis
+
+854
+00:44:30,420 --> 00:44:31,560
+parce que plus je suis précis
+
+855
+00:44:31,560 --> 00:44:34,180
+moins ils me présentent de produits
+
+856
+00:44:34,180 --> 00:44:36,019
+et moins ils me présentent de produits
+
+857
+00:44:36,019 --> 00:44:36,960
+vous allez voir c'est tout bête hein
+
+858
+00:44:37,300 --> 00:44:45,720
+Moins ils me présentent de produits à moi l'acquéreur, moins ils peuvent vendre les annonces immobilières chères aux agents immobiliers.
+
+859
+00:44:47,340 --> 00:44:55,900
+Ce loger met un truc de filtre tout petit caché ici sur lequel seulement 3% des acquéreurs cliquent.
+
+860
+00:44:56,000 --> 00:44:59,519
+Pourquoi il n'y a que 3% des acquéreurs qui cliquent ? Parce qu'il est tout petit caché ici.
+
+861
+00:45:01,200 --> 00:45:05,620
+Si il y avait 50%, ils le mettraient en plus petit, en plus caché, le truc filtre.
+
+862
+00:45:05,619 --> 00:45:07,579
+Ils sont obligés de le mettre, ils ne peuvent pas se permettre.
+
+863
+00:45:08,339 --> 00:45:10,119
+Mais, il le cache, il est tout petit,
+
+864
+00:45:10,219 --> 00:45:11,940
+vous voyez, il est blanc sur blanc, le bouton.
+
+865
+00:45:12,679 --> 00:45:14,139
+Regardez, ce n'est pas un gros bouton rouge
+
+866
+00:45:14,139 --> 00:45:15,679
+pour garder la recherche.
+
+867
+00:45:15,900 --> 00:45:17,940
+Ah non, alors ça, c'est un énorme bouton rouge,
+
+868
+00:45:18,000 --> 00:45:19,960
+je ne le rate pas. Le bouton filtre, il est tout
+
+869
+00:45:19,960 --> 00:45:21,719
+petit, celui-là est tout blanc.
+
+870
+00:45:22,079 --> 00:45:23,960
+Il n'est pas très visible, celui dans lequel je mets le nombre
+
+871
+00:45:23,960 --> 00:45:25,819
+de chambres, le nombre de... Est-ce que je veux un parking,
+
+872
+00:45:25,940 --> 00:45:27,000
+etc. Parce qu'en fait, se loger,
+
+873
+00:45:28,299 --> 00:45:29,420
+ça ne les arrange pas.
+
+874
+00:45:30,099 --> 00:45:32,019
+Plus les acquéreurs mettent des recherches
+
+875
+00:45:32,019 --> 00:45:33,420
+précises avec des filtres,
+
+876
+00:45:33,420 --> 00:45:35,099
+moins il y a de résultats
+
+877
+00:45:35,099 --> 00:45:36,639
+et moins il y a de résultats
+
+878
+00:45:36,639 --> 00:45:39,019
+moins les annonces peuvent être vendues
+
+879
+00:45:39,019 --> 00:45:40,659
+chères aux agents immobiliers
+
+880
+00:45:40,659 --> 00:45:42,860
+pour des raisons de fonctionnement du site internet
+
+881
+00:45:42,860 --> 00:45:44,840
+tout simplement. Donc leur intérêt à eux pour vendre
+
+882
+00:45:44,840 --> 00:45:46,940
+les annonces chères aux agents immobiliers
+
+883
+00:45:46,940 --> 00:45:48,139
+et ça coûte très cher ce loger
+
+884
+00:45:48,139 --> 00:45:50,700
+et bien c'est de cacher
+
+885
+00:45:50,700 --> 00:45:52,619
+les boutons fil. Ça veut dire que l'acquéreur
+
+886
+00:45:52,619 --> 00:45:54,360
+lui il vient, il tape chat au roue
+
+887
+00:45:54,360 --> 00:45:56,900
+et puis après il va tout faire défiler
+
+888
+00:45:56,900 --> 00:45:58,500
+il va se balader partout
+
+889
+00:45:58,500 --> 00:46:00,440
+et c'est là que nous
+
+890
+00:46:00,440 --> 00:46:02,480
+on va faire exactement le même travail
+
+891
+00:46:02,480 --> 00:46:06,219
+et on va relever toutes les agences immobilières qu'on voit ici
+
+892
+00:46:06,219 --> 00:46:19,539
+et on va les mettre dans le fichier Excel concurrent 1, concurrent 2, concurrent 3
+
+893
+00:46:19,539 --> 00:46:24,619
+avec le nombre de mandats, c'est-à-dire de produits qu'on trouve ici.
+
+894
+00:46:25,139 --> 00:46:27,860
+Le nombre de négociateurs de l'enseigne, ce n'est pas vital,
+
+895
+00:46:27,860 --> 00:46:29,320
+d'autant que c'est difficile à trouver,
+
+896
+00:46:29,460 --> 00:46:31,659
+mais si vous arrivez à trouver l'information, ce n'est pas mal.
+
+897
+00:46:31,659 --> 00:46:33,960
+En tout cas, ce n'est pas ce qu'il y a de plus important.
+
+898
+00:46:34,759 --> 00:46:36,319
+Donc, on va sur ce loger.
+
+899
+00:46:38,679 --> 00:46:43,739
+Et on voit ici la première agence immobilière à Châteauroux, c'est Efficity.
+
+900
+00:46:44,159 --> 00:46:48,159
+Donc, je vais ici et je mets Efficity.
+
+901
+00:46:50,119 --> 00:46:52,779
+Attention, Efficity, c'est un réseau.
+
+902
+00:46:53,500 --> 00:46:59,000
+Donc, ce qui est important quand c'est un réseau d'agents mandataires indépendants comme la Lucarne, comme Optimum, comme IAD,
+
+903
+00:46:59,000 --> 00:47:05,780
+c'est que là j'aille voir exactement qui est l'agent et fit c'est très important vous allez
+
+904
+00:47:05,780 --> 00:47:10,679
+le voir par la suite et si je vois que c'est vanessa robin voyez c'est écrit en haut à à
+
+905
+00:47:10,679 --> 00:47:20,599
+gauche donc je mets et fit city et à côté je mets vanessa robin pourquoi parce qu'il peut très bien
+
+906
+00:47:20,599 --> 00:47:27,139
+y avoir à châteauroux deux trois quatre cinq négociateurs et fit city mais il travaille pas
+
+907
+00:47:27,139 --> 00:47:32,420
+du tout tous de la même manière peut avoir un négociateur qui travaille extrêmement bien et
+
+908
+00:47:32,420 --> 00:47:36,359
+dans ce cas là ce sera un concurrent sérieux je l'aurai souvent en face de moi et je peux
+
+909
+00:47:36,359 --> 00:47:40,219
+avoir un autre négociateur de chez city qui lui travaille pas du tout il a un seulement d'un
+
+910
+00:47:40,219 --> 00:47:48,980
+portefeuille un seul auquel cas il sera négligeable donc et fit city vanessa robin je mets un mandat en
+
+911
+00:47:48,980 --> 00:48:00,539
+ligne et puis ensuite et ben je vais faire pareil pour le deuxième ici j'ai une autre annonce dans
+
+912
+00:48:00,539 --> 00:48:09,840
+un nouvel onglet et c'est l'agence apogée patrimoine est ici le fait copier et je fais
+
+913
+00:48:09,840 --> 00:48:13,519
+je fais coller
+
+914
+00:48:13,519 --> 00:48:16,880
+et je mets ici
+
+915
+00:48:16,880 --> 00:48:18,960
+un mandat en portefeuille.
+
+916
+00:48:19,079 --> 00:48:20,380
+C'est le premier que je trouve pour eux.
+
+917
+00:48:22,340 --> 00:48:24,220
+Alors ça, c'est une agence normale.
+
+918
+00:48:24,579 --> 00:48:27,000
+Donc, je ne mets pas le nom du négociateur.
+
+919
+00:48:27,579 --> 00:48:28,980
+Le nom du négociateur, vous avez compris,
+
+920
+00:48:29,079 --> 00:48:30,460
+je le fais uniquement quand c'est un réseau
+
+921
+00:48:30,460 --> 00:48:31,579
+d'agents mandataires indépendants,
+
+922
+00:48:31,700 --> 00:48:33,740
+comme la Lucarne, comme IAD, comme FECity.
+
+923
+00:48:35,120 --> 00:48:37,039
+Parce qu'en fait, chaque négociateur
+
+924
+00:48:37,039 --> 00:48:39,420
+est une entité juridiquement indépendante.
+
+925
+00:48:39,840 --> 00:48:58,100
+Et puis je vais faire le troisième, comment il s'appelle ? Il s'appelle Human Immobilier, alors je vois Human Immobilier Châteauroux, parce qu'il peut y avoir plusieurs agences Human Immobilier dans le secteur, donc je mets ici Human Immobilier Châteauroux, un mandat, et ainsi de suite.
+
+926
+00:48:58,099 --> 00:49:00,799
+alors vous allez dire, ça peut durer longtemps cette histoire
+
+927
+00:49:00,799 --> 00:49:03,259
+vous allez voir que pas tant que ça, pourquoi ?
+
+928
+00:49:03,259 --> 00:49:04,480
+parce que pour l'instant on a
+
+929
+00:49:04,480 --> 00:49:05,579
+Deficity
+
+930
+00:49:05,579 --> 00:49:08,639
+cette agence dont j'ai oublié le nom là
+
+931
+00:49:08,639 --> 00:49:11,119
+Apogée Immobilier, Human Immobilier
+
+932
+00:49:11,119 --> 00:49:12,139
+mais très rapidement
+
+933
+00:49:12,139 --> 00:49:15,099
+on va revoir les mêmes arriver
+
+934
+00:49:15,099 --> 00:49:17,019
+et regardez, je l'ai dès maintenant
+
+935
+00:49:17,019 --> 00:49:18,059
+troisième annonce
+
+936
+00:49:18,059 --> 00:49:22,319
+Human Immobilier Châteauroux
+
+937
+00:49:22,319 --> 00:49:24,960
+je les retrouve, donc ici
+
+938
+00:49:24,960 --> 00:49:27,239
+je ne vais pas les remettre, par contre je mets ici
+
+939
+00:49:27,239 --> 00:49:29,159
+deux mandats.
+
+940
+00:49:29,659 --> 00:49:32,139
+J'en suis à mon deuxième mandat de Humain Immobilier.
+
+941
+00:49:32,739 --> 00:49:33,259
+Châteauroux.
+
+942
+00:49:33,759 --> 00:49:34,759
+Allez, ensuite,
+
+943
+00:49:35,259 --> 00:49:36,639
+annonce suivante.
+
+944
+00:49:38,359 --> 00:49:39,739
+Maison Bruno Petit
+
+945
+00:49:39,739 --> 00:49:41,719
+Châteauroux. Alors ça, c'est pas
+
+946
+00:49:41,719 --> 00:49:42,839
+pareil, c'est un constructeur.
+
+947
+00:49:43,479 --> 00:49:45,359
+C'est pas une agence immobilière. Donc ça,
+
+948
+00:49:45,539 --> 00:49:47,419
+je ne le prends pas en compte parce que
+
+949
+00:49:47,419 --> 00:49:49,599
+c'est un constructeur de maison individuelle.
+
+950
+00:49:49,799 --> 00:49:50,519
+C'est autre chose.
+
+951
+00:49:53,219 --> 00:49:53,439
+Hop,
+
+952
+00:49:53,539 --> 00:49:54,919
+une autre annonce, ici.
+
+953
+00:49:54,920 --> 00:49:58,280
+Life Home IMO.
+
+954
+00:49:58,800 --> 00:49:59,720
+C'est une agence locale.
+
+955
+00:50:00,320 --> 00:50:01,460
+Donc, je vais les mettre ici.
+
+956
+00:50:03,680 --> 00:50:04,400
+Et je mets
+
+957
+00:50:04,400 --> 00:50:05,700
+un mandat.
+
+958
+00:50:08,760 --> 00:50:10,159
+On va en faire quelques-uns comme ça.
+
+959
+00:50:10,500 --> 00:50:12,099
+IAD. Ah !
+
+960
+00:50:12,099 --> 00:50:14,380
+IAD. Et vous voyez que ce n'est pas les mêmes
+
+961
+00:50:14,380 --> 00:50:15,760
+personnes. J'ai Élise
+
+962
+00:50:15,760 --> 00:50:18,500
+Daugé. Vous voyez, ici, j'ai
+
+963
+00:50:18,500 --> 00:50:20,320
+IAD France
+
+964
+00:50:20,320 --> 00:50:21,200
+Élise Daugé.
+
+965
+00:50:24,920 --> 00:50:29,180
+J'écris n'importe quoi, excusez-moi.
+
+966
+00:50:31,960 --> 00:50:33,039
+Qu'est-ce qui se passe ?
+
+967
+00:50:33,039 --> 00:50:35,099
+Pourquoi j'ai...
+
+968
+00:50:35,099 --> 00:50:36,280
+Voilà.
+
+969
+00:50:38,680 --> 00:50:41,740
+Et je mets ici un mandat.
+
+970
+00:50:43,380 --> 00:50:45,320
+Ensuite, comme je vous ai dit,
+
+971
+00:50:45,980 --> 00:50:48,680
+les agents mandataires, on les considère individuellement.
+
+972
+00:50:48,880 --> 00:50:50,619
+On ne les considère pas comme l'agence IAD,
+
+973
+00:50:50,760 --> 00:50:52,300
+parce que c'est un réseau d'agents mandataires.
+
+974
+00:50:52,300 --> 00:50:53,880
+Donc, j'ai une deuxième annonce ensuite.
+
+975
+00:50:53,880 --> 00:50:56,019
+c'est la même personne, c'est
+
+976
+00:50:56,019 --> 00:50:57,559
+Élise Daugé à nouveau
+
+977
+00:50:57,559 --> 00:51:00,019
+donc je reprends Élise Daugé, je lui mets
+
+978
+00:51:00,019 --> 00:51:01,500
+deux mandats
+
+979
+00:51:01,500 --> 00:51:05,599
+ensuite
+
+980
+00:51:05,599 --> 00:51:07,720
+troisième annonce IAD
+
+981
+00:51:07,720 --> 00:51:11,320
+hop là
+
+982
+00:51:11,320 --> 00:51:13,220
+où est ma
+
+983
+00:51:13,220 --> 00:51:15,960
+une présentation différente
+
+984
+00:51:15,960 --> 00:51:17,860
+parce que c'est un produit Bell Demeure
+
+985
+00:51:17,860 --> 00:51:19,640
+Bell Demeure, on en reparlera plus tard
+
+986
+00:51:19,640 --> 00:51:22,180
+c'est une section
+
+987
+00:51:22,180 --> 00:51:22,559
+de
+
+988
+00:51:22,559 --> 00:51:23,539
+comment ça s'appelle,
+
+989
+00:51:24,539 --> 00:51:26,779
+de se loger pour les produits hauts de gamins.
+
+990
+00:51:28,019 --> 00:51:28,719
+Donc, où est
+
+991
+00:51:28,719 --> 00:51:30,880
+le nom de la personne
+
+992
+00:51:30,880 --> 00:51:32,840
+de chez IAD ? Clémence Martin.
+
+993
+00:51:33,039 --> 00:51:35,039
+Voilà. IAD France, Clémence Martin.
+
+994
+00:51:35,219 --> 00:51:36,259
+Ah, ce n'est pas la même personne.
+
+995
+00:51:37,279 --> 00:51:38,199
+Ce n'est plus Élise Roger.
+
+996
+00:51:39,139 --> 00:51:40,039
+C'est Clémence Martin.
+
+997
+00:51:41,500 --> 00:51:42,860
+Un mandat pour Clémence Martin.
+
+998
+00:51:46,639 --> 00:51:48,659
+Ensuite, ici,
+
+999
+00:51:48,659 --> 00:51:52,559
+Élise Daugé à nouveau.
+
+1000
+00:51:53,920 --> 00:51:56,440
+De quoi je suis en train de m'apercevoir ?
+
+1001
+00:51:56,440 --> 00:51:57,139
+Que pour l'instant,
+
+1002
+00:51:57,239 --> 00:51:58,399
+mon concurrent le plus sérieux,
+
+1003
+00:51:58,480 --> 00:51:59,159
+c'est Élise Daugé.
+
+1004
+00:52:01,420 --> 00:52:02,339
+Elle a trois mandats
+
+1005
+00:52:02,339 --> 00:52:03,739
+alors qu'on n'a même pas fait une page.
+
+1006
+00:52:05,319 --> 00:52:06,420
+Ça va changer, vous allez voir,
+
+1007
+00:52:06,500 --> 00:52:06,899
+ça va bouger.
+
+1008
+00:52:07,659 --> 00:52:08,779
+Ici, j'arrive chez Safdie.
+
+1009
+00:52:10,960 --> 00:52:12,019
+Alors, vous, à la maison,
+
+1010
+00:52:12,699 --> 00:52:15,460
+vous faites plus rapidement
+
+1011
+00:52:15,460 --> 00:52:16,219
+que ce que je fais là,
+
+1012
+00:52:16,299 --> 00:52:16,719
+parce que là, moi,
+
+1013
+00:52:16,739 --> 00:52:17,559
+je suis en train de vous l'expliquer.
+
+1014
+00:52:17,559 --> 00:52:20,079
+mais vous faites plus rapidement
+
+1015
+00:52:20,079 --> 00:52:22,039
+donc ici
+
+1016
+00:52:22,039 --> 00:52:23,619
+j'ai Safty, Jérémy
+
+1017
+00:52:23,619 --> 00:52:25,400
+l'abbé
+
+1018
+00:52:25,400 --> 00:52:27,980
+donc je mets ici
+
+1019
+00:52:27,980 --> 00:52:30,500
+hop, j'enlève conseiller indépendant
+
+1020
+00:52:30,500 --> 00:52:31,400
+pour que ce soit pas
+
+1021
+00:52:31,400 --> 00:52:32,719
+d'utilité
+
+1022
+00:52:32,719 --> 00:52:35,900
+et je lui mets un mandat
+
+1023
+00:52:35,900 --> 00:52:39,920
+ensuite
+
+1024
+00:52:39,920 --> 00:52:46,539
+Docteur Auximo, mais là j'ai pas le nom du négociateur
+
+1025
+00:52:46,539 --> 00:52:55,139
+C'est bizarre parce que Dr House Imo, c'est également un réseau d'agents mandataires.
+
+1026
+00:52:56,420 --> 00:52:59,420
+Donc normalement, je devrais avoir le nom du négociateur aussi.
+
+1027
+00:53:00,960 --> 00:53:01,679
+C'est obligatoire.
+
+1028
+00:53:01,920 --> 00:53:03,960
+Je ne sais pas comment ils ont fait pour ne pas le mettre.
+
+1029
+00:53:05,440 --> 00:53:07,139
+Ah voilà, De Nio Irina.
+
+1030
+00:53:08,179 --> 00:53:10,659
+Donc Dr House De Nio Irina.
+
+1031
+00:53:11,239 --> 00:53:12,599
+Normalement, ils devraient le mettre en haut.
+
+1032
+00:53:13,079 --> 00:53:14,079
+C'est une obligation.
+
+1033
+00:53:14,079 --> 00:53:16,319
+donc je mets ici
+
+1034
+00:53:16,319 --> 00:53:17,699
+Dr House
+
+1035
+00:53:17,699 --> 00:53:21,559
+De Nio, Irina
+
+1036
+00:53:21,559 --> 00:53:22,920
+un mandat
+
+1037
+00:53:22,920 --> 00:53:25,819
+alors regardez ici, petite chose
+
+1038
+00:53:25,819 --> 00:53:27,480
+qui n'a rien à voir avec ce qu'on est en train de voir
+
+1039
+00:53:27,480 --> 00:53:30,039
+mais voyez ici, il y a le négociateur
+
+1040
+00:53:30,039 --> 00:53:31,440
+qui a mis
+
+1041
+00:53:31,440 --> 00:53:32,860
+idéal premier achat
+
+1042
+00:53:32,860 --> 00:53:37,900
+il a mis un petit bandeau
+
+1043
+00:53:37,900 --> 00:53:41,099
+idéal premier achat
+
+1044
+00:53:41,099 --> 00:53:42,219
+c'est interdit
+
+1045
+00:53:42,219 --> 00:53:44,199
+c'est interdit
+
+1046
+00:53:44,199 --> 00:53:46,079
+est-ce que vous avez une idée
+
+1047
+00:53:46,079 --> 00:53:47,659
+de la raison pour laquelle c'est interdit
+
+1048
+00:53:47,659 --> 00:53:50,219
+on n'a pas le droit de mettre idéal premier achat
+
+1049
+00:53:50,219 --> 00:53:50,519
+ici
+
+1050
+00:53:50,519 --> 00:53:53,839
+alors au delà du fait que
+
+1051
+00:53:53,839 --> 00:53:56,500
+cette photo pub
+
+1052
+00:53:56,500 --> 00:54:00,099
+c'est pas malin du tout parce que moi si je suis
+
+1053
+00:54:00,099 --> 00:54:01,699
+à Châteauroux je reconnais tout de suite la façade
+
+1054
+00:54:01,699 --> 00:54:04,119
+et j'ai pas besoin d'appeler cette
+
+1055
+00:54:04,119 --> 00:54:05,839
+personne, cette dame Irina
+
+1056
+00:54:05,839 --> 00:54:08,079
+pour acheter la maison puisque j'ai qu'à
+
+1057
+00:54:08,079 --> 00:54:09,039
+aller frapper à la porte
+
+1058
+00:54:09,039 --> 00:54:11,599
+y'a pas de problème j'ai qu'à y aller
+
+1059
+00:54:11,599 --> 00:54:24,739
+A votre avis, est-ce que vous avez une idée de la raison pour laquelle, au-delà du fait que la photopube de la façade qui est ici, ce n'est pas une bonne idée du tout commercialement, pourquoi le bandeau idéal premier achat ici est interdit ?
+
+1060
+00:54:24,739 --> 00:54:28,599
+Est-ce que vous avez une idée ?
+
+1061
+00:54:28,599 --> 00:54:30,599
+Non ?
+
+1062
+00:54:31,860 --> 00:54:40,420
+Eh bien, pour une raison toute simple, il a été jugé par les tribunaux, une jurisprudence, que c'est discriminatoire.
+
+1063
+00:54:41,599 --> 00:54:49,119
+C'est considéré en France par les tribunaux comme une mention discriminatoire.
+
+1064
+00:54:49,739 --> 00:54:53,819
+C'est de la discrimination de dire que ça c'est idéal pour un premier achat.
+
+1065
+00:54:53,980 --> 00:54:57,319
+Alors vous me direz, il n'y a pas écrit obligatoire premier achat.
+
+1066
+00:54:58,119 --> 00:55:01,239
+Quelqu'un qui n'en est pas à son premier achat a le droit d'aller l'acheter.
+
+1067
+00:55:01,239 --> 00:55:07,019
+Mais pourtant dans nos tribunaux, c'est un peu wokiste quand même,
+
+1068
+00:55:07,019 --> 00:55:08,179
+comme... Bon, c'est comme ça.
+
+1069
+00:55:08,800 --> 00:55:11,019
+Nos tribunaux considèrent que ce genre
+
+1070
+00:55:11,019 --> 00:55:12,940
+de mention est discriminatoire
+
+1071
+00:55:12,940 --> 00:55:14,780
+envers quelqu'un qui n'en serait pas
+
+1072
+00:55:14,780 --> 00:55:15,699
+à son premier achat.
+
+1073
+00:55:16,980 --> 00:55:19,119
+Ça n'a pas l'air très sérieux, ça n'a pas l'air très malin.
+
+1074
+00:55:19,300 --> 00:55:19,619
+Bon, si.
+
+1075
+00:55:20,559 --> 00:55:23,059
+C'est un procès qui a eu lieu et qui a donné raison
+
+1076
+00:55:23,059 --> 00:55:25,039
+à la personne qui se plaignait.
+
+1077
+00:55:26,199 --> 00:55:27,019
+Comme ça, hein ?
+
+1078
+00:55:27,860 --> 00:55:28,199
+C'est comme ça.
+
+1079
+00:55:29,079 --> 00:55:30,920
+Alors ensuite, on a ici Imo Rezo.
+
+1080
+00:55:31,259 --> 00:55:33,199
+Imo Rezo, on l'avait déjà en haut, non ?
+
+1081
+00:55:33,199 --> 00:55:34,780
+Non, on ne l'avait pas encore ? Ah ben non,
+
+1082
+00:55:34,780 --> 00:55:35,900
+on ne l'avait pas encore, Imo Rezo.
+
+1083
+00:55:35,900 --> 00:55:36,780
+donc
+
+1084
+00:55:36,780 --> 00:55:39,340
+on va ici
+
+1085
+00:55:39,340 --> 00:55:42,340
+j'ai fait une bêtise, excusez-moi
+
+1086
+00:55:42,340 --> 00:55:44,340
+il faut que je coupe ça
+
+1087
+00:55:44,340 --> 00:55:45,680
+je ne sais pas trop bien comment on fait
+
+1088
+00:55:45,680 --> 00:55:48,300
+est-ce que c'est comme ça qu'on fait
+
+1089
+00:55:48,300 --> 00:55:49,780
+je ne sais pas comment on enlève ce machin
+
+1090
+00:55:49,780 --> 00:55:53,619
+voilà, c'est comme ça
+
+1091
+00:55:53,619 --> 00:55:56,440
+d'accord, ah bah oui mais j'ai coupé
+
+1092
+00:55:56,440 --> 00:55:58,019
+ce qu'il ne fallait pas, bon c'est pas grave, on va prendre
+
+1093
+00:55:58,019 --> 00:55:58,619
+imorezo
+
+1094
+00:55:58,619 --> 00:56:01,720
+et on va ici
+
+1095
+00:56:01,720 --> 00:56:04,619
+faire imorezo
+
+1096
+00:56:04,619 --> 00:56:08,519
+et je lui mets
+
+1097
+00:56:08,519 --> 00:56:09,619
+un mandat.
+
+1098
+00:56:10,579 --> 00:56:12,480
+Et ainsi de suite, et ainsi de suite, et ainsi de suite,
+
+1099
+00:56:12,559 --> 00:56:13,719
+je vais continuer comme ça
+
+1100
+00:56:13,719 --> 00:56:16,440
+jusqu'à peut-être
+
+1101
+00:56:16,440 --> 00:56:18,559
+une trentaine de personnes. Mais vous allez
+
+1102
+00:56:18,559 --> 00:56:19,880
+voir, parce que moi je vais vous montrer
+
+1103
+00:56:19,880 --> 00:56:22,400
+d'autres grilles qui ont été
+
+1104
+00:56:22,400 --> 00:56:23,659
+faites par certains de nos
+
+1105
+00:56:23,659 --> 00:56:26,579
+agents. Regardez
+
+1106
+00:56:26,579 --> 00:56:27,920
+par exemple si je vous montre
+
+1107
+00:56:27,920 --> 00:56:29,779
+excusez-moi, hop, je vais vous
+
+1108
+00:56:29,779 --> 00:56:31,400
+chercher un
+
+1109
+00:56:31,400 --> 00:56:33,500
+exemple qui est là.
+
+1110
+00:56:34,619 --> 00:56:37,719
+vous allez arriver
+
+1111
+00:56:37,719 --> 00:56:39,799
+à un résultat similaire à celui-là.
+
+1112
+00:56:40,819 --> 00:56:41,359
+Alors, attendez.
+
+1113
+00:56:42,440 --> 00:56:44,119
+Ah non, je n'ai pas pris le bon fichier.
+
+1114
+00:56:44,219 --> 00:56:44,619
+Excusez-moi.
+
+1115
+00:56:45,480 --> 00:56:47,900
+Je me suis trompé de fichier Excel.
+
+1116
+00:56:48,839 --> 00:56:50,359
+Ce n'est pas celui-ci
+
+1117
+00:56:50,359 --> 00:56:52,000
+que je voulais prendre.
+
+1118
+00:56:52,859 --> 00:56:53,460
+Parce que celui-là,
+
+1119
+00:56:53,539 --> 00:56:57,239
+il n'est pas particulièrement bien fait.
+
+1120
+00:57:00,460 --> 00:57:00,940
+Voilà.
+
+1121
+00:57:02,000 --> 00:57:02,719
+Regardez ici.
+
+1122
+00:57:04,099 --> 00:57:04,359
+Alors,
+
+1123
+00:57:04,619 --> 00:57:06,500
+notre agent a un petit peu
+
+1124
+00:57:06,500 --> 00:57:08,139
+changé la présentation, mais ce n'est pas grave.
+
+1125
+00:57:08,859 --> 00:57:10,559
+Ce n'est pas grave. Il a un peu changé la présentation
+
+1126
+00:57:10,559 --> 00:57:11,980
+parce qu'il a trouvé ça plus joli comme ça.
+
+1127
+00:57:12,679 --> 00:57:14,139
+Bon, rien ne vous y oblige.
+
+1128
+00:57:14,219 --> 00:57:15,319
+Vous faites exactement comme
+
+1129
+00:57:15,319 --> 00:57:18,559
+vous le voulez. Et vous voyez,
+
+1130
+00:57:19,819 --> 00:57:20,679
+vous arrivez à ça.
+
+1131
+00:57:21,739 --> 00:57:22,500
+Je vais zoomer un peu
+
+1132
+00:57:22,500 --> 00:57:23,599
+pour que vous y voyez plus clair.
+
+1133
+00:57:27,799 --> 00:57:28,159
+Voilà.
+
+1134
+00:57:33,279 --> 00:57:33,880
+Valor M
+
+1135
+00:57:33,880 --> 00:57:36,579
+12 mandats, 3 agents
+
+1136
+00:57:36,579 --> 00:57:39,260
+alors 3 agents, 3 agents, 5 agents
+
+1137
+00:57:39,260 --> 00:57:41,240
+c'est une information qui est utile
+
+1138
+00:57:41,240 --> 00:57:43,140
+lorsque vous arrivez à l'identifier
+
+1139
+00:57:43,140 --> 00:57:44,860
+mais c'est pas fondamental
+
+1140
+00:57:44,860 --> 00:57:47,079
+ce qui est fondamental par contre
+
+1141
+00:57:47,079 --> 00:57:48,280
+c'est le nombre de mandats
+
+1142
+00:57:48,280 --> 00:57:49,920
+ça c'est très très très important
+
+1143
+00:57:49,920 --> 00:57:53,300
+donc Valorem, 12 mandats
+
+1144
+00:57:53,300 --> 00:57:55,059
+Optimum
+
+1145
+00:57:55,059 --> 00:57:57,260
+6 mandats, mais attention 3 agents
+
+1146
+00:57:57,260 --> 00:57:58,740
+c'est des agents mandataires
+
+1147
+00:57:58,740 --> 00:58:00,119
+il faut les différencier
+
+1148
+00:58:00,119 --> 00:58:03,140
+Actuimo, 5 mandats
+
+1149
+00:58:03,880 --> 00:58:08,660
+BSK, 9 mandats, mais attention, c'est un réseau d'agents indépendants.
+
+1150
+00:58:09,640 --> 00:58:13,680
+En fait, ça vous permet de voir qui dans votre secteur est vraiment très, très, très actif.
+
+1151
+00:58:13,820 --> 00:58:19,059
+Pourquoi ? Parce que vous voyez que Pellimo, qui est ici, avec 23 mandats,
+
+1152
+00:58:20,740 --> 00:58:23,860
+c'est un concurrent sérieux que vous aurez régulièrement en face de vous.
+
+1153
+00:58:24,200 --> 00:58:27,980
+Alors que Meilleurbien.com, avec un mandat, il ne compte pas.
+
+1154
+00:58:29,660 --> 00:58:32,140
+JCMP, avec un mandat, il ne compte pas.
+
+1155
+00:58:32,139 --> 00:58:57,319
+Lui, il n'est pas important. Nexity avec deux mandats n'est pas important. Par contre, Nesten avec 13 mandats est important. KW Team Tessier, 11 mandats, est important. Parce que ce sont des gens que vous aurez donc régulièrement en face de vous. Des gens auxquels vous serez régulièrement confrontés.
+
+1156
+00:58:57,320 --> 00:59:00,340
+donc
+
+1157
+00:59:00,340 --> 00:59:02,860
+vous comprenez maintenant
+
+1158
+00:59:02,860 --> 00:59:03,960
+quelle est
+
+1159
+00:59:03,960 --> 00:59:07,039
+l'utilité
+
+1160
+00:59:07,039 --> 00:59:09,100
+je vais vous montrer encore une dernière grille
+
+1161
+00:59:09,100 --> 00:59:12,800
+la voici
+
+1162
+00:59:12,800 --> 00:59:15,360
+ça c'est la grille d'un autre
+
+1163
+00:59:15,360 --> 00:59:16,880
+de nos agents qui lui est en
+
+1164
+00:59:16,880 --> 00:59:17,840
+Bretagne
+
+1165
+00:59:17,840 --> 00:59:19,660
+alors lui il n'a pas du tout changé
+
+1166
+00:59:19,660 --> 00:59:24,960
+la présentation
+
+1167
+00:59:24,960 --> 00:59:26,700
+donc vous retrouvez quelque chose
+
+1168
+00:59:26,699 --> 00:59:28,019
+ou plus proches.
+
+1169
+00:59:28,739 --> 00:59:29,179
+Et vous voyez,
+
+1170
+00:59:30,519 --> 00:59:31,859
+IAD, Blow Safety,
+
+1171
+00:59:32,239 --> 00:59:34,319
+46, 37, 26%,
+
+1172
+00:59:34,319 --> 00:59:35,980
+26 mandats,
+
+1173
+00:59:36,539 --> 00:59:38,799
+c'est beaucoup. C'est pour ça qu'il les a mis en gras
+
+1174
+00:59:38,799 --> 00:59:40,480
+d'ailleurs. Il a mis en gras, en fait, tous les gens
+
+1175
+00:59:40,480 --> 00:59:42,219
+qui ont jusqu'à 10 mandats.
+
+1176
+00:59:42,960 --> 00:59:44,359
+Enfin, 10 mandats minimum.
+
+1177
+00:59:45,359 --> 00:59:46,519
+Les autres, ils sont
+
+1178
+00:59:46,519 --> 00:59:48,539
+beaucoup moins importants. Et vous imaginez bien
+
+1179
+00:59:48,539 --> 00:59:49,839
+que 3G IMO ici,
+
+1180
+00:59:50,399 --> 00:59:52,819
+Agence IMO, IMO Réseau, Doctor House IMO,
+
+1181
+00:59:52,960 --> 00:59:54,460
+Manibo, Jiboire Transactions,
+
+1182
+00:59:54,659 --> 00:59:55,960
+EntreChezVous.com, etc.
+
+1183
+00:59:56,699 --> 00:59:58,719
+Tous ces gens-là ne comptent pas du tout.
+
+1184
+00:59:59,039 --> 01:00:04,339
+Ces gens-là, on saura qu'il ne faut pas les prendre en compte.
+
+1185
+01:00:05,039 --> 01:00:09,139
+Par contre, ceux qui sont au-dessus, il va falloir les prendre en compte.
+
+1186
+01:00:10,539 --> 01:00:12,960
+Pourquoi on fait ce travail ?
+
+1187
+01:00:12,960 --> 01:00:13,919
+Pour deux raisons.
+
+1188
+01:00:14,980 --> 01:00:20,980
+Premièrement, pour savoir à qui vous serez régulièrement, quotidiennement confrontés en concurrence sur les mêmes mandats.
+
+1189
+01:00:22,359 --> 01:00:25,299
+Qui le vendeur va régulièrement voir, rencontrer.
+
+1190
+01:00:25,300 --> 01:00:37,160
+Et donc, vous devez savoir qui ils sont, comment ils travaillent et surtout, combien est leur barème, combien ils coûtent, quelles sont leurs zones horaires.
+
+1191
+01:00:38,060 --> 01:00:44,620
+Parce que vous voyez, à côté, on va aller chercher leurs zones horaires, comme on les a ici. Je vais vous montrer dans un instant comment on fait.
+
+1192
+01:00:45,320 --> 01:00:53,039
+Donc, ces gens, il faut qu'on fasse attention à ce qu'ils font, comment ils travaillent et pour combien.
+
+1193
+01:00:53,920 --> 01:00:57,039
+Parce que très régulièrement, les vendeurs nous mettront en concurrence.
+
+1194
+01:00:57,259 --> 01:01:00,840
+Les vendeurs nous diront, j'ai vu Blot Immobilier.
+
+1195
+01:01:01,259 --> 01:01:04,340
+Et là, il faut que vous sachiez combien Blot Immobilier facture
+
+1196
+01:01:04,340 --> 01:01:07,000
+et ce que Blot Immobilier fait comme travail.
+
+1197
+01:01:07,619 --> 01:01:12,039
+Est-ce qu'ils ont juste 2-3 photos sur 2-3 sites tout pourris ?
+
+1198
+01:01:12,039 --> 01:01:14,460
+Ou est-ce qu'ils font des très belles photos ?
+
+1199
+01:01:14,460 --> 01:01:16,659
+Est-ce qu'ils ont une très bonne façon de travailler ?
+
+1200
+01:01:16,659 --> 01:01:18,820
+Est-ce qu'éventuellement, ils font des maquettes interactives ?
+
+1201
+01:01:18,820 --> 01:01:22,259
+Parce que vous allez adapter votre discours par rapport à ça.
+
+1202
+01:01:23,039 --> 01:01:24,980
+les honoraires qui sont ici
+
+1203
+01:01:24,980 --> 01:01:27,000
+où est-ce que je vais
+
+1204
+01:01:27,000 --> 01:01:28,179
+les chercher
+
+1205
+01:01:28,179 --> 01:01:30,820
+et bien vous allez voir que c'est très simple
+
+1206
+01:01:30,820 --> 01:01:33,460
+ce logis me les donne
+
+1207
+01:01:33,460 --> 01:01:34,599
+je retourne sur ce logis
+
+1208
+01:01:34,599 --> 01:01:36,219
+parce que j'ai fermé ma fenêtre
+
+1209
+01:01:36,219 --> 01:01:38,759
+par mes gardes
+
+1210
+01:01:38,759 --> 01:01:40,099
+on retourne à Châteauroux
+
+1211
+01:01:40,099 --> 01:01:47,119
+hop et vous voyez à chaque fois que j'ai une annonce
+
+1212
+01:01:47,119 --> 01:01:48,739
+dont je retrouve mes FECITY etc
+
+1213
+01:01:48,739 --> 01:01:50,500
+alors vous, vous allez faire ça sur
+
+1214
+01:01:50,500 --> 01:01:53,860
+6-7 pages
+
+1215
+01:01:53,860 --> 01:01:56,219
+vous allez faire le même travail
+
+1216
+01:01:56,219 --> 01:01:56,940
+sur la page 2
+
+1217
+01:01:56,940 --> 01:02:00,420
+sur la page 3, sur la page 4
+
+1218
+01:02:00,420 --> 01:02:02,460
+et là vous voyez je retrouve Human Immobilier
+
+1219
+01:02:02,460 --> 01:02:04,260
+donc sur mon fichier je mettrais un 3ème mandat
+
+1220
+01:02:04,260 --> 01:02:05,539
+Human Immobilier, GBSK
+
+1221
+01:02:05,539 --> 01:02:08,380
+qui n'était pas encore arrivé, propriété privée etc
+
+1222
+01:02:08,380 --> 01:02:10,440
+vous allez, alors on enlève
+
+1223
+01:02:10,440 --> 01:02:12,500
+les trucs neufs, d'ailleurs vous pouvez faire ça
+
+1224
+01:02:12,500 --> 01:02:13,539
+en haut c'est peut-être pas idiot
+
+1225
+01:02:13,539 --> 01:02:16,579
+de dire que vous voulez que les produits anciens
+
+1226
+01:02:16,579 --> 01:02:18,539
+c'est vrai que ça va enlever les produits
+
+1227
+01:02:18,539 --> 01:02:19,960
+neufs qui viennent un peu polluer
+
+1228
+01:02:19,960 --> 01:02:23,220
+parce que les produits neufs, ça n'a rien à voir.
+
+1229
+01:02:23,320 --> 01:02:23,860
+C'est autre chose.
+
+1230
+01:02:24,860 --> 01:02:28,240
+Là, vous voyez, Safty, on en mettrait Wesley Fauchet.
+
+1231
+01:02:28,840 --> 01:02:30,240
+Ah non, ce sont deux personnes différentes.
+
+1232
+01:02:30,360 --> 01:02:33,000
+Safty Ferreira, Safty Fauchet-Wesley.
+
+1233
+01:02:33,220 --> 01:02:34,220
+Ce ne sont pas les mêmes personnes.
+
+1234
+01:02:34,340 --> 01:02:37,079
+Il faut les considérer comme deux agences séparées.
+
+1235
+01:02:37,639 --> 01:02:38,960
+Il y a des France Anthony Sanchez.
+
+1236
+01:02:39,800 --> 01:02:42,780
+C'est une personne séparée de Vanessa Martin,
+
+1237
+01:02:43,639 --> 01:02:46,440
+Clément Martin, que vous voyez ici,
+
+1238
+01:02:46,579 --> 01:02:47,440
+ou Élise Dogé.
+
+1239
+01:02:47,440 --> 01:02:51,800
+Parce que je vois qu'Élise Dogé, elle bosse bien, elle a plein de mandats.
+
+1240
+01:02:52,400 --> 01:02:58,840
+Peut-être qu'Anthony Sanchez, lui, il a juste un seul mandat et il ne compte pas beaucoup.
+
+1241
+01:02:59,400 --> 01:03:01,860
+Je ne l'aurai pas souvent en face de moi.
+
+1242
+01:03:02,260 --> 01:03:03,360
+D'accord ?
+
+1243
+01:03:03,360 --> 01:03:05,340
+Vous voyez, encore Élise Dogé chez IAD.
+
+1244
+01:03:05,820 --> 01:03:07,360
+Encore Élise Dogé chez IAD.
+
+1245
+01:03:07,639 --> 01:03:08,519
+Vous voyez, c'est écrit ici.
+
+1246
+01:03:08,780 --> 01:03:09,400
+Je ne sais pas si vous voyez.
+
+1247
+01:03:09,980 --> 01:03:11,519
+Encore Élise Dogé chez IAD.
+
+1248
+01:03:11,800 --> 01:03:13,880
+Je vois qu'Élise Dogé, elle est encore là.
+
+1249
+01:03:13,940 --> 01:03:14,519
+Regardez en dessous.
+
+1250
+01:03:14,880 --> 01:03:16,079
+En fait, c'est une grosse bosseuse, elle.
+
+1251
+01:03:16,079 --> 01:03:17,860
+c'est une grosse bosseuse
+
+1252
+01:03:17,860 --> 01:03:19,059
+et là on voit Benoît Rulot
+
+1253
+01:03:19,059 --> 01:03:21,799
+ça c'est typique d'IAD et de SAFTI
+
+1254
+01:03:21,799 --> 01:03:24,539
+ce sont des réseaux dans lesquels il y a énormément d'agents
+
+1255
+01:03:24,539 --> 01:03:25,980
+énormément d'agents
+
+1256
+01:03:25,980 --> 01:03:27,440
+ça veut dire que dans tous les secteurs
+
+1257
+01:03:27,440 --> 01:03:29,500
+que ce soit Châteauroux, que ce soit Salon de Provence
+
+1258
+01:03:29,500 --> 01:03:30,659
+que ce soit je sais pas où
+
+1259
+01:03:30,659 --> 01:03:33,340
+il y a plein d'annonces IAD
+
+1260
+01:03:33,340 --> 01:03:35,219
+mais en fait vous regardez les annonces IAD
+
+1261
+01:03:35,219 --> 01:03:36,719
+elles apparaissent dans
+
+1262
+01:03:36,719 --> 01:03:41,159
+10, 15, 20 négociateurs différents
+
+1263
+01:03:41,159 --> 01:03:44,599
+dans toute l'équipe IAD de chaque secteur
+
+1264
+01:03:44,599 --> 01:03:46,559
+Il y en a un ou deux qui bossent super bien.
+
+1265
+01:03:47,900 --> 01:03:49,139
+C'est le cas de Élise.
+
+1266
+01:03:49,259 --> 01:03:51,380
+On voit qu'Élise, c'est une sacrée bosseuse.
+
+1267
+01:03:51,519 --> 01:03:52,699
+Elle a plein de mandats en portefeuille.
+
+1268
+01:03:53,139 --> 01:03:56,880
+Tous les autres, ils ont un, deux mandats maximum.
+
+1269
+01:03:57,839 --> 01:04:00,119
+Parce qu'ils ont réussi à rentrer un mandat par opportunité.
+
+1270
+01:04:00,259 --> 01:04:01,739
+Mais ce ne sont pas des bosseurs.
+
+1271
+01:04:02,839 --> 01:04:06,279
+La vraie personne qui bosse chez IAD à Châteauroux, c'est Élise.
+
+1272
+01:04:07,019 --> 01:04:09,500
+Ce n'est pas Benoît.
+
+1273
+01:04:10,119 --> 01:04:12,259
+Benoît, il ne fait pas grand-chose.
+
+1274
+01:04:12,579 --> 01:04:14,279
+Regardez si je vais sur une deuxième page.
+
+1275
+01:04:14,599 --> 01:04:17,019
+Sylvia Ballereau, encore un autre IAD.
+
+1276
+01:04:18,299 --> 01:04:20,940
+Véronique Pourinet, encore un autre IAD.
+
+1277
+01:04:21,980 --> 01:04:24,400
+Sandra Coutant, encore un autre IAD.
+
+1278
+01:04:25,440 --> 01:04:27,639
+Sophie Rupp, encore un autre IAD.
+
+1279
+01:04:27,639 --> 01:04:28,659
+Et je peux continuer longtemps.
+
+1280
+01:04:28,819 --> 01:04:30,920
+Véronique Pourinet, c'est son deuxième mandat.
+
+1281
+01:04:31,039 --> 01:04:31,799
+On l'a vu juste au-dessus.
+
+1282
+01:04:34,119 --> 01:04:36,339
+Est-ce que j'ai encore des IAD cachés quelque part ?
+
+1283
+01:04:36,339 --> 01:04:37,360
+Safty, c'est pareil.
+
+1284
+01:04:37,480 --> 01:04:40,579
+Fauché-Wesley, Rodé-Aurélien, l'abbé Jérémy.
+
+1285
+01:04:40,980 --> 01:04:42,360
+Ça fait le deuxième pour l'abbé Jérémy.
+
+1286
+01:04:42,360 --> 01:04:43,940
+Ferreira
+
+1287
+01:04:43,940 --> 01:04:45,059
+Eglantine
+
+1288
+01:04:45,059 --> 01:04:48,000
+c'est marrant Eglantine
+
+1289
+01:04:48,000 --> 01:04:49,980
+je cherche un autre
+
+1290
+01:04:49,980 --> 01:04:51,980
+IAD encore il n'y en a plus
+
+1291
+01:04:51,980 --> 01:04:54,300
+on voit que chez IAD vous voyez tous les gens
+
+1292
+01:04:54,300 --> 01:04:55,980
+qu'on a vu il y en avait 6 ou 7
+
+1293
+01:04:55,980 --> 01:04:57,480
+ils avaient un seul mandat
+
+1294
+01:04:57,480 --> 01:05:00,140
+Élise par contre elle en avait
+
+1295
+01:05:00,140 --> 01:05:01,420
+3, 4, 5, 6, 7
+
+1296
+01:05:01,420 --> 01:05:04,180
+la vraie personne qui bosse chez IAD c'est
+
+1297
+01:05:04,180 --> 01:05:05,420
+Élise Gaucher
+
+1298
+01:05:05,420 --> 01:05:06,220
+je crois que c'était Gaucher
+
+1299
+01:05:06,220 --> 01:05:10,300
+celle que je dois vraiment avoir dans le viseur
+
+1300
+01:05:10,300 --> 01:05:12,440
+et à laquelle je dois faire gaffe, c'est Elise Gaucher.
+
+1301
+01:05:13,300 --> 01:05:14,580
+Alors, la deuxième
+
+1302
+01:05:14,580 --> 01:05:16,400
+chose que je vais faire, c'est que
+
+1303
+01:05:16,400 --> 01:05:18,280
+à chaque fois que j'ai donc un mandat
+
+1304
+01:05:18,280 --> 01:05:19,720
+sous les yeux
+
+1305
+01:05:19,720 --> 01:05:21,539
+d'un négociateur,
+
+1306
+01:05:22,320 --> 01:05:24,539
+je vais chercher sa grille d'honoraires.
+
+1307
+01:05:25,640 --> 01:05:26,980
+Comment je fais ça ?
+
+1308
+01:05:26,980 --> 01:05:28,360
+Eh bien, vous vous souvenez, ici, j'avais
+
+1309
+01:05:28,360 --> 01:05:32,620
+Efficity Vanessa Robin.
+
+1310
+01:05:33,720 --> 01:05:34,440
+Un mandat.
+
+1311
+01:05:35,640 --> 01:05:36,480
+Nombre de négociateurs,
+
+1312
+01:05:36,480 --> 01:05:38,180
+je vous dis, ne vous embêtez pas trop avec ça.
+
+1313
+01:05:38,420 --> 01:05:39,560
+Ce n'est pas hyper important.
+
+1314
+01:05:40,300 --> 01:05:42,200
+FECITY Vanessa Robin
+
+1315
+01:05:42,200 --> 01:05:44,600
+maintenant ici je dois mettre le lien
+
+1316
+01:05:44,600 --> 01:05:46,900
+vers son barème d'honoraires et ce sera très important
+
+1317
+01:05:46,900 --> 01:05:48,200
+ça, vous allez voir pourquoi
+
+1318
+01:05:48,200 --> 01:05:52,660
+je vais donc sur
+
+1319
+01:05:52,660 --> 01:05:54,500
+se loger, je clique sur l'annonce
+
+1320
+01:05:54,500 --> 01:05:56,640
+je vais la mettre dans un nouvel onglet pour ne pas perdre ma
+
+1321
+01:05:56,640 --> 01:05:57,260
+liste qui est ici
+
+1322
+01:05:57,260 --> 01:06:00,600
+et j'ai obligatoirement
+
+1323
+01:06:00,600 --> 01:06:02,120
+la grille sur le site se loger
+
+1324
+01:06:02,120 --> 01:06:03,740
+c'est la loi
+
+1325
+01:06:03,740 --> 01:06:06,480
+c'est obligatoire, donc je descends, je cherche un peu
+
+1326
+01:06:06,480 --> 01:06:08,220
+généralement c'est vers le bas
+
+1327
+01:06:08,220 --> 01:06:09,140
+vous voyez
+
+1328
+01:06:09,139 --> 01:06:12,699
+Efficity, Valet-Saint-Robin,
+
+1329
+01:06:13,559 --> 01:06:14,259
+site web,
+
+1330
+01:06:15,519 --> 01:06:17,000
+estimation immobilière.
+
+1331
+01:06:19,420 --> 01:06:21,519
+Je cherche sa grille de tarifs.
+
+1332
+01:06:23,379 --> 01:06:25,440
+Je ne sais plus si ça s'appelle tarifs ou grilles
+
+1333
+01:06:25,440 --> 01:06:27,359
+ou barèmes. Je vais chercher
+
+1334
+01:06:27,359 --> 01:06:27,799
+tarifs.
+
+1335
+01:06:29,599 --> 01:06:29,799
+Non.
+
+1336
+01:06:31,000 --> 01:06:33,199
+Barèmes. Non, j'ai cru barèmes.
+
+1337
+01:06:33,299 --> 01:06:33,679
+Excusez-moi.
+
+1338
+01:06:34,619 --> 01:06:35,460
+Non, je ne l'ai pas.
+
+1339
+01:06:35,679 --> 01:06:36,319
+Ce n'est pas très grave.
+
+1340
+01:06:36,320 --> 01:06:38,519
+si je ne trouve pas le lien
+
+1341
+01:06:38,519 --> 01:06:40,800
+normalement il devrait y être, c'est obligatoire
+
+1342
+01:06:40,800 --> 01:06:43,080
+mais parfois il y a des agents immobiliers
+
+1343
+01:06:43,080 --> 01:06:44,600
+ils essayent de tricher un petit peu
+
+1344
+01:06:44,600 --> 01:06:47,160
+ils essayent de cacher un petit peu
+
+1345
+01:06:47,160 --> 01:06:48,260
+les barèmes d'un horaire
+
+1346
+01:06:48,260 --> 01:06:51,000
+c'est pas grave, il suffit d'aller sur leur site
+
+1347
+01:06:51,000 --> 01:06:52,340
+regardez ici il y a le site web
+
+1348
+01:06:52,340 --> 01:06:54,680
+ou sur profil
+
+1349
+01:06:54,680 --> 01:06:56,980
+on va ouvrir les deux, profil
+
+1350
+01:06:56,980 --> 01:06:57,780
+et site web
+
+1351
+01:06:57,780 --> 01:07:01,539
+Efficity, Vanessa Robin
+
+1352
+01:07:01,539 --> 01:07:02,559
+agent commercial
+
+1353
+01:07:02,559 --> 01:07:04,260
+voir les avis
+
+1354
+01:07:04,260 --> 01:07:08,200
+d'ailleurs on peut voir que Vanessa apparemment
+
+1355
+01:07:08,200 --> 01:07:09,400
+elle a 21 mandats
+
+1356
+01:07:09,400 --> 01:07:11,620
+mais non pas à Châteauroux
+
+1357
+01:07:11,620 --> 01:07:14,200
+à Châteauroux vous voyez elle en a un seul
+
+1358
+01:07:14,200 --> 01:07:15,500
+un seul
+
+1359
+01:07:15,500 --> 01:07:17,240
+elle en a d'autres à l'Achâtre
+
+1360
+01:07:17,240 --> 01:07:19,100
+c'est pas du tout le même secteur
+
+1361
+01:07:19,100 --> 01:07:21,560
+apparemment c'est un agent plutôt de l'Achâtre
+
+1362
+01:07:21,560 --> 01:07:22,280
+Vanessa Robin
+
+1363
+01:07:22,280 --> 01:07:25,960
+pas du tout de Châteauroux, elle a dû rentrer un mandat à Châteauroux
+
+1364
+01:07:25,960 --> 01:07:27,960
+comme ça par opportunité
+
+1365
+01:07:27,960 --> 01:07:29,880
+par relation, donc ça veut dire qu'en fait c'est un
+
+1366
+01:07:29,880 --> 01:07:32,200
+concurrent Vanessa Robin
+
+1367
+01:07:32,199 --> 01:07:34,419
+dont je me moque royalement.
+
+1368
+01:07:34,859 --> 01:07:36,339
+Elle a un mandat dans mon secteur.
+
+1369
+01:07:36,819 --> 01:07:38,879
+Apparemment, elle travaille plutôt ailleurs.
+
+1370
+01:07:39,439 --> 01:07:40,619
+Ce n'est pas ici qu'elle travaille.
+
+1371
+01:07:41,139 --> 01:07:43,719
+Donc, je ne m'inquiète pas trop d'elle.
+
+1372
+01:07:44,159 --> 01:07:44,659
+Ce n'est pas grave.
+
+1373
+01:07:45,059 --> 01:07:48,019
+Par contre, chose importante,
+
+1374
+01:07:48,139 --> 01:07:48,739
+vous voyez, il y a plein de gens
+
+1375
+01:07:48,739 --> 01:07:50,059
+qui disent des choses gentilles sur elle
+
+1376
+01:07:50,059 --> 01:07:51,679
+parce que c'est certainement une nana sympa
+
+1377
+01:07:51,679 --> 01:07:52,359
+qui travaille bien.
+
+1378
+01:07:52,539 --> 01:07:53,119
+Il n'y a pas de doute.
+
+1379
+01:07:54,079 --> 01:07:55,599
+Mais sur son site Internet,
+
+1380
+01:07:55,699 --> 01:07:57,500
+je vais aller chercher ses honoraires.
+
+1381
+01:07:58,659 --> 01:08:00,599
+Ah ! Consultante immobilier FICITY
+
+1382
+01:08:00,599 --> 01:08:01,539
+à Paris 5e.
+
+1383
+01:08:02,199 --> 01:08:04,460
+Et elle a des mandats à Châteauroux.
+
+1384
+01:08:06,339 --> 01:08:07,539
+Oh, ce n'est pas très sérieux, ça.
+
+1385
+01:08:08,119 --> 01:08:10,019
+Et dans la Creuse, à Chambon-Saint-Croix.
+
+1386
+01:08:12,119 --> 01:08:16,760
+Eh bien, à mon avis, ce n'est pas très, très, très, très sérieux, ça.
+
+1387
+01:08:17,079 --> 01:08:17,760
+Mais ce n'est pas grave.
+
+1388
+01:08:18,559 --> 01:08:20,500
+Je vais chercher donc ces honoraires.
+
+1389
+01:08:20,939 --> 01:08:23,939
+Parce que j'ai obligatoirement ces honoraires quelque part sur son site.
+
+1390
+01:08:24,500 --> 01:08:25,039
+C'est la loi.
+
+1391
+01:08:25,039 --> 01:08:28,260
+Même si, soyons clairs,
+
+1392
+01:08:28,260 --> 01:08:30,880
+il y a beaucoup d'agences immobilières
+
+1393
+01:08:30,880 --> 01:08:32,560
+qui essayent de cacher
+
+1394
+01:08:32,560 --> 01:08:33,920
+leurs honoraires
+
+1395
+01:08:33,920 --> 01:08:36,220
+et là j'ai l'impression que c'est le cas
+
+1396
+01:08:36,220 --> 01:08:37,060
+chez FECITY
+
+1397
+01:08:37,060 --> 01:08:40,659
+ils ne les montrent pas de manière très transparente
+
+1398
+01:08:40,659 --> 01:08:42,579
+vous voyez, je cherche partout
+
+1399
+01:08:42,579 --> 01:08:45,180
+les honoraires
+
+1400
+01:08:45,180 --> 01:08:47,159
+ils sont où, mes services, études de marché
+
+1401
+01:08:47,159 --> 01:08:48,880
+complètes, organisation des diagnostics
+
+1402
+01:08:49,739 --> 01:08:50,739
+montage complet
+
+1403
+01:08:50,739 --> 01:08:52,619
+suivi du dossier, bravo, très bien
+
+1404
+01:08:52,619 --> 01:08:55,079
+mais où sont vos honoraires chère madame
+
+1405
+01:08:55,079 --> 01:08:56,920
+j'ai l'impression que vous ne communiquez pas très
+
+1406
+01:08:56,920 --> 01:09:01,079
+de manière très transparente là-dessus.
+
+1407
+01:09:01,500 --> 01:09:02,279
+Eh bien, il faut les trouver.
+
+1408
+01:09:02,739 --> 01:09:04,460
+Donc, on va aller chez Efficity.
+
+1409
+01:09:04,760 --> 01:09:05,779
+Parfois, il faut chercher comme ça.
+
+1410
+01:09:06,480 --> 01:09:08,100
+Il faut aller chez Efficity
+
+1411
+01:09:08,100 --> 01:09:10,380
+et puis on va chercher les honoraires.
+
+1412
+01:09:11,260 --> 01:09:11,739
+Tout simplement.
+
+1413
+01:09:13,819 --> 01:09:14,619
+Mention légale.
+
+1414
+01:09:14,760 --> 01:09:15,380
+Nos barèmes.
+
+1415
+01:09:15,520 --> 01:09:16,579
+Eh bien, disons, c'était caché.
+
+1416
+01:09:16,899 --> 01:09:20,779
+Est-ce que c'était en bas, tout en bas, nos barèmes ?
+
+1417
+01:09:20,779 --> 01:09:21,720
+Ah oui, il était là.
+
+1418
+01:09:21,880 --> 01:09:23,079
+Excusez-moi, je ne l'ai pas vu au début.
+
+1419
+01:09:23,800 --> 01:09:25,079
+Bon, ils le mettent vraiment
+
+1420
+01:09:25,079 --> 01:09:27,119
+en tout petit, petit, petit, petit, petit, petit.
+
+1421
+01:09:28,559 --> 01:09:29,239
+Et voici
+
+1422
+01:09:29,239 --> 01:09:31,359
+leur barème. Ils ont un barème
+
+1423
+01:09:31,359 --> 01:09:33,079
+simple. Barème
+
+1424
+01:09:33,079 --> 01:09:35,260
+national. Ça veut dire qu'à chaque fois que je rencontrerai un agent
+
+1425
+01:09:35,260 --> 01:09:37,220
+Efficity, je pourrai reprendre le même.
+
+1426
+01:09:37,300 --> 01:09:38,659
+Je n'aurai pas besoin de rechercher. Donc,
+
+1427
+01:09:39,059 --> 01:09:40,340
+je prends le lien ici
+
+1428
+01:09:40,340 --> 01:09:41,720
+vers le barème
+
+1429
+01:09:41,720 --> 01:09:43,659
+et je le mets
+
+1430
+01:09:43,659 --> 01:09:47,239
+là. Voici le lien vers le barème.
+
+1431
+01:09:47,600 --> 01:09:48,680
+Je vais en avoir pour
+
+1432
+01:09:48,680 --> 01:09:50,600
+besoin pour ça.
+
+1433
+01:09:51,720 --> 01:09:53,260
+Pour les grilles concurrentes.
+
+1434
+01:09:53,260 --> 01:09:55,460
+n'hésitez pas à intervenir
+
+1435
+01:09:55,460 --> 01:09:56,900
+à poser des questions sur le chat
+
+1436
+01:09:56,900 --> 01:09:59,220
+il ne faut vraiment pas hésiter
+
+1437
+01:09:59,220 --> 01:10:01,220
+vous êtes là pour ça
+
+1438
+01:10:01,220 --> 01:10:03,039
+Thierry nous a rejoint
+
+1439
+01:10:03,039 --> 01:10:03,820
+bonjour Thierry
+
+1440
+01:10:03,820 --> 01:10:05,360
+donc
+
+1441
+01:10:05,360 --> 01:10:09,000
+j'ai récupéré ici
+
+1442
+01:10:09,000 --> 01:10:11,060
+le barème d'Efficity
+
+1443
+01:10:11,060 --> 01:10:13,560
+espérons que ce soit un peu moins difficile
+
+1444
+01:10:13,560 --> 01:10:15,300
+pour Apogée Patrimoine
+
+1445
+01:10:15,300 --> 01:10:17,100
+vous avez vu qu'Efficity ils essayent quand même
+
+1446
+01:10:17,100 --> 01:10:19,320
+un peu de le
+
+1447
+01:10:19,320 --> 01:10:20,699
+cacher. Allez maintenant on va
+
+1448
+01:10:20,699 --> 01:10:23,159
+chez nos amis
+
+1449
+01:10:23,159 --> 01:10:30,000
+apogée patrimoine allons chercher leur barème normalement ça doit être sur leur fiche se
+
+1450
+01:10:30,000 --> 01:10:36,599
+loger mais parfois vous voyez ils essayent de l'essayer de les planquer c'est où c'est
+
+1451
+01:10:36,599 --> 01:10:45,420
+où tarif voilà c'est là voyez c'est ici je clique là et voici le lien vers leur zone horaire ça se
+
+1452
+01:10:45,420 --> 01:10:53,340
+charge pas à les filles ou les filles ou ils mettent une page honoraire qui est vide est
+
+1453
+01:10:53,340 --> 01:11:02,460
+ce que éventuellement c'est ailleurs investissement lmnp étudiants et banon partenaires admine cookies
+
+1454
+01:11:02,460 --> 01:11:12,119
+tout droit réservé plan du site pension légale on va voir peut-être alors vous voyez ici que
+
+1455
+01:11:12,119 --> 01:11:15,319
+qu'on ne trouve pas leurs tarifs.
+
+1456
+01:11:17,659 --> 01:11:18,859
+C'est illégal.
+
+1457
+01:11:19,979 --> 01:11:22,939
+C'est illégal, pourquoi ?
+
+1458
+01:11:22,939 --> 01:11:29,319
+La loi impose que les tarifs d'une agence immobilière,
+
+1459
+01:11:30,119 --> 01:11:31,800
+à partir du moment où on est sur une annonce,
+
+1460
+01:11:32,840 --> 01:11:36,699
+on puisse y accéder en moins de 3 clics.
+
+1461
+01:11:37,880 --> 01:11:39,180
+3 clics maximum.
+
+1462
+01:11:42,119 --> 01:11:46,119
+Et là, vous voyez que quand je clique sur tarif, les honoraires, c'est vide.
+
+1463
+01:11:46,539 --> 01:11:47,099
+Ils n'ont rien mis.
+
+1464
+01:11:47,920 --> 01:11:48,479
+C'est illégal.
+
+1465
+01:11:48,760 --> 01:11:54,779
+Alors, vous me direz, c'est comme un restaurant qui ne mettrait pas son menu à l'extérieur du restaurant.
+
+1466
+01:11:55,399 --> 01:11:56,220
+C'est illégal ?
+
+1467
+01:11:56,220 --> 01:11:56,760
+Oui, absolument.
+
+1468
+01:11:57,140 --> 01:11:57,559
+C'est illégal.
+
+1469
+01:11:57,859 --> 01:12:00,760
+S'ils se font attraper par la répression des fraudes, il va leur arriver des bricoles.
+
+1470
+01:12:01,319 --> 01:12:01,640
+Vraiment.
+
+1471
+01:12:02,319 --> 01:12:03,960
+Parce que ça, c'est très sévèrement puni.
+
+1472
+01:12:04,559 --> 01:12:07,559
+C'est très sévèrement puni, mais il y a plein d'agences immobilières qui font ça.
+
+1473
+01:12:07,560 --> 01:12:16,760
+Bon, ce qui est important, c'est est-ce que Apogée Patrimoine, ils ont beaucoup de mandats ?
+
+1474
+01:12:16,760 --> 01:12:31,400
+Alors, on peut essayer de regarder sur cette fiche là, Apogée Patrimoine, est-ce que ce loger me dit s'ils ont beaucoup de mandats ou pas ?
+
+1475
+01:12:31,399 --> 01:12:33,039
+On est ici sur leur site web.
+
+1476
+01:12:34,659 --> 01:12:37,420
+On cherche les mandats en portefeuille.
+
+1477
+01:12:40,479 --> 01:12:40,879
+Non.
+
+1478
+01:12:41,420 --> 01:12:43,139
+Apparemment, c'est l'immobilier d'investissement.
+
+1479
+01:12:43,420 --> 01:12:46,179
+Ils font des trucs étudiants, des apparts hôtels, des tourismes.
+
+1480
+01:12:46,779 --> 01:12:49,239
+Ces gens-là, on est en train de se rendre compte
+
+1481
+01:12:49,239 --> 01:12:50,639
+qu'ils ont un mandat.
+
+1482
+01:12:51,059 --> 01:12:52,239
+Ils n'en ont pas tellement plus.
+
+1483
+01:12:53,379 --> 01:12:54,599
+Il ne faut pas trop s'en inquiéter.
+
+1484
+01:12:55,539 --> 01:12:57,659
+Il ne faut pas perdre de temps avec eux.
+
+1485
+01:12:57,960 --> 01:13:00,019
+Découvrez tous nos biens sur notre vitrine Agence.
+
+1486
+01:13:00,279 --> 01:13:00,679
+Découvrir.
+
+1487
+01:13:01,399 --> 01:13:04,379
+ils ont des produits un petit peu partout en France
+
+1488
+01:13:04,379 --> 01:13:06,139
+parce que ce sont des produits d'investissement.
+
+1489
+01:13:06,399 --> 01:13:07,960
+Mais si je zoome sur Châteauroux,
+
+1490
+01:13:08,960 --> 01:13:10,559
+Châteauroux qui est par là,
+
+1491
+01:13:12,000 --> 01:13:12,579
+Vierzon,
+
+1492
+01:13:12,819 --> 01:13:14,319
+Issoudun, Châteauroux qui est là,
+
+1493
+01:13:14,399 --> 01:13:15,960
+ils ont en fait un seul mandat,
+
+1494
+01:13:16,399 --> 01:13:18,399
+vous le voyez. Donc ça veut dire que
+
+1495
+01:13:18,399 --> 01:13:18,639
+eux,
+
+1496
+01:13:20,439 --> 01:13:21,779
+je ne perds pas de temps avec eux,
+
+1497
+01:13:21,779 --> 01:13:23,779
+ils ne sont pas importants,
+
+1498
+01:13:24,619 --> 01:13:25,519
+je les mets directement,
+
+1499
+01:13:25,639 --> 01:13:27,779
+je peux les mettre en rouge.
+
+1500
+01:13:28,319 --> 01:13:29,799
+Je ne perds pas une seule seconde avec eux,
+
+1501
+01:13:29,800 --> 01:13:30,579
+Ils ont un seul mandat.
+
+1502
+01:13:31,159 --> 01:13:32,140
+Ils travaillent dans toute la France.
+
+1503
+01:13:32,260 --> 01:13:33,619
+Ils ont un mandat par-ci, un mandat par-là.
+
+1504
+01:13:33,980 --> 01:13:35,119
+Je ne m'inquiète pas d'eux.
+
+1505
+01:13:36,079 --> 01:13:37,220
+Humain Immobilier Châteauroux.
+
+1506
+01:13:37,560 --> 01:13:40,279
+On passe à des gens plus localement implantés.
+
+1507
+01:13:40,420 --> 01:13:42,079
+Alors, Humain Immobilier Châteauroux, ils sont là.
+
+1508
+01:13:42,640 --> 01:13:43,720
+Et je vais faire le même travail.
+
+1509
+01:13:43,880 --> 01:13:45,340
+Je vais chercher sa grille de tarifs.
+
+1510
+01:13:45,480 --> 01:13:46,800
+Alors, est-ce qu'elle est tout en bas ?
+
+1511
+01:13:46,800 --> 01:13:47,840
+Elle est ici, tarifs.
+
+1512
+01:13:49,800 --> 01:13:50,320
+La voilà.
+
+1513
+01:13:50,640 --> 01:13:55,039
+Bon, eux, ils me la donnent facilement.
+
+1514
+01:13:55,539 --> 01:13:56,400
+Je vais la mettre ici.
+
+1515
+01:13:58,500 --> 01:13:59,640
+Et voilà la grille de tarifs.
+
+1516
+01:13:59,800 --> 01:14:01,659
+Life Home IMO.
+
+1517
+01:14:02,760 --> 01:14:04,180
+Et ça, vous allez le faire de la même manière
+
+1518
+01:14:04,180 --> 01:14:06,060
+pour tous les autres. C'est pour ça
+
+1519
+01:14:06,060 --> 01:14:07,500
+que je vous dis que c'est un peu casse-pieds au début.
+
+1520
+01:14:08,320 --> 01:14:10,520
+C'était eux, Life Home ?
+
+1521
+01:14:10,520 --> 01:14:12,119
+C'était un petit peu compliqué. Oui, Life Home.
+
+1522
+01:14:12,300 --> 01:14:14,140
+Un peu compliqué, un peu pénible au début.
+
+1523
+01:14:14,539 --> 01:14:14,820
+Tarif.
+
+1524
+01:14:17,000 --> 01:14:18,460
+Ah, eux, il faut les enregistrer.
+
+1525
+01:14:18,820 --> 01:14:20,100
+C'est pas grave, en fait. Je peux prendre
+
+1526
+01:14:20,100 --> 01:14:22,100
+le lien ici. Regardez, je fais...
+
+1527
+01:14:22,100 --> 01:14:28,100
+Je peux pas copier le lien ici ?
+
+1528
+01:14:28,860 --> 01:14:29,500
+Bon, c'est pas grave.
+
+1529
+01:14:29,800 --> 01:14:35,579
+Je vais prendre ça et je le mets ici pour mes tarifs.
+
+1530
+01:14:37,680 --> 01:14:41,140
+Et ainsi de suite, je vais faire ça pour tout le monde,
+
+1531
+01:14:41,920 --> 01:14:43,579
+tous mes concurrents qui comptent.
+
+1532
+01:14:45,420 --> 01:14:47,539
+Regardez, si je retourne sur la grille de Guy,
+
+1533
+01:14:47,800 --> 01:14:49,500
+que je vous ai montré tout à l'heure, qui est en Bretagne,
+
+1534
+01:14:50,420 --> 01:14:52,579
+il a mis le lien pour chacun d'entre eux.
+
+1535
+01:14:55,760 --> 01:14:58,960
+Alors, je vous avouerai que pour eux là,
+
+1536
+01:14:59,800 --> 01:15:01,940
+il ne fallait peut-être pas trop qu'ils s'embêtent
+
+1537
+01:15:01,940 --> 01:15:04,640
+parce que des gens qui ont 3, 2, 1 mandat
+
+1538
+01:15:04,640 --> 01:15:06,579
+même 4 ou 5 mandats
+
+1539
+01:15:06,579 --> 01:15:10,840
+il a été rigoureux
+
+1540
+01:15:10,840 --> 01:15:12,600
+il a été scolaire, il a eu raison, c'est bien
+
+1541
+01:15:12,600 --> 01:15:14,699
+mais bon, il aurait pu économiser
+
+1542
+01:15:14,699 --> 01:15:15,779
+ce temps et cette énergie
+
+1543
+01:15:15,779 --> 01:15:18,119
+les gens qui comptent et qu'il faut surveiller, ils sont là
+
+1544
+01:15:18,119 --> 01:15:20,159
+c'est ceux qui ont des mandats
+
+1545
+01:15:20,159 --> 01:15:22,300
+ceux qui ont effectivement
+
+1546
+01:15:22,300 --> 01:15:23,520
+des mandats
+
+1547
+01:15:23,520 --> 01:15:25,039
+c'est important
+
+1548
+01:15:25,039 --> 01:15:30,380
+on va faire tout ce travail
+
+1549
+01:15:30,380 --> 01:15:32,439
+mettre toutes les grilles comme ça parce qu'en fait
+
+1550
+01:15:32,439 --> 01:15:34,460
+après ça va nous servir
+
+1551
+01:15:34,460 --> 01:15:36,579
+à savoir, et c'est ce qu'on va
+
+1552
+01:15:36,579 --> 01:15:38,579
+mettre ici dans les moyennes des grilles concurrentes
+
+1553
+01:15:39,180 --> 01:15:41,880
+qui facture quoi
+
+1554
+01:15:41,880 --> 01:15:43,920
+alors
+
+1555
+01:15:43,920 --> 01:15:48,659
+il va falloir que vous vous posiez une question
+
+1556
+01:15:48,659 --> 01:15:51,479
+est-ce que vous voulez
+
+1557
+01:15:51,479 --> 01:15:54,399
+calculer vos honoraires en
+
+1558
+01:15:55,039 --> 01:16:02,680
+pourcentage ou en euros vous avez le droit de faire l'un et
+
+1559
+01:16:02,680 --> 01:16:06,640
+ou l'autre
+
+1560
+01:16:08,100 --> 01:16:16,359
+l'un et l'autre il est parfaitement légal en france d'avoir des honoraires
+
+1561
+01:16:16,359 --> 01:16:22,800
+d'agencé immobilière en pourcentage du prix net vendeur c'est à dire la maison
+
+1562
+01:16:22,800 --> 01:16:24,640
+coûte 200 000 euros.
+
+1563
+01:16:26,220 --> 01:16:27,320
+Dans cette tranche,
+
+1564
+01:16:27,440 --> 01:16:28,220
+moi, je facture
+
+1565
+01:16:28,220 --> 01:16:30,199
+5% du net vendeur.
+
+1566
+01:16:32,440 --> 01:16:33,420
+Je travaille en pourcentage.
+
+1567
+01:16:35,560 --> 01:16:36,440
+Ou alors,
+
+1568
+01:16:37,440 --> 01:16:38,659
+je travaille en euros.
+
+1569
+01:16:39,800 --> 01:16:40,900
+La maison coûte
+
+1570
+01:16:40,900 --> 01:16:42,260
+200 000 euros.
+
+1571
+01:16:42,860 --> 01:16:44,060
+Dans cette tranche-là, je prends
+
+1572
+01:16:44,060 --> 01:16:45,900
+je vous dis n'importe quoi,
+
+1573
+01:16:46,579 --> 01:16:47,360
+9 000 euros.
+
+1574
+01:16:48,779 --> 01:16:50,539
+Je travaille en euros.
+
+1575
+01:16:52,800 --> 01:16:55,760
+et ça c'est vous qui choisissez
+
+1576
+01:16:55,760 --> 01:16:58,239
+c'est vous qui le choisissez
+
+1577
+01:16:58,239 --> 01:17:01,340
+moi je vous recommande la chose suivante
+
+1578
+01:17:01,340 --> 01:17:03,380
+si vous êtes
+
+1579
+01:17:03,380 --> 01:17:05,480
+très expérimenté dans l'immobilier
+
+1580
+01:17:05,480 --> 01:17:09,320
+si vous êtes plutôt bon
+
+1581
+01:17:09,320 --> 01:17:10,300
+avec les chiffres
+
+1582
+01:17:10,300 --> 01:17:13,480
+et que vous arrivez facilement à calculer dans votre tête
+
+1583
+01:17:13,480 --> 01:17:14,260
+les pourcentages
+
+1584
+01:17:14,260 --> 01:17:17,539
+vous pouvez envisager
+
+1585
+01:17:17,539 --> 01:17:18,659
+de travailler en pourcentage
+
+1586
+01:17:18,659 --> 01:17:20,779
+pourquoi pas, c'est vous qui décidez
+
+1587
+01:17:20,779 --> 01:17:22,960
+Maintenant
+
+1588
+01:17:22,960 --> 01:17:25,739
+Si vous êtes
+
+1589
+01:17:25,739 --> 01:17:32,179
+Plus débutant dans l'immobilier
+
+1590
+01:17:32,179 --> 01:17:34,119
+Moins expérimenté
+
+1591
+01:17:34,119 --> 01:17:35,840
+Voire pas expérimenté du tout
+
+1592
+01:17:35,840 --> 01:17:37,679
+Ou que
+
+1593
+01:17:37,679 --> 01:17:39,659
+Les maths c'est pas votre truc
+
+1594
+01:17:39,659 --> 01:17:41,439
+Moi par exemple les maths
+
+1595
+01:17:41,439 --> 01:17:42,739
+C'est pas mon truc
+
+1596
+01:17:42,739 --> 01:17:46,039
+Et bien je vous conseille dans ce cas là
+
+1597
+01:17:46,039 --> 01:17:48,119
+Plutôt de vous faciliter la vie
+
+1598
+01:17:48,119 --> 01:17:50,119
+Et de travailler sur des forfaits
+
+1599
+01:17:50,119 --> 01:17:58,279
+euros des forfaits en euros et pas des pourcentages parce que c'est plus difficile à utiliser les
+
+1600
+01:17:58,279 --> 01:18:02,779
+pourcentages il faut faire des calculs dans sa tête en permanence alors il ya des agents ils
+
+1601
+01:18:02,779 --> 01:18:09,979
+font ça à toute vitesse parce que ils sont comme ça il y en a d'autres c'est mon cas calcul des
+
+1602
+01:18:09,979 --> 01:18:16,500
+pourcentages de tête comme ça c'est pas une évidence donc dans ce cas là vous pouvez
+
+1603
+01:18:16,500 --> 01:18:26,300
+travailler plutôt en euros en forfait et vous le pouvez parce que regardez ici dans votre grille de
+
+1604
+01:18:26,300 --> 01:18:30,600
+tarifs que je vous montrais tout à l'heure alors attendez elle est où elle est là dans votre grille
+
+1605
+01:18:30,600 --> 01:18:37,880
+de tarifs qu'elle a voyez que partout ici à des pourcentages mais c'est parce que par défaut et
+
+1606
+01:18:37,880 --> 01:18:42,420
+des pourcentages mais vous pouvez mettre des sommes d'argent vous pouvez mettre des sommes
+
+1607
+01:18:42,420 --> 01:18:46,899
+d'argent est d'ailleurs regarder je vais vous en montrer alors attendez il faut que je change
+
+1608
+01:18:46,899 --> 01:18:58,260
+d'écran pour ça je vais vous montrer chez d'autres agents par exemple si je vais chez
+
+1609
+01:18:58,260 --> 01:19:04,600
+bagui puisqu'on était sur la le barème de guilla et parce que dit il a fait ça quand il est arrivé
+
+1610
+01:19:04,600 --> 01:19:10,380
+à la lucarne quand il a débuté quand il a débuté si je vais sur sa grille
+
+1611
+01:19:12,420 --> 01:19:17,500
+Voyez que Guy, pardon, excusez-moi, ça c'est sa grille à lui, il a les deux.
+
+1612
+01:19:18,800 --> 01:19:22,119
+Ici, il a décidé de travailler sur des forfaits en euros.
+
+1613
+01:19:23,539 --> 01:19:26,779
+Et là, il a décidé de travailler sur des pourcentages.
+
+1614
+01:19:28,699 --> 01:19:33,480
+Il pourrait n'avoir que des forfaits en euros, ou que des pourcentages,
+
+1615
+01:19:33,899 --> 01:19:39,859
+ou ici un forfait, ici un pourcentage, parce qu'il trouve ça plus pertinent, tout simplement.
+
+1616
+01:19:39,859 --> 01:19:57,079
+C'est vous qui choisissez par rapport à votre rapport aux chiffres, par rapport à la manière dont vous envisagez de voir tout ça.
+
+1617
+01:19:57,319 --> 01:20:03,759
+C'est vraiment à vous de voir ça, c'est vous qui décidez et personne d'autre.
+
+1618
+01:20:04,399 --> 01:20:06,199
+Ça vous permet de vous adapter.
+
+1619
+01:20:06,199 --> 01:20:22,779
+Il y a une chose qui est importante et que je ne vous ai pas encore dite, c'est que, regardez, je suis allé vous chercher un exemple. Là, c'est que des sommes d'argent. Ça, c'est Géraldine. Géraldine qui est dans la bosse, un des meilleurs vendeurs du réseau d'ailleurs, Géraldine.
+
+1620
+01:20:22,779 --> 01:20:27,380
+Géraldine, elle ne travaille, elle, que sur des forfaits
+
+1621
+01:20:27,380 --> 01:20:29,880
+parce qu'elle trouve ça plus simple, tout simplement
+
+1622
+01:20:29,880 --> 01:20:33,599
+elle trouve ça plus simple, plus simple, plus facile
+
+1623
+01:20:33,599 --> 01:20:37,000
+elle sait qu'entre 140 000 et 159 000
+
+1624
+01:20:37,000 --> 01:20:38,340
+elle est à 9 000 euros
+
+1625
+01:20:38,340 --> 01:20:41,659
+donc si la maison se vend net vendeur
+
+1626
+01:20:41,659 --> 01:20:45,579
+148 000, elle prendra 9 000 euros TTC
+
+1627
+01:20:45,579 --> 01:20:48,259
+pas de calcul compliqué, pas d'embêtement
+
+1628
+01:20:48,259 --> 01:20:51,699
+si la maison se négocie beaucoup
+
+1629
+01:20:51,699 --> 01:20:53,659
+beaucoup et que finalement elle se vend en dessous
+
+1630
+01:20:53,659 --> 01:20:55,159
+de 140 000, elle se vend à
+
+1631
+01:20:55,159 --> 01:20:57,500
+139 000, et bien
+
+1632
+01:20:57,500 --> 01:20:59,619
+elle ne prendra plus 9 000 euros, elle prendra 8 000 euros.
+
+1633
+01:21:00,019 --> 01:21:01,819
+Parce que, au fur et à mesure
+
+1634
+01:21:01,819 --> 01:21:03,079
+que le prix monte ou baisse,
+
+1635
+01:21:03,460 --> 01:21:04,939
+vos honoraires y suivent
+
+1636
+01:21:04,939 --> 01:21:07,059
+l'évolution par rapport à votre grille.
+
+1637
+01:21:07,939 --> 01:21:09,579
+Donc vous voyez, Géraldine, elle a choisi
+
+1638
+01:21:09,579 --> 01:21:11,720
+des sommes
+
+1639
+01:21:11,720 --> 01:21:13,859
+en euros, parce qu'elle trouve ça plus pratique.
+
+1640
+01:21:14,340 --> 01:21:14,760
+Tout simplement.
+
+1641
+01:21:16,260 --> 01:21:17,300
+Si vous débutez,
+
+1642
+01:21:17,460 --> 01:21:19,579
+si vous n'êtes pas à l'aise avec les chiffres, moi je
+
+1643
+01:21:19,579 --> 01:21:20,819
+vous conseille plutôt
+
+1644
+01:21:20,819 --> 01:21:22,279
+des sommes en euros.
+
+1645
+01:21:23,679 --> 01:21:24,859
+Si vous
+
+1646
+01:21:24,859 --> 01:21:28,099
+êtes plutôt
+
+1647
+01:21:28,099 --> 01:21:31,159
+fort avec les chiffres, avec les pourcentages,
+
+1648
+01:21:31,259 --> 01:21:33,139
+etc., eh bien, n'hésitez
+
+1649
+01:21:33,139 --> 01:21:35,159
+pas à
+
+1650
+01:21:35,159 --> 01:21:37,099
+avoir ça en pourcentage.
+
+1651
+01:21:37,399 --> 01:21:38,880
+Ça ne pose absolument aucun problème.
+
+1652
+01:21:40,539 --> 01:21:40,840
+Donc,
+
+1653
+01:21:42,019 --> 01:21:43,719
+comment on va s'y prendre ?
+
+1654
+01:21:43,719 --> 01:21:44,880
+Eh bien, grâce à tous les honoraires.
+
+1655
+01:21:44,880 --> 01:21:46,880
+Mais ça, on le refera, on va passer
+
+1656
+01:21:46,880 --> 01:21:48,599
+à l'étape suivante ensemble, dans d'autres
+
+1657
+01:21:48,599 --> 01:21:50,639
+visioconférences. On va vous aider pour ça.
+
+1658
+01:21:50,819 --> 01:21:51,219
+Bien sûr.
+
+1659
+01:21:52,739 --> 01:21:55,319
+Et d'ailleurs, s'il faut qu'on le fasse individuellement avec vous,
+
+1660
+01:21:55,479 --> 01:21:57,159
+on le fait individuellement avec vous.
+
+1661
+01:21:57,319 --> 01:22:00,579
+On est vraiment à votre disposition pour vous aider, pour vous guider.
+
+1662
+01:22:01,099 --> 01:22:03,299
+Il ne faut pas que vous vous retrouviez avec des trucs impossibles à faire
+
+1663
+01:22:03,299 --> 01:22:04,199
+ou vous n'en sortez pas.
+
+1664
+01:22:04,399 --> 01:22:06,079
+On est là pour vous aider.
+
+1665
+01:22:07,219 --> 01:22:11,199
+Une fois que vous avez mis toutes les grilles de vos concurrents qui comptent,
+
+1666
+01:22:11,199 --> 01:22:15,399
+parce que comme je vous le disais, ceux qui sont à peu près ici,
+
+1667
+01:22:15,539 --> 01:22:19,059
+en dessous de 5 mandats, on s'en moque un petit peu.
+
+1668
+01:22:19,159 --> 01:22:20,319
+Allez, on les met tous en rouge.
+
+1669
+01:22:20,819 --> 01:22:23,859
+comme ça, on ne va pas s'embêter avec eux.
+
+1670
+01:22:23,979 --> 01:22:24,559
+Ils ne servent à rien.
+
+1671
+01:22:25,340 --> 01:22:27,239
+Tous les gens qui sont au-dessus, par contre, on peut se dire
+
+1672
+01:22:27,239 --> 01:22:30,719
+« Ah, là, ils comptent. Il faut que je m'inquiète d'eux. »
+
+1673
+01:22:30,719 --> 01:22:32,899
+Je vais prendre les grilles tarifaires qui sont ici.
+
+1674
+01:22:33,340 --> 01:22:35,479
+Par exemple, ici, je vais chez IAD.
+
+1675
+01:22:35,679 --> 01:22:36,519
+Je copie le lien.
+
+1676
+01:22:37,939 --> 01:22:39,699
+Et je vais là.
+
+1677
+01:22:44,119 --> 01:22:47,699
+Ah tiens, ils ont un petit problème sur leur site.
+
+1678
+01:22:48,559 --> 01:22:49,739
+Bon, écoutez, ce n'est pas grave.
+
+1679
+01:22:49,739 --> 01:22:51,859
+on va faire ça ici avec Life Home Imo
+
+1680
+01:22:51,859 --> 01:22:54,059
+pas grave, on va sur leurs tarifs
+
+1681
+01:22:54,059 --> 01:22:56,000
+ah les tarifs on les
+
+1682
+01:22:56,000 --> 01:22:58,219
+enregistre ici, eux c'est vrai j'avais oublié
+
+1683
+01:22:58,219 --> 01:22:59,800
+qu'ils étaient à télécharger
+
+1684
+01:22:59,800 --> 01:23:01,819
+pas grave, on va les prendre ici
+
+1685
+01:23:01,819 --> 01:23:03,699
+voilà, ils sont là
+
+1686
+01:23:03,699 --> 01:23:06,359
+et vous voyez que
+
+1687
+01:23:06,359 --> 01:23:08,460
+Life Home Imo
+
+1688
+01:23:08,460 --> 01:23:10,179
+l'immobilier coopératif
+
+1689
+01:23:10,179 --> 01:23:10,840
+disent-ils
+
+1690
+01:23:10,840 --> 01:23:16,159
+ils ont, bah eux aussi
+
+1691
+01:23:16,159 --> 01:23:18,439
+ils ont un mandat premium, c'est pour l'exclusif
+
+1692
+01:23:18,439 --> 01:23:20,079
+et ils ont un mandat
+
+1693
+01:23:20,079 --> 01:23:21,639
+simple.
+
+1694
+01:23:22,699 --> 01:23:24,199
+Ils ont deux tarifs différents.
+
+1695
+01:23:24,399 --> 01:23:26,199
+Ce qui est bizarre, c'est qu'ils
+
+1696
+01:23:26,199 --> 01:23:28,199
+prennent moins ici que là.
+
+1697
+01:23:28,639 --> 01:23:30,479
+Ce n'est pas grave. Mandat exclusif
+
+1698
+01:23:30,479 --> 01:23:32,279
+de recherche chasseur, ça, on en
+
+1699
+01:23:32,279 --> 01:23:32,799
+parlera
+
+1700
+01:23:32,799 --> 01:23:36,279
+à une autre occasion
+
+1701
+01:23:36,279 --> 01:23:37,819
+parce que c'est un petit peu compliqué.
+
+1702
+01:23:38,079 --> 01:23:40,119
+On y viendra plus tard. On va se mettre
+
+1703
+01:23:40,119 --> 01:23:42,000
+sur leur mandat, celui
+
+1704
+01:23:42,000 --> 01:23:43,779
+qu'ils mettent en avant, c'est normal,
+
+1705
+01:23:44,799 --> 01:23:46,259
+avec leur forfait.
+
+1706
+01:23:47,159 --> 01:23:47,359
+Alors,
+
+1707
+01:23:48,439 --> 01:23:58,079
+Je vais être clair avec vous, ce sont des forfaits qui sont, ici on le voit, tout à fait normaux, les pourcentages.
+
+1708
+01:23:58,199 --> 01:24:01,460
+Par contre, ce qui est ici, c'est absurdement bas.
+
+1709
+01:24:03,319 --> 01:24:03,979
+Absurdement bas.
+
+1710
+01:24:04,979 --> 01:24:05,779
+Ça veut dire deux choses.
+
+1711
+01:24:06,500 --> 01:24:08,539
+Enfin, deux choses possibles.
+
+1712
+01:24:10,359 --> 01:24:16,460
+Soit ils trichent sur ces mandats et ils ne respectent pas cette grille.
+
+1713
+01:24:18,439 --> 01:24:20,579
+fois, ils ne prennent pas de mandat
+
+1714
+01:24:20,579 --> 01:24:23,179
+dans cette tranche-là. Pourquoi ?
+
+1715
+01:24:23,179 --> 01:24:24,460
+Parce que, ici,
+
+1716
+01:24:26,079 --> 01:24:26,439
+ici,
+
+1717
+01:24:29,059 --> 01:24:30,739
+qu'est-ce qui vous
+
+1718
+01:24:30,739 --> 01:24:32,439
+vient à l'esprit quand vous voyez forfait à
+
+1719
+01:24:32,439 --> 01:24:35,179
+2 900 euros, forfait à 3 900 euros,
+
+1720
+01:24:35,319 --> 01:24:36,819
+forfait à 4 900 euros ?
+
+1721
+01:24:36,819 --> 01:24:38,699
+Qu'est-ce qui vous vient à l'esprit ? Est-ce que quelque chose
+
+1722
+01:24:38,699 --> 01:24:40,739
+vous vient à l'esprit, d'ailleurs ?
+
+1723
+01:24:45,259 --> 01:24:47,059
+Est-ce que vous avez une idée ?
+
+1724
+01:24:47,060 --> 01:24:50,680
+Participez, n'hésitez pas à donner votre avis.
+
+1725
+01:24:51,720 --> 01:24:53,980
+Est-ce que quelque chose vous vient spontanément à l'esprit
+
+1726
+01:24:53,980 --> 01:25:01,980
+quand vous voyez forfait à 2 900 euros, forfait à 3 900 euros, forfait à 4 900 euros ?
+
+1727
+01:25:01,980 --> 01:25:02,980
+Personne n'a d'idée ?
+
+1728
+01:25:12,520 --> 01:25:15,600
+Alors déjà, comment le premium peut être moins cher que le classique,
+
+1729
+01:25:15,600 --> 01:25:17,260
+nous demande Marie et elle a tout à fait raison.
+
+1730
+01:25:17,400 --> 01:25:19,440
+C'est la première chose qui m'est venue
+
+1731
+01:25:19,440 --> 01:25:21,420
+à l'esprit. Je me demande s'ils ne se sont pas
+
+1732
+01:25:21,420 --> 01:25:23,380
+trompés, s'ils ne se sont pas emmêlés les crayons.
+
+1733
+01:25:23,560 --> 01:25:24,460
+Bon, je ne sais pas.
+
+1734
+01:25:25,480 --> 01:25:25,620
+Mais
+
+1735
+01:25:25,620 --> 01:25:29,600
+la première chose qui me vient à l'esprit
+
+1736
+01:25:29,600 --> 01:25:30,300
+moi quand je vois ça,
+
+1737
+01:25:31,420 --> 01:25:31,980
+c'est que ça
+
+1738
+01:25:31,980 --> 01:25:34,840
+c'est beaucoup trop
+
+1739
+01:25:34,840 --> 01:25:36,000
+peu cher.
+
+1740
+01:25:39,140 --> 01:25:39,600
+Pourquoi ?
+
+1741
+01:25:40,660 --> 01:25:41,620
+Quand vous faites une vente
+
+1742
+01:25:41,620 --> 01:25:43,100
+à 2 900 euros d'honoraires,
+
+1743
+01:25:43,100 --> 01:25:46,579
+et bien vous n'en vivez pas
+
+1744
+01:25:46,579 --> 01:25:48,860
+c'est aussi bête que ça
+
+1745
+01:25:48,860 --> 01:25:50,500
+vous n'en vivez pas
+
+1746
+01:25:50,500 --> 01:25:52,500
+pourquoi ?
+
+1747
+01:25:54,300 --> 01:25:55,240
+parce que
+
+1748
+01:25:55,240 --> 01:25:57,880
+dans l'immobilier en fait
+
+1749
+01:25:57,880 --> 01:26:01,500
+faire des ventes
+
+1750
+01:26:01,500 --> 01:26:04,840
+non seulement
+
+1751
+01:26:04,840 --> 01:26:07,840
+ça doit vous rémunérer
+
+1752
+01:26:07,840 --> 01:26:09,760
+c'est à dire que vous devez gagner votre vie
+
+1753
+01:26:09,760 --> 01:26:12,039
+vous devez vous sortir un salaire
+
+1754
+01:26:12,039 --> 01:26:21,979
+Mais en plus, chacune de vos ventes, elle doit payer ce que votre travail vous a coûté.
+
+1755
+01:26:22,439 --> 01:26:25,079
+Et ça, c'est extrêmement important.
+
+1756
+01:26:27,659 --> 01:26:32,420
+Quand vous avez des mandats en portefeuille, et des mandats, vous en avez combien en portefeuille ?
+
+1757
+01:26:32,420 --> 01:26:33,859
+Vous en avez entre 15 et 20.
+
+1758
+01:26:34,859 --> 01:26:37,739
+Vous avez entre 15 et 20 mandats en portefeuille.
+
+1759
+01:26:37,739 --> 01:26:44,039
+Ces 15 à 20 mandats en portefeuille, je vais vous montrer comment ça se présente.
+
+1760
+01:26:45,880 --> 01:26:58,739
+Chez quelqu'un qui est au boulot, quelqu'un qui bosse, ces 15 à 20 mandats en portefeuille, ce sont des mandats sur lesquels vous travaillez activement.
+
+1761
+01:26:59,659 --> 01:27:04,619
+On est d'accord, vous travaillez activement sur vos mandats, vous bossez.
+
+1762
+01:27:04,619 --> 01:27:07,099
+ces mandats
+
+1763
+01:27:07,099 --> 01:27:08,680
+sur lesquels je suis en train de vous sortir
+
+1764
+01:27:08,680 --> 01:27:11,059
+un exemple, on va aller voir les mandats
+
+1765
+01:27:11,059 --> 01:27:13,000
+de Guy justement qui est en Bretagne
+
+1766
+01:27:13,000 --> 01:27:14,380
+dont je vous montrais la grille il y a un instant
+
+1767
+01:27:14,380 --> 01:27:16,479
+voici son portefeuille à Guy
+
+1768
+01:27:16,479 --> 01:27:18,260
+vous voyez il a 18 mandats
+
+1769
+01:27:18,260 --> 01:27:18,939
+ils sont là
+
+1770
+01:27:18,939 --> 01:27:22,479
+les 18 mandats, c'est en haut là
+
+1771
+01:27:22,479 --> 01:27:24,340
+je ne sais pas si vous voyez, 18 mandats
+
+1772
+01:27:24,340 --> 01:27:26,699
+et vous voyez que c'est en Bretagne
+
+1773
+01:27:26,699 --> 01:27:27,819
+dans le département 35
+
+1774
+01:27:27,819 --> 01:27:32,199
+chacun de ces mandats
+
+1775
+01:27:32,199 --> 01:27:34,199
+Guy
+
+1776
+01:27:34,199 --> 01:28:04,179
+Il les a prospectés. Il est allé rentrer le mandat. Il le fait visiter régulièrement. Il y a des visites. Ça lui coûte du temps. Ça lui coûte de l'énergie. Ça lui coûte de l'argent. Vous êtes d'accord ?
+
+1777
+01:28:04,199 --> 01:28:11,639
+Alors, Guy dépense du travail et de l'argent sur chacun de ses mandats.
+
+1778
+01:28:13,439 --> 01:28:17,019
+Mais est-ce que Guy va vendre ses 18 mandats ?
+
+1779
+01:28:17,019 --> 01:28:20,760
+Bien sûr que non, il ne va pas vendre ses 18 mandats.
+
+1780
+01:28:21,260 --> 01:28:22,720
+Il va en vendre certains.
+
+1781
+01:28:24,119 --> 01:28:27,179
+Est-ce que vous savez combien on vend de mandats par rapport aux mandats qu'on vend ?
+
+1782
+01:28:27,179 --> 01:28:31,179
+Sur un portefeuille de 18 mandats, combien on en vend ?
+
+1783
+01:28:31,179 --> 01:28:34,179
+Combien on vend de mandats sur 18 mandats ?
+
+1784
+01:28:34,199 --> 01:28:38,000
+à votre avis, que vous avez une idée
+
+1785
+01:28:38,000 --> 01:28:39,960
+de manière
+
+1786
+01:28:39,960 --> 01:28:41,500
+concrète, j'ai 18 mandats,
+
+1787
+01:28:42,179 --> 01:28:43,159
+statistiquement,
+
+1788
+01:28:45,159 --> 01:28:47,340
+combien je vais en vendre ?
+
+1789
+01:28:47,340 --> 01:28:48,079
+Participez,
+
+1790
+01:28:48,139 --> 01:28:50,099
+n'hésitez pas. Alors, lancez-vous,
+
+1791
+01:28:50,319 --> 01:28:51,679
+il n'y a pas de réponse idiote,
+
+1792
+01:28:51,800 --> 01:28:53,859
+il n'y a pas de bêtise,
+
+1793
+01:28:53,939 --> 01:28:56,079
+il n'y a pas d'erreur, le but c'est que vous participiez
+
+1794
+01:28:56,079 --> 01:28:57,639
+et que vous sachiez
+
+1795
+01:28:57,639 --> 01:29:00,319
+bien entendu après la bonne réponse.
+
+1796
+01:29:00,319 --> 01:29:02,079
+Moi, je vais vous la donner, la bonne réponse.
+
+1797
+01:29:02,079 --> 01:29:15,079
+Mais selon vous, à votre avis, combien je vends de mandats, combien je vends de maisons, combien je vends de produits, quand j'en ai 18 en portefeuille ?
+
+1798
+01:29:16,140 --> 01:29:19,979
+Je vais vous donner un petit indice. Il y a deux réponses possibles.
+
+1799
+01:29:22,159 --> 01:29:22,600
+Allez-y.
+
+1800
+01:29:27,699 --> 01:29:28,600
+Lancez-vous, vraiment.
+
+1801
+01:29:28,600 --> 01:29:33,120
+Thierry nous dit je pense 3
+
+1802
+01:29:33,120 --> 01:29:39,020
+Marie nous dit 1 ou 2
+
+1803
+01:29:39,020 --> 01:29:41,980
+et bien en fait
+
+1804
+01:29:41,980 --> 01:29:44,700
+il y a une grosse différence
+
+1805
+01:29:44,700 --> 01:29:48,940
+selon que vous avez un portefeuille comme celui de
+
+1806
+01:29:48,940 --> 01:29:50,600
+Guy
+
+1807
+01:29:50,600 --> 01:29:51,820
+que nous avons là
+
+1808
+01:29:51,820 --> 01:29:57,520
+ou que vous avez un portefeuille
+
+1809
+01:29:57,520 --> 01:30:00,060
+comme, je vais vous montrer
+
+1810
+01:30:00,060 --> 01:30:01,680
+le portefeuille d'un autre agent
+
+1811
+01:30:01,680 --> 01:30:05,000
+qui est là.
+
+1812
+01:30:10,940 --> 01:30:11,340
+Sabrina.
+
+1813
+01:30:12,160 --> 01:30:13,500
+Là, il y en a moins en ce moment,
+
+1814
+01:30:13,900 --> 01:30:14,320
+bien sûr.
+
+1815
+01:30:15,680 --> 01:30:17,700
+Ou, on peut aller également chez
+
+1816
+01:30:17,700 --> 01:30:20,220
+Géraldine, dont on voyait
+
+1817
+01:30:20,220 --> 01:30:22,460
+la grille
+
+1818
+01:30:22,460 --> 01:30:23,220
+il y a un instant.
+
+1819
+01:30:25,140 --> 01:30:26,100
+Qu'est-ce que vous constatez
+
+1820
+01:30:26,100 --> 01:30:27,980
+sur le portefeuille de Géraldine par rapport
+
+1821
+01:30:27,980 --> 01:30:30,320
+au portefeuille de Guy ?
+
+1822
+01:30:30,320 --> 01:30:31,579
+Eh bien, c'est que Géraldine,
+
+1823
+01:30:32,160 --> 01:30:34,079
+vous voyez que sur quasiment...
+
+1824
+01:30:34,079 --> 01:30:36,060
+Alors, je vais zoomer un petit peu pour que vous voyez plus.
+
+1825
+01:30:36,500 --> 01:30:38,039
+Parce que là, c'est vrai que vous voyez peut-être pas très très bien.
+
+1826
+01:30:40,380 --> 01:30:41,000
+Chez Géraldine,
+
+1827
+01:30:41,600 --> 01:30:43,820
+vous voyez
+
+1828
+01:30:43,820 --> 01:30:45,620
+sur quasiment chacune de ses
+
+1829
+01:30:45,620 --> 01:30:48,260
+annonces, le mot
+
+1830
+01:30:48,260 --> 01:30:49,820
+exclusivité.
+
+1831
+01:30:50,680 --> 01:30:51,079
+Exclusivité.
+
+1832
+01:30:51,840 --> 01:30:52,240
+Exclusivité.
+
+1833
+01:30:54,160 --> 01:30:54,560
+Exclusivité.
+
+1834
+01:30:55,560 --> 01:30:55,960
+Exclusivité.
+
+1835
+01:30:56,100 --> 01:31:19,579
+Exclusivité, exclusivité, exclusivité, exclusivité, Géraldine ne travaille, je vous le disais tout à l'heure que c'était une des meilleures vendeuses du réseau, il n'y a pas de hasard, Géraldine ne travaille quasiment que des mandats exclusifs.
+
+1836
+01:31:19,579 --> 01:31:23,399
+quasiment que des mandats exclusifs.
+
+1837
+01:31:24,800 --> 01:31:27,420
+Les mandats exclusifs sont obligatoirement, d'ailleurs,
+
+1838
+01:31:28,199 --> 01:31:29,260
+des mandats premium.
+
+1839
+01:31:29,880 --> 01:31:32,000
+Je vous disais tout à l'heure, mandat premium, mandat machin,
+
+1840
+01:31:32,059 --> 01:31:36,479
+les exclusifs sont, je ne l'ai plus ici, je l'ai fermé, ce n'est pas grave,
+
+1841
+01:31:37,079 --> 01:31:38,439
+ce sont que des mandats premium.
+
+1842
+01:31:39,720 --> 01:31:42,500
+Les exclusivités ne peuvent pas être des mandats essentiels.
+
+1843
+01:31:42,500 --> 01:31:44,079
+donc
+
+1844
+01:31:44,079 --> 01:31:46,560
+Géraldine
+
+1845
+01:31:46,560 --> 01:31:48,560
+ne travaille
+
+1846
+01:31:48,560 --> 01:31:51,119
+quasiment que des mandats exclusifs
+
+1847
+01:31:51,119 --> 01:31:53,479
+un mandat exclusif
+
+1848
+01:31:53,479 --> 01:31:55,119
+c'est un mandat sur lequel je n'ai pas de concurrent
+
+1849
+01:31:55,119 --> 01:31:56,779
+je suis le seul à travailler dessus
+
+1850
+01:31:56,779 --> 01:31:59,140
+il n'y a pas en même temps
+
+1851
+01:31:59,140 --> 01:32:01,819
+IAD, Centurie 21, La Forêt
+
+1852
+01:32:01,819 --> 01:32:03,399
+qui a le même mandat
+
+1853
+01:32:03,399 --> 01:32:05,020
+et qui risque de le vendre sous mon nez demain
+
+1854
+01:32:05,020 --> 01:32:06,979
+donc je travaille
+
+1855
+01:32:06,979 --> 01:32:08,979
+mais ça se trouve je travaille pour rien
+
+1856
+01:32:08,979 --> 01:32:11,140
+qui sait
+
+1857
+01:32:12,500 --> 01:32:21,300
+Alors que Guy, qui est un petit peu plus bas, on va retourner, mais Guy, lui, travaille depuis moins longtemps, Géraldine.
+
+1858
+01:32:21,359 --> 01:32:24,800
+Géraldine, elle est extrêmement expérimentée. Guy, il est beaucoup moins.
+
+1859
+01:32:25,880 --> 01:32:33,060
+Guy, vous voyez qu'il n'y a pas écrit exclusivité dans ses mandats. Vous ne le voyez pas. Il n'y a pas écrit exclusivité.
+
+1860
+01:32:33,060 --> 01:32:40,620
+et le nombre de mandats que l'on vend
+
+1861
+01:32:40,620 --> 01:32:43,200
+dépend énormément
+
+1862
+01:32:43,200 --> 01:32:45,320
+du caractère exclusif
+
+1863
+01:32:45,320 --> 01:32:45,880
+ou non
+
+1864
+01:32:45,880 --> 01:32:48,580
+un mandat exclusif
+
+1865
+01:32:48,580 --> 01:32:51,260
+ou un mandat simple
+
+1866
+01:32:51,260 --> 01:32:52,700
+ne se vendent pas au même rythme
+
+1867
+01:32:52,700 --> 01:32:54,580
+mandat simple j'en vends 1 sur 10
+
+1868
+01:32:54,580 --> 01:32:56,760
+1 sur 10
+
+1869
+01:32:56,760 --> 01:32:59,120
+donc sur un portefeuille de 18 annonces
+
+1870
+01:32:59,120 --> 01:33:00,640
+comme ça j'en vends
+
+1871
+01:33:00,640 --> 01:33:03,300
+1 ou 2
+
+1872
+01:33:03,300 --> 01:33:05,200
+parce que voilà pour faire 1 sur 10
+
+1873
+01:33:05,200 --> 01:33:07,400
+il faudrait que j'ai 20 mandats pour en vendre 2
+
+1874
+01:33:07,400 --> 01:33:09,500
+j'en vends 1,8
+
+1875
+01:33:09,500 --> 01:33:10,560
+presque 2
+
+1876
+01:33:10,560 --> 01:33:12,800
+sur 18 annonces Guy
+
+1877
+01:33:12,800 --> 01:33:13,940
+statistiquement
+
+1878
+01:33:13,940 --> 01:33:16,740
+mais ça c'est pas propre à la lucarne de l'immobilier
+
+1879
+01:33:16,740 --> 01:33:18,280
+ça c'est dans toutes les agences immobilières
+
+1880
+01:33:18,280 --> 01:33:21,020
+vous êtes chez Centurie 21, chez La Forêt ou je sais pas quoi
+
+1881
+01:33:21,020 --> 01:33:22,160
+c'est exactement pareil
+
+1882
+01:33:22,160 --> 01:33:25,160
+donc les mandats sur 18 mandats
+
+1883
+01:33:25,160 --> 01:33:26,420
+si ils sont simples
+
+1884
+01:33:26,420 --> 01:33:29,160
+j'en vends, allez, avec du bol 2
+
+1885
+01:33:29,159 --> 01:33:31,199
+avec moins de bols, 1.
+
+1886
+01:33:34,619 --> 01:33:35,019
+Géraldine,
+
+1887
+01:33:36,439 --> 01:33:37,279
+vous savez combien elle en vend
+
+1888
+01:33:37,279 --> 01:33:39,139
+sur ses mandats exclusifs ? 2 sur 3.
+
+1889
+01:33:40,039 --> 01:33:41,779
+2 sur 3.
+
+1890
+01:33:43,159 --> 01:33:43,960
+Les deux tiers.
+
+1891
+01:33:45,460 --> 01:33:45,819
+66%.
+
+1892
+01:33:45,819 --> 01:33:48,119
+Ça veut dire que sur 6 mandats,
+
+1893
+01:33:49,039 --> 01:33:50,439
+sur 10 mandats, pardon, excusez-moi,
+
+1894
+01:33:50,439 --> 01:33:52,139
+je vous ai mis une bêtise. Sur 10 mandats,
+
+1895
+01:33:52,619 --> 01:33:53,260
+elle en vend 6.
+
+1896
+01:33:54,359 --> 01:33:56,340
+Sur 20 mandats, elle en vend
+
+1897
+01:33:56,340 --> 01:33:57,659
+12.
+
+1898
+01:33:57,659 --> 01:34:00,479
+10 sur 20 mandats, on voit qu'il en vend 2
+
+1899
+01:34:00,479 --> 01:34:05,420
+puisqu'il y a 18 annonces, des mandats simples, 1 sur 10.
+
+1900
+01:34:06,639 --> 01:34:08,739
+Imaginons qu'il ait 20 mandats, il fera 2 ventes.
+
+1901
+01:34:09,720 --> 01:34:11,899
+Géraldine, en ayant des exclusivités,
+
+1902
+01:34:12,220 --> 01:34:14,899
+si elle a 20 mandats, elle fera 12 ventes.
+
+1903
+01:34:15,760 --> 01:34:16,659
+Ce n'est plus la même chose.
+
+1904
+01:34:17,519 --> 01:34:19,000
+Mais pour la même quantité de travail,
+
+1905
+01:34:19,800 --> 01:34:21,460
+exactement la même quantité de travail,
+
+1906
+01:34:21,460 --> 01:34:25,319
+vous n'avez pas du tout le même retour derrière sur investissement.
+
+1907
+01:34:25,319 --> 01:34:28,139
+le problème c'est que Guy
+
+1908
+01:34:28,139 --> 01:34:30,699
+quand il va vendre
+
+1909
+01:34:30,699 --> 01:34:31,479
+ses deux mandats
+
+1910
+01:34:31,479 --> 01:34:34,420
+ses deux mandats
+
+1911
+01:34:34,420 --> 01:34:36,420
+pour les vendre il les aura fait visiter
+
+1912
+01:34:36,420 --> 01:34:37,979
+il aura fait des rendez-vous
+
+1913
+01:34:37,979 --> 01:34:39,319
+il aura fait des déplacements
+
+1914
+01:34:39,319 --> 01:34:41,319
+il aura dépensé de l'informatique
+
+1915
+01:34:41,319 --> 01:34:43,439
+il aura dépensé du papier
+
+1916
+01:34:43,439 --> 01:34:44,319
+des machins etc
+
+1917
+01:34:44,319 --> 01:34:47,179
+et sur ce qu'il va gagner avec ses deux mandats
+
+1918
+01:34:47,179 --> 01:34:48,619
+il devra rembourser
+
+1919
+01:34:48,619 --> 01:34:51,359
+ce que la commercialisation de ses deux mandats
+
+1920
+01:34:51,359 --> 01:34:53,179
+lui aura coûté
+
+1921
+01:34:53,180 --> 01:34:56,539
+mais il devra également rembourser
+
+1922
+01:34:56,539 --> 01:34:58,100
+ce que tous les autres mandats
+
+1923
+01:34:58,100 --> 01:34:59,320
+qu'il n'a pas vendu
+
+1924
+01:34:59,320 --> 01:35:01,780
+mais qu'il a quand même fait visiter
+
+1925
+01:35:01,780 --> 01:35:04,100
+qu'il a quand même essayé de négocier
+
+1926
+01:35:04,100 --> 01:35:06,100
+pour lesquels il a quand même fait des déplacements
+
+1927
+01:35:06,100 --> 01:35:06,920
+des machins etc
+
+1928
+01:35:06,920 --> 01:35:10,060
+il faudra qu'il paye pour les 20 mandats
+
+1929
+01:35:10,060 --> 01:35:12,200
+il en vend 2, il faudra qu'il paye pour les 20
+
+1930
+01:35:12,200 --> 01:35:17,560
+c'est la raison pour laquelle
+
+1931
+01:35:17,560 --> 01:35:19,119
+dans l'immobilier en fait
+
+1932
+01:35:19,119 --> 01:35:21,440
+quand vous faites une vente à
+
+1933
+01:35:21,439 --> 01:35:25,439
+Et je vais retourner sur la grille tarifaire de nos amis de Life Home Emo.
+
+1934
+01:35:26,339 --> 01:35:33,519
+Quand vous vendez pour 2 900 euros, déjà, il faut savoir qu'il y a la TVA qui part pour l'État.
+
+1935
+01:35:33,960 --> 01:35:37,779
+La TVA qui part pour l'État, regardez, je vais vous montrer, ce n'est pas compliqué.
+
+1936
+01:35:42,119 --> 01:35:47,119
+2 900, j'enlève la TVA, il n'y a plus que 2 400 euros.
+
+1937
+01:35:47,119 --> 01:35:51,479
+et après ces 2400 euros
+
+1938
+01:35:51,479 --> 01:35:53,319
+il y a ce que vous devez payer à votre
+
+1939
+01:35:53,319 --> 01:35:54,859
+à votre
+
+1940
+01:35:54,859 --> 01:35:57,680
+agence
+
+1941
+01:35:57,680 --> 01:35:59,439
+la part de l'agence
+
+1942
+01:35:59,439 --> 01:36:01,640
+alors chez nous, elle vous est très favorable
+
+1943
+01:36:01,640 --> 01:36:03,819
+à vous, chez eux je ne sais pas combien ça lui coûte
+
+1944
+01:36:03,819 --> 01:36:04,239
+le bonhomme
+
+1945
+01:36:04,239 --> 01:36:07,640
+et après il faudra vous sortir un salaire
+
+1946
+01:36:07,640 --> 01:36:09,619
+alors vous pourriez dire bon c'est toujours ça
+
+1947
+01:36:09,619 --> 01:36:10,420
+qui rentre en... non
+
+1948
+01:36:10,420 --> 01:36:11,840
+parce que
+
+1949
+01:36:11,840 --> 01:36:15,079
+c'est toujours ça qui rentre dans la poche
+
+1950
+01:36:15,420 --> 01:36:17,180
+Mais non, parce qu'en fait, vous serez déficitaire
+
+1951
+01:36:17,180 --> 01:36:18,359
+parce que ça ne remboursera pas.
+
+1952
+01:36:19,239 --> 01:36:20,680
+En fait, des honoraires comme ça,
+
+1953
+01:36:21,420 --> 01:36:22,859
+vous ne devez jamais les travailler
+
+1954
+01:36:22,859 --> 01:36:25,059
+parce que ça ne vous rémunère pas.
+
+1955
+01:36:26,059 --> 01:36:26,720
+Ça ne vous rémunère pas.
+
+1956
+01:36:26,800 --> 01:36:29,319
+Vous savez quel est le minimum que vous devez faire ?
+
+1957
+01:36:29,319 --> 01:36:30,920
+Est-ce que vous avez une idée ?
+
+1958
+01:36:30,920 --> 01:36:33,319
+Quels sont les honoraires minimums que vous devez faire ?
+
+1959
+01:36:34,519 --> 01:36:35,399
+Pour bien vivre.
+
+1960
+01:36:36,439 --> 01:36:37,519
+Parce que si vous venez à la lucarne,
+
+1961
+01:36:37,579 --> 01:36:38,659
+c'est que vous voulez bien vivre quand même.
+
+1962
+01:36:40,159 --> 01:36:41,380
+Sinon, vous allez ailleurs
+
+1963
+01:36:41,380 --> 01:36:42,119
+et vous vivez mal.
+
+1964
+01:36:42,760 --> 01:36:44,979
+Nous, on vous paye beaucoup. On vous paye mieux.
+
+1965
+01:36:45,079 --> 01:36:47,699
+donc sachant que nous
+
+1966
+01:36:47,699 --> 01:36:48,899
+on vous paye mieux que les autres
+
+1967
+01:36:48,899 --> 01:36:50,460
+est-ce que vous savez combien
+
+1968
+01:36:50,460 --> 01:36:52,559
+doit vous rapporter une vente
+
+1969
+01:36:52,559 --> 01:36:58,979
+et bien dans l'idéal elle doit vous rapporter
+
+1970
+01:36:58,979 --> 01:37:00,220
+12 000 euros
+
+1971
+01:37:00,220 --> 01:37:01,920
+12 000
+
+1972
+01:37:01,920 --> 01:37:06,159
+dans l'idéal
+
+1973
+01:37:06,159 --> 01:37:07,479
+c'est le minimum
+
+1974
+01:37:07,479 --> 01:37:10,159
+au pire
+
+1975
+01:37:10,159 --> 01:37:12,300
+le moins
+
+1976
+01:37:12,300 --> 01:37:13,920
+c'est 8 000
+
+1977
+01:37:14,500 --> 01:37:16,539
+8 000, en fait, vous sauvez les meubles.
+
+1978
+01:37:17,859 --> 01:37:18,420
+12 000,
+
+1979
+01:37:19,220 --> 01:37:21,579
+vous gagnez votre vie.
+
+1980
+01:37:22,819 --> 01:37:23,720
+Vous gagnez des sous.
+
+1981
+01:37:24,180 --> 01:37:24,800
+Vous êtes content.
+
+1982
+01:37:24,899 --> 01:37:27,119
+Vous dites, super, là, je gagne ma vie.
+
+1983
+01:37:27,239 --> 01:37:28,000
+Parce qu'il y aura une première vente,
+
+1984
+01:37:28,060 --> 01:37:29,000
+une deuxième vente, une troisième vente,
+
+1985
+01:37:29,039 --> 01:37:29,560
+une quatrième vente.
+
+1986
+01:37:30,039 --> 01:37:30,819
+Je dis ça en moyenne.
+
+1987
+01:37:32,760 --> 01:37:34,460
+Alors, vous pouvez dire, mais 12 000, c'est énorme.
+
+1988
+01:37:35,180 --> 01:37:35,859
+J'y arrive jamais.
+
+1989
+01:37:36,480 --> 01:37:36,699
+Non.
+
+1990
+01:37:37,699 --> 01:37:39,600
+Une vente à 12 000 ou une vente à 3 000,
+
+1991
+01:37:39,819 --> 01:37:40,619
+le travail est le même.
+
+1992
+01:37:41,020 --> 01:37:42,220
+C'est exactement la même chose.
+
+1993
+01:37:42,220 --> 01:37:51,039
+Quelle est la différence en termes de travail, en termes de complications entre vendre une maison à 3 000 euros d'honoraires, enfin 2 900, et vendre une maison à 12 000 euros d'honoraires ?
+
+1994
+01:37:51,039 --> 01:38:02,840
+Le travail est exactement le même, les clients sont les mêmes, la maison ressemble de la même manière, il y a un jardin où il n'y a pas de jardin, il y a des difficultés où il n'y a pas de difficultés.
+
+1995
+01:38:03,840 --> 01:38:08,300
+Le prix de la maison et le montant des honoraires ne changent rien à la vente.
+
+1996
+01:38:08,300 --> 01:38:12,300
+par contre le prix de la maison et le prix des honoraires
+
+1997
+01:38:12,300 --> 01:38:14,199
+changent tout par rapport à votre
+
+1998
+01:38:14,199 --> 01:38:15,680
+rémunération personnelle
+
+1999
+01:38:15,680 --> 01:38:17,840
+chez Alucard de l'immobilier
+
+2000
+01:38:17,840 --> 01:38:20,199
+on met tout en oeuvre pour vous permettre de gagner
+
+2001
+01:38:20,199 --> 01:38:22,060
+le plus d'argent possible
+
+2002
+01:38:22,060 --> 01:38:24,340
+à la fois dans les outils que nous utilisons
+
+2003
+01:38:24,340 --> 01:38:26,239
+à la fois dans les méthodes que nous utilisons
+
+2004
+01:38:26,239 --> 01:38:28,420
+à la fois dans les conseils que nous vous donnons
+
+2005
+01:38:28,420 --> 01:38:30,119
+sur votre rémunération
+
+2006
+01:38:30,119 --> 01:38:31,840
+n'allez jamais
+
+2007
+01:38:31,840 --> 01:38:34,420
+faire des ventes à 2900 euros
+
+2008
+01:38:34,420 --> 01:38:36,119
+parce qu'en fait
+
+2009
+01:38:36,119 --> 01:38:38,420
+c'est comme travailler à perte
+
+2010
+01:38:38,420 --> 01:38:40,460
+c'est comme si vous travaillez pour le vendeur
+
+2011
+01:38:40,460 --> 01:38:42,500
+vous lui rendez service mais vous, vous ne gagnez pas de sous
+
+2012
+01:38:42,500 --> 01:38:45,439
+alors
+
+2013
+01:38:45,439 --> 01:38:48,519
+le principe, mais ça on va y revenir plein de fois
+
+2014
+01:38:48,519 --> 01:38:50,739
+soyez tranquille, on va y revenir sur de très
+
+2015
+01:38:50,739 --> 01:38:52,220
+nombreuses visioconférences
+
+2016
+01:38:52,220 --> 01:38:54,260
+donc je vous disais
+
+2017
+01:38:54,260 --> 01:38:57,140
+si on retourne
+
+2018
+01:38:57,140 --> 01:38:58,859
+sur le fichier
+
+2019
+01:38:58,859 --> 01:39:00,279
+Excel de Guy
+
+2020
+01:39:00,279 --> 01:39:02,819
+on prend ici
+
+2021
+01:39:02,819 --> 01:39:04,920
+les honoraires de chacun
+
+2022
+01:39:04,920 --> 01:39:07,579
+comme on a là, et ensuite
+
+2023
+01:39:07,579 --> 01:39:09,060
+on va les reporter dans
+
+2024
+01:39:09,060 --> 01:39:11,440
+l'onglet numéro 2
+
+2025
+01:39:11,440 --> 01:39:13,579
+moyenne des grilles concurrentes.
+
+2026
+01:39:15,539 --> 01:39:17,079
+Moyenne des grilles concurrentes.
+
+2027
+01:39:18,159 --> 01:39:18,420
+Et
+
+2028
+01:39:18,420 --> 01:39:20,859
+on les insère ici.
+
+2029
+01:39:22,420 --> 01:39:23,359
+Alors ici, c'est en
+
+2030
+01:39:23,359 --> 01:39:25,619
+pourcentage, lorsque
+
+2031
+01:39:25,619 --> 01:39:27,739
+vous avez un concurrent qui travaille en pourcentage.
+
+2032
+01:39:28,460 --> 01:39:29,699
+Et ici, c'est
+
+2033
+01:39:29,699 --> 01:39:31,119
+en euros,
+
+2034
+01:39:31,720 --> 01:39:33,760
+lorsque vous avez un concurrent qui travaille en
+
+2035
+01:39:33,760 --> 01:39:35,940
+Neuro, il y a les deux.
+
+2036
+01:39:36,940 --> 01:39:37,960
+Et on a mis ici
+
+2037
+01:39:37,960 --> 01:39:40,020
+un petit quelque chose
+
+2038
+01:39:40,020 --> 01:39:42,280
+qui vous permet de les calculer.
+
+2039
+01:39:43,300 --> 01:39:44,100
+Alors, vous êtes
+
+2040
+01:39:44,100 --> 01:39:46,039
+attentifs ?
+
+2041
+01:39:46,039 --> 01:39:47,980
+Bien entendu, s'il y a un
+
+2042
+01:39:47,980 --> 01:39:49,980
+souci, l'animation sera là pour vous
+
+2043
+01:39:49,980 --> 01:39:50,619
+aider.
+
+2044
+01:39:52,280 --> 01:39:53,720
+Comment je m'y prends ?
+
+2045
+01:39:53,720 --> 01:39:55,560
+Je retourne sur le truc
+
+2046
+01:39:55,560 --> 01:39:57,100
+vierge qui est ici
+
+2047
+01:39:57,100 --> 01:39:59,680
+et je prends mon barème
+
+2048
+01:39:59,680 --> 01:40:01,720
+qui est là, de
+
+2049
+01:40:01,720 --> 01:40:04,460
+Life Home IMO, même si moi je pense
+
+2050
+01:40:04,460 --> 01:40:05,659
+que c'est un très mauvais barème
+
+2051
+01:40:05,659 --> 01:40:07,840
+c'est pas grave, il s'agit de donner un exemple
+
+2052
+01:40:07,840 --> 01:40:12,619
+si vous choisissez de travailler
+
+2053
+01:40:12,619 --> 01:40:13,780
+en euros
+
+2054
+01:40:13,780 --> 01:40:16,260
+vous n'allez vous intéresser ici
+
+2055
+01:40:16,260 --> 01:40:17,079
+qu'à la grille
+
+2056
+01:40:17,079 --> 01:40:19,980
+euros
+
+2057
+01:40:19,980 --> 01:40:22,020
+sommes forfaitaires en euros
+
+2058
+01:40:22,020 --> 01:40:24,900
+si vous voulez travailler en pourcentage
+
+2059
+01:40:24,900 --> 01:40:26,860
+vous n'allez vous intéresser
+
+2060
+01:40:26,860 --> 01:40:27,440
+qu'à la grille
+
+2061
+01:40:27,440 --> 01:40:29,220
+pourcentage
+
+2062
+01:40:29,220 --> 01:40:31,900
+ok, c'est tout bête ça
+
+2063
+01:40:31,900 --> 01:40:33,320
+moi je vous l'ai dit
+
+2064
+01:40:33,320 --> 01:40:35,300
+je vous recommande
+
+2065
+01:40:35,300 --> 01:40:38,280
+si vous débutez, si vous n'êtes pas particulièrement
+
+2066
+01:40:38,280 --> 01:40:39,220
+à l'aise avec les chiffres
+
+2067
+01:40:39,220 --> 01:40:41,900
+de travailler sur des sommes forfaitaires
+
+2068
+01:40:41,900 --> 01:40:43,140
+en euros
+
+2069
+01:40:43,140 --> 01:40:46,039
+vous pourrez changer plus tard
+
+2070
+01:40:46,039 --> 01:40:47,780
+ce que je vous disais tout à l'heure
+
+2071
+01:40:47,780 --> 01:40:49,260
+c'est que cette grille forfaitaire
+
+2072
+01:40:49,260 --> 01:40:50,820
+cette grille parifère
+
+2073
+01:40:50,820 --> 01:40:52,820
+vous pouvez la modifier tous les ans
+
+2074
+01:40:52,820 --> 01:40:55,920
+vous pouvez la modifier tous les ans
+
+2075
+01:40:55,920 --> 01:40:57,180
+la première semaine de janvier
+
+2076
+01:40:57,780 --> 01:40:58,900
+La première semaine de janvier,
+
+2077
+01:40:59,159 --> 01:41:01,140
+tous les agents du réseau peuvent modifier leur grille
+
+2078
+01:41:01,140 --> 01:41:01,800
+comme ils le veulent.
+
+2079
+01:41:02,020 --> 01:41:02,760
+Alors, ils ne sont pas obligés.
+
+2080
+01:41:04,200 --> 01:41:05,240
+La plupart des agents disent
+
+2081
+01:41:05,240 --> 01:41:07,079
+« Non, moi j'ai ma grille, c'est bon, je suis OK,
+
+2082
+01:41:07,180 --> 01:41:07,960
+je n'ai pas besoin de la changer,
+
+2083
+01:41:08,079 --> 01:41:10,600
+je l'ai fait une fois et tout va bien, elle me convient. »
+
+2084
+01:41:10,600 --> 01:41:11,720
+Et puis, il y a d'autres agents qui disent
+
+2085
+01:41:11,720 --> 01:41:14,800
+« Je m'aperçois que tel point, tel point,
+
+2086
+01:41:14,860 --> 01:41:17,480
+je peux l'améliorer, donc je demande à modifier. »
+
+2087
+01:41:17,480 --> 01:41:19,440
+Et chaque année, la première semaine de janvier,
+
+2088
+01:41:19,820 --> 01:41:21,159
+tous les agents du réseau peuvent,
+
+2089
+01:41:21,440 --> 01:41:23,900
+s'ils le souhaitent, modifier leur grille.
+
+2090
+01:41:24,820 --> 01:41:26,780
+Alors, modifier juste un ou deux détails
+
+2091
+01:41:26,779 --> 01:41:28,939
+ou tout changer, c'est comme ils veulent.
+
+2092
+01:41:30,599 --> 01:41:31,139
+En tout cas,
+
+2093
+01:41:31,399 --> 01:41:32,719
+moi, je vous recommande vivement
+
+2094
+01:41:32,719 --> 01:41:35,679
+si vous démarrez, de partir sur des forfaits
+
+2095
+01:41:35,679 --> 01:41:36,099
+en euros.
+
+2096
+01:41:37,359 --> 01:41:39,179
+Et comment je fais si je pars sur des forfaits
+
+2097
+01:41:39,179 --> 01:41:41,000
+en euros ? Alors, c'est pareil au-dessus en pourcentage,
+
+2098
+01:41:41,079 --> 01:41:42,340
+mais sur mes forfaits en euros.
+
+2099
+01:41:44,119 --> 01:41:45,079
+Eh bien, je vais prendre
+
+2100
+01:41:45,079 --> 01:41:47,359
+mon concurrent numéro 1, qui s'appelle
+
+2101
+01:41:47,359 --> 01:41:50,659
+Life Home IMO.
+
+2102
+01:41:51,019 --> 01:41:52,539
+Donc, je copie Life Home IMO,
+
+2103
+01:41:52,800 --> 01:41:54,279
+et je vais le mettre ici, collé.
+
+2104
+01:41:54,659 --> 01:41:56,759
+Life Home IMO. Vous voyez, je l'ai mis ici.
+
+2105
+01:41:56,779 --> 01:42:10,639
+et je vais remplir ici par rapport à son barème alors de 0 à 19 1999 lui il est où
+
+2106
+01:42:10,639 --> 01:42:13,599
+et ben il est dans un forfait à 2900 euros dont je mets ici
+
+2107
+01:42:13,600 --> 01:42:28,180
+2900 et voilà ensuite de vingt mille à trente neuf mille euros il est à
+
+2108
+01:42:28,180 --> 01:42:37,240
+ici il est toujours 3900 de 25000 donc de vingt mille parce que j'essaye de faire
+
+2109
+01:42:37,240 --> 01:42:40,400
+correspondre ma grille à la sienne donc de vingt mille à trente neuf mille et
+
+2110
+01:42:40,399 --> 01:42:45,599
+il est dans cette grille ici, là, il est dans un forfait à 4900 euros.
+
+2111
+01:42:45,799 --> 01:42:52,639
+Je mets ici 4900, hop là, tout simple, vous allez voir, tout bête, tout bête, tout bête, tout bête, tout bête.
+
+2112
+01:42:53,739 --> 01:43:02,579
+Ensuite, au-dessus de 50000 euros, donc moi j'ai ici ma grille de 40 à 49000,
+
+2113
+01:43:02,719 --> 01:43:06,159
+c'est aussi 4900, vous voyez, parce que 4900 pour lui ça va jusqu'à 50000,
+
+2114
+01:43:06,699 --> 01:43:08,639
+Donc, moi, ça va jusqu'à 49 099.
+
+2115
+01:43:08,920 --> 01:43:10,720
+Donc, ici aussi, je mets 4900 euros.
+
+2116
+01:43:11,000 --> 01:43:11,399
+Pas de problème.
+
+2117
+01:43:11,880 --> 01:43:13,639
+Par contre, après, je vois qu'il a des pourcentages.
+
+2118
+01:43:14,479 --> 01:43:17,220
+De 50 000 à 100 000 euros, c'est 10 %.
+
+2119
+01:43:17,220 --> 01:43:20,880
+Donc, ici, là, là, je vais devoir mettre 10 %.
+
+2120
+01:43:20,880 --> 01:43:23,159
+Vous êtes d'accord ?
+
+2121
+01:43:23,159 --> 01:43:26,619
+Mais, lui, il a des pourcents et moi, je veux des euros.
+
+2122
+01:43:27,239 --> 01:43:30,039
+C'est pour ça qu'on vous a mis une petite calculette interactive là-haut.
+
+2123
+01:43:31,019 --> 01:43:31,680
+Tout simplement.
+
+2124
+01:43:32,739 --> 01:43:35,059
+Ici, ma petite calculette interactive.
+
+2125
+01:43:35,920 --> 01:43:41,700
+Imaginons que je mette, c'est quoi, c'est 10% qu'il a mis ici, le monsieur ?
+
+2126
+01:43:41,700 --> 01:43:43,620
+9%, excusez-moi, 9%.
+
+2127
+01:43:43,620 --> 01:43:45,500
+Il a mis 9%.
+
+2128
+01:43:45,500 --> 01:43:52,400
+Eh bien, je vais ici mettre 9%, 9, et ça va me calculer les honoraires.
+
+2129
+01:43:52,620 --> 01:43:54,480
+Alors, c'est pour un net vendeur de 170 000.
+
+2130
+01:43:54,580 --> 01:44:00,820
+Ici, on est dans un net vendeur entre 50 000 et 59 999, c'est-à-dire, je fais une moyenne tout simplement,
+
+2131
+01:44:00,819 --> 01:44:06,819
+Entre 50 000 et 59 999, la moyenne est à 55 000, vous êtes d'accord ?
+
+2132
+01:44:07,639 --> 01:44:13,319
+La moyenne entre les deux, entre 50 000 et 59 999, c'est 55 000.
+
+2133
+01:44:13,759 --> 01:44:19,819
+Donc, je mets ici 55 000 de net vendeur, 9 % d'honoraires, c'est 4 950.
+
+2134
+01:44:20,739 --> 01:44:25,819
+Donc, je sais qu'ici, je dois mettre 4 950 euros.
+
+2135
+01:44:25,819 --> 01:44:32,559
+Ensuite, de 60 000 à 79 999, je prends la moyenne tout simplement.
+
+2136
+01:44:32,719 --> 01:44:36,460
+C'est quoi la moyenne ? C'est 70 000.
+
+2137
+01:44:38,639 --> 01:44:42,179
+Entre 60 000 et 79 999, c'est-à-dire 80 000.
+
+2138
+01:44:42,939 --> 01:44:43,719
+70 000.
+
+2139
+01:44:44,279 --> 01:44:47,359
+Donc ici, je mets 70 000 et il est toujours à 9 %.
+
+2140
+01:44:47,359 --> 01:44:51,759
+C'est 6 300 €.
+
+2141
+01:44:51,760 --> 01:44:57,460
+Donc, je sais qu'ici, mon concurrent Life Home IMO, il est à 6 300 euros.
+
+2142
+01:44:59,239 --> 01:45:07,900
+Ensuite, de 80 000 à 99 999, alors il est toujours à 9 %, oui, il est toujours à 9 %, en effet.
+
+2143
+01:45:08,560 --> 01:45:12,619
+Donc, de 80 000 à 99 999, ma moyenne, c'est quoi ?
+
+2144
+01:45:12,619 --> 01:45:14,619
+Entre les deux, c'est 90 000 euros.
+
+2145
+01:45:15,480 --> 01:45:19,920
+Donc, 90 000 euros, je reprends ma petite calculatrice interactive.
+
+2146
+01:45:21,760 --> 01:45:29,380
+C'est 8100 euros et donc ici, je mets 8100 euros et ainsi de suite.
+
+2147
+01:45:29,380 --> 01:45:35,720
+Par la suite, mon ami, il passe de 101 000 à 200 000 à 8%.
+
+2148
+01:45:35,720 --> 01:45:43,420
+Donc, dans cette tranche qui est là, je vais mettre non plus 9% mais 8%.
+
+2149
+01:45:43,420 --> 01:45:48,320
+Entre 100 000 et 119 000, la moyenne est à 110 000.
+
+2150
+01:45:48,319 --> 01:45:50,920
+Donc ici, je mets mon net vendeur à 110 000.
+
+2151
+01:45:52,460 --> 01:45:55,539
+Et le pourcentage ici, il passe à 8 %.
+
+2152
+01:45:55,539 --> 01:45:58,920
+8 800 euros.
+
+2153
+01:46:01,239 --> 01:46:03,380
+8 800 euros.
+
+2154
+01:46:04,199 --> 01:46:05,059
+Et ainsi de suite.
+
+2155
+01:46:05,279 --> 01:46:10,899
+Ça me permet de remplir toute ma grille avec tous mes concurrents.
+
+2156
+01:46:10,979 --> 01:46:12,759
+Alors, on n'est pas obligé d'aller jusqu'à 20, vous voyez.
+
+2157
+01:46:13,279 --> 01:46:14,420
+On va en prendre un autre.
+
+2158
+01:46:15,420 --> 01:46:16,460
+On va en prendre un autre.
+
+2159
+01:46:16,460 --> 01:46:19,359
+Alors, imaginons qu'on aille chez Humane Immobilier.
+
+2160
+01:46:20,880 --> 01:46:25,819
+Je vais chercher la grille d'un horaire de Humane Immobilier.
+
+2161
+01:46:26,699 --> 01:46:29,079
+Et on va faire exactement le même travail.
+
+2162
+01:46:29,720 --> 01:46:30,079
+Regardez.
+
+2163
+01:46:32,579 --> 01:46:35,720
+Alors lui, on voit qu'il a une grille qui est très similaire à la nôtre.
+
+2164
+01:46:36,000 --> 01:46:37,720
+Il a à peu près les mêmes tranches.
+
+2165
+01:46:37,800 --> 01:46:38,300
+Pas tout à fait.
+
+2166
+01:46:38,760 --> 01:46:39,659
+On va faire la même chose.
+
+2167
+01:46:40,180 --> 01:46:43,480
+Alors, de 0 à 49 999 euros, il a 5000 euros.
+
+2168
+01:46:44,079 --> 01:46:44,399
+CTC.
+
+2169
+01:46:44,399 --> 01:46:50,639
+donc je vais dans la moyenne grille concurrente je mets ici human immobilier
+
+2170
+01:46:58,639 --> 01:47:05,879
+ici donc il a 5000 euros la deuxième tranche il a aussi 5000 euros puisque c'est jusqu'à
+
+2171
+01:47:05,880 --> 01:47:15,880
+50 mille euros et ici 5000 euros voilà j'en ai déjà fait 3 voyez ici j'en ai fait 3 ensuite de
+
+2172
+01:47:15,880 --> 01:47:28,440
+50000 à 59 1999 il a 12% n'est pas écouté pas compliqué 50000 à 59 1999 il a 12% la moyenne
+
+2173
+01:47:28,439 --> 01:47:34,439
+Entre 50 000 et 59 999, c'est 55 000, comme tout à l'heure, vous vous souvenez.
+
+2174
+01:47:35,199 --> 01:47:43,779
+Donc ici, je prends 55 000 et il met 12 %, il est gourmand lui, 6 600 euros.
+
+2175
+01:47:44,719 --> 01:47:48,219
+J'arrive donc ici à 6 600 euros.
+
+2176
+01:47:48,979 --> 01:47:56,460
+Ensuite, tranche supplémentaire de 60 000 à 69 999, 11,3.
+
+2177
+01:47:56,460 --> 01:48:00,060
+60 000 à 69 999
+
+2178
+01:48:00,060 --> 01:48:01,819
+donc 60 000
+
+2179
+01:48:01,819 --> 01:48:03,800
+à, alors lui, ici nous on va
+
+2180
+01:48:03,800 --> 01:48:05,560
+jusqu'à 79 000 mais c'est pas grave
+
+2181
+01:48:05,560 --> 01:48:07,760
+on s'adapte, quelle est notre moyenne
+
+2182
+01:48:07,760 --> 01:48:09,640
+ici c'est 70 000
+
+2183
+01:48:09,640 --> 01:48:11,480
+il est à
+
+2184
+01:48:11,480 --> 01:48:13,480
+11,3
+
+2185
+01:48:13,480 --> 01:48:15,300
+pardon, excusez-moi, donc ici
+
+2186
+01:48:15,300 --> 01:48:16,220
+70 000
+
+2187
+01:48:16,220 --> 01:48:19,619
+11,3
+
+2188
+01:48:19,619 --> 01:48:21,579
+7 910
+
+2189
+01:48:21,579 --> 01:48:23,760
+7 910
+
+2190
+01:48:23,760 --> 01:48:24,680
+910.
+
+2191
+01:48:27,720 --> 01:48:37,760
+Ensuite, 80 000 à 99 999, lui, il est à combien ?
+
+2192
+01:48:43,300 --> 01:48:46,820
+Il est à 10,6 %.
+
+2193
+01:48:46,820 --> 01:48:52,220
+Eh bien, je vais prendre ma moyenne ici, c'est 70 000.
+
+2194
+01:48:53,760 --> 01:49:17,880
+C'est pas 70 000, excusez-moi, je vous dis une bêtise, c'est 95 000, 90 000, voilà, pardon, 90 000, 90 000, et lui, son pourcentage, on l'a dit, c'est 10,6%, 10,6, ça fait 9 540, 9 540, et ainsi de suite.
+
+2195
+01:49:17,880 --> 01:49:19,940
+alors je remplis tout jusqu'au bout
+
+2196
+01:49:19,940 --> 01:49:23,659
+et je vais arriver au bout
+
+2197
+01:49:23,659 --> 01:49:25,460
+à une grille exactement comme notre
+
+2198
+01:49:25,460 --> 01:49:26,440
+alors Guy lui
+
+2199
+01:49:26,440 --> 01:49:29,319
+il hésitait entre pourcentage
+
+2200
+01:49:29,319 --> 01:49:31,619
+et euros, il voulait faire un panachage
+
+2201
+01:49:31,619 --> 01:49:32,779
+donc il a fait les deux grilles
+
+2202
+01:49:32,779 --> 01:49:34,720
+moi je vous recommande de ne pas faire ça
+
+2203
+01:49:34,720 --> 01:49:37,699
+Guy a été particulièrement travailleur
+
+2204
+01:49:37,699 --> 01:49:40,079
+sur ce coup là, mais c'est pas nécessaire
+
+2205
+01:49:40,079 --> 01:49:41,600
+moi je vous conseille
+
+2206
+01:49:41,600 --> 01:49:42,819
+de vous arrêter à
+
+2207
+01:49:42,819 --> 01:49:44,960
+l'une des deux grilles
+
+2208
+01:49:44,960 --> 01:49:47,640
+et puis je pense que vous avez compris que mon conseil
+
+2209
+01:49:47,640 --> 01:49:48,220
+numéro 1.
+
+2210
+01:49:49,800 --> 01:49:51,780
+Mettez-vous sur une somme forfaitaire en euros.
+
+2211
+01:49:52,840 --> 01:49:53,960
+C'est beaucoup plus simple.
+
+2212
+01:49:55,220 --> 01:49:55,740
+C'est beaucoup,
+
+2213
+01:49:55,920 --> 01:49:56,860
+beaucoup, beaucoup plus simple.
+
+2214
+01:49:58,140 --> 01:49:59,619
+Mettez-vous sur une somme forfaitaire en euros.
+
+2215
+01:49:59,720 --> 01:50:01,280
+C'est vraiment le conseil que je
+
+2216
+01:50:01,280 --> 01:50:03,320
+vous donne. Donc,
+
+2217
+01:50:03,920 --> 01:50:04,539
+mes chers amis,
+
+2218
+01:50:08,240 --> 01:50:09,940
+vous devez arriver, en fait,
+
+2219
+01:50:10,400 --> 01:50:11,039
+à une grille
+
+2220
+01:50:11,039 --> 01:50:13,700
+bien remplie comme celle-là.
+
+2221
+01:50:13,699 --> 01:50:18,059
+Cette grille bien remplie comme celle-là
+
+2222
+01:50:18,059 --> 01:50:20,059
+Quand vous avez fait tout ça
+
+2223
+01:50:20,059 --> 01:50:23,220
+Elle va vous permettre à la fin
+
+2224
+01:50:23,220 --> 01:50:25,059
+D'avoir tous vos concurrents
+
+2225
+01:50:25,059 --> 01:50:26,739
+Le 1, le 2, le 3, le 4
+
+2226
+01:50:26,739 --> 01:50:29,039
+Là il a pas remis les noms parce qu'il les avait mis au-dessus
+
+2227
+01:50:29,039 --> 01:50:31,639
+IAD, BLO, SAFTI, SYN, PROP, OPTIMO
+
+2228
+01:50:31,639 --> 01:50:33,779
+MORPI, AJP, etc
+
+2229
+01:50:33,779 --> 01:50:35,279
+Donc il les a pas remis ici
+
+2230
+01:50:35,279 --> 01:50:36,880
+Mais il aurait pu, pas grave
+
+2231
+01:50:36,880 --> 01:50:39,279
+Ça veut dire que vous aurez un truc
+
+2232
+01:50:39,279 --> 01:50:41,420
+Entièrement rempli ici
+
+2233
+01:50:41,420 --> 01:50:43,399
+Quand vous voyez valeur ici c'est qu'il y a une petite erreur
+
+2234
+01:50:43,399 --> 01:50:44,659
+de calcul, simplement.
+
+2235
+01:50:45,239 --> 01:50:47,539
+Parce que j'ai dû modifier le fichier sans m'en apercevoir
+
+2236
+01:50:47,539 --> 01:50:49,279
+depuis. Mais imaginons qu'ici,
+
+2237
+01:50:49,439 --> 01:50:51,319
+il y ait une vraie somme d'argent qui n'est pas
+
+2238
+01:50:51,319 --> 01:50:51,879
+ce truc valeur.
+
+2239
+01:50:53,399 --> 01:50:55,439
+Donc, on aura tout ça. On aura tout le monde.
+
+2240
+01:50:56,799 --> 01:50:57,659
+Et ça vous permettra
+
+2241
+01:50:57,659 --> 01:50:59,179
+quoi ?
+
+2242
+01:50:59,179 --> 01:51:01,659
+Ça vous permettra, ici, de calculer
+
+2243
+01:51:01,659 --> 01:51:03,139
+des moyennes.
+
+2244
+01:51:04,199 --> 01:51:04,839
+Des moyennes.
+
+2245
+01:51:05,519 --> 01:51:07,399
+On aura la moyenne. On saura que...
+
+2246
+01:51:08,059 --> 01:51:09,619
+Mais ça, on le fera dans une deuxième étape
+
+2247
+01:51:09,619 --> 01:51:10,119
+ensemble.
+
+2248
+01:51:10,839 --> 01:51:12,159
+On saura que dans
+
+2249
+01:51:12,159 --> 01:51:14,840
+cette tranche-là, par exemple,
+
+2250
+01:51:14,960 --> 01:51:16,139
+160 000, je vais la mettre
+
+2251
+01:51:16,139 --> 01:51:18,479
+en vert pour que vous puissiez
+
+2252
+01:51:18,479 --> 01:51:20,439
+bien la voir.
+
+2253
+01:51:21,739 --> 01:51:22,039
+Voilà.
+
+2254
+01:51:24,279 --> 01:51:25,019
+Dans ma grille,
+
+2255
+01:51:25,139 --> 01:51:25,979
+160 000.
+
+2256
+01:51:26,880 --> 01:51:28,960
+Mon concurrent numéro 1, il fait 11 900.
+
+2257
+01:51:29,119 --> 01:51:31,279
+Mon concurrent numéro 2, il fait 9 860.
+
+2258
+01:51:31,420 --> 01:51:32,680
+Mon concurrent numéro 3, il fait
+
+2259
+01:51:32,680 --> 01:51:34,800
+12 750. Mon concurrent
+
+2260
+01:51:34,800 --> 01:51:36,319
+numéro 4, il fait 11 900.
+
+2261
+01:51:36,460 --> 01:51:38,460
+Mon concurrent numéro 5, il fait 6 700.
+
+2262
+01:51:39,399 --> 01:51:40,819
+Il est un peu dans les choux, lui, par rapport
+
+2263
+01:51:40,819 --> 01:51:41,619
+à ses copains, vous voyez.
+
+2264
+01:51:42,159 --> 01:51:45,079
+et donc ça donne une moyenne
+
+2265
+01:51:45,079 --> 01:51:47,539
+si je fais la moyenne
+
+2266
+01:51:47,539 --> 01:51:48,539
+de tout le monde
+
+2267
+01:51:48,539 --> 01:51:50,559
+c'est 9520
+
+2268
+01:51:50,559 --> 01:51:53,559
+donc je sais deux choses
+
+2269
+01:51:53,559 --> 01:51:55,880
+qui me seront extrêmement précieuses
+
+2270
+01:51:55,880 --> 01:51:57,920
+lors de mes rendez-vous de mandat
+
+2271
+01:51:57,920 --> 01:52:01,500
+premièrement dans mon secteur
+
+2272
+01:52:01,500 --> 01:52:03,039
+dans cette tranche là
+
+2273
+01:52:03,039 --> 01:52:05,720
+la moyenne de tous mes concurrents
+
+2274
+01:52:05,720 --> 01:52:07,720
+qui comptent, ceux qui comptent pas on s'en moque
+
+2275
+01:52:07,720 --> 01:52:08,359
+c'est pas grave
+
+2276
+01:52:08,359 --> 01:52:10,519
+tous mes concurrents qui comptent
+
+2277
+01:52:10,520 --> 01:52:15,600
+Ceux en concurrence desquels je suis mis quotidiennement, c'est 9520.
+
+2278
+01:52:16,920 --> 01:52:34,060
+Et après, je peux aller regarder dans le détail et me dire que BSK, précisément, il est à 10386.
+
+2279
+01:52:34,060 --> 01:52:41,060
+Il n'est pas à 11 000, il n'est pas à 8 000, il n'est pas à 4 000, il n'est pas à 2 000, il est à 10 386.
+
+2280
+01:52:42,000 --> 01:52:42,900
+C'est ça son tarif.
+
+2281
+01:52:45,900 --> 01:52:51,200
+Ce sera, on l'étudiera par la suite, une information capitale.
+
+2282
+01:52:51,760 --> 01:52:53,420
+Ca-pi-tal.
+
+2283
+01:52:56,100 --> 01:52:59,880
+Et ça va me permettre, moi, de définir mon positionnement.
+
+2284
+01:53:00,720 --> 01:53:02,500
+Mais ça, on y reviendra la fois prochaine
+
+2285
+01:53:02,500 --> 01:53:04,140
+quand vous aurez fait
+
+2286
+01:53:04,140 --> 01:53:05,779
+ce travail-là.
+
+2287
+01:53:06,039 --> 01:53:08,260
+Parce qu'en fait, là, vous avez des devoirs.
+
+2288
+01:53:08,260 --> 01:53:10,119
+Et les devoirs que vous avez à faire, mes chers amis,
+
+2289
+01:53:10,940 --> 01:53:12,480
+c'est de remplir, premièrement,
+
+2290
+01:53:12,920 --> 01:53:14,260
+la liste des concurrents,
+
+2291
+01:53:15,260 --> 01:53:15,600
+qui est là.
+
+2292
+01:53:17,279 --> 01:53:17,640
+Deuxièmement,
+
+2293
+01:53:18,500 --> 01:53:20,359
+les moyennes. Et moi, je vous
+
+2294
+01:53:20,359 --> 01:53:22,539
+recommande, mais vivement,
+
+2295
+01:53:22,640 --> 01:53:23,020
+les amis,
+
+2296
+01:53:24,199 --> 01:53:26,260
+de ne faire que les sommes forfaitaires en euros.
+
+2297
+01:53:28,119 --> 01:53:28,480
+Vraiment,
+
+2298
+01:53:28,579 --> 01:53:29,560
+c'est un conseil que je vous donne.
+
+2299
+01:53:29,880 --> 01:53:45,760
+Ne faites que les sommes forfaitaires en euros, n'allez pas vous embêter avec les pourcentages pour l'instant. Dans un an, dans deux ans, dans trois ans, peut-être, pour l'instant, allez au plus simple, au plus efficace, ce qui va vous donner le plus de facilité dans votre travail.
+
+2300
+01:53:45,760 --> 01:53:48,640
+donc des sommes
+
+2301
+01:53:48,640 --> 01:53:50,039
+forfaitaires en euros
+
+2302
+01:53:50,039 --> 01:53:52,280
+c'est ce que je vous recommande
+
+2303
+01:53:52,280 --> 01:53:54,600
+si vous voulez faire
+
+2304
+01:53:54,600 --> 01:53:56,100
+des pourcentages, vous pouvez
+
+2305
+01:53:56,100 --> 01:53:58,640
+moi c'est une recommandation que je vous donne
+
+2306
+01:53:58,640 --> 01:54:00,680
+parce que je sais que ça va énormément vous aider
+
+2307
+01:54:00,680 --> 01:54:02,800
+ça va énormément vous faciliter
+
+2308
+01:54:02,800 --> 01:54:04,380
+la vie, incroyablement
+
+2309
+01:54:04,380 --> 01:54:06,440
+vous faciliter la vie, à la fois
+
+2310
+01:54:06,440 --> 01:54:08,420
+avec les vendeurs et à la fois avec les acquéreurs
+
+2311
+01:54:08,420 --> 01:54:09,920
+aussi, pour négocier
+
+2312
+01:54:09,920 --> 01:54:12,300
+les honoraires au moment d'une vente
+
+2313
+01:54:12,300 --> 01:54:13,780
+donc
+
+2314
+01:54:13,779 --> 01:54:23,759
+Donc, faites uniquement tout ce qu'il y a là et tout ce qu'il y a là sur les sommes forfaitaires en euros.
+
+2315
+01:54:25,079 --> 01:54:29,359
+Les deux autres onglets, on ne s'en occupe pas, ce sera pour bien d'autres visioconférences.
+
+2316
+01:54:30,139 --> 01:54:32,420
+Donc, on ne s'en occupe pas pour l'instant, vous les laissez de côté.
+
+2317
+01:54:33,179 --> 01:54:39,199
+Le but, c'est que quand on se retrouve, alors ça on va en parler, on va revenir sur cette deuxième partie la semaine prochaine.
+
+2318
+01:54:39,199 --> 01:54:41,699
+quand on se retrouve la semaine prochaine
+
+2319
+01:54:41,699 --> 01:54:43,340
+et bien vous ayez
+
+2320
+01:54:43,340 --> 01:54:45,500
+quelque chose qui ressemble à ça
+
+2321
+01:54:45,500 --> 01:54:48,000
+c'est à dire qu'il soit bien rempli comme ça
+
+2322
+01:54:48,000 --> 01:54:51,800
+on a ça
+
+2323
+01:54:51,800 --> 01:54:54,380
+le nom du concurrent, le nombre de mandats
+
+2324
+01:54:54,380 --> 01:54:56,300
+en ligne et le lien
+
+2325
+01:54:56,300 --> 01:54:58,199
+vers le barème d'un horaire, d'ailleurs vous voyez que
+
+2326
+01:54:58,199 --> 01:55:00,220
+Guy il y a plein de cas où il n'a pas
+
+2327
+01:55:00,220 --> 01:55:02,359
+mis le nombre de négociateurs identifiés parce qu'il n'arrivait
+
+2328
+01:55:02,359 --> 01:55:04,519
+pas à l'identifier, vous n'embêtez
+
+2329
+01:55:04,519 --> 01:55:05,479
+pas avec ça je vous disais
+
+2330
+01:55:05,479 --> 01:55:08,319
+c'est utile mais c'est
+
+2331
+01:55:08,319 --> 01:55:09,139
+Ce n'est pas fondamental.
+
+2332
+01:55:11,079 --> 01:55:14,579
+Et ensuite, remplissez uniquement les sommes forfaitaires en euros.
+
+2333
+01:55:15,059 --> 01:55:19,579
+C'est un conseil que je vous donne, ne vous focalisez que là-dessus.
+
+2334
+01:55:20,960 --> 01:55:25,819
+Après, on fera les moyennes ensemble et on définira ce qui va là.
+
+2335
+01:55:26,079 --> 01:55:27,619
+D'accord ? On fera ça ensemble.
+
+2336
+01:55:28,819 --> 01:55:30,500
+Si vous avez la moindre difficulté,
+
+2337
+01:55:32,019 --> 01:55:33,340
+si vous avez la moindre question,
+
+2338
+01:55:34,840 --> 01:55:36,639
+vous demandez à l'animation.
+
+2339
+01:55:36,640 --> 01:55:39,400
+on vous répondra avec
+
+2340
+01:55:39,400 --> 01:55:41,860
+beaucoup de plaisir individuellement
+
+2341
+01:55:41,860 --> 01:55:43,820
+on vous aidera individuellement
+
+2342
+01:55:43,820 --> 01:55:46,060
+on est là pour ça
+
+2343
+01:55:46,060 --> 01:55:50,079
+question de Thierry
+
+2344
+01:55:50,079 --> 01:55:52,280
+y a-t-il une grille type obligatoire
+
+2345
+01:55:52,280 --> 01:55:53,720
+avec la lucarne ?
+
+2346
+01:55:53,720 --> 01:55:54,860
+non pas du tout
+
+2347
+01:55:54,860 --> 01:55:56,960
+justement c'est ce qu'on est en train de voir
+
+2348
+01:55:56,960 --> 01:56:00,119
+parce que Thierry est arrivé en retard c'est pour ça qu'il n'a pas entendu dès le début
+
+2349
+01:56:00,119 --> 01:56:01,579
+non pas du tout
+
+2350
+01:56:01,579 --> 01:56:03,360
+vous avez votre grille à vous
+
+2351
+01:56:03,360 --> 01:56:05,300
+c'est ce qu'on est en train de définir
+
+2352
+01:56:05,300 --> 01:56:07,640
+comment établir votre grille
+
+2353
+01:56:07,640 --> 01:56:08,860
+efficacement.
+
+2354
+01:56:09,600 --> 01:56:10,880
+Donc non, vous avez votre grille
+
+2355
+01:56:10,880 --> 01:56:11,820
+avant.
+
+2356
+01:56:13,920 --> 01:56:15,340
+Est-ce que vous avez d'autres
+
+2357
+01:56:15,340 --> 01:56:17,420
+questions, les amis ?
+
+2358
+01:56:18,500 --> 01:56:19,119
+Parce que là, voyez,
+
+2359
+01:56:19,279 --> 01:56:21,260
+il est 16h58, on termine avec
+
+2360
+01:56:21,260 --> 01:56:23,320
+deux petites minutes d'avance. D'habitude, je suis
+
+2361
+01:56:23,320 --> 01:56:24,079
+plutôt en retard, moi.
+
+2362
+01:56:24,860 --> 01:56:25,779
+Quand je suis en avance,
+
+2363
+01:56:26,739 --> 01:56:29,260
+j'ai de la chance. Est-ce que tout
+
+2364
+01:56:29,260 --> 01:56:31,140
+est clair pour vous ? Ou est-ce que vous avez
+
+2365
+01:56:31,140 --> 01:56:33,320
+des questions ? Pour l'instant,
+
+2366
+01:56:33,420 --> 01:56:35,199
+je n'ai pas de mandat, ça va être difficile de faire le
+
+2367
+01:56:35,199 --> 01:56:37,079
+tableau. Alors, non, parce que
+
+2368
+01:56:37,079 --> 01:56:39,139
+il ne faut pas vous faire de
+
+2369
+01:56:39,139 --> 01:56:39,819
+soucis là-dessus.
+
+2370
+01:56:41,119 --> 01:56:42,979
+Justement, il faut d'abord faire ce tableau,
+
+2371
+01:56:43,079 --> 01:56:45,179
+ça vous permettra d'avoir des mandats derrière.
+
+2372
+01:56:46,380 --> 01:56:46,739
+Mais,
+
+2373
+01:56:47,000 --> 01:56:48,359
+revoyez toute la vidéo,
+
+2374
+01:56:49,199 --> 01:56:50,960
+Thierry, parce que vous n'avez pas vu le début de la vidéo,
+
+2375
+01:56:51,380 --> 01:56:53,239
+c'est normal. On va vous donner
+
+2376
+01:56:53,239 --> 01:56:54,720
+le lien parce qu'elle a été enregistrée.
+
+2377
+01:56:54,920 --> 01:56:56,979
+Vous allez pouvoir tout revoir et vous allez beaucoup
+
+2378
+01:56:56,979 --> 01:56:58,359
+mieux comprendre. En tout cas,
+
+2379
+01:56:58,880 --> 01:57:01,000
+Thierry, au moindre doute,
+
+2380
+01:57:01,939 --> 01:57:02,539
+vous nous appelez.
+
+2381
+01:57:02,979 --> 01:57:04,500
+Enfin, vous nous appelez, vous nous envoyez un e-mail
+
+2382
+01:57:04,500 --> 01:57:05,579
+et nous, on vous rappelle des regards.
+
+2383
+01:57:06,760 --> 01:57:07,399
+Il ne faut pas hésiter.
+
+2384
+01:57:08,100 --> 01:57:10,079
+Vraiment, pour n'importe quoi, n'importe quelle question,
+
+2385
+01:57:10,159 --> 01:57:12,279
+même la plus anodine, on est là pour vous guider,
+
+2386
+01:57:12,439 --> 01:57:13,060
+pour vous aider.
+
+2387
+01:57:13,779 --> 01:57:16,720
+Et puis, vous avez également votre coach qui est là pour vous aider.
+
+2388
+01:57:17,159 --> 01:57:18,859
+Mais avant tout, il y a nous.
+
+2389
+01:57:20,420 --> 01:57:21,500
+Est-ce qu'il y a d'autres questions ?
+
+2390
+01:57:23,199 --> 01:57:23,500
+Non ?
+
+2391
+01:57:25,979 --> 01:57:28,399
+Votre coach, à vous, Thierry, c'est Dominique, bien sûr.
+
+2392
+01:57:30,619 --> 01:57:32,279
+Pas d'autres questions, les amis ?
+
+2393
+01:57:32,279 --> 01:57:35,519
+Bon, on va préparer cette vidéo pour que vous puissiez la voir rapidement.
+
+2394
+01:57:36,319 --> 01:57:37,699
+On vous l'enverra à tous.
+
+2395
+01:57:38,099 --> 01:57:40,380
+Et puis, vous n'hésitez pas à nous poser la moindre question.
+
+2396
+01:57:40,699 --> 01:57:41,500
+On est là pour ça.
+
+2397
+01:57:41,599 --> 01:57:44,159
+On vous rappellera pour vous guider individuellement si nécessaire.
+
+2398
+01:57:44,880 --> 01:57:46,399
+Vraiment, il ne faut pas hésiter.
+
+2399
+01:57:46,399 --> 01:57:49,800
+Ça vous paraît lourd et compliqué ce qu'on est en train de voir là au début.
+
+2400
+01:57:50,059 --> 01:57:52,920
+Mais en fait, on va vous aider pour le faire une bonne fois pour toutes.
+
+2401
+01:57:53,000 --> 01:57:55,399
+Et après, ce sera du billard.
+
+2402
+01:57:55,599 --> 01:57:56,199
+Ça se fera tout seul.
+
+2403
+01:57:56,659 --> 01:57:57,399
+OK ?
+
+2404
+01:57:58,119 --> 01:57:59,399
+On a tout vu ?
+
+2405
+01:57:59,399 --> 01:58:03,279
+dans ce cas-là, il ne me reste plus qu'à vous remercier
+
+2406
+01:58:03,279 --> 01:58:06,639
+d'avoir été là aujourd'hui, vous dire à très bientôt pour la suite
+
+2407
+01:58:06,639 --> 01:58:09,779
+et puis accrochez-vous, faites ce travail sérieusement
+
+2408
+01:58:09,779 --> 01:58:12,439
+une fois que ce sera fait, ce sera fait définitivement
+
+2409
+01:58:12,439 --> 01:58:13,559
+vous n'aurez plus à y revenir
+
+2410
+01:58:13,559 --> 01:58:17,679
+et puis c'est peut-être la partie la plus casse-pied de tout le boulot
+
+2411
+01:58:17,679 --> 01:58:19,699
+après vous verrez, ce sera beaucoup plus simple
+
+2412
+01:58:19,699 --> 01:58:23,500
+merci à tous, merci à toutes, je vous souhaite une excellente
+
+2413
+01:58:23,500 --> 01:58:27,119
+fin de journée et je vous dis à très très très bientôt
+
+2414
+01:58:29,399 --> 01:58:59,379
+Sous-titrage FR ?
+
