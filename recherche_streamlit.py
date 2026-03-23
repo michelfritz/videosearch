@@ -255,13 +255,14 @@ def safe_read_csv(path_like, **kw):
         st.error(f"Erreur lecture CSV ({path_like}) : {e}")
         return pd.DataFrame()
 
-def safe_load_pickle(path_like):
+def safe_load_pickle(path_like, silent_missing=False):
     full = os.path.join(DATA_DIR, path_like)
     try:
         with open(full, "rb") as f:
             return pickle.load(f)
     except FileNotFoundError:
-        st.warning(f"Fichier introuvable : {path_like}")
+        if not silent_missing:
+            st.warning(f"Fichier introuvable : {path_like}")
         return None
     except Exception as e:
         st.error(f"Erreur lecture pickle ({path_like}) : {e}")
@@ -442,8 +443,8 @@ def charger_df_seul():
         return pd.DataFrame(columns=["url","start","text","fichier"])
 
 @st.cache_resource
-def charger_vecteurs():
-    vec = safe_load_pickle("vecteurs.pkl")
+def charger_vecteurs(silent_missing=True):
+    vec = safe_load_pickle("vecteurs.pkl", silent_missing=silent_missing)
     if isinstance(vec, np.ndarray):
         return vec.astype("float32")
     if vec is None:
@@ -529,7 +530,6 @@ def rechercher_similaires(vecteur_query, vecteurs, top_k=5, seuil=0.3):
     top_indices = indices[order] if len(indices) else np.array([], dtype=int)
     return top_indices, similarities[top_indices] if len(top_indices) else np.array([])
 
-def build_context(docs):
 def build_context(docs):
     """Builds a robust context string from docs, even if metadata is not a dict."""
     parts = []
@@ -670,8 +670,8 @@ if menu == "🔍 Recherche":
                             pass
 
                     # 3) Fallback : numpy + vecteurs.pkl seulement si nécessaire
-                    if len(indices) == 0:
-                        vecteurs = charger_vecteurs()
+                    if len(indices) == 0 and os.path.exists(os.path.join(DATA_DIR, "vecteurs.pkl")):
+                        vecteurs = charger_vecteurs(silent_missing=True)
                         if vecteurs is not None and vecteurs.size > 0:
                             if vecteurs.shape[1] != len(vecteur_query):
                                 st.error(f"Dimension vecteurs ({vecteurs.shape[1]}) ≠ embedding ({len(vecteur_query)})")
@@ -892,7 +892,9 @@ elif menu == "🧠 Moteur intelligent":
 
                 # 3) Fallback : numpy + vecteurs.pkl seulement si nécessaire
                 if docs is None or len(docs) == 0:
-                    vecteurs = charger_vecteurs()
+                    vecteurs = None
+                    if os.path.exists(os.path.join(DATA_DIR, "vecteurs.pkl")):
+                        vecteurs = charger_vecteurs(silent_missing=True)
                     if DEBUG_MODE:
                         st.write("DEBUG: Fallback numpy → embed_openai()")
                     try:
