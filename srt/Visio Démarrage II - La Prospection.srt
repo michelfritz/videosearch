@@ -1,0 +1,8580 @@
+1
+00:00:00,000 --> 00:00:30,000
+Bonjour à tous alors si tout le monde est là et bien écoutez je vous souhaite la bienvenue je vous souhaite la bienvenue à cette visioconférence au cours de laquelle nous allons étudier la prospection j'en parlais avec Thierry la semaine dernière quand nous faisions la visio sur la suite du fichier excel d'ailleurs Thierry votre grille a été ouverte normalement je sais pas si ça vous a été dit votre grille de
+
+2
+00:00:30,000 --> 00:00:31,379
+comment ça s'appelle
+
+3
+00:00:31,379 --> 00:00:33,719
+de tarifs
+
+4
+00:00:33,719 --> 00:00:35,500
+a été ouverte ce matin
+
+5
+00:00:35,500 --> 00:00:36,659
+comme vous l'avez demandé
+
+6
+00:00:36,659 --> 00:00:39,140
+et donc normalement vous avez
+
+7
+00:00:39,140 --> 00:00:41,420
+48 heures pour
+
+8
+00:00:41,420 --> 00:00:42,039
+la
+
+9
+00:00:42,039 --> 00:00:44,600
+paramétrer
+
+10
+00:00:44,600 --> 00:00:47,700
+alors n'oubliez pas comme je vous l'ai expliqué la semaine dernière
+
+11
+00:00:47,700 --> 00:00:49,340
+vous avez deux boutons enregistrer
+
+12
+00:00:49,340 --> 00:00:50,439
+et valider
+
+13
+00:00:50,439 --> 00:00:52,859
+enregistrer c'est pour enregistrer vos
+
+14
+00:00:52,859 --> 00:00:55,539
+modifications au fur et à mesure et valider
+
+15
+00:00:55,539 --> 00:00:57,420
+avant 48 heures c'est pour
+
+16
+00:00:57,420 --> 00:00:58,879
+entièrement
+
+17
+00:00:58,880 --> 00:01:03,840
+n'ont pas enregistré simplement les informations, parce que là, elles sont encore modifiables,
+
+18
+00:01:04,320 --> 00:01:08,460
+mais les verrouiller, les valider une bonne fois pour toutes, et là, elles ne seront plus modifiables.
+
+19
+00:01:09,219 --> 00:01:13,159
+Les autres, bien entendu, vous dites, qu'est-ce que c'est que ça ? C'est du charabia, je ne sais pas de quoi on parle.
+
+20
+00:01:13,379 --> 00:01:20,659
+C'est normal, c'est parce que vous n'avez pas fait la visio, comme Thierry l'a faite, la partie numéro 2 de la grille d'honoraires.
+
+21
+00:01:20,800 --> 00:01:23,560
+Mais ça viendra, ne vous en faites pas.
+
+22
+00:01:23,560 --> 00:01:27,260
+Alors aujourd'hui on va parler de la prospection
+
+23
+00:01:27,260 --> 00:01:29,659
+Je me mets sur le chat ici là-haut pour être sûr
+
+24
+00:01:29,659 --> 00:01:30,480
+Elle n'est pas ouverte
+
+25
+00:01:30,480 --> 00:01:33,640
+Alors déconnectez-vous, reconnectez-vous d'Aiglantine Thierry
+
+26
+00:01:33,640 --> 00:01:35,480
+Normalement elle est ouverte
+
+27
+00:01:35,480 --> 00:01:38,719
+Peut-être que si ça a été fait au moment où vous étiez déjà connecté sur Aiglantine
+
+28
+00:01:38,719 --> 00:01:39,840
+Vous ne le voyez pas, c'est normal
+
+29
+00:01:39,840 --> 00:01:41,079
+Il y a un certain nombre de modifications
+
+30
+00:01:41,079 --> 00:01:43,579
+Qui imposent une déconnexion-reconnexion
+
+31
+00:01:43,579 --> 00:01:44,640
+Je vous invite à vérifier
+
+32
+00:01:44,640 --> 00:01:46,420
+Là vous vous déconnectez d'Aiglantine
+
+33
+00:01:46,420 --> 00:01:48,400
+Et vous vous reconnectez derrière
+
+34
+00:01:48,400 --> 00:01:49,439
+Normalement elle est ouverte
+
+35
+00:01:49,439 --> 00:01:52,040
+N'hésitez pas à le vérifier dès maintenant
+
+36
+00:01:52,740 --> 00:01:56,060
+Comme ça, je peux intervenir si jamais ça n'est pas le cas.
+
+37
+00:01:56,800 --> 00:01:59,120
+Alors, aujourd'hui, nous allons parler de prospection.
+
+38
+00:01:59,719 --> 00:02:05,400
+La prospection, c'est une des choses les plus importantes que vous pouvez étudier avec moi.
+
+39
+00:02:06,219 --> 00:02:08,379
+Pourquoi ? Parce que la prospection...
+
+40
+00:02:08,379 --> 00:02:12,379
+Alors, peut-être que certains d'entre vous connaissent bien, savent de quoi il s'agit.
+
+41
+00:02:13,300 --> 00:02:14,240
+D'autres, non.
+
+42
+00:02:14,240 --> 00:02:21,240
+La prospection, en fait, ce sont toutes les actions commerciales que nous mettons en œuvre dans le but...
+
+43
+00:02:22,039 --> 00:02:25,459
+De premièrement, trouver des futurs clients vendeurs.
+
+44
+00:02:27,120 --> 00:02:33,359
+Deuxièmement, les contacter, aller les voir et leur proposer nos services.
+
+45
+00:02:33,799 --> 00:02:34,799
+C'est ça la prospection.
+
+46
+00:02:35,079 --> 00:02:39,419
+C'est toute cette partie qui vient avant la signature du mandat.
+
+47
+00:02:39,759 --> 00:02:44,780
+C'est d'ailleurs une partie qui, bien souvent, est quasiment inconnue
+
+48
+00:02:44,780 --> 00:02:48,259
+des gens qui ne travaillent pas dans l'immobilier ou dans certaines professions commerciales.
+
+49
+00:02:48,259 --> 00:02:58,599
+Parce que quand on demande aux gens en quoi consiste le travail d'un négociateur immobilier, on va nous dire faire des visites, on va nous dire négocier des offres, faire des compromis, des choses comme ça.
+
+50
+00:02:59,459 --> 00:03:01,500
+Ah, c'est bien ouvert, parfait, super Thierry.
+
+51
+00:03:01,620 --> 00:03:07,199
+S'il y a le moindre souci, vous n'hésitez pas à demander à l'annulation, de toute manière, elle est à votre disposition.
+
+52
+00:03:07,919 --> 00:03:12,659
+Donc, je vous disais, les gens ne parleraient pas spontanément de prospection.
+
+53
+00:03:12,659 --> 00:03:19,719
+Et pourtant, c'est une tâche absolument indispensable, tout au moins au début de votre activité.
+
+54
+00:03:20,500 --> 00:03:22,759
+Pourquoi dis-je au début de votre activité ?
+
+55
+00:03:22,759 --> 00:03:26,079
+Parce que plus vous allez avancer, plus vous allez vous créer une clientèle,
+
+56
+00:03:26,939 --> 00:03:34,579
+vous allez faire des ventes, vous allez rencontrer des clients et vous allez les séduire par votre professionnalisme.
+
+57
+00:03:35,120 --> 00:03:39,120
+Et avec le temps, au bout de quelques années, qui se prépare ?
+
+58
+00:03:39,120 --> 00:03:41,500
+C'est le plus important de ce métier, nous dit Bessira et elle a bien raison.
+
+59
+00:03:42,319 --> 00:03:49,620
+Et vous allez voir, au bout de quelques années, quand vous aurez lancé la machine, fait des ventes, rencontré beaucoup de clients, démontré votre professionnalisme,
+
+60
+00:03:50,520 --> 00:03:58,400
+vous en ferez de moins en moins de la prospection, puisque vous rentrerez de plus en plus de mandats grâce aux bouches à oreilles,
+
+61
+00:03:58,400 --> 00:04:01,520
+grâce à ce qu'on appelle des recommandations d'anciens clients.
+
+62
+00:04:01,920 --> 00:04:10,520
+D'anciens clients vendeurs et ou acquéreurs, je dis et ou parce que parfois on peut être vendeur et acquéreur successivement, voire même en même temps.
+
+63
+00:04:10,520 --> 00:04:12,200
+Ça, on en reparlera plus tard.
+
+64
+00:04:12,640 --> 00:04:15,380
+Donc, d'anciens clients vendeurs et ou acquéreurs
+
+65
+00:04:15,380 --> 00:04:19,540
+qui vous enverront des amis, de la famille,
+
+66
+00:04:19,660 --> 00:04:21,800
+en disant, ben voilà, c'est vers cette personne
+
+67
+00:04:21,800 --> 00:04:23,199
+qu'il faut aller pour vendre ta maison.
+
+68
+00:04:24,040 --> 00:04:25,560
+Tu verras, il est super,
+
+69
+00:04:26,120 --> 00:04:27,500
+elle s'est super bien occupée de nous,
+
+70
+00:04:27,699 --> 00:04:28,660
+ils nous ont tout expliqué.
+
+71
+00:04:29,980 --> 00:04:33,180
+Alors, ça, ce sont des recommandations d'anciens clients.
+
+72
+00:04:34,060 --> 00:04:35,259
+On va voir que les recommandations,
+
+73
+00:04:35,340 --> 00:04:37,040
+même de personnes qui ne sont pas d'anciens clients,
+
+74
+00:04:37,680 --> 00:04:38,960
+c'est extrêmement utile.
+
+75
+00:04:38,959 --> 00:04:43,560
+extrêmement utile, c'est même aujourd'hui la base de la prospection.
+
+76
+00:04:43,779 --> 00:04:46,839
+Alors auparavant, il y a quelques années,
+
+77
+00:04:47,839 --> 00:04:52,120
+imaginons que vous nous ayez rejoint il y a dix ans, par exemple,
+
+78
+00:04:52,919 --> 00:04:58,399
+nous vous aurions dit que dans l'immobilier existaient deux types de prospection.
+
+79
+00:04:58,779 --> 00:05:00,659
+Parce que c'était le cas à l'époque.
+
+80
+00:05:01,319 --> 00:05:07,199
+Le premier type de prospection, c'était la prospection téléphonique.
+
+81
+00:05:07,199 --> 00:05:13,879
+Et le deuxième type de prospection, c'était la prospection physique.
+
+82
+00:05:15,300 --> 00:05:24,480
+Prospection téléphonique, prospection physique, c'était les deux modes de prospection qui existaient auparavant dans l'immobilier.
+
+83
+00:05:24,800 --> 00:05:30,959
+Prospection téléphonique, ça consistait tout simplement, comme le dit Bessira, phoning et pige.
+
+84
+00:05:31,079 --> 00:05:35,319
+Ça, ce sont des termes vraiment de notre métier, ce sont des termes de l'intérieur du boulot.
+
+85
+00:05:35,319 --> 00:05:43,800
+Le phoning, c'est passer des appels et la pige, c'est le relevé des annonces immobilières pour rappeler les propriétaires.
+
+86
+00:05:43,939 --> 00:05:53,000
+Alors, il y a très longtemps, quand j'étais jeune, ça se faisait en achetant des journaux de petites annonces comme PAP
+
+87
+00:05:53,000 --> 00:05:55,219
+ou en prenant des journaux gratuits.
+
+88
+00:05:55,579 --> 00:05:57,920
+Vous savez, des journaux locaux gratuits, il y en avait également.
+
+89
+00:05:58,620 --> 00:06:02,100
+On prenait les journaux, on relevait les petites annonces et on appelait.
+
+90
+00:06:02,100 --> 00:06:04,279
+On appelait les gens au téléphone, bonjour.
+
+91
+00:06:05,319 --> 00:06:16,959
+« Je suis un tel de la société machin, je vais vous aider à vendre votre maison, vendre votre appartement. »
+
+92
+00:06:16,959 --> 00:06:19,219
+Ça, c'était la prospection téléphonique.
+
+93
+00:06:20,219 --> 00:06:26,879
+Il fallait passer beaucoup d'appels, il fallait avoir un discours bien rodé, bien calibré,
+
+94
+00:06:27,879 --> 00:06:34,659
+pour décrocher un rendez-vous, aller rencontrer la personne et lui présenter concrètement nos services et remporter le mandat.
+
+95
+00:06:35,319 --> 00:06:41,079
+La prospection téléphonique, elle avait ses qualités et ses défauts.
+
+96
+00:06:42,040 --> 00:06:47,579
+Ses qualités, c'est qu'elle permettait de rentrer des mandats en nombre important.
+
+97
+00:06:48,500 --> 00:06:49,779
+Elle permettait de faire du volume.
+
+98
+00:06:50,819 --> 00:06:55,860
+Parce que tout simplement, on n'était limité que par sa capacité à enchaîner les appels téléphoniques.
+
+99
+00:06:57,219 --> 00:07:01,399
+Alors, plus on était dans une zone densément urbanisée et plus il y avait d'annonces.
+
+100
+00:07:01,399 --> 00:07:07,519
+Imaginez, si vous prenez les petites annonces à Paris, à Marseille, à Bordeaux, vous avez des milliers, des milliers, des milliers d'annonces.
+
+101
+00:07:08,000 --> 00:07:25,120
+Donc, il fallait tout simplement être très courageux et très tenace, et puis savoir, au fur et à mesure, améliorer son discours lorsque l'on s'apercevait qu'il était plus ou moins performant.
+
+102
+00:07:25,120 --> 00:07:30,379
+Plus ou moins performant, pourquoi ?
+
+103
+00:07:30,379 --> 00:07:33,920
+Parce que selon les journées, selon qu'on était en forme, qu'on n'était pas en forme
+
+104
+00:07:33,920 --> 00:07:37,540
+Et bien on était plus ou moins performant, plus ou moins bon, tout simplement
+
+105
+00:07:37,540 --> 00:07:42,199
+Donc, souvent d'ailleurs il y avait une période de chauffe
+
+106
+00:07:42,199 --> 00:07:46,259
+On s'y mettait un matin à 9h, pendant la première heure, heure et demie on n'était pas très bon
+
+107
+00:07:46,259 --> 00:07:49,800
+Et puis au bout d'une heure, une heure et demie on était meilleur, meilleur, meilleur
+
+108
+00:07:49,800 --> 00:07:54,600
+Parce qu'on s'était bien chauffé, on avait bien rodé son discours, on était bien en forme
+
+109
+00:07:55,120 --> 00:08:03,720
+Donc, la prospection téléphonique, elle n'était limitée en résultats que par votre capacité à tenir le coup et à enchaîner les appels, les appels, les appels.
+
+110
+00:08:04,160 --> 00:08:14,800
+Beaucoup d'appels débouchaient sur des refus, une très grande majorité, mais en démultipliant les appels, 10, 15, 20, 30, 50, 60, 100, 200, 300 appels dans la journée,
+
+111
+00:08:15,540 --> 00:08:21,100
+eh bien, on augmentait tout simplement le nombre de rendez-vous. C'était statistique, c'était des probabilités, tout simplement.
+
+112
+00:08:21,100 --> 00:08:28,120
+donc la prospection téléphonique elle vous permettait de rentrer des mandats en nombre
+
+113
+00:08:28,120 --> 00:08:35,420
+mais pas en qualité pourquoi et bien parce que c'était des petites annonces était disponible
+
+114
+00:08:35,420 --> 00:08:40,240
+pour tous les professionnels tous les professionnels de l'immobilier du secteur
+
+115
+00:08:40,240 --> 00:08:46,000
+avait les mêmes petites annonces sous les yeux donc c'était des mandats qui était potentiellement
+
+116
+00:08:46,000 --> 00:08:50,320
+seulement entre les mains de très très très nombreux concurrents.
+
+117
+00:08:50,320 --> 00:08:54,120
+La deuxième raison pour laquelle ces mandats étaient de moindre qualité,
+
+118
+00:08:55,240 --> 00:08:59,700
+c'est parce que c'était des mandats dont le propriétaire avait déjà passé une annonce,
+
+119
+00:09:00,220 --> 00:09:03,440
+puisqu'on récupérait l'annonce du propriétaire qu'on appelait.
+
+120
+00:09:05,659 --> 00:09:09,200
+Et ça veut dire que le propriétaire avait déjà fixé son prix,
+
+121
+00:09:09,320 --> 00:09:14,120
+puisque lorsqu'il passe une petite annonce, il a déjà fixé son prix lui-même.
+
+122
+00:09:14,120 --> 00:09:25,159
+On ne sait pas comment, est-ce qu'il l'a bien fait, est-ce qu'il l'a mal fait, mais il l'a déjà fait lui-même et il publie son annonce avec le prix qu'il a déjà fixé.
+
+123
+00:09:26,259 --> 00:09:34,720
+Donc, la plupart du temps, les produits étaient trop chers et donc difficilement, voire pas du tout vendables.
+
+124
+00:09:34,720 --> 00:09:46,019
+On rentrait donc des mandats dans le but de faire baisser le prix plus tard, quelques semaines, quelques mois plus tard, et là, enfin, avoir des mandats vendables.
+
+125
+00:09:46,720 --> 00:09:59,019
+Donc, prospection téléphonique égale, je vous le mets ici, mandat en nombre, mais de mauvaise qualité.
+
+126
+00:09:59,019 --> 00:10:09,079
+Et je vous mets entre guillemets, concurrence, entre guillemets, pardon, entre parenthèses, concurrence forte et prix élevé.
+
+127
+00:10:11,139 --> 00:10:20,199
+Voici les qualités, mandat en nombre, et les défauts, mauvaise qualité, forte concurrence, prix élevé de la prospection téléphonique.
+
+128
+00:10:21,720 --> 00:10:24,079
+Ensuite, il y avait la prospection physique.
+
+129
+00:10:24,980 --> 00:10:27,100
+La prospection physique, ça consistait,
+
+130
+00:10:27,379 --> 00:10:28,840
+et ça consiste toujours d'ailleurs,
+
+131
+00:10:29,420 --> 00:10:33,480
+la prospection physique consistait à sortir de chez soi,
+
+132
+00:10:33,820 --> 00:10:35,900
+ne pas du tout rester devant son ordinateur
+
+133
+00:10:35,900 --> 00:10:39,040
+ou son journal de petites annonces et son téléphone
+
+134
+00:10:39,040 --> 00:10:40,740
+pour passer les appels les uns après les autres.
+
+135
+00:10:40,980 --> 00:10:42,160
+Non, non, non, pas du tout.
+
+136
+00:10:45,360 --> 00:10:49,720
+La prospection physique consistait à sortir de chez soi,
+
+137
+00:10:50,720 --> 00:10:53,460
+aller dans la rue, arpenter les rues,
+
+138
+00:10:54,080 --> 00:10:57,420
+Alors, qu'il pleuve, qu'il vente, qu'il neige ou qu'il fasse beau.
+
+139
+00:10:58,940 --> 00:11:01,120
+Pour rencontrer le maximum de gens.
+
+140
+00:11:01,920 --> 00:11:07,160
+Des dames qui promènent leur chien, le facteur, un monsieur qui fait son jogging,
+
+141
+00:11:07,600 --> 00:11:09,680
+les personnes âgées qui vont faire leurs courses,
+
+142
+00:11:10,180 --> 00:11:14,300
+rentrer dans les magasins, rentrer dans les cafés, discuter avec tout le monde
+
+143
+00:11:14,300 --> 00:11:17,720
+et aussi, tout simplement, sonner aux portes.
+
+144
+00:11:19,440 --> 00:11:22,920
+Aborder les gens qui sont dans leur jardin en train de gratter les bégonias.
+
+145
+00:11:24,080 --> 00:11:52,200
+Engager la conversation pour obtenir des informations sur d'éventuels projets immobiliers dans le quartier, savoir qu'à tel endroit il y avait un divorce, savoir qu'à tel autre endroit un bébé venait de naître, savoir qu'à tel autre endroit une vieille dame venait de décéder ou de partir à l'EHPAD pour essayer d'identifier à quel endroit une vente immobilière pourrait s'initier.
+
+146
+00:11:52,200 --> 00:11:54,360
+parce que les ventes immobilières
+
+147
+00:11:54,360 --> 00:11:57,240
+elles ne sont pas déclenchées
+
+148
+00:11:57,240 --> 00:11:58,900
+par une envie
+
+149
+00:11:58,900 --> 00:11:59,879
+ou un caprice
+
+150
+00:11:59,879 --> 00:12:02,300
+ça c'est très très peu de cas
+
+151
+00:12:02,300 --> 00:12:04,320
+si je vous demandais
+
+152
+00:12:04,320 --> 00:12:05,280
+et si on demandait aux gens
+
+153
+00:12:05,280 --> 00:12:07,420
+quelles sont les raisons pour lesquelles on déménage
+
+154
+00:12:07,420 --> 00:12:08,500
+et donc on vend sa maison
+
+155
+00:12:08,500 --> 00:12:11,520
+on pourrait dire parce qu'on a envie d'habiter ailleurs
+
+156
+00:12:11,520 --> 00:12:14,040
+parce qu'on a envie de partir dans le sud
+
+157
+00:12:14,040 --> 00:12:14,660
+au soleil
+
+158
+00:12:14,660 --> 00:12:17,280
+ça existe oui, c'est tout à fait possible
+
+159
+00:12:17,280 --> 00:12:20,840
+mais c'est minoritaire
+
+160
+00:12:20,840 --> 00:12:27,019
+Très peu de gens déménagent uniquement par envie et par convenance personnelle
+
+161
+00:12:27,019 --> 00:12:35,600
+Parce que déménager c'est compliqué, c'est coûteux, ça demande du temps, ça demande de l'énergie, c'est pénible, c'est pas agréable
+
+162
+00:12:35,600 --> 00:12:42,460
+Donc les gens qui déménagent uniquement par envie existent mais sont relativement rares
+
+163
+00:12:42,460 --> 00:12:50,840
+L'immense majorité des ventes immobilières sont en fait issues de ce que j'appelle moi les événements de la vie.
+
+164
+00:12:51,340 --> 00:12:55,200
+Les naissances, un nouveau bébé vient d'arriver, il nous faut une pièce en plus.
+
+165
+00:12:55,840 --> 00:13:01,280
+Les décès, une vieille dame vient de décéder, les héritiers vont mettre la maison en vente.
+
+166
+00:13:01,960 --> 00:13:07,540
+Un divorce, on divorce, on se sépare, on met la maison en vente et chacun va habiter de son côté.
+
+167
+00:13:07,539 --> 00:13:16,419
+Ou au contraire, un mariage. On se marie, on va habiter ensemble, on choisit un bel appartement, on vend le petit appartement dans lequel on se trouvait avant.
+
+168
+00:13:17,039 --> 00:13:32,299
+Une mutation professionnelle, un licenciement, plein plein plein plein de choses que j'appelle, vous comprenez pourquoi, les événements de la vie, heureux ou malheureux, sont les déclencheurs du plus grand nombre de ventes immobilières.
+
+169
+00:13:32,299 --> 00:13:46,159
+Et c'est ça qu'on essaye de savoir en faisant de la prospection téléphonique. Où se trouvent dans le quartier, dans la ville, dans le village, les événements de la vie qui pourraient déboucher sur une vente immobilière ?
+
+170
+00:13:46,159 --> 00:14:01,159
+C'est pour ça que je vous dis, une vieille dame vient de décéder ou peut-être de partir à l'EHPAD. À quel endroit ? Où ça ? Dans quelle rue ? À quel numéro ? Comment pourrais-je contacter sa famille ?
+
+171
+00:14:01,159 --> 00:14:03,319
+C'est ça, la prospection physique.
+
+172
+00:14:03,919 --> 00:14:09,600
+La prospection physique, quels sont ses avantages ?
+
+173
+00:14:09,600 --> 00:14:12,459
+Eh bien, hop, on va faire égal, pareil.
+
+174
+00:14:12,860 --> 00:14:15,199
+La prospection physique, quels sont ses avantages ?
+
+175
+00:14:15,199 --> 00:14:18,360
+Eh bien, ce sont des mandats de très bonne qualité.
+
+176
+00:14:19,000 --> 00:14:22,679
+Mandat d'excellente qualité.
+
+177
+00:14:23,899 --> 00:14:25,620
+Pourquoi d'excellente qualité ?
+
+178
+00:14:25,620 --> 00:14:28,220
+Parce qu'on a vu au-dessus que la prospection téléphonique
+
+179
+00:14:28,220 --> 00:14:29,899
+vous donnait des mandats de mauvaise qualité
+
+180
+00:14:29,899 --> 00:14:33,459
+parce que la concurrence était forte, tout le monde avait accès à cette petite annonce,
+
+181
+00:14:33,539 --> 00:14:35,279
+tout le monde l'appelait, tout le monde pouvait rentrer le mandat.
+
+182
+00:14:35,959 --> 00:14:39,480
+Et en plus des prix élevés, parce que c'est le vendeur qui a lui-même défini son prix,
+
+183
+00:14:39,860 --> 00:14:45,340
+non pas sur des critères rationnels et professionnels comme nous le ferions nous dans ces travails,
+
+184
+00:14:46,379 --> 00:14:49,740
+mais ils ont défini leur prix en fonction de leur préférence,
+
+185
+00:14:49,879 --> 00:14:53,639
+en fonction de la manière dont ils s'y sont pris eux-mêmes sur Internet pour chercher les prix.
+
+186
+00:14:53,960 --> 00:14:55,740
+On ne sait pas trop comment, et puis bien entendu,
+
+187
+00:14:56,199 --> 00:14:58,939
+chacun est persuadé que sa maison est plus belle que la maison du voisin.
+
+188
+00:14:58,940 --> 00:15:06,140
+C'est la raison pour laquelle le vendeur met sa maison toujours trop chère, un peu trop chère ou beaucoup trop chère.
+
+189
+00:15:06,480 --> 00:15:09,200
+Très rares sont les vendeurs qui mettent le bon prix.
+
+190
+00:15:09,940 --> 00:15:12,720
+C'est très rare, ça existe, mais c'est très très très rare.
+
+191
+00:15:13,420 --> 00:15:19,480
+Même les vendeurs professionnels de l'immobilier, et ça je le vois tous les jours, ne serait-ce que dans le réseau,
+
+192
+00:15:19,540 --> 00:15:22,340
+quand nos négociateurs vendent leur maison à eux,
+
+193
+00:15:23,560 --> 00:15:28,460
+même le professionnel de l'immobilier qui met son bien en vente, il va mettre un prix trop cher.
+
+194
+00:15:28,940 --> 00:15:33,000
+Il ne va pas mettre un prix bien calibré, professionnellement, rationnellement.
+
+195
+00:15:33,360 --> 00:15:35,100
+Il va mettre un prix trop cher.
+
+196
+00:15:35,200 --> 00:15:37,660
+Parce que là, il ne se transforme non plus en professionnel de l'immobilier,
+
+197
+00:15:37,720 --> 00:15:41,360
+il se transforme en vendeur qui veut retirer le maximum de la vente de sa maison.
+
+198
+00:15:41,740 --> 00:15:42,940
+Ce qui est bien légitime en soi.
+
+199
+00:15:43,640 --> 00:15:47,140
+Mais il perd un petit peu ce côté rationnel et ce côté concret.
+
+200
+00:15:48,520 --> 00:15:51,320
+Donc, la mauvaise qualité de la prospection téléphonique,
+
+201
+00:15:51,460 --> 00:15:52,380
+concurrence forte et prix élevé.
+
+202
+00:15:52,660 --> 00:15:54,320
+Eh bien, ça, on ne l'a pas dans la prospection physique.
+
+203
+00:15:54,440 --> 00:15:55,480
+Pourquoi ?
+
+204
+00:15:55,480 --> 00:16:00,259
+Parce que premièrement, on n'a pas une concurrence forte dans la prospection physique
+
+205
+00:16:00,259 --> 00:16:04,879
+puisque nous essayons de détecter les éventuels projets immobiliers
+
+206
+00:16:04,879 --> 00:16:10,580
+à venir, futurs, non encore déclenchés.
+
+207
+00:16:10,940 --> 00:16:14,120
+Parce que cette vieille dame, elle vient de décéder malheureusement.
+
+208
+00:16:14,120 --> 00:16:19,560
+Elle vient de décéder, donc ses héritiers n'ont pas encore mis en vente.
+
+209
+00:16:20,240 --> 00:16:23,220
+Ils vont bientôt mettre en vente, probablement.
+
+210
+00:16:23,220 --> 00:16:25,540
+Pareil pour une naissance
+
+211
+00:16:25,540 --> 00:16:28,399
+Pareil pour un divorce
+
+212
+00:16:28,399 --> 00:16:30,820
+On sait qu'il y a un couple
+
+213
+00:16:30,820 --> 00:16:32,340
+A deux maisons d'ici
+
+214
+00:16:32,340 --> 00:16:34,500
+Qui est en train de divorcer
+
+215
+00:16:34,500 --> 00:16:36,259
+Ou qui vient de divorcer
+
+216
+00:16:36,259 --> 00:16:39,200
+Là encore ils n'ont pas encore mis la maison en vente
+
+217
+00:16:39,200 --> 00:16:40,980
+Ils vont la mettre en vente
+
+218
+00:16:40,980 --> 00:16:42,860
+Dans une semaine, deux semaines
+
+219
+00:16:42,860 --> 00:16:44,820
+Deux, trois mois
+
+220
+00:16:44,820 --> 00:16:46,120
+Je ne sais pas
+
+221
+00:16:46,120 --> 00:16:47,320
+Mais pas encore
+
+222
+00:16:47,320 --> 00:16:49,139
+Donc on n'a pas de concurrence forte
+
+223
+00:16:49,139 --> 00:16:51,960
+Les concurrents ne se sont pas jetés dessus
+
+224
+00:16:53,220 --> 00:16:56,540
+ils n'ont pas encore eu cette information.
+
+225
+00:16:56,720 --> 00:17:00,560
+Le but de la prospection physique, c'est d'avoir cette information avant tout le monde.
+
+226
+00:17:02,800 --> 00:17:06,279
+La deuxième raison pour laquelle ce sont des mandats de bonne qualité,
+
+227
+00:17:07,240 --> 00:17:11,180
+eh bien, là encore, comme on arrive très tôt dans le projet,
+
+228
+00:17:11,180 --> 00:17:16,799
+voire même avant que le projet soit bien pensé, bien réfléchi,
+
+229
+00:17:16,799 --> 00:17:26,339
+On arrive avant que les vendeurs n'aient eux-mêmes fixé leur prix potentiellement trop cher, trop haut, trop élevé.
+
+230
+00:17:28,639 --> 00:17:35,619
+Ça veut dire que nous arrivons à un moment où nous allons pouvoir les influencer sur le prix.
+
+231
+00:17:36,059 --> 00:17:38,539
+On va pouvoir faire ce qu'on appelle un avis de valeur.
+
+232
+00:17:38,639 --> 00:17:45,279
+Un avis de valeur, c'est le vrai terme qu'il faut utiliser pour ce qu'on appelle généralement dans le langage courant une estimation.
+
+233
+00:17:45,279 --> 00:17:57,539
+On va venir voir la maison, on va faire plein de relevés, on va prendre plein d'informations pour essayer de comprendre quel devrait être le bon, le vrai prix de la maison, pas un prix trop élevé pour faire plaisir aux vendeurs.
+
+234
+00:17:58,039 --> 00:18:07,960
+Et bien, quand on arrive très tôt comme ça, on arrive avant que les vendeurs n'aient calé leur prix, n'aient fixé leur prix, ne se soient fait une idée définitive.
+
+235
+00:18:07,960 --> 00:18:10,759
+Donc on va pouvoir influer sur ce prix
+
+236
+00:18:10,759 --> 00:18:13,240
+On va pouvoir leur garder les pieds sur terre
+
+237
+00:18:13,240 --> 00:18:14,860
+Parce que bien souvent
+
+238
+00:18:14,860 --> 00:18:17,200
+J'ai entendu ça toute ma vie, toute ma carrière
+
+239
+00:18:17,200 --> 00:18:18,559
+On entend les gens dire
+
+240
+00:18:18,559 --> 00:18:20,600
+Oh si les prix sont élevés dans l'immobilier
+
+241
+00:18:20,600 --> 00:18:21,960
+C'est à cause des agents immobiliers
+
+242
+00:18:21,960 --> 00:18:24,660
+Parce qu'eux ils ont intérêt à ce que les prix soient le plus élevés possible
+
+243
+00:18:24,660 --> 00:18:27,640
+Parce que leurs honoraires seront d'autant plus élevés
+
+244
+00:18:27,640 --> 00:18:29,420
+Et bah non c'est une bêtise ça c'est pas vrai
+
+245
+00:18:29,420 --> 00:18:31,079
+C'est pas vrai
+
+246
+00:18:31,079 --> 00:18:33,380
+Les agents immobiliers au contraire
+
+247
+00:18:33,380 --> 00:18:37,299
+Eux ils ont intérêt à ce que les prix soient le plus bas possible
+
+248
+00:18:38,099 --> 00:18:41,180
+Pourquoi ? Parce que plus les prix sont hauts, moins ils vendent.
+
+249
+00:18:42,500 --> 00:18:45,500
+Plus les prix sont bas, plus ils vendent, les agents immobiliers.
+
+250
+00:18:46,019 --> 00:18:49,419
+Ah oui ? Un prix trop cher, un prix trop haut, personne ne l'achète.
+
+251
+00:18:49,680 --> 00:18:54,059
+Donc avoir un mandat en vente, avoir une maison en vente qui est trop chère, je ne la vendrai pas.
+
+252
+00:18:54,119 --> 00:18:56,259
+Je vais perdre mon temps, je vais perdre de l'argent, je vais perdre de l'énergie.
+
+253
+00:18:57,119 --> 00:18:58,619
+Pour qu'elle se vende, il faut qu'elle soit au bon prix.
+
+254
+00:18:58,720 --> 00:19:00,279
+Il ne faut pas prendre les acquéreurs pour des gogos.
+
+255
+00:19:00,759 --> 00:19:04,319
+Il ne faut pas les prendre pour des imbéciles qui vont surpayer juste parce que les agents immobiliers
+
+256
+00:19:04,319 --> 00:19:06,500
+auraient décidé qu'il faut mettre la maison très très cher.
+
+257
+00:19:06,500 --> 00:19:11,559
+Ah bah non, les acquéreurs ne sont pas plus bêtes que les vendeurs et ne sont pas plus bêtes que les agents immobiliers.
+
+258
+00:19:12,140 --> 00:19:14,960
+Les acquéreurs n'achèteront qu'au bon prix.
+
+259
+00:19:15,940 --> 00:19:21,160
+Les agents immobiliers ont donc intérêt à être au bon prix, le moins cher possible.
+
+260
+00:19:22,099 --> 00:19:28,539
+C'est ça qui leur garantit de faire le maximum de ventes et donc de gagner leur vie le mieux possible.
+
+261
+00:19:29,420 --> 00:19:35,059
+Donc les mandats sont d'excellente qualité parce que premièrement, on n'a pas encore de concurrence forte en face de nous.
+
+262
+00:19:35,579 --> 00:19:40,299
+Deuxièmement, on arrive à garder les pieds du vendeur sur terre du côté du prix.
+
+263
+00:19:41,179 --> 00:19:44,139
+Donc, ce sont de bons mandats de ce point de vue-là.
+
+264
+00:19:45,339 --> 00:19:49,639
+Maintenant, quel est le défaut de la prospection physique ?
+
+265
+00:19:49,639 --> 00:19:52,700
+Le « mais », je vous ai dit, mandat en nombre, mais de mauvaise qualité.
+
+266
+00:19:53,159 --> 00:19:58,740
+Ici, on a un mandat d'excellente qualité, mais très peu de mandat.
+
+267
+00:20:02,460 --> 00:20:04,200
+Pourquoi très peu de mandat ?
+
+268
+00:20:04,200 --> 00:20:16,759
+Eh bien, parce que la prospection physique, elle consiste à arpenter la ville, arpenter le quartier, rencontrer tout le monde, prendre des notes, revenir plus tard, repasser le lendemain, essayer de joindre quelqu'un qu'on n'arrive pas à joindre.
+
+269
+00:20:18,840 --> 00:20:27,460
+Ce sont des mandats qu'on aura en petit nombre parce qu'il n'y a pas des millions de projets autour de vous dans votre quartier.
+
+270
+00:20:27,840 --> 00:20:33,420
+Quand vous prenez les petites annonces, il y a plein, plein, plein, plein d'annonces parce que ça couvre toute la ville.
+
+271
+00:20:34,200 --> 00:20:47,480
+En prospection physique, vous ne pouvez pas couvrir toute la ville parce que vous ne pouvez pas être à plusieurs endroits en même temps. Donc, la prospection physique vous donne de très bons mandats, mais en petit nombre.
+
+272
+00:20:47,480 --> 00:21:01,259
+Il y a également deux petites caractéristiques dans la prospection téléphonique et dans la prospection physique.
+
+273
+00:21:01,700 --> 00:21:06,519
+C'est que la prospection téléphonique vous donne également des mandats à court terme.
+
+274
+00:21:08,160 --> 00:21:11,740
+Ça va relativement vite de rentrer des mandats en prospection téléphonique.
+
+275
+00:21:12,160 --> 00:21:15,339
+On prend les petites annonces, on appelle, on appelle, on appelle, on appelle, on appelle, on appelle.
+
+276
+00:21:15,339 --> 00:21:17,379
+on se cale pour la semaine suivante
+
+277
+00:21:17,379 --> 00:21:19,480
+1, 2, 3, 4, 5, 6, 10 rendez-vous
+
+278
+00:21:19,480 --> 00:21:21,220
+on va rencontrer les gens
+
+279
+00:21:21,220 --> 00:21:22,619
+on a des mandats très vite
+
+280
+00:21:22,619 --> 00:21:24,399
+en une semaine on peut avoir des mandats
+
+281
+00:21:24,399 --> 00:21:28,220
+la prospection physique
+
+282
+00:21:28,220 --> 00:21:30,240
+mandat d'excellente qualité
+
+283
+00:21:30,240 --> 00:21:31,039
+très peu de mandats
+
+284
+00:21:31,039 --> 00:21:31,639
+et surtout
+
+285
+00:21:31,639 --> 00:21:34,859
+à long terme
+
+286
+00:21:34,859 --> 00:21:37,939
+pourquoi à long terme ?
+
+287
+00:21:37,939 --> 00:21:38,839
+parce que comme je vous l'ai dit
+
+288
+00:21:38,839 --> 00:21:40,500
+on rencontre une vieille dame
+
+289
+00:21:40,500 --> 00:21:40,959
+qui nous dit
+
+290
+00:21:40,959 --> 00:21:42,740
+ah oui il y a un divorce là-bas
+
+291
+00:21:42,740 --> 00:21:44,259
+ou ah je ne sais pas bien
+
+292
+00:21:44,259 --> 00:21:47,359
+c'est la rue d'à côté
+
+293
+00:21:47,359 --> 00:21:48,799
+je sais que j'en ai entendu parler
+
+294
+00:21:48,799 --> 00:21:49,819
+chez le coiffeur
+
+295
+00:21:49,819 --> 00:21:52,299
+mais vous ne savez pas qui, vous ne savez pas où
+
+296
+00:21:52,299 --> 00:21:55,039
+je sais juste que c'est un couple
+
+297
+00:21:55,039 --> 00:21:56,559
+qui avait emménagé il y a quelques années
+
+298
+00:21:56,559 --> 00:21:59,099
+il déménage, ah bon, donc on a un tuyau
+
+299
+00:21:59,099 --> 00:22:01,059
+après il faudra peut-être aller
+
+300
+00:22:01,059 --> 00:22:02,920
+chez le coiffeur, aller ailleurs et retrouver
+
+301
+00:22:02,920 --> 00:22:04,339
+ce sont des mandats
+
+302
+00:22:04,339 --> 00:22:06,940
+qu'on arrive à rentrer sur plusieurs semaines
+
+303
+00:22:06,940 --> 00:22:08,099
+voire sur plusieurs mois
+
+304
+00:22:08,099 --> 00:22:10,720
+il est tout à fait courant
+
+305
+00:22:10,720 --> 00:22:12,319
+en prospection physique
+
+306
+00:22:12,319 --> 00:22:14,099
+de rentrer des mandats
+
+307
+00:22:14,259 --> 00:22:19,660
+deux mois, trois mois après avoir eu l'info d'origine.
+
+308
+00:22:20,339 --> 00:22:24,039
+Pourquoi ? Parce que nous, on a eu l'info au moment où la vieille dame venait de mourir, par exemple.
+
+309
+00:22:24,640 --> 00:22:28,339
+Elle venait de mourir, mais ses héritiers, il nous a fallu du temps pour les retrouver,
+
+310
+00:22:28,839 --> 00:22:32,319
+parce qu'ils n'habitent pas forcément à côté, ils peuvent être à l'autre bout de la France, voire du monde.
+
+311
+00:22:33,140 --> 00:22:35,700
+Et puis, vendre la maison, ce n'était pas forcément leur priorité.
+
+312
+00:22:35,700 --> 00:22:39,640
+Déjà, ils devaient gérer leur chagrin, la peine de perdre leur mère ou leur grand-mère.
+
+313
+00:22:39,640 --> 00:22:42,120
+et puis faire la succession
+
+314
+00:22:42,120 --> 00:22:43,840
+et puis ils n'avaient pas
+
+315
+00:22:43,840 --> 00:22:45,400
+particulièrement besoin d'argent
+
+316
+00:22:45,400 --> 00:22:47,460
+ces gens-là, donc la vente
+
+317
+00:22:47,460 --> 00:22:48,660
+ils vont la faire
+
+318
+00:22:48,660 --> 00:22:50,560
+mais ce n'est pas une urgence
+
+319
+00:22:50,560 --> 00:22:53,060
+et donc vous, vous faites une estimation
+
+320
+00:22:53,060 --> 00:22:55,860
+un avis de valeur et puis vous les suivez
+
+321
+00:22:55,860 --> 00:22:57,960
+ça prend très longtemps
+
+322
+00:22:57,960 --> 00:22:59,700
+finalement c'est un mandat que vous rentrez
+
+323
+00:22:59,700 --> 00:23:01,300
+3 mois, 4 mois, 5 mois après
+
+324
+00:23:01,300 --> 00:23:03,780
+des mandats à long terme
+
+325
+00:23:03,780 --> 00:23:05,480
+mais d'excellente qualité
+
+326
+00:23:05,480 --> 00:23:07,700
+donc voilà
+
+327
+00:23:07,700 --> 00:23:09,620
+les deux modes de prospection
+
+328
+00:23:09,620 --> 00:23:12,059
+que nous vous aurions enseigné
+
+329
+00:23:12,059 --> 00:23:13,640
+si vous nous aviez rejoints il y a
+
+330
+00:23:13,640 --> 00:23:15,559
+10 ans, il y a 15 ans, il y a 20 ans.
+
+331
+00:23:16,660 --> 00:23:17,340
+Aujourd'hui,
+
+332
+00:23:18,539 --> 00:23:19,259
+à votre avis,
+
+333
+00:23:21,019 --> 00:23:21,519
+laquelle
+
+334
+00:23:21,519 --> 00:23:22,880
+de ces prospections
+
+335
+00:23:22,880 --> 00:23:25,480
+pourrions-nous toujours pratiquer ?
+
+336
+00:23:32,019 --> 00:23:34,880
+À votre avis ?
+
+337
+00:23:34,880 --> 00:23:35,920
+Il y en a une des deux
+
+338
+00:23:35,920 --> 00:23:37,240
+qu'on utilise toujours aujourd'hui.
+
+339
+00:23:38,700 --> 00:23:42,500
+Oui, bien joué Thierry, la prospection physique.
+
+340
+00:23:43,299 --> 00:23:46,160
+La prospection physique, ça existe toujours et ça marche toujours.
+
+341
+00:23:46,920 --> 00:23:52,319
+Non seulement ça existe toujours et ça marche toujours, mais nous la recommandons vivement.
+
+342
+00:23:53,140 --> 00:23:57,799
+Par contre, la prospection téléphonique, alors là, pas du tout.
+
+343
+00:23:58,440 --> 00:24:00,140
+Pas du tout pour plein de raisons.
+
+344
+00:24:01,200 --> 00:24:05,080
+Et la première raison pour laquelle la prospection téléphonique, ça ne marche plus,
+
+345
+00:24:05,079 --> 00:24:07,460
+on va regarder ça ensemble
+
+346
+00:24:07,460 --> 00:24:08,480
+et vous allez voir
+
+347
+00:24:08,480 --> 00:24:11,819
+je vais sur
+
+348
+00:24:11,819 --> 00:24:13,019
+leboncoin
+
+349
+00:24:13,019 --> 00:24:19,619
+immobilier
+
+350
+00:24:19,619 --> 00:24:23,980
+donc
+
+351
+00:24:23,980 --> 00:24:26,199
+j'ai mal cliqué, excuse-moi
+
+352
+00:24:26,199 --> 00:24:27,419
+je vais chercher une maison
+
+353
+00:24:27,419 --> 00:24:29,419
+et cette maison
+
+354
+00:24:29,419 --> 00:24:30,679
+je vais la chercher
+
+355
+00:24:30,679 --> 00:24:32,679
+bon, voilà
+
+356
+00:24:32,680 --> 00:24:37,000
+Ça me propose des choses directement à différents endroits.
+
+357
+00:24:37,120 --> 00:24:38,100
+Là, on est dans le Pas-de-Calais.
+
+358
+00:24:38,600 --> 00:24:39,560
+Là, on est dans le Doubs.
+
+359
+00:24:41,799 --> 00:24:49,860
+Là, on est en Loire-Atlantique.
+
+360
+00:24:50,240 --> 00:24:54,360
+On va chercher les annonces de particuliers.
+
+361
+00:24:55,180 --> 00:24:58,120
+Parce que ça ne nous sert à rien d'aller chercher les annonces des professionnels.
+
+362
+00:24:58,240 --> 00:25:00,039
+Nous, on veut appeler les vendeurs particuliers.
+
+363
+00:25:00,879 --> 00:25:05,559
+Donc voici des maisons dont les annonces ont été passées par les vendeurs.
+
+364
+00:25:05,659 --> 00:25:08,879
+Donc ça veut dire que le vendeur, il a déjà fixé son prix.
+
+365
+00:25:09,339 --> 00:25:09,599
+Ah oui.
+
+366
+00:25:11,379 --> 00:25:15,359
+Puisqu'il a écrit ici, 335 000 euros.
+
+367
+00:25:15,980 --> 00:25:17,420
+Comment il a fixé son prix ?
+
+368
+00:25:17,420 --> 00:25:20,279
+De manière intelligente ou de manière pas du tout intelligente ?
+
+369
+00:25:20,279 --> 00:25:21,059
+J'en sais rien.
+
+370
+00:25:21,599 --> 00:25:22,839
+En tout cas, voici cette maison.
+
+371
+00:25:22,839 --> 00:25:24,339
+C'est une belle maison, voilà.
+
+372
+00:25:25,079 --> 00:25:27,039
+Elle a des défauts, elle a des qualités, bien sûr.
+
+373
+00:25:27,980 --> 00:25:29,980
+Allez, appelons le vendeur.
+
+374
+00:25:30,039 --> 00:25:38,980
+je cherche
+
+375
+00:25:38,980 --> 00:25:40,500
+comment appeler le vendeur
+
+376
+00:25:40,500 --> 00:25:43,279
+je cherche son numéro
+
+377
+00:25:43,279 --> 00:25:45,099
+je ne l'ai pas
+
+378
+00:25:45,099 --> 00:25:47,980
+il n'y a pas le numéro du vendeur
+
+379
+00:25:47,980 --> 00:25:50,980
+il est où ?
+
+380
+00:25:50,980 --> 00:25:51,680
+il n'y a pas de numéro
+
+381
+00:25:51,680 --> 00:25:53,599
+ah ici je peux
+
+382
+00:25:53,599 --> 00:25:55,859
+envoyer un message
+
+383
+00:25:55,859 --> 00:25:57,440
+et ça me demande de créer un compte
+
+384
+00:25:57,440 --> 00:25:59,160
+d'ailleurs. Je peux envoyer
+
+385
+00:25:59,160 --> 00:26:01,299
+un message. Je n'ai pas
+
+386
+00:26:01,299 --> 00:26:02,279
+le numéro du vendeur.
+
+387
+00:26:03,279 --> 00:26:05,400
+Bon, ça doit être juste cette
+
+388
+00:26:05,400 --> 00:26:07,340
+annonce-là. J'ai vu à bas qu'il y en avait d'autres.
+
+389
+00:26:08,080 --> 00:26:09,200
+Allez, je vais regarder celle-là.
+
+390
+00:26:14,140 --> 00:26:15,039
+288 000 euros.
+
+391
+00:26:17,380 --> 00:26:18,920
+C'est très joli, c'est très beau.
+
+392
+00:26:19,680 --> 00:26:21,279
+J'aimerais bien avoir cette maison en mandat.
+
+393
+00:26:21,519 --> 00:26:22,960
+J'ai des acquéreurs potentiels.
+
+394
+00:26:23,580 --> 00:26:25,400
+Où est le numéro ?
+
+395
+00:26:27,440 --> 00:26:34,039
+Pas de numéro, premier contact par e-mail, pas d'agence.
+
+396
+00:26:34,440 --> 00:26:39,860
+Alors le pas d'agence, ça, ça a toujours existé, il ne faut pas s'en faire, ce n'est pas un problème.
+
+397
+00:26:40,759 --> 00:26:52,920
+Par contre, premier contact par e-mail, envoyer un message, pas de numéro, là encore.
+
+398
+00:26:52,920 --> 00:26:54,860
+allons voir une
+
+399
+00:26:54,860 --> 00:26:56,580
+autre annonce, cette pièce
+
+400
+00:26:56,580 --> 00:26:57,840
+370 000 euros
+
+401
+00:26:57,840 --> 00:27:00,660
+ça c'est une annonce de professionnel, elle vient de chez
+
+402
+00:27:00,660 --> 00:27:02,039
+Safty, donc ça compte pas
+
+403
+00:27:02,039 --> 00:27:03,680
+celle-ci
+
+404
+00:27:03,680 --> 00:27:06,519
+et là encore
+
+405
+00:27:06,519 --> 00:27:08,019
+ah, voir le numéro
+
+406
+00:27:08,019 --> 00:27:10,920
+ah, il faut que je me connecte
+
+407
+00:27:12,920 --> 00:27:14,180
+il est devenu
+
+408
+00:27:14,180 --> 00:27:15,120
+elle est très belle cette maison
+
+409
+00:27:15,120 --> 00:27:16,980
+moi je trouve ça très chouette
+
+410
+00:27:16,980 --> 00:27:19,180
+il est devenu aujourd'hui
+
+411
+00:27:19,180 --> 00:27:21,080
+quasiment impossible
+
+412
+00:27:21,079 --> 00:27:23,419
+d'appeler les vendeurs
+
+413
+00:27:23,419 --> 00:27:25,539
+parce qu'ils ne mettent plus leur numéro,
+
+414
+00:27:26,199 --> 00:27:27,379
+parce qu'ils sont sur la liste
+
+415
+00:27:27,379 --> 00:27:29,319
+bloctelle et parce que chaque
+
+416
+00:27:29,319 --> 00:27:30,779
+année, la loi
+
+417
+00:27:30,779 --> 00:27:33,240
+encadre de plus en plus,
+
+418
+00:27:33,279 --> 00:27:35,399
+de plus en plus, de plus en plus, la prospection
+
+419
+00:27:35,399 --> 00:27:36,119
+téléphonique.
+
+420
+00:27:36,939 --> 00:27:39,319
+Et la loi met de plus en plus
+
+421
+00:27:39,319 --> 00:27:41,379
+de barrières qui empêchent
+
+422
+00:27:41,379 --> 00:27:43,240
+les professionnels de prospecter
+
+423
+00:27:43,240 --> 00:27:44,899
+les particuliers.
+
+424
+00:27:45,339 --> 00:27:46,919
+Et de vous à moi, ce n'est pas anormal.
+
+425
+00:27:47,099 --> 00:27:48,319
+On est tous
+
+426
+00:27:48,319 --> 00:27:51,000
+embêtés
+
+427
+00:27:51,000 --> 00:27:52,859
+profondément embêtés par
+
+428
+00:27:52,859 --> 00:27:54,819
+des sollicitations
+
+429
+00:27:54,819 --> 00:27:57,299
+non désirées pour des fenêtres,
+
+430
+00:27:57,400 --> 00:27:58,880
+pour de la rénovation énergétique,
+
+431
+00:27:59,000 --> 00:28:00,859
+même si c'est interdit, pour
+
+432
+00:28:00,859 --> 00:28:02,720
+des formations, pour
+
+433
+00:28:02,720 --> 00:28:04,940
+des contrats
+
+434
+00:28:04,940 --> 00:28:06,599
+d'énergie, pour des contrats
+
+435
+00:28:06,599 --> 00:28:08,740
+internet. On reçoit plein, plein, plein
+
+436
+00:28:08,740 --> 00:28:10,680
+d'appels de spam non sollicités.
+
+437
+00:28:11,519 --> 00:28:12,400
+Donc, je le comprends.
+
+438
+00:28:13,059 --> 00:28:14,599
+Vous comprenez pourquoi la prospection
+
+439
+00:28:14,599 --> 00:28:17,000
+téléphonique, aujourd'hui, il faut l'oublier.
+
+440
+00:28:17,819 --> 00:28:18,539
+Il faut l'oublier.
+
+441
+00:28:18,839 --> 00:28:20,799
+Elle apportait l'avantage de permettre
+
+442
+00:28:20,799 --> 00:28:22,519
+de se constituer un portefeuille
+
+443
+00:28:22,519 --> 00:28:24,659
+quand on démarre son activité
+
+444
+00:28:24,659 --> 00:28:26,919
+ou quand on est parti
+
+445
+00:28:26,919 --> 00:28:28,899
+en vacances 2-3 semaines ou en revient
+
+446
+00:28:28,899 --> 00:28:30,460
+on n'a plus beaucoup de mandat en portefeuille
+
+447
+00:28:30,460 --> 00:28:32,480
+ça permettait en peu de temps
+
+448
+00:28:32,480 --> 00:28:34,659
+de se garnir ou regarnir
+
+449
+00:28:34,659 --> 00:28:36,119
+un portefeuille de mandat
+
+450
+00:28:36,119 --> 00:28:38,000
+aujourd'hui c'est fini
+
+451
+00:28:38,000 --> 00:28:40,799
+la prospection téléphonique je la mets en rouge
+
+452
+00:28:40,799 --> 00:28:42,859
+parce que c'est devenu
+
+453
+00:28:42,859 --> 00:28:45,159
+absolument impossible
+
+454
+00:28:45,159 --> 00:28:46,639
+aujourd'hui
+
+455
+00:28:46,639 --> 00:28:48,079
+il nous reste la prospection physique
+
+456
+00:28:48,079 --> 00:28:52,639
+la prospection physique, mais pas seulement.
+
+457
+00:28:53,740 --> 00:28:55,059
+C'est à la lucarne de l'immobilier.
+
+458
+00:28:56,000 --> 00:28:59,659
+Nous avons su réagir il y a maintenant plusieurs années,
+
+459
+00:29:00,439 --> 00:29:03,359
+voyant que, effectivement, la difficulté à rentrer des mandats
+
+460
+00:29:03,359 --> 00:29:06,439
+en prospection téléphonique devenait insurmontable.
+
+461
+00:29:06,439 --> 00:29:12,220
+Nous avons réagi en mettant en place un nouveau mode de prospection
+
+462
+00:29:12,220 --> 00:29:16,079
+d'une efficacité absolument redoutable.
+
+463
+00:29:16,079 --> 00:29:37,720
+Un système qui fonctionne extrêmement bien, qui est à votre service, à la lucarne de l'immobilier, et qui vous permet de rentrer des mandats de bonne qualité en rendant la prospection physique beaucoup plus facile.
+
+464
+00:29:39,159 --> 00:29:42,179
+Comment cela fonctionne-t-il à votre avis ?
+
+465
+00:29:42,180 --> 00:29:48,759
+Eh bien, c'est un système de recommandation par apporteur d'affaires.
+
+466
+00:29:50,560 --> 00:29:52,860
+Qu'est-ce que la recommandation ?
+
+467
+00:29:52,860 --> 00:30:02,519
+La recommandation, c'est le principe selon lequel des gens vous recommandent à leur connaissance à eux.
+
+468
+00:30:03,620 --> 00:30:05,799
+Qu'est-ce que je veux dire par là ?
+
+469
+00:30:05,799 --> 00:30:12,639
+Eh bien, en fait, des gens qui vendent leur appartement ou leur maison autour de vous,
+
+470
+00:30:13,220 --> 00:30:15,419
+il y en a des dizaines et des dizaines et des dizaines et des dizaines.
+
+471
+00:30:16,799 --> 00:30:17,720
+Simplement, vous ne savez pas qui.
+
+472
+00:30:18,480 --> 00:30:22,180
+Il y en a des dizaines et des dizaines que vous connaissez indirectement.
+
+473
+00:30:22,180 --> 00:30:27,680
+C'est l'ami d'un ami, c'est le cousin d'un collègue de travail, c'est n'importe qui.
+
+474
+00:30:28,980 --> 00:30:32,180
+Que vous connaissez directement ou que vous connaissez indirectement
+
+475
+00:30:32,180 --> 00:30:33,720
+ou que vous ne connaissez pas du tout.
+
+476
+00:30:33,720 --> 00:30:36,720
+parce que le cousin de votre ancien collègue de travail,
+
+477
+00:30:37,279 --> 00:30:38,559
+vous ne l'avez peut-être jamais rencontré.
+
+478
+00:30:39,140 --> 00:30:41,079
+Par contre, vous connaissez votre ancien collègue de travail
+
+479
+00:30:41,079 --> 00:30:42,620
+avec lequel vous avez gardé des bonnes relations.
+
+480
+00:30:43,960 --> 00:30:46,299
+Et en fait, si on faisait une constellation
+
+481
+00:30:46,299 --> 00:30:48,640
+de tous les gens que vous connaissez,
+
+482
+00:30:49,000 --> 00:30:49,759
+vous les connaissez un peu,
+
+483
+00:30:51,059 --> 00:30:52,519
+vous les connaissez plutôt pas mal,
+
+484
+00:30:52,880 --> 00:30:53,940
+vous les connaissez très bien.
+
+485
+00:30:54,440 --> 00:30:55,420
+Ça représente des milliers de gens.
+
+486
+00:30:55,700 --> 00:30:57,059
+On connaît tous des milliers de gens.
+
+487
+00:30:57,420 --> 00:30:59,460
+On les connaît un peu, on les connaît pas mal,
+
+488
+00:30:59,460 --> 00:31:01,440
+on les connaît bien, on connaît tous des milliers de gens.
+
+489
+00:31:01,440 --> 00:31:13,160
+Et chacune de ces personnes qu'on connaît connaît elle-même des milliers d'autres gens que nous connaissons un peu de loin indirectement ou pas du tout.
+
+490
+00:31:14,500 --> 00:31:27,340
+Et c'est dans ces milliers de gens qu'on connaît et les milliers de gens que les milliers de gens qu'on connaît connaissent que se cachent des dizaines et des dizaines de vendeurs de maisons et d'appartements.
+
+491
+00:31:27,339 --> 00:31:30,939
+le problème c'est que ces vendeurs de maisons et d'appartements
+
+492
+00:31:30,939 --> 00:31:34,359
+personne ne songe à nous les envoyer
+
+493
+00:31:34,359 --> 00:31:35,939
+pas du tout
+
+494
+00:31:35,939 --> 00:31:38,199
+parce que personne n'a intérêt
+
+495
+00:31:38,199 --> 00:31:40,659
+personne n'a quelque chose à gagner
+
+496
+00:31:40,659 --> 00:31:42,319
+à absolument dire
+
+497
+00:31:42,319 --> 00:31:43,359
+ah tu vends ta maison
+
+498
+00:31:43,359 --> 00:31:46,339
+oh mais attends je connais quelqu'un qui bosse dans l'immobilier
+
+499
+00:31:46,339 --> 00:31:48,000
+non pas du tout
+
+500
+00:31:48,000 --> 00:31:51,199
+et pourtant ces recommandations
+
+501
+00:31:51,199 --> 00:31:53,939
+quand vous connaissez quelqu'un
+
+502
+00:31:53,939 --> 00:31:57,279
+que cette personne a confiance en vous
+
+503
+00:31:57,339 --> 00:31:59,039
+elle sait qu'on peut vous faire confiance
+
+504
+00:31:59,039 --> 00:32:01,139
+et que cette personne
+
+505
+00:32:01,139 --> 00:32:03,119
+vous recommande auprès de quelqu'un
+
+506
+00:32:03,119 --> 00:32:04,019
+qui vend sa maison,
+
+507
+00:32:05,579 --> 00:32:07,339
+vous vous retrouvez dans une super
+
+508
+00:32:07,339 --> 00:32:08,039
+pole position
+
+509
+00:32:08,039 --> 00:32:10,939
+comme la prospection physique,
+
+510
+00:32:11,319 --> 00:32:13,000
+vous pouvez arriver tôt,
+
+511
+00:32:14,339 --> 00:32:15,220
+suffisamment tôt
+
+512
+00:32:15,220 --> 00:32:16,839
+pour que le prix ne soit pas encore
+
+513
+00:32:16,839 --> 00:32:18,379
+fixé
+
+514
+00:32:18,379 --> 00:32:21,339
+et vous pouvez arriver suffisamment tôt
+
+515
+00:32:21,339 --> 00:32:23,579
+pour que le
+
+516
+00:32:23,579 --> 00:32:25,379
+vendeur ne soit pas déjà
+
+517
+00:32:25,380 --> 00:32:29,860
+entre les mains de 10, 15, 20, 30 autres professionnels de l'immobilier.
+
+518
+00:32:31,780 --> 00:32:35,060
+Et bien lorsque vous êtes recommandé par un ami, par un membre de la famille
+
+519
+00:32:35,060 --> 00:32:37,700
+qui sait que vous êtes une personne de confiance,
+
+520
+00:32:39,080 --> 00:32:42,600
+vous arrivez comme un système de prospection physique,
+
+521
+00:32:43,420 --> 00:32:46,260
+mais avec un travail qui va beaucoup plus vite.
+
+522
+00:32:47,520 --> 00:32:49,200
+Comment cela fonctionne-t-il ?
+
+523
+00:32:49,200 --> 00:32:53,740
+Et bien, nous avons développé, avec une société partenaire,
+
+524
+00:32:53,740 --> 00:32:56,079
+qui s'appelle la société WeMove.
+
+525
+00:32:58,440 --> 00:32:59,299
+Que voici.
+
+526
+00:33:00,700 --> 00:33:07,880
+Cette société WeMove qui a été créée par un ancien agent de la lucarne de l'immobilier, à Marseille.
+
+527
+00:33:09,099 --> 00:33:10,859
+Vous voyez, ça reste en famille.
+
+528
+00:33:11,440 --> 00:33:17,680
+On a une vision des choses très familiale, avec une très grande proximité de toute manière à la lucarne.
+
+529
+00:33:17,680 --> 00:33:22,680
+On est vraiment une grande équipe, on va dire une grande famille.
+
+530
+00:33:23,740 --> 00:33:28,220
+Donc, cette société qui a été montée par Michel Corvas,
+
+531
+00:33:28,299 --> 00:33:31,759
+un ancien négociateur de la lucarne à Marseille,
+
+532
+00:33:31,839 --> 00:33:33,779
+il a passé une petite dizaine d'années chez nous,
+
+533
+00:33:33,859 --> 00:33:34,839
+peut-être quelque chose comme ça.
+
+534
+00:33:36,500 --> 00:33:40,660
+Eh bien, ce système auquel je me connecte là pour vous montrer,
+
+535
+00:33:41,900 --> 00:33:44,539
+auquel vous êtes normalement, pour la plupart d'entre vous,
+
+536
+00:33:44,620 --> 00:33:45,559
+vous êtes déjà inscrits.
+
+537
+00:33:46,240 --> 00:33:48,480
+Regardez, si je vais chercher les utilisateurs,
+
+538
+00:33:48,480 --> 00:33:49,420
+si je prends Thierry,
+
+539
+00:33:51,880 --> 00:33:53,359
+hop, Thierry est là.
+
+540
+00:33:53,740 --> 00:33:56,220
+Si je prends Delphine,
+
+541
+00:33:59,680 --> 00:34:02,160
+hop, Delphine est là, et ainsi de suite.
+
+542
+00:34:02,480 --> 00:34:05,240
+Donc, vous êtes déjà tous inscrits ici.
+
+543
+00:34:06,579 --> 00:34:07,019
+C'est gratuit.
+
+544
+00:34:07,859 --> 00:34:08,980
+Vous n'avez rien à payer.
+
+545
+00:34:09,960 --> 00:34:12,059
+C'est nous qui avons mis ça en place,
+
+546
+00:34:12,639 --> 00:34:16,280
+et c'est nous qui payons pour ce système et pour ce service.
+
+547
+00:34:16,860 --> 00:34:18,980
+Donc, vraiment, c'est à votre disposition.
+
+548
+00:34:20,420 --> 00:34:21,980
+Ce système, en fait, alors,
+
+549
+00:34:21,980 --> 00:34:39,619
+Alors, si vous allez sur WeMove, ici sur le site, vous verrez des explications, vous verrez des vidéos, vous verrez plein de choses très utiles, plein de choses extrêmement utiles.
+
+550
+00:34:39,619 --> 00:34:42,579
+mais dans notre cas
+
+551
+00:34:42,579 --> 00:34:44,139
+et bien
+
+552
+00:34:44,139 --> 00:34:45,599
+WeMove
+
+553
+00:34:45,599 --> 00:34:48,219
+c'est une application que vous pouvez
+
+554
+00:34:48,219 --> 00:34:50,259
+trouver si vous allez sur
+
+555
+00:34:50,259 --> 00:34:51,759
+votre magasin d'applications
+
+556
+00:34:51,759 --> 00:34:54,219
+Apple
+
+557
+00:34:54,819 --> 00:34:55,639
+l'App Store
+
+558
+00:34:55,639 --> 00:34:58,299
+ou bien votre magasin
+
+559
+00:34:58,299 --> 00:34:59,699
+d'applications Android
+
+560
+00:34:59,699 --> 00:35:01,779
+qui s'appelle Google Play Store
+
+561
+00:35:01,779 --> 00:35:03,799
+et vous tapez tout simplement
+
+562
+00:35:03,799 --> 00:35:06,079
+je vais vous le mettre ici
+
+563
+00:35:06,079 --> 00:35:18,179
+et vous trouverez l'application à la lucarne cette application à la lucarne c'est une
+
+564
+00:35:18,179 --> 00:35:29,360
+application que vous devez faire télécharger à vos connaissances afin de leur permettre de
+
+565
+00:35:29,360 --> 00:35:40,160
+vous envoyer des recommandations des clients lorsque ils entendront parler d'une éventuelle
+
+566
+00:35:40,160 --> 00:35:53,480
+maison à vendre parce que c'est à ça que sert cette cette application cette application tous
+
+567
+00:35:53,480 --> 00:36:00,440
+vos contacts doivent l'avoir dans votre téléphone portable quand je dis tous vos contacts ce sont
+
+568
+00:36:00,440 --> 00:36:08,659
+toutes vos connaissances d'aujourd'hui vos connaissances de demain aujourd'hui ou demain
+
+569
+00:36:08,659 --> 00:36:19,440
+Vous avez tous un compte ici
+
+570
+00:36:19,440 --> 00:36:22,500
+Si vous n'en avez pas, demandez-le à l'animation
+
+571
+00:36:22,500 --> 00:36:25,739
+Et ce compte, imaginons que je prenne celui de Christelle
+
+572
+00:36:25,739 --> 00:36:28,399
+Qui est ici à côté de Bordeaux
+
+573
+00:36:28,399 --> 00:36:30,739
+Ce compte, il vous donne
+
+574
+00:36:30,739 --> 00:36:31,839
+Ah non, là ça va lui envoyer un email
+
+575
+00:36:31,839 --> 00:36:33,559
+Excusez-moi, je ne clique pas là où il faut
+
+576
+00:36:33,559 --> 00:36:37,119
+Ce compte, il vous donne accès avec vos identifiants
+
+577
+00:36:37,119 --> 00:36:38,659
+à un QR code.
+
+578
+00:36:39,960 --> 00:36:41,639
+C'est ce QR code
+
+579
+00:36:41,639 --> 00:36:43,239
+qui vous permet
+
+580
+00:36:43,239 --> 00:36:45,920
+alors QR code
+
+581
+00:36:45,920 --> 00:36:47,699
+ou le code parrain,
+
+582
+00:36:48,019 --> 00:36:49,579
+vous avez reçu les deux dans votre
+
+583
+00:36:49,579 --> 00:36:51,599
+interface, qui vous permet
+
+584
+00:36:51,599 --> 00:36:53,480
+d'inscrire vos amis
+
+585
+00:36:53,480 --> 00:36:55,199
+sur Wimo.
+
+586
+00:36:56,000 --> 00:36:57,339
+Vos amis, mais vous allez voir
+
+587
+00:36:57,339 --> 00:36:59,359
+qu'on va aller beaucoup plus loin
+
+588
+00:36:59,359 --> 00:37:00,859
+que simplement les amis.
+
+589
+00:37:01,539 --> 00:37:03,400
+Alors, vous avez
+
+590
+00:37:03,400 --> 00:37:05,460
+un QR code et vous avez
+
+591
+00:37:05,460 --> 00:37:07,039
+ce qu'on appelle un code
+
+592
+00:37:07,039 --> 00:37:08,079
+par un.
+
+593
+00:37:09,099 --> 00:37:09,980
+Ce code par un,
+
+594
+00:37:10,800 --> 00:37:12,820
+ou ce QR code, vous les
+
+595
+00:37:12,820 --> 00:37:14,719
+utilisez lorsque vous avez donc
+
+596
+00:37:14,719 --> 00:37:16,940
+un ami,
+
+597
+00:37:17,679 --> 00:37:18,519
+une connaissance,
+
+598
+00:37:19,119 --> 00:37:20,800
+un collègue, et que vous lui expliquez
+
+599
+00:37:20,800 --> 00:37:21,639
+la chose suivante.
+
+600
+00:37:22,659 --> 00:37:24,579
+Moi, je travaille dans l'immobilier.
+
+601
+00:37:26,699 --> 00:37:26,900
+J'ai
+
+602
+00:37:26,900 --> 00:37:27,980
+toujours besoin
+
+603
+00:37:27,980 --> 00:37:30,800
+pour satisfaire mes acquéreurs
+
+604
+00:37:30,800 --> 00:37:32,800
+de nouvelles maisons,
+
+605
+00:37:33,699 --> 00:37:34,779
+de nouveaux appartements,
+
+606
+00:37:35,480 --> 00:37:36,800
+de biens à vendre.
+
+607
+00:37:37,039 --> 00:37:38,779
+J'en ai toujours besoin.
+
+608
+00:37:39,699 --> 00:37:40,659
+Il m'en manque toujours.
+
+609
+00:37:41,500 --> 00:37:42,659
+Il m'en faut toujours plus.
+
+610
+00:37:44,179 --> 00:37:44,500
+Donc,
+
+611
+00:37:47,460 --> 00:37:48,460
+est-ce que
+
+612
+00:37:48,460 --> 00:37:51,460
+tu peux m'envoyer
+
+613
+00:37:51,460 --> 00:37:53,920
+éventuellement des informations,
+
+614
+00:37:54,539 --> 00:37:55,139
+des tuyaux,
+
+615
+00:37:55,639 --> 00:37:56,779
+lorsque quelqu'un
+
+616
+00:37:56,779 --> 00:37:58,420
+dans ton entourage
+
+617
+00:37:58,420 --> 00:38:01,159
+te dit, tu entends dire
+
+618
+00:38:01,159 --> 00:38:03,340
+qu'il vendrait sa maison,
+
+619
+00:38:04,199 --> 00:38:05,460
+qu'il vendrait son appartement.
+
+620
+00:38:05,460 --> 00:38:11,119
+« Est-ce que tu pourrais m'envoyer ces coordonnées ? Moi, ça m'est utile. »
+
+621
+00:38:11,119 --> 00:38:17,860
+Bien entendu, tout le monde va vous dire « Ah oui, oui, si tu veux, j'y pense. Oui, d'accord, pas de souci. »
+
+622
+00:38:17,860 --> 00:38:19,860
+Et puis, c'est rentré dans l'oreille, c'est sorti par l'autre.
+
+623
+00:38:20,780 --> 00:38:26,980
+Pourquoi ? Parce que ce n'est pas son problème principal de gérer votre besoin d'avoir des nouveaux mandats,
+
+624
+00:38:27,079 --> 00:38:28,740
+d'avoir des nouvelles maisons, des nouveaux appartements.
+
+625
+00:38:29,639 --> 00:38:32,860
+Ça a beau être un copain, voire un bon copain, voire même un membre de la famille,
+
+626
+00:38:32,860 --> 00:38:34,840
+il a autre chose en tête
+
+627
+00:38:34,840 --> 00:38:36,680
+il a ses soucis, il a son boulot
+
+628
+00:38:36,680 --> 00:38:38,960
+il a les gamins qui ont des problèmes à l'école
+
+629
+00:38:38,960 --> 00:38:40,099
+il a je sais pas quoi
+
+630
+00:38:40,099 --> 00:38:42,500
+bon, s'il y pense, génial
+
+631
+00:38:42,500 --> 00:38:45,000
+mais il va pas se mettre un post-it sur le front
+
+632
+00:38:45,000 --> 00:38:46,920
+pour pas oublier et pour vous envoyer à tout prix
+
+633
+00:38:46,920 --> 00:38:49,180
+c'est la raison pour laquelle
+
+634
+00:38:49,180 --> 00:38:53,220
+vous ne lui dites pas
+
+635
+00:38:53,220 --> 00:38:54,840
+bah écoute s'il te plaît ça me rendrait service
+
+636
+00:38:54,840 --> 00:38:56,300
+si tu pouvais m'envoyer quelqu'un
+
+637
+00:38:56,300 --> 00:38:58,800
+franchement, moi ça m'aiderait beaucoup
+
+638
+00:38:58,800 --> 00:39:01,160
+mais vous lui dites la chose suivante
+
+639
+00:39:01,160 --> 00:39:02,620
+bah écoute, moi
+
+640
+00:39:02,619 --> 00:39:04,500
+je suis toujours à la recherche de nouvelles maisons
+
+641
+00:39:04,500 --> 00:39:06,639
+et de nouveaux appartements en vente dans tel secteur
+
+642
+00:39:06,639 --> 00:39:09,799
+si tu veux tu peux m'aider
+
+643
+00:39:09,799 --> 00:39:12,440
+dès que tu entends parler d'une maison
+
+644
+00:39:12,440 --> 00:39:13,940
+d'un appartement à vendre
+
+645
+00:39:13,940 --> 00:39:16,519
+tu peux m'envoyer
+
+646
+00:39:16,519 --> 00:39:17,940
+les coordonnées de la personne en question
+
+647
+00:39:17,940 --> 00:39:20,599
+qu'est-ce que ça t'apporte
+
+648
+00:39:20,599 --> 00:39:22,219
+à toi ?
+
+649
+00:39:22,219 --> 00:39:23,799
+parce que ce que ça m'apporte à moi c'est simple
+
+650
+00:39:23,799 --> 00:39:25,339
+je vais gagner des honoraires
+
+651
+00:39:25,339 --> 00:39:27,179
+je vais gagner une commission sur la vente
+
+652
+00:39:27,179 --> 00:39:28,599
+moi c'est comme ça que je gagne ma vie
+
+653
+00:39:28,599 --> 00:39:31,019
+mais toi qu'est-ce que ça va t'apporter ?
+
+654
+00:39:31,019 --> 00:39:32,440
+je vais te donner une partie de ma commission
+
+655
+00:39:32,440 --> 00:39:39,619
+c'est aussi simple que ça je vais donner 100 200 300 400 euros alors c'est vous qui définissez le
+
+656
+00:39:39,619 --> 00:39:48,039
+barème que vous voulez donner généralement c'est entre 200 et 600 euros selon le montant de la
+
+657
+00:39:48,039 --> 00:39:53,440
+maison si c'est une très grosse maison 600 mille sept cent mille huit cent mille euros effectivement
+
+658
+00:39:53,440 --> 00:39:59,619
+faut donner 5 600 euros à votre rapporteur d'affaires si tu une petite maison 200 250
+
+659
+00:40:00,259 --> 00:40:01,019
+300 000 euros,
+
+660
+00:40:01,380 --> 00:40:02,739
+vous ne lui donnez pas 600 euros,
+
+661
+00:40:02,839 --> 00:40:05,019
+vous lui donnez 200, 300, 300 euros.
+
+662
+00:40:06,500 --> 00:40:07,480
+Mais 300 euros,
+
+663
+00:40:09,460 --> 00:40:10,980
+qui crache sur 300 euros ?
+
+664
+00:40:10,980 --> 00:40:12,259
+Surtout quand on voit le prix de l'essence
+
+665
+00:40:12,259 --> 00:40:13,380
+qui est en train d'exploser.
+
+666
+00:40:14,359 --> 00:40:16,259
+Qui crache sur 300 ou 400 euros ?
+
+667
+00:40:16,259 --> 00:40:17,699
+Pas moi, ça je vous le garantis,
+
+668
+00:40:17,759 --> 00:40:19,380
+si quelqu'un veut me donner 300 euros, je les prends.
+
+669
+00:40:19,920 --> 00:40:20,920
+N'hésite pas une seule seconde.
+
+670
+00:40:22,659 --> 00:40:23,980
+Vous êtes en train d'expliquer
+
+671
+00:40:23,980 --> 00:40:25,900
+à toutes vos connaissances, vos frères,
+
+672
+00:40:26,039 --> 00:40:27,819
+vos soeurs, vos cousins, vos cousines,
+
+673
+00:40:27,900 --> 00:40:29,239
+les anciens collègues de travail,
+
+674
+00:40:29,239 --> 00:40:34,579
+les copains du club de sport les copains les anciennes copines de classe que je vois régulièrement
+
+675
+00:40:34,579 --> 00:40:40,099
+pour prendre un verre je suis en train de leur expliquer que je leur demande pas de penser à
+
+676
+00:40:40,099 --> 00:40:43,439
+moi comme ça si elle y pense pour m'envoyer une maison non je suis en train de leur dire que je
+
+677
+00:40:43,439 --> 00:40:51,679
+vais leur faire gagner des sous que je vais leur faire gagner de l'argent et c'est là que
+
+678
+00:40:51,679 --> 00:40:55,879
+l'application à la lucarne intervient alors j'espère que vous l'avez tout télécharger sur
+
+679
+00:40:55,880 --> 00:41:00,500
+vos smartphones l'application à la lucarne c'est là que l'application à la lucarne intervient
+
+680
+00:41:00,500 --> 00:41:08,840
+pourquoi parce qu'elle va servir à deux choses la première chose il faut que la personne l'est
+
+681
+00:41:08,840 --> 00:41:14,640
+dans son téléphone quand vous lui expliquer ça il faut le faire sur place en fait vous lui
+
+682
+00:41:14,640 --> 00:41:18,980
+fait installer sous vos yeux vous lui dites surtout pas beau tu penseras à l'installer
+
+683
+00:41:18,980 --> 00:41:24,280
+ce soir quand aura le temps non au moment où vous lui en parler ça prend deux minutes pas
+
+684
+00:41:24,280 --> 00:41:26,180
+Pas plus de deux minutes.
+
+685
+00:41:27,220 --> 00:41:29,540
+Vous lui faites télécharger, vous lui faites installer,
+
+686
+00:41:29,660 --> 00:41:32,080
+vous lui faites mettre votre code parrain.
+
+687
+00:41:32,519 --> 00:41:35,240
+Parce que quand vous lui faites télécharger,
+
+688
+00:41:35,880 --> 00:41:39,100
+la personne télécharge et là, il faut s'inscrire en mettant le code parrain.
+
+689
+00:41:39,200 --> 00:41:40,160
+C'est votre code à vous.
+
+690
+00:41:42,160 --> 00:41:44,740
+Premièrement, il faut que cette personne,
+
+691
+00:41:45,820 --> 00:41:48,540
+quand vous la quittez, elle ait l'application sur son téléphone.
+
+692
+00:41:49,280 --> 00:41:50,720
+Pourquoi ?
+
+693
+00:41:50,720 --> 00:41:54,080
+Parce qu'au moment où, dans une semaine,
+
+694
+00:41:54,280 --> 00:41:58,080
+Dans trois semaines ? Dans deux mois ?
+
+695
+00:41:58,080 --> 00:41:59,780
+Quand va-t-elle avoir un tuyau ?
+
+696
+00:41:59,780 --> 00:42:03,200
+Quand va-t-elle entendre dire que son ancien responsable
+
+697
+00:42:03,200 --> 00:42:06,640
+de je ne sais pas quoi vend sa maison ?
+
+698
+00:42:06,640 --> 00:42:07,980
+Ce n'est pas forcément le lendemain.
+
+699
+00:42:08,780 --> 00:42:11,519
+C'est dans un mois, dans deux mois, peut-être même dans six mois.
+
+700
+00:42:12,280 --> 00:42:13,560
+Et à ce moment-là, elle va dire
+
+701
+00:42:13,560 --> 00:42:16,340
+« Ah, mais il y avait un truc pour...
+
+702
+00:42:16,340 --> 00:42:18,019
+C'était quoi ? C'était où ? »
+
+703
+00:42:18,019 --> 00:42:18,740
+Alors, il m'en avait parlé.
+
+704
+00:42:18,860 --> 00:42:20,100
+Attends, j'ai 300 balles à gagner, moi.
+
+705
+00:42:20,940 --> 00:42:22,080
+C'était où ? C'était quoi ?
+
+706
+00:42:22,079 --> 00:42:24,099
+Alors, il m'avait dit qu'il y avait une application.
+
+707
+00:42:24,679 --> 00:42:25,900
+C'était quoi l'application ?
+
+708
+00:42:25,900 --> 00:42:26,579
+Oh, j'ai oublié.
+
+709
+00:42:26,739 --> 00:42:27,779
+Il fallait que j'aille sur un site.
+
+710
+00:42:28,420 --> 00:42:29,319
+Oh là là, j'ai oublié.
+
+711
+00:42:29,380 --> 00:42:29,880
+Je ne sais plus.
+
+712
+00:42:30,880 --> 00:42:31,299
+C'est perdu.
+
+713
+00:42:32,059 --> 00:42:32,619
+C'est foutu.
+
+714
+00:42:33,039 --> 00:42:39,059
+Il faut qu'au moment où votre connaissance est confrontée au tuyau de la maison en vente,
+
+715
+00:42:40,900 --> 00:42:43,719
+elle puisse dégainer tout de suite, paf, sur son téléphone.
+
+716
+00:42:43,860 --> 00:42:45,239
+Elle a l'application à la lucarne.
+
+717
+00:42:46,340 --> 00:42:47,380
+Là, elle regarde sur son téléphone.
+
+718
+00:42:47,500 --> 00:42:48,599
+Mais oui, mais il me l'avait fait télécharger.
+
+719
+00:42:49,000 --> 00:42:50,039
+Je regarde, je regarde, je regarde.
+
+720
+00:42:50,039 --> 00:42:52,759
+« Ah oui, c'est celle-là, c'est à la lucarne ! »
+
+721
+00:42:52,759 --> 00:42:55,159
+Et là, en 2-3 clics de souris,
+
+722
+00:42:55,219 --> 00:42:56,099
+enfin de souris, non, parce que c'est sur un téléphone,
+
+723
+00:42:56,559 --> 00:42:57,719
+en 2-3 clics de doigt,
+
+724
+00:42:58,139 --> 00:42:58,820
+pouf, pouf, pouf,
+
+725
+00:42:59,219 --> 00:43:01,039
+elle vous envoie les coordonnées du copain.
+
+726
+00:43:01,380 --> 00:43:05,380
+Elle lui dit « Attends, je vais t'envoyer vers un super négociateur,
+
+727
+00:43:05,599 --> 00:43:06,639
+c'est un ami d'enfance,
+
+728
+00:43:07,539 --> 00:43:09,480
+ou c'est un copain de mon club de sport, ou je ne sais pas quoi.
+
+729
+00:43:10,119 --> 00:43:12,779
+Il est de super bons conseils,
+
+730
+00:43:13,179 --> 00:43:14,380
+c'est un super pro,
+
+731
+00:43:14,800 --> 00:43:16,159
+il va t'aider à vendre ta maison.
+
+732
+00:43:16,880 --> 00:43:18,860
+Tiens, regarde, je prends tes coordonnées,
+
+733
+00:43:18,860 --> 00:43:21,559
+ton numéro de téléphone, ton nom, ton prénom, ton adresse e-mail,
+
+734
+00:43:22,220 --> 00:43:24,480
+je lui envoie, il va te recontacter.
+
+735
+00:43:24,980 --> 00:43:28,019
+Il faut que la personne, votre apporteur d'affaires,
+
+736
+00:43:28,140 --> 00:43:29,180
+parce que c'est un apporteur d'affaires,
+
+737
+00:43:30,039 --> 00:43:33,760
+il ait votre application à la lucarne sur son téléphone
+
+738
+00:43:33,760 --> 00:43:36,620
+au moment où il a le tuyau, dans un mois, dans deux mois, dans six mois.
+
+739
+00:43:37,460 --> 00:43:38,620
+Il ne faut pas qu'à ce moment-là, il se dise
+
+740
+00:43:38,620 --> 00:43:41,200
+« Ah, qu'est-ce que je devais faire déjà ? J'ai oublié. Comment ça marche ? »
+
+741
+00:43:41,200 --> 00:43:43,760
+Non, l'application, elle est là, il n'a qu'à cliquer dessus
+
+742
+00:43:43,760 --> 00:43:45,140
+et suivre les instructions.
+
+743
+00:43:45,700 --> 00:43:47,480
+Parce que quand vous lui en avez parlé,
+
+744
+00:43:47,480 --> 00:43:55,480
+Vous lui avez fait installer l'appli, il s'est connecté avec votre code parrain et tout était prêt à utiliser.
+
+745
+00:43:56,240 --> 00:44:00,179
+Il n'avait plus, quand il a le tuyau, qu'à l'ouvrir et suivre les instructions.
+
+746
+00:44:00,420 --> 00:44:02,480
+C'est hyper facile et intuitif.
+
+747
+00:44:03,639 --> 00:44:06,760
+Et en un claquement de doigts, vous avez un nouveau client.
+
+748
+00:44:11,099 --> 00:44:15,579
+La deuxième raison pour laquelle il est très important de télécharger cette application et de la voir,
+
+749
+00:44:15,579 --> 00:44:17,619
+c'est parce qu'en fait cette application
+
+750
+00:44:17,619 --> 00:44:20,360
+elle permet également à votre interlocuteur
+
+751
+00:44:20,360 --> 00:44:21,900
+votre apporteur d'affaires de comprendre
+
+752
+00:44:21,900 --> 00:44:22,980
+que ce n'est pas du blabla
+
+753
+00:44:22,980 --> 00:44:25,279
+que ce ne sont pas des paroles en l'air
+
+754
+00:44:25,279 --> 00:44:28,599
+parce qu'effectivement tout le monde peut faire des belles promesses
+
+755
+00:44:28,599 --> 00:44:29,819
+tout le monde peut dire
+
+756
+00:44:29,819 --> 00:44:31,420
+crois-moi vas-y envoie-moi des clients
+
+757
+00:44:31,420 --> 00:44:34,139
+t'auras des sous, fais-moi confiance
+
+758
+00:44:34,139 --> 00:44:35,259
+crois-moi sur parole
+
+759
+00:44:35,259 --> 00:44:36,759
+ben non on ne croit pas sur parole
+
+760
+00:44:36,759 --> 00:44:38,779
+ça n'existe pas ça
+
+761
+00:44:38,779 --> 00:44:40,940
+on se dit qu'au moment où on aura envoyé le client
+
+762
+00:44:40,940 --> 00:44:44,079
+il aura oublié, on s'était mal compris
+
+763
+00:44:44,079 --> 00:44:44,960
+c'était pas ça
+
+764
+00:44:44,960 --> 00:44:47,240
+le fait d'avoir l'application
+
+765
+00:44:47,240 --> 00:44:49,059
+regardez comment ça marche
+
+766
+00:44:49,059 --> 00:44:50,360
+le fait d'avoir l'application
+
+767
+00:44:50,360 --> 00:44:53,559
+ça permet à votre
+
+768
+00:44:53,559 --> 00:44:54,920
+interlocuteur
+
+769
+00:44:54,920 --> 00:44:57,139
+d'avoir un
+
+770
+00:44:57,139 --> 00:44:59,340
+suivi, alors regardez
+
+771
+00:44:59,340 --> 00:45:00,780
+je vous montre des exemples
+
+772
+00:45:00,780 --> 00:45:03,480
+de tuyaux, regardez celui-ci
+
+773
+00:45:03,480 --> 00:45:05,760
+Marjorie Lauterbach, Marjorie c'est un de nos agents
+
+774
+00:45:05,760 --> 00:45:07,659
+qui se trouve dans le
+
+775
+00:45:07,659 --> 00:45:10,079
+sud de la France à Salon de Provence
+
+776
+00:45:10,079 --> 00:45:11,240
+Marjorie est là
+
+777
+00:45:11,240 --> 00:45:12,980
+Marjorie
+
+778
+00:45:12,980 --> 00:45:15,900
+elle a eu un contact
+
+779
+00:45:15,900 --> 00:45:18,159
+par Florence Grandjean
+
+780
+00:45:18,159 --> 00:45:21,219
+ce contact c'était le client
+
+781
+00:45:21,219 --> 00:45:23,340
+Michel Bourdin ou Bourdenne
+
+782
+00:45:23,340 --> 00:45:25,019
+je ne sais pas si on dit Bourdin ou Bourdenne
+
+783
+00:45:25,019 --> 00:45:27,519
+en tout cas ce n'est pas très important
+
+784
+00:45:27,519 --> 00:45:30,519
+Marjorie grâce à Florence Grandjean
+
+785
+00:45:30,519 --> 00:45:34,539
+elle a eu un contact pour une vente
+
+786
+00:45:34,539 --> 00:45:37,280
+Michel Bourdenne
+
+787
+00:45:37,280 --> 00:45:39,300
+et je vois, regardez si je zoom un petit peu
+
+788
+00:45:39,300 --> 00:45:40,519
+pour que vous y voyez plus clair
+
+789
+00:45:40,519 --> 00:45:42,800
+Ce contact aujourd'hui
+
+790
+00:45:42,800 --> 00:45:44,539
+Il est au stade du compromis de vente
+
+791
+00:45:44,539 --> 00:45:47,500
+Voyez
+
+792
+00:45:47,500 --> 00:45:50,739
+On a même si on clique le détail
+
+793
+00:45:50,739 --> 00:45:53,000
+Marjorie a pris rendez-vous
+
+794
+00:45:53,000 --> 00:45:54,460
+Elle a enregistré le mandat
+
+795
+00:45:54,460 --> 00:45:56,039
+Elle a reçu une offre d'achat
+
+796
+00:45:56,039 --> 00:45:58,559
+Le compromis de vente a été fait
+
+797
+00:45:58,559 --> 00:46:00,320
+Et maintenant on attend l'acte authentique
+
+798
+00:46:00,320 --> 00:46:02,840
+C'est-à-dire la vente finale
+
+799
+00:46:02,840 --> 00:46:05,860
+Votre contact
+
+800
+00:46:05,860 --> 00:46:06,940
+Florence Grandjean
+
+801
+00:46:06,940 --> 00:46:08,679
+Qui vous a envoyé Michel Bourdin
+
+802
+00:46:08,679 --> 00:46:09,599
+Ou Bourdenne
+
+803
+00:46:10,519 --> 00:46:36,599
+Elle a accès à tout ce suivi, tout est ultra professionnalisé pour qu'elle puisse voir que ce ne sont pas des paroles en l'air, que derrière il y a un vrai système, un système qui fonctionne, un système qui lui permet d'avoir un suivi étape après étape afin d'être sécurisé dans le fait qu'elle va bien toucher la somme promise.
+
+804
+00:46:36,599 --> 00:46:38,839
+puisque tout a été
+
+805
+00:46:38,839 --> 00:46:41,019
+enregistré par
+
+806
+00:46:41,019 --> 00:46:42,400
+la société WeMove
+
+807
+00:46:42,400 --> 00:46:44,059
+qui est un tiers de confiance
+
+808
+00:46:44,059 --> 00:46:46,199
+et qui elle assure un suivi
+
+809
+00:46:46,199 --> 00:46:48,400
+parfait. Et regardez ici
+
+810
+00:46:48,400 --> 00:46:50,139
+au-dessus, donc j'étais
+
+811
+00:46:50,139 --> 00:46:51,619
+chez Marjorie là.
+
+812
+00:46:52,159 --> 00:46:53,659
+Ah non, ça c'est un autre.
+
+813
+00:46:54,119 --> 00:46:56,579
+Marjorie aussi, elle a un autre client, Valérie Régal.
+
+814
+00:46:57,380 --> 00:46:58,259
+Enfin, un contact
+
+815
+00:46:58,259 --> 00:47:00,219
+Valérie Régal qui lui a envoyé Elisabeth
+
+816
+00:47:00,219 --> 00:47:02,239
+Primo et ça aussi, regardez,
+
+817
+00:47:02,719 --> 00:47:04,400
+ça a donné lieu à la signature d'un
+
+818
+00:47:05,079 --> 00:47:05,759
+compromis.
+
+819
+00:47:06,599 --> 00:47:10,000
+Je voulais vous montrer juste au-dessus Julien.
+
+820
+00:47:10,219 --> 00:47:11,319
+Regardez Julien, lui.
+
+821
+00:47:11,839 --> 00:47:15,460
+Sébastien Bayet lui a envoyé le client Hervé Roussel.
+
+822
+00:47:15,860 --> 00:47:18,259
+On est au stade du rendez-vous à prendre.
+
+823
+00:47:19,380 --> 00:47:22,000
+Julien, on est au stade de la prise de rendez-vous.
+
+824
+00:47:22,480 --> 00:47:31,199
+Guillaume, au-dessus, a enregistré le mandat de Sylvie Brugière grâce à son contact Annie Mayol.
+
+825
+00:47:32,299 --> 00:47:33,219
+Et ainsi de suite.
+
+826
+00:47:33,719 --> 00:47:35,299
+Regardez ici Laurent.
+
+827
+00:47:35,300 --> 00:47:37,840
+Laurent qui est en région parisienne
+
+828
+00:47:37,840 --> 00:47:39,620
+grâce à Christian René Riquier
+
+829
+00:47:39,620 --> 00:47:41,880
+il a pris un mandat
+
+830
+00:47:41,880 --> 00:47:43,940
+auprès de M. Bernard Leclinch
+
+831
+00:47:43,940 --> 00:47:45,720
+prise de rendez-vous
+
+832
+00:47:45,720 --> 00:47:47,620
+mandat enregistré, offre d'achat
+
+833
+00:47:47,620 --> 00:47:49,680
+donc là il a eu une offre d'achat, la propre
+
+834
+00:47:49,680 --> 00:47:51,380
+chaîne étape qui n'est pas encore validée
+
+835
+00:47:51,380 --> 00:47:53,680
+c'est le compromis de vente. Là encore
+
+836
+00:47:53,680 --> 00:47:55,019
+M. Bernard Leclinch
+
+837
+00:47:55,019 --> 00:47:57,720
+il a donné lieu
+
+838
+00:47:57,720 --> 00:47:59,360
+à un vrai processus de vente
+
+839
+00:47:59,360 --> 00:48:01,880
+ce que Christian René Riquier
+
+840
+00:48:01,880 --> 00:48:03,640
+avec une petite faute d'orthographe
+
+841
+00:48:03,639 --> 00:48:09,819
+mais c'est pas bien grave ce que christian rené riquet peut suivre étape après étape afin de voir
+
+842
+00:48:09,819 --> 00:48:16,659
+que tout ça ce ne sont pas seulement des bonnes promesses ce sont pas seulement des paroles en
+
+843
+00:48:16,659 --> 00:48:26,599
+l'air ce sont des vrais processus qui ne tomberont pas aux oubliettes pour lesquels chacun de ces
+
+844
+00:48:26,599 --> 00:48:33,159
+contacts ici alexis l'empereur pour julien qui vient d'avoir une offre d'achat mathieu moine
+
+845
+00:48:33,159 --> 00:48:41,139
+etc ils auront bel et bien leurs honoraires à la sortie et regarder voir à quel point ça
+
+846
+00:48:41,139 --> 00:48:50,920
+marche vraiment et bien regarder un petit peu ça ce sont les les dernières activités des agents
+
+847
+00:48:50,920 --> 00:48:56,839
+du réseau alors voyez on a des agents qui sont extrêmement actifs regardez julien à julien c'est
+
+848
+00:48:56,840 --> 00:48:58,500
+C'est le roi du WeMovie, il n'arrête pas.
+
+849
+00:48:59,280 --> 00:48:59,780
+Eh bien, regardez.
+
+850
+00:49:00,160 --> 00:49:01,760
+Ici, il manque la carte d'identité.
+
+851
+00:49:02,300 --> 00:49:06,240
+Donc, Pierre est en train de valider ce contact.
+
+852
+00:49:07,720 --> 00:49:09,940
+Julien, il a un rendez-vous à prendre pour un nouveau mandat.
+
+853
+00:49:10,800 --> 00:49:13,260
+Jackie a enregistré un mandat.
+
+854
+00:49:13,620 --> 00:49:16,680
+Regardez, ça a donné lieu à un mandat.
+
+855
+00:49:17,960 --> 00:49:18,960
+Vous voyez, ça marche.
+
+856
+00:49:19,079 --> 00:49:20,059
+Un mandat est enregistré.
+
+857
+00:49:20,720 --> 00:49:22,740
+Jackie, ici, a un rendez-vous à prendre.
+
+858
+00:49:24,100 --> 00:49:25,320
+J'ai l'impression que c'est un doublon.
+
+859
+00:49:25,559 --> 00:49:26,460
+Il l'a enregistré en deux fois.
+
+860
+00:49:26,460 --> 00:49:28,079
+celui-là il faut le dédoubler
+
+861
+00:49:28,079 --> 00:49:30,980
+Julien a enregistré un mandat ici
+
+862
+00:49:30,980 --> 00:49:32,900
+il a une prise de rendez-vous
+
+863
+00:49:32,900 --> 00:49:34,440
+en attente, prise de rendez-vous en attente
+
+864
+00:49:34,440 --> 00:49:35,800
+prise de rendez-vous, prise de rendez-vous
+
+865
+00:49:35,800 --> 00:49:38,360
+tout ça ce sont des clients
+
+866
+00:49:38,360 --> 00:49:40,800
+qui ont été envoyés
+
+867
+00:49:40,800 --> 00:49:42,840
+et qui sont en cours
+
+868
+00:49:42,840 --> 00:49:44,440
+de rendez-vous pour rentrer des mandats
+
+869
+00:49:44,440 --> 00:49:47,059
+ici Laurent, offre d'achat
+
+870
+00:49:47,059 --> 00:49:48,340
+Marjorie, compromis
+
+871
+00:49:48,340 --> 00:49:49,860
+Guillaume, compte à valider
+
+872
+00:49:49,860 --> 00:49:51,539
+Laurent, rendez-vous à prendre
+
+873
+00:49:51,539 --> 00:49:53,099
+Guillaume, mandat enregistré
+
+874
+00:49:53,099 --> 00:49:55,699
+offre d'achat, compromis
+
+875
+00:49:55,699 --> 00:49:59,019
+Offre d'achat, mandat enregistré, rendez-vous à prendre
+
+876
+00:49:59,019 --> 00:50:00,379
+Et voyez, on peut aller loin là-dedans
+
+877
+00:50:00,379 --> 00:50:02,119
+Encore une offre d'achat pour Camille
+
+878
+00:50:02,119 --> 00:50:05,879
+Mandat enregistré, compromis pour Julien
+
+879
+00:50:05,879 --> 00:50:07,119
+Acte authentique pour Julien
+
+880
+00:50:07,119 --> 00:50:08,839
+Ça veut dire que là, Pascal Descamps, c'est fini
+
+881
+00:50:08,839 --> 00:50:10,239
+La vente, elle est terminée
+
+882
+00:50:10,239 --> 00:50:12,839
+Françoise Descamps, qu'est-ce qu'on voit là ?
+
+883
+00:50:12,839 --> 00:50:15,000
+C'est un membre de la famille, tout simplement
+
+884
+00:50:15,000 --> 00:50:19,139
+Françoise Descamps a envoyé son frère, son cousin
+
+885
+00:50:19,139 --> 00:50:21,839
+Je ne sais pas, son beau-frère
+
+886
+00:50:21,839 --> 00:50:24,379
+Et là, acte authentique, ça y est, c'est fini
+
+887
+00:50:24,380 --> 00:50:28,900
+Tout a été fait, ventes clôturées, Françoise Descamps a touché ses sous.
+
+888
+00:50:30,460 --> 00:50:34,380
+Vous le voyez, c'est un système qui n'est pas théorique.
+
+889
+00:50:34,780 --> 00:50:40,200
+Il est là, il est solide, il fonctionne et il donne des résultats.
+
+890
+00:50:42,480 --> 00:50:44,380
+Alors qu'est-ce que vous constatez ?
+
+891
+00:50:45,039 --> 00:50:47,420
+Il y a des noms qu'on voit beaucoup passer quand même.
+
+892
+00:50:47,619 --> 00:50:48,800
+Julien Bayeul par exemple.
+
+893
+00:50:49,660 --> 00:50:51,380
+Pourquoi on voit beaucoup plus Julien Bayeul ?
+
+894
+00:50:51,380 --> 00:50:54,700
+que, par exemple, Séverine Parizeau.
+
+895
+00:50:56,420 --> 00:50:57,539
+C'est parce que, tout simplement,
+
+896
+00:50:57,680 --> 00:50:59,860
+Julien utilise énormément ce système.
+
+897
+00:51:00,360 --> 00:51:01,360
+Il l'utilise tout le temps.
+
+898
+00:51:02,059 --> 00:51:03,820
+Et ça donne lieu à une vente, deux ventes,
+
+899
+00:51:03,900 --> 00:51:05,059
+trois ventes, quatre ventes, cinq ventes,
+
+900
+00:51:05,160 --> 00:51:06,780
+six ventes, sept ventes, huit ventes, neuf ventes.
+
+901
+00:51:08,920 --> 00:51:09,760
+Séverine, par contre,
+
+902
+00:51:09,840 --> 00:51:10,800
+elle l'utilise très peu.
+
+903
+00:51:11,599 --> 00:51:12,440
+Parce que
+
+904
+00:51:12,440 --> 00:51:14,720
+ça ne lui vient pas à l'esprit.
+
+905
+00:51:15,539 --> 00:51:16,019
+Et pourtant,
+
+906
+00:51:17,019 --> 00:51:20,000
+elle passe à côté de toutes ses ventes.
+
+907
+00:51:20,000 --> 00:51:21,659
+toutes ces ventes.
+
+908
+00:51:23,659 --> 00:51:24,059
+Alors,
+
+909
+00:51:24,860 --> 00:51:26,059
+comment ça fonctionne ?
+
+910
+00:51:26,900 --> 00:51:27,860
+Vous voyez, ici, on voit même, c'est le
+
+911
+00:51:27,860 --> 00:51:29,940
+judo club Saint-Paulois, parce que c'est un système qui
+
+912
+00:51:29,940 --> 00:51:32,059
+fonctionne extrêmement bien avec
+
+913
+00:51:32,059 --> 00:51:33,099
+les associations.
+
+914
+00:51:34,340 --> 00:51:35,119
+Et bien, tout simplement,
+
+915
+00:51:35,940 --> 00:51:37,480
+il faut que... Alors,
+
+916
+00:51:38,800 --> 00:51:40,300
+vous vous rediez un petit peu sur le système,
+
+917
+00:51:40,599 --> 00:51:41,980
+faites un ou deux ou trois essais
+
+918
+00:51:41,980 --> 00:51:43,980
+pour bien comprendre. Il est hyper simple.
+
+919
+00:51:44,139 --> 00:51:46,039
+Alors, non seulement le système est hyper simple,
+
+920
+00:51:46,519 --> 00:51:47,820
+mais en plus, vous avez
+
+921
+00:51:47,820 --> 00:51:49,719
+sur l'application WeMove
+
+922
+00:51:49,719 --> 00:51:52,399
+des mini formations en vidéo
+
+923
+00:51:52,399 --> 00:51:53,859
+des tutos
+
+924
+00:51:53,859 --> 00:51:56,219
+vous avez Mathilde
+
+925
+00:51:56,219 --> 00:51:58,459
+qui est à votre disposition, qui est juste ici
+
+926
+00:51:58,459 --> 00:52:00,319
+qui est hyper sympa, hyper pro
+
+927
+00:52:00,319 --> 00:52:02,299
+qui connait le système, elle travaille chez
+
+928
+00:52:02,299 --> 00:52:04,159
+WeMove, c'est pas quelqu'un de la lucarne Mathilde
+
+929
+00:52:04,159 --> 00:52:06,199
+Mathilde qui est hyper sympa
+
+930
+00:52:06,199 --> 00:52:08,480
+hyper pro, qui connait son système
+
+931
+00:52:08,480 --> 00:52:10,279
+sur le bout des doigts, elle est à votre
+
+932
+00:52:10,279 --> 00:52:12,519
+disposition pour vous aider, pour vous guider
+
+933
+00:52:12,519 --> 00:52:14,459
+pour vous expliquer, pour
+
+934
+00:52:14,459 --> 00:52:16,579
+vous permettre de l'utiliser le mieux
+
+935
+00:52:16,579 --> 00:52:18,339
+possible, elle fait des petites
+
+936
+00:52:18,340 --> 00:52:20,039
+visio, elle fait des petites vidéos,
+
+937
+00:52:20,240 --> 00:52:21,960
+elle fait des tutos, elle fait plein, plein, plein.
+
+938
+00:52:22,140 --> 00:52:23,420
+Il n'y a pas que Mathilde, c'est
+
+939
+00:52:23,420 --> 00:52:25,960
+principalement Mathilde, mais il y a
+
+940
+00:52:25,960 --> 00:52:27,559
+Ludovic, il y a Louis,
+
+941
+00:52:27,960 --> 00:52:29,900
+il y a plein de gens qui sont à votre disposition.
+
+942
+00:52:30,440 --> 00:52:32,140
+Ce sont des Marseillais, ils sont à Marseille,
+
+943
+00:52:33,039 --> 00:52:34,420
+les gens de WeMove.
+
+944
+00:52:34,559 --> 00:52:36,059
+Je vous ai dit, c'est Michel Corvas, c'était
+
+945
+00:52:36,059 --> 00:52:38,220
+un de nos agents qui était à Marseille dans le 8ème arrondissement
+
+946
+00:52:38,220 --> 00:52:39,400
+quand il était chez nous.
+
+947
+00:52:40,200 --> 00:52:42,140
+Il a monté cette boîte, avec ses enfants,
+
+948
+00:52:42,360 --> 00:52:44,200
+précisément. Et donc,
+
+949
+00:52:45,000 --> 00:52:46,240
+Mathilde est à votre
+
+950
+00:52:46,240 --> 00:52:48,200
+disposition, faites un essai
+
+951
+00:52:48,199 --> 00:52:50,039
+deux essais, trois essais pour bien comprendre comment
+
+952
+00:52:50,039 --> 00:52:51,939
+le système fonctionne, mais en fait, il est hyper intuitif.
+
+953
+00:52:52,039 --> 00:52:53,919
+C'est d'une simplicité sans nom.
+
+954
+00:52:54,739 --> 00:52:56,119
+Et, dès que
+
+955
+00:52:56,119 --> 00:52:58,219
+vous avez bien compris comment le système fonctionne,
+
+956
+00:52:58,599 --> 00:52:59,659
+faites des essais. C'est ce qu'il y a de mieux.
+
+957
+00:53:00,319 --> 00:53:01,519
+C'est comme les mandats électroniques.
+
+958
+00:53:01,879 --> 00:53:04,099
+Si vous n'êtes pas parfaitement au point avec les mandats électroniques,
+
+959
+00:53:04,419 --> 00:53:06,159
+faites un ou deux essais de faux mandat
+
+960
+00:53:06,159 --> 00:53:07,379
+pour comprendre comment ça fonctionne.
+
+961
+00:53:07,919 --> 00:53:09,839
+Et vous allez voir que vous allez comprendre tout de suite.
+
+962
+00:53:09,839 --> 00:53:11,259
+Il n'y a rien de tel que la pratique
+
+963
+00:53:11,259 --> 00:53:13,379
+pour bien intégrer le fonctionnement.
+
+964
+00:53:14,599 --> 00:53:14,779
+Et,
+
+965
+00:53:15,559 --> 00:53:17,619
+WeMove, ce système qu'on appelle
+
+966
+00:53:17,619 --> 00:53:24,900
+WeMove, parlez-en à toutes vos connaissances.
+
+967
+00:53:25,019 --> 00:53:28,619
+Alors, il ne faut pas dire WeMove, ça c'est chez nous, c'est en interne qu'on appelle ça WeMove.
+
+968
+00:53:29,039 --> 00:53:32,259
+Eux, vous leur dites, télécharge l'application à la lucarne.
+
+969
+00:53:33,819 --> 00:53:36,440
+Télécharge l'application à la lucarne.
+
+970
+00:53:38,960 --> 00:53:42,079
+Ça va te permettre, dès que tu auras un tuyau,
+
+971
+00:53:42,079 --> 00:53:44,199
+dès que tu auras une information
+
+972
+00:53:44,199 --> 00:53:46,059
+concernant un mandat
+
+973
+00:53:46,059 --> 00:53:48,039
+concernant une vente
+
+974
+00:53:48,039 --> 00:53:50,619
+d'une maison, d'un appartement
+
+975
+00:53:50,619 --> 00:53:53,099
+d'un terrain, de n'importe quoi
+
+976
+00:53:53,099 --> 00:53:55,179
+dès que tu auras un tuyau
+
+977
+00:53:55,179 --> 00:53:57,679
+et bien ça te permettra
+
+978
+00:53:57,679 --> 00:53:59,599
+de tout de suite me l'envoyer
+
+979
+00:53:59,599 --> 00:54:01,099
+ce sera enregistré
+
+980
+00:54:01,099 --> 00:54:02,840
+tu pourras en avoir le suivi
+
+981
+00:54:02,840 --> 00:54:04,980
+et à la fin tu toucheras
+
+982
+00:54:04,980 --> 00:54:07,179
+100, 200, 300, 400 euros
+
+983
+00:54:07,179 --> 00:54:07,799
+alors
+
+984
+00:54:07,799 --> 00:54:10,699
+combien devez-vous promettre
+
+985
+00:54:10,699 --> 00:54:12,639
+à vos apporteurs d'affaires.
+
+986
+00:54:14,259 --> 00:54:15,159
+C'est vous qui décidez.
+
+987
+00:54:15,980 --> 00:54:17,739
+En tant qu'agent commercial indépendant,
+
+988
+00:54:18,339 --> 00:54:20,519
+vous êtes seul à en avoir la maîtrise.
+
+989
+00:54:21,279 --> 00:54:22,619
+Moi, ce que je vous recommande,
+
+990
+00:54:23,219 --> 00:54:26,279
+c'est d'aller en discuter sur le groupe Facebook
+
+991
+00:54:26,279 --> 00:54:28,460
+des agents de la Lucarne.
+
+992
+00:54:29,239 --> 00:54:32,139
+Alors, si Mathieu peut me donner l'adresse
+
+993
+00:54:32,139 --> 00:54:33,759
+du groupe Facebook des agents de la Lucarne,
+
+994
+00:54:33,819 --> 00:54:34,980
+parce que moi, je ne le connais pas,
+
+995
+00:54:35,919 --> 00:54:37,519
+parce que je ne suis pas sur Facebook, moi.
+
+996
+00:54:37,519 --> 00:54:39,159
+Donc, je ne connais pas bien ces choses-là.
+
+997
+00:54:39,159 --> 00:54:41,119
+mais il y a un groupe Facebook
+
+998
+00:54:41,119 --> 00:54:43,619
+qui d'ailleurs, je vous montrais il y a un instant
+
+999
+00:54:43,619 --> 00:54:44,960
+Marjorie, elle était
+
+1000
+00:54:44,960 --> 00:54:47,799
+où est-ce qu'elle est Marjorie ?
+
+1001
+00:54:47,799 --> 00:54:49,719
+elle est dans le coin, elle est par là, Marjorie vous la voyez
+
+1002
+00:54:49,719 --> 00:54:51,219
+elle est ici, je vais vous montrer
+
+1003
+00:54:51,219 --> 00:54:52,579
+je ne peux pas vous montrer sa photo
+
+1004
+00:54:52,579 --> 00:54:55,659
+je pensais que je pouvais vous montrer la photo directement
+
+1005
+00:54:55,659 --> 00:54:57,239
+d'ici mais non je ne peux pas, en tout cas
+
+1006
+00:54:57,239 --> 00:54:59,299
+c'est pas grave, c'est Marjorie ici
+
+1007
+00:54:59,299 --> 00:55:01,859
+qui est l'administratrice
+
+1008
+00:55:01,859 --> 00:55:03,739
+du groupe Facebook
+
+1009
+00:55:03,739 --> 00:55:05,899
+à la Lucane, allez sur ce groupe
+
+1010
+00:55:05,899 --> 00:55:07,819
+et discutez avec les autres
+
+1011
+00:55:07,819 --> 00:55:08,839
+membres du réseau
+
+1012
+00:55:09,159 --> 00:55:13,960
+plus expérimentés, du montant de la récompense que vous devez donner.
+
+1013
+00:55:14,579 --> 00:55:16,159
+Ils vont vous aider parce qu'ils vont vous guider.
+
+1014
+00:55:16,319 --> 00:55:19,579
+Ils vont dire, voilà, moi je suis dans tel type de région, moi je donne ça.
+
+1015
+00:55:20,159 --> 00:55:22,059
+Moi je suis dans tel type de région, moi je donne ça.
+
+1016
+00:55:22,119 --> 00:55:24,859
+Vous verrez que c'est relativement uniforme.
+
+1017
+00:55:25,059 --> 00:55:27,699
+Les agents donnent relativement la même chose.
+
+1018
+00:55:31,239 --> 00:55:33,899
+Mais c'est bien d'aller en discuter avec les uns et les autres
+
+1019
+00:55:33,899 --> 00:55:37,119
+afin de voir ce qui se fait, voir ce qui ne se fait pas.
+
+1020
+00:55:37,119 --> 00:55:42,539
+Ça vous guidera, ça vous donnera un guide, une info.
+
+1021
+00:55:42,759 --> 00:55:46,359
+Alors Thierry me dit, pouvez-vous faire une démo pour nous montrer exactement la marche à suivre ?
+
+1022
+00:55:46,359 --> 00:55:47,219
+Alors non, je ne peux pas.
+
+1023
+00:55:47,659 --> 00:55:48,500
+Pourquoi ?
+
+1024
+00:55:48,500 --> 00:55:51,880
+Parce qu'il faudrait pour ça que je vous montre sur mon téléphone portable.
+
+1025
+00:55:52,739 --> 00:55:54,980
+Il faudrait que je vous montre sur mon téléphone portable.
+
+1026
+00:55:55,500 --> 00:56:02,400
+Mais vous avez ces démos exactement quand vous allez ici commencer votre formation.
+
+1027
+00:56:03,920 --> 00:56:05,559
+Vous avez une petite vidéo ici.
+
+1028
+00:56:05,559 --> 00:56:09,259
+Alors, tout simplement, il faut vous connecter, synchroniser, télécharger.
+
+1029
+00:56:09,799 --> 00:56:11,079
+J'ai copié et copié, il faut vraiment de les relancer.
+
+1030
+00:56:11,539 --> 00:56:12,799
+Puis, la notification va être rare.
+
+1031
+00:56:13,219 --> 00:56:18,639
+Tout simplement, ça va avoir plus d'effets, plus d'impact quand ils vont le regarder.
+
+1032
+00:56:19,599 --> 00:56:21,920
+Donc, ils servent vraiment à ça, ça ne sert à rien de supplier tout le temps.
+
+1033
+00:56:22,219 --> 00:56:26,460
+Et vous avez deux outils, la synchronisation de votre compte Facebook, ainsi que les tempêtes Canva.
+
+1034
+00:56:26,460 --> 00:56:32,119
+Après, si vous avez d'autres visuels propres, vous pouvez très bien les intégrer de la même manière que le Canva.
+
+1035
+00:56:32,119 --> 00:56:32,799
+l'application
+
+1036
+00:56:32,799 --> 00:56:33,719
+à la lucarne
+
+1037
+00:56:33,719 --> 00:56:34,980
+juste avant
+
+1038
+00:56:34,980 --> 00:56:35,659
+on l'avait ici
+
+1039
+00:56:35,659 --> 00:56:36,159
+en mettant
+
+1040
+00:56:36,159 --> 00:56:37,219
+votre code parrain
+
+1041
+00:56:37,219 --> 00:56:39,000
+votre code parrain
+
+1042
+00:56:39,000 --> 00:56:39,639
+commence très bien
+
+1043
+00:56:39,639 --> 00:56:40,179
+à vous intégrer
+
+1044
+00:56:40,179 --> 00:56:41,199
+de la même manière
+
+1045
+00:56:41,199 --> 00:56:41,799
+par exemple
+
+1046
+00:56:41,799 --> 00:56:42,420
+pour Thierry
+
+1047
+00:56:42,420 --> 00:56:43,239
+qui s'appelle
+
+1048
+00:56:43,239 --> 00:56:43,980
+Thierry Salavin
+
+1049
+00:56:43,980 --> 00:56:45,119
+ce sera TS
+
+1050
+00:56:45,119 --> 00:56:45,579
+et ensuite
+
+1051
+00:56:45,579 --> 00:56:46,039
+vous aurez
+
+1052
+00:56:46,039 --> 00:56:47,339
+une référence
+
+1053
+00:56:47,339 --> 00:56:48,900
+le cadre en question
+
+1054
+00:56:48,900 --> 00:56:49,579
+c'est vraiment
+
+1055
+00:56:49,579 --> 00:56:51,099
+extrêmement intuitif
+
+1056
+00:56:51,099 --> 00:56:52,119
+extrêmement simple
+
+1057
+00:56:52,119 --> 00:56:53,420
+allez suivre
+
+1058
+00:56:53,420 --> 00:56:54,420
+ces petites vidéos
+
+1059
+00:56:54,420 --> 00:56:55,400
+moi je ne peux pas
+
+1060
+00:56:55,400 --> 00:56:55,900
+vous montrer
+
+1061
+00:56:55,900 --> 00:56:57,400
+sur mon téléphone
+
+1062
+00:56:57,400 --> 00:56:58,480
+c'est pour ça
+
+1063
+00:56:58,480 --> 00:56:58,920
+que je ne peux pas
+
+1064
+00:56:58,920 --> 00:57:00,119
+vous montrer spécifiquement
+
+1065
+00:57:00,119 --> 00:57:00,659
+mais vous allez voir
+
+1066
+00:57:00,659 --> 00:57:01,699
+que c'est d'une simplicité
+
+1067
+00:57:01,699 --> 00:57:03,859
+évangélique. Et faites
+
+1068
+00:57:03,859 --> 00:57:05,659
+un essai, deux essais, vous allez
+
+1069
+00:57:05,659 --> 00:57:07,659
+comprendre tout de suite comment ça fonctionne et vous allez voir
+
+1070
+00:57:07,659 --> 00:57:09,619
+que c'est hyper, hyper,
+
+1071
+00:57:09,779 --> 00:57:11,000
+hyper intuitif.
+
+1072
+00:57:11,779 --> 00:57:13,960
+Donc, je n'arrive pas à avoir l'adresse
+
+1073
+00:57:13,960 --> 00:57:15,119
+du groupe Facebook.
+
+1074
+00:57:16,019 --> 00:57:17,519
+J'envoie une petite
+
+1075
+00:57:17,519 --> 00:57:18,399
+information.
+
+1076
+00:57:19,899 --> 00:57:22,039
+Pour essayer d'avoir l'adresse du groupe Facebook.
+
+1077
+00:57:23,259 --> 00:57:24,480
+A vous la donner.
+
+1078
+00:57:25,059 --> 00:57:25,919
+Pour que vous puissiez
+
+1079
+00:57:25,919 --> 00:57:28,079
+aller sur le groupe Facebook, alors vous demandez
+
+1080
+00:57:28,079 --> 00:57:30,159
+si ce n'est pas déjà fait d'ailleurs, vous demandez
+
+1081
+00:57:30,159 --> 00:57:31,419
+à adhérer au groupe.
+
+1082
+00:57:31,699 --> 00:57:35,039
+Parce que Marjorie ne laisse adhérer au groupe que les membres de la lucarne.
+
+1083
+00:57:35,419 --> 00:57:37,779
+C'est vraiment un groupe qui est réservé aux agents de la lucarne.
+
+1084
+00:57:37,779 --> 00:57:42,039
+Donc on ne peut pas, comme ça, coucou j'arrive, je me rentre dans le groupe.
+
+1085
+00:57:42,139 --> 00:57:43,599
+Il n'y a que les agents de la lucarne.
+
+1086
+00:57:43,719 --> 00:57:47,719
+Donc il faut que vous fassiez la petite procédure en disant je veux rejoindre le groupe.
+
+1087
+00:57:48,199 --> 00:57:50,899
+Ensuite Marjorie vérifie que vous êtes bien agent de la lucarne.
+
+1088
+00:57:51,679 --> 00:57:55,119
+Et si vous êtes bien agent de la lucarne, elle va vous ouvrir les portes et vous souhaiter la bienvenue.
+
+1089
+00:57:55,239 --> 00:57:58,519
+Vous allez voir, elle est hyper sympa Marjorie, vraiment c'est une fille superbe.
+
+1090
+00:57:58,519 --> 00:58:19,000
+Et donc, vous allez faire rentrer ce système dans le mobile de tous vos amis, votre famille, vos connaissances, mais surtout, on va aller beaucoup, beaucoup, beaucoup plus loin.
+
+1091
+00:58:19,759 --> 00:58:28,219
+Pourquoi ? Parce que oui, il y a votre famille, il y a vos amis, il y a vos connaissances, il y a des milliers d'autres gens autour de vous.
+
+1092
+00:58:28,519 --> 00:58:36,559
+Alors, lorsque vous faites votre fameuse prospection physique que nous avons là,
+
+1093
+00:58:38,920 --> 00:58:45,599
+cette prospection physique, c'est un moyen extrêmement puissant
+
+1094
+00:58:45,599 --> 00:58:50,119
+de démultiplier vos contacts d'apporteurs d'affaires WeMove.
+
+1095
+00:58:51,019 --> 00:58:54,880
+Parce que vous allez rencontrer énormément de commerçants.
+
+1096
+00:58:54,880 --> 00:58:57,340
+ces commerçants
+
+1097
+00:58:57,340 --> 00:58:58,820
+ils sont au courant de tout dans leur quartier
+
+1098
+00:58:58,820 --> 00:59:00,700
+de tout
+
+1099
+00:59:00,700 --> 00:59:02,119
+en particulier
+
+1100
+00:59:02,119 --> 00:59:04,680
+à votre avis
+
+1101
+00:59:04,680 --> 00:59:06,900
+qui sont les commerçants
+
+1102
+00:59:06,900 --> 00:59:09,280
+qui connaissent le mieux
+
+1103
+00:59:09,280 --> 00:59:10,579
+les
+
+1104
+00:59:10,579 --> 00:59:12,440
+informations
+
+1105
+00:59:12,440 --> 00:59:15,500
+les divorces, les décès
+
+1106
+00:59:15,500 --> 00:59:17,700
+les naissances du quartier
+
+1107
+00:59:17,700 --> 00:59:19,539
+normalement il y en a un qui doit sortir
+
+1108
+00:59:19,539 --> 00:59:20,260
+en premier
+
+1109
+00:59:20,260 --> 00:59:22,960
+Bessira dit boulanger boucher
+
+1110
+00:59:22,960 --> 00:59:24,820
+oui absolument
+
+1111
+00:59:24,820 --> 00:59:26,600
+c'est vrai, mais j'en attends un autre avant.
+
+1112
+00:59:27,059 --> 00:59:29,019
+Normalement, il y en a un qui... Oui, Thierry
+
+1113
+00:59:29,019 --> 00:59:30,500
+a trouvé. Le
+
+1114
+00:59:30,500 --> 00:59:32,840
+coiffeur. Le
+
+1115
+00:59:32,840 --> 00:59:34,580
+coiffeur est au courant
+
+1116
+00:59:34,580 --> 00:59:35,780
+de
+
+1117
+00:59:35,780 --> 00:59:37,360
+tout.
+
+1118
+00:59:38,900 --> 00:59:40,640
+Tout, tout, tout.
+
+1119
+00:59:41,320 --> 00:59:42,240
+Y compris les ragots.
+
+1120
+00:59:43,080 --> 00:59:44,840
+Mais il y a un deuxième professionnel
+
+1121
+00:59:44,840 --> 00:59:46,940
+de votre secteur qui est au courant de tout.
+
+1122
+00:59:47,420 --> 00:59:48,580
+C'est pas un commerçant.
+
+1123
+00:59:48,820 --> 00:59:51,039
+Est-ce que quelqu'un a une idée ? C'est un professionnel
+
+1124
+00:59:51,039 --> 00:59:54,700
+à l'esthéticienne aussi,
+
+1125
+00:59:54,820 --> 00:59:57,400
+absolument, on discute beaucoup chez l'esthéticienne,
+
+1126
+00:59:57,500 --> 00:59:58,519
+c'est vrai, vous avez tout à fait raison,
+
+1127
+00:59:58,660 --> 01:00:01,019
+mais j'attends surtout un autre professionnel,
+
+1128
+01:00:01,100 --> 01:00:02,300
+je vous dis bien un professionnel,
+
+1129
+01:00:03,180 --> 01:00:05,380
+le notaire, le docteur, oui, tout ça c'est vrai,
+
+1130
+01:00:05,440 --> 01:00:06,900
+mais j'en attends un spécifiquement,
+
+1131
+01:00:07,260 --> 01:00:08,640
+ce n'est pas un commerçant.
+
+1132
+01:00:09,500 --> 01:00:13,700
+Qui est ce professionnel qui est au courant de tout ?
+
+1133
+01:00:13,700 --> 01:00:14,980
+Tout, tout, tout, tout, tout,
+
+1134
+01:00:14,980 --> 01:00:16,480
+qui est la clé.
+
+1135
+01:00:17,539 --> 01:00:19,559
+Et je vous donne encore un indice,
+
+1136
+01:00:20,760 --> 01:00:22,740
+il est au courant de tout, quel que soit le secteur,
+
+1137
+01:00:22,739 --> 01:00:25,759
+Mais plus on est en secteur rural
+
+1138
+01:00:25,759 --> 01:00:28,359
+Et plus il est au courant de tout
+
+1139
+01:00:28,359 --> 01:00:32,239
+Oui, bravo Eric
+
+1140
+01:00:32,239 --> 01:00:34,659
+Le facteur
+
+1141
+01:00:34,659 --> 01:00:37,659
+Le facteur est au courant de tout
+
+1142
+01:00:37,659 --> 01:00:40,079
+Mais oui, tous les jours il va sonner à toutes les portes
+
+1143
+01:00:40,079 --> 01:00:42,500
+Bonjour madame, comment allez-vous ?
+
+1144
+01:00:42,500 --> 01:00:43,739
+Comment ça va en ce moment ?
+
+1145
+01:00:43,739 --> 01:00:46,419
+Je ne vous ai pas vu pendant quelques jours
+
+1146
+01:00:46,419 --> 01:00:49,379
+Oui, parce que je suis allé m'occuper de ma petite fille
+
+1147
+01:00:49,379 --> 01:00:50,299
+Qui vient d'accoucher
+
+1148
+01:00:50,300 --> 01:00:53,260
+« Ah, elle vient d'accoucher, votre petite fille ! »
+
+1149
+01:00:53,260 --> 01:00:58,519
+Bien sûr, le facteur est au courant de tout, tout, tout, tout, tout.
+
+1150
+01:01:00,180 --> 01:01:01,580
+Encore plus que le coiffeur.
+
+1151
+01:01:02,060 --> 01:01:03,060
+Mais après, le reste est vrai.
+
+1152
+01:01:03,220 --> 01:01:06,360
+Le notaire, le médecin, l'esthéticienne, le maire,
+
+1153
+01:01:06,740 --> 01:01:09,060
+dans les petites communes rurales, absolument.
+
+1154
+01:01:09,820 --> 01:01:12,519
+Bessira nous dit « Oui, mais il ne donne aucune info. »
+
+1155
+01:01:12,519 --> 01:01:13,360
+Ben, il ne donne aucune info.
+
+1156
+01:01:13,920 --> 01:01:16,480
+Alors, c'est extrêmement intéressant ce que vient de dire Bessira,
+
+1157
+01:01:16,539 --> 01:01:17,200
+et c'est très pertinent.
+
+1158
+01:01:17,780 --> 01:01:19,060
+Bien sûr qu'il ne donne aucune info.
+
+1159
+01:01:19,059 --> 01:01:21,579
+s'il n'a pas d'intérêt à donner une info.
+
+1160
+01:01:22,059 --> 01:01:24,579
+Mais s'il a un intérêt financier à donner une info,
+
+1161
+01:01:24,759 --> 01:01:25,860
+croyez-moi, il va la lâcher.
+
+1162
+01:01:26,239 --> 01:01:28,179
+Pour 300 euros, il va donner les infos.
+
+1163
+01:01:28,739 --> 01:01:31,139
+Alors voici, grâce à Mathieu qui vient de me l'envoyer,
+
+1164
+01:01:31,639 --> 01:01:33,980
+l'adresse du groupe Facebook de la Lucarne
+
+1165
+01:01:33,980 --> 01:01:38,239
+auquel je vous conseille d'adhérer le plus vite possible.
+
+1166
+01:01:38,739 --> 01:01:40,259
+Et c'est là que vous pouvez aller discuter
+
+1167
+01:01:40,259 --> 01:01:45,880
+du prix des commissions à donner de tout ça.
+
+1168
+01:01:49,059 --> 01:01:50,259
+alors
+
+1169
+01:01:50,259 --> 01:01:52,779
+on va aller beaucoup plus loin
+
+1170
+01:01:52,779 --> 01:01:54,679
+pourquoi ? parce que vous le savez
+
+1171
+01:01:54,679 --> 01:01:56,019
+à la lucarne de l'immobilier
+
+1172
+01:01:56,019 --> 01:01:57,259
+on a
+
+1173
+01:01:57,259 --> 01:02:00,880
+des services
+
+1174
+01:02:00,880 --> 01:02:02,299
+qui sont un petit peu particuliers
+
+1175
+01:02:02,299 --> 01:02:04,099
+et des services
+
+1176
+01:02:04,099 --> 01:02:05,860
+que vous
+
+1177
+01:02:05,860 --> 01:02:09,059
+connaissez
+
+1178
+01:02:09,059 --> 01:02:11,420
+pas forcément très très très bien
+
+1179
+01:02:11,420 --> 01:02:13,539
+mais que vous allez apprendre à connaître
+
+1180
+01:02:13,539 --> 01:02:15,480
+des services
+
+1181
+01:02:15,480 --> 01:02:16,199
+euh
+
+1182
+01:02:16,199 --> 01:02:23,199
+qui ont
+
+1183
+01:02:23,199 --> 01:02:31,559
+un côté particulièrement visuel.
+
+1184
+01:02:31,939 --> 01:02:32,379
+Regardez.
+
+1185
+01:02:36,059 --> 01:02:37,639
+Ça, c'est notre ami Saïd
+
+1186
+01:02:37,639 --> 01:02:39,039
+en Isère.
+
+1187
+01:02:46,199 --> 01:02:50,739
+ça c'est ce qu'on appelle une maquette interactive
+
+1188
+01:02:50,739 --> 01:02:53,659
+que certains appellent également une visite virtuelle
+
+1189
+01:02:53,659 --> 01:02:55,519
+on appelle ça une maquette interactive
+
+1190
+01:02:55,519 --> 01:02:59,119
+des maquettes interactives
+
+1191
+01:02:59,119 --> 01:03:01,039
+n'importe quel agent immobilier
+
+1192
+01:03:01,039 --> 01:03:02,919
+peut en faire en allant voir
+
+1193
+01:03:02,919 --> 01:03:04,259
+une société spécialisée
+
+1194
+01:03:04,259 --> 01:03:06,899
+en informatique qui va lui vendre ça
+
+1195
+01:03:06,899 --> 01:03:08,539
+ça coûte un peu cher
+
+1196
+01:03:08,539 --> 01:03:09,519
+je vous l'accorde
+
+1197
+01:03:09,519 --> 01:03:12,779
+mais c'est sympa
+
+1198
+01:03:12,779 --> 01:03:14,019
+c'est utile
+
+1199
+01:03:14,019 --> 01:03:15,339
+c'est parlant
+
+1200
+01:03:15,340 --> 01:03:18,500
+C'est visuellement parlant.
+
+1201
+01:03:19,300 --> 01:03:20,260
+En voici une autre.
+
+1202
+01:03:20,700 --> 01:03:25,280
+Nous sommes à Isel-les-Ameaux, dans le Pas-de-Calais.
+
+1203
+01:03:25,620 --> 01:03:26,780
+Regardez, c'est encore Julien.
+
+1204
+01:03:27,000 --> 01:03:28,559
+Il est partout, ce Julien, c'est incroyable.
+
+1205
+01:03:29,800 --> 01:03:31,019
+C'est un hasard, si c'est Julien.
+
+1206
+01:03:31,140 --> 01:03:33,100
+Je ne l'ai pas choisi volontairement.
+
+1207
+01:03:33,620 --> 01:03:38,280
+Donc, nous voici dans une maison à Isel-les-Ameaux, dans le Pas-de-Calais.
+
+1208
+01:03:38,440 --> 01:03:41,039
+Je ne connais pas Isel-les-Ameaux.
+
+1209
+01:03:41,160 --> 01:03:42,039
+Peut-être que je connaîtrai demain,
+
+1210
+01:03:42,160 --> 01:03:43,760
+parce que je vais encore demain dans le Pas-de-Calais.
+
+1211
+01:03:43,760 --> 01:03:46,880
+C'est une des régions de France dans lesquelles je vais le plus souvent, le Pas-de-Calais.
+
+1212
+01:03:48,500 --> 01:03:50,220
+Donc, nous voici dans la cuisine.
+
+1213
+01:03:50,680 --> 01:03:54,180
+Regardez, on peut voir les prises électriques,
+
+1214
+01:03:54,760 --> 01:03:57,940
+on peut voir la hotte, on peut voir la peinture au mur.
+
+1215
+01:03:58,060 --> 01:04:00,700
+Mais en fait, quel agent immobilier met suffisamment de photos
+
+1216
+01:04:00,700 --> 01:04:02,540
+pour que vous puissiez voir tout ça ?
+
+1217
+01:04:02,540 --> 01:04:07,840
+Je peux voir que c'est une double vasque qui donne sur la véranda.
+
+1218
+01:04:08,540 --> 01:04:12,160
+Je peux voir le type de mitigeur, je peux voir la place que j'ai,
+
+1219
+01:04:12,159 --> 01:04:15,440
+le four encastré, c'est quand même incroyablement précis.
+
+1220
+01:04:16,480 --> 01:04:19,299
+Ce qui est particulièrement intéressant, c'est que cette prestation-là,
+
+1221
+01:04:19,960 --> 01:04:24,839
+Julien ou Saïd ou Christelle ou Marjorie ou n'importe qui,
+
+1222
+01:04:25,299 --> 01:04:27,899
+regardez cette belle maison-là, on a le plan, on peut aller se balader.
+
+1223
+01:04:27,960 --> 01:04:29,259
+Allez, on va visiter le garage.
+
+1224
+01:04:30,239 --> 01:04:33,819
+On peut se balader dedans de manière quand même diablement précise.
+
+1225
+01:04:34,259 --> 01:04:35,239
+Nous voici dans le garage.
+
+1226
+01:04:36,399 --> 01:04:38,899
+Garage qui, bien entendu, n'est pas utilisé comme garage,
+
+1227
+01:04:38,900 --> 01:04:43,180
+Mais comme rangement, comme chez chacun d'entre nous, bien entendu.
+
+1228
+01:04:43,579 --> 01:04:46,240
+Enfin, sauf moi, parce qu'à Paris, on n'a pas de garage, on n'a pas de rangement.
+
+1229
+01:04:46,400 --> 01:04:47,019
+Mais ce n'est pas grave.
+
+1230
+01:04:47,900 --> 01:04:53,019
+Et puis, on peut se promener, aller au deuxième niveau, à l'étage.
+
+1231
+01:04:53,500 --> 01:04:54,840
+Allons dans la chambre numéro 2.
+
+1232
+01:04:57,460 --> 01:04:58,800
+Voici la chambre numéro 2.
+
+1233
+01:05:02,700 --> 01:05:03,940
+On peut voir le parquet.
+
+1234
+01:05:03,940 --> 01:05:07,159
+on peut voir que c'est pas le même parquet
+
+1235
+01:05:07,159 --> 01:05:09,559
+d'ailleurs sur le palier
+
+1236
+01:05:09,559 --> 01:05:10,559
+et dans la chambre
+
+1237
+01:05:10,559 --> 01:05:15,099
+d'ailleurs je pense que c'est du faux parquet sur le palier
+
+1238
+01:05:15,099 --> 01:05:16,880
+on peut voir le type d'interrupteur
+
+1239
+01:05:16,880 --> 01:05:18,159
+c'est drôlement bien fait
+
+1240
+01:05:18,159 --> 01:05:21,280
+la particularité je vous disais c'est que nos agents
+
+1241
+01:05:21,280 --> 01:05:23,079
+ne payent pas cette prestation
+
+1242
+01:05:23,079 --> 01:05:25,599
+ils vont pas voir un professionnel
+
+1243
+01:05:25,599 --> 01:05:27,360
+du multimédia
+
+1244
+01:05:27,360 --> 01:05:29,139
+et de l'informatique en disant bonjour
+
+1245
+01:05:29,139 --> 01:05:31,420
+prenez mon argent, prenez mes 300, 400
+
+1246
+01:05:31,420 --> 01:05:32,159
+500 euros
+
+1247
+01:05:32,159 --> 01:05:34,179
+je vais faire cette maquette
+
+1248
+01:05:34,179 --> 01:05:36,859
+puisque c'est nous-mêmes qui les faisons
+
+1249
+01:05:36,859 --> 01:05:39,119
+nos agents se contentent de nous fournir
+
+1250
+01:05:39,119 --> 01:05:41,199
+les photos
+
+1251
+01:05:41,199 --> 01:05:43,420
+qu'ils ont prises avec leur téléphone
+
+1252
+01:05:43,420 --> 01:05:44,460
+et avec du matériel
+
+1253
+01:05:44,460 --> 01:05:46,179
+qu'on vous fournit
+
+1254
+01:05:46,179 --> 01:05:48,179
+gratuitement, gracieusement
+
+1255
+01:05:48,179 --> 01:05:50,440
+et puis
+
+1256
+01:05:50,440 --> 01:05:51,399
+nos agents
+
+1257
+01:05:51,399 --> 01:05:53,899
+récupèrent cette maquette
+
+1258
+01:05:53,899 --> 01:05:55,399
+pour tout leur mandat
+
+1259
+01:05:55,399 --> 01:05:58,359
+tout leur mandat, gratuitement
+
+1260
+01:05:58,360 --> 01:06:03,400
+à partir du moment où on a accès à ces maquettes
+
+1261
+01:06:03,400 --> 01:06:06,780
+et que nous ne les payons pas
+
+1262
+01:06:06,780 --> 01:06:11,559
+nous la lucarne on les paye puisqu'on a nos techniciens
+
+1263
+01:06:11,559 --> 01:06:12,039
+qui les font
+
+1264
+01:06:12,039 --> 01:06:15,440
+mais qu'on en fasse 2, qu'on en fasse 8, qu'on en fasse 12
+
+1265
+01:06:15,440 --> 01:06:16,920
+comme c'est nous qui les faisons
+
+1266
+01:06:16,920 --> 01:06:18,559
+c'est comme si en fait on ne les payait pas
+
+1267
+01:06:18,559 --> 01:06:21,180
+qu'est-ce que ça nous apporte
+
+1268
+01:06:21,180 --> 01:06:22,640
+comme possibilité ?
+
+1269
+01:06:22,640 --> 01:06:23,660
+d'en faire autant qu'on veut
+
+1270
+01:06:23,660 --> 01:06:25,800
+nous ne sommes pas limités par le coût
+
+1271
+01:06:25,800 --> 01:06:27,720
+nous ne nous disons pas je vais hésiter
+
+1272
+01:06:27,719 --> 01:06:29,059
+parce que là, ça me coûte un peu cher.
+
+1273
+01:06:29,779 --> 01:06:32,279
+Ça veut dire que c'est ma quête interactive
+
+1274
+01:06:32,279 --> 01:06:40,639
+que nous utilisons pour nos clients.
+
+1275
+01:06:42,059 --> 01:06:43,959
+Eh bien, regardez.
+
+1276
+01:06:47,379 --> 01:06:49,379
+Nous pouvons l'utiliser pour des maisons
+
+1277
+01:06:49,379 --> 01:06:50,659
+et des appartements à vendre,
+
+1278
+01:06:50,879 --> 01:06:51,839
+comme je vous montre là.
+
+1279
+01:06:52,259 --> 01:06:53,139
+Voici un appartement.
+
+1280
+01:06:53,239 --> 01:06:55,019
+Celui-là, je crois qu'il est dans la région lyonnaise,
+
+1281
+01:06:55,459 --> 01:06:56,219
+si je ne me trompe pas.
+
+1282
+01:06:56,219 --> 01:07:16,679
+Donc on peut l'utiliser aussi bien pour des biens à vendre, mais on peut également l'utiliser, regardez, je vous montre un exemple, enfin un exemple là mais j'en ai bien d'autres, nous sommes sur le site de Facebook, sur la page Facebook d'un petit magasin qui s'appelle les Pépites de Romy,
+
+1283
+01:07:16,679 --> 01:07:19,119
+qui se trouve à
+
+1284
+01:07:19,119 --> 01:07:21,739
+qui se trouve à
+
+1285
+01:07:21,739 --> 01:07:24,519
+Flexi, j'ai oublié le nom
+
+1286
+01:07:24,519 --> 01:07:26,779
+Fluxi en Artois
+
+1287
+01:07:26,779 --> 01:07:27,599
+quelque chose comme ça
+
+1288
+01:07:27,599 --> 01:07:29,699
+j'ai oublié, bon c'est pas très grave
+
+1289
+01:07:29,699 --> 01:07:32,199
+Fluxi, Flaxi
+
+1290
+01:07:32,199 --> 01:07:33,159
+on s'en moque
+
+1291
+01:07:33,159 --> 01:07:36,299
+ça c'est la page de
+
+1292
+01:07:36,299 --> 01:07:38,519
+les pépites de Romy
+
+1293
+01:07:38,519 --> 01:07:40,259
+c'est un petit magasin de vêtements
+
+1294
+01:07:40,259 --> 01:07:41,239
+et accessoires féminins
+
+1295
+01:07:41,239 --> 01:07:43,799
+je clique dessus, sur ce lien ici
+
+1296
+01:07:46,679 --> 01:07:56,519
+Et nous nous retrouvons dans la boutique de Romy, de son petit magasin, les pépites de Romy.
+
+1297
+01:07:57,319 --> 01:07:58,940
+Là, nous sommes côté vitrine.
+
+1298
+01:08:00,319 --> 01:08:02,019
+Je peux aller côté cabine.
+
+1299
+01:08:02,379 --> 01:08:04,259
+Alors, c'est un tout petit machin, bien sûr.
+
+1300
+01:08:05,980 --> 01:08:07,179
+Me voici côté cabine.
+
+1301
+01:08:12,859 --> 01:08:15,859
+Ça, c'est une de nos négociatrices qui s'appelle Cathy.
+
+1302
+01:08:16,680 --> 01:08:17,460
+qui a fait ça.
+
+1303
+01:08:18,420 --> 01:08:20,560
+Cathy, qui est une de nos négociatrices
+
+1304
+01:08:20,560 --> 01:08:22,380
+en Artois, c'est-à-dire
+
+1305
+01:08:22,380 --> 01:08:23,340
+dans le Pas-de-Calais,
+
+1306
+01:08:24,579 --> 01:08:26,140
+Cathy
+
+1307
+01:08:26,140 --> 01:08:28,180
+est allée voir, tout simplement,
+
+1308
+01:08:28,900 --> 01:08:29,539
+cette boutique,
+
+1309
+01:08:30,180 --> 01:08:31,020
+les Pépites de Romy,
+
+1310
+01:08:33,020 --> 01:08:34,159
+et lui a dit
+
+1311
+01:08:34,159 --> 01:08:35,600
+« Eh bien,
+
+1312
+01:08:36,440 --> 01:08:38,060
+cher Romy,
+
+1313
+01:08:39,400 --> 01:08:40,380
+je vous propose
+
+1314
+01:08:40,380 --> 01:08:41,860
+de vous offrir
+
+1315
+01:08:41,860 --> 01:08:43,480
+gracieusement,
+
+1316
+01:08:44,079 --> 01:08:45,700
+c'est un cadeau que je vous fais,
+
+1317
+01:08:45,699 --> 01:08:48,960
+un cadeau qui nous permet de lier connaissances
+
+1318
+01:08:48,960 --> 01:08:52,019
+et de faire une espèce de partenariat.
+
+1319
+01:08:54,019 --> 01:08:57,659
+Un cadeau, je vous offre une visite virtuelle
+
+1320
+01:08:57,659 --> 01:09:01,420
+gratuitement de votre magasin.
+
+1321
+01:09:02,760 --> 01:09:05,500
+Je vous offre une visite virtuelle de votre magasin,
+
+1322
+01:09:06,359 --> 01:09:07,359
+de votre boutique,
+
+1323
+01:09:09,359 --> 01:09:12,300
+que vous pourrez mettre sur votre page Facebook,
+
+1324
+01:09:12,960 --> 01:09:14,500
+sur votre site Internet,
+
+1325
+01:09:14,500 --> 01:09:16,699
+sur votre page Instagram,
+
+1326
+01:09:17,220 --> 01:09:19,279
+sur vos réseaux sociaux, je ne sais pas où.
+
+1327
+01:09:20,439 --> 01:09:21,100
+C'est un cadeau
+
+1328
+01:09:21,100 --> 01:09:21,680
+que je vous fais.
+
+1329
+01:09:24,460 --> 01:09:25,380
+C'est un beau cadeau.
+
+1330
+01:09:26,979 --> 01:09:27,340
+Qu'a dit
+
+1331
+01:09:27,340 --> 01:09:29,260
+Romy, la gérante de ce magasin,
+
+1332
+01:09:29,359 --> 01:09:31,760
+la propriétaire de ce magasin ?
+
+1333
+01:09:31,760 --> 01:09:32,140
+Elle a dit
+
+1334
+01:09:32,140 --> 01:09:35,000
+« Oui, mais non, moi, je n'ai pas envie de vous payer de l'argent
+
+1335
+01:09:35,000 --> 01:09:36,680
+pour ça. Ah, mais non,
+
+1336
+01:09:37,500 --> 01:09:38,340
+je vous l'offre.
+
+1337
+01:09:39,199 --> 01:09:41,500
+C'est un cadeau que je vous fais.
+
+1338
+01:09:41,880 --> 01:09:43,279
+Je vous offre
+
+1339
+01:09:44,000 --> 01:09:51,059
+Cette maquette interactive, qu'on pourrait appeler cette visite virtuelle, c'est un cadeau que je vous fais.
+
+1340
+01:09:51,840 --> 01:09:53,599
+Je ne vais pas vous demander un centime.
+
+1341
+01:09:56,000 --> 01:09:58,279
+Qu'est-ce que je vous demande en échange ?
+
+1342
+01:09:59,500 --> 01:10:01,119
+Eh bien, je vous propose la chose suivante.
+
+1343
+01:10:02,000 --> 01:10:10,659
+Vous, qui êtes commerçante au cœur de la ville, qui êtes au courant de bien des choses sur ce qui se passe autour,
+
+1344
+01:10:10,659 --> 01:10:12,819
+parce que vous avez tous les jours des clientes qui viennent
+
+1345
+01:10:12,819 --> 01:10:14,819
+et qui discutent avec vous et vous êtes au courant
+
+1346
+01:10:14,819 --> 01:10:15,720
+de beaucoup de choses
+
+1347
+01:10:15,720 --> 01:10:19,099
+en échange, je vous propose
+
+1348
+01:10:19,099 --> 01:10:20,739
+de devenir mon partenaire
+
+1349
+01:10:20,739 --> 01:10:21,960
+d'affaires
+
+1350
+01:10:21,960 --> 01:10:24,479
+grâce à l'application
+
+1351
+01:10:24,479 --> 01:10:25,639
+à la lucarne
+
+1352
+01:10:25,639 --> 01:10:28,479
+installer l'application
+
+1353
+01:10:28,479 --> 01:10:33,300
+et si jamais je fais une vente grâce à vos recommandations
+
+1354
+01:10:33,300 --> 01:10:34,819
+je vous rémunère
+
+1355
+01:10:34,819 --> 01:10:37,479
+à hauteur de 200, 300, 400 euros
+
+1356
+01:10:37,479 --> 01:10:39,340
+ou que sais-je encore
+
+1357
+01:10:39,340 --> 01:10:57,539
+En fait, ce cadeau que vous faites aux commerçants, ce cadeau que vous leur faites, c'est le cadeau de bienvenue pour vous présenter à eux en leur apportant quelque chose de chouette.
+
+1358
+01:10:57,539 --> 01:10:59,739
+parce que quel commerçant dit, bah non, ça, j'en veux pas
+
+1359
+01:10:59,739 --> 01:11:01,479
+gratuitement ? Aucun.
+
+1360
+01:11:02,479 --> 01:11:03,659
+Absolument aucun.
+
+1361
+01:11:06,260 --> 01:11:07,460
+Excusez-moi, je réponds à
+
+1362
+01:11:07,460 --> 01:11:09,119
+un autre petit message qui m'est envoyé.
+
+1363
+01:11:16,579 --> 01:11:17,140
+Donc,
+
+1364
+01:11:18,439 --> 01:11:20,479
+quel commerçant va refuser ça ?
+
+1365
+01:11:20,479 --> 01:11:21,359
+Absolument aucun,
+
+1366
+01:11:21,819 --> 01:11:22,439
+bien entendu.
+
+1367
+01:11:23,760 --> 01:11:25,779
+Et ça vous permet de
+
+1368
+01:11:25,779 --> 01:11:28,399
+serrer la main, dire bonjour,
+
+1369
+01:11:28,619 --> 01:11:30,699
+je me présente. Peut-être qu'on se connaissait
+
+1370
+01:11:30,699 --> 01:11:32,059
+un petit peu, peut-être pas du tout.
+
+1371
+01:11:32,519 --> 01:11:34,380
+En tout cas, maintenant, on va bien se connaître puisque
+
+1372
+01:11:34,380 --> 01:11:36,099
+grâce à ce cadeau que je vous fais,
+
+1373
+01:11:36,779 --> 01:11:38,519
+je vous fais installer l'application WeMove
+
+1374
+01:11:38,519 --> 01:11:40,779
+et je vous
+
+1375
+01:11:40,779 --> 01:11:41,599
+rémunère. En fait,
+
+1376
+01:11:42,619 --> 01:11:44,639
+vous ne venez pas seulement leur dire bonjour,
+
+1377
+01:11:44,779 --> 01:11:46,819
+s'il vous plaît, installez l'application WeMove
+
+1378
+01:11:46,819 --> 01:11:48,800
+et je vous rémunérerai derrière
+
+1379
+01:11:48,800 --> 01:11:50,479
+si je fais une vente. Non,
+
+1380
+01:11:50,699 --> 01:11:52,219
+on va beaucoup plus loin
+
+1381
+01:11:52,219 --> 01:11:54,880
+dans cette espèce de création de relations
+
+1382
+01:11:54,880 --> 01:11:55,960
+d'affaires, puisque
+
+1383
+01:11:55,960 --> 01:11:57,819
+vous n'êtes pas juste
+
+1384
+01:11:57,819 --> 01:12:00,840
+un négociateur immobilier qui est passé comme ça
+
+1385
+01:12:00,840 --> 01:12:03,039
+en disant, s'il vous plaît, envoyez-moi des clients
+
+1386
+01:12:03,039 --> 01:12:04,100
+et je saurais vous remercier.
+
+1387
+01:12:06,180 --> 01:12:06,420
+Non.
+
+1388
+01:12:06,900 --> 01:12:08,779
+Vous êtes la personne qui leur a apporté
+
+1389
+01:12:08,779 --> 01:12:11,000
+ce système de visite virtuelle,
+
+1390
+01:12:12,380 --> 01:12:12,980
+qui leur a
+
+1391
+01:12:12,980 --> 01:12:14,900
+offert ce système
+
+1392
+01:12:14,900 --> 01:12:16,720
+de visite
+
+1393
+01:12:16,720 --> 01:12:18,260
+virtuelle.
+
+1394
+01:12:18,940 --> 01:12:19,980
+Vous êtes donc
+
+1395
+01:12:19,980 --> 01:12:22,380
+beaucoup, beaucoup plus
+
+1396
+01:12:22,380 --> 01:12:24,260
+qu'un simple
+
+1397
+01:12:24,260 --> 01:12:26,119
+négociateur immobilier
+
+1398
+01:12:26,119 --> 01:12:28,980
+beaucoup plus
+
+1399
+01:12:28,980 --> 01:12:29,940
+et regardez
+
+1400
+01:12:29,940 --> 01:12:32,020
+voici un autre exemple
+
+1401
+01:12:32,020 --> 01:12:35,100
+ça c'est
+
+1402
+01:12:35,100 --> 01:12:40,320
+un restaurant
+
+1403
+01:12:40,320 --> 01:12:43,440
+vous voyez
+
+1404
+01:12:43,440 --> 01:12:46,760
+là on est dans ce qu'ils appellent le coin réunion
+
+1405
+01:12:46,760 --> 01:12:48,220
+parce que vous voyez
+
+1406
+01:12:48,220 --> 01:12:49,100
+il y a une espèce de
+
+1407
+01:12:49,100 --> 01:12:51,619
+grande table là
+
+1408
+01:12:51,619 --> 01:12:52,880
+où on peut se mettre tous ensemble
+
+1409
+01:12:52,880 --> 01:12:53,940
+faire une petite réunion
+
+1410
+01:12:53,939 --> 01:12:59,239
+Je peux aller dans la salle de jeu
+
+1411
+01:12:59,239 --> 01:13:05,339
+Je peux aller visiter
+
+1412
+01:13:05,339 --> 01:13:07,059
+Pour le restaurant
+
+1413
+01:13:07,059 --> 01:13:10,000
+Entrée côté bar
+
+1414
+01:13:10,000 --> 01:13:12,939
+Me voici dans l'entrée côté bar
+
+1415
+01:13:12,939 --> 01:13:14,559
+Ça c'est un autre exemple
+
+1416
+01:13:14,559 --> 01:13:17,179
+Encore un autre exemple
+
+1417
+01:13:17,179 --> 01:13:18,339
+Ici
+
+1418
+01:13:18,339 --> 01:13:21,559
+Merci beaucoup à Mathieu d'ailleurs
+
+1419
+01:13:21,559 --> 01:13:22,519
+Qui me transfère ses liens
+
+1420
+01:13:22,520 --> 01:13:24,160
+Ah, je ne le connaissais pas, celui-là, il est nouveau.
+
+1421
+01:13:25,000 --> 01:13:27,220
+Merci beaucoup à Mathieu qui me transfère tous ses exemples d'ailleurs,
+
+1422
+01:13:27,320 --> 01:13:28,420
+parce que c'est lui qui m'envoie ça.
+
+1423
+01:13:30,840 --> 01:13:33,580
+Donc, ça, c'est un nouveau magasin que je ne connaissais pas.
+
+1424
+01:13:33,640 --> 01:13:34,420
+Je ne l'avais encore jamais vu.
+
+1425
+01:13:35,400 --> 01:13:36,200
+Donc, nous voici alors.
+
+1426
+01:13:37,080 --> 01:13:38,200
+Visiblement, d'après ce que je vois,
+
+1427
+01:13:38,980 --> 01:13:43,080
+c'est un magasin qui vend des articles de bien-être,
+
+1428
+01:13:43,380 --> 01:13:46,540
+des mandalas, des arbres de vie,
+
+1429
+01:13:47,220 --> 01:13:49,960
+des pierres, c'est probablement de la géologie, etc.
+
+1430
+01:13:49,960 --> 01:13:53,119
+voici un autre petit
+
+1431
+01:13:53,119 --> 01:13:54,819
+magasin de quartier
+
+1432
+01:13:54,819 --> 01:13:57,100
+un autre petit magasin de
+
+1433
+01:13:57,100 --> 01:13:58,680
+centre-ville, oui effectivement
+
+1434
+01:13:58,680 --> 01:14:00,460
+ce sont des belles pierres
+
+1435
+01:14:00,460 --> 01:14:02,180
+des choses comme ça
+
+1436
+01:14:02,180 --> 01:14:05,199
+un autre petit magasin
+
+1437
+01:14:05,199 --> 01:14:06,939
+alors je ne sais pas du tout dans quel secteur
+
+1438
+01:14:06,939 --> 01:14:08,739
+celui-là, parce que c'est la première fois que je le vois
+
+1439
+01:14:08,739 --> 01:14:10,659
+vous voyez donc
+
+1440
+01:14:10,659 --> 01:14:13,199
+encore un exemple
+
+1441
+01:14:13,199 --> 01:14:15,000
+et un bel exemple
+
+1442
+01:14:15,000 --> 01:14:16,899
+un bel exemple
+
+1443
+01:14:16,899 --> 01:14:19,199
+donc vous le voyez, tout ça
+
+1444
+01:14:19,199 --> 01:14:26,319
+Ce sont des exemples de conseillers du réseau qui, dans le but...
+
+1445
+01:14:26,319 --> 01:14:27,420
+Alors ça, je ne m'attendais pas à ça.
+
+1446
+01:14:27,539 --> 01:14:32,039
+Vous voyez, il n'y a que des bracelets avec des pierres spécifiques.
+
+1447
+01:14:33,319 --> 01:14:35,800
+C'est très bien-être, un peu ésotérique.
+
+1448
+01:14:35,939 --> 01:14:37,720
+Et tout d'un coup, hop, des choupa-choups.
+
+1449
+01:14:38,319 --> 01:14:41,139
+Alors ça, je vous avouerais que je ne l'aurais pas attendu.
+
+1450
+01:14:41,760 --> 01:14:44,859
+Des choupa-choups, là, je suis bluffé.
+
+1451
+01:14:45,279 --> 01:14:47,199
+Écoutez, pourquoi pas ?
+
+1452
+01:14:47,199 --> 01:14:53,679
+Donc, voici des exemples.
+
+1453
+01:14:53,739 --> 01:14:56,340
+Allez, je vous en montre un dernier que vient de m'envoyer Mathieu.
+
+1454
+01:14:56,679 --> 01:14:57,539
+Celui-là, je le connais bien.
+
+1455
+01:14:57,659 --> 01:14:59,039
+C'est une quincaillerie dans le Doubs.
+
+1456
+01:14:59,099 --> 01:15:00,779
+Merci beaucoup à Mathieu.
+
+1457
+01:15:01,380 --> 01:15:03,679
+Une quincaillerie dans le Doubs à côté de Besançon.
+
+1458
+01:15:04,019 --> 01:15:07,659
+Vous voyez, on passe d'un espace bien-être, très zen.
+
+1459
+01:15:10,260 --> 01:15:12,139
+Et on arrive ici dans une quincaillerie,
+
+1460
+01:15:12,139 --> 01:15:15,220
+des tondeuses, des souffleuses pour les feuilles mortes.
+
+1461
+01:15:17,199 --> 01:15:31,880
+Hop, je me transporte ici, salle d'exposition numéro 2, des bidons de l'huile, de l'essence, je ne sais pas, des vêtements de travail.
+
+1462
+01:15:32,939 --> 01:15:36,500
+On est dans un univers radicalement différent.
+
+1463
+01:15:37,260 --> 01:15:40,939
+Allons ici, troisième endroit, les tracteurs tondeuses.
+
+1464
+01:15:40,939 --> 01:15:44,279
+Nous voici ici
+
+1465
+01:15:44,279 --> 01:15:46,099
+Tout ça ce sont des exemples en fait
+
+1466
+01:15:46,099 --> 01:15:47,919
+De négociateurs
+
+1467
+01:15:47,919 --> 01:15:53,399
+Qui sont allés rencontrer des professionnels de leur secteur
+
+1468
+01:15:53,399 --> 01:15:57,259
+Pour leur proposer de devenir des apporteurs d'affaires
+
+1469
+01:15:57,259 --> 01:15:59,679
+Grâce à l'application à la lucarne
+
+1470
+01:15:59,679 --> 01:16:01,799
+En guise de cadeau
+
+1471
+01:16:01,799 --> 01:16:04,259
+Pour venir se présenter à eux
+
+1472
+01:16:04,259 --> 01:16:07,500
+Et sceller cette relation d'affaires
+
+1473
+01:16:07,500 --> 01:16:12,520
+Ils leur ont offert cette super visite virtuelle gratuitement
+
+1474
+01:16:12,520 --> 01:16:16,079
+Que ces gens peuvent mettre sur leur page Facebook
+
+1475
+01:16:16,079 --> 01:16:20,760
+Sur leur page Instagram, sur leur site internet, sur n'importe quoi
+
+1476
+01:16:20,760 --> 01:16:26,659
+Et vous le voyez, ça marche hyper bien
+
+1477
+01:16:26,659 --> 01:16:30,279
+Et la bonne nouvelle pour vous, quelle est-elle ?
+
+1478
+01:16:30,279 --> 01:16:41,519
+C'est que l'un d'entre vous, donnez-moi s'il vous plaît le nom d'une ville dans laquelle vous vous trouvez.
+
+1479
+01:16:41,759 --> 01:16:42,880
+Et on va faire l'essai ensemble.
+
+1480
+01:16:43,219 --> 01:16:46,479
+Le temps que le premier d'entre vous me donne le nom de la ville dans laquelle il habite.
+
+1481
+01:16:47,880 --> 01:16:50,599
+C'est aussi le château le truc de tout à l'heure, les petits trucs de Romy.
+
+1482
+01:16:50,699 --> 01:16:51,899
+Merci beaucoup à Eric.
+
+1483
+01:16:52,259 --> 01:16:54,119
+Je vais répondre aux questions qui ont été posées.
+
+1484
+01:16:54,420 --> 01:16:55,019
+Arcachon, voilà.
+
+1485
+01:16:55,159 --> 01:16:56,939
+Bessira a dit Arcachon, c'est elle la première.
+
+1486
+01:16:57,659 --> 01:16:59,119
+Donc, juste avant, je réponds aux questions
+
+1487
+01:16:59,119 --> 01:17:03,239
+qui ont été posées par Thierry.
+
+1488
+01:17:03,879 --> 01:17:06,319
+Premièrement, comment le commerçant va avoir accès au lien ?
+
+1489
+01:17:06,319 --> 01:17:07,659
+C'est vous qui lui donnez, tout simplement.
+
+1490
+01:17:08,139 --> 01:17:09,899
+C'est-à-dire que vous, vous faites les photos,
+
+1491
+01:17:10,059 --> 01:17:11,599
+vous envoyez nos techniciens les fonds,
+
+1492
+01:17:12,359 --> 01:17:14,979
+vous récupérez le lien en interne chez la Lucarne,
+
+1493
+01:17:15,659 --> 01:17:17,739
+et puis vous allez voir le client, vous lui donnez le lien.
+
+1494
+01:17:17,919 --> 01:17:18,899
+C'est ce lien qui est ici.
+
+1495
+01:17:19,460 --> 01:17:21,079
+Il s'appelle visite.lucarne.fr,
+
+1496
+01:17:21,139 --> 01:17:23,339
+et après, il y a une référence, tout simplement.
+
+1497
+01:17:24,599 --> 01:17:25,859
+Et ce lien, il en fait ce qu'il veut.
+
+1498
+01:17:25,859 --> 01:17:27,119
+Regardez cette dame ici
+
+1499
+01:17:27,119 --> 01:17:29,739
+Elle l'a mis sur sa page Facebook
+
+1500
+01:17:29,739 --> 01:17:30,859
+Les pépites de Romy
+
+1501
+01:17:30,859 --> 01:17:33,539
+Donc ce lien c'est vous qui allez leur donner
+
+1502
+01:17:33,539 --> 01:17:36,739
+Doit-on faire nous-mêmes un plan
+
+1503
+01:17:36,739 --> 01:17:38,460
+A vous donner pour les commerces et restaurants
+
+1504
+01:17:38,460 --> 01:17:40,079
+Alors la plupart du temps aujourd'hui
+
+1505
+01:17:40,079 --> 01:17:42,179
+Les professionnels ils en ont un plan
+
+1506
+01:17:42,179 --> 01:17:44,000
+Pourquoi ?
+
+1507
+01:17:44,000 --> 01:17:46,299
+Parce que quand ils se sont installés
+
+1508
+01:17:46,299 --> 01:17:48,059
+Il leur a fallu un plan non seulement pour l'aménagement
+
+1509
+01:17:48,059 --> 01:17:49,679
+Mais également pour les services de l'urbanisme
+
+1510
+01:17:49,679 --> 01:17:51,039
+Et pour les diagnostics
+
+1511
+01:17:51,039 --> 01:17:52,920
+Mais dans le cas où ils n'en ont pas
+
+1512
+01:17:52,920 --> 01:17:55,420
+Vous nous dessinez un petit truc
+
+1513
+01:17:55,420 --> 01:17:57,920
+un petit truc qui correspond, parce que comme là, on n'a pas
+
+1514
+01:17:57,920 --> 01:18:00,079
+une obligation, ce n'est pas une annonce immobilière,
+
+1515
+01:18:00,480 --> 01:18:02,140
+on n'a pas une obligation d'exactitude
+
+1516
+01:18:02,140 --> 01:18:03,980
+sur la superficie, c'est vous
+
+1517
+01:18:03,980 --> 01:18:06,060
+qui pouvez faire le plan. Mais en règle
+
+1518
+01:18:06,060 --> 01:18:06,600
+générale,
+
+1519
+01:18:07,640 --> 01:18:09,699
+le monsieur
+
+1520
+01:18:09,699 --> 01:18:11,840
+qu'un cahier, par exemple, ici,
+
+1521
+01:18:12,279 --> 01:18:13,920
+il a un plan de son machin parce qu'il a fait
+
+1522
+01:18:13,920 --> 01:18:16,000
+des travaux, parce qu'il a fait de l'urbanisme, parce qu'il a
+
+1523
+01:18:16,000 --> 01:18:18,060
+demandé une déclaration préalable,
+
+1524
+01:18:18,340 --> 01:18:19,920
+mais tout ça, on vous guidera, soyez tranquilles.
+
+1525
+01:18:20,340 --> 01:18:21,899
+Le commerçant peut le faire avec son
+
+1526
+01:18:21,899 --> 01:18:23,880
+portable, de quoi les photos ?
+
+1527
+01:18:23,880 --> 01:18:24,880
+Les photos, il ne peut pas les faire.
+
+1528
+01:18:24,980 --> 01:18:26,079
+Il n'y a que nous qui pouvons les faire.
+
+1529
+01:18:26,579 --> 01:18:26,980
+Il n'y a que nous.
+
+1530
+01:18:27,579 --> 01:18:29,699
+Alors, Bessira nous proposait Arcachon.
+
+1531
+01:18:31,359 --> 01:18:32,300
+Eh bien, on va à Arcachon.
+
+1532
+01:18:33,539 --> 01:18:34,800
+Et vous allez voir ce que je vais vous montrer.
+
+1533
+01:18:37,699 --> 01:18:37,980
+Arcachon.
+
+1534
+01:18:40,699 --> 01:18:43,239
+Alors, Arcachon, je ne sais pas si vous y êtes déjà allé dans votre vie.
+
+1535
+01:18:43,300 --> 01:18:44,859
+Moi, j'y suis allé quand j'étais tout jeune.
+
+1536
+01:18:44,859 --> 01:18:49,279
+J'étais tout gamin.
+
+1537
+01:18:49,420 --> 01:18:51,119
+J'avais 17 ans, 18 ans.
+
+1538
+01:18:51,400 --> 01:18:51,920
+C'est très chouette.
+
+1539
+01:18:51,920 --> 01:18:55,279
+à l'époque ça avait paru super chouette
+
+1540
+01:18:55,279 --> 01:18:56,319
+parce que regardez
+
+1541
+01:18:56,319 --> 01:18:59,440
+beaucoup de belles maisons au milieu des arbres
+
+1542
+01:18:59,440 --> 01:19:00,500
+dans la verdure
+
+1543
+01:19:00,500 --> 01:19:03,000
+de la forêt, bon ça c'est un grand cimetière
+
+1544
+01:19:03,000 --> 01:19:04,300
+c'est moins gai
+
+1545
+01:19:04,300 --> 01:19:07,020
+mais regardez de la forêt, des belles maisons
+
+1546
+01:19:07,020 --> 01:19:08,199
+bien entendu
+
+1547
+01:19:08,199 --> 01:19:11,199
+une belle plage, magnifique plage
+
+1548
+01:19:11,199 --> 01:19:11,940
+le sable
+
+1549
+01:19:11,940 --> 01:19:14,020
+excusez-moi
+
+1550
+01:19:14,020 --> 01:19:15,800
+bien entendu
+
+1551
+01:19:15,800 --> 01:19:20,520
+pas loin
+
+1552
+01:19:20,520 --> 01:19:21,680
+l'océan
+
+1553
+01:19:21,680 --> 01:19:23,700
+la fameuse dune du Pila
+
+1554
+01:19:23,700 --> 01:19:25,780
+juste à côté, c'est pas à Arcachon la dune du Pila
+
+1555
+01:19:25,780 --> 01:19:27,720
+mais c'est à côté, la plus grande dune
+
+1556
+01:19:27,720 --> 01:19:29,119
+de sable naturel d'Europe
+
+1557
+01:19:29,119 --> 01:19:31,800
+c'est super chouette Arcachon
+
+1558
+01:19:31,800 --> 01:19:33,920
+alors, mais qu'on soit Arcachon ou ailleurs
+
+1559
+01:19:33,920 --> 01:19:35,880
+ça change rien, ce que je voulais vous montrer
+
+1560
+01:19:35,880 --> 01:19:37,820
+c'est la chose suivante, on prend Arcachon
+
+1561
+01:19:37,820 --> 01:19:39,280
+comme exemple
+
+1562
+01:19:39,280 --> 01:19:40,700
+je zoome dans
+
+1563
+01:19:40,700 --> 01:19:43,600
+cet endroit d'Arcachon
+
+1564
+01:19:43,600 --> 01:19:45,619
+regardez
+
+1565
+01:19:45,619 --> 01:19:46,420
+rien que sur
+
+1566
+01:19:46,420 --> 01:19:49,320
+deux pâtés de maison
+
+1567
+01:19:49,319 --> 01:19:54,599
+Vous les voyez mes deux pâtés de maison ici ?
+
+1568
+01:19:54,599 --> 01:19:54,779
+Bon
+
+1569
+01:19:54,779 --> 01:19:57,939
+La cabane du breton crêperie
+
+1570
+01:19:57,939 --> 01:20:00,519
+Il a des photos le monsieur
+
+1571
+01:20:00,519 --> 01:20:02,739
+C'est tout
+
+1572
+01:20:02,739 --> 01:20:05,439
+Vous allez le voir et vous lui dites
+
+1573
+01:20:05,439 --> 01:20:06,460
+Bah écoutez cher monsieur
+
+1574
+01:20:06,460 --> 01:20:09,599
+On va aller un petit peu plus loin que les photos
+
+1575
+01:20:09,599 --> 01:20:11,500
+Je vous offre
+
+1576
+01:20:11,500 --> 01:20:14,199
+Une super maquette interactive
+
+1577
+01:20:14,199 --> 01:20:15,840
+Juste de l'autre côté de la rue
+
+1578
+01:20:15,840 --> 01:20:17,679
+Le Blooming Café
+
+1579
+01:20:17,679 --> 01:20:18,939
+Pareil
+
+1580
+01:20:19,319 --> 01:20:21,359
+Imaginons même que la cabane du breton
+
+1581
+01:20:21,359 --> 01:20:22,679
+Ils vous disent non, non, non, j'en veux pas
+
+1582
+01:20:22,679 --> 01:20:25,019
+Pas de problème, je traverse la rue, le Blooming Café
+
+1583
+01:20:25,019 --> 01:20:26,179
+Pareil
+
+1584
+01:20:26,179 --> 01:20:28,380
+Et voyez, le Blooming Café
+
+1585
+01:20:28,380 --> 01:20:31,079
+Lui aussi, il a quelques photos
+
+1586
+01:20:31,079 --> 01:20:35,659
+Il s'est donné la peine de mettre des photos
+
+1587
+01:20:35,659 --> 01:20:36,679
+Ce monsieur, c'est pas pour rien
+
+1588
+01:20:36,679 --> 01:20:39,219
+C'est parce qu'il veut travailler sa présence sur les réseaux sociaux
+
+1589
+01:20:39,219 --> 01:20:40,859
+Et bah vous lui dites, on va aller
+
+1590
+01:20:40,859 --> 01:20:42,539
+Un peu plus loin, juste à côté
+
+1591
+01:20:42,539 --> 01:20:44,819
+Le Paradise Roll
+
+1592
+01:20:44,819 --> 01:20:47,420
+Il a une page Instagram
+
+1593
+01:20:47,420 --> 01:20:49,500
+allons voir la page Instagram du Paradise Roll
+
+1594
+01:20:49,500 --> 01:20:52,119
+sur sa page Instagram
+
+1595
+01:20:52,119 --> 01:20:53,220
+alors je n'ai pas de compte Instagram
+
+1596
+01:20:53,220 --> 01:20:54,539
+donc bien entendu ça va me
+
+1597
+01:20:54,539 --> 01:20:56,300
+probablement me bloquer
+
+1598
+01:20:56,300 --> 01:20:57,619
+il y a des jolies photos
+
+1599
+01:20:57,619 --> 01:21:00,399
+cher monsieur ne vous arrêtez pas à des jolies photos
+
+1600
+01:21:00,399 --> 01:21:02,960
+on va faire une super
+
+1601
+01:21:02,960 --> 01:21:05,039
+visite, bon moi ça me bloque parce que
+
+1602
+01:21:05,039 --> 01:21:07,039
+je n'ai pas de compte, mais les gens normaux ils ont un compte
+
+1603
+01:21:07,039 --> 01:21:09,520
+et on continue
+
+1604
+01:21:09,520 --> 01:21:11,119
+le candy shop
+
+1605
+01:21:11,119 --> 01:21:12,880
+le glacier, pareil
+
+1606
+01:21:12,880 --> 01:21:15,239
+le carnaud, le café
+
+1607
+01:21:15,239 --> 01:21:16,140
+pareil
+
+1608
+01:21:16,140 --> 01:21:44,980
+Les pizzas du bassin, pizza emportée, pareil. Et ainsi de suite, et ainsi de suite. Puppet brunch, pareil. Et les gans canines, pareil. Vous le voyez, rien que sur ces deux pâtés de maison, il y a des dizaines, dizaines, dizaines, dizaines de commerces qui attendent votre cadeau.
+
+1609
+01:21:44,979 --> 01:21:47,699
+parce que c'est un cadeau que vous leur appartenez
+
+1610
+01:21:47,699 --> 01:21:50,000
+c'est un cadeau
+
+1611
+01:21:50,000 --> 01:21:51,959
+pareil pour le notaire
+
+1612
+01:21:51,959 --> 01:21:53,979
+qui est ici, Cécilia Vives
+
+1613
+01:21:53,979 --> 01:21:55,759
+notaire à Arcachon, elle a l'air tout sympa
+
+1614
+01:21:55,759 --> 01:21:57,479
+Cécilia, c'est pareil
+
+1615
+01:21:57,479 --> 01:22:00,059
+peut-être qu'elle veut mettre son étude
+
+1616
+01:22:00,059 --> 01:22:00,859
+de notaire en avant
+
+1617
+01:22:00,859 --> 01:22:03,579
+peut-être qu'elle ne veut pas, si elle dit non, c'est pas grave
+
+1618
+01:22:03,579 --> 01:22:05,519
+on ira juste à côté, regardez
+
+1619
+01:22:05,519 --> 01:22:07,819
+Galerie de l'Épie, magasin d'ameublement
+
+1620
+01:22:07,819 --> 01:22:09,619
+ils ont un site internet
+
+1621
+01:22:09,619 --> 01:22:12,319
+allons sur le site internet
+
+1622
+01:22:12,319 --> 01:22:13,239
+de la Galerie de l'Épie
+
+1623
+01:22:14,979 --> 01:22:18,839
+collection, actus, la galerie
+
+1624
+01:22:18,839 --> 01:22:23,759
+c'est tout
+
+1625
+01:22:23,759 --> 01:22:26,159
+vous imaginez si ici vous leur proposiez
+
+1626
+01:22:26,159 --> 01:22:28,099
+une belle visite virtuelle de leur galerie
+
+1627
+01:22:28,099 --> 01:22:30,539
+gratuitement
+
+1628
+01:22:30,539 --> 01:22:31,699
+cadeau
+
+1629
+01:22:31,699 --> 01:22:33,579
+en échange de quoi ?
+
+1630
+01:22:33,579 --> 01:22:35,259
+vous devenez partenaire d'affaires
+
+1631
+01:22:35,259 --> 01:22:37,539
+en allant comme ça
+
+1632
+01:22:37,539 --> 01:22:40,519
+dans tous les commerces
+
+1633
+01:22:40,519 --> 01:22:42,579
+les associations sportives
+
+1634
+01:22:42,579 --> 01:22:44,559
+les associations sportives ça marche extrêmement bien
+
+1635
+01:22:44,560 --> 01:22:46,700
+Je vous ai montré tout à l'heure le club de judo de Julien.
+
+1636
+01:22:47,220 --> 01:22:47,980
+Ça marche hyper bien.
+
+1637
+01:22:48,080 --> 01:22:48,340
+Pourquoi ?
+
+1638
+01:22:48,340 --> 01:22:49,940
+Parce que toutes les associations sportives,
+
+1639
+01:22:50,260 --> 01:22:53,200
+ils courent tout le temps après les sous pour acheter les maillots pour les enfants,
+
+1640
+01:22:53,400 --> 01:22:55,700
+pour mettre de l'essence dans le camion, pour aller faire une compétition,
+
+1641
+01:22:56,280 --> 01:22:57,780
+pour plein de choses.
+
+1642
+01:22:58,020 --> 01:22:59,920
+Les associations ont toujours besoin de sous.
+
+1643
+01:23:01,180 --> 01:23:02,920
+Les associations, vous allez les voir, vous dites,
+
+1644
+01:23:03,000 --> 01:23:05,460
+écoutez, je fais une belle maquette de votre gymnase,
+
+1645
+01:23:05,600 --> 01:23:08,020
+de votre dojo pour le judo, je sais quoi.
+
+1646
+01:23:09,300 --> 01:23:10,840
+Devenons partenaire d'affaires.
+
+1647
+01:23:11,820 --> 01:23:13,600
+Vous avez, vous, accès à plein de gens,
+
+1648
+01:23:13,600 --> 01:23:15,720
+les parents, les compétitions
+
+1649
+01:23:15,720 --> 01:23:16,539
+sportives etc
+
+1650
+01:23:16,539 --> 01:23:18,980
+et bien laissez-moi
+
+1651
+01:23:18,980 --> 01:23:22,200
+mettre mon QR code
+
+1652
+01:23:22,200 --> 01:23:24,079
+laissez-moi développer
+
+1653
+01:23:24,079 --> 01:23:24,620
+ma
+
+1654
+01:23:24,620 --> 01:23:27,460
+comment ça s'appelle
+
+1655
+01:23:27,460 --> 01:23:31,840
+mes relations d'affaires avec vous
+
+1656
+01:23:31,840 --> 01:23:35,079
+grâce aux cadeaux que je vous offre
+
+1657
+01:23:35,079 --> 01:23:37,480
+et vous le voyez qu'en fait ça n'a aucune limite
+
+1658
+01:23:37,480 --> 01:23:39,160
+parce que si je change
+
+1659
+01:23:39,160 --> 01:23:41,800
+de pâté maison, que j'arrive ici
+
+1660
+01:23:41,800 --> 01:23:43,760
+et bien je vais au Pressing
+
+1661
+01:23:43,760 --> 01:23:45,539
+Côte d'Argent, le voici
+
+1662
+01:23:45,539 --> 01:23:47,520
+je vais chez Castin
+
+1663
+01:23:47,520 --> 01:23:49,360
+la boucherie, la voici
+
+1664
+01:23:49,360 --> 01:23:50,440
+je vais
+
+1665
+01:23:50,440 --> 01:23:54,000
+n'importe où, hôtel des ventes du bassin d'Arcachon
+
+1666
+01:23:54,000 --> 01:23:55,420
+pourquoi pas
+
+1667
+01:23:55,420 --> 01:23:57,380
+l'hôtel des ventes du bassin d'Arcachon
+
+1668
+01:23:57,380 --> 01:23:58,840
+en fait il n'y a aucune limite
+
+1669
+01:23:58,840 --> 01:24:01,600
+et tous ceux qui vous diront non
+
+1670
+01:24:01,600 --> 01:24:03,239
+seront remplacés par d'autres
+
+1671
+01:24:03,239 --> 01:24:04,980
+qui vous diront oui parce que cette dame là
+
+1672
+01:24:04,980 --> 01:24:07,760
+le cabinet de sage-femme, elle a besoin de nouveaux clients
+
+1673
+01:24:07,760 --> 01:24:09,420
+ce magasin
+
+1674
+01:24:09,420 --> 01:24:10,820
+de pièces de rechange automobile
+
+1675
+01:24:10,819 --> 01:24:12,460
+il a besoin de nouveaux clients
+
+1676
+01:24:12,460 --> 01:24:13,779
+et donc de se faire connaître
+
+1677
+01:24:13,779 --> 01:24:16,819
+Sophia Beauté, magasin de produits de beauté
+
+1678
+01:24:16,819 --> 01:24:17,859
+pareil
+
+1679
+01:24:17,859 --> 01:24:21,039
+ces gens ont besoin d'une présence
+
+1680
+01:24:21,039 --> 01:24:22,799
+sur les réseaux sociaux de qualité
+
+1681
+01:24:22,799 --> 01:24:24,819
+et vous, vous leur apportez une visibilité
+
+1682
+01:24:25,460 --> 01:24:27,399
+de très grande qualité
+
+1683
+01:24:27,399 --> 01:24:29,399
+et c'est un
+
+1684
+01:24:29,399 --> 01:24:30,619
+cadeau
+
+1685
+01:24:30,619 --> 01:24:31,739
+que vous leur faites
+
+1686
+01:24:31,739 --> 01:24:34,619
+un cadeau
+
+1687
+01:24:34,619 --> 01:24:36,380
+donc
+
+1688
+01:24:36,380 --> 01:24:38,699
+moi je vous recommanderais les amis
+
+1689
+01:24:38,699 --> 01:24:41,539
+et bien dès maintenant
+
+1690
+01:24:41,539 --> 01:24:43,720
+de vous lancer
+
+1691
+01:24:43,720 --> 01:24:45,859
+dans Premièrement.
+
+1692
+01:24:48,679 --> 01:24:49,840
+Faites des essais
+
+1693
+01:24:49,840 --> 01:24:52,239
+pour inscrire des gens
+
+1694
+01:24:52,239 --> 01:24:54,079
+sur l'application à la lucarne.
+
+1695
+01:24:54,220 --> 01:24:56,199
+Faites-le avec votre femme,
+
+1696
+01:24:56,500 --> 01:24:58,279
+votre frère, votre fils,
+
+1697
+01:24:59,059 --> 01:25:00,460
+n'importe qui qui a un smartphone
+
+1698
+01:25:00,460 --> 01:25:01,139
+à côté de vous.
+
+1699
+01:25:01,939 --> 01:25:03,300
+Faites un essai ou deux.
+
+1700
+01:25:03,859 --> 01:25:05,220
+Pour cela, vous aurez besoin
+
+1701
+01:25:05,220 --> 01:25:07,220
+de deux choses
+
+1702
+01:25:07,220 --> 01:25:09,380
+au choix, l'un ou l'autre.
+
+1703
+01:25:10,000 --> 01:25:11,380
+Soit votre QR code
+
+1704
+01:25:11,380 --> 01:25:12,079
+WeMove.
+
+1705
+01:25:12,860 --> 01:25:14,140
+Il est où mon WeMove ? Il est là.
+
+1706
+01:25:14,640 --> 01:25:16,460
+Soit donc votre QR code
+
+1707
+01:25:16,460 --> 01:25:18,720
+WeMove, soit
+
+1708
+01:25:18,720 --> 01:25:20,940
+votre code parrain.
+
+1709
+01:25:21,220 --> 01:25:23,240
+Alors, je ne sais plus où est le QR code,
+
+1710
+01:25:23,300 --> 01:25:24,800
+où est le code parrain, parce que
+
+1711
+01:25:24,800 --> 01:25:27,180
+moi, j'ai une interface WeMove d'administration.
+
+1712
+01:25:27,340 --> 01:25:28,500
+Vous voyez, moi, je gère tous les agents.
+
+1713
+01:25:29,180 --> 01:25:31,380
+Donc, c'est normal que je n'ai pas...
+
+1714
+01:25:32,320 --> 01:25:33,280
+Je ne vois pas exactement
+
+1715
+01:25:33,280 --> 01:25:35,159
+ce que vous, vous voyez, mais vous, en fait,
+
+1716
+01:25:35,220 --> 01:25:36,119
+quand vous arrivez ici,
+
+1717
+01:25:36,119 --> 01:25:39,359
+vous avez votre QR code
+
+1718
+01:25:39,359 --> 01:25:43,519
+ou votre
+
+1719
+01:25:43,519 --> 01:25:46,640
+votre code parrain
+
+1720
+01:25:46,640 --> 01:25:48,739
+je l'avais tout à l'heure sous les yeux
+
+1721
+01:25:48,739 --> 01:25:50,579
+mais moi je ne suis pas très habitué à ça
+
+1722
+01:25:50,579 --> 01:25:51,859
+parce que ce n'est pas quelque chose
+
+1723
+01:25:51,859 --> 01:25:54,239
+que j'utilise quotidiennement
+
+1724
+01:25:54,239 --> 01:25:54,840
+c'est normal
+
+1725
+01:25:54,840 --> 01:25:57,640
+ah bah voilà il est là
+
+1726
+01:25:57,640 --> 01:25:59,779
+vous faites application mobile
+
+1727
+01:25:59,779 --> 01:26:01,519
+et là vous avez votre QR code
+
+1728
+01:26:01,519 --> 01:26:04,340
+donc vous faites scanner le QR code
+
+1729
+01:26:04,340 --> 01:26:08,260
+par votre contact.
+
+1730
+01:26:09,380 --> 01:26:11,579
+Et puis, il s'inscrit derrière.
+
+1731
+01:26:11,980 --> 01:26:14,340
+Soit vous lui faites télécharger l'application manuellement
+
+1732
+01:26:14,340 --> 01:26:18,480
+à la lucarne et vous lui faites mettre votre code parrain.
+
+1733
+01:26:19,079 --> 01:26:21,980
+Le plus simple, c'est de passer par le QR code, bien sûr.
+
+1734
+01:26:22,440 --> 01:26:25,260
+Alors attention, ne dites jamais à la personne,
+
+1735
+01:26:25,340 --> 01:26:26,920
+ça c'est un tuyau extrêmement important,
+
+1736
+01:26:27,380 --> 01:26:28,500
+ne dites jamais à la personne,
+
+1737
+01:26:28,659 --> 01:26:31,039
+allez, tu t'inscriras, parce qu'il ne le fera pas.
+
+1738
+01:26:31,699 --> 01:26:33,100
+Il doit s'inscrire sous vos yeux,
+
+1739
+01:26:33,100 --> 01:26:35,620
+parce que sinon il va dire oui je le ferai plus tard
+
+1740
+01:26:35,620 --> 01:26:37,060
+et il va oublier, il va passer à autre chose
+
+1741
+01:26:37,060 --> 01:26:39,020
+et c'est normal on a tous mille choses en tête
+
+1742
+01:26:39,020 --> 01:26:41,100
+donc vous lui dites attends
+
+1743
+01:26:41,100 --> 01:26:42,280
+ça prend deux minutes
+
+1744
+01:26:42,280 --> 01:26:45,820
+je vais t'aider, allez je vais t'inscrire
+
+1745
+01:26:45,820 --> 01:26:47,720
+il scanne
+
+1746
+01:26:47,720 --> 01:26:48,940
+le QR code avec votre
+
+1747
+01:26:48,940 --> 01:26:51,780
+votre
+
+1748
+01:26:51,780 --> 01:26:53,640
+son smartphone
+
+1749
+01:26:53,640 --> 01:26:55,120
+et il s'inscrit
+
+1750
+01:26:55,120 --> 01:26:57,220
+bien entendu ce QR code est là
+
+1751
+01:26:57,220 --> 01:27:00,120
+vous pouvez le télécharger sur votre ordinateur
+
+1752
+01:27:00,120 --> 01:27:02,120
+regardez
+
+1753
+01:27:02,119 --> 01:27:03,180
+en grand
+
+1754
+01:27:03,180 --> 01:27:06,180
+en grand et surtout en haute qualité
+
+1755
+01:27:06,180 --> 01:27:08,399
+ça vous permet
+
+1756
+01:27:08,399 --> 01:27:09,199
+de le mettre partout
+
+1757
+01:27:09,199 --> 01:27:11,199
+sur un flyer
+
+1758
+01:27:11,199 --> 01:27:13,659
+sur votre voiture
+
+1759
+01:27:13,659 --> 01:27:15,439
+sur
+
+1760
+01:27:15,439 --> 01:27:18,500
+le
+
+1761
+01:27:18,500 --> 01:27:22,380
+petit commerce
+
+1762
+01:27:22,380 --> 01:27:23,659
+qu'on est allé visiter
+
+1763
+01:27:23,659 --> 01:27:25,239
+regardez parce que je voyais ça il y a un instant
+
+1764
+01:27:25,239 --> 01:27:27,220
+dans le truc de
+
+1765
+01:27:27,220 --> 01:27:28,960
+bien-être
+
+1766
+01:27:28,960 --> 01:27:32,039
+il y a un petit QR code pour un jeu concours
+
+1767
+01:27:32,039 --> 01:27:34,539
+ça pourrait être votre QR code à vous à la place
+
+1768
+01:27:34,539 --> 01:27:35,479
+pourquoi pas
+
+1769
+01:27:35,479 --> 01:27:38,300
+ce petit QR code, mettez-le
+
+1770
+01:27:38,300 --> 01:27:40,039
+partout, partout, partout
+
+1771
+01:27:40,039 --> 01:27:41,420
+partout, partout, partout
+
+1772
+01:27:41,420 --> 01:27:44,519
+quelle est
+
+1773
+01:27:44,519 --> 01:27:46,399
+l'utilité de ça
+
+1774
+01:27:46,399 --> 01:27:47,279
+concrète
+
+1775
+01:27:47,279 --> 01:27:49,899
+quelle est l'utilité concrète
+
+1776
+01:27:49,899 --> 01:27:51,239
+je vais retourner tout simplement
+
+1777
+01:27:51,239 --> 01:27:53,279
+sur WeMove
+
+1778
+01:27:53,279 --> 01:27:55,760
+et je vais vous remontrer
+
+1779
+01:27:55,760 --> 01:27:59,699
+je l'ai perdu
+
+1780
+01:27:59,699 --> 01:28:00,340
+il est là
+
+1781
+01:28:00,340 --> 01:28:04,960
+Quel est l'impact direct pour vous ?
+
+1782
+01:28:04,960 --> 01:28:06,980
+Eh bien, c'est exactement ce que nous avons là sous les yeux.
+
+1783
+01:28:10,100 --> 01:28:15,539
+Vous le voyez il y a un instant.
+
+1784
+01:28:20,960 --> 01:28:29,699
+Tout ce qui est là, ce sont des contacts qui viennent exactement du système dont je viens de vous parler.
+
+1785
+01:28:30,340 --> 01:28:32,940
+Exactement de ce système
+
+1786
+01:28:32,940 --> 01:28:35,319
+Et là vous voyez
+
+1787
+01:28:35,319 --> 01:28:37,420
+Tiens regardez il y en a un qui vient de ce
+
+1788
+01:28:37,420 --> 01:28:39,560
+Tout à l'heure on l'avait pas
+
+1789
+01:28:39,560 --> 01:28:41,659
+Je sais pas si vous vous souvenez mais tout à l'heure quand on est venu
+
+1790
+01:28:41,659 --> 01:28:46,260
+C'était Pierre qui était en premier ici
+
+1791
+01:28:46,260 --> 01:28:49,159
+Et bien entre temps il y a Valérie
+
+1792
+01:28:49,159 --> 01:28:50,100
+Qui est en Dordogne
+
+1793
+01:28:50,100 --> 01:28:52,779
+Qui vient de se rajouter et qui vient de valider un
+
+1794
+01:28:52,779 --> 01:28:54,000
+Signature Agence
+
+1795
+01:28:54,000 --> 01:28:56,720
+640 euros
+
+1796
+01:28:56,720 --> 01:28:58,460
+Ca doit être un beau produit
+
+1797
+01:28:58,460 --> 01:29:00,239
+Alors moi je ne connais pas le produit
+
+1798
+01:29:00,239 --> 01:29:03,579
+Est-ce qu'on a le numéro de mandat caché quelque part ?
+
+1799
+01:29:03,579 --> 01:29:07,219
+On sait que l'apporteur d'affaires est là et là.
+
+1800
+01:29:07,559 --> 01:29:08,479
+Je ne sais pas où il est.
+
+1801
+01:29:09,479 --> 01:29:11,000
+Je n'ai pas le numéro de mandat, mais ce n'est pas grave.
+
+1802
+01:29:11,779 --> 01:29:14,899
+Vous voyez que Valérie vient de le valider.
+
+1803
+01:29:15,800 --> 01:29:17,019
+Bravo à Valérie.
+
+1804
+01:29:17,519 --> 01:29:20,399
+Donc, vous voyez l'impact direct pour vous.
+
+1805
+01:29:21,859 --> 01:29:23,139
+Tout ça, ce sont des vrais cas.
+
+1806
+01:29:23,439 --> 01:29:25,279
+Ce ne sont pas des choses inventées pour vous donner envie.
+
+1807
+01:29:25,279 --> 01:29:32,340
+Julien a enregistré Jocelyn, mandat enregistré, le mandat de Virginie Thibault
+
+1808
+01:29:32,340 --> 01:29:37,880
+Julien a rendez-vous chez M. Quintin grâce à Marjorie Leroy
+
+1809
+01:29:37,880 --> 01:29:42,739
+Julien a rendez-vous avec M. Dupuis grâce à Samuel Sarrazin
+
+1810
+01:29:42,739 --> 01:29:48,739
+Noémie a rendez-vous avec Isabelle Cadart grâce à Doris Decouveler
+
+1811
+01:29:49,579 --> 01:29:50,759
+Et ainsi de suite
+
+1812
+01:29:50,760 --> 01:29:52,500
+Marjorie, compromis
+
+1813
+01:29:52,500 --> 01:29:53,760
+Laurent, offre d'achat
+
+1814
+01:29:53,760 --> 01:29:55,300
+Jackie, prise de rendez-vous
+
+1815
+01:29:55,300 --> 01:29:57,920
+Camille, offre d'achat
+
+1816
+01:29:57,920 --> 01:30:00,100
+Guillaume, mandat enregistré
+
+1817
+01:30:00,100 --> 01:30:02,880
+ça c'est un mandat, ça y est, qui est en cours de commercialisation
+
+1818
+01:30:02,880 --> 01:30:05,100
+est-ce que j'ai le numéro du mandat quelque part ?
+
+1819
+01:30:05,100 --> 01:30:06,140
+non, il ne le met pas
+
+1820
+01:30:06,140 --> 01:30:09,579
+non, je n'ai pas le numéro du mandat ici
+
+1821
+01:30:09,579 --> 01:30:11,680
+Guillaume, il est à Arras
+
+1822
+01:30:11,680 --> 01:30:12,900
+dans le Pas-de-Calais aussi
+
+1823
+01:30:12,900 --> 01:30:15,800
+vous voyez tout ça ?
+
+1824
+01:30:15,800 --> 01:30:17,739
+offre d'achat, c'était où l'offre d'achat ?
+
+1825
+01:30:17,739 --> 01:30:19,900
+Camille, grâce à Christine Zamit
+
+1826
+01:30:19,899 --> 01:30:22,039
+il a reçu une offre d'achat
+
+1827
+01:30:22,039 --> 01:30:24,000
+sur le mandat de monsieur Olivier
+
+1828
+01:30:24,000 --> 01:30:24,920
+Baert
+
+1829
+01:30:24,920 --> 01:30:28,979
+comment on dit ça
+
+1830
+01:30:28,979 --> 01:30:30,799
+Jean-Marc qui est en Basse-Normandie
+
+1831
+01:30:30,799 --> 01:30:32,779
+et ainsi de suite
+
+1832
+01:30:32,779 --> 01:30:33,479
+et ainsi de suite
+
+1833
+01:30:33,479 --> 01:30:36,599
+mandat enregistré pour Jackie sur l'île d'Oléron
+
+1834
+01:30:36,599 --> 01:30:42,779
+voilà le résultat
+
+1835
+01:30:43,500 --> 01:30:44,299
+chiffré
+
+1836
+01:30:44,299 --> 01:30:46,699
+de cette nouvelle prospection
+
+1837
+01:30:46,699 --> 01:30:47,799
+que vous mettez en place
+
+1838
+01:30:47,800 --> 01:30:51,880
+qui est extrêmement efficace.
+
+1839
+01:30:52,500 --> 01:30:57,360
+Pour cela, allez ratisser votre quartier,
+
+1840
+01:30:57,500 --> 01:30:59,739
+que ce soit Arcachon, que ce soit...
+
+1841
+01:30:59,739 --> 01:31:01,279
+Allez, regardez, on va à Châteauroux.
+
+1842
+01:31:05,460 --> 01:31:06,520
+On va à Châteauroux.
+
+1843
+01:31:07,560 --> 01:31:08,739
+C'est pareil à Châteauroux.
+
+1844
+01:31:08,960 --> 01:31:11,119
+Je zoome au centre de Châteauroux.
+
+1845
+01:31:11,239 --> 01:31:12,860
+Bon, pas la peine d'aller voir la FNAC.
+
+1846
+01:31:13,020 --> 01:31:13,900
+Ça, c'est un truc gigantesque.
+
+1847
+01:31:13,960 --> 01:31:14,980
+Ils n'en ont rien à faire de vous.
+
+1848
+01:31:14,980 --> 01:31:16,980
+Mais allez voir le PIMS.
+
+1849
+01:31:17,800 --> 01:31:19,960
+ça a l'air sympa le PIMS
+
+1850
+01:31:19,960 --> 01:31:21,480
+ils ont une page Facebook
+
+1851
+01:31:21,480 --> 01:31:24,100
+il faudrait mettre une belle visite virtuelle sur la page Facebook
+
+1852
+01:31:24,100 --> 01:31:24,739
+voyez
+
+1853
+01:31:24,739 --> 01:31:28,460
+allez voir l'Orbis Gastronomie Française
+
+1854
+01:31:28,460 --> 01:31:30,199
+ils ont un site internet
+
+1855
+01:31:30,199 --> 01:31:32,779
+Orbis Restaurant, pourquoi ils n'ont pas une belle visite virtuelle
+
+1856
+01:31:32,779 --> 01:31:34,159
+le Café Moustache
+
+1857
+01:31:34,159 --> 01:31:36,199
+l'Imprévu, le Centre de Beauté
+
+1858
+01:31:36,199 --> 01:31:38,260
+Steph Nutriforme
+
+1859
+01:31:38,260 --> 01:31:39,600
+les clubs de sport
+
+1860
+01:31:39,600 --> 01:31:41,940
+les AirBnB, les cafés
+
+1861
+01:31:41,940 --> 01:31:43,640
+regardez la pharmacie Equinox
+
+1862
+01:31:43,640 --> 01:31:45,800
+ils ont un site internet
+
+1863
+01:31:45,800 --> 01:31:46,980
+la pharmacie Equinox
+
+1864
+01:31:46,979 --> 01:31:49,259
+pourquoi ils n'ont pas une belle visite virtuelle
+
+1865
+01:31:49,259 --> 01:31:50,259
+sur leur site internet
+
+1866
+01:31:50,259 --> 01:31:52,719
+il n'y a aucune limite
+
+1867
+01:31:52,719 --> 01:31:54,259
+que vous soyez à Châteauroux
+
+1868
+01:31:54,259 --> 01:31:56,459
+que vous soyez à Auxil-Château
+
+1869
+01:31:56,459 --> 01:31:58,579
+que vous soyez à Arcachon
+
+1870
+01:31:58,579 --> 01:32:00,879
+c'est le
+
+1871
+01:32:00,879 --> 01:32:03,239
+Africa Store plat africain
+
+1872
+01:32:03,239 --> 01:32:04,859
+ils ont un site internet
+
+1873
+01:32:04,859 --> 01:32:06,659
+non ils n'ont pas de site internet
+
+1874
+01:32:06,659 --> 01:32:08,039
+peut-être va leur s'y mettre
+
+1875
+01:32:08,039 --> 01:32:11,959
+vous le voyez
+
+1876
+01:32:11,959 --> 01:32:14,659
+que vous soyez à Arcachon
+
+1877
+01:32:14,659 --> 01:32:16,500
+à Auxil-Château, à Châteauroux
+
+1878
+01:32:16,500 --> 01:32:17,479
+ou n'importe où ailleurs,
+
+1879
+01:32:18,699 --> 01:32:20,399
+il n'y a aucune,
+
+1880
+01:32:20,579 --> 01:32:22,539
+aucune, aucune, aucune
+
+1881
+01:32:22,539 --> 01:32:23,260
+limite.
+
+1882
+01:32:24,539 --> 01:32:26,659
+Partout autour de vous se cachent
+
+1883
+01:32:26,659 --> 01:32:28,899
+des milliers de contacts potentiels
+
+1884
+01:32:28,899 --> 01:32:30,659
+grâce à tous ces
+
+1885
+01:32:30,659 --> 01:32:32,659
+apporteurs d'affaires que vous allez rencontrer,
+
+1886
+01:32:33,300 --> 01:32:34,800
+à qui vous allez offrir un beau
+
+1887
+01:32:34,800 --> 01:32:35,939
+cadeau.
+
+1888
+01:32:37,060 --> 01:32:38,840
+Je vous conseille également une petite chose
+
+1889
+01:32:38,840 --> 01:32:40,899
+pour vraiment développer votre notoriété locale.
+
+1890
+01:32:41,020 --> 01:32:42,680
+Là, vous voyez qu'il y a une église, l'église Notre-Dame
+
+1891
+01:32:42,680 --> 01:32:43,319
+de Châteauroux.
+
+1892
+01:32:43,319 --> 01:32:47,899
+allez également faire des visites virtuelles
+
+1893
+01:32:47,899 --> 01:32:50,899
+des lieux culturels autour de chez vous
+
+1894
+01:32:50,899 --> 01:32:52,159
+afin de vous faire connaître
+
+1895
+01:32:52,159 --> 01:32:56,039
+c'est une espèce de mécénat que vous pouvez faire
+
+1896
+01:32:56,039 --> 01:32:58,960
+mais vous le voyez en dehors même des églises
+
+1897
+01:32:58,960 --> 01:33:00,279
+et des centres culturels
+
+1898
+01:33:00,279 --> 01:33:04,699
+le café moustache, nez de la mer
+
+1899
+01:33:04,699 --> 01:33:07,059
+c'est tout beau
+
+1900
+01:33:07,059 --> 01:33:09,399
+regardez nez de la mer comme c'est joli
+
+1901
+01:33:09,399 --> 01:33:12,039
+pourquoi ils n'ont pas une chouette visite virtuelle
+
+1902
+01:33:12,039 --> 01:33:13,500
+Ils montrent leurs plats
+
+1903
+01:33:13,500 --> 01:33:15,720
+Qui ont l'air sans aucun doute délicieux
+
+1904
+01:33:15,720 --> 01:33:18,119
+Mais pourquoi ne montrent-ils pas
+
+1905
+01:33:18,119 --> 01:33:21,239
+Leur bel endroit
+
+1906
+01:33:21,239 --> 01:33:22,220
+Alors regardez ici
+
+1907
+01:33:22,220 --> 01:33:23,140
+Une chose importante
+
+1908
+01:33:23,140 --> 01:33:24,500
+C'est beau ça, c'est joli
+
+1909
+01:33:24,500 --> 01:33:27,199
+Personne sur les photos
+
+1910
+01:33:27,199 --> 01:33:29,060
+Là c'est le photo, il y a un monsieur dessus
+
+1911
+01:33:29,060 --> 01:33:31,699
+Sur les visites virtuelles
+
+1912
+01:33:31,699 --> 01:33:33,159
+Il doit y avoir personne, bien sûr
+
+1913
+01:33:33,159 --> 01:33:34,960
+Très important, respect de la vie privée
+
+1914
+01:33:34,960 --> 01:33:37,399
+Personne ne doit être sur les photos
+
+1915
+01:33:37,399 --> 01:33:39,100
+Mais ça, c'est pas un problème
+
+1916
+01:33:39,100 --> 01:33:40,939
+D'autant que faire les photos pour la visite virtuelle
+
+1917
+01:33:40,939 --> 01:33:42,939
+Je vous expliquerai ça, je vous le montrerai
+
+1918
+01:33:42,939 --> 01:33:45,799
+Là-bas, très très très vite
+
+1919
+01:33:45,799 --> 01:33:47,159
+C'est très simple à faire
+
+1920
+01:33:47,159 --> 01:33:48,519
+Très très très très simple
+
+1921
+01:33:48,519 --> 01:33:51,339
+Il suffit de mettre une petite lentille
+
+1922
+01:33:51,339 --> 01:33:53,239
+Que nous vous fournirons gratuitement
+
+1923
+01:33:53,239 --> 01:33:55,039
+Sur votre smartphone
+
+1924
+01:33:55,039 --> 01:33:57,079
+Il faut avoir un smartphone de moins de 5 ans
+
+1925
+01:33:57,079 --> 01:33:57,759
+Quelque chose comme ça
+
+1926
+01:33:57,759 --> 01:34:00,419
+Au-delà de 5 ans, il commence à être un peu vieux
+
+1927
+01:34:00,419 --> 01:34:02,419
+Si vous avez un smartphone qui a moins de 5 ans
+
+1928
+01:34:02,419 --> 01:34:05,199
+C'est parfait, vous êtes nickel pour le faire
+
+1929
+01:34:05,199 --> 01:34:05,979
+Quelle que soit la marque
+
+1930
+01:34:05,979 --> 01:34:09,159
+iPhone, Samsung, Huawei, Alcatel
+
+1931
+01:34:09,159 --> 01:34:09,899
+Ou je ne sais pas quoi
+
+1932
+01:34:09,899 --> 01:34:12,659
+il n'y a pas de problème de ça marche que sur un modèle
+
+1933
+01:34:12,659 --> 01:34:14,319
+ou sur un autre modèle, ça marche chez
+
+1934
+01:34:14,319 --> 01:34:15,339
+tout le monde
+
+1935
+01:34:15,339 --> 01:34:16,939
+donc vous le voyez
+
+1936
+01:34:16,939 --> 01:34:20,420
+la prospection c'est exactement
+
+1937
+01:34:20,420 --> 01:34:21,619
+là que ça se passe
+
+1938
+01:34:21,619 --> 01:34:23,920
+aujourd'hui c'est là
+
+1939
+01:34:23,920 --> 01:34:26,559
+et c'est nulle part ailleurs et vous le voyez ce système
+
+1940
+01:34:26,559 --> 01:34:28,500
+de la recommandation
+
+1941
+01:34:28,500 --> 01:34:30,479
+d'affaires il est parfaitement
+
+1942
+01:34:30,479 --> 01:34:32,059
+en phase avec la prospection physique
+
+1943
+01:34:32,059 --> 01:34:34,439
+la prospection téléphonique on l'oublie
+
+1944
+01:34:34,439 --> 01:34:35,659
+ça ne sert plus à rien
+
+1945
+01:34:35,659 --> 01:34:38,420
+la prospection physique couplée au
+
+1946
+01:34:38,420 --> 01:34:40,440
+système d'apporteur d'affaires, ça vous
+
+1947
+01:34:40,440 --> 01:34:42,420
+permet d'avoir ces mandats d'excellente qualité
+
+1948
+01:34:42,420 --> 01:34:44,699
+mais en plus grand nombre
+
+1949
+01:34:44,699 --> 01:34:46,480
+et à terme
+
+1950
+01:34:46,480 --> 01:34:47,960
+beaucoup plus court.
+
+1951
+01:34:51,079 --> 01:34:52,340
+Y a-t-il d'autres questions ?
+
+1952
+01:34:52,340 --> 01:34:53,680
+Oh, il y a plein de révélations sur le chat.
+
+1953
+01:34:53,760 --> 01:34:54,560
+Il y en a plein.
+
+1954
+01:34:55,920 --> 01:34:58,520
+La vidéo faite pour commerçants étant totalement gratuite,
+
+1955
+01:34:58,600 --> 01:35:00,460
+que se passe-t-il si elles ne fournissent aucun retour
+
+1956
+01:35:00,460 --> 01:35:02,560
+contact ? Y a-t-il une durée
+
+1957
+01:35:02,560 --> 01:35:04,579
+de validité pour la vidéo, sa gratuité ?
+
+1958
+01:35:04,579 --> 01:35:06,579
+Alors, moi je vous dirais non.
+
+1959
+01:35:07,480 --> 01:35:08,140
+Alors, vous pouvez
+
+1960
+01:35:08,140 --> 01:35:10,060
+Vous pouvez dire
+
+1961
+01:35:10,060 --> 01:35:11,200
+Bon bah lui il joue pas le jeu
+
+1962
+01:35:11,200 --> 01:35:12,840
+Je coupe sa visite virtuelle
+
+1963
+01:35:12,840 --> 01:35:13,660
+Oui vous pouvez
+
+1964
+01:35:13,660 --> 01:35:14,980
+Moi je vous le conseille pas
+
+1965
+01:35:14,980 --> 01:35:16,760
+Comme ça vous a rien coûté
+
+1966
+01:35:16,760 --> 01:35:18,260
+Si ça vous donne rien maintenant
+
+1967
+01:35:18,260 --> 01:35:19,100
+C'est pas grave
+
+1968
+01:35:19,100 --> 01:35:20,740
+Vous semez des petits cailloux
+
+1969
+01:35:20,740 --> 01:35:23,360
+Ca finira peut-être par donner quelque chose
+
+1970
+01:35:23,360 --> 01:35:24,200
+Dans un an
+
+1971
+01:35:24,200 --> 01:35:25,240
+Dans deux ans
+
+1972
+01:35:25,240 --> 01:35:26,500
+C'est pas parce que dans six mois
+
+1973
+01:35:26,500 --> 01:35:27,180
+Ca n'a rien donné
+
+1974
+01:35:27,180 --> 01:35:29,000
+Que
+
+1975
+01:35:29,000 --> 01:35:32,360
+Ca ne donnera rien plus tard
+
+1976
+01:35:32,360 --> 01:35:33,619
+Donc imaginons
+
+1977
+01:35:33,619 --> 01:35:34,520
+Vous êtes allé faire
+
+1978
+01:35:34,520 --> 01:35:36,740
+Cette jolie boutique
+
+1979
+01:35:36,740 --> 01:35:37,420
+Ici
+
+1980
+01:35:37,420 --> 01:35:40,119
+d'espace bien-être,
+
+1981
+01:35:40,239 --> 01:35:42,079
+etc., ça ne donne rien
+
+1982
+01:35:42,079 --> 01:35:44,140
+dans six mois, ce n'est pas grave, ça ne vous coûte
+
+1983
+01:35:44,140 --> 01:35:46,100
+rien de le laisser. Ça ne vous coûte
+
+1984
+01:35:46,100 --> 01:35:47,819
+rien. Retournez les voir.
+
+1985
+01:35:48,560 --> 01:35:49,199
+N'hésitez pas.
+
+1986
+01:35:50,159 --> 01:35:52,399
+Retournez les voir. Bonjour, comment ça va ?
+
+1987
+01:35:52,399 --> 01:35:53,640
+Alors, la visite virtuelle, vous avez vu,
+
+1988
+01:35:54,640 --> 01:35:56,159
+ça plaît aux gens, n'est-ce pas ?
+
+1989
+01:35:56,159 --> 01:35:57,980
+Et vous engagez la conversation
+
+1990
+01:35:57,980 --> 01:35:59,980
+et vous y revenez et vous vous
+
+1991
+01:35:59,980 --> 01:36:02,100
+remémorez
+
+1992
+01:36:02,100 --> 01:36:04,000
+auprès de cette personne.
+
+1993
+01:36:04,460 --> 01:36:04,940
+Tout simplement.
+
+1994
+01:36:04,939 --> 01:36:07,659
+maintenant si vous voulez le couper
+
+1995
+01:36:07,659 --> 01:36:09,479
+vous pouvez, vous nous demandez et nous on le fait
+
+1996
+01:36:09,479 --> 01:36:11,559
+Violine n'a pas accès à
+
+1997
+01:36:11,559 --> 01:36:13,579
+questions réponses me dit-elle, alors Violine
+
+1998
+01:36:13,579 --> 01:36:15,779
+vous avez
+
+1999
+01:36:15,779 --> 01:36:18,019
+ici le logiciel
+
+2000
+01:36:18,019 --> 01:36:19,579
+de visioconférence dans votre
+
+2001
+01:36:19,579 --> 01:36:21,619
+navigateur et tout
+
+2002
+01:36:21,619 --> 01:36:23,299
+simplement en fait vous avez ici
+
+2003
+01:36:23,299 --> 01:36:25,659
+vous êtes les participants d'aujourd'hui
+
+2004
+01:36:25,659 --> 01:36:27,279
+Violine est ici
+
+2005
+01:36:27,279 --> 01:36:29,899
+vous cliquez sur
+
+2006
+01:36:29,899 --> 01:36:31,919
+Q et R en haut
+
+2007
+01:36:31,919 --> 01:36:33,479
+là sur cette barre
+
+2008
+01:36:33,479 --> 01:36:36,500
+il y a conversation
+
+2009
+01:36:36,500 --> 01:36:37,679
+ça vous le laissez de côté
+
+2010
+01:36:37,679 --> 01:36:40,019
+et vous allez sur Q et R
+
+2011
+01:36:40,019 --> 01:36:42,259
+et tout simplement ici vous posez une question
+
+2012
+01:36:42,259 --> 01:36:43,839
+là vous avez un petit machin en bas
+
+2013
+01:36:43,839 --> 01:36:46,279
+et vous posez votre question et vous appuyez sur la petite flèche
+
+2014
+01:36:46,279 --> 01:36:48,419
+vous y avez accès tout simplement
+
+2015
+01:36:48,419 --> 01:36:49,839
+à cet endroit là
+
+2016
+01:36:49,839 --> 01:36:56,119
+bonjour Nicolas je viens
+
+2017
+01:36:56,119 --> 01:36:57,899
+l'adresse Facebook du groupe à la lucarne
+
+2018
+01:36:57,899 --> 01:36:59,759
+ah bah, violine à trouver c'est bon
+
+2019
+01:36:59,759 --> 01:37:01,679
+je vous le remets à tous
+
+2020
+01:37:01,680 --> 01:37:03,619
+le groupe Facebook. Il est
+
+2021
+01:37:03,619 --> 01:37:05,100
+ici. Hop.
+
+2022
+01:37:06,020 --> 01:37:07,780
+Copiez le lien et je le mets
+
+2023
+01:37:07,780 --> 01:37:09,600
+là. Hop là.
+
+2024
+01:37:09,820 --> 01:37:11,560
+Je vous l'ai renvoyé à tout le monde.
+
+2025
+01:37:12,760 --> 01:37:13,579
+Qui donne le gain
+
+2026
+01:37:13,579 --> 01:37:15,460
+d'apporteur d'affaires à la fin ?
+
+2027
+01:37:15,460 --> 01:37:17,480
+C'est vous. C'est vous qui donnez le gain
+
+2028
+01:37:17,480 --> 01:37:19,640
+d'apporteur d'affaires sur les honoraires que vous avez
+
+2029
+01:37:19,640 --> 01:37:21,400
+gagnés. Et croyez-moi,
+
+2030
+01:37:21,619 --> 01:37:23,520
+c'est de l'argent bien, bien, bien
+
+2031
+01:37:23,520 --> 01:37:25,140
+investi. Parce que
+
+2032
+01:37:25,140 --> 01:37:27,579
+c'est une com que vous n'auriez pas eu
+
+2033
+01:37:27,579 --> 01:37:28,680
+sinon. Tout simplement.
+
+2034
+01:37:29,300 --> 01:37:31,659
+Si vous avez 300 euros
+
+2035
+01:37:31,659 --> 01:37:33,340
+à payer, c'est que ça vous a
+
+2036
+01:37:33,340 --> 01:37:35,460
+rapporté 5000, 6000, 7000 euros.
+
+2037
+01:37:37,199 --> 01:37:39,039
+Si vous n'avez pas ces 300 euros à payer,
+
+2038
+01:37:39,260 --> 01:37:40,619
+c'est que cette vente, vous ne l'avez pas faite.
+
+2039
+01:37:41,000 --> 01:37:42,059
+C'est quelqu'un d'autre qui l'a faite.
+
+2040
+01:37:44,019 --> 01:37:45,099
+Est-ce que ce n'est pas trop technique
+
+2041
+01:37:45,099 --> 01:37:47,019
+à faire de bande Bessira ? C'est hyper simple.
+
+2042
+01:37:48,119 --> 01:37:49,119
+Hyper simple.
+
+2043
+01:37:49,220 --> 01:37:51,260
+C'est à la portée, mais même
+
+2044
+01:37:51,260 --> 01:37:53,180
+du plus allergique à l'informatique.
+
+2045
+01:37:53,180 --> 01:37:55,099
+Parce que c'est des photos à faire avec son téléphone.
+
+2046
+01:37:55,519 --> 01:37:57,439
+Tout simplement. Avec une petite lentille
+
+2047
+01:37:57,439 --> 01:37:58,760
+qu'on met dessus, c'est
+
+2048
+01:37:58,760 --> 01:38:00,300
+tout simple.
+
+2049
+01:38:01,659 --> 01:38:03,319
+Tout simple, tout simple, tout simple.
+
+2050
+01:38:04,720 --> 01:38:07,159
+Est-ce que vous avez d'autres questions, les amis ?
+
+2051
+01:38:07,159 --> 01:38:10,559
+Il faut bien vraiment comprendre que ce système d'apporteur d'affaires,
+
+2052
+01:38:11,000 --> 01:38:14,659
+c'est vraiment le nouveau mode de prospection
+
+2053
+01:38:14,659 --> 01:38:19,220
+qui permet de s'affranchir de l'impossibilité d'appeler les gens au téléphone
+
+2054
+01:38:19,220 --> 01:38:23,340
+et qui permet de s'affranchir de la pénibilité,
+
+2055
+01:38:23,340 --> 01:38:24,940
+de la grande
+
+2056
+01:38:24,940 --> 01:38:29,500
+ardeur
+
+2057
+01:38:29,500 --> 01:38:31,840
+à mettre dans la prospection
+
+2058
+01:38:31,840 --> 01:38:32,699
+physique.
+
+2059
+01:38:33,500 --> 01:38:35,180
+Ça facilite énormément les choses.
+
+2060
+01:38:35,720 --> 01:38:37,060
+Et puis vous pouvez mettre là-dedans
+
+2061
+01:38:37,060 --> 01:38:38,100
+vos amis,
+
+2062
+01:38:39,659 --> 01:38:41,340
+vos frères et sœurs.
+
+2063
+01:38:41,420 --> 01:38:43,420
+Alors attention, que des personnes
+
+2064
+01:38:43,420 --> 01:38:45,260
+majeures, parce que j'ai
+
+2065
+01:38:45,260 --> 01:38:47,460
+déjà eu un agent qui m'a dit, moi mon gamin
+
+2066
+01:38:47,460 --> 01:38:49,579
+il est au club de foot à côté,
+
+2067
+01:38:49,579 --> 01:38:51,600
+il connaît tout le monde, ça va me
+
+2068
+01:38:51,600 --> 01:38:53,199
+permettre de lui faire de l'argent de poche. Non.
+
+2069
+01:38:53,340 --> 01:38:54,720
+Il faut être majeur, bien sûr.
+
+2070
+01:38:54,880 --> 01:38:56,460
+Il faut être absolument majeur.
+
+2071
+01:38:57,239 --> 01:39:01,500
+Donc, votre famille, vos amis, vos anciens collègues,
+
+2072
+01:39:01,779 --> 01:39:04,440
+les copains du club de foot, les copains de ceci, de cela,
+
+2073
+01:39:04,640 --> 01:39:07,579
+et puis tous les commerçants autour de vous,
+
+2074
+01:39:08,060 --> 01:39:11,920
+les gîtes, les AirBnB, les associations culturelles,
+
+2075
+01:39:12,480 --> 01:39:15,140
+tous les gens qui sont autour de vous,
+
+2076
+01:39:15,239 --> 01:39:17,319
+potentiellement, ils connaissent des milliers d'autres gens
+
+2077
+01:39:17,319 --> 01:39:19,300
+qui seraient intéressés.
+
+2078
+01:39:20,880 --> 01:39:22,980
+À l'époque, l'appareil que j'avais acheté à 2500,
+
+2079
+01:39:22,979 --> 01:39:25,279
+je n'aimais pas. Alors, c'est beaucoup plus simple
+
+2080
+01:39:25,279 --> 01:39:27,159
+que les vieux,
+
+2081
+01:39:27,239 --> 01:39:28,979
+les anciens appareils qui faisaient les photos
+
+2082
+01:39:28,979 --> 01:39:31,199
+à l'époque. La technologie
+
+2083
+01:39:31,199 --> 01:39:32,839
+a tellement
+
+2084
+01:39:32,839 --> 01:39:35,179
+évolué. Est-ce que nous sommes les seuls
+
+2085
+01:39:35,179 --> 01:39:37,439
+à proposer cela ou d'autres réseaux le font aussi ?
+
+2086
+01:39:37,439 --> 01:39:38,959
+Ah bah ça, je vous garantis, mais alors
+
+2087
+01:39:38,959 --> 01:39:41,239
+tout ce que vous voulez, nous sommes
+
+2088
+01:39:41,239 --> 01:39:43,099
+les seuls et uniques
+
+2089
+01:39:43,099 --> 01:39:45,339
+à faire ça, non seulement
+
+2090
+01:39:45,339 --> 01:39:47,479
+en France, mais en Europe et peut-être dans le monde.
+
+2091
+01:39:47,759 --> 01:39:49,399
+Bon, dans le monde, je ne vais pas
+
+2092
+01:39:49,399 --> 01:39:51,459
+trop m'avancer. En Europe, je suis à peu
+
+2093
+01:39:51,459 --> 01:39:52,079
+près sûr de moi.
+
+2094
+01:39:52,979 --> 01:39:56,919
+Il n'y a aucun de vos concurrents qui peut aller voir cette boutique et lui dire
+
+2095
+01:39:56,919 --> 01:40:02,659
+« Devenez mon apporteur d'affaires et je vous offre une belle visite virtuelle gratuitement. »
+
+2096
+01:40:02,659 --> 01:40:07,219
+Ou alors « Celui-là, il faut me le présenter parce que je suis curieux de le rencontrer. »
+
+2097
+01:40:07,219 --> 01:40:08,439
+Non, non, vous êtes vraiment les sœurs.
+
+2098
+01:40:09,259 --> 01:40:12,259
+Alors, Bessiradi, c'est la richesse assurée.
+
+2099
+01:40:12,619 --> 01:40:14,819
+Eh bien, écoutez, j'aime beaucoup cet enthousiasme.
+
+2100
+01:40:16,159 --> 01:40:17,979
+Alors, est-ce qu'on a d'autres questions ?
+
+2101
+01:40:19,079 --> 01:40:20,039
+C'est bon ?
+
+2102
+01:40:20,039 --> 01:40:23,819
+Bon, alors bien entendu, cette visio, elle est enregistrée, vous le savez.
+
+2103
+01:40:24,119 --> 01:40:27,779
+Donc, on pourra vous donner la vidéo si vous voulez la revoir.
+
+2104
+01:40:28,399 --> 01:40:33,180
+Bien entendu, l'animation est à votre disposition pour répondre à toutes vos questions.
+
+2105
+01:40:33,760 --> 01:40:37,739
+Bien entendu, vos éventuels coachs et parrains, bien sûr, ils sont là pour ça.
+
+2106
+01:40:38,420 --> 01:40:41,819
+Le groupe Facebook de la Lucarne, n'hésitez pas à aller discuter avec les copains
+
+2107
+01:40:41,819 --> 01:40:43,300
+pour voir un petit peu comment ils s'y prennent.
+
+2108
+01:40:43,739 --> 01:40:45,159
+C'est très, très, très, très, très utile.
+
+2109
+01:40:45,159 --> 01:40:50,939
+Et puis, allez sur le site WeMove et faites les formations, les visios, tout ça.
+
+2110
+01:40:51,319 --> 01:40:53,500
+Vous aurez beaucoup de choses à y apprendre.
+
+2111
+01:40:54,000 --> 01:40:55,739
+Et vous verrez que ça vous mettra le pied à l'étrier.
+
+2112
+01:40:55,920 --> 01:40:58,139
+C'est hyper simple, hyper intuitif.
+
+2113
+01:40:58,260 --> 01:41:00,699
+Et puis, vous verrez, Mathilde est super sympa.
+
+2114
+01:41:00,899 --> 01:41:02,039
+Elle vous aidera sans aucun...
+
+2115
+01:41:02,039 --> 01:41:05,880
+Puis, si Mathilde n'est pas dispo, ce sera probablement Ludovic ou quelqu'un d'autre.
+
+2116
+01:41:06,059 --> 01:41:10,460
+Vous serez également aidé par les gens de chez WeMove, nos amis marseillais.
+
+2117
+01:41:11,979 --> 01:41:13,159
+C'est bon pour tout le monde ?
+
+2118
+01:41:13,159 --> 01:41:17,119
+Dans ce cas là il ne me reste plus qu'à vous souhaiter une excellente journée
+
+2119
+01:41:17,119 --> 01:41:18,699
+On est à votre disposition
+
+2120
+01:41:18,699 --> 01:41:20,300
+Faites des tests
+
+2121
+01:41:20,300 --> 01:41:22,439
+De contact WeMove avec
+
+2122
+01:41:22,439 --> 01:41:24,760
+Votre frère, votre soeur, votre cousin etc
+
+2123
+01:41:24,760 --> 01:41:26,859
+Pour voir à quel point c'est facile
+
+2124
+01:41:26,859 --> 01:41:27,819
+Simple et intuitif
+
+2125
+01:41:27,819 --> 01:41:29,579
+Il vous faut votre QR code
+
+2126
+01:41:29,579 --> 01:41:31,500
+Ou votre code parrain
+
+2127
+01:41:31,500 --> 01:41:34,099
+Le plus simple étant le QR code
+
+2128
+01:41:34,099 --> 01:41:36,760
+N'oubliez pas le tuyau vraiment vital
+
+2129
+01:41:36,760 --> 01:41:38,779
+Vous faites inscrire les gens
+
+2130
+01:41:38,779 --> 01:41:40,139
+Sous vos yeux, ne leur dites pas
+
+2131
+01:41:40,139 --> 01:41:41,519
+Tu penseras t'inscrire, non non
+
+2132
+01:41:41,520 --> 01:41:44,400
+Ils le font sous vos yeux, ça dure deux minutes, pas plus.
+
+2133
+01:41:45,560 --> 01:41:48,040
+Une fois qu'ils l'ont fait, l'application est dans leur téléphone.
+
+2134
+01:41:48,160 --> 01:41:50,480
+Vous leur dites, voilà, tu as un tuyau, tu cliques là-dessus,
+
+2135
+01:41:50,580 --> 01:41:52,200
+tu suis les instructions, ça se fait tout seul.
+
+2136
+01:41:53,500 --> 01:41:54,940
+Merci à tous, merci à toutes.
+
+2137
+01:41:55,000 --> 01:41:56,380
+Je vous souhaite une excellente soirée.
+
+2138
+01:41:56,600 --> 01:41:57,080
+À bientôt.
+
+2139
+01:41:57,880 --> 01:42:01,500
+Et puis, surtout, au boulot, c'est le printemps.
+
+2140
+01:42:01,680 --> 01:42:02,900
+Les mandats vous tendent les bras.
+
+2141
+01:42:03,580 --> 01:42:05,240
+Allez, à très, très bientôt, les amis.
+
+2142
+01:42:06,200 --> 01:42:06,840
+À demain, Eric.
+
+2143
+01:42:07,080 --> 01:42:09,660
+Effectivement, on se voit demain, demain après-midi.
+
+2144
+01:42:09,659 --> 01:42:11,680
+au revoir Stéphanie
+
+2145
+01:42:11,680 --> 01:42:14,119
+bonne soirée à Delphine et à tout le monde
+
