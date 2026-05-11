@@ -1,0 +1,26 @@
+{
+  "video_file": "Visio Questions-Réponses du 16 avril 2026",
+  "video_url": "https://www.youtube.com/watch?v=S33PolTC6q8",
+  "title": "À La Lucarne",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "provider": "hybrid"
+}

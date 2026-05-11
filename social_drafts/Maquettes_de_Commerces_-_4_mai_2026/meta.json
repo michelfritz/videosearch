@@ -1,0 +1,26 @@
+{
+  "video_file": "Maquettes de Commerces - 4 mai 2026",
+  "video_url": "https://www.youtube.com/watch?v=2Tr72gQcF6I",
+  "title": "Maquettes De Commerces 4 Mai 2026",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "provider": "hybrid"
+}
