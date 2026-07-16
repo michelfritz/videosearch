@@ -1,0 +1,26 @@
+{
+  "video_file": "Tracfin - Informations KYC",
+  "video_url": "https://www.youtube.com/watch?v=geyWbJosT7A",
+  "title": "Tracfin Informations Kyc",
+  "ig": {
+    "A": {
+      "caption_file": "ig_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "ig_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "fb": {
+    "A": {
+      "caption_file": "fb_caption_A.txt",
+      "candidates": []
+    },
+    "B": {
+      "caption_file": "fb_caption_B.txt",
+      "candidates": []
+    }
+  },
+  "provider": "hybrid"
+}

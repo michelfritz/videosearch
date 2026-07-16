@@ -1,0 +1,2796 @@
+1
+00:00:00,000 --> 00:00:11,679
+Bonjour à tous ! Aujourd'hui, petite vidéo, relativement courte j'espère, destinée à revenir sur des fonctionnalités intégrées à EGLANTIN, destinées à nous aider dans nos obligations TRACFIN.
+
+2
+00:00:11,679 --> 00:00:25,240
+Alors aujourd'hui, nous n'allons parler que de fonctionnalités directement intégrées à EGLANTIN, nous n'allons pas parler des autres obligations TRACFIN, sur lesquelles nous sommes déjà revenus plusieurs fois en visioconférence, en formation, et sur lesquelles nous reviendrons encore à l'avenir.
+
+3
+00:00:25,239 --> 00:00:36,599
+Car nous savons que ces obligations track fin sont nombreuses, sont complexes, sont touffues et nous devons y revenir souvent, souvent, souvent pour les repréciser, pour les rabâcher, pour les revoir ensemble.
+
+4
+00:00:36,700 --> 00:00:37,859
+C'est d'ailleurs ce que nous faisons aujourd'hui.
+
+5
+00:00:38,359 --> 00:00:44,340
+Donc aujourd'hui, nous n'allons voir, comme je vous le disais, que les fonctionnalités directement intégrées à Eglantine.
+
+6
+00:00:44,700 --> 00:00:52,739
+Pour les autres obligations track fin, on en reparlera amplement au cours de différentes vidéos, formations, visioconférences.
+
+7
+00:00:52,740 --> 00:01:00,820
+D'ailleurs, n'hésitez certainement pas à nous faire savoir à l'animation si vous avez des questions, si vous avez des doutes, si vous avez besoin de plus d'informations à cet égard.
+
+8
+00:01:00,920 --> 00:01:05,079
+À cet égard et d'ailleurs pour les autres questions également, même non liées à Traquefin.
+
+9
+00:01:05,180 --> 00:01:06,320
+Mais aujourd'hui, Traquefin.
+
+10
+00:01:07,040 --> 00:01:09,840
+Alors, première chose que nous allons voir lors de la saisie d'un mandat.
+
+11
+00:01:10,560 --> 00:01:14,540
+Là, je suis sur une page de saisie de mandat électronique, comme vous le faites tous quotidiennement.
+
+12
+00:01:14,840 --> 00:01:19,159
+Imaginons que je saisisse un mandat non exclusif pour une maison avec un tarif premium.
+
+13
+00:01:19,159 --> 00:01:20,819
+je vais mettre
+
+14
+00:01:20,819 --> 00:01:21,799
+300
+
+15
+00:01:21,799 --> 00:01:24,399
+350 000 euros
+
+16
+00:01:24,399 --> 00:01:26,219
+c'est quelque chose de tout bête
+
+17
+00:01:26,219 --> 00:01:28,780
+voilà
+
+18
+00:01:28,780 --> 00:01:30,179
+c'est pas tellement ça qui nous intéresse
+
+19
+00:01:30,179 --> 00:01:32,239
+ce qui nous intéresse là en premier lieu
+
+20
+00:01:32,239 --> 00:01:33,780
+c'est l'ajout des propriétaires
+
+21
+00:01:33,780 --> 00:01:36,819
+si j'ajoute un propriétaire Eglantine me demande tout de suite
+
+22
+00:01:36,819 --> 00:01:39,199
+est-ce un particulier ou est-ce une société
+
+23
+00:01:39,199 --> 00:01:41,199
+on va s'intéresser
+
+24
+00:01:41,199 --> 00:01:42,679
+aux sociétés tout de suite
+
+25
+00:01:42,679 --> 00:01:45,420
+hop parce qu'il y a une fonctionnalité
+
+26
+00:01:45,420 --> 00:01:46,900
+directement intégrée à Eglantine
+
+27
+00:01:46,900 --> 00:01:50,680
+une fonctionnalité qui remplit une obligation légale à laquelle nous sommes tous soumis,
+
+28
+00:01:51,100 --> 00:01:56,860
+nous, les agences immobilières, têtes de réseau, et vous, les agents indépendants vous-mêmes,
+
+29
+00:01:57,260 --> 00:02:05,219
+vous savez que la législation concernant la lutte contre le blanchiment de l'argent sale,
+
+30
+00:02:05,420 --> 00:02:10,819
+la lutte contre le terrorisme, enfin tout ce qu'on appelle LCBFT, qu'on appelle quotidiennement tracfin,
+
+31
+00:02:11,540 --> 00:02:16,819
+nous impose de vérifier qui sont les bénéficiaires effectifs d'une société,
+
+32
+00:02:16,900 --> 00:02:21,439
+et également de vérifier si ces gens ne sont pas frappés par différentes interdictions,
+
+33
+00:02:22,379 --> 00:02:25,920
+si ces gens n'ont pas été frappés d'un gel des avoirs,
+
+34
+00:02:26,000 --> 00:02:29,259
+si ces gens ne sont pas des personnalités politiquement exposées.
+
+35
+00:02:29,879 --> 00:02:32,219
+Tout cela a été intégré automatiquement à Eglantine,
+
+36
+00:02:32,420 --> 00:02:35,460
+ce qui vous permet, si vous mettez directement ici le numéro de sirète,
+
+37
+00:02:35,540 --> 00:02:37,439
+alors je le répète, le sirète c'est à 14 chiffres,
+
+38
+00:02:37,840 --> 00:02:41,819
+le sirène est à 9 chiffres, c'est le sirète à 14 chiffres qu'il faut indiquer ici.
+
+39
+00:02:41,819 --> 00:02:45,379
+Alors pour le récupérer, ce n'est pas compliqué, regardez, je vais sur internet,
+
+40
+00:02:45,379 --> 00:02:51,939
+Par exemple, sur Peppers.fr, ici, il s'agit d'un mandat d'Alison en Auvergne, enfin d'un client d'Alison en Auvergne.
+
+41
+00:02:52,340 --> 00:02:59,039
+Je vais sur ce site, par exemple, mais je pourrais aller sur bien d'autres sites, data.inpi.fr ou infogreffe.fr.
+
+42
+00:02:59,099 --> 00:03:01,519
+Je prends celui-ci et je prends le numéro.
+
+43
+00:03:01,680 --> 00:03:11,319
+Ici, j'appuie sur le petit bouton copier, clic, et je vais tout simplement, dans Eglantine, faire coller à l'endroit où je dois mettre le SIRET.
+
+44
+00:03:11,319 --> 00:03:28,659
+Ça va opérer la recherche tout seul et vous le voyez en quelques secondes, Eglantine est allé chercher les bénéficiaires effectifs et je vois que dans cette société, il y a trois bénéficiaires effectifs, Guillaume, Alexandre et Stéphane qui ont chacun 33,33% des parts.
+
+45
+00:03:28,659 --> 00:03:35,819
+Ce sont donc mes trois propriétaires à travers cette SCI
+
+46
+00:03:35,819 --> 00:03:39,000
+Ce sont les trois bénéficiaires effectifs
+
+47
+00:03:39,000 --> 00:03:42,840
+Ici nous en avons trois et ils apparaissent tous les trois ici
+
+48
+00:03:42,840 --> 00:03:48,300
+C'est la raison pour laquelle Eglantine me demande en dessous de mettre directement leurs coordonnées
+
+49
+00:03:48,300 --> 00:03:52,319
+Mais il pourrait y en avoir plus qui ne sont pas indiqués ici
+
+50
+00:03:52,319 --> 00:03:56,120
+Car ici les bénéficiaires effectifs ne nous sont donnés par Eglantine
+
+51
+00:03:56,120 --> 00:03:59,580
+qu'à partir du moment où il possède minimum 25% des parts.
+
+52
+00:04:00,259 --> 00:04:02,180
+Parce que c'est comme ça que la législation a été faite.
+
+53
+00:04:03,180 --> 00:04:08,120
+Imaginons qu'il y ait un quatrième associé à cette SCI
+
+54
+00:04:08,120 --> 00:04:10,960
+qui ne fasse pas partie des bénéficiaires effectifs,
+
+55
+00:04:11,060 --> 00:04:12,640
+donc qui possède moins de 25%.
+
+56
+00:04:12,640 --> 00:04:16,720
+Imaginons qu'il y ait quelqu'un qui, ici, possède 1% des parts.
+
+57
+00:04:17,379 --> 00:04:18,660
+Eh bien, il faudrait quand même l'indiquer.
+
+58
+00:04:18,780 --> 00:04:20,459
+Mais à ce moment-là, Eglantine ne va pas le chercher
+
+59
+00:04:20,459 --> 00:04:22,360
+parce que la législation est faite différemment.
+
+60
+00:04:23,579 --> 00:04:25,480
+Ils ne sont pas enregistrés dans le même fichier.
+
+61
+00:04:25,480 --> 00:04:43,400
+Et bien comment le savoir ? Et bien de trois manières. Premièrement vous demandez au vendeur, première chose. Deuxièmement vous regardez dans les statuts. Où vais-je trouver les statuts de la société ? Et bien là encore je vais ici sur le même site internet papers.fr par exemple et j'ai accès ici voir les statuts.
+
+62
+00:04:43,399 --> 00:04:46,560
+j'ai accès aux statuts de la société
+
+63
+00:04:46,560 --> 00:04:49,339
+d'ailleurs je dois les enregistrer
+
+64
+00:04:49,339 --> 00:04:52,079
+je dois en conserver un exemple
+
+65
+00:04:52,079 --> 00:04:56,819
+et je dois les transmettre à l'animation pour l'envoi du mandat
+
+66
+00:04:56,819 --> 00:05:00,379
+donc voici où je vais récupérer les statuts de la société
+
+67
+00:05:00,379 --> 00:05:01,859
+qui me sont indispensables
+
+68
+00:05:01,859 --> 00:05:04,479
+et dans ces statuts, si je les lis
+
+69
+00:05:04,479 --> 00:05:06,879
+si je prends le temps de bien les étudier
+
+70
+00:05:06,879 --> 00:05:11,919
+je retrouverai M. Randizy Stéphane, M. Proust-Guillaume et M. Randizy Alexandre
+
+71
+00:05:12,580 --> 00:05:15,160
+Si je fouille un petit peu, je trouverai tous les associés.
+
+72
+00:05:15,500 --> 00:05:20,240
+Mais tout simplement, dans la fiche sur papers.fr, ici, de ma société,
+
+73
+00:05:21,620 --> 00:05:25,200
+je descends un petit peu, j'ai ici les dirigeants et représentants de la SCI.
+
+74
+00:05:25,680 --> 00:05:26,860
+Et là, je vois bien que j'en ai trois.
+
+75
+00:05:27,460 --> 00:05:31,040
+Stéphane, Alexandre et Guillaume, comme j'avais sur Eglantine.
+
+76
+00:05:31,540 --> 00:05:33,319
+Ça veut dire que je n'ai pas un quatrième à chercher.
+
+77
+00:05:33,680 --> 00:05:38,600
+S'il y en avait un quatrième qui n'apparaissait pas ici, car il a moins de 25% des parts.
+
+78
+00:05:38,600 --> 00:05:42,700
+mais je devrais quand même l'indiquer dans le mandat
+
+79
+00:05:42,700 --> 00:05:44,980
+et bien c'est là que je le trouverai
+
+80
+00:05:44,980 --> 00:05:49,120
+dans les dirigeants et représentants de la SCI
+
+81
+00:05:49,120 --> 00:05:50,280
+Amadeus
+
+82
+00:05:50,280 --> 00:05:53,080
+tout simplement je les trouverai ici
+
+83
+00:05:53,080 --> 00:05:54,320
+donc
+
+84
+00:05:54,320 --> 00:05:56,000
+et bien tout simplement
+
+85
+00:05:56,000 --> 00:05:57,820
+je le prendrai là
+
+86
+00:05:57,820 --> 00:05:59,060
+j'aurai mon quatrième
+
+87
+00:05:59,060 --> 00:06:01,760
+imaginons que j'ai ici un Didier Proust
+
+88
+00:06:01,760 --> 00:06:02,540
+par exemple
+
+89
+00:06:02,540 --> 00:06:04,540
+je prendrai Didier Proust
+
+90
+00:06:04,540 --> 00:06:06,980
+et je le rajouterai à Eglantine
+
+91
+00:06:06,980 --> 00:06:08,040
+comment faire ?
+
+92
+00:06:08,040 --> 00:06:13,120
+Vous voyez qu'ici, j'ai un bouton « Ajouter un signataire manuel ou un gérant ».
+
+93
+00:06:13,120 --> 00:06:21,160
+Je clique ici et je rajoute, par exemple, un représentant qui s'appellerait Didier.
+
+94
+00:06:21,240 --> 00:06:24,939
+Nous avons dit, alors là, j'invente quelqu'un qui n'existe pas, Proust.
+
+95
+00:06:25,500 --> 00:06:27,540
+Je mettrai également son adresse ici.
+
+96
+00:06:27,680 --> 00:06:32,220
+Imaginons qu'il habite 12 Avenue de Vagram à Paris.
+
+97
+00:06:33,259 --> 00:06:33,820
+Voici.
+
+98
+00:06:34,420 --> 00:06:36,060
+Je mettrai son adresse e-mail.
+
+99
+00:06:36,060 --> 00:06:39,160
+je vais mettre une adresse email de test
+
+100
+00:06:39,160 --> 00:06:40,060
+ici bien sûr
+
+101
+00:06:40,060 --> 00:06:42,420
+je mettrais
+
+102
+00:06:42,420 --> 00:06:44,480
+vous voyez que ça fait une vérification
+
+103
+00:06:44,480 --> 00:06:46,600
+est-ce que cette adresse email existe vraiment ou non
+
+104
+00:06:46,600 --> 00:06:48,399
+je mets son numéro de téléphone
+
+105
+00:06:48,399 --> 00:06:50,459
+alors là je mets n'importe quoi
+
+106
+00:06:50,459 --> 00:06:53,500
+parce que là il n'y a pas de vérification de l'existence du numéro de téléphone
+
+107
+00:06:53,500 --> 00:06:55,180
+et puis
+
+108
+00:06:55,180 --> 00:06:56,759
+je pourrais en ajouter un autre
+
+109
+00:06:56,759 --> 00:06:57,779
+et puis un autre et puis un autre
+
+110
+00:06:57,779 --> 00:06:58,959
+bien sûr je ne vais pas en inventer
+
+111
+00:06:58,959 --> 00:07:02,680
+au dessus mes trois Guillaume, Alexandre et Stéphane
+
+112
+00:07:02,680 --> 00:07:05,420
+Keglantine est allé chercher directement sur les fichiers du greffe
+
+113
+00:07:05,420 --> 00:07:08,199
+Je vérifie que leur adresse est bonne
+
+114
+00:07:08,199 --> 00:07:09,780
+Alors leur adresse ici
+
+115
+00:07:09,780 --> 00:07:11,580
+C'est leur adresse personnelle
+
+116
+00:07:11,580 --> 00:07:13,600
+Leur adresse de résidence principale
+
+117
+00:07:13,600 --> 00:07:16,600
+Qu'on appelle également l'adresse de résidence fiscale
+
+118
+00:07:16,600 --> 00:07:18,920
+C'est l'adresse qui doit bénéficier
+
+119
+00:07:18,920 --> 00:07:20,860
+Sur le justificatif de domicile
+
+120
+00:07:20,860 --> 00:07:22,660
+Qu'ils vous donnent et que vous nous transmettez
+
+121
+00:07:22,660 --> 00:07:24,560
+Vous le savez, vous avez l'obligation
+
+122
+00:07:24,560 --> 00:07:25,960
+De demander à chacun de vos clients
+
+123
+00:07:25,960 --> 00:07:27,660
+Une pièce d'identité avec photo
+
+124
+00:07:27,660 --> 00:07:30,220
+Attention, si vous ne rencontrez pas vous-même
+
+125
+00:07:30,220 --> 00:07:32,160
+Physiquement le client, vous avez l'obligation
+
+126
+00:07:32,160 --> 00:07:34,460
+De par les dispositions du code monétaire
+
+127
+00:07:34,459 --> 00:07:36,459
+financier de demander deux
+
+128
+00:07:36,459 --> 00:07:38,299
+pièces d'identité valides
+
+129
+00:07:38,299 --> 00:07:40,019
+avec photographie.
+
+130
+00:07:41,019 --> 00:07:41,359
+C'est comme ça.
+
+131
+00:07:42,399 --> 00:07:44,459
+Donc, l'adresse qui est ici, c'est
+
+132
+00:07:44,459 --> 00:07:46,699
+bien l'adresse de résidence principale
+
+133
+00:07:46,699 --> 00:07:48,560
+de M. Proust, qui est ici,
+
+134
+00:07:49,159 --> 00:07:50,519
+à la date de signature
+
+135
+00:07:50,519 --> 00:07:51,179
+du mandat.
+
+136
+00:07:53,379 --> 00:07:54,419
+Peut-être qu'ici, c'est
+
+137
+00:07:54,419 --> 00:07:56,459
+une ancienne adresse. S'il y a
+
+138
+00:07:56,459 --> 00:07:58,339
+un problème entre l'adresse de M.
+
+139
+00:07:58,439 --> 00:07:59,500
+Proust aujourd'hui,
+
+140
+00:08:00,599 --> 00:08:02,659
+telle que prouvée par son
+
+141
+00:08:02,660 --> 00:08:04,560
+attestation de domicile et l'adresse qui est là,
+
+142
+00:08:04,640 --> 00:08:06,560
+vous cliquez sur le bouton modifier l'adresse
+
+143
+00:08:06,560 --> 00:08:07,880
+qui est là, ça ne pose aucun problème.
+
+144
+00:08:08,460 --> 00:08:10,760
+Imaginons que les adresses soient bonnes et vous devez les vérifier.
+
+145
+00:08:12,420 --> 00:08:14,460
+Ce n'est pas l'adresse du bien, bien entendu.
+
+146
+00:08:14,600 --> 00:08:16,300
+C'est l'adresse où ces gens habitent,
+
+147
+00:08:16,520 --> 00:08:18,840
+résident. L'adresse du bien à vendre, c'est autre chose.
+
+148
+00:08:20,020 --> 00:08:20,379
+Imaginons
+
+149
+00:08:20,379 --> 00:08:22,560
+que tout soit OK, vous ne modifiez
+
+150
+00:08:22,560 --> 00:08:24,420
+rien et puis vous rajoutez ici leurs e-mails.
+
+151
+00:08:24,580 --> 00:08:26,320
+Alors j'ai une deuxième adresse de test
+
+152
+00:08:26,320 --> 00:08:28,379
+ici que je mets et puis leur
+
+153
+00:08:28,379 --> 00:08:30,320
+numéro de téléphone. Là encore, je mets
+
+154
+00:08:30,320 --> 00:08:32,259
+un faux numéro. Vous, vous mettez le vrai.
+
+155
+00:08:32,259 --> 00:08:35,299
+Bien sûr, vous ne mettez pas un faux numéro de téléphone, c'est évident.
+
+156
+00:08:35,939 --> 00:08:40,860
+Ici, je mets encore une autre adresse de test, qui sont de vraies adresses qui sont validées par Eglantine.
+
+157
+00:08:41,100 --> 00:08:42,600
+Je mets encore un numéro de téléphone.
+
+158
+00:08:43,840 --> 00:08:46,500
+Et ici, je mets une dernière adresse.
+
+159
+00:08:46,600 --> 00:08:49,299
+Ah non, excusez-moi, je mets un numéro de téléphone, pardonnez-moi.
+
+160
+00:08:49,399 --> 00:08:50,720
+Je mets une dernière adresse e-mail.
+
+161
+00:08:51,200 --> 00:08:54,279
+Et je mets ici un dernier numéro de téléphone.
+
+162
+00:08:54,700 --> 00:08:54,840
+Voilà.
+
+163
+00:08:56,100 --> 00:08:58,779
+J'ai désormais tous mes vendeurs.
+
+164
+00:08:58,779 --> 00:09:00,959
+ce que Eglantine est allé chercher
+
+165
+00:09:00,959 --> 00:09:03,079
+toute seule sur le registre du greffe
+
+166
+00:09:03,079 --> 00:09:05,019
+à condition qu'il détienne au minimum
+
+167
+00:09:05,019 --> 00:09:06,860
+25% des parts
+
+168
+00:09:06,860 --> 00:09:09,399
+ce que j'ai ajouté manuellement
+
+169
+00:09:09,399 --> 00:09:11,500
+car ils n'apparaissent pas
+
+170
+00:09:11,500 --> 00:09:13,159
+dans les fichiers que nous interrogeons
+
+171
+00:09:13,159 --> 00:09:14,199
+pour des raisons légales
+
+172
+00:09:14,199 --> 00:09:17,459
+s'ils possèdent moins de 25% des parts
+
+173
+00:09:17,459 --> 00:09:19,259
+et à la fin, tout simplement, je les ajoute
+
+174
+00:09:19,259 --> 00:09:19,819
+clic
+
+175
+00:09:19,819 --> 00:09:22,879
+mes vendeurs sont ajoutés
+
+176
+00:09:22,879 --> 00:09:24,120
+ici
+
+177
+00:09:24,120 --> 00:09:25,559
+vous les voyez
+
+178
+00:09:25,559 --> 00:09:41,399
+Et on voit avec le petit message qui est vert ici que ces clients ont bien été vérifiés par le service BE Efficiel, des bénéficiaires effectifs. Efficiel, c'est le prestataire qui nous fournit ces informations.
+
+179
+00:09:41,399 --> 00:09:45,199
+notre obligation de vérification des bénéficiaires
+
+180
+00:09:45,199 --> 00:09:47,179
+effectifs, des personnes dont les avoirs sont gelés
+
+181
+00:09:47,179 --> 00:09:49,379
+et des personnalités
+
+182
+00:09:49,379 --> 00:09:50,980
+politiquement exposées
+
+183
+00:09:50,980 --> 00:09:52,860
+cette obligation
+
+184
+00:09:52,860 --> 00:09:54,860
+est donc remplie
+
+185
+00:09:54,860 --> 00:09:56,579
+vous n'avez pas à la faire manuellement
+
+186
+00:09:56,579 --> 00:09:58,699
+alors on va continuer la saisie de notre mandat
+
+187
+00:09:58,699 --> 00:10:00,980
+on va mettre des informations fictives, imaginons qu'on vende
+
+188
+00:10:00,980 --> 00:10:03,179
+une maison au je sais pas où
+
+189
+00:10:03,179 --> 00:10:05,059
+c'est un petit peu trop, ça voit la route
+
+190
+00:10:05,059 --> 00:10:06,379
+de Cap-Lorny
+
+191
+00:10:06,379 --> 00:10:08,600
+France, voilà
+
+192
+00:10:08,600 --> 00:10:11,059
+un DPE existe-t-il ? On va dire
+
+193
+00:10:11,059 --> 00:10:17,799
+Non, pour l'instant, car il n'a pas encore été établi à la date de signature du mandat, pour pouvoir saisir notre mandat plus vite, bien sûr.
+
+194
+00:10:18,139 --> 00:10:22,679
+On met des références cadastrales qui n'existent pas, on met une superficie.
+
+195
+00:10:22,759 --> 00:10:28,259
+Alors, bien entendu, vous, vous ne mettez que des informations vérifiées, que des informations justifiables.
+
+196
+00:10:28,399 --> 00:10:30,719
+C'est une certitude, on ne va pas inventer des choses.
+
+197
+00:10:30,839 --> 00:10:32,679
+Il s'agit ici d'un faux mandat.
+
+198
+00:10:33,579 --> 00:10:35,379
+Le bien est-il en copropriété ? Non.
+
+199
+00:10:36,099 --> 00:10:38,659
+Et maintenant, je peux donc enregistrer mon mandat.
+
+200
+00:10:38,919 --> 00:10:40,679
+Ça y est, c'est fait.
+
+201
+00:10:41,059 --> 00:10:42,259
+Mon mandat est enregistré.
+
+202
+00:10:44,099 --> 00:10:44,799
+Le voici.
+
+203
+00:10:45,979 --> 00:10:49,179
+Vous voyez maintenant, non pas en page 1 d'Aiglantine,
+
+204
+00:10:49,299 --> 00:10:52,719
+parce que vous savez, la page 1, c'est la page commerciale,
+
+205
+00:10:52,739 --> 00:10:55,959
+non pas confidentielle, mais en page 2, hop !
+
+206
+00:10:55,959 --> 00:10:58,139
+Aiglantine me demande des informations supplémentaires.
+
+207
+00:10:58,839 --> 00:11:01,439
+Trac fin propriétaire, mandat non diffusable,
+
+208
+00:11:01,500 --> 00:11:04,000
+tant que tous les propriétaires représentant bénéficiaires effectifs
+
+209
+00:11:04,000 --> 00:11:04,959
+ne sont pas au vert.
+
+210
+00:11:05,099 --> 00:11:08,099
+Alors vous allez me dire, tout a été vérifié juste avant par Aiglantine.
+
+211
+00:11:09,039 --> 00:11:10,959
+Pourquoi ces gens ne sont-ils pas au vert ?
+
+212
+00:11:11,059 --> 00:11:13,959
+Eh bien, parce que nous devons ajouter des informations supplémentaires.
+
+213
+00:11:14,099 --> 00:11:20,399
+Et là, les informations que nous allons ajouter sont les mêmes qu'il s'agisse de représentants d'une personne morale
+
+214
+00:11:20,399 --> 00:11:26,919
+ou si vos vendeurs étaient des personnes physiques tout à fait normales, tout à fait habituelles.
+
+215
+00:11:27,079 --> 00:11:30,299
+Donc, qu'est-ce que je dois rajouter ici ?
+
+216
+00:11:30,299 --> 00:11:30,959
+Eh bien, ce n'est pas compliqué.
+
+217
+00:11:31,479 --> 00:11:33,819
+Je vais cliquer ici sur le petit bouton.
+
+218
+00:11:33,899 --> 00:11:38,559
+Là, vous voyez, il y a un petit bouton orange, un petit bouton rouge qui me dit « Attention, attention, il y a des choses qui ne vont pas ».
+
+219
+00:11:38,559 --> 00:11:40,619
+Je clique dessus et je réponds tout simplement aux questions.
+
+220
+00:11:41,059 --> 00:11:46,979
+Ça me sort un petit masque de saisie avec des informations principales.
+
+221
+00:11:47,799 --> 00:11:52,699
+La raison pour laquelle ce monsieur est en orange et celui-ci est en rouge,
+
+222
+00:11:52,799 --> 00:11:55,299
+c'est que certaines informations sont déjà présentes et d'autres non.
+
+223
+00:11:55,439 --> 00:11:57,339
+Rouge, ça veut dire qu'aucune information n'est présente.
+
+224
+00:11:57,759 --> 00:11:59,659
+Orange, certaines informations sont présentes.
+
+225
+00:11:59,759 --> 00:12:00,619
+C'est ce qu'on va voir dans un instant.
+
+226
+00:12:01,259 --> 00:12:02,419
+Vert, tout est OK.
+
+227
+00:12:02,899 --> 00:12:04,179
+On y sera dans un instant au vert.
+
+228
+00:12:04,619 --> 00:12:05,979
+Vous voyez les informations déjà présentes ?
+
+229
+00:12:05,979 --> 00:12:07,259
+C'est par exemple la date de naissance.
+
+230
+00:12:07,759 --> 00:12:12,519
+On voit que la date de naissance de ce monsieur a été récupérée sur les fichiers du greffe.
+
+231
+00:12:12,980 --> 00:12:17,500
+Alors, je dois mettre pour monsieur Alexandre Randizi sa profession.
+
+232
+00:12:18,419 --> 00:12:21,200
+Tout simplement, je lui demande, cher monsieur, quelle est votre profession ?
+
+233
+00:12:21,200 --> 00:12:22,559
+Eh bien, je suis infirmier.
+
+234
+00:12:25,120 --> 00:12:25,720
+Très bien.
+
+235
+00:12:26,879 --> 00:12:29,919
+Sa date de naissance, nous la vérifions sur sa pièce d'identité.
+
+236
+00:12:30,799 --> 00:12:32,080
+Sa nationalité.
+
+237
+00:12:33,139 --> 00:12:35,860
+Eh bien, ce monsieur, imaginons qu'il soit français.
+
+238
+00:12:35,860 --> 00:12:37,620
+on met France
+
+239
+00:12:37,620 --> 00:12:39,980
+hop
+
+240
+00:12:39,980 --> 00:12:42,080
+son origine de propriété
+
+241
+00:12:42,080 --> 00:12:44,740
+est-ce que
+
+242
+00:12:44,740 --> 00:12:46,480
+vous êtes propriétaire de ce bien
+
+243
+00:12:46,480 --> 00:12:47,919
+monsieur à la suite d'un achat
+
+244
+00:12:47,919 --> 00:12:50,440
+d'une succession, d'une donation, d'une adjudication
+
+245
+00:12:50,440 --> 00:12:52,800
+vous mettez ce qui est ici tout simplement
+
+246
+00:12:52,800 --> 00:12:54,720
+vous avez une case autre
+
+247
+00:12:54,720 --> 00:12:56,539
+dans le cas
+
+248
+00:12:56,539 --> 00:12:58,060
+où ce monsieur aurait
+
+249
+00:12:58,060 --> 00:13:00,240
+obtenu la propriété de ce bien
+
+250
+00:13:00,240 --> 00:13:02,399
+par un cas qui n'est pas prévu au-dessus
+
+251
+00:13:02,399 --> 00:13:03,860
+il y en a très peu
+
+252
+00:13:03,860 --> 00:13:05,379
+Mais ça peut exister
+
+253
+00:13:05,379 --> 00:13:07,259
+On peut imaginer d'ailleurs
+
+254
+00:13:07,259 --> 00:13:08,500
+Un jugement
+
+255
+00:13:08,500 --> 00:13:11,399
+Ça peut être par jugement
+
+256
+00:13:11,399 --> 00:13:12,659
+Ça peut être de différentes manières
+
+257
+00:13:12,659 --> 00:13:13,580
+Mais c'est très rare
+
+258
+00:13:13,580 --> 00:13:17,680
+En fait, 99% des origines de propriété
+
+259
+00:13:17,680 --> 00:13:21,279
+Sont contenues dans achat, succession, donation, adjudication, vote aux enchères
+
+260
+00:13:21,279 --> 00:13:21,960
+C'est pareil
+
+261
+00:13:21,960 --> 00:13:24,259
+Partage, attribution, mariage
+
+262
+00:13:24,259 --> 00:13:25,960
+Autre, éventuellement
+
+263
+00:13:25,960 --> 00:13:27,500
+Vous avez quelque chose à rajouter ici
+
+264
+00:13:27,500 --> 00:13:29,420
+Alors si on est dans une jurisdiction
+
+265
+00:13:29,420 --> 00:13:30,800
+Vous ne rajoutez rien ici, bien sûr
+
+266
+00:13:30,800 --> 00:13:33,820
+Et ensuite vous rajoutez le pays de résidence fiscale
+
+267
+00:13:33,820 --> 00:13:53,980
+Parce qu'on peut très bien avoir un monsieur qui est de nationalité française, ici, mais qui habite par exemple en Allemagne, et il est résident fiscal allemand, donc vous mettez ici nationalité France, et pays de résidence fiscale Allemagne, et ça ne pose absolument aucun problème.
+
+268
+00:13:54,920 --> 00:14:03,220
+Et vous faites ça pour tous nos vendeurs qui sont ici, ce que nous n'allons pas faire là, parce que ça prendra un petit peu de temps, on va aller voir dans un instant sur un autre mandat.
+
+269
+00:14:03,820 --> 00:14:08,340
+À la fin, quand vous avez rempli tout le monde, vous cliquez absolument la case
+
+270
+00:14:08,340 --> 00:14:14,200
+« Je certifie avoir saisi des informations exactes, complètes et vérifiées au regard des éléments portés à ma connaissance,
+
+271
+00:14:14,640 --> 00:14:17,379
+ces informations étant destinées à l'administration fiscale ».
+
+272
+00:14:17,379 --> 00:14:22,680
+Oui, les informations que nous vous demandons ici ne sont pas des informations que la lucarne a envie de détenir
+
+273
+00:14:22,680 --> 00:14:26,460
+parce qu'elle met son nez là où il ne faut pas et elle est un petit peu indiscrète.
+
+274
+00:14:26,580 --> 00:14:30,100
+Non, c'est l'administration fiscale qui a besoin de ces informations-là.
+
+275
+00:14:30,180 --> 00:14:32,100
+Donc, vous devez impérativement les vérifier.
+
+276
+00:14:32,100 --> 00:14:50,639
+N'oubliez pas une chose, ça c'est une chose que vous m'avez entendu vous répéter de nombreuses fois. En tant qu'agent mandataire indépendant, en tant qu'indépendant, vous êtes aussi bien concerné par les obligations de RACFIN que nous, le porteur de carte agence immobilière.
+
+277
+00:14:50,639 --> 00:14:52,539
+vous avez
+
+278
+00:14:52,539 --> 00:14:55,120
+exactement les mêmes obligations
+
+279
+00:14:55,120 --> 00:14:56,580
+à respecter
+
+280
+00:14:56,580 --> 00:14:58,000
+exactement les mêmes
+
+281
+00:14:58,000 --> 00:15:01,220
+même obligation de cartographie des risques
+
+282
+00:15:01,220 --> 00:15:03,279
+même obligation de connaissance directe
+
+283
+00:15:03,279 --> 00:15:05,080
+de vos clients, même obligation de
+
+284
+00:15:05,080 --> 00:15:06,419
+vérification des informations
+
+285
+00:15:06,419 --> 00:15:08,419
+nous sommes, et vous
+
+286
+00:15:08,419 --> 00:15:10,419
+et nous, soumis
+
+287
+00:15:10,419 --> 00:15:12,840
+exactement aux mêmes choses
+
+288
+00:15:12,840 --> 00:15:15,059
+donc vous certifiez que vous avez
+
+289
+00:15:15,059 --> 00:15:17,159
+rien inventé, vous avez pas dit de bêtises
+
+290
+00:15:17,159 --> 00:15:18,860
+vous avez tout vérifié et vous
+
+291
+00:15:18,860 --> 00:15:19,960
+d'ailleurs détenez
+
+292
+00:15:19,960 --> 00:15:24,160
+les justificatifs nécessaires.
+
+293
+00:15:25,220 --> 00:15:27,060
+Vous remplissez ça pour tout le monde
+
+294
+00:15:27,060 --> 00:15:28,740
+et à la fin, vous cliquez sur valider.
+
+295
+00:15:28,740 --> 00:15:29,800
+On ne va pas le faire ici, c'est trop long.
+
+296
+00:15:30,460 --> 00:15:31,879
+Je vous ai dit que la vidéo serait courte.
+
+297
+00:15:32,480 --> 00:15:33,560
+Validez ces informations.
+
+298
+00:15:34,240 --> 00:15:35,480
+Une fois que vous avez tout mis ici,
+
+299
+00:15:35,660 --> 00:15:36,920
+ce monsieur est infirmier,
+
+300
+00:15:37,060 --> 00:15:39,720
+ce monsieur est charpentier, par exemple,
+
+301
+00:15:40,320 --> 00:15:42,060
+ainsi de suite, alors je le redis.
+
+302
+00:15:43,120 --> 00:15:44,900
+De même que nous parlions tout à l'heure
+
+303
+00:15:44,900 --> 00:15:48,379
+de l'adresse des gens à la signature du mandat,
+
+304
+00:15:48,379 --> 00:15:51,080
+ici il s'agit de leur profession
+
+305
+00:15:51,080 --> 00:15:52,939
+à la signature du mandat
+
+306
+00:15:52,939 --> 00:15:54,460
+imaginons que ce monsieur soit
+
+307
+00:15:54,460 --> 00:15:55,799
+aujourd'hui infirmier
+
+308
+00:15:55,799 --> 00:15:59,000
+mais que dans l'attestation de propriété qu'il vous a fourni
+
+309
+00:15:59,000 --> 00:16:00,779
+qui correspond à son
+
+310
+00:16:00,779 --> 00:16:02,639
+à sa succession par exemple
+
+311
+00:16:02,639 --> 00:16:04,960
+il y a 10 ans il n'était pas infirmier
+
+312
+00:16:04,960 --> 00:16:07,059
+à l'époque il était marchand de fruits et légumes
+
+313
+00:16:07,059 --> 00:16:08,279
+et bien
+
+314
+00:16:08,279 --> 00:16:10,740
+dans l'attestation de propriété il n'y aura pas écrit
+
+315
+00:16:10,740 --> 00:16:12,600
+infirmier parce qu'il est infirmier aujourd'hui
+
+316
+00:16:12,600 --> 00:16:14,740
+vous mettez bien sa profession
+
+317
+00:16:14,740 --> 00:16:15,860
+de même que son adresse
+
+318
+00:16:15,860 --> 00:16:19,300
+à la date de signature du mandat.
+
+319
+00:16:19,519 --> 00:16:21,419
+De même, son pays de résidence fiscale
+
+320
+00:16:21,419 --> 00:16:24,039
+à la date de signature du mandat.
+
+321
+00:16:24,360 --> 00:16:24,720
+D'accord ?
+
+322
+00:16:24,720 --> 00:16:27,039
+Ce sont des informations à jour,
+
+323
+00:16:27,600 --> 00:16:29,300
+aujourd'hui, là, maintenant.
+
+324
+00:16:29,539 --> 00:16:31,139
+Non pas de vieilles informations
+
+325
+00:16:31,139 --> 00:16:32,379
+qui ne seraient plus d'actualité.
+
+326
+00:16:32,580 --> 00:16:33,840
+D'accord ?
+
+327
+00:16:33,840 --> 00:16:36,500
+Ensuite, vous allez voir
+
+328
+00:16:36,500 --> 00:16:38,120
+que ces informations-là
+
+329
+00:16:38,120 --> 00:16:39,039
+qui nous sont demandées
+
+330
+00:16:39,039 --> 00:16:41,159
+pour un vendeur,
+
+331
+00:16:41,279 --> 00:16:42,340
+enfin pour les vendeurs,
+
+332
+00:16:42,940 --> 00:16:45,279
+eh bien nous devons les fournir
+
+333
+00:16:45,279 --> 00:16:48,259
+exactement de la même manière pour des acquéreurs.
+
+334
+00:16:48,360 --> 00:16:51,319
+Et je vais ici tout de suite chercher un autre mandat
+
+335
+00:16:51,319 --> 00:16:53,319
+sur lequel j'ai déjà complété pas mal de choses.
+
+336
+00:16:54,019 --> 00:16:55,379
+Un mandat de test, bien entendu.
+
+337
+00:16:56,620 --> 00:16:58,699
+Et nous allons en page 2.
+
+338
+00:16:59,759 --> 00:17:01,259
+Nous avons ici nos vendeurs
+
+339
+00:17:01,259 --> 00:17:04,819
+pour lesquels il faudrait également remplir les informations
+
+340
+00:17:04,819 --> 00:17:06,980
+de M. Jean Gabin, de M. Lino Ventura,
+
+341
+00:17:07,099 --> 00:17:09,579
+de M. Nicolas Devilliers, de M. Olivier Strebel.
+
+342
+00:17:10,119 --> 00:17:12,819
+Pourquoi il y en a ici d'ailleurs Nicolas Devilliers et Olivier Strebel ?
+
+343
+00:17:12,819 --> 00:17:14,299
+C'est un exemple aussi que je voulais vous montrer.
+
+344
+00:17:14,299 --> 00:17:38,539
+C'est parce que ça, c'est un essai qui va vous permettre de vérifier, si je prends le numéro de sirène de la société Entreprise puis du fou France, c'est pas pour rien qu'elle est ici, c'est pour vous montrer que si jamais je saisissais un mandat, un mandat d'une société dont l'un des associés,
+
+345
+00:17:38,539 --> 00:17:55,740
+Alors, je vous remontre ici, dont l'un des associés, regardez ici, je mets le numéro de sirète de la société, puis du fou. L'un des associés est susceptible de déclencher une alerte.
+
+346
+00:17:55,740 --> 00:17:58,579
+Vous voyez ici, alerte 1, M. Nicolas De Villiers.
+
+347
+00:17:58,759 --> 00:18:05,079
+Pourquoi ? Parce que M. Nicolas De Villiers est ce que l'on appelle une personne politiquement exposée.
+
+348
+00:18:06,160 --> 00:18:10,180
+Et nous devons savoir et nous devons prendre des précautions particulières
+
+349
+00:18:10,180 --> 00:18:14,819
+lorsque un client est particulièrement exposé politiquement.
+
+350
+00:18:15,400 --> 00:18:21,740
+Ce monsieur est député, il est sénateur, il est conseiller général, il est président de la République, que sais-je.
+
+351
+00:18:21,740 --> 00:18:24,660
+nous devons le savoir et nous devons prendre des précautions
+
+352
+00:18:24,660 --> 00:18:26,220
+particulières
+
+353
+00:18:26,220 --> 00:18:28,339
+on en a déjà parlé maintes et maintes fois
+
+354
+00:18:28,339 --> 00:18:30,500
+en visioconférence et nous y reviendrons
+
+355
+00:18:30,500 --> 00:18:32,200
+maintes et maintes fois au cours d'autres formations
+
+356
+00:18:32,200 --> 00:18:33,839
+donc
+
+357
+00:18:33,839 --> 00:18:35,420
+vous le voyez
+
+358
+00:18:35,420 --> 00:18:37,819
+Eglantine vous alerte tout de suite
+
+359
+00:18:37,819 --> 00:18:40,079
+nous alerte tout de suite, ça n'empêche pas de
+
+360
+00:18:40,079 --> 00:18:42,319
+remplir l'affiche et de signer le mandat
+
+361
+00:18:42,319 --> 00:18:43,480
+pas du tout
+
+362
+00:18:43,480 --> 00:18:45,400
+mais Eglantine nous alerte en disant
+
+363
+00:18:45,400 --> 00:18:48,299
+attention ce monsieur Nicolas Devilliers ça n'est pas un client
+
+364
+00:18:48,299 --> 00:18:49,759
+ordinaire, c'est un client
+
+365
+00:18:49,759 --> 00:18:53,559
+qui doit éveiller notre méfiance.
+
+366
+00:18:53,759 --> 00:18:55,920
+Ça ne veut pas dire que ce monsieur est un criminel, pas du tout.
+
+367
+00:18:56,099 --> 00:18:59,059
+Ça veut simplement dire qu'il est politiquement exposé et on doit faire attention.
+
+368
+00:18:59,900 --> 00:19:01,500
+Alors on revient sur notre mandat précédent.
+
+369
+00:19:02,799 --> 00:19:05,379
+Et vous le voyez, c'est un mandat sur lequel nous avons saisi
+
+370
+00:19:05,379 --> 00:19:11,400
+beaucoup d'acquéreurs et beaucoup d'offres.
+
+371
+00:19:11,819 --> 00:19:13,740
+Et c'est là que nous allons revenir, sur les offres.
+
+372
+00:19:13,740 --> 00:19:14,960
+Pourquoi ?
+
+373
+00:19:14,960 --> 00:19:19,140
+Ici, vous voyez, il y a plein d'acquéreurs, il y a plein de visites qui ont été créées.
+
+374
+00:19:19,140 --> 00:19:23,460
+Et ces visites ne nous posent pas de problème, elles ne nous demandent pas particulièrement d'informations.
+
+375
+00:19:23,880 --> 00:19:29,840
+Par contre, à partir du moment où un visiteur devient acquéreur car il fait une offre,
+
+376
+00:19:30,780 --> 00:19:36,460
+à ce moment-là, Eglantine vous demande également des informations supplémentaires.
+
+377
+00:19:36,560 --> 00:19:41,020
+Vous voyez par exemple ce monsieur Robin Williams, lui il est en vert, ça veut dire que les informations ont déjà été complétées.
+
+378
+00:19:41,540 --> 00:19:46,380
+Ce monsieur est médecin, d'ailleurs avec une mauvaise orthographe, bravo au technicien qui a écrit ça.
+
+379
+00:19:46,380 --> 00:19:50,560
+« Ce monsieur est médecin, il est né à telle date, etc. »
+
+380
+00:19:50,560 --> 00:19:51,800
+Ces informations sont saisies.
+
+381
+00:19:52,920 --> 00:19:56,000
+Imaginons que mes acquéreurs, ce soit ceux-là,
+
+382
+00:19:56,760 --> 00:19:59,800
+John Wayne et Charles Branson, deux gros costauds.
+
+383
+00:20:00,720 --> 00:20:01,860
+Voici le bon de visite.
+
+384
+00:20:02,540 --> 00:20:05,740
+Je clique sur le petit bouton ici ou sur le bouton « Compléter » qui est là.
+
+385
+00:20:06,620 --> 00:20:09,980
+Et là, je dois mettre leur profession.
+
+386
+00:20:10,220 --> 00:20:13,120
+Par exemple, ce monsieur est acteur de cinéma.
+
+387
+00:20:13,119 --> 00:20:16,619
+sa date de naissance
+
+388
+00:20:16,619 --> 00:20:17,319
+à Charles Branson
+
+389
+00:20:17,319 --> 00:20:18,579
+bon je la connais pas
+
+390
+00:20:18,579 --> 00:20:20,839
+je vais inventer
+
+391
+00:20:20,839 --> 00:20:21,859
+que ce monsieur
+
+392
+00:20:21,859 --> 00:20:22,619
+est né en
+
+393
+00:20:22,619 --> 00:20:24,219
+voilà
+
+394
+00:20:24,219 --> 00:20:24,739
+on va dire
+
+395
+00:20:24,739 --> 00:20:25,279
+qu'il est né
+
+396
+00:20:25,279 --> 00:20:26,419
+le 7 janvier 2020
+
+397
+00:20:26,419 --> 00:20:27,099
+bon 2026
+
+398
+00:20:27,099 --> 00:20:27,739
+c'est peut-être un peu
+
+399
+00:20:27,739 --> 00:20:28,459
+un peu court
+
+400
+00:20:28,459 --> 00:20:29,759
+on va mettre
+
+401
+00:20:29,759 --> 00:20:30,959
+1950
+
+402
+00:20:30,959 --> 00:20:31,479
+voilà
+
+403
+00:20:31,479 --> 00:20:33,319
+nationalité
+
+404
+00:20:33,319 --> 00:20:33,939
+bah ce monsieur
+
+405
+00:20:33,939 --> 00:20:34,579
+est américain
+
+406
+00:20:34,579 --> 00:20:35,539
+Etats-Unis
+
+407
+00:20:35,539 --> 00:20:38,199
+c'est pas
+
+408
+00:20:38,199 --> 00:20:39,299
+hop là
+
+409
+00:20:39,299 --> 00:20:39,899
+excusez-moi
+
+410
+00:20:39,899 --> 00:20:40,939
+c'est pas ça
+
+411
+00:20:40,939 --> 00:20:41,379
+qu'il faut mettre
+
+412
+00:20:41,379 --> 00:20:42,079
+parce que Etats-Unis
+
+413
+00:20:42,079 --> 00:20:42,579
+visiblement
+
+414
+00:20:42,579 --> 00:20:43,799
+Ça ne veut pas me le prendre comme ça.
+
+415
+00:20:45,139 --> 00:20:46,759
+Où sont les États-Unis ?
+
+416
+00:20:46,759 --> 00:20:47,919
+On va aller chercher tout de suite.
+
+417
+00:20:49,099 --> 00:20:50,220
+C'est les États-Unis d'Amérique.
+
+418
+00:20:50,460 --> 00:20:52,059
+C'est l'Émirat Arabie Unie.
+
+419
+00:20:52,240 --> 00:20:52,960
+États-Unis, voilà.
+
+420
+00:20:54,059 --> 00:20:57,259
+Et son pays de résidence fiscale, c'est également les États-Unis.
+
+421
+00:20:57,960 --> 00:21:01,460
+Je doute que Charles Bronson souhaite habiter dans la Creuse.
+
+422
+00:21:02,299 --> 00:21:05,119
+Quoique, enfin, il est mort maintenant ce monsieur.
+
+423
+00:21:05,699 --> 00:21:07,099
+Bon, je ne trouve plus les États-Unis.
+
+424
+00:21:07,399 --> 00:21:09,500
+Ils sont Équateur, Érythrée, États-Unis.
+
+425
+00:21:09,659 --> 00:21:09,859
+Voilà.
+
+426
+00:21:10,559 --> 00:21:12,559
+Et le mode de financement de l'achat.
+
+427
+00:21:12,579 --> 00:21:19,279
+Alors, précédemment pour les vendeurs, on avait ici l'origine de propriété, comment sont-ils devenus propriétaires ?
+
+428
+00:21:19,279 --> 00:21:22,379
+Ici, il s'agit du mode de financement prévu de l'achat.
+
+429
+00:21:22,779 --> 00:21:24,379
+Comment allez-vous financer, monsieur ?
+
+430
+00:21:24,379 --> 00:21:27,919
+Alors, compte en fonds propres, c'est-à-dire il paye tout cash.
+
+431
+00:21:28,779 --> 00:21:32,199
+Enfin, quand on dit cash, ce n'est pas en liquide, il paye comptant, il paye d'un coup.
+
+432
+00:21:32,799 --> 00:21:36,740
+Est-ce que c'est un apport personnel plus prêt immobilier ? C'est l'immense majorité des cas.
+
+433
+00:21:37,439 --> 00:21:39,779
+Est-ce que c'est un prêt immobilier sans apport du tout ?
+
+434
+00:21:39,779 --> 00:21:42,220
+Ça existe, on appelle ça des prêts à 100%, 110%.
+
+435
+00:21:42,220 --> 00:21:45,720
+Pré-relais, vente préalable, financement ou autre.
+
+436
+00:21:45,839 --> 00:21:47,440
+Là encore, il peut y avoir autre chose.
+
+437
+00:21:48,000 --> 00:21:49,319
+Auquel cas, vous le renseignez.
+
+438
+00:21:49,779 --> 00:21:53,180
+Et puis, on va dire que lui, c'est un compte en fonds propre.
+
+439
+00:21:53,279 --> 00:21:54,299
+Il a beaucoup de sous, Charles Branson.
+
+440
+00:21:55,420 --> 00:21:57,279
+Et puis, John Wayne, c'est pareil.
+
+441
+00:21:57,420 --> 00:22:01,039
+Il est également acteur de cinéma.
+
+442
+00:22:03,160 --> 00:22:04,579
+Mode de financement de l'achat.
+
+443
+00:22:04,740 --> 00:22:09,019
+On va dire que lui, il a d'abord préalablement vendu
+
+444
+00:22:09,019 --> 00:22:11,900
+ou il est en train de vendre un autre bien immobilier.
+
+445
+00:22:12,220 --> 00:22:30,600
+M. John Wayne, il est né le 11 décembre 1939. Il est de nationalité américaine aussi. Il y a tous les pays du monde ici, donc vous trouverez forcément le bon. Et on va dire qu'il est également résident fiscal américain.
+
+446
+00:22:30,599 --> 00:22:33,759
+alors peut-être l'un d'entre vous lèvera le doigt
+
+447
+00:22:33,759 --> 00:22:35,519
+chez lui en disant non non il n'était pas américain en fait
+
+448
+00:22:35,519 --> 00:22:37,159
+il était irlandais ou je ne sais pas quoi
+
+449
+00:22:37,159 --> 00:22:39,359
+peut-être après tout je ne sais pas
+
+450
+00:22:39,359 --> 00:22:41,939
+je ne trouve plus mes Etats-Unis
+
+451
+00:22:41,939 --> 00:22:43,619
+ah ils sont là, voilà, Etats-Unis
+
+452
+00:22:43,619 --> 00:22:45,759
+et puis là encore je certifie avoir
+
+453
+00:22:45,759 --> 00:22:47,819
+saisi des informations exactes
+
+454
+00:22:47,819 --> 00:22:49,379
+et je les valide
+
+455
+00:22:49,379 --> 00:22:51,819
+information track fin acquéreur enregistré
+
+456
+00:22:51,819 --> 00:22:53,959
+tous les acquéreurs de cette offre sont au vert
+
+457
+00:22:53,959 --> 00:22:54,339
+ok
+
+458
+00:22:54,339 --> 00:22:57,679
+et ça en fait je dois l'avoir
+
+459
+00:22:57,679 --> 00:23:00,099
+pour tous mes acquéreurs qui ont fait une offre
+
+460
+00:23:00,099 --> 00:23:06,039
+pas seulement les acquéreurs qui vont acheter et qui vont signer un compromis.
+
+461
+00:23:06,980 --> 00:23:11,219
+Ça veut dire que vous avez peut-être, probablement, des mandats aujourd'hui
+
+462
+00:23:11,219 --> 00:23:15,740
+pour lesquels vos acquéreurs qui ont fait une offre,
+
+463
+00:23:15,799 --> 00:23:17,839
+un acquéreur qui est simplement venu visiter,
+
+464
+00:23:18,740 --> 00:23:21,179
+nous ne mettons rien pour lui, nous ne mettons rien.
+
+465
+00:23:21,179 --> 00:23:25,199
+Par contre, un acquéreur qui a fait une offre,
+
+466
+00:23:25,419 --> 00:23:28,939
+nous devons compléter ces informations, c'est indispensable.
+
+467
+00:23:28,940 --> 00:23:40,519
+C'est la loi qui l'impose. De même que vous devez collecter pour ces acquéreurs pièces d'identité justificatives de domicile, exactement comme pour les vendeurs.
+
+468
+00:23:41,340 --> 00:23:53,920
+Donc, ceux d'entre vous qui auraient aujourd'hui des mandats en cours pour lesquels les vendeurs ne seraient pas renseignés concernant les informations de traque fin, allez le faire.
+
+469
+00:23:53,920 --> 00:23:55,400
+c'est très important, c'est la loi.
+
+470
+00:23:56,100 --> 00:23:58,259
+Pour ceux d'entre vous qui auraient des acquéreurs
+
+471
+00:23:58,259 --> 00:23:59,740
+qui ont fait une offre,
+
+472
+00:24:00,000 --> 00:24:01,980
+surtout s'ils sont passés en compromis
+
+473
+00:24:01,980 --> 00:24:03,360
+ou s'ils vont passer en compromis,
+
+474
+00:24:04,160 --> 00:24:05,620
+allez tout de suite les compléter,
+
+475
+00:24:06,080 --> 00:24:08,380
+c'est très important, c'est la loi.
+
+476
+00:24:09,060 --> 00:24:09,920
+OK ?
+
+477
+00:24:10,460 --> 00:24:12,700
+Bien entendu, si vous avez une difficulté,
+
+478
+00:24:12,800 --> 00:24:14,620
+si vous avez une question, s'il y a quoi que ce soit,
+
+479
+00:24:14,779 --> 00:24:17,460
+vous demandez à l'animation de vous aider.
+
+480
+00:24:18,019 --> 00:24:18,840
+Bien sûr.
+
+481
+00:24:20,120 --> 00:24:22,060
+Dernière petite chose que nous allons voir
+
+482
+00:24:22,059 --> 00:24:27,480
+concernant les fonctionnalités directement intégrées à Eglantine,
+
+483
+00:24:28,119 --> 00:24:31,480
+on en a parlé déjà, signaler une alerte LCB FT TRACFIN.
+
+484
+00:24:31,960 --> 00:24:34,740
+Si vous avez un quelconque doute,
+
+485
+00:24:35,000 --> 00:24:36,980
+alors quels sont les doutes,
+
+486
+00:24:37,079 --> 00:24:39,839
+quelles sont les informations qui doivent vous mettre la puce à l'oreille,
+
+487
+00:24:40,240 --> 00:24:41,519
+on en a parlé maintes fois
+
+488
+00:24:41,519 --> 00:24:45,799
+et nous allons refaire une nouvelle visio là-dessus.
+
+489
+00:24:46,440 --> 00:24:49,299
+Et d'ailleurs, on est en train de refaire de nouvelles versions
+
+490
+00:24:49,299 --> 00:24:51,799
+de la documentation directement disponible pour vous
+
+491
+00:24:51,799 --> 00:24:54,480
+qu'on va vous envoyer encore par e-mail
+
+492
+00:24:54,480 --> 00:24:57,180
+et que nous allons mettre également dans l'églantine
+
+493
+00:24:57,180 --> 00:25:00,259
+des petits vademecum qui vous permettront
+
+494
+00:25:00,259 --> 00:25:02,200
+enfin vademecum, il faut le mettre au pluriel
+
+495
+00:25:02,200 --> 00:25:06,200
+qui vous permettront de mieux savoir
+
+496
+00:25:06,200 --> 00:25:07,960
+quand et pourquoi signaler
+
+497
+00:25:07,960 --> 00:25:09,399
+si vous avez le moindre doute
+
+498
+00:25:09,399 --> 00:25:13,519
+et imaginons, je vous donne un exemple
+
+499
+00:25:13,519 --> 00:25:14,480
+tout simplement
+
+500
+00:25:14,480 --> 00:25:16,980
+vous avez un client
+
+501
+00:25:16,980 --> 00:25:18,899
+dont vous détectez que c'est une personnalité
+
+502
+00:25:18,899 --> 00:25:20,579
+politiquement exposée
+
+503
+00:25:20,579 --> 00:25:27,339
+qui fait un financement qui proviendrait d'un pays, par exemple, un pays en guerre.
+
+504
+00:25:28,559 --> 00:25:31,339
+Le financement de son acquisition provient d'un pays en guerre.
+
+505
+00:25:31,439 --> 00:25:32,779
+Cette personne est politiquement exposée.
+
+506
+00:25:32,879 --> 00:25:37,480
+Vous devez vous dire, ça, ça mérite quand même qu'on s'y attarde.
+
+507
+00:25:38,199 --> 00:25:41,359
+Et bien, tout simplement, vous cliquez sur le bouton signaler une alerte LCB track fin.
+
+508
+00:25:42,740 --> 00:25:45,259
+Ici, vous avez quelques petites informations.
+
+509
+00:25:45,259 --> 00:25:49,220
+on vous donne des détails
+
+510
+00:25:49,220 --> 00:25:50,619
+confidentialité absolue
+
+511
+00:25:50,619 --> 00:25:53,279
+personne ne saura que vous faites ce signalement
+
+512
+00:25:53,279 --> 00:25:55,799
+et vous avez interdit
+
+513
+00:25:55,799 --> 00:26:00,099
+interdiction absolue de le dire à quiconque
+
+514
+00:26:00,099 --> 00:26:03,099
+ni au notaire, ni au client, ni au vendeur
+
+515
+00:26:03,099 --> 00:26:05,640
+ni à l'acquéreur, vous devez garder une confidentialité
+
+516
+00:26:05,640 --> 00:26:07,420
+totale
+
+517
+00:26:07,420 --> 00:26:10,700
+ici vous affichez les informations du dossier concerné
+
+518
+00:26:10,700 --> 00:26:14,160
+sur les informations que nous avons pour l'instant concernant le mandat
+
+519
+00:26:14,160 --> 00:26:17,320
+Vous confirmez avoir compris cette obligation
+
+520
+00:26:17,320 --> 00:26:19,240
+Sinon je ne peux pas poursuivre vers le formulaire
+
+521
+00:26:19,240 --> 00:26:22,080
+Je confirme que j'ai bien compris
+
+522
+00:26:22,080 --> 00:26:25,600
+Toutes ces informations de confidentialité absolue
+
+523
+00:26:25,600 --> 00:26:27,920
+Ce n'est pas une recommandation
+
+524
+00:26:27,920 --> 00:26:30,680
+C'est une obligation d'ordre légal
+
+525
+00:26:30,680 --> 00:26:33,920
+Et je poursuis vers le formulaire sécurisé
+
+526
+00:26:33,920 --> 00:26:36,620
+Ça on en a déjà parlé
+
+527
+00:26:36,620 --> 00:26:38,800
+On y reviendra à nouveau
+
+528
+00:26:38,800 --> 00:26:42,420
+Nous en sommes à la version 4
+
+529
+00:26:42,420 --> 00:26:44,519
+vous le voyez qui date du 23
+
+530
+00:26:44,519 --> 00:26:45,920
+juin 2026
+
+531
+00:26:45,920 --> 00:26:48,060
+donc elle est toute récente cette version 4
+
+532
+00:26:48,060 --> 00:26:50,440
+et bien vous remplissez tout simplement
+
+533
+00:26:50,440 --> 00:26:52,600
+vous essayez de coller au plus
+
+534
+00:26:52,600 --> 00:26:54,440
+près, si vous tombez face à une question
+
+535
+00:26:54,440 --> 00:26:56,640
+à laquelle vous ne savez pas véritablement répondre
+
+536
+00:26:56,640 --> 00:27:00,480
+soit vous demandez à l'animation et vous
+
+537
+00:27:00,480 --> 00:27:02,440
+serez rappelé en toute confidentialité
+
+538
+00:27:02,440 --> 00:27:04,300
+non pas par l'animation
+
+539
+00:27:04,300 --> 00:27:05,940
+vous ne serez pas rappelé par l'animation
+
+540
+00:27:05,940 --> 00:27:08,800
+vous serez rappelé spécifiquement par le délégué
+
+541
+00:27:08,800 --> 00:27:09,220
+track fin
+
+542
+00:27:09,220 --> 00:27:12,259
+vous essayez
+
+543
+00:27:12,259 --> 00:27:13,740
+de coller le plus à la réalité
+
+544
+00:27:13,740 --> 00:27:16,019
+vous donnez le plus de détails possible
+
+545
+00:27:16,019 --> 00:27:17,579
+et à la fin quand vous avez tout coché
+
+546
+00:27:17,579 --> 00:27:19,019
+c'est pas compliqué
+
+547
+00:27:19,019 --> 00:27:21,360
+ça semble un peu long
+
+548
+00:27:21,360 --> 00:27:24,319
+mais vous voyez le comportement est insolite
+
+549
+00:27:24,319 --> 00:27:25,980
+le client est évasif
+
+550
+00:27:25,980 --> 00:27:27,180
+il ne veut pas répondre aux questions
+
+551
+00:27:27,180 --> 00:27:29,000
+les réponses ne sont pas toujours les mêmes
+
+552
+00:27:29,000 --> 00:27:30,680
+il ne veut pas donner d'informations
+
+553
+00:27:30,680 --> 00:27:33,420
+vous répondez à tout ça et à la fin vous faites
+
+554
+00:27:33,420 --> 00:27:36,100
+les confirmations
+
+555
+00:27:36,100 --> 00:27:37,960
+je confirme
+
+556
+00:27:37,960 --> 00:27:40,000
+transmettre cette alerte au siège. Je confirme
+
+557
+00:27:40,000 --> 00:27:41,900
+que les informations correspondent au fait que j'ai
+
+558
+00:27:41,900 --> 00:27:43,900
+constaté. Je n'ai rien inventé,
+
+559
+00:27:44,100 --> 00:27:46,079
+je n'ai rien amplifié, je n'ai rien truqué.
+
+560
+00:27:46,720 --> 00:27:47,920
+Je comprends que cette fiche n'est
+
+561
+00:27:47,920 --> 00:27:49,740
+pas une déclaration track fin. Non.
+
+562
+00:27:50,039 --> 00:27:51,779
+Vous faites simplement remonter les informations
+
+563
+00:27:51,779 --> 00:27:52,700
+au siège.
+
+564
+00:27:54,140 --> 00:27:55,980
+Et je m'engage à ne pas informer le
+
+565
+00:27:55,980 --> 00:27:57,920
+client, les parties, un tiers, personne
+
+566
+00:27:57,920 --> 00:28:00,019
+de cette alerte. Et à la fin, vous pouvez
+
+567
+00:28:00,019 --> 00:28:01,120
+faire transmettre l'alerte.
+
+568
+00:28:01,860 --> 00:28:03,779
+Là, je ne le fais pas parce qu'il faudrait tout remplir, etc.
+
+569
+00:28:04,079 --> 00:28:05,980
+D'accord ?
+
+570
+00:28:07,420 --> 00:28:07,720
+Et là,
+
+571
+00:28:07,960 --> 00:28:09,880
+vous avez fait ce qu'il fallait.
+
+572
+00:28:10,759 --> 00:28:12,180
+Alors, bien entendu, on reviendra
+
+573
+00:28:12,180 --> 00:28:14,019
+sur tout ça. On y reviendra
+
+574
+00:28:14,019 --> 00:28:15,420
+amplement.
+
+575
+00:28:18,079 --> 00:28:20,120
+Dernière petite chose avant de
+
+576
+00:28:20,120 --> 00:28:21,120
+clore cette
+
+577
+00:28:21,120 --> 00:28:22,840
+petite vidéo.
+
+578
+00:28:23,940 --> 00:28:26,539
+Je vous demande, s'il vous plaît, d'avoir la gentillesse
+
+579
+00:28:26,539 --> 00:28:28,000
+de bien vouloir compléter
+
+580
+00:28:28,000 --> 00:28:30,380
+toutes les fiches de vos mandats en cours.
+
+581
+00:28:31,180 --> 00:28:32,240
+Vos mandats en cours,
+
+582
+00:28:32,360 --> 00:28:34,279
+c'est quoi ? Ce sont les mandats
+
+583
+00:28:34,279 --> 00:28:35,480
+qui sont en cours de diffusion,
+
+584
+00:28:35,480 --> 00:28:38,599
+pour lesquelles vous recherchez un acquéreur,
+
+585
+00:28:39,400 --> 00:28:40,700
+allez remplir s'il vous plaît
+
+586
+00:28:40,700 --> 00:28:42,460
+les informations
+
+587
+00:28:42,460 --> 00:28:44,519
+de tous les vendeurs que vous n'auriez
+
+588
+00:28:44,519 --> 00:28:46,079
+pas encore remplis.
+
+589
+00:28:46,980 --> 00:28:47,460
+Premièrement,
+
+590
+00:28:48,440 --> 00:28:50,240
+allez remplir les informations
+
+591
+00:28:50,240 --> 00:28:52,519
+de tous les acquéreurs qui ont fait une offre
+
+592
+00:28:52,519 --> 00:28:54,339
+même si cette offre n'est allée nulle part
+
+593
+00:28:54,339 --> 00:28:56,559
+que vous n'auriez pas encore remplie.
+
+594
+00:28:57,860 --> 00:28:58,380
+Deuxièmement,
+
+595
+00:28:59,880 --> 00:29:00,779
+vos mandats en cours
+
+596
+00:29:00,779 --> 00:29:01,799
+ce sont également
+
+597
+00:29:01,799 --> 00:29:04,019
+vos produits
+
+598
+00:29:04,019 --> 00:29:05,680
+qui ne sont plus diffusées
+
+599
+00:29:05,680 --> 00:29:06,920
+à la recherche d'un acquéreur
+
+600
+00:29:06,920 --> 00:29:09,879
+mais qui ont fait l'objet d'une vente
+
+601
+00:29:09,879 --> 00:29:12,180
+acte authentique
+
+602
+00:29:12,180 --> 00:29:13,900
+ou
+
+603
+00:29:13,900 --> 00:29:15,379
+compromis de vente
+
+604
+00:29:15,379 --> 00:29:17,619
+signé en 2026
+
+605
+00:29:17,619 --> 00:29:18,859
+alors
+
+606
+00:29:18,859 --> 00:29:21,379
+c'est vrai
+
+607
+00:29:21,379 --> 00:29:23,359
+on ne fait pas 15 ventes par mois
+
+608
+00:29:23,359 --> 00:29:24,819
+donc ça ne va pas nous prendre des années
+
+609
+00:29:24,819 --> 00:29:27,279
+oui ça ne va pas vous prendre des années, il suffit de s'y mettre
+
+610
+00:29:27,279 --> 00:29:28,220
+ça prend une bonne heure
+
+611
+00:29:28,220 --> 00:29:31,599
+ce que je vous demande c'est de le faire avant le 1er août
+
+612
+00:29:31,599 --> 00:29:33,180
+c'est important
+
+613
+00:29:33,180 --> 00:29:34,320
+c'est important
+
+614
+00:29:34,320 --> 00:29:35,980
+au 1er août
+
+615
+00:29:35,980 --> 00:29:37,400
+les fiches
+
+616
+00:29:37,400 --> 00:29:38,680
+qui ne seraient pas complétées
+
+617
+00:29:38,680 --> 00:29:39,580
+on serait obligé
+
+618
+00:29:39,580 --> 00:29:40,120
+de les couper
+
+619
+00:29:40,120 --> 00:29:41,240
+alors de les couper
+
+620
+00:29:41,240 --> 00:29:42,380
+jusqu'à ce que vous les complétiez
+
+621
+00:29:42,380 --> 00:29:43,500
+il ne s'agit pas de les purger
+
+622
+00:29:43,500 --> 00:29:44,200
+elles n'existent plus
+
+623
+00:29:44,200 --> 00:29:44,880
+elles disparaissent
+
+624
+00:29:44,880 --> 00:29:45,840
+pas du tout
+
+625
+00:29:45,840 --> 00:29:46,660
+mais
+
+626
+00:29:46,660 --> 00:29:49,000
+les fiches doivent être complétées
+
+627
+00:29:49,000 --> 00:29:49,580
+vous voyez
+
+628
+00:29:49,580 --> 00:29:50,440
+ça va vite
+
+629
+00:29:50,440 --> 00:29:51,320
+je clique ici
+
+630
+00:29:51,320 --> 00:29:53,259
+je mets la profession
+
+631
+00:29:53,259 --> 00:29:55,000
+l'origine de propriété
+
+632
+00:29:55,000 --> 00:29:56,259
+la date de naissance
+
+633
+00:29:56,259 --> 00:29:57,160
+la nationalité
+
+634
+00:29:57,160 --> 00:29:58,420
+le pays de résidence fiscale
+
+635
+00:29:58,420 --> 00:30:00,420
+c'est pas compliqué
+
+636
+00:30:00,420 --> 00:30:01,380
+ça va vite en fait
+
+637
+00:30:01,380 --> 00:30:03,120
+ça prend quelques secondes
+
+638
+00:30:03,180 --> 00:30:05,400
+faites-le s'il vous plaît, vraiment
+
+639
+00:30:05,400 --> 00:30:07,019
+on en a absolument besoin
+
+640
+00:30:07,019 --> 00:30:09,759
+on en a besoin, nous la Lucarne
+
+641
+00:30:09,759 --> 00:30:11,320
+mais vous également, je vous le répète
+
+642
+00:30:11,320 --> 00:30:13,539
+ce sont des obligations qui pèsent sur nous
+
+643
+00:30:13,539 --> 00:30:15,279
+qui pèsent sur vous, en fait
+
+644
+00:30:15,279 --> 00:30:17,320
+je ne suis pas en train de vous demander un service en disant
+
+645
+00:30:17,320 --> 00:30:19,900
+s'il vous plaît, faites notre boulot à notre place
+
+646
+00:30:19,900 --> 00:30:22,240
+ah non, faisons ce travail
+
+647
+00:30:22,240 --> 00:30:23,140
+ensemble
+
+648
+00:30:23,140 --> 00:30:26,320
+parce que nous sommes soumis aux mêmes obligations
+
+649
+00:30:26,320 --> 00:30:27,840
+c'est vraiment très important
+
+650
+00:30:27,840 --> 00:30:28,920
+donc
+
+651
+00:30:28,920 --> 00:30:31,700
+je vous le demande, allez compléter
+
+652
+00:30:31,700 --> 00:30:34,140
+toutes vos fiches de mandat en cours de diffusion
+
+653
+00:30:34,140 --> 00:30:36,000
+ou de mandat qui ont fait
+
+654
+00:30:36,000 --> 00:30:38,299
+l'objet d'un compromis ou d'un acte authentique
+
+655
+00:30:38,299 --> 00:30:40,279
+en 2026.
+
+656
+00:30:40,400 --> 00:30:41,840
+Alors vous allez dire, si j'ai eu un acte authentique
+
+657
+00:30:41,840 --> 00:30:43,580
+en 2026, par exemple, mi-janvier
+
+658
+00:30:43,580 --> 00:30:46,240
+et que le compromis datait de 2025,
+
+659
+00:30:46,500 --> 00:30:48,200
+par exemple, mi-novembre, dois-je compléter
+
+660
+00:30:48,200 --> 00:30:48,960
+tout ça ? Oui.
+
+661
+00:30:50,420 --> 00:30:51,779
+Absolument, vous devez le compléter.
+
+662
+00:30:52,880 --> 00:30:54,160
+Compromis, acte authentique
+
+663
+00:30:54,160 --> 00:30:55,920
+en 2026, les fiches
+
+664
+00:30:55,920 --> 00:30:57,840
+doivent être complétées. Mandat
+
+665
+00:30:57,840 --> 00:31:00,059
+en cours de diffusion, en cours de recherche
+
+666
+00:31:00,059 --> 00:31:02,619
+d'acquireurs doivent être complétés.
+
+667
+00:31:02,740 --> 00:31:04,659
+Pour ce qui est des informations vendeurs,
+
+668
+00:31:05,039 --> 00:31:06,679
+de même que pour les informations
+
+669
+00:31:06,679 --> 00:31:08,859
+de toutes les personnes qui ont fait une offre,
+
+670
+00:31:09,299 --> 00:31:10,919
+même si cette offre finalement
+
+671
+00:31:10,919 --> 00:31:11,799
+n'est allée nulle part.
+
+672
+00:31:12,399 --> 00:31:14,279
+Bien entendu, si vous avez un doute,
+
+673
+00:31:15,119 --> 00:31:16,419
+si vous avez une difficulté,
+
+674
+00:31:16,559 --> 00:31:18,240
+si vous avez une question, non seulement
+
+675
+00:31:18,240 --> 00:31:20,700
+nous allons revoir ça dans beaucoup de documentations
+
+676
+00:31:20,700 --> 00:31:22,679
+et beaucoup de visioconférences
+
+677
+00:31:22,679 --> 00:31:24,119
+comme nous l'avons déjà fait dans le passé,
+
+678
+00:31:24,379 --> 00:31:26,179
+mais surtout vous savez que l'animation
+
+679
+00:31:26,179 --> 00:31:28,539
+est à votre disposition pour vous aider,
+
+680
+00:31:28,539 --> 00:31:30,319
+Vous assister, répondre à toutes vos questions
+
+681
+00:31:30,319 --> 00:31:31,159
+Vos interrogations
+
+682
+00:31:31,159 --> 00:31:33,480
+Donc vous n'hésitez pas
+
+683
+00:31:33,480 --> 00:31:36,440
+On est à votre disposition
+
+684
+00:31:36,440 --> 00:31:37,659
+De toute manière pendant tout l'été
+
+685
+00:31:37,659 --> 00:31:39,440
+Vous savez, nous ne prenons pas de vacances
+
+686
+00:31:39,440 --> 00:31:42,019
+On est là, on vous assiste, on vous accompagne
+
+687
+00:31:42,019 --> 00:31:44,379
+On vous aide, tenez bon sur la rentrée de mandat
+
+688
+00:31:44,379 --> 00:31:46,259
+Surtout il ne faut absolument pas baisser
+
+689
+00:31:46,259 --> 00:31:47,680
+La garde là-dessus
+
+690
+00:31:47,680 --> 00:31:50,259
+Et puis ces obligations track fin
+
+691
+00:31:50,259 --> 00:31:51,879
+Qui nous semblent bien lourdes
+
+692
+00:31:51,879 --> 00:31:52,940
+Bien pénibles
+
+693
+00:31:52,940 --> 00:31:55,000
+Une fois qu'on a pris le pli
+
+694
+00:31:55,000 --> 00:31:57,599
+C'est relativement rapide, ça va assez tout seul
+
+695
+00:31:57,599 --> 00:31:59,699
+vraiment, vraiment, vraiment, vraiment, il suffit
+
+696
+00:31:59,699 --> 00:32:01,619
+d'être rigoureux tout le temps un petit peu
+
+697
+00:32:01,619 --> 00:32:03,859
+et puis ça se passe très bien
+
+698
+00:32:03,859 --> 00:32:06,000
+merci à tous, merci à toutes
+
+699
+00:32:06,000 --> 00:32:06,779
+à très bientôt
+
